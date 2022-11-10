@@ -8,6 +8,6 @@ class MiscellaneousController extends Controller
 {
     public function index()
     {
-        return response();
+        return response('ok');
     }
 }
