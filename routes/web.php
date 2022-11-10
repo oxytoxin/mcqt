@@ -24,7 +24,7 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', [MiscellaneousController::class, 'index'])->name('categories.index');
+Route::get('/', [MiscellaneousController::class, 'index']);
 
 Route::middleware('guest')->group(function () {
     Route::get('login', Login::class)
