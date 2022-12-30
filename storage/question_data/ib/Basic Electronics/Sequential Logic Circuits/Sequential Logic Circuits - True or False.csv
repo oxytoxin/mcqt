@@ -1,0 +1,12 @@
+question,A,B,C,D,E,answer,explanation
+"<p>The serial-in, parallel-out shift register transfers data from one parallel data bus to another parallel data bus one bit at a time across a single line.</p>",True,False,,,,B,
+"<p>A serial-in, serial-out shift register transfers data from one line of a parallel bus to another line one bit at a time.</p>",True,False,,,,B,
+<p>A ripple counter is an asynchronous counter.</p>,True,False,,,,A,
+<p>Counters are common components in digital clocks.</p>,True,False,,,,A,
+"<p>In an asynchronous counter, each state is clocked by the same pulse.</p>",True,False,,,,B,
+<p>An asynchronous counter differs from a synchronous counter in the method of clocking.</p>,True,False,,,,A,
+<p>A multiplexed display circuit uses a technique called time division modulation.</p>,True,False,,,,B,
+<p>An asynchronous decade counter increases its value by ten for each clock pulse.</p>,True,False,,,,B,
+"<p>A parallel-in, serial-out shift register enters all data bits simultaneously and transfers them out one bit at a time.</p>",True,False,,,,A,
+<p>The modulus (mod) of a counter is the same as its maximum count (N).</p>,True,False,,,,A,
+<p>Asynchronous inputs will cause the flip-flop to respond immediately with regard to the clock input.</p>,True,False,,,,B,

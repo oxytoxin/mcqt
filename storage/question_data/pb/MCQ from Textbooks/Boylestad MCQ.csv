@@ -1,0 +1,812 @@
+﻿question,choices,answer
+"log<sub>e</sub>a = _______ log<sub>10</sub>a","[""2.3"",""2.718"",""e"",""1.414""]",0
+"By what factor does an audio level change if the power level changes from 4 W to 4096 W?","[""2"",""4"",""6"",""8""]",2
+"The input power to a device is 10,000 W at 1000 V. The output power is 500 W, and the output impedance is 100 Ω. Find the voltage gain in decibels.","[""\u201330.01 dB"",""\u201320.0 dB"",""\u201313.01 dB"",""\u20133.01 dB""]",2
+"What magnitude voltage gain corresponds to a decibel gain of 50?","[""31.6238"",""316.228"",""3162.38"",""31623.8""]",1
+"An amplifier rated at 30-W output is connected to a 5-Ω speaker. Calculate the input power required for full power output if the power gain is 20 dB.","[""3 mW"",""30 mW"",""300 mW"",""3 W""]",2
+"An amplifier rated at 30-W output is connected to a 5-Ω speaker. Calculate the input voltage for the rated output if the amplifier voltage gain is 20 dB.","[""1.225 mV"",""12.25 mV"",""122.5 mV"",""1.225 V""]",3
+"For audio systems, the reference level is generally accepted as","[""1 mW"",""1 W"",""10 mW"",""100 mW""]",0
+"For which of the following frequency region(s) can the coupling and bypass capacitors no longer be replaced by the short-circuit approximation?","[""Low-frequency"",""Mid-frequency"",""High-frequency"",""All of the above""]",0
+"By what other name(s) are the cut-off frequencies in a frequency response plot called?","[""Corner frequency"",""Break frequency"",""Half-power frequency"",""All of the above""]",3
+"What is the ratio of the output power to the input power at the cut-off frequencies in a normalized frequency response plot?","[""0.25"",""0.50"",""0.707"",""1""]",1
+"What is the ratio of the output voltage to the input voltage at the cut-off frequencies in a normalized frequency response plot?","[""0.25"",""0.50"",""0.707"",""1""]",2
+"What is the normalized gain expressed in dB for the cut-off frequencies?","[""\u20133 dB"",""+3 dB"",""\u20136 dB"",""\u201320 dB""]",0
+"The ________-frequency response of a transformer-coupled system is calculated primarily by the stray capacitance between the turns of the primary and secondary windings.","[""Low"",""Mid"",""High"",""any of the above""]",2
+"The smaller capacitive elements of the design will determine the ________ cut-off frequencies.","[""Low"",""Mid"",""High"",""any of the above""]",2
+"What is the ratio of the capacitive reactance X<sub>CS</sub> to the input resistance RI of the input RC circuit of a single-stage BJT amplifier at the low-frequency cut-off?","[""0.25"",""0.50"",""0.75"",""1.0""]",3
+"In the input RC circuit of a single-stage BJT, by how much does the base voltage lead the input voltage for frequencies much larger than the cut-off frequency in the low-frequency region?","[""About 0\u00b0"",""45\u00b0"",""About 90\u00b0"",""None of the above""]",0
+"In the input RC circuit of a single-stage BJT, by how much does the base voltage lead the input voltage at the cut-off frequency in the low-frequency region?","[""About 0\u00b0"",""45\u00b0"",""About 90\u00b0"",""None of the above""]",1
+"A change in frequency by a factor of ________ is equivalent to 1 octave.","[""2"",""10"",""5"",""20""]",0
+"A change in frequency by a factor of ________ is equivalent to 1 decade.","[""2"",""10"",""5"",""20""]",1
+"For the low-frequency response of a BJT amplifier, the maximum gain is where ________ .","[""RB = 0 \u2126"",""RC = 0 \u2126"",""RE = 0 \u2126"",""none of the above""]",2
+"Which of the low-frequency cutoffs determined by CS, CC, or CE will be the predominant factor in determining the low-frequency response for the complete system?","[""Lowest"",""Middle"",""Highest"",""None of the above""]",2
+"Which of the following elements is (are) important in determining the gain of the system in the high-frequency region?","[""Interelectrode capacitances"",""Wiring capacitances"",""Miller effect capacitance"",""All of the above""]",3
+"In the ________-frequency region, the capacitive elements of importance are the interelectrode (between terminals) capacitances internal to the active device and the wiring capacitance between the leads of the network.","[""Low"",""Mid"",""High"",""any of the above""]",1
+"Which of the following capacitors is (are) included in Ci for the high-frequency region of a BJT or FET amplifier?","[""Input wiring capacitance C<sub>wi<\/sub>"",""The transition capacitance (Cbe\/Cqs)"",""Miller capacitance C<sub>mi<\/sub>"",""All of the above""]",3
+"In the hybrid π or Giacoletto model, which one of the following does rb include?","[""Base spreading resistance"",""Base contact"",""Base bulk"",""All of the above""]",3
+"Which of the following configurations does (do) not involve the Miller effect capacitance?","[""Common-emitter"",""Common-base"",""Common-collector"",""All of the above""]",1
+"A 3-dB drop in hfe will occur at a frequency defined by ________.","[""f<sub>\u221e<\/sub>"",""f<sub>\u03b2<\/sub>"",""1"",""2""]",1
+"What is the range of the capacitors Cgs and Cgd?","[""1 to 10 pF"",""1 to 10 nF"",""1 to 10 F"",""1 to 10 F""]",0
+"What is the range of the capacitor Cds?","[""0.01 to 0.1 pF"",""0.1 to 1 pF"",""0.1 to 1 nF"",""0.1 to 1 F""]",1
+"Which of the following statements is true for a square-wave signal?","[""It is composed of both even and odd harmonics."",""It is composed only of odd harmonics."",""It is composed only of even harmonics."",""The harmonics waveforms are also square waves.""]",1
+"Logarithms taken to the base _____ are referred to as common logarithms, while logarithms taken to the base _____ are referred to as natural logarithms.","[""10, e"",""e, 10"",""5, e"",""10, 5""]",0
+"The logarithm of a number _______ than 1 is always _______.","[""greater, negative"",""less, positive"",""less, negative"",""None of the above""]",2
+"The decibel (dB) is defined such that _____ decibel(s) = _____ bel(s).","[""1, 10"",""10, 1"",""1, 1"",""10, 10""]",1
+"The resistance associated with the 1-mW power level is ______ , chosen because it is the characteristic impedance of audio transmission lines.","[""100"",""250"",""400"",""600""]",3
+"The decibel gain of a cascaded system is the _______ of the decibel gains of each stage.","[""sum"",""difference"",""product"",""quotient""]",0
+"Voltage gains of _______ dB or higher should immediately be recognized as being quite high.","[""3"",""6"",""20"",""50""]",3
+"For the RC-coupled amplifier, the drop in gain at low frequencies is due to the increasing reactance of _______.","[""CC"",""Cs"",""CE"",""All of the above""]",3
+"To fix the frequency boundaries of relatively high gain, _______ was chosen to be the gain at the cut-off levels.","[""0.5Av mid"",""0.707Av mid"",""Av low"",""0.5Av high""]",1
+"In the input RC circuit of a single-stage BJT or FET amplifier, as the frequency _______, the capacitive reactance _______ and _______ of the input voltage appears across the output terminals.","[""increases, decreases, more"",""increases, decreases, less"",""increases, increases, more"",""decreases, decreases, less""]",0
+"A change in frequency by a factor of 2 results in a _______ change in the ratio of the normalized gain.","[""3-dB"",""6-dB"",""10-dB"",""20-dB""]",1
+"A change in frequency by a factor of 10 results in a _______ change in the ratio of the normalized gain.","[""3-dB"",""6-dB"",""10-dB"",""20-dB""]",3
+"In the low-frequency region, the _______ low-frequency cut-off determined by CS, CC, or CE will have the greatest impact on the network.","[""highest"",""average"",""lowest"",""None of the above""]",0
+"The ________ region produces the maximum voltage gain in a single-stage BJT or FET amplifier.","[""low-frequency"",""mid-frequency"",""high-frequency"",""None of the above""]",1
+"For any inverting amplifier, the impedance capacitance will be _______ by a Miller effect capacitance sensitive to the gain of the amplifier and the interelectrode capacitance.","[""unaffected"",""increased"",""decreased"",""None of the above""]",2
+"The Miller effect is meaningful in the _______ amplifier.","[""inverting"",""noninverting"",""inverting\/noninverting"",""None of the above""]",0
+"With a BJT amplifier in the high-frequency region, the capacitance Cbe is the _______ of the parasitic capacitances while Cce is the _______.","[""smallest, largest"",""largest, smallest"",""smallest, medium"",""None of the above""]",1
+"At very high frequencies, the effect of Ci is to ________ the total impedance of the parallel combination of R1, R2, R3, and Ci.","[""increase"",""maintain"",""decrease"",""None of the above""]",2
+"If the parasitic capacitors were the only elements to determine the high cut-off frequency, the _______ frequency would be the determining factor.","[""lowest"",""highest"",""lowest or highest"",""None of the above""]",0
+"The _______ configuration displays improved high-frequency characteristics over the _______ configuration.","[""common-collector, common-emitter"",""common-emitter, common-base"",""common-emitter, common-collector"",""common-base, common-emitter""]",3
+"The _______ of the upper cut-off frequencies defines a ________ possible bandwidth for a system.","[""highest, maximum"",""lowest, maximum"",""lowest, minimum"",""None of the above""]",1
+"f<sub>∞</sub> is _________ than f<sub>β</sub> in a common-base configuration.","[""significantly smaller"",""smaller"",""significantly greater"",""None of the above""]",2
+"For two identical stages in cascade, the drop-off rate in the high- and low-frequency regions has increased to _______ per decade.","[""\u20133 dB"",""\u20136 dB"",""\u201320 dB"",""\u201340 dB""]",3
+"The bandwidth ________ in a multistage amplifier compared to an identical single-stage amplifier.","[""increases"",""decreases"",""remains the same"",""None of the above""]",1
+"The ________ in the Fourier series has the same frequency as the square wave itself.","[""fundamental"",""third harmonic"",""fifth harmonic"",""seventh harmonic""]",0
+"The magnitude of the third harmonic is _______ of the magnitude of the fundamental.","[""1"",""0.5"",""0.33"",""0.25""]",2
+"What is the limit of the efficiency defined by = Po/Pi?","[""Greater than 1"",""Less than 1"",""Always 1"",""None of the above""]",1
+"Which of the following define(s) the conversion efficiency?","[""Ac power to the load\/ac input power"",""Ac power to the load\/dc power supplied"",""Dc output power\/ac input power"",""All of the above""]",1
+"Which of the following should be done to obtain the ac equivalent of a network?","[""Set all dc sources to zero"",""Replace all capacitors by a short-circuit equivalent."",""Remove all elements bypassed by the short-circuit equivalent."",""All of the above""]",3
+"The ______ model suffers from being limited to a particular set of operating conditions if it is to be considered accurate.","[""hybrid equivalent"",""re"",""\u03b2"",""Thevenin""]",0
+"The ______ model fails to account for the output impedance level of the device and the feedback effect from output to input.","[""hybrid equivalent"",""re"",""\u03b2"",""Thevenin""]",1
+"Which of the following is (are) true regarding the input impedance for frequencies in the midrange ≤ 100 kHz of a BJT transistor amplifier?","[""The input impedance is purely resistive."",""It varies from a few ohms to mega ohms."",""An ohmmeter cannot be used to measure the small-signal ac input impedance."",""All of the above""]",3
+"Which of the following is (are) true regarding the output impedance for frequencies in the midrange ≤ 100 kHz of a BJT transistor amplifier?","[""The output impedance is purely resistive."",""It varies from a few ohms to more than 2 M\u2126."",""An ohmmeter cannot be used to measure the small-signal ac output impedance."",""All of the above""]",3
+"What is the range of the current gain for BJT transistor amplifiers?","[""less than 1"",""1 to 100"",""above 100"",""All of the above""]",3
+"The input impedance of a BJT amplifier is purely ______ in nature and can vary from a few ______ to ______.","[""resistive, ohms, megohms"",""capacitive, microfarads, farads"",""inductive, millihenrys, henrys"",""None of the above""]",0
+"For BJT amplifiers, the _______ gain typically ranges from a level just less than 1 to a level that may exceed 1000.","[""voltage"",""current"",""impedance"",""All of the above""]",1
+"What is the unit of the parameter ho?","[""Volt"",""Ohm"",""Siemen"",""No unit""]",2
+"Which of the h-parameters corresponds to re in a common-base configuration?","[""hib"",""hfb"",""hrb"",""hob""]",0
+"What is the range of the input impedance of a common-base configuration?","[""A few ohms to a maximum of 50 \u2126"",""1 k\u2126 to 5 k\u2126"",""100 k\u2126 to 500 k\u2126"",""1 M\u2126 to 2 M\u2126""]",0
+"What is the typical value of the current gain of a common-base configuration?","[""Less than 1"",""Between 1 and 50"",""Between 100 and 200"",""Undefined""]",0
+"What is the controlling current in a common-base configuration?","[""Ie"",""Ic"",""Ib"",""None of the above""]",0
+"What is the typical range of the output impedance of a common-emitter configuration?","[""10 \u2126 to 100 \u2126"",""1 k\u2126 to 5 k\u2126"",""40 k\u2126 to 50 k\u2126"",""500 k\u2126 to 1 M\u2126""]",2
+"Under which of the following conditions is the output impedance of the network approximately equal to RC for a common-emitter fixed-bias configuration?","[""r<sub>o<\/sub> \u2265 10R<sub>C<\/sub>"",""r<sub>o<\/sub> &lt; 10R<sub>C<\/sub>"",""r<sub>e<\/sub> &lt; r<sub>o<\/sub>"",""r<sub>e<\/sub> &gt; r<sub>o<\/sub>""]",0
+"Under which of the following condition(s) is the current gain Av ≈ β?","[""ro \u2265 10RC"",""RB \u2265 10re"",""ro \u2265 10RC and RB \u2265 10re"",""None of the above""]",2
+"What does the negative sign in the voltage gain of the common-emitter fixed-bias configuration indicate?","[""The output and input voltages are 180\u00b0 out of phase."",""Gain is smaller than 1."",""Gain is larger than 1."",""None of the above""]",0
+"For the common-emitter fixed-bias configuration, there is a _____ phase shift between the input and output signals.","[""0\u00b0"",""45\u00b0"",""90\u00b0"",""180\u00b0""]",3
+"Which of the following configurations has an output impedance Zo equal to RC?","[""Fixed-bias common-emitter"",""Common-emitter voltage-divider with bypass capacitor"",""Common-emitter voltage-divider without bypass capacitor"",""All of the above""]",3
+"Which of the following configurations has a voltage gain of –RC /re?","[""Fixed-bias common-emitter"",""Common-emitter voltage-divider with bypass capacitor"",""Fixed-bias common-emitter and voltage-divider with bypass capacitor"",""Common-emitter voltage-divider without bypass capacitor""]",2
+"Which of the following configurations has the lowest output impedance?","[""Fixed-bias"",""Voltage-divider"",""Emitter-follower"",""None of the above""]",2
+"The ________ configuration is frequently used for impedance matching.","[""fixed-bias"",""voltage-divider bias"",""emitter-follower"",""collector feedback""]",2
+"The emitter-follower configuration has a ______ impedance at the input and a ______ impedance at the output.","[""low, low"",""low, high"",""high, low"",""high, high""]",2
+"Which of the following gains is less than 1 for a common-base configuration?","[""Ai"",""Av"",""Ap"",""None of the above""]",0
+"Which of the following conditions must be met to allow the use of the approximate approach in a voltage-divider bias configuration?","[""\u03b2re &gt; 10R<sub>2<\/sub>"",""\u03b2RE &gt; 10R<sub>2<\/sub>"",""\u03b2RE &lt; 10R<sub>2<\/sub>"",""\u03b2re &lt; 10R<sub>2<\/sub>""]",0
+"Which one of the following configurations has the lowest input impedance?","[""Fixed-bias"",""Common-base"",""Emitter-follower"",""Voltage-divider?""]",1
+"For the collector dc feedback configuration, there is a _____ phase shift between the input and output signals.","[""0\u00b0"",""45\u00b0"",""90\u00b0"",""180\u00b0""]",3
+"Which of the following represent(s) the advantage(s) of the system approach over the r-model approach?","[""Thevenin\u2019s theorem can be used."",""The effect of changing the load can be determined by a simple equation."",""There is no need to go back to the ac equivalent model and analyze the entire network."",""All of the above""]",3
+"There is no need to go back to the ac equivalent model and analyze the entire network.","[""All of the above"",""The loaded voltage gain of an amplifier is always more than the no-load level."",""True"",""False""]",1
+"Which of the following is (are) true to achieve a good overall voltage gain for the circuit?","[""The effect of Rs and RL must be considered as a product."",""The effect of Rs and RL must be considered as a product and evaluated individually."",""The effect of Rs and RL must be evaluated individually."",""None of the above""]",1
+"The _______ the source resistance and/or _______ the load resistance, the less the overall gain of an amplifier.","[""smaller, smaller"",""smaller, larger"",""larger, smaller"",""larger, larger""]",2
+"The current gain for the Darlington connection is _______.","[""\u03b21 \u2022 (\u03b22\/2)"",""\u03b21 \u2022 \u03b22"",""\u03b21 \/ \u03b22"",""\u03b21 \u2022 (\u03b22 \u2013 1)""]",1
+"What is the voltage gain of a feedback pair connection?","[""1"",""\u20131"",""100"",""\u2013100""]",0
+"Which of the following is referred to as the reverse transfer voltage ratio?","[""hi"",""hr"",""hf"",""ho""]",1
+"In an unbypassed emitter bias configuration hie replaces ______ in the re model.","[""re"",""\u03b2"",""\u03b2re"",""Ib""]",2
+"The _______ of the input signal is one of the first concerns in the sinusoidal ac analysis of transistor networks.","[""period"",""frequency"",""magnitude"",""None of the above""]",2
+"The _______ model(s) is (are) commonly used in the small-signal ac analysis of transistor networks.","[""re"",""hybrid equivalent"",""re and hybrid equivalent"",""None of the above""]",2
+"The peak value of the ac input signal is controlled by the _______ in a transistor network for the frequencies in the low to midrange.","[""resistors"",""applied dc voltage"",""capacitors"",""None of the above""]",1
+"_______ can be applied to determine the response of the ac equivalent circuit.","[""Mesh analysis"",""Node analysis"",""Thevenin\u2019s theorem"",""All of the above""]",3
+"For transistor amplifiers, the no-load voltage gain is _______ the loaded voltage gain.","[""smaller than"",""greater than"",""the same as"",""None of the above""]",1
+"The input and output signals are _______ for the typical transistor amplifier at frequencies that permit ignoring the effects of the reactive elements.","[""in phase"",""180\u00b0 out of phase"",""either in phase or 180\u00b0 out of phase"",""None of the above""]",2
+"One junction of an operating transistor is _______ and the other one is _______.","[""forward-biased, forward-biased"",""forward-biased, reverse-biased"",""reverse-biased, reverse-biased"",""None of the above""]",1
+"For a common-base configuration, the input impedance is relatively _______ and the output impedance quite _______.","[""high, small"",""small, high"",""small, small"",""high, high""]",1
+"The output voltage and the input voltage are _______ for the common-base configuration.","[""45\u00b0 out of phase"",""90\u00b0 out of phase"",""180\u00b0 out of phase"",""in phase""]",3
+"In a common-emitter configuration _______ is the controlling current while _______ is the controlled current.","[""IC, IB"",""IC, IE"",""IB, IC"",""None of the above""]",2
+"The level of re is determined by ________.","[""\u03b1"",""IE"",""\u03b2"",""IB""]",1
+"The output voltage and the input voltage are _______ for the common-emitter configuration.","[""in phase"",""45\u00b0 out of phase"",""90\u00b0 out of phase"",""180\u00b0 out of phase""]",3
+"The common-emitter configuration has a _______ level of input impedance with a _______ voltage and current gain.","[""moderate, high"",""low, moderate"",""low, low"",""high, low""]",0
+"______ refers to the forward transfer current ratio.","[""hi"",""hr"",""hf"",""ho""]",2
+"For the common-emitter and common-base configurations, the magnitude of ______ and ______ is often not included in the model.","[""hr, ho"",""hi, he"",""hi, hr"",""he, ho""]",0
+"In a fixed-bias network, the input signal Vi is applied to the _______ of the transistor while the output Vo is off the _______.","[""base, collector"",""base, emitter"",""emitter, collector"",""None of the above""]",0
+"In a voltage-divider bias configuration, the voltage-divider equation is used to determine the _______.","[""ac level of Vb"",""dc level of IB"",""dc level of VB"",""ac level of Ib""]",2
+"In a voltage-divider bias configuration, there can be a measurable difference in the results for _______ if the condition ro ≥ 10RC is not satisfied.","[""Zo"",""Av"",""Ai"",""All of the above""]",2
+"The bypass capacitor in a common-emitter configuration _______ the voltage gain.","[""significantly decreases"",""significantly increases"",""slightly increases"",""slightly decreases""]",1
+"In an emitter-follower, the voltage gain is _______.","[""slightly less than 1"",""slightly more than 1"",""a very large value"",""None of the above""]",0
+"In an emitter-follower, the output voltage is _______ with the input voltage.","[""45\u00b0 out of phase"",""90\u00b0 out of phase"",""180\u00b0 out of phase"",""in phase""]",3
+"An emitter-follower has _______ impedance at the input and _______ impedance at the output.","[""high, high"",""low, high"",""high, low"",""low, low""]",2
+"_____ is slightly affected if the condition ro ≥ 10RE is not satisfied in the analysis of an emitter-follower configuration.","[""Zi"",""Zo"",""Av"",""Ai""]",2
+"A common-base configuration has ______ impedance at the input and ______ impedance at the output.","[""high, high"",""high, low"",""low, low"",""low, high""]",3
+"In a common-base configuration, the input and output voltages are _______ and the output and input currents are _______.","[""180\u00b0 out of phase, 180\u00b0 out of phase"",""180\u00b0 out of phase, in phase"",""in phase,180\u00b0 out of phase"",""in phase, in phase""]",3
+"Ideally, the changes in the load resistor or the source resistor should have _______ effect on all the parameters of the two-port model.","[""a great"",""a moderate"",""no"",""None of the above""]",2
+"The loaded voltage gain of an amplifier is _______ the no-load level.","[""always more than"",""always less than"",""always the same as"",""None of the above""]",1
+"The coupling capacitor places the load and collector resistors in a _______ arrangement.","[""series"",""parallel"",""series-parallel"",""None of the above""]",1
+"The dc load line and ac load line both have the same _______ .","[""x-intercept"",""y-intercept"",""slope"",""Q-point""]",3
+"The _______ the level of RL, the ______ the level of ac voltage gain.","[""smaller, higher"",""larger, lower"",""smaller, lower"",""None of the above""]",2
+"The _______ the source resistance, the ______ the overall gain of an amplifier.","[""larger, higher"",""larger, lower"",""lower, lower"",""None of the above""]",1
+"The ac voltage gain of a Darlington connection is about _______.","[""0"",""1"",""\u03b2D"",""None of the above""]",1
+"The feedback pair uses a(n) _______ transistor driving a(n) _______ transistor, the two devices acting effectively much like one pnp transistor.","[""pnp, npn"",""pnp, pnp"",""npn, npn"",""None of the above""]",0
+"In an unbypassed emitter-bias configuration _____ replaces re in the hybrid equivalent circuit.","[""hie"",""hfe"",""hre"",""hoe""]",0
+"In a hybrid equivalent circuit, ______ is determined to make it easier to find the other parameters.","[""Zi"",""Zo"",""Ai"",""Av""]",3
+"How many layers of material does a transistor have?","[""1"",""2"",""3"",""4""]",2
+"What is the ratio of the total width to that of the center layer for a transistor?","[""1:15"",""1:150"",""15:1"",""150:1""]",3
+"Which of the following is (are) the terminal(s) of a transistor?","[""Emitter"",""Base"",""Collector"",""All of the above""]",3
+"List the types of bipolar junction transistors.","[""ppn, npn"",""pnp, npn"",""npp, ppn"",""nnp, pnp""]",1
+"Transistors are _______-terminal devices.","[""2"",""3"",""4"",""5""]",1
+"How many carriers participate in the injection process of a unipolar device?","[""1"",""2"",""0"",""3""]",0
+"Which component of the collector current I<sub>C</sub> is called the leakage current?","[""Majority"",""Independent"",""Minority"",""None of the above""]",2
+"For a properly biased pnp transistor, let I<sub>C</sub> = 10 mA and IE = 10.2 mA. What is the level of I<sub>B</sub>?","[""0.2 A"",""200 mA"",""200 \u00b5A"",""20.2 mA""]",2
+"Calculate minority current I<sub>CO</sub> if IC = 20.002 mA and I<sub>C</sub> majority = 20 mA.","[""2 \u00b5A"",""0.002 \u00b5A"",""2 nA"",""2 pA""]",0
+"Which of the following regions is (are) part of the output characteristics of a transistor?","[""Active"",""Cutoff"",""Saturation"",""All of the above""]",3
+"In which region are both the collector-base and base-emitter junctions forward-biased?","[""Active"",""Cutoff"",""Saturation"",""All of the above""]",2
+"How much is the base-to-emitter voltage of a transistor in the “on” state?","[""0 V"",""0.7 V"",""0.7 mV"",""Undefined""]",1
+"In the active region, while the collector-base junction is ______-biased, the base-emitter is ______-biased.","[""forward, forward"",""forward, reverse"",""reverse, forward"",""reverse, reverse""]",2
+"What is βdc equal to?","[""IB \/ IE"",""IC \/ IE"",""IC \/ IB"",""None of the above""]",2
+"What are the ranges of the ac input and output resistance for a common-base configuration?","[""10 \u2126\u2013100 \u2126, 50 k\u2126\u20131 M\u2126"",""50 k\u2126\u20131 M\u2126, 10 \u2126\u2013100 \u2126"",""10 \u2126\u2013100 k\u2126, 50 \u2126\u20131 k\u2126"",""None of the above""]",0
+"For what kind of amplifications can the active region of the common-emitter configuration be used?","[""Voltage"",""Current"",""Power"",""All of the above""]",3
+"Which of the following configurations can a transistor set up?","[""Common-base"",""Common-emitter"",""Common-collector"",""All of the above""]",3
+"Determine the value of α when β = 100.","[""1.01"",""101"",""0.99"",""Cannot be solved with the information provided""]",2
+"What is the most frequently encountered transistor configuration?","[""Common-base"",""Common-collector"",""Common-emitter"",""Emitter-collector""]",2
+"βdc = ________","[""IB \/ IE"",""IC \/ IE"",""IC \/ IB"",""None of the above""]",2
+"What is (are) the component(s) of most specification sheets provided by the manufacturer?","[""Maximum ratings"",""Thermal characteristics"",""Electrical characteristics"",""All of the above""]",3
+"What is (are) the component(s) of electrical characteristics on the specification sheets?","[""On"",""Off"",""Small-signal characteristics"",""All of the above""]",3
+"Most specification sheets are broken down into _______.","[""maximum ratings"",""thermal characteristics"",""electrical characteristics"",""All of the above""]",3
+"electrical characteristics","[""All of the above"",""An example of a pnp silicon transistor is a 2N4123."",""True"",""False""]",1
+"Which of the following equipment can check the condition of a transistor?","[""Current tracer"",""Digital display meter (DDM)"",""Ohmmeter (VOM)"",""All of the above""]",3
+"Which of the following can be obtained from the last scale factor of a curve tracer?","[""hFE"",""\u03b1dc"",""\u03b1ac"",""\u03b2ac""]",3
+"What range of resistor values would you get when checking a transistor for forward- and reverse-biased conditions by an ohmmeter?","[""100 \u2126 to a few k\u2126, exceeding 100 k\u2126"",""Exceeding 100 k\u2126, 100 \u2126 to a few k\u2126"",""Exceeding 100 k\u2126, exceeding 100 k\u2126"",""100 \u2126 to a few k\u2126, 100 \u2126 to a few k\u2126""]",0
+"What does a reading of a large or small resistance in forward- and reverse-biased conditions indicate when checking a transistor using an ohmmeter?","[""Faulty device"",""Good device"",""Bad ohmmeter"",""None of the above""]",0
+"A transistor can be checked using a(n) _______.","[""curve tracer"",""digital meter"",""ohmmeter"",""Any of the above""]",3
+"How many individual pnp silicon transistors can be housed in a 14-pin plastic dual-in-line package?","[""4"",""7"",""10"",""14""]",0
+"All amplifiers should have at least _____ terminals with _____ terminal(s) controlling the flow between _____ other terminal(s).","[""2, 1, 1"",""3, 1, 2"",""3, 2, 1"",""3, 0, 3""]",1
+"The outer layers of a transistor are _______ the sandwiched layer.","[""much smaller than"",""the same as"",""much larger than"",""None of the above""]",2
+"The doping of the sandwiched layer is _______ that of the outer layers.","[""considerably less than"",""the same as"",""considerably more than"",""None of the above""]",0
+"The lower doping level _______ the conductivity and _______ the resistivity of the material.","[""increases, decreases"",""increases, increases"",""decreases, decreases"",""decreases, increases""]",3
+"The term bipolar reflects the fact that _______ and _______ participate in the injection process into the oppositely polarized material.","[""holes, neutrons"",""holes, electrons"",""neutrons, electrons"",""None of the above""]",1
+"One p-n junction of a transistor is _______-biased and the other one is _______-biased in the active region.","[""reverse, reverse"",""forward, forward"",""reverse, forward"",""None of the above""]",2
+"The magnitude of the base current is typically on the order of _______ as compared to _______ for the emitter.","[""\u00b5A, \u00b5A"",""\u00b5A, mA"",""mA, \u00b5A"",""mA, mA""]",1
+"The base current is the _______ of the emitter and collector currents.","[""sum"",""difference"",""product"",""None of the above""]",1
+"The _______ region is the region normally employed for linear (undistorted) amplifiers.","[""active"",""cutoff"",""saturation"",""All of the above""]",0
+"In the cutoff region the collector-base junction is _______-biased and the base-emitter junction is _______-biased for a transistor.","[""reverse, forward"",""forward, reverse"",""reverse, reverse"",""forward, forward""]",2
+"In the saturation region the collector-base junction is _______-biased and the base-emitter junction is _______-biased for a transistor.","[""reverse, forward"",""forward, reverse"",""reverse, reverse"",""forward, forward""]",3
+"For practical transistors the level of alpha typically extends from _____ to _____ with most approaching the higher end of the range.","[""0.0, 1"",""0.90, 0.998"",""50, 400"",""None of the above""]",1
+"Typical values of voltage amplification for the common-base configurations vary from _______ and the current gain is always _______.","[""less than 1, 50 to 300"",""50 to 300, larger than 1"",""50 to 300, less than 1"",""larger than 1, 50 to 300""]",2
+"If a value of beta.gif is specified for a particular transistor configuration it will normally be used for _____ calculations.","[""ac"",""dc"",""ac and dc"",""None of the above""]",2
+"The common-collector configuration has a ______ input impedance and a ______ output impedance.","[""low, high"",""high, low"",""high, high"",""low, low""]",1
+"The active region of a transistor is bounded by the _______.","[""cutoff region"",""saturation region"",""power dissipation curve"",""All of the above""]",3
+"The “on” and “off” characteristics refer to _____ limits while the small-signal characteristics indicate the parameters of importance to _____ operation.","[""ac, dc"",""dc, ac"",""ac, dc and ac"",""dc and ac, dc""]",1
+"The step function (per step) of a curve tracer reveals the scale for _______.","[""collector current IC"",""VCE voltage"",""base current IB"",""All of the above""]",2
+"The level of _____ is determined and displayed by advanced digital meters.","[""VCE"",""IB"",""IC"",""\u03b2dc""]",3
+"The level of _____ is determined and displayed by advanced digital meters if using diode-testing mode.","[""VBE"",""IC"",""IB"",""IE""]",0
+"When checking a transistor by ohmmeter, a relatively _______ resistance is displayed for a forward-biased junction and ______ resistance for a reverse-biased junction.","[""low, very high"",""low, low"",""high, high"",""high, very low""]",0
+"An OL indication on an advanced digital meter indicates _______ while checking a transistor.","[""forward bias"",""reverse bias"",""definitely a defective transistor"",""None of the above""]",1
+"If the positive lead of an ohmmeter is connected to the base and the negative lead to the emitter, a low resistance reading would indicate a ______ transistor and a high resistance reading would indicate a ______ transistor.","[""npn, pnp"",""pnp, npn"",""npn, npn"",""pnp, pnp""]",0
+"The leads of a transistor are typically made of _______.","[""gold"",""aluminum"",""nickel"",""All of the above""]",1
+"There is(are) _______ in the internal construction of a TO-92 package.","[""gold bond wires"",""a copper frame"",""epoxy encapsulation"",""All of the above""]",3
+"The ratio of which two currents is represented by β?","[""IC and IE"",""IC and IB"",""IE and IB"",""None of the above""]",1
+"At what region of operation is the base-emitter junction forward biased and the base-collector junction reverse biased?","[""Saturation"",""Linear or active"",""Cutoff"",""None of the above""]",1
+"The cutoff region is defined by IB _____ 0 A.","[""&gt;"",""&lt;"",""\u2264"",""\u2265""]",2
+"The saturation region is defined by VCE _____ VCE<sub>sat</sub>.","[""&gt;"",""&lt;"",""\u2264"",""\u2265""]",2
+"For the BJT to operate in the active (linear) region, the base-emitter junction must be _______-biased and the base-collector junction must be _______-biased.","[""forward, forward"",""forward, reverse"",""reverse, reverse"",""reverse, forward""]",1
+"For the BJT to operate in the saturation region, the base-emitter junction must be _______-biased and the base-collector junction must be _______-biased.","[""forward, forward"",""forward, reverse"",""reverse, reverse"",""reverse, forward""]",0
+"Which of the following voltages must have a negative level (value) in any npn bias circuit?","[""VBE"",""VCE"",""VBC"",""None of the above""]",2
+"Which of the following is assumed in the approximate analysis of a voltage divider circuit?","[""IB is essentially zero amperes."",""R1 and R2 are considered to be series elements."",""\u03b2RE \u2265 10R2"",""All of the above""]",3
+"Which of the following is (are) related to an emitter-follower configuration?","[""The input and output signals are in phase."",""The voltage gain is slightly less than 1."",""Output is drawn from the emitter terminal."",""All of the above""]",3
+"Which of the following is (are) the application(s) of a transistor?","[""Amplification of signal"",""Switching and control"",""Computer logic circuitry"",""All of the above""]",3
+"Calculate the storage time in a transistor switching network if t<sub>off</sub> is 56 ns, tf = 14 ns, and tr = 20 ns.","[""70 ns"",""42 ns"",""36 ns"",""34 ns""]",1
+"Which of the following is (are) a stability factor?","[""S(ICO)"",""S(VBE)"",""S(\u03b2)"",""All of the above""]",3
+"In a fixed-bias circuit, which one of the stability factors overrides the other factors?","[""S(ICO)"",""S(VBE)"",""S(\u03b2)"",""Undefined""]",2
+"In a voltage-divider circuit, which one of the stability factors has the least effect on the device at very high temperature?","[""S(ICO)"",""S(VBE)"",""S(\u03b2)"",""Undefined""]",2
+"Determine ICQ at a temperature of 175°C if ICQ = 2 mA at 25°C for RB/RE = 20 due to the S(β) stability factor.","[""2.417 mA"",""2.392 mA"",""2.25 mA"",""2.58 mA""]",0
+"By definition, quiescent means _______.","[""quiet"",""still"",""inactive"",""All of the above""]",3
+"______ should be considered in the analysis or design of any electronic amplifiers.","[""dc"",""ac"",""dc and ac"",""None of the above""]",2
+"For the dc analysis the network can be isolated from the indicated ac levels by replacing the capacitor with _______.","[""an open circuit equivalent"",""a short circuit equivalent"",""a source voltage"",""None of the above""]",0
+"In a fixed-bias circuit with a fixed supply voltage VCC’ the selection of a ______ resistor sets the level of ______ current for the operating point.","[""collector, base"",""base, base"",""collector, collector"",""None of the above""]",1
+"Changes in temperature will affect the level of _______.","[""current gain \u03b2"",""leakage current ICEO"",""both current gain \u03b2 and leakage current ICEO"",""None of the above""]",2
+"In a fixed-bias circuit, the magnitude of IC is controlled by and therefore is a function of _______.","[""RB"",""RC"",""\u03b2"",""RB and \u03b2""]",3
+"For a transistor operating in the saturation region, the collector current IC is at its _______ and the collector-emitter voltage VCE is to the _______.","[""minimum, left of the VCEsat line"",""minimum, right of the VCEsat line"",""maximum, left of the VCEsat line"",""maximum, right of the VCEsat line""]",2
+"The dc load line is determined solely by the _______.","[""base-emitter loop"",""collector-emitter loop"",""base-collector loop"",""None of the above""]",1
+"A change in value of _______ will create a new load line parallel to its previous one in a fixed-bias circuit.","[""RB"",""RC"",""VCC"",""VBE""]",2
+"In a fixed-bias circuit, the slope of the dc load line is controlled by _______.","[""RB"",""RC"",""VCC"",""IB""]",1
+"The emitter resistor in an emitter-stabilized bias circuit appears to be _______ in the base circuit.","[""larger"",""smaller"",""the same"",""None of the above""]",0
+"_______ is the primary difference between the exact and approximate techniques used in the analysis of a voltage divider circuit.","[""Thevenin voltage ETh"",""Thevenin resistance RTh"",""Base voltage VB"",""RC""]",1
+"The Thevenin equivalent network is used in the analysis of the _______ circuit.","[""fixed bias"",""emitter-stabilized bias"",""voltage divider"",""voltage feedback""]",2
+"The saturation current of a transistor used in a fixed-bias circuit is ________ its value used in an emitter-stabilized or voltage-divider bias circuit for the same values of RC’","[""more than"",""the same as"",""less than"",""None of the above""]",0
+"In a collector feedback bias circuit, the current through the collector resistor is _______ and the collector current is _______.","[""IC\u2019 IC"",""IB + IC\u2019 IC"",""IB\u2019, IC"",""None of the above""]",1
+"_______ is the least stabilized circuit.","[""Fixed bias"",""Emitter-stabilized bias"",""Voltage divider"",""Voltage feedback""]",0
+"_______ is less dependent on the transistor beta.","[""Fixed bias"",""Emitter bias"",""Voltage divider"",""Voltage feedback""]",2
+"In a transistor-switching network, the level of the resistance between the collector and emitter is _______ at the saturation and is _______ at the cutoff.","[""low, low"",""low, high"",""high, high"",""high, low""]",1
+"In a transistor-switching network, the operating point switches from _______ to _______ regions along the load line.","[""cutoff, active"",""cutoff, saturation"",""active, saturation"",""None of the above""]",1
+"For the typical transistor amplifier in the active region, VCE is usually about _____ % to _____ % of VCC’","[""0, 100"",""25, 75"",""45, 55"",""None of the above""]",1
+"In any amplifier employing a transistor, the collector current IC is sensitive to ______.","[""\u03b2"",""VBE"",""ICO"",""All of the above""]",3
+"As the temperature increases, β ______, VBE ______, and ICO ______ in value for every 10ºC.","[""increases, decreases, doubles"",""decreases, increases, remains the same"",""decreases, increases, doubles"",""increases, increases, triples""]",0
+"A significant increase in leakage current due to increase in temperature creates _______ between IB curves.","[""smaller spacing"",""larger spacing"",""the same space as at lower temperature"",""None of the above""]",1
+"The _______ the stability factor, the _______ sensitive the network is to variations in that parameter.","[""higher, more"",""higher, less"",""lower, more"",""None of the above""]",0
+"In an emitter-bias configuration, the _______ the resistance RE’, the _______ the stability factor, and the _______ stable is the system.","[""smaller, lower, less"",""larger, more, more"",""smaller, more, more"",""larger, lower, more""]",3
+"Which of the following current equations is true?","[""IG = ID"",""IG = IS"",""ID = IS"",""IG = ID = IS""]",2
+"IG = ID = IS","[""For the FET, the relationship between the input and output quantities is _______ due to the _______ term in Shockley\u2019s equation."",""nonlinear, cubed"",""linear, proportional"",""nonlinear, squared""]",2
+"The input controlling variable for a(n) _______ is a current level and a voltage level for a(n) _______.","[""BJT, FET"",""FET, BJT"",""FET, FET"",""BJT, BJT""]",0
+"Which of the following is (are) true of a self-bias configuration compared to a fixed-bias configuration?","[""One of the dc supplies is eliminated."",""A resistor RS is added."",""VGS is a function of the output current ID."",""All of the above""]",3
+"Which of the following represents the voltage level of VGS in a self-bias configuration?","[""VG"",""VGS(off)"",""VS"",""VP""]",2
+"Which of the following is a false statement regarding the dc load line when comparing self-bias and voltage-divider configurations?","[""Both are linear lines."",""Both cross the origin."",""Both intersect the transfer characteristics."",""Both are obtained by writing Kirchhoff\u2019s voltage law (KVL) at the input side loop.""]",1
+"Which of the following describe(s) the difference(s) between JFETs and depletion-type MOSFETs?","[""VGS can be positive or negative for the depletion-type."",""ID can exceed IDSS for the depletion-type."",""The depletion-type can operate in the enhancement mode."",""All of the above""]",3
+"On the universal JFET bias curve, the vertical scale labeled _______ can, in itself, be used to find the solution to _______ configurations.","[""m, fixed-bias"",""M, fixed-bias"",""M, voltage-bias"",""m, voltage-bias""]",0
+"Through proper design, a ________ can be introduced that will affect the biasing level of a voltage-controlled JFET resistor.","[""photodiode"",""thermistor"",""laser diode"",""Zener diode""]",1
+"For the non-inverting amplifier, one of the most important advantages associated with using a JFET for control is the fact that it is _______ rather than _______ control.","[""dc, ac"",""ac, dc"",""any of the above"",""none of the above""]",0
+"For the field-effect transistor, the relationship between the input and the output quantities is _______.","[""linear"",""nonlinear"",""3rd degree"",""None of the above""]",1
+"The input controlling variable for an FET transistor is a _______ level.","[""resistor"",""current"",""voltage"",""All of the above""]",2
+"The controlled variable on the output side of an FET transistor is a _______ level.","[""current"",""voltage"",""resistor"",""None of the above""]",0
+"For _______, Shockley’s equation is applied to relate the input and the output quantities.","[""JFETs"",""depletion-type MOSFETs"",""enhancement-type MOSFETs"",""JFETs and depletion-type MOSFETs""]",3
+"The coupling capacitors are _______ for the dc analysis and _____________ for the ac analysis.","[""open-circuit, low impedance"",""short-circuit, low impedance"",""open-circuit, high impedance"",""None of the above""]",0
+"In a fixed-bias configuration, the voltage level of VGS is equal to _______.","[""VS"",""VG"",""VGS(off)"",""VP""]",1
+"The ratio of current ID to IDSS is equal to _______ for a fixed-bias configuration.","[""0"",""0.25"",""0.5"",""1""]",3
+"When plotting the transfer characteristics, choosing VGS = 0.5VP will result in a drain current level of _______ IDSS.","[""0"",""0.25"",""0.5"",""1""]",1
+"The dc load line is drawn using the equation obtained by applying Kirchhoff’s voltage law (KVL) at _______ side loop(s) of the circuit.","[""the output"",""the input"",""both the input and output"",""None of the above""]",1
+"The slope of the dc load line in a self-bias configuration is controlled by _______.","[""VDD"",""RD"",""RG"",""RS""]",3
+"______ levels of RS result in _______ quiescent values of ID and _______ negative values of VGS.","[""Increased, lower, less"",""Increased, higher, less"",""Increased, higher, more"",""Increased, less, lower""]",0
+"In a depletion-type MOSFET, the transfer characteristic rises ________ as VGS becomes more positive.","[""less rapidly"",""more rapidly"",""the same"",""None of the above""]",1
+"In ________ configuration(s) a depletion-type MOSFET can operate in enhancement mode.","[""self-bias"",""fixed-bias with no VGG"",""voltage-divider"",""None of the above""]",2
+"In an enhancement-type MOSFET, the drain current is zero for levels of VGS less than the _______ level.","[""VGS(Th)"",""VGS(off)"",""VP"",""VDD""]",0
+"Specification sheets typically provide ________ for enhancement-type MOSFETs.","[""the threshold voltage VGS(Th)"",""a level of drain current ID(on)"",""an ID(on)"",""All of the above""]",3
+"In a feedback-bias configuration, the slope of the dc load line is controlled by ________.","[""RG"",""RD"",""VDG"",""None of the above""]",1
+"________ must be considered in the total design process.","[""Dc conditions"",""Level of amplification"",""Signal strength"",""All of the above""]",3
+"In a JFET, the level of ________ is limited to values between 0 V and –VP.","[""VSQ"",""VDGQ"",""VDSQ"",""VGSQ""]",3
+"The level of VDS is typically between _____ % and _____ % of VDD.","[""0, 100"",""10, 90"",""25, 75"",""None of the above""]",2
+"In a universal JFET bias curve, the vertical scale labeled m is used to find the solution to the ________ configuration.","[""fixed-bias"",""self-bias"",""voltage-divider"",""None of the above""]",0
+"In a universal JFET bias curve, the vertical scale labeled M is used for finding the solution to the ________ configuration.","[""fixed-bias"",""self-bias"",""voltage-divider"",""None of the above""]",2
+"In a universal JFET bias curve, the horizontal axis is _______.","[""VDS"",""ID \/ IDSS"",""the normalized level VGS\/|VP|"",""VGS""]",2
+"In p-channel FETs, the level of VGS is _______ while the level of VDS is _______.","[""negative, negative"",""positive, positive"",""negative, positive"",""positive, negative""]",3
+"In a particular problem, which mode has the highest level of IDQ?","[""Ideal"",""Approximate equivalent"",""Exact mode using characteristic curve"",""None of the above""]",0
+"Which diode(s) has (have) a zero level current and voltage drop in the ideal model?","[""Si"",""Ge"",""Both Si and Ge"",""Neither Si nor Ge""]",2
+"A diode is in the “_____” state if the current established by the applied sources is such that its direction matches that of the arrow in the diode symbol, and VD ≥ 0.7 V for Si and VD ≥ 0.3 V for Ge.","[""off"",""on"",""neutral"",""quiescent""]",1
+"An open circuit can have any voltage across its terminals, but the current is always ________.","[""5 A"",""0 A"",""1 A"",""\u221e""]",1
+"A short circuit has a _____ drop across its terminals, and the current is limited only by the surrounding network.","[""5 V"",""0 V"",""1 V"",""\u221e""]",1
+"List the categories of clippers.","[""Series"",""Parallel"",""Series and parallel"",""None of the above""]",2
+"Determine the total discharge time for the capacitor in a clamper having C = 0.01 µF and R = 500 kΩ.","[""5 ms"",""25 ms"",""2.5 ms"",""50 ms""]",1
+"In a voltage regulator network with fixed RL and R, what element dictates the minimum level of source voltage?","[""VZ"",""IZ"",""IZM"",""None of the above""]",0
+"What is the peak inverse voltage across each diode in a voltage doubler?","[""Vm"",""2 Vm"",""0.5 Vm"",""0.25 Vm""]",1
+"The intersection of the load line with the characteristic curve determines the _______ of the system.","[""point of operation"",""load-line analysis"",""characteristic curve"",""forward bias""]",0
+"The slope of the load line depends on the _______.","[""type of the diode used"",""characteristic curve"",""load resistor"",""source voltage""]",2
+"The load line is defined by the _______ and a characteristic curve is defined by the _______.","[""quiescent point, device"",""device, network"",""network, device"",""None of the above""]",2
+"The quiescent point (Q-point) is defined by a(n) _______.","[""ac network"",""dc network"",""ac and dc network"",""None of the above""]",1
+"The x-intercept of the load line with the characteristic curve is determined by the _______.","[""load resistor"",""diode"",""source voltage and the load resistor"",""source voltage""]",3
+"The source voltage must be _______ the voltage drop across the diode to conduct the diode.","[""larger than"",""smaller than"",""the same as"",""None of the above""]",0
+"As the load resistor increases, the slope of the dc load line and the levels of diode current ______.","[""increase"",""decrease"",""remain unchanged"",""are unpredictable""]",1
+"A germanium diode is approximated by _______ equivalent for voltages less than 0.3 V.","[""a short circuit"",""a series circuit"",""a parallel circuit"",""an open circuit""]",3
+"A diode is in the _______ state if the current established by the applied sources is such that its direction matches that of the arrow in the diode symbol and VD &gt; 0.7 V.","[""off"",""reverse bias"",""on"",""transition""]",2
+"The combination of a short circuit in series with an open circuit always results in a(n) _______ circuit.","[""open"",""short"",""neither short nor open"",""unknown""]",0
+"The absence of the Si or Ge and VD label on a diode denotes _______ notation.","[""approximate model"",""ideal model"",""exact model"",""None of the above""]",1
+"The process of removing one-half the input signal to establish a dc level is called _______.","[""rectifier"",""full-wave rectifier"",""half-wave rectifier"",""filtering""]",2
+"The dc voltage level of a silicon diode is _______ its ideal model.","[""smaller than"",""larger than"",""the same as"",""None of the above""]",1
+"The PIV rating of the diodes in a full-wave rectifier must be larger than _______ Vm.","[""0.318"",""0.636"",""2"",""1""]",3
+"For the ideal diode the transition between states will occur at the point on the characteristic curve when VD = _______ V and ID = _______ A.","[""0.3, 0"",""0, 0"",""0.7, 0"",""0.7, 0.3""]",1
+"A clamping network must have _______.","[""a capacitor"",""a diode"",""a resistive element"",""All of the above""]",3
+"The ratio of the total swing of the output of a clamper to its input total swing is _______.","[""1"",""2"",""0.5"",""0""]",0
+"For the “off” state of a Zener diode, the voltage across the diode should be _______.","[""greater than VZ"",""zero"",""less than VZ but greater than zero"",""None of the above""]",2
+"Zener diodes are used in regulator networks to _______.","[""generate voltage"",""consume power"",""maintain a fixed voltage across the load resistor"",""protect the load""]",2
+"A Zener diode is in a _______ impedance region in the forward bias while it has a _______ impedance region in the reverse bias.","[""very large, low"",""very large, very large"",""low, low"",""low, very large""]",3
+"The full-wave voltage doubler provides _______ filtering action than (as) the half-wave voltage doubler.","[""better"",""poorer"",""the same"",""None of the above""]",0
+"Which of the following improvements is (are) a result of the negative feedback in a circuit?","[""Lower output impedance"",""Reduced noise"",""More linear operation"",""All of the above""]",3
+"Which of the following is (are) feedback?","[""Voltage-series"",""Voltage-shunt"",""Current-series"",""All of the above""]",3
+"What is the ratio of the input impedance with series feedback to that without feedback?","[""1 + \u03b2A"",""\u03b2A"",""\u03b2"",""1""]",0
+"What is the ratio of the output impedance with series feedback to that without feedback?","[""1"",""1 + \u03b2A"",""\u03b2A"",""A""]",1
+"Determine the voltage gain with feedback for a voltage-series feedback having A = –100, R1 = 15 kΩ, Ro = 20 kΩ, and a feedback of β = –0.25.","[""3.85"",""\u20133.85"",""\u20139.09"",""9.09""]",1
+"Determine the input impedance with feedback for a voltage-series feedback having A = –100, R1 = 15 kΩ, Ro = 20 kΩ, and a feedback of β = –0.25.","[""110 k\u2126"",""290 k\u2126"",""390 k\u2126"",""510 k\u2126""]",2
+"Determine the output impedance with feedback for a voltage-series feedback having A = –100, R1 = 15 kΩ, Ro = 20 kΩ, and a feedback of β = –0.25.","[""0.2 k\u2126"",""392.16 k\u2126"",""1.82 k\u2126"",""769.23 \u2126""]",3
+"An amplifier with a gain of –500 and a feedback of β = –0.1 has a gain change of 15% due to temperature. Calculate the change in gain of the feedback amplifier.","[""0.2%"",""0.3%"",""0.4%"",""0.5%""]",1
+"Which of the following is (are) the determining factor(s) of the stability of a feedback amplifier?","[""A"",""Phase shift between input and output signals"",""Both A and the phase shift between input and output signals"",""None of the above""]",2
+"At what phase shift is the magnitude of βA at its maximum in the Nyquist plot?","[""90\u00b0"",""180\u00b0"",""270\u00b0"",""0\u00b0""]",1
+"At what phase shift is the magnitude of βA at its minimum in the Nyquist plot?","[""90\u00b0"",""180\u00b0"",""270\u00b0"",""0\u00b0""]",3
+"Which of the following is required for oscillation?","[""\u03b2A &gt; 1"",""The phase shift around the feedback network must be 180\u00ba."",""Both \u03b2A &gt; 1 and the phase shift around the feedback network must be 180\u00b0."",""None of the above""]",2
+"Both βA &gt; 1 and the phase shift around the feedback network must be 180°.","[""None of the above"",""An input signal is needed for an oscillator to start."",""True"",""False""]",1
+"Only the condition βA = _____ must be satisfied for self-sustained oscillations to result.","[""0"",""\u20131"",""1"",""None of the above""]",2
+"In the IC phase-shift oscillator, what should the ratio of feedback resistor Rf to R1 be?","[""Zero"",""Greater than \u201329"",""Less than 29"",""Any value""]",1
+"For a phase-shift oscillator, the gain of the amplifier stage must be greater than ________.","[""19"",""29"",""30"",""1""]",1
+"In the Wien bridge oscillator, which of the following is (are) frequency-determining components?","[""R1 and R2"",""C1 and C2"",""R1, R2, C1, and C2"",""None of the above""]",2
+"Which of the following oscillators is (are) tuned oscillators?","[""Colpitts"",""Hartley"",""Crystal"",""All of the above""]",3
+"What is the typical value of quality factor for crystal oscillators?","[""20,000"",""1000"",""100"",""10""]",0
+"Negative feedback results in ________.","[""decreased voltage gain"",""B increased voltage gain"",""oscillation in the circuit"",""None of the above""]",0
+"Positive feedback results in _________.","[""decreased voltage gain"",""increased voltage gain"",""oscillation in the circuit"",""None of the above""]",2
+"Series-feedback connections tend to _______ the input resistance. Shunt feedback connections tend to ________ the input resistance.","[""decrease, increase"",""increase, decrease"",""increase, increase"",""decrease, decrease""]",1
+"Voltage feedback connections tend to ________ the output impedance. Current feedback connections tend to ________ the output impedance.","[""decrease, increase"",""increase, decrease"",""increase, increase"",""decrease, decrease""]",0
+"With feedback, β, the overall gain of the circuit is reduced by a factor _______ where A is the gain without the feedback.","[""\u03b2"",""A\u03b2"",""A"",""1 + \u03b2A""]",3
+"An amplifier with negative feedback has _______ bandwidth than (as) the amplifier without feedback.","[""the same"",""less"",""more"",""None of the above""]",2
+"A feedback amplifier has a _______ upper 3-dB frequency and a _______ lower 3-dB frequency compared to an amplifier without feedback.","[""smaller, higher"",""higher, smaller"",""smaller, smaller"",""higher, higher""]",1
+"What is the gain at the origin of the Nyquist plot?","[""Zero"",""A negative value"",""A positive value"",""Undefined""]",0
+"In a Nyquist plot, as the frequency increases, the phase shift between input and output signals _______.","[""remains the same"",""decreases"",""increases"",""None of the above""]",2
+"An amplifier is stable if the absolute magnitude of βA is _______.","[""\u221e"",""less than 1"",""greater than 1"",""None of the above""]",1
+"In the Barkhausen criterion, the loop gain A is equal to _______.","[""\u221e"",""200,000"",""0"",""1""]",3
+"In practice, A is made _______ and the system is started oscillating by amplifying noise voltage, which is always present.","[""greater than 1"",""smaller than 1"",""equal to 1"",""None of the above""]",0
+"In the phase-shift oscillator, the gain of the amplifier stage must be _______.","[""0"",""less than 29"",""greater than 29"",""\u221e""]",2
+"In the phase-shift oscillator, the operating frequency is determined by _______.","[""resistance only"",""capacitance only"",""LC combinations"",""RC combinations""]",3
+"In the Colpitts oscillator, the frequency is determined by _______ .","[""resistance only"",""inductance only"",""capacitance only"",""both inductance and a capacitance""]",3
+"Crystal oscillators are used whenever a(n) _______ level of stability is required.","[""lower"",""average"",""greater"",""None of the above""]",2
+"Since the crystal losses represented by R are small, the equivalent crystal Q (quality factor) is _______.","[""very low"",""low"",""medium"",""high""]",3
+"The series-resonant impedance of a crystal oscillator is _______.","[""very low"",""low"",""medium"",""very high""]",0
+"The parallel-resonant impedance of a crystal oscillator is _______.","[""very low"",""low"",""medium"",""very high""]",3
+"At the series-resonant frequency, the amount of positive feedback is _______.","[""very large"",""large"",""small"",""very small""]",0
+"_______ is a frequency-determining component in a unijunction oscillator.","[""Total resistance"",""Total capacitance"",""Intrinsic stand-off ratio"",""All of the above""]",3
+"Typically, a unijunction transistor has a stand-off ratio from _____ to _____.","[""0.0, 0.2"",""0.2, 0.4"",""0.4, 0.6"",""0.6, 0.8""]",2
+"A BJT is a _________-controlled device.","[""current"",""voltage"",""power"",""resistance""]",0
+"An FET is a _________-controlled device.","[""current"",""voltage"",""power"",""resistance""]",1
+"The E-MOSFET is quite popular in _________ applications.","[""digital circuitry"",""high-frequency"",""buffering"",""All of the above""]",3
+"What is the range of gm for JFETs?","[""1 \u00b5S to 10 \u00b5S"",""100 \u00b5S to 1000 \u00b5S"",""1000 \u00b5S to 5000 \u00b5S"",""10000 \u00b5S to 100000 \u00b5S""]",2
+"For what value of ID is gm equal to 0.5 gm0?","[""0 mA"",""0.25 IDSS"",""0.5 IDSS"",""IDSS""]",1
+"What is the typical value for the input impedance Zi for JFETs?","[""100 k\u2126"",""1 M\u2126"",""10 M\u2126"",""1000 M\u2126""]",3
+"Calculate gm and rd if yfs = 4 mS and yos = 15 ΩS.","[""4 mS, 66.7 k\u2126"",""4 mS, 15 k\u2126"",""66.7 k\u2126, 4 mS"",""None of the above""]",0
+"The steeper the slope of the ID versus VGS curve, the ________ the level of gm.","[""less"",""same"",""greater"",""all of the above""]",2
+"When VGS = 0.5 Vp gm is ________ the maximum value.","[""one-fourth"",""one-half"",""three-fourths"",""two-thirds""]",1
+"If ID = IDSS/2, gm = ___________ gmo.","[""1"",""0.707"",""0.5"",""1.414""]",1
+"The more horizontal the characteristic curves on the drain characteristics, the ________ the output impedance.","[""less"",""same"",""greater"",""all of the above""]",2
+"What is (are) the function(s) of the coupling capacitors C1 and C2 in an FET circuit?","[""to create an open circuit for dc analysis"",""to isolate the dc biasing arrangement from the applied signal and load"",""to create a short-circuit equivalent for ac analysis"",""All of the above""]",3
+"Where do you get the level of gm and rd for an FET transistor?","[""from the dc biasing arrangement"",""from the specification sheet"",""from the characteristics"",""All of the above""]",3
+"Which of the following is a required condition to simplify the equations for Zo and Av for the self-bias configuration?","[""rd \u2264 10RD"",""rd = RD"",""rd \u2265 10RD"",""None of the above""]",2
+"On which of the following parameters does rd have no or little impact in a source-follower configuration?","[""Zi"",""Zo"",""Av"",""All of the above""]",3
+"Which of the following is (are) related to depletion-type MOSFETs?","[""VGSQ can be negative, zero, or positive."",""gm can be greater or smaller than gm0\u2019."",""ID can be larger than IDSS\u2019."",""All of the above""]",3
+"For an FET small-signal amplifier, one could go about troubleshooting a circuit by _________.","[""viewing the circuit board for poor solder joints"",""using a dc meter"",""applying a test ac signal"",""All of the above""]",3
+"A field-effect transistor amplifier provides excellent voltage gain with the added feature of a _______ input impedance.","[""low"",""medium"",""high"",""None of the above""]",2
+"The depletion MOSFET circuit has a _______ input impedance than a similar JFET configuration.","[""much higher"",""much lower"",""lower"",""higher""]",0
+"The _______ is quite popular in digital circuits, especially in CMOS circuits that require very low power consumption.","[""JFET"",""BJT"",""D-type MOSFET"",""E-type MOSFET""]",3
+"_______ is the amplification factor in FET transistor amplifiers.","[""Zi"",""gm"",""ID"",""IG""]",1
+"_____ is an undefined quantity in a JFET.","[""Ai"",""Av"",""Zi"",""Zo""]",0
+"The ______ controls the ______ of an FET.","[""ID\u2019, VGS"",""VGS\u2019, ID"",""IG\u2019, VDS"",""IG\u2019, ID""]",1
+"Transconductance is the ratio of changes in _______.","[""ID to VGS"",""ID to VDS"",""VGS to IG"",""VGS to VDS""]",0
+"The transconductance gm _______ as the Q-point moves from Vp to IDSS","[""decreases"",""remains the same"",""increases"",""None of the above""]",2
+"gm has its maximum value for a JFET at ______.","[""Vp"",""0.5 Vp"",""0.3 Vp"",""IDSS""]",3
+"The value of gm is at its maximum gm0 at VGS equal to _____ and zero at VGS equal to _____.","[""0 V, Vp"",""Vp, 0 V"",""0.5Vp, 0.3Vp"",""0.3Vp , 0.5Vp""]",0
+"The range of input impedance Zi for MOSFETs is _______.","[""1 k\u2126 \u201310 k\u2126"",""100 k\u2126 \u20131 M\u2126"",""10 M\u2126 \u2013100 M\u2126"",""1012 \u2126 to 1015 \u2126""]",3
+"The range of output admittance yos for FETs is _______.","[""5 \u00b5S \u201310 \u00b5S"",""10 \u00b5S \u201350 \u00b5S"",""50 \u00b5S \u2013100 \u00b5S"",""200 \u00b5S \u2013500 \u00b5S""]",1
+"The _______ configuration has the distinct disadvantage of requiring two dc voltage sources.","[""self-bias"",""voltage-divider"",""fixed-bias"",""All of the above""]",2
+"_____ is the network-input impedance for a JFET fixed-bias configuration.","[""RG"",""RD"",""Zero"",""None of the above""]",0
+"_______ is a required step in order to calculate Zo.","[""Setting IG equal to zero"",""Setting Vi equal to zero"",""Setting ID equal to IDSS"",""None of the above""]",1
+"_______ configuration(s) has (have) Zo ≈ RD.","[""Fixed-bias"",""Self-bias"",""Voltage-divider"",""All of the above""]",3
+"_____ is the only parameter that is different between voltage-divider and fixed-bias configurations.","[""Zi"",""Av"",""Zo"",""None of the above""]",0
+"The input and output signals are in phase in a _______ configuration.","[""fixed-bias"",""source-follower"",""voltage-divider"",""self-bias""]",1
+"A _______ configuration has a voltage gain less than 1.","[""fixed-bias"",""self-bias"",""source-follower"",""voltage-divider""]",2
+"The input and output signals are 180º out of phase in a _______ configuration.","[""source-follower"",""common-gate"",""common-drain"",""voltage-divider""]",3
+"The isolation between input and output circuits in the ac equivalent circuit is lost in a ________ configuration.","[""common-gate"",""common-source"",""common-drain"",""None of the above""]",0
+"The ________ configuration has an input impedance, which is other than RG.","[""common-source"",""common-gate"",""common-drain"",""None of the above""]",1
+"The gate-to-source voltage VGS of a(n) _______ must be larger than the threshold VGS(Th) for the transistor to conduct.","[""JFET"",""D-type MOSFET"",""E-type MOSFET"",""None of the above""]",2
+"rd changes from one operation region to another with _______ values typically occurring at _______ levels of VGS (closer to zero).","[""lower, lower"",""lower, higher"",""higher, lower"",""None of the above""]",0
+"The ________ does not support Shockley’s equation.","[""JFET"",""D-type MOSFET"",""E-type MOSFET"",""None of the above""]",2
+"Which of the following is (are) not an FET?","[""n-channel"",""p-channel"",""p-n channel"",""n-channel and p-channel""]",2
+"What is the range of an FET’s input impedance?","[""10 \u2126 to 1 k\u2126"",""1 k\u2126 to 10 k\u2126"",""50 k\u2126 to 100 k\u2126"",""1 M\u2126 to several hundred M\u2126""]",3
+"Which of the following transistor(s) has (have) depletion and enhancement types?","[""BJT"",""JFET"",""MOSFET"",""None of the above""]",2
+"A BJT is a _______-controlled device. The JFET is a _______ – controlled device.","[""voltage, voltage"",""voltage, current"",""current, voltage"",""current, current""]",2
+"The BJT is a _______ device. The FET is a _______ device.","[""bipolar, bipolar"",""bipolar, unipolar"",""unipolar, bipolar"",""unipolar, unipolar""]",1
+"Which of the following is (are) the terminal(s) of a field-effect transistor (FET).","[""Drain"",""Gate"",""Source"",""All of the above""]",3
+"What is the level of IG in an FET?","[""Zero amperes"",""Equal to ID"",""Depends on VDS"",""Undefined""]",0
+"At which of the following is the level of VDS equal to the pinch-off voltage?","[""When ID becomes equal to IDSS"",""When VGS is zero volts"",""IG is zero"",""All of the above""]",3
+"At which of the following condition(s) is the depletion region uniform?","[""No bias"",""VDS &gt; 0 V"",""VDS = VP"",""None of the above""]",0
+"What is the level of drain current ID for gate-to-source voltages VGS less than (more negative than) the pinch-off level?","[""zero amperes"",""IDSS"",""Negative value"",""Undefined""]",0
+"The three terminals of the JFET are the ______, ______, and ______.","[""gate, collector, emitter"",""base, collector, emitter"",""gate, drain, source"",""gate, drain, emitter""]",2
+"The level of VGS that results in ID = 0 mA is defined by VGS = _______.","[""VGS(off)"",""VP"",""VDS"",""None of the above""]",1
+"The region to the left of the pinch-off locus is referred to as the _______ region.","[""saturation"",""cutoff"",""ohmic"",""All of the above""]",2
+"Which of the following represent(s) the cutoff region for an FET?","[""ID = 0 mA"",""VGS = VP"",""IG = 0"",""All of the above""]",3
+"What is the ratio of ID/IDSS for VGS = 0.5 VP?","[""0.25"",""0.5"",""1"",""0""]",0
+"The drain current will always be one-fourth of IDSS as long as the gate-to-source voltage is _______ the pinch-off value.","[""one-fourth"",""one-half"",""three-fourths"",""None of the above""]",1
+"Which of the following ratings appear(s) in the specification sheet for an FET?","[""Voltages between specific terminals"",""Current levels"",""Power dissipation"",""All of the above""]",3
+"Hand-held instruments are available to measure _______ for the BJT.","[""\u03b2dc"",""IDSS"",""VP"",""All of the above""]",0
+"How many terminals can a MOSFET have?","[""2"",""3"",""4"",""3 or 4""]",3
+"Which of the following applies to MOSFETs?","[""No direct electrical connection between the gate terminal and the channel"",""Desirable high input impedance"",""Uses metal for the gate, drain, and source connections"",""All of the above""]",3
+"It is the insulating layer of ________ in the MOSFET construction that accounts for the very desirable high input impedance of the device.","[""SiO"",""GaAs"",""SiO2"",""HCl""]",2
+"The transfer curve is not defined by Shockley’s equation for the ________.","[""JFET"",""depletion-type MOSFET"",""enhancement-type MOSFET"",""BJT""]",2
+"Which of the following applies to a safe MOSFET handling?","[""Always pick up the transistor by the casing."",""Power should always be off when network changes are made."",""Always touch ground before handling the device."",""All of the above""]",3
+"Which of the following is (are) the advantage(s) of VMOS over MOSFETs?","[""Reduced channel resistance"",""Higher current and power ratings"",""Faster switching time"",""All of the above""]",3
+"Which of the following FETs has the lowest input impedance?","[""JFET"",""MOSFET depletion-type"",""MOSFET enhancement-type"",""None of the above""]",0
+"Which of the following input impedances is not valid for a JFET?","[""1010 \u2126"",""109 \u2126"",""108 \u2126"",""1011 \u2126""]",2
+"A junction field-effect transistor (JFET) is a ________ device.","[""current-controlled"",""voltage-controlled"",""voltage-current controlled"",""None of the above""]",1
+"The FET is a ________ device depending solely on either electron (n-channel) or hole (p-channel) conduction.","[""unipolar"",""bipolar"",""tripolar"",""None of the above""]",0
+"One of the most important characteristics of the FET is its _________ impedance.","[""low input"",""medium input"",""high input"",""None of the above""]",2
+"The _________ transistor has become one of the most important devices used in the design and construction of integrated circuits for digital computers.","[""MOSFET"",""BJT"",""JFET"",""None of the above""]",0
+"In the n-channel transistor, the drain and source are connected to the _______ channel while the gate is connected to the two layers of _______ material.","[""p-type, n-type"",""p-type, p-type"",""n-type, p-type"",""n-type, n-type""]",2
+"In an FET transistor, the depletion region is ________ near the top of both p-type materials.","[""wider"",""narrower"",""the same as the rest of the depletion region"",""None of the above""]",0
+"The pinch-off voltage continues to drop in a ________ manner as VGS becomes more and more negative.","[""linear"",""parabolic"",""cubic"",""None of the above""]",1
+"The region to the right of the pinch-off locus is commonly referred to as the ________ region.","[""constant-current"",""saturation"",""linear amplification"",""All of the above""]",3
+"As VGS becomes ________ negative, the slope of each curve in the characteristics becomes ________ horizontal corresponding with an increasing resistance level.","[""less, more"",""more, less"",""more, more"",""None of the above""]",2
+"The transfer curve can be obtained by ________.","[""using Shockley\u2019s equation"",""using both Shockley\u2019s equation and by output characteristics"",""characteristics"",""None of the above""]",1
+"The active region of an FET is bounded by ________.","[""ohmic region"",""cutoff region"",""power line"",""All of the above""]",3
+"A(n) ________ can be used to check the condition of an FET.","[""digital display meter (DDM)"",""ohmmeter (VOM)"",""curve tracer"",""All of the above""]",2
+"In a curve tracer, the ________ reveals the distance between the VGS curves for the n-channel device.","[""vertical sens."",""horizontal sens."",""Per step"",""gm""]",2
+"In an FET circuit, ________ is normally the parameter to be determined first.","[""VGS"",""VDS"",""VDG"",""ID""]",0
+"The primary difference between the construction of a MOSFET and an FET is the ________.","[""construction of the gate connection"",""low input impedance"",""threshold voltage"",""None of the above""]",0
+"The primary difference between the construction of depletion-type and enhancement-type MOSFETs is ________.","[""the size of the transistor"",""the absence of the channel"",""the reverse bias junction"",""All of the above""]",1
+"The level of ________ that results in the significant increase in drain current in enhancement-type MOSFETs is called threshold voltage VT’.","[""VDD"",""VDS"",""VGS"",""VDG""]",2
+"In an n-channel enhancement-type MOSFET with a fixed value of VT’, the _______ the level of VGS’, the _____ the saturation level for VDS’.","[""higher, more"",""higher, less"",""lower, lower"",""None of the above""]",0
+"The enhancement-type MOSFET is in the cutoff region if ________.","[""applied VGS is larger than VGS(Th)"",""applied VGS is less than or equal to VGS(Th)"",""VGS has a positive level"",""None of the above""]",1
+"The specification sheet provides _________ to calculate the value of k for enhancement-type MOSFETs.","[""VGS(on)"",""ID(on)"",""VGS(Th)"",""All of the above""]",3
+"________ has high input impedance, fast switching speeds, and lower operating power levels.","[""CMOS"",""FET"",""BJT"",""None of the above""]",0
+"The FET resistance in the ohmic region is ________ at VP and ________ at the origin.","[""smallest, largest"",""largest, smallest"",""larger, smaller"",""smaller, larger""]",1
+"The silicon dioxide (SiO2) layer used in a MOSFET is _________.","[""an insulator"",""a conductor"",""a semiconductor"",""None of the above""]",0
+"In an n-channel depletion-type MOSFET the region of positive gate voltages on the drain or transfer characteristics is referred to as the _________ region with the region between cutoff and the saturation level of ID referred to as the ________ region.","[""depletion, enhancement"",""enhancement, enhancement"",""enhancement, depletion"",""None of the above""]",2
+"VMOS FETs have a ________ temperature coefficient that will combat the possibility of thermal runaway.","[""positive"",""negative"",""zero"",""None of the above""]",0
+"Which of the following circuits is (are) linear/digital ICs?","[""Comparators"",""Timers"",""Voltage-controlled oscillators"",""All of the above""]",3
+"Which of the following is (are) the results of improvements built into a comparator IC?","[""Faster switching between the two output levels"",""Noise immunity"",""Outputs capable of directly driving a variety of loads"",""All of the above""]",3
+"How many comparators does a 339 IC contain?","[""4"",""3"",""2"",""1""]",0
+"A 311 IC is an example of an eight-pin DIP that can be made to function as a _______.","[""comparator"",""555 timer"",""D to A converter"",""ladder network""]",0
+"A 339 IC is an example of a fourteen-pin DIP that can be made to function as a _______.","[""comparator"",""555 timer"",""D to A converter"",""ladder network""]",0
+"What is the function of a ladder network?","[""Changing an analog signal to a digital signal"",""Changing a linear signal to a digital signal"",""Changing a digital signal to an analog signal"",""None of the above""]",2
+"What is (are) the level(s) of the input voltage to a ladder-network conversion?","[""0"",""Vref"",""0 V or Vref"",""None of the above""]",2
+"What is the level of the output voltage of a ladder-network conversion?","[""The analog output voltage proportional to the digital input voltage"",""The digital output voltage proportional to the linear input voltage"",""A fixed digital value Vref"",""A fixed analog value Vref""]",0
+"What is the voltage resolution of an 8-stage ladder network?","[""Vref \/128"",""Vref \/256"",""Vref \/512"",""Vref \/1024""]",1
+"Which of the slope intervals of the integrator does the counter in the analog-to-digital converter (ADC) operate?","[""Positive"",""Negative"",""Both positive and negative"",""Neither positive nor negative""]",2
+"What is the first phase of the dual-slope method of conversion?","[""Connecting the analog voltage to the integrator for a fixed time"",""Setting the counter to zero"",""Connecting the integrator to a reference voltage"",""All of the above""]",0
+"When is the counter set to zero in the dual-slope method of conversion?","[""Prior to the charging of the capacitor of the integrator"",""While the capacitor is being charged"",""At the end of the charging of the capacitor"",""During the discharging of the capacitor""]",2
+"Which of the following devices is (are) a component of a digital-to-analog converter (DAC)?","[""Integrator"",""Comparator"",""Digital counter"",""All of the above""]",3
+"At which of the following period(s) is the counter advanced (incremented) in dual-slope conversion?","[""During the charging of the capacitor of the integrator"",""During the discharging of the capacitor of the integrator"",""During both the charging and discharging of the capacitor of the integrator"",""None of the above""]",1
+"What is (are) the input(s) to the comparator in the ladder-network conversion of an ADC?","[""Staircase voltage"",""Analog input voltage"",""Both staircase and analog input voltage"",""None of the above""]",2
+"What is the maximum conversion time of a clock rate of 1 MHz operating a 10-stage counter in an ADC?","[""1.024 s"",""102.3 ms"",""10.24 ms"",""1.024 ms""]",3
+"What is the minimum number of conversions per second of a clock rate of 1 MHz operating a 10-stage counter in an ADC?","[""1000"",""976"",""769"",""697""]",1
+"On which of the following does the conversion depend in ladder-network conversion?","[""Comparator"",""Control logic"",""Digital counter"",""Clock""]",0
+"Which of the following best describes the output of a 566 voltage-controlled oscillator?","[""Square-wave"",""Triangular-wave"",""Both square- and triangular-wave"",""None of the above""]",2
+"Which of the following best describes limitations for the 566 VCO?","[""2 k\u2126 \u2264 R<sub>1<\/sub> \u2264 20 k\u2126"",""0.75 V+ \u2264 V<sub>c<\/sub> \u2264+"",""f<sub>o<\/sub> &lt; 1 MHz"",""All of the above""]",3
+"Which of the following applications include a phase-locked loop (PLL) circuit?","[""Modems"",""Am decoders"",""Tracking filters"",""All of the above""]",3
+"How many Vcc connections does the 565 PLL use?","[""0"",""1"",""2"",""3""]",2
+"The timing components for a PLL are 15 kΩ and 220 pF. Calculate the free-running frequency.","[""90.91 kHz"",""136.36 kHz"",""156.1 kHz"",""181.8 kHz""]",0
+"Which of the following frequencies is associated with the 565 frequency-shift keyed decoder?","[""1070 Hz"",""1270 Hz"",""Both 1070 Hz and 1270 Hz"",""D None of the above""]",2
+"A comparator circuit accepts input of _______ voltages and provides a _______ output that indicates when one input is less than or greater than the second.","[""linear, digital"",""linear, linear"",""digital, linear"",""None of the above""]",0
+"In a comparator, the reference voltage is connected to _______ input terminal and the input signal is applied to _______ input terminal.","[""only the minus, only the plus"",""only the plus, only the minus"",""either the plus or minus, the other"",""None of the above""]",2
+"In a comparator, the level of the reference voltage must be _______.","[""negative"",""positive"",""zero"",""All of the above""]",3
+"The 311 voltage comparator can operate from _______.","[""dual power supplies of 15 V"",""a single +5 V supply"",""either a dual power supply of 15 V or a single +5 V supply"",""None of the above""]",2
+"When the input to the 311 voltage comparator is _______ value, the output is _______ if the inverting input is connected to ground.","[""any negative, low"",""any positive, low"",""any positive, high"",""None of the above""]",1
+"In the operation of two 311 voltage comparators as the voltage window detector, a high output indicates that the input is _______.","[""above the higher reference voltage"",""below the lower reference voltage"",""either above the higher reference voltage or below the lower reference voltage"",""within the high and the low reference voltages""]",3
+"In the operation of two 311 voltage comparators as the voltage window detector, a low output indicates that the input is _______.","[""above the higher reference voltage"",""below the lower reference voltage"",""either above the higher reference voltage or below the lower reference voltage"",""within the high and the low reference voltages""]",2
+"In a ladder-network conversion, _______ ladder stages provide _______ voltage resolution.","[""more, greater"",""more, smaller"",""fewer, greater"",""None of the above""]",0
+"In a ladder-network conversion, the _______ circuit provides a signal to stop the counter when the staircase voltage rises above the input voltage.","[""control logic"",""comparator"",""ladder-network"",""None of the above""]",1
+"The conversion resolution of an 8-stage counter operating an 8-stage ladder network using a reference voltage of 5 V is _______.","[""0.0195 mV"",""0.195 mV"",""1.95 mV"",""19.5 mV""]",3
+"In a 555 timer, a series connection of three resistors sets the reference voltage levels to the two comparators at _______ and __________.","[""2VCC\/3, VCC\/3"",""VCC\/2, VCC\/4"",""VCC, VCC\/2"",""VCC, VCC""]",0
+"In astable operation of the 555 timer, the lower and upper peaks of the charging/discharging external capacitor are _______ to _______.","[""\u2013VCC, VCC"",""\u20130.5 VCC, 0.5 VCC"",""1\/3 VCC, 1\/2 VCC"",""1\/3 VCC, 2\/3 VCC""]",3
+"Time periods for monostable operation of the 555 timer can range from _______ to _______, making this IC useful for a range of applications.","[""picoseconds, nanoseconds"",""nanoseconds, milliseconds"",""microseconds, many seconds"",""None of the above""]",2
+"A voltage-controlled oscillator (VCO) is a circuit that provides a _______ output signal.","[""zero"",""varying"",""constant"",""None of the above""]",1
+"The frequency of the 566 VCO is set by _______.","[""an external resistor"",""an external capacitor"",""both an external resistor and an external capacitor"",""None of the above""]",2
+"A phase-locked loop (PLL) is an electronic circuit that consists of _______.","[""a phase detector"",""a low-pass filter"",""a voltage-controlled oscillator"",""All of the above""]",3
+"When the loop is in lock in a PLL, the input frequency is _______ the output frequency from the VCO.","[""the same as"",""greater than"",""smaller than"",""None of the above""]",0
+"In the frequency-shift keyed (FSK) signal decoder, the RC ladder filter is used to _______.","[""remove the difference frequency component"",""remove the sum frequency component"",""remove both the difference and the sum frequency components"",""None of the above""]",1
+"The free-running frequency of a 565 FSK decoder is adjusted with _______.","[""external capacitors"",""an external resistor"",""an external RC network"",""an internal clock""]",1
+"An input at a frequency of 1070 Hz will drive the decoder output voltage to _______.","[""\u20135 V"",""14 V"",""\u20135 V and 14 V"",""None of the above""]",1
+"In interfacing circuitry, a receiver provides _______ input impedance to minimize loading of the input signal.","[""high"",""medium"",""low"",""zero""]",0
+"For transistor transistor logic (TTL) circuits, _______ is a mark and _______ is a space.","[""12 V, 0 V"",""0 V, 12 V"",""0 V, 5 V"",""5 V, 0 V""]",3
+"For the RS-232C circuit, _______ is a mark and _______ is a space.","[""12 V, \u201312 V"",""\u201312 V, 12 V"",""5 V, 0 V"",""\u20135 V, 0 V""]",1
+"Which of the following require(s) interfacing circuitry?","[""Keyboards"",""Video terminals"",""Printers"",""All of the above""]",3
+"How many op-amps are required to implement this equation? Vo = V1","[""2"",""3"",""4"",""1""]",3
+"An example of an instrumentation circuit is a(n) _______.","[""dc voltmeter"",""display driver"",""ac voltmeter"",""All of the above""]",3
+"Calculate the cut-off frequency of a first-order low-pass filter for R1 = 2.5 kΩ and C1 = 0.05 μF.","[""1.273 kHz"",""12.73 kHz"",""127.3 kHz"",""127.30 Hz""]",0
+"Calculate the cutoff frequencies of a bandpass filter with R1 = R2 = 5 kΩ and C1 = C2 = 0.1 μF.","[""f<sub>OL<\/sub> = 318.3 Hz, f<sub>OH<\/sub> = 318.3 Hz"",""f<sub>OL<\/sub> = 636.6 Hz, f<sub>OH<\/sub> = 636.6 Hz"",""f<sub>OL<\/sub> = 318.3 Hz, f<sub>OH<\/sub> = 636.6 Hz"",""f<sub>OL<\/sub> = 636.6 Hz, f<sub>OH<\/sub> = 318.3 Hz""]",0
+"A filter that provides a constant output from dc up to a cut-off frequency and passes no signal above that frequency is called a _______ filter.","[""low-pass"",""high-pass"",""bandpass"",""none of the above""]",0
+"The level of the output voltage of an op-amp circuit is always _______ the level of VCC.","[""larger than"",""the same as"",""smaller than"",""None of the above""]",2
+"The input to an op-amp can be a(n) ________.","[""dc source"",""ac source"",""combination of ac and dc sources"",""All of the above""]",3
+"When a number of stages are connected in series, the overall gain is the ________ of the individual stage gains.","[""sum"",""product"",""difference"",""average""]",1
+"________ build a multistage connection.","[""Only an inverting op-amp circuit must be used to"",""Only a noninverting op-amp circuit must be used to"",""Both inverting and noninverting op-amp circuits can be used to"",""Neither inverting nor noninverting op-amp circuits must be used to""]",2
+"A voltage summing amplifier has ________.","[""several inputs and several outputs"",""several inputs and one output"",""one input and several outputs"",""one input and one output""]",1
+"The voltage gain of a voltage buffer is _______ .","[""1"",""0"",""\u20131"",""\u20135""]",0
+"The output voltage of a voltage buffer is _______ with the input voltage.","[""in phase"",""45\u00b0 out of phase"",""90\u00b0 out of phase"",""180\u00b0 out of phase""]",0
+"The input impedance of a voltage buffer is _______.","[""very low"",""low"",""high"",""very high""]",3
+"The output impedance of a voltage buffer is _______.","[""very low"",""low"",""high"",""very high""]",1
+"Op-amps can be used to form ________ circuit(s).","[""voltage-controlled voltage source"",""voltage-controlled current source"",""current-controlled voltage source"",""All of the above""]",3
+"________ in a current-controlled voltage source circuit.","[""The input current depends on the output voltage"",""The input current depends on the input voltage source"",""The output voltage depends on the input current."",""The output current depends on the output voltage source""]",2
+"________ can be used as a voltage-controlled voltage source.","[""Only an inverting op-amp circuit"",""Only a noninverting op-amp circuit"",""Neither inverting nor noninverting op-amp circuits"",""Both inverting and noninverting op-amp circuits""]",3
+"In a current-controlled voltage source using the inverting op-amp circuit, the controlled output current is _______ with the input voltage source.","[""in phase"",""45\u00b0 out of phase"",""90\u00b0 out of phase"",""180\u00b0 out of phase""]",0
+"Op-amp circuits are used in _______ voltmeters.","[""only dc"",""only ac"",""both ac and dc"",""neither ac nor dc""]",2
+"In a current-controlled current source, the controlled current Io depends on _______.","[""I1"",""R1"",""R2"",""All of the above""]",3
+"In a dc millivoltmeter, the amplifier provides a meter with _______ input impedance and a scale factor dependent on _______ value and accuracy.","[""high, resistor"",""low, resistor"",""high, capacitor"",""None of the above""]",0
+"In a millivoltmeter, the diodes and the capacitor are used in _____ parts of the circuit.","[""the dc"",""the ac"",""both the dc and ac"",""neither the dc nor ac""]",1
+"In an instrumentation amplifier, the output voltage is based on the _____ times a scale factor.","[""summation of the two inputs"",""product of the two inputs"",""difference between the two inputs"",""None of the above""]",2
+"A(n) _______ is not a component of a passive filter.","[""op-amp"",""capacitor"",""inductor"",""resistor""]",0
+"An active circuit is composed of a(n) ________.","[""resistor"",""capacitor"",""op-amp"",""All of the above""]",3
+"A low-pass filter ________.","[""provides a constant output up to the cutoff frequency"",""passes frequencies from zero up to the cutoff frequency"",""rejects all frequencies above the cutoff frequency"",""All of the above""]",3
+"A filter that passes signals that are above one ideal cutoff frequency and below a second cutoff frequency is called _________.","[""low-pass"",""high-pass"",""bandpass"",""band reject""]",2
+"The roll-off for a first-order high-pass filter is _______.","[""\u201320 dB\/decade"",""\u20136 dB\/octave"",""either \u201320 dB\/decade or \u20136 dB\/octave"",""None of the above""]",2
+"The roll-off for a second-order high-pass filter is _______.","[""either \u201320 dB per decade or \u20136 dB per octave"",""either \u201340 dB per decade or \u201312 dB per octave"",""either \u201360 dB per decade or \u201318 dB per octave"",""None of the above""]",1
+"A bandpass filter uses _______ circuit.","[""a high-pass"",""a low-pass"",""a high-pass and a low-pass"",""neither a low-pass nor a high-pass""]",2
+"In which of the following operations is the resulting output signal of the differential amplifier near zero?","[""Single-ended"",""Double-ended"",""Common-mode"",""None of the above""]",2
+"In the differential amplifier circuit, which of the following terminals are connected together?","[""Bases"",""Collectors"",""One base to another collector"",""Emitters""]",3
+"Which of the following circuits is referred to as a BiMOS circuit?","[""Bipolar and FET"",""Bipolar and MOSFET"",""Opposite-type MOSFETs"",""None of the above""]",1
+"An IC unit made using both _______ and _______ transistors is called a _______ circuit.","[""bipolar, MOSFET, BiFET"",""bipolar, MOSFET, BiMOS"",""TTL, MOSFET, TailFET"",""TTL, BiFET, BiMOS""]",1
+"What is the level of the voltage between the input terminals of an op-amp?","[""Virtually zero"",""5 V"",""18 V"",""22 V""]",0
+"What is the level of the current through the amplifier input(s) to ground in an op-amp?","[""Virtually zero"",""1.7 mA"",""2.8 mA"",""3.3 mA""]",0
+"What is the voltage gain of the unity follower?","[""0"",""1"",""\u20131"",""Infinity""]",1
+"What is the scale multiplier (factor) of a basic integrator?","[""R\/C"",""C\/R"",""\u2013RC"",""\u20131\/RC""]",3
+"Which of the following circuit conditions affect(s) the output offset voltage of an op-amp?","[""An input offset voltage, VIO"",""An input offset current, IIO"",""Both an input offset voltage, VIO and an input offset current, IIO"",""None of the above""]",2
+"What is the level of the roll-off in most op-amps?","[""\u20136 dB\/decade"",""\u201320 dB\/octave"",""\u20136 dB\/decade or \u201320 dB\/octave"",""\u201320 dB\/decade or \u20136 dB\/octave""]",3
+"Which of the following is (are) the result of gain reduction by a feedback?","[""The amplifier voltage gain is a more stable and precise value."",""The input impedance of the circuit is increased over that of the op-amp alone."",""The output impedance is reduced over that of the op-amp alone."",""All of the above""]",3
+"What is the open-loop gain of an op-amp at the gain-bandwidth product of the op-amp?","[""200,000"",""50,000"",""200"",""1""]",3
+"What is the cutoff frequency of an op-amp if the unity-gain frequency is 1.5 MHz and the open-loop gain is 100,000?","[""5 Hz"",""10 Hz"",""15 Hz"",""20 Hz""]",2
+"What is the slew rate of an op-amp if the output voltages change from 2 V to 3 V in 0.2 ms?","[""5 V\/ms"",""3 V\/ms"",""2 V\/ms"",""1 V\/ms""]",0
+"For an op-amp having a slew rate SR = 5 V/ms, what is the maximum closed-loop voltage gain that can be used when the input signal varies by 0.2 V in 10 ms?","[""150"",""200"",""250"",""300""]",2
+"Calculate the output impedance of an inverting op-amp using the 741 op-amp (ro = 75 Ω, AOL = 200 V/mV) if R1 = 100 Ω and Rf = 1 kΩ.","[""0.011"",""0.00375"",""0.0375"",""0.375""]",1
+"What is the difference output voltage of any signals applied to the input terminals?","[""The differential gain times the difference input voltage."",""The common-mode gain times the common input voltage."",""The sum of the differential gain times the difference input voltage and the common-mode gain times the common input voltage."",""The difference of the differential gain times the difference input voltage and the common-mode gain times the common input voltage.""]",2
+"What is the difference voltage if the inputs are an ideal opposite signal?","[""The differential gain times twice the input signal."",""The differential gain times the input signal."",""The common-mode gain times twice the input signal."",""The common-mode gain times the input signal.""]",0
+"What is the difference voltage if the inputs are an ideal in-phase signal?","[""The differential gain times twice the input signal."",""The differential gain times the input signal."",""The common-mode gain times twice the input signal."",""The common-mode gain times the input signal.""]",3
+"At what input voltage level does the output voltage level become numerically equal to the value of the differential gain of the amplifier?","[""Vi1 = \u2013Vi2 = 0.25 V"",""Vi1 = \u2013Vi2 = 0.50 V"",""Vi1 = \u2013Vi2 = 0.75 V"",""Vi1 = \u2013Vi2 = 1.00 V""]",1
+"At what input voltage level does the output voltage level become numerically equal to the value of the common-mode gain of the amplifier?","[""Vi1 = \u2013Vi2 = 0.25 V"",""Vi1 = \u2013Vi2 = 0.50 V"",""Vi1 = \u2013Vi2 = 0.75 V"",""Vi1 = \u2013Vi2 = 1.00 V""]",1
+"An operational amplifier is a _______ gain and ________ bandwidth differential amplifier.","[""very low, narrow"",""low, wide"",""medium, narrow"",""very high, wide""]",3
+"An operational amplifier has a _______ input impedance and a _______ output impedance.","[""high, low"",""high, high"",""low, low"",""low, high""]",0
+"The output signal of an op-amp is _______ out of phase with its input signal connected to the inverting input terminal.","[""0\u00b0"",""90\u00b0"",""180\u00b0"",""270\u00b0""]",2
+"In double-ended (differential) input operation, _______.","[""an input is applied between the two input terminals"",""two separate signals are applied to the input terminals"",""either an input is applied between the two input terminals or two separate signals are applied to the input terminals"",""None of the above""]",2
+"An input applied to either input terminal will result in _________.","[""outputs from both output terminals, which have opposite polarities"",""outputs from both output terminals, which have the same polarities"",""a single output from one of the output terminals"",""None of the above""]",0
+"In a differential connection, the signals that are opposite at the inputs are ________ amplified, and those that are common to the two inputs are ________ amplified.","[""slightly, slightly"",""slightly, highly"",""highly, highly"",""highly, slightly""]",3
+"In a differential amplifier circuit, if an input signal is applied to either input with the other input connected to ground, the operation is referred to as ________.","[""double-ended"",""single-ended"",""common-mode"",""All of the above""]",1
+"If two opposite-polarity input signals are applied, the operation is referred to as ________.","[""double-ended"",""single-ended"",""common-mode"",""All of the above""]",0
+"If the same input is applied to both inputs, the operation is called ________.","[""double-ended"",""single-ended"",""common-mode"",""All of the above""]",2
+"The main feature of the differential amplifier is the ________ gain when opposite signals are applied to the inputs as compared to the ________ gain resulting from common inputs.","[""very large, large"",""very small, large"",""very small, very large"",""very large, very small""]",3
+"An IC unit containing a differential amplifier built using both bipolar and FET transistors is referred to as a ________ circuit.","[""CMOS"",""BiFET"",""BiMOS"",""None of the above""]",1
+"An IC unit containing a differential amplifier built using opposite-type MOSFET transistors is referred to as a ________ circuit.","[""CMOS"",""BiFET"",""BiMOS"",""None of the above""]",0
+"A ________ differential amplifier is particularly well suited for battery operation due to its low power consumption.","[""BiFET"",""BiMOS"",""CMOS"",""BJT""]",2
+"An ideal op-amp circuit has ________input impedance, ________ output impedance, and ________ voltage gain.","[""zero, infinite, infinite"",""infinite, zero, zero"",""zero, zero, infinite"",""infinite, zero, infinite""]",3
+"The ________ amplifier is the most widely used constant-gain amplifier circuit.","[""inverting"",""noninverting"",""differential"",""None of the above""]",0
+"The feedback component of an integrator is a(n) ________.","[""resistor"",""capacitor"",""inductor"",""diode""]",1
+"_____ is the unit for the slew rate, SR.","[""V\/ms"",""ms\/V"",""V"",""V\/s""]",0
+"The maximum frequency at which an op-amp may operate depends on the ________.","[""bandwidth (BW)"",""slew rate (SR)"",""unity-gain bandwidth"",""All of the above""]",3
+"As the supply voltage increases, the voltage gain of the circuit ________ and the power consumption ________.","[""increases, increases"",""increases, decreases"",""decreases, decreases"",""decreases, increases""]",0
+"As the frequency increases, the input impedance of an op-amp ________ and the output impedance ________.","[""increases, increases"",""increases, decreases"",""decreases, decreases"",""decreases, increases""]",2
+"Inverting amplifier connection is more widely used because it has _______.","[""higher gain"",""better frequency stability"",""unit gain"",""None of the above""]",3
+"The output offset voltage is determined by ________.","[""the input offset voltage and input offset current"",""the closed-loop gain"",""both the input offset voltage and the closed-loop gain"",""None of the above""]",0
+"The ratio of the unity-gain frequency to the cutoff frequency is numerically equal to the level of ________.","[""CMRR"",""common-mode gain"",""closed-loop gain"",""open-loop gain""]",2
+"When both input signals are the same, a common signal element due to the two inputs can be defined as the ________ of the two signals.","[""difference"",""sum"",""average of the sum"",""product""]",2
+"The common-mode rejection ratio (CMRR) is defined by ________.","[""Ad\/Ac"",""Ac\/Ad"",""Ad \u00d7 Ac"",""Ad + Ac""]",0
+"Ideally, the value of the CMRR is ________. Practically, the ________ the value of CMRR, the better the circuit operation.","[""zero, smaller"",""infinite, larger"",""zero, larger"",""infinite, smaller""]",1
+"Which of the following metals is (are) used in the fabrication of Schottky diodes?","[""Molybdenum"",""Platinum"",""Tungsten"",""All of the above""]",3
+"What are the typical ranges of reverse-bias current levels IS for low-power and high-power Schottky diodes at room temperature?","[""Picoamperes, nanoamperes"",""Nanoamperes, microamperes"",""Microamperes, milliamperes"",""Milliamperes, amperes""]",2
+"What is the voltage drop across Schottky diodes?","[""0 V to 0.2 V"",""0.7 V to 0.8 V"",""0.8 V to 1.0 V"",""1.0 V to 1.5 V""]",0
+"For a 50-A unit, the PIV of the Schottky is about _____ compared to 150 V for the p-n junction variety.","[""25"",""B 50"",""75"",""100""]",1
+"Schottky diodes are very effective at frequencies approaching ______.","[""20 GHz"",""10 MHz"",""100 MHz"",""1 MHz""]",0
+"What is the range of the varying capacitor CT in varactor diodes?","[""0 pF to 5 pF"",""2 pF to 100 \u00b5F"",""2 \u00b5F to 100 \u00b5F"",""2 pF to 100 pF""]",3
+"The tuning diode is a ______-dependent, variable ______.","[""voltage, resistor"",""current, capacitor"",""voltage, capacitor"",""current, inductor""]",2
+"The varicap diode has a transition capacitance sensitive to the applied reverse-bias potential that is a maximum at zero volts and decreases ______ with increasing reverse-bias potentials.","[""logarithmically"",""parabolically"",""exponentially"",""all of the above""]",2
+"The majority of power diodes are constructed using ______.","[""molybdenum"",""platinum"",""tungsten"",""silicon""]",3
+"Which of the following diodes has a negative-resistance region?","[""Schottky"",""Varactor"",""Tunnel"",""Power""]",2
+"Which of the following semiconductor materials is (are) used in the manufacturing of tunnel diodes?","[""Germanium"",""Gallium"",""Both germanium and gallium arsenide"",""Silicon""]",2
+"What is the ratio IP / IV for gallium arsenide?","[""1:1"",""5:1"",""10:1"",""20:1""]",3
+"What is the limit of peak current IP in tunnel diodes?","[""A few microamperes to several hundred amperes"",""A few microamperes to several amperes"",""A few microamperes to several milliamperes"",""A few microamperes to several hundred microamperes""]",0
+"What is the maximum peak voltage for tunnel diodes?","[""50 mV"",""100 mV"",""250 mV"",""600 mV""]",3
+"In which region is the operating point stable in tunnel diodes?","[""Negative-resistance"",""Positive-resistance"",""Both negative- and positive-resistance"",""Neither negative- nor positive-resistance""]",1
+"Which of the following diodes is limited to the reverse-bias region in its region of operation?","[""Schottky"",""Tunnel"",""Photodiode"",""Rectifier""]",2
+"What is the response time of cadmium sulfide (CdS) in photoconductive cells?","[""100 ms"",""50 ms"",""25 ms"",""10 ms""]",0
+"Which of the following areas is (are) an application of infrared-emitting diodes?","[""Intrusion alarms"",""Shaft encoders"",""Paper-tape readers"",""All of the above""]",3
+"What is the maximum temperature limit for liquid-crystal displays (LCDs)?","[""10\u00b0C"",""30\u00b0C"",""60\u00b0C"",""100\u00b0C""]",2
+"What is the response time of light-emitting diodes (LEDs)?","[""Less than 100 ns"",""50 ms"",""100 ms to 300 ms"",""400 ms""]",0
+"What is the response time of LCDs?","[""Less than 100 ns"",""50 ms"",""100 ms to 300 ms"",""400 ms""]",2
+"What is the power density received from the sun at sea level?","[""10 mW\/cm<sup>2<\/sup>"",""100 mW\/cm<sup>2<\/sup>"",""500 mW\/cm<sup>2<\/sup>"",""1 W\/cm<sup>2<\/sup>""]",1
+"Which of the following semiconductor materials is (are) used for manufacturing solar cells?","[""Gallium arsenide"",""Indium arsenide"",""Cadmium sulfide"",""All of the above""]",3
+"What type of temperature coefficient do thermistors have?","[""Positive"",""Negative"",""Either positive or negative"",""None of the above""]",2
+"Which of the following materials is (are) used in the manufacturing of thermistors?","[""Ge"",""Si"",""A mixture of oxides of cobalt, nickel, strontium, or manganese"",""All of the above""]",3
+"What is the resistance of thermistors at room temperature (20°C)?","[""5 k\u2126"",""1 k\u2126"",""100 \u2126"",""1 \u2126""]",0
+"What is the resistance of thermistors at boiling temperature (100°C)?","[""5 k\u2126"",""1 k\u2126"",""100 \u2126"",""1 \u2126""]",2
+"What is the typical level of change in resistance per degree change in temperature?","[""1% to 2%"",""3% to 5%"",""7% to 10%"",""10% to 25%""]",1
+"Schottky diodes have ______.","[""quick response time"",""a lower noise figure"",""both quick response time and a lower noise figure"",""None of the above""]",2
+"Schottky diode construction results in a ______ uniform junction region and a ______ level of ruggedness.","[""more, high"",""less, high"",""more, low"",""less, low""]",0
+"In both n-type and p-type silicon materials, the ______ is the majority carrier in a Schottky diode.","[""hole"",""electron"",""proton"",""neutron""]",1
+"The barrier at the junction for a Schottky diode is ______ that of the p-n junction device in both the forward- and reverse-bias regions.","[""the same as"",""more than"",""less than"",""None of the above""]",2
+"A Schottky diode has ______ level of current at the same applied bias compared to that of the p-n junction at both the forward- and reverse-bias regions.","[""a lower"",""a higher"",""the same"",""None of the above""]",1
+"The PIV of Schottky diodes is usually ______ that of a comparable p-n junction unit.","[""1\/2"",""1\/3"",""1\/4"",""1\/5""]",1
+"Varactor diodes are ______.","[""semiconductor devices"",""voltage-dependent"",""variable capacitors"",""All of the above""]",3
+"In varactor diodes, as the reverse-bias potential increases, the width of the depletion region ______, which in turn ______ the transition capacitance.","[""increases, increases"",""decreases, reduces"",""increases, reduces"",""decreases, increases""]",2
+"The normal range of reverse-bias voltage VR for varactor diodes is limited to about ______.","[""15 V"",""20 V"",""25 V"",""40 V""]",1
+"In the reverse-bias region of varactor diodes, the resistance RR in parallel with the varying capacitor is ______ and the series resistance RS is ______.","[""very large, very small"",""very large, very large"",""very small, very large"",""very small, very small""]",0
+"The majority of power diodes are constructed using silicon because of its higher ______ rating(s).","[""current"",""temperature"",""PIV"",""All of the above""]",3
+"The current capability of power diodes can be increased by placing two or more of the diodes in ______, and the PIV rating can be increased by stacking the diodes in ______.","[""parallel, parallel"",""series, parallel"",""parallel, series"",""series, series""]",2
+"In the negative-resistance region of tunnel diodes, as the terminal voltage increases, the diode current ______.","[""remains the same"",""decreases"",""increases"",""is undefined""]",1
+"The p-n junction of a tunnel diode is doped at a level from ______ to ______ times that of a typical semiconductor diode.","[""one, several"",""several, ten"",""more than ten, several hundred"",""one hundred, several thousand""]",3
+"The negative-resistance region of tunnel diodes can be used in the design of ______.","[""oscillators"",""switching networks"",""pulse generators"",""All of the above""]",3
+"The wavelength is usually measured in ______.","[""angstrom units"",""micrometers"",""both angstrom units and micrometers"",""None of the above""]",2
+"In photodiodes, an increase in light intensity _______ the reverse current.","[""increases"",""decreases"",""maintains"",""None of the above""]",0
+"Ge has a ______ dark current and a ______ level of reverse current than silicon.","[""higher, lower"",""higher, higher"",""lower, higher"",""lower, lower""]",1
+"The response time for cadmium selenide (CdSe) is ______.","[""100 ms"",""50 ms"",""25 ms"",""10 ms""]",3
+"A decrease in illumination ______ the resistance Rλ of a photoconductive cell.","[""decreases"",""increases"",""maintains"",""None of the above""]",1
+"LCDs have ______ power requirement than (as) LEDs.","[""a lower"",""a higher"",""the same"",""None of the above""]",0
+"LCDs are characteristically ______ LEDs.","[""the same speed as"",""much slower than"",""faster than"",""much faster than""]",1
+"______ is (are) the most widely used material(s) for solar cells.","[""Selenium"",""Silicon"",""Both selenium and silicon"",""Cadmium sulfide""]",2
+"In general, silicon ______.","[""has a higher conversion efficiency"",""has greater stability"",""is less subject to fatigue"",""All of the above""]",3
+"Typical levels of efficiency for solar cells range from ______ to ______.","[""10%, 40%"",""40%, 50%"",""50%, 75%"",""75%, 100%""]",0
+"Which of the following devices has (have) four layers of semiconductor materials?","[""Silicon-controlled switch (SCS)"",""Gate turn-off switch (GTO)"",""Light-activated silicon-controlled rectifier (LASCR)"",""All of the above""]",3
+"A thyristor is a _____-layer semiconductor material device.","[""2"",""3"",""4"",""5""]",2
+"Which of the following devices is unquestionably of the greatest interest today?","[""SCR"",""GTO"",""LASCR"",""SCS""]",0
+"What is the frequency range of application of SCRs?","[""About 10 kHz"",""About 50 kHz"",""About 250 kHz"",""About 1 mHz""]",1
+"Which one of the SCR terminals fires the SCR?","[""Anode"",""Cathode"",""Gate"",""All of the above""]",2
+"What is the typical value of the reverse resistance of SCRs?","[""1 \u2126 to 10 \u2126"",""100 \u2126 to 1 k\u2126"",""1 k \u2126 to 50 k\u2126"",""100 k\u2126 or more""]",3
+"Which of the following transistors is an SCR composed of?","[""npn, pnp"",""npn, npn"",""pnp, pnp"",""None of the above""]",0
+"Which of the transistors of an SCR are conducting when the SCR is fired and is in the conduction mode?","[""npn"",""pnp"",""Both npn and pnp"",""Neither npn nor pnp""]",2
+"What is the range of the turn-on times in high-power SCR devices?","[""30 \u00b5s to 100 \u00b5s"",""10 \u00b5s to 25 \u00b5s"",""5 \u00b5s to 8 \u00b5s"",""1 \u00b5s to 5 \u00b5s""]",1
+"What is the typical range of turn-off times for SCRs?","[""5 \u00b5s to 30 \u00b5s"",""1 \u00b5s to 5 \u00b5s"",""0.1 \u00b5s to 1 \u00b5s"",""0.01 \u00b5s to 0.1 \u00b5s""]",0
+"Which of the following parameters are usually provided by the manufacturer on the specification sheet for SCRs?","[""Turn-on time (ton )"",""Turn-off time (toff )"",""Junction and case temperatures (tj and tc )"",""All of the above""]",3
+"How many terminals does a silicon-controlled switch (SCS) device have?","[""2"",""3"",""4"",""5""]",2
+"What is the typical value of the triggering anode gate for SCS devices?","[""1.5 mA"",""150 A"",""15 A"",""1 A""]",0
+"Which of the following is (are) the advantages of the SCS over a corresponding SCR?","[""Reduced turn-off time"",""Increased control and triggering sensitivity"",""More predictable firing situation"",""All of the above""]",3
+"Which of the following areas is (are) applications of an SCS?","[""Counters"",""Pulse generators"",""Voltage sensors"",""All of the above""]",3
+"Which of the following devices has the smallest turn-off time?","[""SCR"",""GTO"",""SCS"",""LASCR""]",1
+"Which of the following devices has nearly the same turn-on time as turn-off time?","[""SCR"",""GTO"",""SCS"",""LASCR""]",1
+"What is the maximum current (rms) rating for commercially available LASCRs today?","[""3 A"",""15 A"",""20 A"",""25 A""]",0
+"How many terminals does a Shockley diode have?","[""5"",""4"",""3"",""2""]",3
+"Which of the following devices does not have a cathode terminal?","[""SCR"",""SCS"",""Triac"",""Shockley diode""]",2
+"Which of the following devices has a negative-resistance region in its characteristics curve?","[""SCR"",""SCS"",""Unijunction transistor"",""Phototransistor""]",2
+"What is the range of the variable resistor in the equivalent circuit of a unijunction transistor?","[""50 \u2126 to 5 k\u2126"",""6 k\u2126 to 10 k\u2126"",""5 \u2126 to 50 \u2126"",""1 \u2126 to 5 \u2126""]",0
+"The ISO-LIT Q1 16-pin Litronix opto-isolator DIP contains _____ opto-isolators.","[""4"",""8"",""12"",""6""]",0
+"How many terminals does a programmable unijunction transistor (PUT) have?","[""4"",""3"",""2"",""1""]",1
+"Determine RB1 for a silicon PUT if it is determined that h = 0.84, VP = 11.2 V, and RB2 = 5 kΩ.","[""12.65 k\u2126"",""16.25 k\u2126"",""20.00 k\u2126"",""26.25 k\u2126""]",1
+"The two-layer semiconductor diode has led to ______ layer devices.","[""three-"",""four-"",""five-"",""All of the above""]",3
+"The four-layer devices with a control mechanism are commonly referred to as ______.","[""thyristors"",""transistors"",""diodes"",""None of the above""]",0
+"______ are areas of application for SCRs.","[""Relay controls"",""Time-delay circuits"",""Motor controls"",""All of the above""]",3
+"SCRs have been designed to control powers as high as _____, with individual ratings as high as _____ at _____.","[""1800 MW, 10 A, 2000 V"",""1800 MW, 2000 A, 10 V"",""10 MW, 2000 A, 1800 V"",""2000 MW, 10 A, 1800 V""]",2
+"The _____ are the terminals of SCRs.","[""anode and cathode"",""anode, gate, and cathode"",""base, anode, and cathode"",""gate and anode""]",1
+"In the conduction region, the dynamic resistance of the SCR is typically _____ to _____.","[""0.01 \u2126, 0.1 \u2126"",""1 \u2126, 10 \u2126"",""50 \u2126, 100 \u2126"",""500 \u2126, 10 k\u2126""]",0
+"The SCRs have typical turn-on times of _____ in the regeneration action.","[""0.1 \u03bcs to 1 \u03bcs"",""0.1 ms to 1 ms"",""3 ms to 5 ms"",""5 ms to 9 ms""]",0
+"The method(s) for turning off an SCR is (are) categorized as ______.","[""current interruption"",""forced commutation"",""both current interruption and forced commutation"",""None of the above""]",2
+"At –65ºC the minimum current that will trigger the series of an SCR is _____, while at +150ºC only _____ is required.","[""20 mA, 100 mA"",""50 mA, 75 mA"",""75 mA, 50 mA"",""100 mA, 20 mA""]",3
+"In a half-wave variable-resistance phase control operation, the control cannot be extended past a ______ phase displacement.","[""45\u00b0"",""90\u00b0"",""135\u00b0"",""180\u00b0""]",1
+"The _____ are the terminals of an SCS.","[""anode, anode gate, cathode gate, and cathode"",""anode, cathode, cathode gate, and gate"",""anode, anode gate, cathode, and gate"",""anode, cathode, and gate""]",0
+"The _____ the anode gate current, the _____ the required anode-to-cathode voltage to turn the SCS device on.","[""higher, higher"",""lower, lower"",""higher, lower"",""None of the above""]",2
+"The anode gate connection can be used to turn the SCS device _____.","[""on"",""off"",""neither on nor off"",""either on or off""]",3
+"To turn on an SCS device, a _____ pulse must be applied to the anode gate terminal; to turn off the device, a _____ pulse is required.","[""positive, positive"",""negative, positive"",""positive, negative"",""negative, negative""]",1
+"In general, the triggering (turn-on) anode gate current is _____ the required cathode gate current.","[""larger than"",""the same as"",""smaller than"",""None of the above""]",0
+"A(n) _____ can be triggered in either direction.","[""SCR"",""Shockley diode"",""diac"",""SCS""]",2
+"_____ is (are) the element(s) of a unijunction transistor’s equivalent circuit.","[""One fixed resistor"",""A variable resistor"",""A diode"",""All of the above""]",3
+"The current induced by photoelectric effects is the _____ current of the transistor.","[""collector"",""base"",""emitter"",""None of the above""]",1
+"_____ in light intensity corresponds with _____ in collector current.","[""An increase, an increase"",""An increase, a decrease"",""A decrease, an increase"",""None of the above""]",0
+"_____ is(are) example(s) of applications of phototransistors.","[""Punch-card readers"",""Lighting control (for example, on highways)"",""Level indication"",""All of the above""]",3
+"An opto-isolator contains _____.","[""an infrared LED"",""a photodetector"",""both an infrared LED and a photodetector"",""None of the above""]",2
+"The switching time of an opto-isolator _____ with increased current, while for many devices it is exactly the reverse.","[""increases"",""decreases"",""remains the same"",""None of the above""]",1
+"In a programmable unijunction transistor (PUT), the ______ can be controlled through a couple of resistors and the supply voltage.","[""interbase resistance RBB"",""intrinsic stand-off ratio"",""emitter firing potential VP"",""All of the above""]",3
+"The peak and valley currents of the PUT are typically ______ those of a similarly rated UJT.","[""lower than"",""the same as"",""higher than"",""None of the above""]",0
+"The minimum operating voltage of the UJT is typically ______ that of a similarly rated PUT.","[""lower than"",""the same as"",""higher than"",""None of the above""]",2
+"By how much does the output signal vary for a class AB power amplifier?","[""360\u00b0"",""180\u00b0"",""Between 180\u00b0 and 360\u00b0"",""Less than 180\u00b0""]",2
+"Which type of power amplifier is biased for operation at less than 180º of the cycle?","[""Class A"",""Class B or AB"",""Class C"",""Class D""]",2
+"Which type of amplifier uses pulse (digital) signals in its operation?","[""Class A"",""Class B or AB"",""Class C"",""Class D""]",3
+"Which of the power amplifiers has the lowest overall efficiency?","[""Class A"",""Class B or AB"",""Class C"",""Class D""]",0
+"Which of the following describe(s) a power amplifier?","[""It can handle large power."",""It can handle large current."",""It does not provide much voltage gain."",""All of the above""]",3
+"_______ amplifiers primarily provide sufficient power to an output load to drive a speaker from a few watts to tens of watts.","[""Small-signal"",""Power"",""Large-signal"",""None of the above""]",1
+"The main features of a large-signal amplifier is the circuit’s ________.","[""power efficiency"",""maximum power limitations"",""impedance matching to the output device"",""All of the above""]",3
+"Class AB operation is ________ operation.","[""similar to class A"",""similar to class B"",""similar to class C"",""None of the above""]",3
+"Categorize the power efficiency of each class of amplifier, from worst to best.","[""A, B, AB, D"",""A, AB, D, B"",""A, AB, B, D"",""any of the above""]",2
+"What is the maximum efficiency of a class A circuit with a direct or series-fed load connection?","[""90%"",""78.5%"",""50%"",""25%""]",3
+"What is the ratio of the secondary voltage to the primary voltage with the turn ratio in the winding","[""N2\/N1"",""(N1\/N2)2"",""(N1\/N2)1\/3"",""N1 \u00d7 N2""]",0
+"Calculate the effective resistance seen looking into the primary of a 20:1 transformer connected to an 8- Ω load.","[""3.2 k\u2126"",""3.0 k\u2126"",""2.8 k\u2126"",""1.8 k\u2126""]",0
+"What transformer turns ratio is required to match an 8-speaker load so that the effective load resistance seen at the primary is 12.8 k?","[""20:1"",""40:1"",""50:1"",""60:1""]",1
+"Calculate the efficiency of a transformer-coupled class A amplifier for a supply of 15 V and an output of V(p) = 10 V.","[""25%"",""33.3%"",""50%"",""78.5%""]",1
+"The maximum efficiency of a transformer-coupled class A amplifier is _______.","[""25%"",""50%"",""78.5%"",""63.6%""]",1
+"What is the maximum efficiency of a class B circuit?","[""90%"",""78.5%"",""50%"",""25%""]",1
+"How many transistors must be used in a class B power amplifier to obtain the output for the full cycle of the signal?","[""0"",""1"",""2"",""3""]",2
+"In class B operation, at what fraction of VCC should the level of VL(p) be to achieve the maximum power dissipated by the output transistor?","[""0.5"",""0.636"",""0.707"",""1""]",1
+"Calculate the efficiency of a class B amplifier for a supply voltage of VCC = 20 V with peak output voltage of VL(p) = 18 V. Assume RL = 16 Ω.","[""78.54%"",""75%"",""70.69%"",""50%""]",2
+"Which of the following is (are) the disadvantage(s) of a class B complementary-symmetry circuit?","[""It needs two separate voltage sources."",""There is crossover distortion in the output signal."",""It does not provide exact switching of one transistor off and the other on at the zero-voltage condition."",""All of the above""]",3
+"Which of the push-pull amplifiers is presently the most popular form of the class B power amplifier?","[""Quasi-complementary"",""Transformer-coupled"",""Complementary-symmetry"",""None of the above""]",0
+Complementary-symmetry,"[""None of the above"",""nMOS and pMOS transistors can be used for class B."",""True"",""False""]",0
+"Calculate the harmonic distortion component for an output signal having fundamental amplitude of 3 V and a second harmonic amplitude of 0.25 V.","[""3.83%"",""38.3%"",""83.3%"",""8.33%""]",3
+"Which of the following instruments displays the harmonics of a distorted signal?","[""Digital multimeter"",""Spectrum analyzer"",""Oscilloscope"",""Wave analyzer""]",1
+"Which of the following instruments allows more precise measurement of the harmonic components of a distorted signal?","[""Digital multimeter"",""Spectrum analyzer"",""Oscilloscope"",""Wave analyzer""]",3
+"What is the maximum temperature rating for silicon power transistors?","[""50\u00b0 to 80\u00b0"",""100\u00b0 to 110\u00b0"",""150\u00b0 to 200\u00b0"",""250\u00b0 to 300\u00b0""]",2
+"Which of the power amplifiers is not intended primarily for large-signal or power amplification?","[""Class A"",""Class B or AB"",""Class C"",""Class D""]",2
+"Determine what maximum dissipation will be allowed for a 70-W silicon transistor (rated at 25°C) if derating is required above 25°C by a derating factor of 0.6 W/°C at a case temperature of 100º.","[""25 W"",""30 W"",""35 W"",""40 W""]",0
+"A silicon power transistor is operated with a heat sink (θSA = 1.5°C/W). The transistor, rated at 150 W (25°C), has θJC = 0.5°C/W, and the mounting insulation has θCS = 0.6 ºC/W. What is the maximum power that can be dissipated if the ambient temperature is 50°C and TJmax = 200°C?","[""61.5 W"",""60.0 W"",""57.7 W"",""55.5 W""]",2
+"Which of the following transistors has been quite popular as the driver device for class D amplification?","[""BJT"",""FET"",""UJT"",""MOSFET""]",3
+"Power amplifiers primarily provide sufficient power to an output load, typically from _______ to _______.","[""a few kW, tens of kW"",""500 W, 1 kW"",""100 W, 500 W"",""a few W, tens of W""]",3
+"The main feature(s) of a large-signal amplifier is (are) the _______.","[""circuit\u2019s power efficiency"",""maximum amount of power that the circuit is capable of handling"",""impedance matching to the output"",""All of the above""]",3
+"In ________ power amplifiers, the output signal varies for a full 360° of the cycle.","[""class A"",""class B or AB"",""class C"",""class D""]",0
+"In class B power amplifiers, the output signal varies for _______ of the cycle.","[""360\u00b0"",""180\u00b0"",""between 180\u00b0 and 360\u00b0"",""less than 180\u00b0""]",1
+"_______ amplifiers have the highest overall efficiency.","[""Class A"",""Class B or AB"",""Class C"",""Class D""]",3
+"Class D operation can achieve power efficiency of over ________.","[""90%"",""78.5%"",""50%"",""25%""]",0
+"The beta of a power transistor is generally _______.","[""more than 200"",""100 to 200"",""less than 100"",""0""]",2
+"A form of class A amplifier having maximum efficiency of _______ uses a transformer to couple the output signal to the load.","[""90%"",""78.5%"",""50%"",""25%""]",2
+"The reflected impedance seen from one side of the transformer to the other side is _______.","[""N1\/N2"",""(N1\/N2)2"",""(N1\/N2)1\/3"",""N1\u00d7 N2""]",1
+"In a class A transformer-coupled power amplifier, _______ winding resistance of the transformer determine(s) the dc load line for the circuit.","[""the ac"",""the dc"",""both the ac and dc"",""neither the ac nor dc""]",1
+"The slope of the ac load line in the class A transformer-coupled transistor is _______.","[""\u20131\/RL (load resistor)"",""1\/(a<sup>2<\/sup>RL)"",""\u20131\/(a<sup>2<\/sup>RL)"",""1\/RL""]",2
+"The amount of power dissipated by the transistor is the ________ of that drawn from the dc supply (set by the bias point) and the amount delivered to the ac load.","[""product"",""difference"",""average"",""none of the above""]",1
+"A class A amplifier dissipates _______ power when the load is drawing maximum power from the circuit.","[""the least"",""about the same"",""the most"",""None of the above""]",0
+"In a class A transformer-coupled amplifier, the _______ the value of VCEmax and the _______ the value of VCEmin, the _______ the efficiency to (from) the theoretical limit of 50%.","[""larger, smaller, farther"",""larger, smaller, closer"",""smaller, larger, closer"",""None of the above""]",1
+"In class B operation, the current drawn from a single power supply has the form of ________ rectified signal.","[""a full-wave"",""a half-wave"",""both a full-wave and a half-wave"",""None of the above""]",0
+"The highest efficiency is obtained in class B operation when the level of VL(p) is equal to _______.","[""0.25VCC"",""0.50VCC"",""VCC"",""2VCC""]",2
+"_______ transistors can be used to build a class B amplifier.","[""npn and pnp"",""nMOS and pMOS"",""Both npn and pnp or nMOS and pMOS"",""None of the above""]",2
+"The complementary Darlington-connected transistor for a class B amplifier provides _______ output current and _______ output resistance.","[""higher, higher"",""higher, lower"",""lower, lower"",""lower, higher""]",1
+"The fundamental component is typically _______ any harmonic component.","[""larger than"",""the same as"",""smaller than"",""None of the above""]",0
+"In Fourier technique, any periodic distorted waveform can be represented by _______ the fundamental and all harmonic components.","[""multiplying"",""subtracting"",""dividing"",""adding""]",3
+"Improvement in production techniques of power transistors have _______.","[""produced higher power ratings in small-sized packaging cases"",""increased the maximum transistor breakdown voltage"",""provided faster-switching power transistors"",""All of the above""]",3
+"The greater the power handled by the power transistor, _______ the case temperature.","[""the higher"",""the lower"",""there is no change in"",""None of the above""]",0
+"The _______ has the hottest temperature in a power transistor.","[""heat sink"",""case"",""junction"",""None of the above""]",2
+"A heat sink provides _______ thermal resistance between case and air.","[""a high"",""a low"",""the same"",""None of the above""]",1
+"A _______ power amplifier is limited to use at one fixed frequency.","[""class A"",""class B or AB"",""class C"",""class D""]",2
+"Calculate the ripple of a filter output having a 20-V dc component and a 1.7 Vr(rms) ac component.","[""6%"",""8.5%"",""85%"",""58%""]",1
+"Calculate the voltage regulation of a power supply having VNL = 50 V and VFL = 48 V.","[""4.17%"",""5.2%"",""6.2%"",""7.1%""]",0
+"Across which of the following components of a power supply does the average (dc) voltage exist?","[""Diodes"",""Secondary of the transformer"",""Capacitor filter"",""None of the above""]",2
+"Calculate the ripple voltage of a full-wave rectifier with a 75-µF filter capacitor connected to a load drawing 40 mA.","[""1.20 V"",""1.28 V"",""1.32 V"",""1.41 V""]",1
+"What is the ratio of the period of the output voltage to the period of the input voltage in a full-wave rectifier?","[""0"",""0.5"",""1"",""2""]",1
+"If the value of full-load voltage is the same as the no-load voltage, the voltage regulation calculated is _____ %, which is the best expected.","[""0"",""1"",""99"",""100""]",0
+"In which period is the capacitor filter charged in a full-wave rectifier?","[""The time during the positive cycle"",""The time during which the diodes are not conducting"",""The time during which the diode(s) is (are) conducting"",""The time during the negative cycle""]",2
+"In which period is the capacitor filter discharged through the load in a full-wave rectifier?","[""The time during the positive cycle"",""The time during which the diodes are not conducting"",""The time during which the diode(s) is (are) conducting"",""The time during the negative cycle""]",1
+"If a peak rectified voltage for the full-wave filter circuit is 40 V, calculate the filter dc voltage if C = 75 µF and load current is 40 mA.","[""27.9 V"",""32.12 V"",""37.78 V"",""40 V""]",2
+"Calculate the ripple of a capacitor filter for a peak rectified voltage of 40 V, a capacitor value C = 75 µF, and a load current of 40 mA.","[""3.2%"",""3.59%"",""4.03%"",""4.59%""]",0
+"What is the ratio of the peak ripple voltage level to its rms voltage level?","[""\u221a3"",""\u221a2"",""\u221a3\/2"",""\u221a2\/2""]",0
+"What is the purpose of an additional RC filter section in a power supply circuit?","[""Increase the dc voltage component"",""Increase the ac voltage component"",""Decrease the ac voltage component"",""None of the above""]",2
+"Calculate the dc voltage across a 2-kΩ load for an RC filter section (R = 50 Ω, C = 20 µF). The dc voltage across the initial filter capacitor is Vdc = 50 V.","[""40.78 V"",""42.78 V"",""45.78 V"",""48.78 V""]",3
+"For a full-wave rectifier with ac ripple at 120 Hz, the impedance of a capacitor can be calculated using XC = ______.","[""0.707 \u00f7 C"",""1.414 \u00f7 C"",""1.3 \u00f7 C"",""0.785 \u00f7 C""]",2
+"In a simple series regulator circuit, which of the following components is the controlling element?","[""Load resistor"",""Zener diode"",""Transistor Q1"",""None of the above""]",2
+"Which component(s) set(s) the voltage across the load in a basic transistor shunt regulator?","[""Zener diode"",""Transistor base-emitter voltage"",""Both the Zener diode and the transistor base-emitter voltage"",""None of the above""]",2
+"In an improved shunt regulator, which of the following components sets the reference voltage?","[""Transistor Q1"",""Zener diode"",""Transistor Q2"",""RS""]",1
+"For what range of load current can voltage regulators be selected for operation?","[""Hundreds of picoamperes to tens of nanoamperes"",""Hundreds of picoamperes to tens of milliamperes"",""Hundreds of milliamperes to tens of amperes"",""None of the above""]",2
+"For what range of fixed regulated voltages do the series 78xx regulators provide regulation?","[""\u20135 V to +24 V"",""+5 V to +24 V"",""\u20135 V to \u201324 V"",""None of the above""]",1
+"What is the typical dropout voltage for the 7812 fixed positive voltage regulator?","[""4 mV"",""100 mV"",""1.5 V"",""2 V""]",3
+"How many diodes conduct in the full-wave bridge rectifier while the capacitor is being charged?","[""1"",""2"",""3"",""4""]",1
+"What is the range of the voltage level of the LM317 adjusted voltage regulator?","[""0 V to 5 V"",""1.2 V to 37 V"",""\u20135 V to \u201324 V"",""5 V to 24 V""]",1
+"What are the typical values of Vref and Iadj for the LM317 adjustable voltage regulator?","[""1.0 V, 100 mA"",""1.5 V, 100 mA"",""1.25 V, 100 \u03bcA"",""1.25 V, 10 mA""]",2
+"The 7812 regulator IC provides _____.","[""5 V"",""\u20135 V"",""12 V"",""\u201312 V""]",2
+"The 7912 regulator IC provides _____ .","[""5 V"",""\u20135 V"",""12 V"",""\u201312 V""]",3
+"The 7905 regulator IC provides _____.","[""5 V"",""\u20135 V"",""12 V"",""\u201312 V""]",1
+"The 7805 regulator IC provides _____.","[""5 V"",""\u20135 V"",""12 V"",""\u201312 V""]",0
+"A complete power supply has a _____.","[""rectifier"",""filter"",""voltage regulator"",""All of the above""]",3
+"The output resulting from a rectifier is a(n) ______.","[""ac voltage"",""pure dc voltage"",""pulsating dc voltage"",""None of the above""]",2
+"The ______ the ac variation with respect to the dc level, the ______ the filter circuit’s operation.","[""smaller, better"",""larger, better"",""smaller, worse"",""None of the above""]",0
+"A dc voltmeter reads the _______ while measuring a pulsating dc voltage.","[""ac component of the signal"",""average of the signal"",""peak of the pulsating signal"",""None of the above""]",1
+"The filter output voltage of a power supply _______ when load current is drawn from the supply.","[""remains the same"",""is increased"",""is reduced"",""None of the above""]",2
+"The ______ the voltage regulation, the ______ the operation of the voltage supply circuit.","[""smaller, better"",""larger, better"",""smaller, worse"",""None of the above""]",0
+"A full-wave rectified signal has ______ dc component and ______ ripple than (as) the half-wave rectified voltage.","[""a larger, more"",""a smaller, less"",""the same, less"",""a larger, less""]",3
+"If the value of the full-load voltage is the same as the no-load voltage, the voltage regulation calculated is _______.","[""0%"",""a negative percentage"",""a positive percentage"",""None of the above""]",0
+"In a half-wave rectifier, the dc voltage level is ______ the ripple voltage level.","[""smaller than"",""the same as"",""larger than"",""None of the above""]",0
+"In a full-wave rectifier, the dc voltage level is ______ the ripple voltage level.","[""smaller than"",""the same as"",""larger than"",""None of the above""]",2
+"In a full-wave rectifier, if no load were connected across the capacitor, the output voltage would ideally be a(n) ______.","[""ac voltage"",""constant dc voltage"",""pulsating dc voltage"",""ramp voltage""]",1
+"The output of a loaded power supply is ______ that of the unloaded.","[""the same as"",""larger than"",""smaller than"",""None of the above""]",2
+"The charging and discharging of the capacitor filter take ______ of the period of the input voltage.","[""0.25"",""0.5"",""0.75"",""1""]",1
+"The frequency of the output voltage of a full-wave rectifier is ______ the frequency of its input voltage.","[""the same as"",""twice"",""one-half"",""one-third""]",1
+"The ripple voltage Vr is a result of the ______.","[""conduction of the diode(s)"",""transformer windings"",""charging and discharging of the capacitor"",""load resistor""]",2
+"The ______ values of capacitor filter provide ______ ripple and ______ average voltage.","[""larger, more, higher"",""smaller, less, lower"",""smaller, more, higher"",""larger, less, higher""]",3
+"The ______ the diode conduction time, the ______ the amount of the charging current through the capacitor filter.","[""shorter, larger"",""shorter, smaller"",""longer, larger"",""None of the above""]",0
+"In a current-limiting circuit, ______ provide(s) the limiting of the maximum load current.","[""the Zener diode"",""the short-circuit resistor Rsc"",""the transistor Q1"",""both the short-circuit resistor Rsc and transistor Q2""]",3
+"In a foldback configuration, limiting the current reduces ______, protecting the load from overcurrent as well as protecting the regulator.","[""the output voltage"",""the output current"",""both the output voltage and output current"",""None of the above""]",2
+"A type of regulator circuit that is quite popular for its efficient transfer of power to the load is the ______.","[""current-limiting voltage regulator"",""switching regulator"",""foldback limiting regulator"",""op-amp series regulator""]",1
+"Regulator IC units contain the circuitry for the _______.","[""reference source"",""comparator amplifier"",""control device and overload protection"",""All of the above""]",3
+"IC units provide regulation of _______.","[""a fixed positive voltage"",""a fixed negative voltage"",""an adjustably set voltage"",""All of the above""]",3
+"The specification sheet for the 7812 fixed positive voltage regulator shows that the output voltage could be as low as ______ or as high as ______.","[""11.5 V, 12.5 V"",""11.2 V, 12.2 V"",""11 V, 13 V"",""8 V, 15 V""]",0
+"The series 7900 ICs are _______.","[""positive voltage regulators"",""negative voltage regulators"",""both positive and negative voltage regulators"",""adjustable-set voltage regulators""]",1
+"The _______ is (are) an adjustable voltage regulator.","[""series 7800 ICs"",""series 7900 ICs"",""LM317"",""None of the above""]",2
+"What is the resistor value of an ideal diode in the region of conduction?","[""0"",""5 k"",""Undefined"",""Infinity""]",0
+"What is the state of an ideal diode in the region of nonconduction?","[""An open circuit"",""A short circuit"",""Unpredictable"",""Undefined""]",0
+"The diode _______.","[""is the simplest of semiconductor devices"",""has characteristics that closely match those of a simple switch"",""is a two-terminal device"",""All of the above""]",3
+"is a two-terminal device","[""All of the above"",""The ideal diode is a(n) _______ circuit in the region of nonconduction."",""open"",""short""]",0
+"Which of the following is an atom composed of?","[""Electrons"",""Protons"",""Neutrons"",""All of the above""]",3
+"How many orbiting electrons does the germanium atom have?","[""4"",""14"",""32"",""41""]",2
+"How many valence electrons does a silicon atom have?","[""1"",""2"",""3"",""4""]",3
+"One eV is equal to _______ J.","[""6.02 \u00d7 10^23"",""1.6 \u00d7 10^\u201319"",""6.25 \u00d7 10^18"",""1.66 \u00d7 10^\u201324""]",1
+"Which of the following elements is most frequently used for doping pure Ge or Si?","[""Boron"",""Gallium"",""Indium"",""All of the above""]",3
+"The diffused impurities with ________ valence electrons are called donor atoms.","[""4"",""3"",""5"",""0""]",2
+"In what state is a silicon diode if the voltage drop across it is about 0.7 V?","[""No bias"",""Forward bias"",""Reverse bias"",""Zener region""]",1
+"What unit is used to represent the level of a diode forward current IF?","[""pA"",""nA"",""A"",""mA""]",3
+"Which of the following ratings is true?","[""Si diodes have higher PIV and narrower temperature ranges than Ge diodes."",""Si diodes have higher PIV and wider temperature ranges than Ge diodes."",""Si diodes have lower PIV and narrower temperature ranges than Ge diodes."",""Si diodes have lower PIV and wider temperature ranges than Ge diodes.""]",1
+"Si diodes have lower PIV and narrower temperature ranges than Ge diodes.","[""Si diodes have lower PIV and wider temperature ranges than Ge diodes."",""It is not uncommon for a germanium diode with an Is in the order of 1\u20132 A at 25\u00b0C to have leakage current of 0.1 mA at a temperature of 100\u00b0C."",""True"",""False""]",0
+"Calculate static resistance R<sub>D</sub> of a diode having I<sub>D</sub> = 30 mA and V<sub>D</sub> = 0.75 V.","[""25"",""40"",""0.04"",""0.025""]",0
+"Calculate ID if R<sub>D</sub> = 30 and V<sub>D</sub> = 0.84 V.","[""28 mA"",""0.028 mA"",""2.8 A"",""280 A""]",0
+"The _________ diode model is employed most frequently in the analysis of electronic systems.","[""ideal device"",""simplified"",""piecewise-linear"",""none of the above""]",1
+"Calculate the power dissipation of a diode having I<sub>D</sub> = 40 mA.","[""28 mW"",""28 W"",""280 mW"",""Undefined""]",0
+"Which capacitance dominates in the reverse-bias region?","[""depletion"",""conversion"",""Diffusion"",""None of the above""]",0
+"Which capacitance dominates in the forward-bias region?","[""Diffusion"",""Transition"",""Depletion"",""None of the above""]",0
+"At what kind of operating frequency diffusion or transition is a capacitor represented in parallel with the ideal diode?","[""Low frequency"",""Moderate frequency"",""Mid frequency"",""Very high frequency""]",3
+"What is the value of the transition capacitance for a silicon diode when V<sub>D</sub> = 0?","[""1 pF"",""3 pF"",""5 pF"",""10 pF""]",1
+"Which of the following devices can check the condition of a semiconductor diode?","[""Digital display meter (DDM)"",""Multimeter"",""Curve tracer"",""All of the above""]",3
+"What does a high resistance reading in both forward- and reverse-bias directions indicate?","[""A good diode"",""An open diode"",""A shorted diode"",""A defective ohmmeter""]",1
+"The condition of a semiconductor diode can be determined quickly using a _________.","[""DDM"",""VOM"",""curve tracer"",""Any of the above""]",3
+"Determine the nominal voltage for the Zener diode at a temperature of 120°C if the nominal voltage is 5.1 volts at 25°C and the temperature coefficient is 0.05%/°C.","[""4.6 V"",""4.86 V"",""5.1 V"",""5.34 V""]",3
+"Calculate the temperature coefficient in %/°C of a 10-V nominal Zener diode at 25°C if the nominal voltage is 10.2 V at 100°C.","[""0.0238"",""0.0251"",""0.0267"",""0.0321""]",2
+"In which of the following color(s) is (are) LEDs presently available?","[""Yellow"",""White"",""Orange"",""All of the above""]",3
+"What is the maximum power rating for LEDs?","[""150 mW"",""500 mW"",""1 W"",""10 W""]",0
+"In which of the following is the light intensity measured?","[""Candela"",""Efficacy"",""Flux"",""Illumination""]",0
+"What is the range of the operating voltage level for LEDs?","[""5\u201312 mV"",""1.7\u20133.3 V"",""5\u201312 V"",""20\u201325 V""]",1
+"In general, LEDs operate at voltage levels from _____ V to _____ V.","[""1.0, 3.0"",""1.7, 3.3"",""0.5, 4.0"",""None of the above""]",1
+"A(n) _______ is the simplest of semiconductor devices.","[""diode"",""transistor"",""operational amplifier"",""SCR""]",0
+"The term ________ is often used when comparing the resistance level of materials.","[""permittivity"",""inductivity"",""conductivity"",""resistivity""]",3
+"In the atomic lattice the _______ and _______ form the nucleus.","[""electrons, neutrons"",""electrons, protons"",""neutrons, protons"",""None of the above""]",2
+"An increase in temperature of a semiconductor can result in a _______ in the number of free electrons in the material.","[""substantial increase"",""substantial decrease"",""slight decrease"",""no change""]",0
+"Ge and Si have a(n) _______ coefficient in forward bias.","[""positive temperature"",""negative temperature"",""absolute temperature"",""temperature free""]",1
+"Any electron that has left its parent atom has _______ energy state relative to any electron in the atomic structure.","[""the same"",""a lower"",""a higher"",""an undefined""]",2
+"Introducing those impurity elements that have _______ valence electrons creates the n-type material.","[""0"",""3"",""4"",""5""]",3
+"In n-type material the _______ is called the majority carrier.","[""electron"",""hole"",""proton"",""neutron""]",0
+"The diffused impurities with _______ valence electrons are called acceptor atoms.","[""0"",""3"",""4"",""5""]",1
+"The reverse-saturation current level is typically measured in _______.","[""pA"",""\u00b5A"",""mA"",""A""]",1
+"The depletion width _______ in the forward bias, which results in having a majority flow across the junction.","[""widens"",""remains unchanged"",""shrinks"",""widens and shrinks alternatively""]",2
+"The forward characteristics curve of a diode grows in _______ form.","[""linear"",""exponential"",""logarithmic"",""sinusoidal""]",1
+"The potential at which the characteristics curve vertical rise occurs is commonly referred to as the _______.","[""offset"",""threshold"",""firing potential"",""All of the above""]",3
+"The reverse saturation current Is will just _______ in magnitude for every 10° C increase in temperature.","[""double"",""remain the same"",""halve"",""triple""]",0
+"Diodes are connected _______ to increase the current-carrying capacity.","[""in series"",""in parallel"",""in parallel-series"",""None of the above""]",1
+"The _______ the current through a diode, the _______ the dc resistance level.","[""higher, lower"",""lower, lower"",""lower, higher"",""higher, higher""]",2
+"Varying the _______ can control the location of the Zener region.","[""forward current"",""doping levels"",""forward voltage"",""dc resistance""]",1
+"The test current in a Zener diode IZT is the current defined by the _______ power level.","[""0.25"",""0.5"",""0.75"",""1.00""]",0
+"The heavier the current in a Zener diode in reverse bias, _______ dynamic resistance value.","[""the more the"",""the less the"",""there is substantially more"",""there is no change in the""]",1
+"The intensity of LED is greatest at _______ degrees and the least at _______ degrees.","[""0, 90"",""45, 90"",""0, 45"",""90, 180""]",0
+"The temperature coefficient can be _______ for different Zener levels.","[""positive"",""negative"",""zero"",""All of the above""]",3
+"The reverse recovery time of most commercial switching diodes is in the range of _______.","[""picoseconds"",""a few nanoseconds"",""several microseconds"",""milliseconds""]",1
+"The ac resistance of a diode is the _______ of the characteristic curve at the Q-point of operation.","[""reciprocal of the slope"",""slope"",""midpoint"",""average value""]",0
+"Generally the value of ac resistance is _______ the value of dc resistance at the same operating point.","[""smaller than"",""larger than"",""the same as"",""unrelated to""]",0
+"The reverse-bias current _______ with the increase of temperature.","[""decreases"",""increases"",""remains the same"",""None of the above""]",1

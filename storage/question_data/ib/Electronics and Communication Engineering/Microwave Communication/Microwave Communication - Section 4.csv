@@ -1,0 +1,132 @@
+question,A,B,C,D,E,answer,explanation
+<p>The domain mode in rectangular waveguide is</p>,TE<sub>01</sub>,TE<sub>02</sub>,TE<sub>10</sub>,TM<sub>11</sub>,,C,
+<p>The reverse voltage applied to a varactor diode</p>,is less than avalanche breakdown voltage,is more than avalanche breakdown voltage,may be more or less than a avalanche breakdown voltage,is very high as compared to avalanche breakdown voltage,,A, <p>The action of varactor diode is due to the capacitance of depletion layer. The thickness of depletion layer depends on the reverse bias which should not cause breakdown.</p> 
+"<p>To ensure that only dominant mode TE<sub>10</sub> is allowed to propagate in an air filled rectangular waveguide, the lower frequency limit and upper frequency limit are</p>",about 25% above <i>f</i><i><sub>c</sub></i> for TE<sub>10</sub> and 5% below <i>f</i><i><sub>c</sub></i> for TE<sub>20</sub> mode respectively,about 50% above <i>f</i><i><sub>c</sub></i> for TE<sub>10</sub> and 25% below <i>f</i><i><sub>c</sub></i> for TE<sub>20</sub> mode respectively,about 25% above <i>f</i><i><sub>c</sub></i> for TE<sub>10</sub> and 25% below <i>f</i><i><sub>c</sub></i> for TE<sub>20</sub> mode respectively,none of the above,,A,
+<p>The skin depth at 1000 MHz as compared to that at 500 MHz is</p>,2,12,0.707,0.5,,C,
+<p>The transit time (in cycles) for electrons in repeller space of reflex klystron oscillator for sustaining oscillations is (<i>n</i> is any integer)</p>,2(<i>n</i> - 1),2<i>n</i> - 1,"<img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/16-164-3.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/16-164-4.png""/>",,D,
+<p>In a TWT the amplitude of resultant wave travelling down the helix remains constant</p>,True,False,,,,B, <p>The signal gets strengthened.</p> 
+"<p>In the given figure forward current wave has a magnitude of<br/><img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/18-193.png""/></p>",0.45 A,0.3 A,0.2 A,0.1 A,,B," <p><img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/29-195.png""/></p> "
+<p>In an infinite line the input impedance at every point is equal to characteristic impedance.</p>,True,False,,,,A,
+"<p>Consider the following time parameters <ol style=""list-style-type: decimal; padding-bottom:10px;""><li style=""padding-top:10px;"">Domain growth time constant.</li><li style=""padding-top:10px;"">Transit time.</li><li style=""padding-top:10px;"">Dielectric relaxation time in positive mobility regime.</li></ol> Which of the above are used in connection width transferred electron device?</p>","1, 2, and 3",1 and 2 only,1 and 3 only,2 and 3 only,,A,
+<p>PIN diode has</p>,<i>p</i><sup>+</sup> and <i>n</i> layers separated by <i>i</i> layer,<i>p</i><sup>+</sup> and <i>n</i><sup>+</sup> layers separated by <i>i</i> layer,<i>p</i><sup>-</sup> and <i>n</i><sup>-</sup> layers separated by <i>i</i> layer,none of the above,,B,
+<p>The two terms used to describe performance of a directional coupler are</p>,coupling and directivity,gain and coupling,gain and directivity,gain and isolation,,A,
+<p>The number of PM radio channels which can be accommodated in a spectrum of 300 MHz is about</p>,10,100,500,1500,,D,
+"<p>Consider the following statements <ol style=""list-style-type: decimal; padding-bottom:10px;""><li style=""padding-top:10px;"">Gunn diode can be used in combinational logic circuits.</li><li style=""padding-top:10px;"">Gunn diode can be used in sequential logic circuits.</li><li style=""padding-top:10px;"">Both Gunn diode and GaAs Mesfet can be used in logic circuits.</li></ol> Which of the above statements are correct?</p>","1, 2, and 3",1 and 2 only,2 and 3 only,1 and 3 only,,A,
+"<p>In the given figure shows the equivalent circuit of a magic tee. If all ports are matched<br/><img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/20-240.png""/></p>","<i>n</i><sub>E</sub> = <i>n</i><sub>H</sub> = <span class=""root"">2</span>",<i>n</i><sub>E</sub> = <i>n</i><sub>H</sub> = 0.707,"<i>n</i><sub>E</sub> = <span class=""root"">2</span>, <i>n</i><sub>H</sub> = 0.707","<i>n</i><sub>H</sub> = 0.707, <i>n</i><sub>H</sub> = <span class=""root"">2</span>",,A,
+<p><p><b>Assertion (A):</b>  Microstrip is very commonly used in microwave integrated circuits.</p><p><b>Reason (R):</b> Microstrip has an easy access to the top-surface so that active and passive discrete components can be easily mounted.</p></p>,Both A and R are correct and R is correct explanation of A,Both A and R are correct but R is not correct explanation of A,A is correct but R is wrong,A is wrong but R is correct,,A," <p>A Microstrip line has a single dielectric substratc with ground plane on one side and a strip on the other face. </p>
+<p>Its special feature is easy access to top surface so that minor adjustments can be made after circuit fabrication. </p>
+<p>The high dielectric constant of the substrate reduces guide wavelength and circuit dimensions. </p>
+<p>A microstrip line is the most commomly used transmission structure for microwave integrated circuits.</p> "
+"<p>A 75 ohm line is first short terminated and minima locations are noted. Then the short is replaced by resistive load and minima location are again noted. If minima location are not altered and VSWR is 3, the value of resistive load is</p>",25 Ω,50 Ω,225 Ω,250 Ω,,C," <p><span class=""symbol"">r</span><i><sub>v</sub></i> <img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/29-163.png""/> and VSWR <img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/29-163-1.png""/>.</p> "
+<p>The word 'LORAN' means</p>,long range navigation,long range TV transmission,long range cable transmission,either (b) or (c),,A,
+"<p>In the given figure forward voltage wave has a magnitude<br/><img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/18-193.png""/></p>",90 V,60 V,30 V,10 V,,C,
+<p>The duty cycle of a radar transmitter is equal to</p>,(PRF) (pulse width),(PRF)/(pulse width),(pulse width)/(PRF),(pulse width) + (PRF),,A,
+<p>In a klystron amplifier the bunching effect</p>,converts velocity modulation into current modulation of beam,converts current modulation into velocity modulation of beam,both (c) and (b),neither (a) nor (b),,A," <p>A Klystron is a vacuum tube used for generation/amplification of microwaves. </p>
+<p>An electron beam is produced by oxide coated indirectly heated cathode and is focussed and accelerated by focussing electrode. </p>
+<p>This beam is transmitted through a glass tube. The input cavity where the beam enters the glass tube is called buncher. </p>
+<p>As electrons move ahead they see an accelerating field for half cycle and retarding field for the other half cycle. </p>
+<p>Therefore, some electrons are accelerated and some are retarded. This process is called velocity modulation. </p>
+<p>The velocity modulation causes bunching of electrons. This bunching effect converts velocity modulation into density modulation of beam. </p>
+<p>The input is fed at buncher cavity and output is taken at catcher cavity. </p>
+<p>In a two cavity klystron only buncher and catcher cavity are used. In multi cavity klystron one or more intermediate cavities are also used. </p>
+<p>The features of a multicavity klystron are :</p>
+<p>1. Frequency range - 0.25 GHz to 100 GHz</p>
+<p>2. Power output - 10 kW to several hundred kW</p>
+<p>3. Power gain - 60 dB (nominal value)</p>
+<p>4. Efficiency - about 40%.</p>
+<p>A multicavity klystron is used in UHF TV transmitters, Radar transmitter and satellite communication.</p> "
+<p>Out of modes TE<sub>20</sub> and TE<sub>30</sub> of propagation of electromagnetic engery</p>,both have the same cutoff frequency,TE<sub>20</sub> has lower cut off frequency as compared to TE<sub>30</sub>,TE<sub>30</sub> has lower cutoff frequency as compared to TE<sub>20</sub>,either (a) or (c),,B,
+<p>A TE<sub>10</sub> rectangular waveguide is to be designed for operation over 25-35 GHz and the band centre is 1.5 times the cutoff frequency. The dimension of broadside is</p>,15 mm,10 mm,9 mm,7.5 mm,,D,
+<p>In a klystron amplifier the force on all electrons</p>,causes acceleration of all electrons,causes retardation of all electrons,causes acceleration of some electrons and retardation of others,none of the above,,C," <p>A Klystron is a vacuum tube used for generation/amplification of microwaves. </p>
+<p>An electron beam is produced by oxide coated indirectly heated cathode and is focussed and accelerated by focussing electrode. </p>
+<p>This beam is transmitted through a glass tube. The input cavity where the beam enters the glass tube is called buncher. </p>
+<p>As electrons move ahead they see an accelerating field for half cycle and retarding field for the other half cycle. </p>
+<p>Therefore, some electrons are accelerated and some are retarded. This process is called velocity modulation. </p>
+<p>The velocity modulation causes bunching of electrons. This bunching effect converts velocity modulation into density modulation of beam. </p>
+<p>The input is fed at buncher cavity and output is taken at catcher cavity. </p>
+<p>In a two cavity klystron only buncher and catcher cavity are used. In multi cavity klystron one or more intermediate cavities are also used. </p>
+<p>The features of a multicavity klystron are :</p>
+<p>1. Frequency range - 0.25 GHz to 100 GHz</p>
+<p>2. Power output - 10 kW to several hundred kW</p>
+<p>3. Power gain - 60 dB (nominal value)</p>
+<p>4. Efficiency - about 40%.</p>
+<p>A multicavity klystron is used in UHF TV transmitters, Radar transmitter and satellite communication.</p> "
+"<p>If load impedance Z<sub>L</sub> &gt;&gt; Z<sub>0</sub>, then</p>",Z<sub>0</sub> = Z<sub>L</sub> (VSWR),Z<sub>L</sub> = Z<sub>0</sub> (VSWR),Z<sub>L</sub> = Z<sub>0</sub> (VSWR - 1),"Z<sub>L</sub> = Z<sub>0</sub> <span class=""root"">VSWR</span>",,B," <p>If Z<sub>L</sub> &gt;&gt; Z<sub>0</sub>, |<span class=""symbol"">r</span><i><sub>v</sub></i>| <img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/28-36-1.png""/> and VSWR <img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/28-36-2.png""/>. Therefore Z<sub>L</sub> = Z<sub>0</sub>(VSWR).</p> "
+<p>The inductance of a twin feeder used to connect antenna to TV receiver is about</p>,0.2 μ H/m,0.6 μ H/m,1.6 μ H/m,10 μ H/m,,C,
+<p>When resonant cavities are coupled together the result is</p>,one resonant frequency,<i>n</i> resonant frequencies,"<img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/23-293-3.png""/> resonant frequencies",either (b) or (c),,B,
+"<p>For a rectangular waveguide having width <i>a</i> and height <i>b</i>, the cutoff wavelength for TM<sub>11</sub> mode is equal to</p>","<img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/12-88-1.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/12-88-2.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/12-88-3.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/12-88-4.png""/>",,B,
+<p>The path length between ports 1 and 2 for the two waves in a hybrid ring is</p>,1,"<img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/20-246-2.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/20-246-3.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/20-246-4.png""/>",,C," <p>The quantities required to be measured in microwave circuits are frequency, power and impedance.</p>
+<p>Microwave frequency measurement is done by slotted line, resonant cavities and transfer oscillator. </p>
+<p>Microwave power measurement uses bolometers and microwave power meters. </p>
+<p>A self balancing bridge working on the principle of power substitution is commonly used. </p>
+<p>Microwave impedance measurement is done by measurement of reflection coefficient and VSWR. </p>
+<p>A slotted line and probe is a basic tool for these measurements.' Network analyser enables rapid impedance measurement over a broad frequency range.</p> "
+<p>The radiation resistance of a circular loop of one turn is 0.01 ohm. For 5 turn loop the radiation resistance is</p>,0.002 Ω,0.01 Ω,0.05 Ω,0.25 Ω,,D,
+<p>As wavelength decrease the size of high directivity antenna</p>,decreases,increases,is not affected,either (<i>b</i>) or (<i>c</i>),,A,
+<p>Which of the following modes of transmission will not be supported by a rectangular waveguide?</p>,TE<sub>15</sub>,TE<sub>12</sub>,TM<sub>11</sub>,TM<sub>10</sub>,,D,
+"<p>In a circular waveguide with radius <i>r</i>, the dominant mode is</p>",TM<sub>01</sub>,TE<sub>01</sub>,TM<sub>11</sub>,TE<sub>11</sub>,,B," <p>Some applications require dual polarization capability. Circular waveguide has this capability. </p>
+<p>These analysis uses cylindrical coordinates. </p>
+<p>In circular waveguide TE<sub>11</sub> mode has the lowest cut off frequency and is the dominant mode. </p>
+<p>If D is diameter of waveguide</p>
+<p>λ<i><sub>c</sub></i> = 1.706 D for TE<sub>11</sub> mode</p>
+<p>λ<i><sub>c</sub></i> = 1.029 D for TE<sub>21</sub> mode</p>
+<p>λ<i><sub>c</sub></i> = 0.82 D for TE<sub>01</sub> mode</p>
+<p>λ<i><sub>c</sub></i> = 1.306 D for TM<sub>01</sub> mode.</p> "
+"<p>If '<i>a</i>' is the width of rectangular wave guide and 'λ' is the wave length, then</p>","<img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/11-77-1.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/11-77-2.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/11-77-3.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/11-77-4.png""/>",,B,
+<p>A parametric amplifier uses</p>,non linear resistance,non linear reactance,either (a) or (b),neither (a) nor (b),,B, <p>In a parametric amplifier the non-linear element is varactor diode or inductor.</p> 
+<p><p><b>Assertion (A):</b>  Impatt diode can be used in both amplifiers and oscillators.</p><p><b>Reason (R):</b> Impatt diode has a low resistance.</p></p>,Both A and R are correct and R is correct explanation of A,Both A and R are correct but R is not correct explanation of A,A is correct but R is wrong,A is wrong but R is correct,,B," <p>An Impatt diode has <i>n</i><sup>+</sup> - <i>p</i> - <i>i</i> - <i>p</i> <sup>+</sup> structure and is used with reverse bias. </p>
+<p>It exhibits negative resistance and operates on the principle of avalanche breakdown. </p>
+<p>Impatt diode circuits are classified as broadly tunable circuit, low Q circuit and high Q circuit. </p>
+<p>The impedance of Impatt diode is a few ohms. The word Impatt stands for Impact Avalanche Transit Time diode. </p>
+<p>The features of Impatt diode oscillator are : frequency 1 to 300 GHz, Power output (0.5 W to 5 W for single diode circuit and upto 40 W for combination of several diodes), efficiency about 20%. </p>
+<p>Its applications include police radar systems, low power microwave transmitter etc.</p> "
+<p>Which one of the following can be used for amplification of microwave energy?</p>,TWT,Magnetron,Reflex klystron,Gunn diode,,A,
+"<p>If Z<sub>TE</sub> is wave impedance for TE waves, E<sub>d</sub> is maximum dielectric strength of insulating material, <i>a</i> and <i>b</i> are the width and height of a rectangular wave guide, the maximum power handling capability P<sub>max</sub> for TE<sub>10</sub> mode is</p>","<img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/12-99-1.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/12-99-2.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/12-99-3.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/12-99-4.png""/>",,B,
+<p>At frequencies of 10 MHz and higher the impedance represented by ground is primarity</p>,resistive,inductive,capacitive,partly resistive and partly capacitive,,C,
+<p>A disadvantage of microstrip line as the connections of compared to strip line is that former</p>,do not lend themselves to printed circuit,are more likely to radiate,are bulky,are more expensive and complex,,B,
+"<p>As frequency increases, the transmission efficiency</p>",decreases,increases,is not affected,either (a) or (c),,B,
+<p>A circular polarizer converts a linearly polarized wave into a circularly polarised wave.</p>,True,False,,,,A,
+<p>If D is diameter of circular waveguide the cutoff wave-length for TE<sub>11</sub> mode is equal to</p>,1.706 D,2.11 D,0.82 D,0.41 D,,A," <p>Some applications require dual polarization capability. Circular waveguide has this capability. </p>
+<p>These analysis uses cylindrical coordinates. </p>
+<p>In circular waveguide TE<sub>11</sub> mode has the lowest cut off frequency and is the dominant mode. </p>
+<p>If D is diameter of waveguide</p>
+<p>λ<i><sub>c</sub></i> = 1.706 D for TE<sub>11</sub> mode</p>
+<p>λ<i><sub>c</sub></i> = 1.029 D for TE<sub>21</sub> mode</p>
+<p>λ<i><sub>c</sub></i> = 0.82 D for TE<sub>01</sub> mode</p>
+<p>λ<i><sub>c</sub></i> = 1.306 D for TM<sub>01</sub> mode.</p> "
+<p>The external magnetic field in a magnetron is such that lines are</p>,parallel to the axis of cathode,perpendicular to the axis of cathode,inclined to the axis of cathode,either (b) or (c),,A," <p>The operation of magnetron is based on interaction of electromagnetic fields with electrons moving in static electric and magnetic fields oriented at 90° with respect to each other. </p>
+<p>In a magnetron three forces act on electron viz. force due to electric field (equal to - <i>e</i>E), force due to magnetic field [equal to - <i>e</i> (<i>v</i> x B)] and centrifugal force (equal to <i>mv</i><sup>2</sup>/<i>r</i>). </p>
+<p>The path of the electron can be found by balancing these three forces. Magnetron can be of three types i.e., negative resistance device, cyclotron frequency device and travelling wave or cavity device.</p>
+<p>In negative resistance magnetron use is made of the negative resistance between two anode segments. </p>
+<p>It has low efficiency and is used at frequencies less than 0.5 GHz.</p>
+<p>In cyclotron magnetron a synchronism exists between ac component of electric field and periodic oscillation of electrons in a direction parallel to the field. </p>
+<p>It is used for frequencies higher than 100 MHz.</p>
+<p>A cavity magnetron has a number of cylindrical cavities in the interaction region.</p>
+<p>The cavity magnetron is the most common type of magnetron. Its features are :</p>
+<p>1. Frequency range - 500 MHz to 10 GHz</p>
+<p>2. Power output - 250 kW (pulses)</p>
+<p>3. Efficiency - about 50%</p>
+<p>It is used in radar systems, industrial heating systems and microwave ovens.</p> "
+<p>Varactor diodes use</p>,silicon,GaAs,either (a) or (b),neither (a) nor (b),,C,
+<p>A circular waveguide carries TE<sub>11</sub> mode whole radial electric field is given by<br/>E<i><sub>r</sub></i> = E<sub>0</sub><i>j</i><sub>1</sub>(<i>r</i>) sin Φ V/<i>m</i><br/>where <i>r</i> is radial distance in cm from the axis<br/>The cut off wavelength is</p>,10 cm,"3 <span class=""symbol"">p</span> cm","2 <span class=""symbol"">p</span> cm",8 cm,,A,
+<p><p><b>Assertion (A):</b>  Impatt diode is an avalanche diode.</p><p><b>Reason (R):</b> Avalanche breakdown phenomenon occurs when a <i>p</i>-<i>n</i> junction is reverse biased.</p></p>,Both A and R are correct and R is correct explanation of A,Both A and R are correct but R is not correct explanation of A,A is correct but R is wrong,A is wrong but R is correct,,B," <p>An Impatt diode has <i>n</i><sup>+</sup> - <i>p</i> - <i>i</i> - <i>p</i> <sup>+</sup> structure and is used with reverse bias. </p>
+<p>It exhibits negative resistance and operates on the principle of avalanche breakdown. </p>
+<p>Impatt diode circuits are classified as broadly tunable circuit, low Q circuit and high Q circuit. </p>
+<p>The impedance of Impatt diode is a few ohms. The word Impatt stands for Impact Avalanche Transit Time diode. </p>
+<p>The features of Impatt diode oscillator are : frequency 1 to 300 GHz, Power output (0.5 W to 5 W for single diode circuit and upto 40 W for combination of several diodes), efficiency about 20%. </p>
+<p>Its applications include police radar systems, low power microwave transmitter etc.</p> "
+<p>A radar has a maximum range of 120 km. The maximum allowable pulse repetition frequency for unambiguous reception is</p>,1250,330,2500,8330,,A,
+<p>In a line with finite attenuation</p>,power transmission is least efficient when there are no standing waves on the line,power transmission is most efficient when there are no standing waves on line,Load power depends on phase constant,standing waves will always exist on the line,,B," <p>If standing waves are not there, whole of the power is absorbed by load.</p> "
+"<p>In the given figure a short circuited transmission line resonator If <i>n</i> = 1, 2, 3...<img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/21-254.png""/></p>","For series reasonance β<i>l</i> = <i>n</i><span class=""symbol"">p</span> and for parallel resonance <img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/21-254-1.png""/>","For series resonance <img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/21-254-2.png""/> and for parallel resonance β<i>l</i> = <i>n</i><span class=""symbol"">p</span>","β<i>l</i> = <i>n</i><span class=""symbol"">p</span> for both series and parallel resonance","<img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/21-254-4.png""/> for both series and parallel resonance",,A,
+<p>The electric field in a TWT due to applied signal</p>,is directed along the helix axis,is directed radially from helix axis,is inclined to the helix axis by about 60°,is inclined to the helix axis by about 45°,,A," <p>In a klystron the resonant structure limits the bandwidth. </p>
+<p>A TWT is a broadband device. Its main components are electron gun (to produce the electron beam) and a structure supporting the slow electromagnetic wave. </p>
+<p>The velocity of wave propagation along the helix structure is less than velocity of light. </p>
+<p>The beam and wave travel along the structure at the same speed. </p>
+<p>Thus interaction occurs between beam and wave and the beam delivers energy to the RF wave. </p>
+<p>Therefore the signal gets strengthened and amplified output is delivered at the other end of tube. </p>
+<p>The main features of TWT are :</p>
+<p>1. Frequency range - 0.5 GHz to 90 GHz</p>
+<p>2. Power output - 5 mW at low frequencies(less than 20 GHz) 250 kW (continuous wave) at 3 GHz 10 MW (pulsed) at 3 GHz</p>
+<p>3. Efficiency - about 5 to 20%</p>
+<p>4. Noise - about 5 dB for low power TWT 25 dB for high power TWT </p>
+<p>TWT is used as RF amplifier in broadband microwave receivers, repeater amplifier in broad band communication systems, communication satellites etc.</p> "

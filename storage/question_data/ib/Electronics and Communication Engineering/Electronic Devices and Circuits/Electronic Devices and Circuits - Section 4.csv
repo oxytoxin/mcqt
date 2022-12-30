@@ -1,0 +1,89 @@
+question,A,B,C,D,E,answer,explanation
+<p>An increase in junction temperature of a semiconductor diode</p>,causes a small increase in reverse saturation current,causes a large increase in reverse saturation current,does not affect reverse saturation current,may cause an increase or decrease in reverse saturation current depending on rating of diode,,B, <p>Reverse saturation current doubles for every 10°C rise in junction temperature.</p> 
+<p>An air gap provided in the iron core of an inductor prevents</p>,flux leakage,hysteresis loss,core saturation,heat generation,,C,
+"<p>Generally, the gain of a transistor amplifier falls at high frequency due to the</p>",internal capacitance of the device,coupling capacitor at the I/P,skin effect,coupling capacitor at the O/P,,A,
+<p>Which of these has a layer of intrinsic semiconductor?</p>,Zener diode,PIN diode,Photo diode,Schottky diode,,B, <p>The intrinsic layer is in between <i>p</i> and <i>n</i> layers.</p> 
+"<p><p><b>Assertion (A):</b>  When Diode used as rectifier the reverse breakdown voltage should not be exceeded.
+</p><p><b>Reason (R):</b>  A high inverse voltage can destroy a <i>p</i>-<i>n</i> junction.
+</p></p>",Both A and R are true and R is correct explanation of A,Both A and R are true but R is not a correct explanation of A,A is true but R is false,A is false but R is true,,A, <p>PIV is an important parameter in rectifier operation.</p> 
+<p>A Si sample is doped with a fixed number of group N impurities. The electron density <i>n</i> is measured from 4 K to 1200 <i>k</i> for the sample. Which one of the following is correct?</p>,n remains constant over the temperature range,n increases monotonicaliy with increasing temp,n increases first remains constant over a range and again increases with increasing temperature,n increases show a peak and then decrease with temperature,,B,
+"<p><p><b>Assertion (A):</b>  In design of circuit using BJT, a derating factor is used.
+</p><p><b>Reason (R):</b>  As the ambient temperature increases, heat dissipation becomes slower.
+</p></p>",Both A and R are true and R is correct explanation of A,Both A and R are true but R is not a correct explanation of A,A is true but R is false,A is false but R is true,,A," <p>Increase of ambient temperature lowers the heat dissipation capacity. 
+</p>
+<p>Therefore derated operation of BJT is necessary lest BJT should be destroyed.</p> "
+<p>If the drift velocity of holes under a field gradient of 100 V/m is 5m/sec. Their mobility is</p>,0.05,0.5,50,500,,A," <p>E = μ . V<sub><i>d</i></sub> <img src=""/_files/images/electronics-and-communication-engineering/electronic-devices-and-circuits/1-sym-imp.gif""/> μ =<img src=""/_files/images/electronics-and-communication-engineering/electronic-devices-and-circuits/77-489-1.png""/>.</p> "
+"<p>In a P type silicon sample, the hole concentration is 2.25 x 10<sup>15</sup> / cm<sup>3</sup>. If the intrinsic carrier concentration is 1.5 x 10<sup>10</sup>/ cm<sup>3</sup> the electron concentration is</p>",zero,10<sup>10</sup>/cm<sup>3</sup>,10<sup>5</sup>/cm<sup>3</sup>,1.5 x 10<sup>25</sup>/cm<sup>3</sup>,,C," <p>Electron concentration <img src=""/_files/images/electronics-and-communication-engineering/electronic-devices-and-circuits/75-360-1.png""/>.</p> "
+<p>The behaviour of a JFET is similar to that of</p>,NPN transistor,PNP transistor,SCR,Vacuum triode,,D, <p>Both JFET and vacuum triode are voltage controlled devices.</p> 
+<p>What is the effect of cut in voltage on the wave form of output as compared to input in a semiconductor diode?</p>,The duration of output waveform is less than 180°,Output voltage is less than input voltage,Output voltage is more than input voltage,Both (a) and (b),,D," <p>Since the duration of output waveform is less than 180°, output voltage is less than input voltage.</p> "
+<p>As temperature increases the number of free electrons and holes in an intrinsic semiconductor</p>,increases,decreases,remains the same,may increase or decrease,,A, <p>Increase of temperature increases conductivity of semiconductors.</p> 
+<p>At room temperature <i>k</i>T = 0.03 eV.</p>,True,False,,,,A,
+"<p><p><b>Assertion (A):</b>  A JFET behaves as a resistor when V<sub>GS</sub> &lt; V<sub>P</sub>.
+</p><p><b>Reason (R):</b>  When V<sub>GS</sub> &lt; V<sub>P</sub>, the drain current in a JFET is almost constant.
+</p></p>",Both A and R are true and R is correct explanation of A,Both A and R are true but R is not a correct explanation of A,A is true but R is false,A is false but R is true,,C,
+"<p>In a reverse biased P-N junction, the current through the junction increases abruptly at</p>",zero voltage,1.2 V,0.72 V,breakdown voltage,,D,
+<p>Dielectric strength of polythene is around</p>,10 kV/mm,40 kV/mm,100 kV/mm,140 kV/mm,,B,
+<p>Resistivity of hard drawn copper is</p>,less than that of annealed copper,more than that of annealed copper,same as that of annealed copper,decreasing when temperature increases,,B,
+<p>The channel of JFET consists of</p>,<i>p</i> type material only,<i>n</i> type material only,conducting material,either <i>p</i> or <i>n</i> type material,,D," <p>The channel in JFET may be <i>n</i> type or <i>p </i>type. If channel is <i>n</i> type, gate is <i>p</i> type and if channel is <i>p</i> type gate is <i>n</i> type.</p> "
+"<p>In a bipolar junction transistor <span class=""symbol"">a</span><sub><i>dc</i></sub> = 0.98, I<sub>CO</sub>= 2 μA and 1<sub>B</sub> = 15 μA. The collector current I<sub>C</sub> is</p>",635 mA,735 mA,835 mA,935 mA,,B," <p><img src=""/_files/images/electronics-and-communication-engineering/electronic-devices-and-circuits/74-182-1.png""/></p> "
+<p>The voltage across the secondary of the transformer in a half wave rectifier with a shunt capacitor filter is 50 volts. The maximum voltage that will occur on the reverse biased diode will be</p>,100 V,88 V,50 V,25 V,,A,
+"<p><p><b>Assertion (A):</b>  The forward resistance of a <i>p</i>-<i>n</i> diode is not constant.
+</p><p><b>Reason (R):</b>  The <i>v</i>-<i>i</i> characteristics of <i>p</i>-<i>n</i> diode is non-linear.
+</p></p>",Both A and R are true and R is correct explanation of A,Both A and R are true but R is not a correct explanation of A,A is true but R is false,A is false but R is true,,A," <p>If <i>v</i>-<i>i</i> characteristics is non linear, the ratio <i>v</i>-<i>i</i> is not constant.</p> "
+<p>For a photoengraving the mask used is</p>,master mask,slave mask,working mask,photo mask,,C," <p>The mask that is prepared first is called the master mask made from glass substrates covered by thin chromium film. 
+</p>
+<p>From the master masks are prepared working masks by contact pointing and used for Photolithography which means Photo engraving.</p> "
+<p>In a varactor diode the increase in width of depletion layer results in</p>,decrease in capacitance,increase in capacitance,no change in capacitance,either (a) or (b),,A, <p>Capacitance is inversely proportional to distance between plates.</p> 
+"<p>In given figure a silicon diode is carrying a constant current of 1 mA. When the temperature of the diode is 20°C, V<sub>D</sub> is found to be 700 mV. If the temperature rises to 40°C, V<sub>D</sub> becomes approximately equal to<br/><img src=""/_files/images/electronics-and-communication-engineering/electronic-devices-and-circuits/54-389-1.png""/></p>",747 mV,660 mV,680 mV,700 mV,,A," <p>I<sub><i>d</i></sub> = I<sub><i>o</i></sub>(<i>e</i><sup>V<sub>D</sub>/ηV<sub>T</sub></sup> - 1)
+</p>
+<p>By considering <img src=""/_files/images/electronics-and-communication-engineering/electronic-devices-and-circuits/76-389-1.png""/>, then
+</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/electronic-devices-and-circuits/1-sym-imp.gif""/> <img src=""/_files/images/electronics-and-communication-engineering/electronic-devices-and-circuits/76-389-2.png""/> = <i>e</i><sup>V<sub>D</sub>/ηV<sub>T</sub></sup>
+</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/electronic-devices-and-circuits/1-sym-imp.gif""/> <img src=""/_files/images/electronics-and-communication-engineering/electronic-devices-and-circuits/76-389-3.png""/>
+</p>
+<p>I<sub><i>d</i></sub> is constant according to question, 
+</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/electronic-devices-and-circuits/76-389-4.png""/><img src=""/_files/images/electronics-and-communication-engineering/electronic-devices-and-circuits/1-sym-imp.gif""/> V<sub>D</sub> <span class=""symbol"">a</span> T
+</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/electronic-devices-and-circuits/1-sym-imp.gif""/> <img src=""/_files/images/electronics-and-communication-engineering/electronic-devices-and-circuits/76-389-5.png""/> <img src=""/_files/images/electronics-and-communication-engineering/electronic-devices-and-circuits/1-sym-imp.gif""/> <img src=""/_files/images/electronics-and-communication-engineering/electronic-devices-and-circuits/76-389-6.png""/>
+</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/electronic-devices-and-circuits/76-389-7.png""/>.</p> "
+"<p>The work function of a photo surface whose threshold wave length is 1200 A, will be</p>",0.103 eV,0.673 eV,1.03 eV,1.27 eV,,C,
+<p>The diameter of an atom is</p>,10<sup>-6</sup> metre,10<sup>-10</sup> metre,10<sup>-15</sup> metre,10<sup>-21</sup> metre,,B,
+<p><i>N</i>-type silicon is obtained by doping silicon with</p>,germanium,aluminium,boron,phosphorus,,D,
+<p>When a <i>p</i>-<i>n</i> junction is reverse biased</p>,holes and electrons move away from the junction,holes and electrons move towards the junction,holes move towards junction and electrons move away from junction,holes move away from junction and electrons move towards junction,,A, <p>Holes and electrons move away from junction and therefore resistance increases to a high value.</p> 
+<p>If a sample of germanium and a sample of Si have the impurity density and are kept at room temperature then</p>,both will have equal value of resistivity,both will have equal -ve resistivity,resistivity of germanium will be higher than that of silicon,resistivity of Si will be higher than of germanium,,D," <p>Since the majority of charge carrier is better in Ge than in Si, for the same concentration of charge carriers, the conductivity of Ge is higher than that of Si.</p> "
+<p>When a large number of atoms are brought together to form a crystal</p>,the energy levels of inner shell electrons are affected appreciably by the presence of other neighbouring atoms.,The energy levels of outer shell electrons are affected appreciably by the presence of other neighbouring atoms.,the energy levels of both inner and outer shell electrons are affected appreciably by the presence of other neighbouring atoms.,none of the above.,,B, <p>Inner shell electrons are tightly bound to the nucleus. Their energy levels cannot be affected by presence of other atoms.</p> 
+<p>Determine the transistor capacitance of a diffused junction varicap diode of a reverse potential of 4.2 V if C(0) = 80 pf and V<sub>T</sub> = 0.7 V</p>,42 pf,153.03 pf,13.33 pf,Data inadequate,,A," <p><img src=""/_files/images/electronics-and-communication-engineering/electronic-devices-and-circuits/75-361-1.png""/>, Here <i>n</i> = <img src=""/_files/images/electronics-and-communication-engineering/electronic-devices-and-circuits/1-div-1by3.gif""/> for diffused junction
+</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/electronic-devices-and-circuits/76-361-2.png""/>.</p> "
+<p>At room temperature the barrier potential in a silicon diode is</p>,0.1 V,0.3 V,0.7 V,1 V,,C, <p>This 0.7 V is also called cut in voltage. When forward voltage is 0.7 V or less there is no current.</p> 
+<p>The cut in voltage of a diode is nearly equal to</p>,applied forward voltage,applied reverse voltage,barrier potential,none of the above,,C,
+"<p><p><b>Assertion (A):</b>  In a BJT base current is very small.
+</p><p><b>Reason (R):</b>  In a BJT recombination in base region is high.
+</p></p>",Both A and R are true and R is correct explanation of A,Both A and R are true but R is not a correct explanation of A,A is true but R is false,A is false but R is true,,C, <p>Recombination in base region is very low.</p> 
+<p>A reverse voltage of 18 V is applied to a semiconductor diode. The voltage across the depletion layer is</p>,0 V,0.7 V,about 10 V,18 V,,D, <p>Almost whole of reverse voltage is across depletion layer.</p> 
+<p>As temperature increases the forbidden gap in silicon increases.</p>,True,False,,,,B," <p>With increase in temperature, the forbidden gap decreases.</p> "
+"<p><p><b>Assertion (A):</b>  Germanium is more commonly used than silicon.
+</p><p><b>Reason (R):</b>  Forbidden gap in germanium is less than that in silicon.
+</p></p>",Both A and R are true and R is correct explanation of A,Both A and R are true but R is not a correct explanation of A,A is true but R is false,A is false but R is true,,D, <p>A is wrong because germanium is rarely used.</p> 
+<p>Which of the following devices has substrate?</p>,JFET,Depletion Type MOSFET,Enhancement type MOSFET,Both (b) and (c),,D, <p>All MOSFETs have substrate.</p> 
+"<p><p><b>Assertion (A):</b>  The amount of photoelectric emission depends on the intensity of incident light.
+</p><p><b>Reason (R):</b>  Photo electric emission can occur only if frequency of incident light is less than threshold frequency.
+</p></p>",Both A and R are true and R is correct explanation of A,Both A and R are true but R is not a correct explanation of A,A is true but R is false,A is false but R is true,,C, <p>Photo electric emission occurs only if frequency is higher than threshold frequency thus R is wrong.</p> 
+"<p>In degenerate <i>p</i> type semiconductor material, the Fermi level,</p>",is in the valence band,is in conduction band,is at the centre in between valence and conduction bands,is very near conduction band,,A, <p>This is due to heavy doping.</p> 
+"<p><p><b>Assertion (A):</b>  When a photoconductive device is exposed to light, its bulk resistance increases.
+</p><p><b>Reason (R):</b>  When exposed to light, electron hole pairs are generated in the photoconductive device.
+</p></p>",Both A and R are true and R is correct explanation of A,Both A and R are true but R is not a correct explanation of A,A is true but R is false,A is false but R is true,,D," <p>When exposed to light bulk resistance decreases. Therefore, A is wrong.</p> "
+"<p>As comparated to an ordinary <i>p</i>-<i>n</i> diode, the extent of impurity atoms in a tunnel diode</p>",is more,is less,may be more or less,is almost the same,,A, <p>Tunnel diode has heavily doped <i>p</i> and <i>n</i> regions.</p> 
+"<p>In active filter circuits, inductances are avoided mainly because they</p>",are always associated with some resistance,are bulky and unsuitable for miniaturisation,are non-linear in nature,saturate quickly,,B," <p>In active circuit, Inductors are used by Op-Amp resistors and capacitor instead of simple inductor.</p> "
+"<p>When a <i>p</i>-<i>n</i>-<i>p</i> transistor is operating in active region, the current in the <i>n</i> region is due to</p>",only holes,only electrons,mainly holes,mainly electrons,,C," <p>Since emitter is <i>p</i>-type, emitter current is mainly due to holes. This current diffuses through the base.</p> "
+<p>In a JFET</p>,drain current is very nearly equal to source current,drain current is much less than source current,drain current may be equal to or less than source current,drain current may be even more than source current,,A, <p>Since gate current is very small. I<sub>D</sub> and I<sub><i>s</i></sub> are almost equal.</p> 
+"<p>Consider the following statements: The function of oxide layer in an IC device is to <ol style=""list-style-type: decimal; padding-bottom:10px;""><li style=""padding-top:10px;"">mask against diffusion or non implant</li><li style=""padding-top:10px;"">insulate the surface electrically</li><li style=""padding-top:10px;"">increase the melting point of silicon</li><li style=""padding-top:10px;"">produce a chemically stable protective layer</li></ol> Of these statements:</p>","1, 2, 3 are correct","1, 3, 4 are correct","2, 3, 4 are correct","1, 2, 4 are correct",,D, <p>Oxide layer cannot have any effect on melting point of silicon. Moreover before melting silicon breaks down.</p> 
+<p>An extrinsic semiconductor sample has 6 billion silicon atoms and 3 million pentavalent impurity atoms. The number of electrons and holes is</p>,3 million each,6 billion each,3 million free electrons and very small number of holes,3 million holes and very small number of free electrons,,C," <p>When pentavalent impurity is added, the number of fresh electrons is very large as compared to number of holes.</p> "
+"<p>In a reverse biased <i>p</i>-<i>n</i> junction, the reverse bias is 4V. The junction capacitance is about</p>",0.1 F,4 μF,10 <i>n</i>F,20 <i>p</i>F,,D,
+<p>Photoconductive devices uses</p>,metallic conductors,good quality insulators,semiconductors,either (a) or (c),,C,
+"<p><p><b>Assertion (A):</b>  Oxide coated cathodes are very commonly used.
+</p><p><b>Reason (R):</b>  Work function of oxide coated cathode is 1 eV whereas it is 4.5 eV for pure tungsten.
+</p></p>",Both A and R are true and R is correct explanation of A,Both A and R are true but R is not a correct explanation of A,A is true but R is false,A is false but R is true,,A, <p>Lower work function leads to higher emission current. Therefore oxide coated cathodes are commonly used.</p> 

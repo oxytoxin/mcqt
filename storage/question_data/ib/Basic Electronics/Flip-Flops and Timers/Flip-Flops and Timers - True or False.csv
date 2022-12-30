@@ -1,0 +1,11 @@
+question,A,B,C,D,E,answer,explanation
+<p>Edge-triggered flip-flops can be identified by the triangle on the clock input.</p>,True,False,,,,A,
+<p>The 555 timer can be used in either the bistable mode or the monostable mode.</p>,True,False,,,,B,
+<p>J-K flip-flops are often used as switch debouncers.</p>,True,False,,,,B,
+<p>The J-K flip-flop eliminates the RACE state when both the J and K inputs are HIGH.</p>,True,False,,,,A,
+<p>Pulse-triggered flip-flops are identified by a bubble on the Q output terminal.</p>,True,False,,,,B,
+"<p>A one-shot is a special type of multivibrator, which must be triggered to produce each output pulse.</p>",True,False,,,,A,
+<p>Multivibrators must be level-triggered.</p>,True,False,,,,B,
+<p>A D-type flip-flop is constructed by connecting an inverter between the Set and Clock terminals.</p>,True,False,,,,B,
+<p>When the S and the R inputs are both HIGH the output of an S-R NOR latch will be unpredictable.</p>,True,False,,,,A,
+"<p>When using master-slave flip-flops, the data is entered into the flip-flop on the leading edge of the clock, but the output does not change until the trailing edge of the clock.</p>",True,False,,,,A,

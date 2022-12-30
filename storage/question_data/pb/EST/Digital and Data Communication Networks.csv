@@ -1,0 +1,344 @@
+﻿question,choices,answer
+"Unipolar, bipolar, and polar encoding are types of ___________ encoding.","[""Digital-to-digital"",""Digital-to-analog"",""Analog-to-analog"",""Analog-to-digital""]",0
+"PCM is an example of __________ encoding.","[""Digital-to-digital"",""Digital-to-analog"",""Analog-to \u2013analog"",""Analog-to-digital""]",3
+"AM and FM are examples of ________ encoding.","[""Digital-to-digital"",""Digital-to-analog"",""Analog-to \u2013analog"",""Analog-to-digital""]",2
+"In QAM, both phase and ________ of a carrier frequency are varied.","[""Amplitude"",""Frequency"",""Bit rate"",""Baud rate""]",0
+"Which of the following is most affected by noise?","[""PSK"",""ASK"",""FSK"",""QAM""]",1
+"If the frequency spectrum of a signal has a bandwidth of 500 Hz with the highest frequency at 600 Hz, what should be the sampling rate according to the Nyquist theorem?","[""200 samples\/sec"",""500 samples\/sec"",""1000 samples\/sec"",""1200 samples\/sec""]",3
+"If the baud rate is 400 for a 4-PSK, the bit rate is ______ bps.","[""100"",""400"",""800"",""1600""]",2
+"Determine the channel capacity of a 4 kHz channel with S/N = 10 dB.","[""8.02 kbps"",""4.17 kbps"",""13.74 kbps"",""26.58 kbps""]",2
+"If the bit rate for an ASK signal is 1200 bps, the baud rate is","[""300"",""400"",""600"",""1200""]",3
+"Which encoding method uses alternating positive and negative values for 1’s?","[""NRZ-I"",""RZ"",""Manchester"",""AMI""]",3
+"If the maximum value of a PCM signal is 31 and the minimum value is -31, how many bits were used for coding?","[""4"",""5"",""6"",""7""]",2
+"Deliberate violations of alternate mark inversion are used in which type of digital-to-digital encoding?","[""AMI"",""B8ZS"",""RZ"",""Manchester""]",1
+"RZ encoding involves _______ levels of signal amplitude.","[""1"",""3"",""4"",""5""]",1
+"If the transmission rate of a digital communication system of 10 Mbps modulation scheme used in 16-QAM, determined the bandwidth efficiency.","[""16 bits\/cycle"",""4 bits\/cycle"",""8 bits\/cycle"",""2 bits\/cycle""]",1
+"In _________ transmission, bits are transmitted simultaneously, each across its own channel .","[""Asynchronous serial"",""Synchronous serial"",""Parallel"",""A and B""]",2
+"Data are sent over pin ________ of the EIA-RS-232 interface.","[""2"",""3"",""4"",""All of the above""]",0
+"In the EIA-RS-232 standard what does -12V on a data pin represent?","[""1"",""0"",""Undefined"",""Either 1 or 0 depending on the coding scheme""]",0
+"The majority of the pins f the EIA-RS-232 interface are used for _____ purpose.","[""Control"",""Timing"",""Data"",""Testing""]",0
+"X-21 uses a _____ connector.","[""DB-15"",""DB-25"",""DB37"",""DB-9""]",0
+"If you have two close, compatible DTEs that can communicate data that do not need to be modulated. A good interface would be ________.","[""A null modem"",""An EIA-RS-232 modem"",""A DB-45 connector"",""A transceiver""]",0
+"What is the object of trellis coding??","[""To narrow bandwidth"",""To simplify encoding"",""To increase data rate"",""To reduce the error rate""]",3
+"In trellis coding. The number of the data bits is _____ the number of transmitted bits.","[""Equal to"",""Less than"",""More than"",""Double that of""]",1
+"Which ITU-T modem uses trellis coding?","[""V.33"",""V.34"",""V.39"",""V.37""]",0
+"The signal between two modems is always","[""Digital"",""Analog"",""PSK"",""QAM""]",1
+"For digital communications, determine the signal to noise ratio in dB which would be required for an ideal channel with a bandwidth of 2500 Hz.","[""5"",""9.54 dB"",""4.77 dB"",""3.4""]",2
+"For a PCM system with a maximum decoded voltage at the receiver of ±2.55 V and minimum dynamic range of 46 dB, determine the maximum quantization error.","[""5.0 V"",""0.5 V"",""0.005 V"",""0.05 V""]",2
+"Determine the bandwidth efficiency for QPSK modulation scheme at a transmission rate of 10 Mbps.","[""2 bits\/cycle"",""4 bits\/cycle"",""8 bits\/cycle"",""16 bits\/cycle""]",0
+"A modulator converts a (an) ______ signal to a (an) __________ signal.","[""Digital, analog"",""Analog, digital"",""PSK, FSK"",""FSK, PSK""]",0
+"Which of the following modulation techniques are used by modems?","[""16-QAM"",""FSK"",""8-PSK"",""All of the above""]",3
+"A broadcast TV channel has a bandwidth of 6 MHz. Ignoring noise, calculate the maximum data rate that could be carried in a TV channel using a 16-level code and determine the minimum possible signal-to-noise ratio in dB for the calculated data rate.","[""24 Mbps, 48 dB"",""48 Mbps, 24 dB"",""24 Mbps, 24 dB"",""48 Mbps, 48 dB""]",1
+"Which of the following modems uses FSK modulation?","[""Bell 103"",""Bell 201"",""Bell 212"",""All of the above""]",0
+"A maximum length of 50 feet is specified in standard __________.","[""EIA-RS-449"",""EIA-RS-232"",""EIA-RS-423"",""RS-422""]",1
+"A cable range of 40 to _____ feet is possible according to the EIA-RS-449 standard.","[""50"",""400"",""500"",""4000""]",3
+"What is the bandwidth required to transmit at a rate of 10Mbits/sec in the presence of a 28 dB S/N ratio?","[""107.5 kHz"",""3.57 MHz"",""357.14 kHz"",""1.075 MHz""]",3
+"The maximum data rate for RS-442 is ________ times that of the maximum RS-423 data rate.","[""0.1"",""10"",""100"",""500""]",2
+"For an Ethernet bus that is 500 meters in length using a cable with a velocity factor of 0.66, and a communication rate of 10 Mb/s, calculate the total number of bits that would be sent by each station before it detects a collision, if both stations begin to transmit at the same time.","[""25 bits"",""30 bits"",""19 bits"",""41 bits""]",0
+"A ______ is a device that is a source of or a destination for binary digital data.","[""Data terminal equipment"",""Data transmission equipment"",""Digital terminal encoder"",""Data-circuit terminating equipment""]",0
+"An asynchronous communications system uses ASCII at 9600 bps with eight bits, one start bit, one stop bit and no parity bit. Express the data rate in words per minute. (Assume a word has five characters and one space).","[""9600 wpm"",""57600 wpm"",""160 wpm"",""11520 wpm""]",0
+"A telephone line has a bandwidth of 3.2 kHz and a signal-to-noise ratio of 34 dB. A signal is transmitted down this line using a four-level code. What is the maximum theoretical data rate ?","[""12.8 kbps"",""6.4 kbps"",""36.144 kbps"",""18.072 kbps""]",0
+"For a binary phase shift keying (BPSK) modulation with a carrier frequency of 80 MHz and an input bit rate of 10 Mbps. Determine the minimum Nyquist bandwidth.","[""40 MHz"",""10 MHz"",""20 MHz"",""50 MHz""]",1
+"The EIA standard specified in the EIA-232 standard is ______ volts.","[""Greater than -15"",""Less than -15"",""Between -3 and -15"",""Between 3 and 15""]",3
+"For a quaternary phase shift keying (QPSK) modulation, data with a carrier frequency of 70 MHz, and input bit rate of 10 Mbps, determine the minimum Nyquist bandwidth.","[""10 MHz"",""5 MHz"",""20 MHz"",""40 MHz""]",1
+"12 voice channels are sampled at 8000 sampling rate and encoded into 8-bit PCM word. Determine the rate of the data stream.","[""768 kbps"",""12 kbps"",""12.8 kbps"",""46.08 kbps""]",0
+"The encoding method specified in the EIA-232 standard is _________.","[""NRZ-I"",""NRZ-L"",""Manchester"",""Differential Manchester""]",1
+"A binary digital signal is to be transmitted at 10 Kbits/s , what absolute minimum bandwidth is required to pass the fastest information change undistorted?","[""5 kHz"",""10 kHz"",""20 kHz"",""2.5 kHz""]",0
+"A coherent binary phase shift keyed (BPSK) transmitter operates at a bit rate of Mbps with a carrier to noise ratio C/N of 8.8 dB. Find Eb/No.","[""8.8 dB"",""16.16 dB"",""21.81 dB"",""18.8 dB""]",0
+"The EIA-RS-232 interface has _______ pins.","[""20"",""36"",""25"",""19""]",2
+"The EIA-RS-232 standard defines _________ characteristics of the DTE-DCE interface.","[""Mechanical"",""Electrical"",""Function"",""All of the above""]",3
+"For sample rate of 30 kHz in a PCM system, determine the maximum analog input frequency .","[""30 kHz"",""15 kHz"",""60 kHz"",""45 kHz.""]",1
+"Codes are always","[""Eight bits per character"",""Either seven or eight bits per character"",""Agreed upon in advance between sender receiver"",""The same in all modern computers""]",2
+"DCE and DTE","[""Means \u201cdigital communications equipment\u201d and \u201cdigital termination equipment\u201d"",""Are connected by either two or four wires"",""Refer to the modem and the computer or terminal, respectively"",""Any one of the above""]",2
+"The correctness and the accuracy of the transmitted message content is","[""Verified by the modem"",""Determined by the sender and receiver, not by the communications system"",""Ensured by use of digital techniques"",""None of the above""]",1
+"Serial printers","[""Are used to transmit grain prices"",""Are faster than CRT terminals, and offer more flexibility"",""Print one character at a time"",""Usually use serial interfaces""]",2
+Ergonomics,"[""Involves the interface between people and machines, such as terminals"",""Is the application of ergo-economics to communications"",""Utilizes three-level ergo-coding for transmission over certain channels"",""All of the above""]",0
+"Serial and parallel transmission","[""Differ in how many bits are transferred per character"",""Are used in synchronous and asynchronous systems, respectively"",""Both a and b"",""Differ in whether the bits are on separate wires or on one""]",3
+"Asynchronous transmission","[""Is less efficient than synchronous, but simpler"",""Is much faster than synchronous transmission"",""Is another name for isochronous transmission"",""none of these""]",0
+"The amount of uncertainty in a system of symbols is also called","[""Bandwidth"",""Loss"",""Entropy"",""Quantum""]",2
+"Redundancy measures","[""Transmission rate of a system"",""How likely symbols are to be repeated"",""Time between failures"",""System cost""]",1
+"Loading refers to the addition of","[""Resistors"",""Capacitors"",""Bullets"",""Inductance""]",3
+"Transmission of binary signals requires","[""Less bandwidth than analog"",""More bandwidth than analog"",""The same bandwidth as analog"",""Cannot be compared with the transmission of analog signals""]",1
+"RS-232, RS-449, RS-530, V.24, and X.21 are examples of","[""Standard for various types of transmission channels"",""Standard for interfaces between terminal and modems"",""Standards for between modems and transmission facilities"",""Standards for end-to-end performance of data communications system""]",1
+"What is one principal difference between synchronous and asynchronous transmission?","[""The bandwidth required is different"",""The pulse heights are different"",""The clocking is mixed with the data in asynchronous"",""The clocking is derived from the data in synchronous transmission""]",3
+"Synchronous modems cost more than asynchronous modems because","[""They are larger"",""They must contain clock recovery circuits"",""The production volume is larger"",""They must operate on a larger bandwidth""]",1
+"The scrambler in a synchronous modem is in the","[""Control section"",""Receiver section"",""Transmitter section"",""Terminal section""]",2
+"Binary codes are sometimes transformed in modems into","[""Hexadecimal"",""Huffman codes"",""Gray code"",""Complementary codes""]",2
+"The digital-to-analog converter in a synchronous modem sends signals to the","[""Modulator"",""Transmission line"",""Terminal"",""Equalizer""]",3
+"The transmission signal coding method for T1 carrier is called","[""Binary"",""NRZ"",""Bipolar"",""Manchester""]",2
+"The receiver equalizer in a synchronous modem is called","[""A compromise equalizer"",""A statistical equalizer"",""An adaptive equalizer"",""An impairment equalizer""]",2
+"Communications protocols always have a","[""Set of symbols"",""Start of header"",""Special flag symbol"",""BCC""]",0
+"The Baudot code uses how many bits per symbol?","[""9"",""7"",""5"",""8""]",2
+"How many messages may be acknowledged on a BiSync link?","[""1"",""2"",""4"",""8""]",0
+"Which code set is used to BiSync when using VRC/LRC but not operating in transparency mode","[""EBCDIC"",""ASCII"",""SBT"",""Fieldata""]",1
+"One primary difference between Digital Data Communications Message Protocol (DDCMP) and Synchronous Data Link Control (SDLC) is","[""DDCMP does not have a transparent mode"",""SDLC does not use a CRC"",""DDCMP has a message header"",""DDCMP does not require special hardware to find the beginning of a message""]",3
+"Which of the following transmission systems provides the highest data rate to an individual device?","[""Voice band modem"",""Local area network"",""Computer bus"",""Digital PBX""]",2
+"Which of the following systems provides the longest digital transmission distances?","[""Voiceband modem"",""Local area network"",""Computer bus"",""Digital PBX""]",0
+"Which of the following is a characteristic of a LAN?","[""Parallel transmission"",""Unlimited expansion"",""Low cost access for low bandwidth channels"",""Application independent interfaces""]",3
+"Which of the following transmission media is not readily suitable to CSMA operation?","[""Radio"",""Optical fibers"",""Coaxial cable"",""Twisted pair""]",1
+"Which of the following functions is not provided as part of the basic Ethernet design?","[""Access control"",""Addressing"",""Automatic retransmission of a message"",""Multiple virtual networks""]",2
+"Which of the following is not a useful property of a Manchester line code for an Ethernet?","[""Continuous energy"",""Continuous clock transmissions"",""No dc component"",""No signal change at a 1 to 0 transition""]",3
+"Which of the following data communications functions is generally provided for in a LAN?","[""Data link control"",""Applications processing"",""Flow control"",""Routing""]",0
+"The purpose of a preamble in an Ethernet is","[""Clock synchronization"",""Error checking"",""Collision avoidance"",""Broadcast""]",3
+"Which of the following is possible in a token-passing bus network?","[""Unlimited number of stations"",""Unlimited distances"",""Multiple time division channels"",""In-service expansion""]",3
+"Which of the following is not possible in a token-passing loop network?","[""Unlimited number of stations"",""Unlimited distances"",""Multiple time division channels"",""In-service expansion""]",0
+"Which of the following LAN architectures can be expanded to the greatest total system bandwidth?","[""Digital PBX"",""CSMA\/CD baseband system"",""Token-passing network"",""Broadband cable system""]",0
+"Which of the following systems is the most capable of servicing a wide range of applications?","[""Digital PBX"",""CSMA\/CD baseband system"",""Token-passing network"",""Broadband cable system""]",0
+"Which of the following cannot be provided in a broadband LAN?","[""Frequency agile modems"",""Closed-circuit TV"",""Voice circuits"",""Fiber optics transmission""]",3
+"Which of the following is not possible in a digital PBX using twisted pair transmission?","[""Computer port concentration"",""64-kbps data circuits"",""High-speed file transfers"",""Transmission up to several thousand feet""]",2
+"Which of the following is not a motivation in digitizing a voice signal in the telephones of a digital PBX?","[""Simplified control signalling"",""Lower cost telephones"",""Fewer wire pairs"",""Multiplexed voice and data channels""]",1
+"The electrical state of the control leads in a serial interface is a concern of","[""The physical layer protocol"",""The data link-layer protocol"",""The network-layer protocol"",""None of the above""]",0
+"The X.25 standard specifies a","[""Technique for dial access"",""Technique for start-stop data"",""Data bit rate"",""DTE\/DCE interface""]",3
+"The X.25 standard is","[""Required for all packet switching networks"",""A recommendation of the CCITT"",""A complete description of a public data network"",""Used by all packet terminals""]",1
+"A protocol is a set of rules governing a time sequence of events that must take place","[""Between peers"",""Between non-peers"",""Across an interface"",""None of the above""]",0
+"The X.25 standard for packet networks is analogous to","[""PBX standards for a telephone network"",""Handset standards for a telephone"",""Local loop standards for a telephone network"",""Switching standards for a telephone network""]",2
+"The OSI reference model defines the functions for seven layers of protocols","[""Including the user and communications medium"",""Not including the user or communications medium"",""Including the communications medium but not the user"",""Including the user but not the communications medium""]",1
+"The X.25 standard covers how many OSI layers?","[""Three"",""Four"",""Seven"",""None""]",0
+"A data packet is a packet header together with","[""A network layer"",""An administrative layer"",""User data"",""A packet switch""]",2
+"The X.25 standard specifies how many separate protocol layers at the serial interface gateway?","[""8"",""2"",""4"",""3""]",3
+"In X.25 network layer protocol, the data packets normally contain","[""One octet of header plus data"",""Two octets of header plus data"",""Three octets of header plus data"",""Four octets of header plus data""]",2
+"What is the category of data transmission if the binary pulse is maintained for the entire bit time?","[""Return to zero"",""Bipolar"",""Unipolar"",""Non \u2013 return to zero""]",0
+"Which medium is the most widely used in LANs?","[""Twin Lead"",""Fiber \u2013 optic cable"",""Twisted Pair"",""Coax""]",3
+"These are used for transmission of PCM encoded time – division multiplexed digital signal.","[""I carriers"",""E carriers"",""A carriers"",""T carriers""]",3
+"Which of the following is not a typical FDM application?","[""Telemetry"",""Stereo broadcasting"",""Telephone"",""Secure communications""]",3
+"A LAN device that is used to interconnect two networks that use different protocols and formats.","[""Gateways"",""Routers"",""Bridges"",""Hubs""]",0
+"A pulse modulation technique as the width of a constant amplitude pulse is varied proportional to the amplitude of the analog signal at the time the signal is sampled.","[""Pulse Width Modulation"",""Pulse Length Modulation"",""Pulse Duration Modulation"",""All of these""]",3
+"The FDM telephone systems accommodate many channels by","[""Increasing the multiplexer size"",""Using many final carriers"",""Narrowing the bandwidth of each"",""Using multiple levels of multiplexing""]",3
+"It is the transmittal of digitally modulated analog signals (carrier) between two or more points in a communications system.","[""Digital modulation"",""Digital transmission"",""Data communications"",""Pulse modulation""]",0
+"Indicate which of the following systems is digital.","[""Pulse-position modulation"",""Pulse-code modulation"",""Pulse\u2013width modulation"",""Pulse-frequency modulation""]",1
+"Classification of protocol that interprets a frame of data as a group of successive bit combined into predetermined pattern of fixed length, usually 8 bits each.","[""Character-oriented protocols"",""Byte-oriented protocols"",""Bit-oriented protocols"",""Character and Byte-oriented protocols""]",3
+"Dividing the data block by a constant produces a remainder that is used for error detection. It is called the","[""Vertical redundancy check"",""Horizontal redundancy check"",""Block check character"",""Cyclic redundancy check""]",3
+"Which of the following is not a benefit of spread spectrum?","[""Jam \u2013 proof"",""Security"",""Immunity of fading"",""Noise proof""]",3
+"Converting analog signals to digital is done by sampling and ___________.","[""Quantizing"",""Companding"",""Pre \u2013 emphasis"",""Mixing""]",0
+"It is a process of converting an infinite number of possibilities to a finite number of conditions.","[""Sampling"",""Coding"",""Quantization"",""Aliasing""]",2
+"In T1, it is equal to the reciprocal of the sample rate","[""Slot Time"",""Transmission time"",""Frame time"",""Bit rate""]",2
+"What is the final output of a multiplexer?","[""Baseband"",""Composite baseband"",""Information"",""Composite carrier""]",1
+"The baud rate","[""is always equal to the bit transfer rate"",""is equal to twice the bandwidth of an ideal channel"",""is not equal to the signaling rate"",""is equal to one \u2013 half the bandwidth of an ideal channel""]",1
+"Bit errors in data transmission are usually caused by","[""equipment failures"",""typing mistakes"",""noise"",""poor S\/N ratio at receiver""]",2
+"A digital modulation technique which is a form of constant – amplitude angle modulation similar to standard frequency modulation except the modulating signal is binary signal that varies between two discreet voltage levels.","[""QAM"",""ASK"",""PSK"",""FSK""]",3
+"Start and stop bits, respectively, are","[""Mark, space"",""Space, mark"",""Space, space"",""Mark, mark""]",1
+"It is the processing of analog signals using digital methods and includes band limiting and signals with filters, amplitude equalization, and phase shifting","[""Digital communications"",""Digital Signal Processing"",""Data communications"",""Carrier recovery method""]",1
+"It is a network access method used primarily with LANs configured in a ring topology using either baseband or broadband transmission formats","[""Ethernet"",""Token passing"",""Token ring"",""Token bus""]",1
+"A small telephone switching system that can be used as a LAN is called","[""Ring"",""WAN"",""UART"",""PBX""]",3
+"The most common method used for sampling voice signals in PCM systems","[""unnatural sampling"",""flat top sampling"",""natural sampling"",""free sampling""]",1
+"In PCM, it converts the PAM sampled to parallel PCM codes","[""Analog-to-Digital converter"",""Digital-to-analog converter"",""Pre-emphasis circuit"",""Compander""]",0
+"The OSI layer that provides the control functions necessary to establish, manage and terminated the connections as required to satisfy the user request.","[""Application layer"",""Network layer"",""Session layer"",""Physical layer""]",2
+"In PAM demultiplexing, the receiver clock is derived from","[""standard radio station WWV"",""a highly accurate internal oscillator"",""the PAM signal itself"",""the 60 Hertz power line""]",2
+"It is also known as digital modulation","[""Digital transmission"",""Digital sampling"",""Digital radio"",""Data transmission""]",2
+"Time – division multiplex","[""can be used with PCM only"",""combines five groups into supergroup"",""stacks 24 channels in adjacent frequency slots"",""interleaves pulses belonging to different transmissions""]",3
+"It is a numerical indication of how efficiently a PCM code is utilized","[""Coding efficiency"",""Companding"",""Pre-emphasis"",""Dynamic Range""]",0
+"Type of PCM which is designed to take advantage of the sample-to-sample redundancies in the typical speech waveform","[""Single \u2013 bit PCM code"",""Pulse Code Modulation"",""Differential PCM"",""Delta modulation""]",2
+"The Basic Rate Interface (BRI) of ISDN has a total bit rate of _____.","[""192 kbps"",""148 kbps"",""64 kbps"",""1.544 Mbps""]",0
+"A form of angle – modulated, constant amplitude digital modulation similar to conventional phase modulation except its input is binary digital signal and there are limited numbers of output phase possible.","[""ASK"",""PSK"",""FSK"",""QAM""]",1
+"The main circuit in a PSN generator is ____.","[""XOR"",""Multiplexer"",""Shift register"",""Mixer""]",2
+"The circuit that performs demultiplexing in an FDM system is _____.","[""Op \u2013 Amp"",""Bandpass filter"",""Discriminator"",""Subcarrier oscillator""]",2
+"__________ defines how a user gets control of the channel so as to allow transmission.","[""channel access"",""collision detection"",""collision avoidance"",""carrier sense""]",0
+"The fastest LAN topology is the","[""ring"",""bus"",""star"",""square""]",1
+"It is a the symmetrical expectation of the bit error rate in the system","[""probability of errors"",""error detection"",""error control"",""bit error rate""]",0
+"It is simply the data rate at which serial PCM bits are clocked out of the PCM encoder onto the transmission line.","[""line speed"",""baud rate"",""output rate"",""bit rate""]",0
+"A quantizing is _______.","[""Multiplexer"",""Demultiplexer"",""A\/D converter"",""D\/A converter""]",2
+"Refers to the rate of change of a signal on a transmission medium after encoding and modulation have occurred","[""baud rate"",""phase shift"",""bit rate"",""frequency deviation""]",0
+"The magnitude difference between adjacent steps in quantization is called __________.","[""Quantum"",""Step size"",""Resolution"",""Any of these""]",3
+"It is a set of rules implementing and governing an orderly exchange of data between layers of two devices, such as line control units and front – end processors.","[""Data Link Protocol"",""Network Protocol"",""Point to Point Protocol"",""File Transfer Protocol""]",0
+"A signaling system in which each letter of the alphabet is represented by a different symbol is not used because","[""it would be too difficult for an operator to memorize"",""it is redundant"",""noise would introduce too many errors"",""too many pulses per letter are required""]",2
+"A modulation process that involves conversion of a waveform from analog to digital form by means of coding.","[""PDM"",""PCM"",""PLM"",""PAM""]",1
+"What is the bandwidth required to transmit at a rate of 10 Mbps in the presence of a 28-bd S/N ratio?","[""1.075 MHz"",""10 MHz"",""5 MHz"",""10.5 MHz""]",0
+"The slope of the analog signal is greater than the delta modulator can maintain","[""overload distortion"",""granular noise"",""slope overload"",""peak limiting""]",2
+"A scheme in which several channels are interleaved and then transmitted together is known as","[""Frequency division multiplex"",""Time division multiplex"",""a group"",""a supergroup""]",1
+"The best frequency demodulator is the","[""PLL discriminator"",""Pulse-averaging discriminator"",""Foster-Seeley discriminator"",""Radio detector""]",0
+"The circuit switch is a _______ switch.","[""See \u2013 through"",""Transparent"",""Vague"",""Opaque""]",1
+"A carrier recovery is needed with","[""FSK"",""BPSK"",""DPSK"",""QAM""]",2
+"The Hartley – Shannon theorem sets a limit on the","[""highest frequency that may be sent over a given channel"",""maximum capacity of a channel with a given noise level"",""maximum number of coding levels in a channel with a given noise level"",""maximum number of quantizing levels in a channel of a given bandwidth""]",1
+"The phase relationship between signaling elements for BPSK is the optimum signaling format and occurs only when two binary signal levels are allowed and when one signal is the exact negative of the other.","[""Antipodal signaling"",""Carrier recovery"",""Squaring loop"",""Phase referencing""]",0
+"Pulse – amplitude modulation signals are multiplexed by using","[""Subcarrier"",""Bandpass filters"",""A\/D converters"",""FET switches""]",3
+"It is the ratio of the transmission bit rate to the minimum bandwidth required for a particular modulation scheme.","[""Bandwidth efficiency"",""Spectral efficiency"",""Information density"",""All of these""]",3
+"Ethernet is baseband transmission system designed by _____.","[""Thomas Murray and Robert Metcalfe"",""David Boggs and Thomas Murray"",""Thomas Murray and Emile Baudot"",""Robert Metcalfe and David Boggs""]",3
+"It is a system where the digital signals are placed directly on the coaxial cable.","[""Broadband"",""Baseband"",""CSMA\/CD"",""Token ring""]",1
+"A basic group B","[""Occupies the frequency range from 60 to 108 kHz"",""Consists of erect channels only"",""Is formed at the group translating equipment"",""Consists of 5 supergroups""]",0
+"Which of the following is not primarily type of data communications?","[""a telephone"",""teletype"",""telegraph"",""CW""]",0
+"Packets which is self – contained and travels through the network independent of other packets of the same message by whatever means available.","[""Packet"",""Frame"",""Datagram"",""Data""]",2
+"Transmitting the data signal directly over the medium is referred to as","[""baseband"",""broadband"",""ring"",""bus""]",0
+"The main reason that serial transmission is preferred to parallel transmission is that?","[""serial is faster"",""serial requires only a single channel"",""serial requires multiple channels"",""parallel is too expensive""]",3
+"Which of the following is not a LAN?","[""PBX system"",""Hospital system"",""Office building system"",""Cable TV system""]",3
+"A modulation technique where data rates in excess of 56 kbps can be achieved over telephone circuits","[""ASK"",""Trellis Code Modulation"",""GSK"",""Any of these""]",1
+"It is how the primary designates the secondary as the designation of recipient of data.","[""Line turnaround"",""Selection"",""Line control"",""Control Protocol""]",1
+"It is the process of compressing and expanding and is a means of improving the dynamic range of communications system.","[""Pre-emphasis"",""Filtering"",""De-emphasis"",""Companding""]",3
+"The supergroup pilot is","[""applied to each multiplexing bay"",""used to regulate the gain of individual repeaters"",""applied at each adjustable equalizer"",""fed in at a GTE""]",3
+"The time it takes to transmit one TDM frame is called _________.","[""Slot time"",""Frame time"",""Transmission time"",""Any of these""]",1
+"It is the thermal noise power normalized to 1-Hz bandwidth","[""power density ratio"",""thermal noise"",""noise power density"",""ambient temperature noise""]",2
+"It is the procedure used to decide which device has the permission to transmit at any given time","[""Flow control"",""Sequence control"",""Line control"",""Framing""]",2
+"Any rounded – off errors in the transmitted signal are reproduced when the code is converted back to analog in the receiver.","[""Aperture error"",""Quantization error"",""Aperture distortion"",""Slope overload""]",1
+"The biggest disadvantage of PCM is","[""its inability to handle analog signals"",""the high error rate which is quantizing noise introduces"",""its incompatibility with TDM"",""the large bandwidths that are required for it""]",3
+"T1 stands for","[""Transmission one"",""Telecommunication one"",""Telex one"",""Transmission line one""]",0
+"Involves compression in the transmitter after the input sample has been converted to a linear PCM code and then expansion in the receiver prior to PCM coding.","[""analog companding"",""A \u2013 law companding"",""Digital companding"",""U \u2013 law companding""]",2
+"Mark and space refer respectively to","[""dot and dash"",""message and interval"",""binary 1 and binary 0"",""on and off""]",2
+"Variation of biphase that is used for encoding SMPTE time code data and for recording on video tapes","[""Biphase \u2013 M"",""B8Z"",""Manchester"",""UPNRZ""]",0
+"Pulse width modulation may be generated","[""by differentiating pulse position modulation"",""with a monostable multivibrator"",""by integrating the signal"",""with a free running multivibrator""]",1
+"The ISDN channel D designates _____ which contains control information.","[""Data"",""Flow"",""Control"",""Bearer""]",0
+"A transmission of binary data which involves the transmission of two non – zero voltage level","[""Unipolar"",""Polar"",""Bipolar"",""Non \u2013 return to zero""]",2
+"Switching systems","[""improve the efficiency of data transfer"",""are not used in data systems"",""require additional lines"",""are limited to small data networks""]",0
+"It involves converting standard logic levels to a form more suitable to telephone transmission lines","[""Transmission line encoding"",""Physical line encoding"",""Digital line encoding"",""Multiplexing""]",2
+"The primary advantage of digital transmission","[""economical"",""reliability"",""noise immunity"",""efficiency""]",2
+"Part of the PCM system that prevents aliasing or foldover distortion","[""Bandpass filter"",""Anti \u2013 foldover distortion"",""Anti \u2013 aliasing"",""Any of these""]",3
+"It is defined as the process of transforming messages or signals in accordance with a definite set of rules.","[""Quantizing"",""Sampling"",""Coding"",""Decoding""]",2
+"The PCM code for each channel occupies a fixed time slot called","[""Frame time"",""Baud"",""Transmission time"",""Epoch""]",3
+"The building block of a parity or BCC generator is _________.","[""Shift register"",""XOR"",""2 \u2013 to \u2013 4 level converter"",""UART""]",1
+"An IC that contains A/D and D/A converters, companders, and parallel-to-serial converters is called a","[""Codec"",""Data converter"",""Multiplexer"",""Modem""]",0
+"Data communications refers to the transmission of","[""voice"",""video"",""computer data"",""all of the above""]",2
+"The number of amplitude, frequency, or phase changes that take place per second is known as the","[""data rate in bits per second"",""frequency of operation"",""speed limit"",""baud rate""]",3
+"The basic modulator and demodulator circuits in PSK are","[""PLLs"",""Balanced modulators"",""Shift registers"",""Linear summers""]",1
+"What is the result if the input of ADC is changing while performing conversion?","[""Aperture error"",""Overload distortion"",""Aliasing"",""Aperture distortion""]",3
+"Information capacity is convenient to express as","[""baud"",""bits"",""dot length"",""bits per second or bps""]",3
+"Which medium is the least susceptible to noise?","[""twin lead"",""fiber \u2013 optic cable"",""twisted pair"",""coax""]",1
+"The RS – 232 interface","[""interconnects data sets and the transmission circuits"",""uses several different connectors"",""permits custom wiring of signal lines to the connector pins as desired"",""all of the above""]",0
+"The ISDN channel B designates _________.","[""Bearer"",""Data"",""Control"",""Flow""]",0
+"Data transmission of the character at a time with start and stop bits is known as what type of transmission?","[""asynchronous"",""serial"",""synchronous"",""parallel""]",0
+"Sampling technique that when the tops of the sample pulses retain their natural shape during the sample interval","[""unnatural sampling"",""flat top sampling"",""natural sampling"",""free sampling""]",2
+"A modem converts","[""Analog signals to digital"",""Digital signals to analog"",""Digital signals to analog and vice-versa"",""None of these""]",2
+"What is the type of mastergroup used for low – capacity microwave systems?","[""A600"",""U600"",""L600"",""L400""]",2
+"An FDM hierarchy which is formed by frequency – division multiplexing five groups containing 12 channels each for a combined bandwidth of 240 kHz.","[""Supergroup"",""Group"",""Mastergroup"",""Jumbogroup""]",0
+"The result whenever the sampling rate is less than twice the highest audio frequency","[""peak limiting"",""overload distortion"",""alias"",""quantizing noise""]",2
+"The most critical and difficult part of receiving a direct – sequence spread spectrum signal is","[""Frequency synthesis"",""Synchronism"",""PSN code generation"",""Carrier recovery""]",1
+"An FDM hierarchy which is formed by frequency – division multiplexing 10 super groups together for a combined capacity of 600 voice band message channels","[""Supergroup"",""Group"",""Mastergroup"",""Jumbogroup""]",2
+"It is the transmittal of digital signals between to or more points in a communication system.","[""Digital transmittal"",""Digital communications"",""Digital radio"",""Data communications""]",0
+"It is logically equivalent to making telephone call through the DDD network except no direct end-to-end connection is made","[""Normal call"",""Completed call"",""Logical call"",""Virtual call""]",3
+"It is proposed network designed by major telephone companies in conjunction with the ITU-T with the intent of providing worldwide telecommunications support for voice, data, video and facsimile information within the same network","[""ISDN"",""Broadband communications"",""ATM"",""Ethernet""]",0
+"Full duplex operation","[""requires two pair of cables"",""can transfer data in both directions at once"",""requires modems at both ends of the circuit"",""all of these""]",3
+"The most widely used data communications code is","[""Morse code"",""ASCII"",""Baudot"",""EBCDIC""]",1
+"Ten bit error occurs in two million transmitted. The bit error rate is","[""2 x 10^-5"",""5 x 10^-5"",""5 x 10^-6"",""2 x 10^-6""]",2
+"It is a type of FSK where the mark and space frequencies are synchronized with the input binary rate","[""QFSK"",""GFSK"",""CPFSK"",""GSK""]",2
+"A form of digital modulation similar to PSK except the digital information is contained in both the amplitude and the phase of the transmitted carrier.","[""ASK"",""FSK"",""QAM"",""PSK""]",2
+"For the 16-PSK and a transmission system with a 10kHz bandwidth, determine the maximum bit rate","[""40,000 bps"",""80,000 bps"",""20,000 bps"",""16,000 bps""]",0
+"It is an empirical record of a system’s actual bit error performance.","[""probability of error"",""error detection"",""error control"",""bit error rate""]",3
+"It is a function of the carrier-to-noise power ratio and the number of possible encoding conditions used","[""probability of error"",""error detection"",""error control"",""bit error rate""]",0
+"It is used to compare two or more digital modulation systems that use different transmission rates, modulation scheme or encoding techniques","[""Energy per b it-to-noise power density ratio"",""Noise power density"",""Power density ratio"",""Carrier-to-noise ratio""]",0
+"Indicate which of the following is not a binary code","[""Morse"",""Baudot"",""CCITT-2"",""ARQ""]",0
+"To permit the selection of 1 out of 16 equiprobable events, the number of bits required is","[""2"",""log 16 base 10"",""8"",""4""]",3
+"The type of modulation most often used with direct-sequence spread spectrum is","[""QAM"",""SSB"",""FSK"",""PSK""]",3
+"Indicate the false statement. In order to combat noise,","[""the channel bandwidth may be increased"",""redundancy may be used"",""the transmitted power may be increased"",""the signaling rate may be reduced""]",0
+"Which of the following is not commonly used method of error detection?","[""Parity"",""BCC"",""CRC"",""redundancy""]",3
+"Quantizing noise occurs in","[""time-division multiplex"",""frequency-division multiplex"",""pulse-code modulation"",""pulse-width modulation""]",2
+"In order to reduce quantizing noise, one must","[""increase the number of standard amplitudes"",""send pulses whose sides are more nearly vertical"",""use an RF amplifier at the receiver"",""increase the number of samples per second""]",0
+"Companding is used","[""to overcome quantizing noise in PCM"",""in PCM transmitters, to allow amplitude limiting in the receiver"",""to protect small signals in PCM form quantizing distortion"",""in PCM receivers, to overcome impulse noise""]",2
+"Transmitting data as serial binary word is called _______.","[""digital communications"",""quantizing"",""PAM"",""PCM""]",3
+"Emphasizing low-level signals and compressing higher level signals is called","[""quantizing"",""companding"",""pre-emphasis"",""sampling""]",1
+"Which circuit is most common to both frequency-hopping and direct-sequence spread spectrum transmitters?","[""correlator"",""frequency synthesizer"",""PSN code generator"",""Sweep generator""]",2
+"One of the most important aspect of any communication system because it is costly and limited","[""bandwidth"",""equipments"",""time"",""personnel""]",0
+"It consist essentially of sampling analog information signals and then converting those samples into discreet pulses of transporting the pulses from the source to destination over a physical transmission medium","[""Pulse modulation"",""Amplitude modulation"",""Frequency modulation"",""Digital modulation""]",0
+"He is credited with inventing PCM in 1937","[""N. S. Kapany"",""A. H. Reeves"",""E. H. Alpine"",""A. C. S. Van Heel""]",1
+"Data communications uses","[""Analog methods"",""Digital methods"",""All of these"",""None of these""]",1
+"An integrated circuit that performs the PCM encoding and decoding functions","[""Codec"",""Modem"",""Muldem"",""Digital-to-analog converter""]",0
+"A synchronous transmission usually begins with which character?","[""SYN"",""STX"",""SOH"",""ETB""]",0
+"A theory that establishes the minimum sampling rate that can be used for a given PCM systems","[""Nyquist sampling theorem"",""Nyquist minimum bandwidth"",""Nyquist minimum bandwidth"",""Any of these""]",0
+"Sixteen different levels (symbols) are used to encode binary data. The channel bandwidth is 36 MHz. The maximum channel capacity is","[""18 Mbps"",""72 Mbps"",""288 Mbps"",""2.176 Gbps""]",2
+"Assigning PCM codes to absolute magnitudes","[""Coding"",""Quantizing"",""Sampling"",""Any of these""]",1
+"A popular PC protocol is","[""Parity"",""Xmodem"",""CRC"",""LRC""]",1
+"It is the ratio of the largest possible magnitude to the smallest possible magnitude that can be decoded by the digital-to-analog converter in the receiver","[""Coding efficiency"",""Companding"",""Pre-emphasis"",""Dynamic range""]",3
+"Devices used for digitizing speech signals only","[""codec"",""muldem"",""vocoders"",""modem""]",2
+"What is the minimum bandwidth required to transmit a 56 kbps binary signal with no noise?","[""14 kHz"",""56 kHz"",""28 kHz"",""112 kHz""]",2
+"Type of PCM that uses single-bit PCM code to achieve digital transmission of analog signals","[""Adaptive delta modulation"",""Pulse code modulation"",""Differential modulation"",""Delta modulation""]",3
+"It is a delta modulation system where the step size of the digital-to-analog converter is automatically varied, depending on the analog input signal.","[""Adaptive Delta Modulation"",""PCM"",""Differential modulation"",""Delta modulation""]",0
+"A QAM modulator does not use ____.","[""XNOR"",""Bit Splitter"",""Balanced modulator"",""2-to-4 level converter""]",0
+"It is a form of phase-division multiplexing where two data channels modulate the same carrier frequency that is shifted 90 degrees in phase.","[""PSK"",""FSK"",""QAM"",""ASK""]",2
+"One eight-bit PCM code is called ______.","[""FDM frame"",""TDM time slot"",""TDM frame"",""FDM time slot""]",2
+"It is communications system that uses digital pulse rather than analog signals to encode information","[""Digital carrier system"",""Digital baseband system"",""Digital service system"",""Digital broadband system""]",0
+"A special device that upgrades signals from one level to a higher level of the hierarchy in multiplexing","[""Muldem"",""Vocoder"",""Modem"",""Codec""]",0
+"A transmission of binary data which involves the transmission of only a single non-zero voltage level.","[""Unipolar"",""Bipolar"",""Polar"",""Non-return to zero""]",0
+"It is a popular type of line encoding that produces a strong timing component for clock recovery and does not cause wandering","[""Digital biphase"",""diphase"",""Manchester code"",""Any of these""]",3
+"Statistical TDMs are also called","[""Intelligent TDMs"",""Asynchronous TDM"",""Stat mux"",""Any of these""]",3
+"A chip that combines the codec and filter functions in the same LSI chip","[""Monolithic"",""Combo chip"",""Film IC"",""Hybrid chip""]",1
+"It is the basic building block of FDM hierarchy","[""Character channel"",""Broadband channel"",""Message channel"",""Information capacity""]",2
+"It is the next higher level in the FDM hierarchy above the basic message channel and consequently is the first multiplexing step for combining message channels","[""Supergroup"",""Group"",""Mastergroup"",""Jumbogroup""]",1
+"It is the modulating signal in a communications system","[""Broadband"",""Baseband"",""Carrier"",""Any of these""]",1
+"What type of mastergroup that can be further multiplexed and used for higher-capacity microwave radio systems?","[""A600"",""U600"",""L600"",""L400""]",1
+"It is essentially the same with FDM, where several signals are transmitted using different carriers, occupying non-overlapping bands of frequency and wavelengths.","[""Time division multiplexing"",""Wave division multiplexing"",""Space division multiplexing"",""Frequency division multiplexing""]",3
+"In order to separate channels in the TDM receiver, it is necessary to use","[""AND gates"",""bandpass filters"",""differentiation"",""integration""]",0
+"To separate channels in an FDM receiver, it is necessary to use","[""AND gates"",""bandpass filters"",""differentiation"",""integration""]",1
+"In FDM, multiple signals","[""transmit at different times"",""share a common bandwidth"",""use multiple channels"",""modulate one another""]",1
+"Frequency modulation in FDM usually accomplished with a","[""reactance modulator"",""varactor"",""VCO"",""PLL""]",2
+"Which of the following is not a common LAN medium?","[""twin lead"",""twisted pair"",""fiber-optic cable"",""coax""]",0
+"A mainframe computer connected to multiple terminals and PCs usually uses which configuration?","[""bus"",""ring"",""star"",""tree""]",2
+"How many voice channels are there in supermaster group?","[""300"",""900"",""3600"",""10800""]",1
+"In a PAM/TDM system, keeping the multiplexer and DEMUX channels step with one another is done by a","[""clock recovery circuit"",""sync pulse"",""sampling"",""sequencer""]",1
+"It is the process of volume compression before transmission and expansion after detection.","[""pre-emphasis"",""de-emphasis"",""coding"",""companding""]",3
+"Which of the following is correct?","[""The bit rate may be greater than the baud rate"",""The baud rate may be greater than the bit rate"",""The bit and baud rate are always the same"",""The bit and baud rates are not related""]",0
+"Function of data link protocol that coordinates the rate at which data are transported over a link and generally provides an acknowledgement mechanism that ensures that data are received in the destination.","[""Flow control"",""Line discipline"",""Polling"",""Selection""]",0
+"A classification of protocol, which is a discipline for a serial-by-bit information transfer over data communications channel.","[""Message oriented"",""Bit-oriented protocol"",""Clock oriented protocol"",""Asynchronous protocol""]",1
+"A LAN device that interconnects two or more device running identical internetwork protocols.","[""Bridges"",""Gateways"",""Switches"",""Routers""]",3
+"The magnitude of a quantum in quantization of PCM codes.","[""Maximum decodable voltage"",""Dynamic range"",""Resolution"",""Coding level""]",2
+"It comprises of either a single L600 mastergroup or up to three U600 mastergroups","[""Message channel"",""Radio channel"",""Baseband channel"",""Wide channel""]",1
+"It is a multiplexing system similar to conventional time-division multiplexing except that it was developed to be used with optical fibers","[""SONET"",""Frame relay"",""ATM"",""X.25""]",0
+"Higher order TDM levels are obtained by","[""dividing pulse widths"",""using the a-law"",""using u-law"",""forming supermastergroups""]",0
+"Results when the sample exceeds the highest quantization interval","[""Overload distortion"",""Quantization error"",""Quantization noise"",""Granular noise""]",0
+"The event which marked the start of the modern computer age was","[""design of the ENIAC computer"",""development of Hollerith code"",""development of the transistor"",""development of disk drives for data storage""]",2
+"A forward error correcting code corrects errors by","[""requiring partial transmission of the entire signal"",""requiring retransmission of the entire signal"",""requiring no part of the signal to be transmitted"",""using parity to correct the errors in all cases""]",2
+"The carrier used with a BPSK demodulator is","[""Generated by an oscillator"",""The BPSK signal itself"",""Twice the frequency of the transmitted carrier"",""Recovered from the BPSK signal""]",1
+"Digital signals","[""do not provide a continuous set of values"",""represent values as discrete steps"",""can utilize decimal or binary systems"",""all of these""]",3
+"Each signal in an FDM signal","[""modulates the main carrier"",""modulates the final carrier"",""is mixed with all the others before modulation"",""serves as a subcarrier""]",0
+"In digital modulation, if the information signal is digital and the amplitude of the carrier is varied proportional to the information signal.","[""Quaternary Shift Keying (QAM)"",""Phase Shift Keying (PSK)"",""Frequency Shift Keying (FSK)"",""Amplitude Shift Keying (ASK)""]",3
+"Slow speed modems","[""FSK"",""BPSK"",""QPSK"",""QAM""]",0
+"The data rate for IEEE 802.11b is _____.","[""10 Mbps"",""1.544 Mbps"",""2.048 Mbps"",""11 Mbps""]",3
+"Type of analog companding used in the United States and Japan","[""log-PCM companding"",""A-law companding"",""u-law companding"",""any of these""]",2
+"A rule of procedure that defines how data is to be transmitted is called","[""handshake"",""error-detection"",""data specifications"",""protocol""]",3
+"A longitudinal redundancy check produces","[""block check character"",""parity bit"",""CRC"",""error correction""]",0
+"Multiplexing is the process of","[""Several signal sources transmitting simultaneously to a receiver on common frequency"",""Sending the same signal over multiple channels to multiple destinations"",""Transmitting multiple signals over multiple channels"",""Sending multiple signals simultaneously over a single channel""]",3
+"What is the relationship of bit rate and baud in QPSK and 8-PSK?","[""bit rate is greater than baud"",""bit rate is always less than the baud"",""bit rate is never greater than the baud"",""bit rate is slightly less than the baud""]",0
+"A common method of achieving carrier recovery for BPSK","[""Trellis code"",""Bandwidth efficiency"",""Squaring loop"",""Carrier recovery""]",2
+"What is the relationship of bit rate and baud in FSK and PSK?","[""greater than"",""slightly greater than"",""less than"",""equal""]",3
+"The modulation used in FDM telephone system is","[""AM"",""FM"",""SSB"",""PSK""]",2
+"In digital modulation, a diagram which is similar to phasor diagram except that the entire phasor is not drawn and only the peaks of the phasor are shown","[""constellation diagram"",""Venn diagram"",""phasor diagram"",""schematic diagram""]",0
+"Digital signals may be transmitted over the telephone network if","[""their speed is low enough"",""they are converted to analog first"",""they are ac instead of dc"",""they are digital only""]",1
+"Most FDM telemetry system use","[""AM"",""FM"",""SSB"",""PSK""]",1
+"In TDM, multiple signals","[""share a common bandwidth"",""modulate subcarriers"",""are sampled at high speeds"",""take turns transmitting""]",3
+"It is highly theoretical study of efficient use of bandwidth to propagate information through electronic communications system","[""information capacity"",""data communications"",""information theory"",""information technology""]",2
+"Another name for parity is","[""Vertical redundancy check"",""Block check character"",""Longitudinal redundancy check"",""Cyclic redundancy check""]",0
+"It is the process of gathering data on some particular phenomenon without the presence of human monitors","[""Telemetry"",""Telecommand"",""Telecommunications"",""Remote control""]",0
+"Spread spectrum stations sharing a band are identified by and distinguished from one another","[""PSN code"",""Frequency of operation"",""Clock rate"",""Modulation type""]",0
+"The ASCII code has","[""4 bits"",""5 bits"",""7 bits"",""8 bits""]",2
+"The first file transfer protocol designed to facilitate transferring data between two personal computers over the public switched telephone network","[""X modem protocol"",""Y modem protocol"",""Z modem protocol"",""BLAST""]",0
+"For a single-channel PCM system with a sample rate of 6000 samples per second and a seven-bit compressed PCM code, what is the line speed?","[""21,000 bps"",""42,000 bps"",""14,000 bps"",""12,000 bps""]",1
+"It is often used to compare the performance of one digital modulation technique to another","[""Bandwidth efficiency"",""Spectral efficiency"",""Information density"",""All of these""]",3
+"It is the process of extracting a phase-coherent reference carrier from a receiver signal","[""Phase referencing"",""Trellis code"",""Squaring loop"",""any of these""]",0
+"It is the measure of how much information can be propagated through a communication system and is a function of a bandwidth of the transmission line","[""information theory"",""information capacity"",""information technology"",""digital communications""]",1
+"In delta modulation, the modulator is sometimes called _____.","[""continuous ADC"",""tracking ADC"",""variable slope ADC"",""slope ADC""]",1
+"The code which provides for parity checks is","[""Baudot"",""ASCII"",""CCITT-2"",""EBCDIC""]",1
+"Form of multiplexing that constitutes propagating signals from different cables that sre contained within the same trench","[""Wavelength division multiplexing"",""Wave division multiplexing"",""Space division multiplexing"",""Frequency division multiplexing""]",2
+"For an 8-PSK system, operating with an information bit rate of 24 kbps, determine the bandwidth efficiency","[""8 bits\/cycle"",""2 bits\/cycle"",""3 bits\/cycle"",""4 bits\/cycle""]",2
+"Element of a PCM system that periodically samples the analog input signal and converts those samples to a multilevel PAM signal","[""Bandpass filter"",""Sample-and-hold circuit"",""Analog-to-digital converter"",""Digital-to-analog converter""]",1
+"It is the ratio of the average carrier power to the thermal noise power","[""Signal-to-noise ratio"",""Noise figure"",""Noise factor"",""Carrier-to-noise ratio""]",3
+"A form of switching which is hold and forward","[""Packet switching"",""Message switching"",""Circuit switching"",""Digital switching""]",0
+"It can be used to categorize the type of transmission","[""Duty cycle"",""Companding"",""Coding efficiency"",""Dynamic range""]",0
+"Type of multiplexing where multiple sources that originally occupied the same frequency spectrum are each converted to a different frequency band and transmitted simultaneously over a single transmission medium.","[""FDM"",""ATM"",""TDM"",""Spread spectrum""]",0
+"It is a solicitation sent from the primary to a secondary to determine if the secondary has data to transmit","[""Selection"",""Polling"",""Error control"",""Master control""]",1
+"Function of data link control that specifies the means of detecting and correcting transmission errors","[""Error control"",""Selection"",""Protocol"",""Synchronization""]",0
+"The Hartley law states that","[""the maximum rate of information transmission depends on the channel bandwidth"",""the maximum rate of information depends on the depth of modulation"",""redundancy is essential"",""only binary codes may be used""]",0
+"It represents the number of independent symbols that can be carried through a system in a given unit of time.","[""information theory"",""information capacity"",""information technology"",""digital communications""]",1
+"The Shannon-Hartley law","[""refers to distortion"",""defines the bandwidth"",""describes signaling rates"",""refers to noise""]",3
+"The most basic digital symbol used to represent information","[""bit"",""baud"",""bits per second"",""any of these""]",0
+"Function of data link protocol that coordinates hop-to-hop data delivery where a hop maybe a computer, a network controller or a network-connecting device such as router.","[""Flow control"",""Error control"",""Line discipline"",""Selection""]",2
+"Quadrature amplitude modulation is","[""Amplitude modulation only"",""QPSK only"",""AM plus QPSK"",""AM plus FSK""]",2
+"The most common modulation system used for telegraphy is","[""frequency-shift keying"",""two-tone modulation"",""pulse-code modulation"",""single-tone modulation""]",0
+"It is used to encode the minimum amount of speech information necessary to reproduce a perceptible message with a fewer bits that those needed by a conventional encoder/decoder","[""codec"",""muldem"",""vocoders"",""modem""]",2
+"It is the transmission of information in any form from one source to one or more destination","[""Modulation"",""Multiplexing"",""Encoding"",""Decoding""]",1
+"A form of switching which is stored and forward","[""Packet switching"",""Message switching"",""Circuit switching"",""Digital switching""]",1
+"In digital modulation, it is similar to standard amplitude modulation except there is only two amplitudes possible","[""frequency shift keying"",""quaternary amplitude modulation"",""amplitude shift keying"",""phase shift keying""]",2
+"The technique of using modulation and FDM to transmit multiple data channels of a common medium is known as","[""baseband"",""broadband"",""ring"",""bus""]",1
+"Which of the following is not a benefit of companding","[""minimizes noise"",""minimizes number of bits"",""minimizes quantizing error"",""minimizes signal bandwidth""]",3
+"Transmissions from multiple sources occur in the same facility but not at the same time","[""Time Division Multiplexing"",""Frequency Division Multiplexing"",""Wave Division Multiplexing"",""Space Division Multiplexing""]",0
+"A 9600-baud rate signal can pass over the voice grade telephone line if which kind of modulation is used?","[""BPSK"",""QPSK"",""DPSK"",""QAM""]",3
+"Indicate which of the following pulse modulation systems is analog","[""PCM"",""PWM"",""Differential PCM"",""Delta""]",1
+"The modulation system inherently most noise-resistant is","[""SSB, suppressed carrier"",""frequency modulation"",""pulse-position modulation"",""pulse-code modulation""]",3
+"It is simply the number of bits transmitted during one second and expressed in bits per second","[""baud"",""bits"",""bit rate"",""pulse repetition rate""]",2
+"It is the most prevalent encoding technique used for TDM signals","[""PAM"",""PLM"",""PPM"",""PCM""]",3
+"The characters making up the message in a synchronous transmission are collectively referred to as the data","[""set"",""sequence"",""block"",""collection""]",2
+"A virtual circuit which is logically equivalent to a two-point dedicated private-line circuit except slower","[""Switched Virtual Circuit"",""Permanent Virtual Circuit"",""Switched Leased Circuit"",""Permanent Leased Circuit""]",1
+"To a conventional narrowband receiver, a spread spectrum signal appears to be like","[""Noise"",""Fading"",""A jamming signal"",""An intermittent connection""]",0
+"It is a low-quality video transmission for use between non-dedicated subscribers","[""Digital phone"",""Picturephone"",""Cameraphone"",""Cellphone with camera""]",1
+"Pulse code modulation is preferred to PAM because of its","[""resistance to quantizing error"",""simplicity"",""lower cost"",""superior noise immunity""]",3
+"A CRC generator uses which component?","[""balanced modulator"",""shift register"",""binary adder"",""multiplexer""]",1
+"A signaling element is sometimes called","[""information"",""data"",""symbol"",""intelligence""]",2
+"Which of the following words has the correct parity bit? Assume odd parity. The last bit is the parity bit.","[""1111111 1"",""1100110 1"",""0011010 1"",""0000000 0""]",1
+"It is a digital interface that provides the physical connection to the digital carrier network","[""Modem"",""Codec"",""Muldem"",""DSU\/CSU""]",3
+"It is the only digitally encoded modulation technique that is commonly used for digital transmission","[""PAM"",""PCM"",""PLM"",""PPM""]",1
+"The most common circuit used for demodulating binary FSK signals","[""phase locked loop"",""Foster-Seeley discriminator"",""varactor"",""phase shift method""]",0
+"A digital modulation technique also known as “on-off” keying","[""PSK"",""FSK"",""QUAM"",""OOK""]",3

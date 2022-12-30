@@ -1,0 +1,11 @@
+question,A,B,C,D,E,answer,explanation
+<p>A class C amplifier is a linear amplifier.</p>,True,False,,,,B,
+"<p>In a class B push-pull amplifier, crossover distortion occurs when both transistors are off and the input signal voltage must exceed V<sub>BE</sub> before a transistor conducts.</p>",True,False,,,,A,
+<p>Class AB operation always requires a dual (+/–) supply.</p>,True,False,,,,B,
+<p>Class A amplifiers operate in the active region of the load line all of the time.</p>,True,False,,,,A,
+<p>The efficiency of any amplifier is the ratio of signal output power to signal input power.</p>,True,False,,,,B,
+<p>A class A amplifier conducts 180° of the cycle.</p>,True,False,,,,B,
+<p>The class C amplifier is biased below cutoff.</p>,True,False,,,,A,
+<p>Class B amplifiers are usually zero-biased.</p>,True,False,,,,A,
+<p>Class B amplifiers are usually operated in push-pull to obtain an output that is a near replica of the input signal.</p>,True,False,,,,A,
+"<p>In a large-signal amplifier, the ac signal only needs to move over a small percentage of the total ac load line.</p>",True,False,,,,B,

@@ -1,0 +1,33 @@
+question,A,B,C,D,E,answer,explanation
+<p>The ________ can be externally programmed to turn on at a desired anode-to-gate voltage level.</p>,UJT,PUT,SCR,SCS,,B,
+<p>You need a very <i>efficient</i> thyristor to control the speed of an AC fan motor. A good device to use would be</p>,a 4-layer diode.,a PUT.,a triac.,a BJT.,,C,
+<p>An application of a(n) ________ is in a lighting system for power interruptions.</p>,SCR,SCS,diac,triac,,A,
+"<p><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq11_1028_1.jpeg""/>Identify the symbol:</p>",SCS,PUT,LASCR,diac,,A,
+<p>The silicon-controlled switch (SCS) is similar in construction to the</p>,triac.,diac.,SCR.,4-layer diode.,,C,
+<p>The ________ can conduct current in either direction and is turned on when a breakover voltage is exceeded.</p>,SCR,diac,SCS,triac,,B,
+<p>You need to design a relaxation oscillator circuit. The most likely device to use might be</p>,an SCR.,a UJT.,a triac.,a 4-layer diode.,,B,
+"<p>Identify the diac symbol.
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq11_1006_1.jpeg""/></p>",a,b,c,d,e,D,
+<p>You have the schematic diagram of several types of circuits. Which of these circuits most likely uses a triac?</p>,an oscillator,an ac motor control,a programmable oscillator,an amplifier,,B,
+"<p>Identify the symbol for an SCS.
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq11_1006_1.jpeg""/></p>",a,b,c,d,e,C,
+<p>The ________ is like a diac with a gate terminal.</p>,triac,SCR,SCS,none of the above,,A,
+<p>You have a need to use a device to trigger an SCR. A good one to use might be</p>,an SCS.,a UJT.,a 4-layer diode.,a PUT.,,B,
+<p>The SCR can be triggered on by a pulse at the</p>,gate.,anode.,cathode.,none of the above,,A,
+"<p><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq11_1029_1.jpeg""/>Identify the symbol:</p>",triac,PUT,LASCR,SCR,,B,
+"<p>Identify the triac from the given figures.
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq11_1006_1.jpeg""/></p>",a,b,c,d,e,E,
+<p>Which of the following devices might best be used to control an electric motor?</p>,an SCS,a PUT,an SCR,a diac,,C,
+"<p>What is the correct symbol for an SCR?
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq11_1006_1.jpeg""/></p>",a,b,c,d,e,A,
+"<p>You have a light-dimmer circuit using an SCR. In testing the circuit, you find that I<sub>G</sub> = 0 mA and the light is still on. You conclude that the trouble might be one of the following:</p>",the SCR is open.,the switch is faulty.,the gate circuit is shorted.,this is normal; nothing is wrong.,,D,
+<p>How many semiconductor layers are thyristors constructed with?</p>,2,3,4,5,,C,
+<p>Your boss has asked you to recommend a thyristor that will enable you to <i>turn it on with a pulse</i> and also <i>turn it off with a pulse</i>. Which of the following should you recommend?</p>,an SCR,an SCS,a PUT,a triac,,B,
+<p>An SCR acts to control the speed of an electric motor by ________ the ________ of the pulse delivered to the motor.</p>,"varying, width","increasing, amplitude","decreasing, gate width",none of these,,A,
+"<p>Which symbol represents a UJT?
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq11_1006_1.jpeg""/></p>",a,b,c,d,e,B,

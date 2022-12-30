@@ -1,0 +1,203 @@
+question,A,B,C,D,E,answer,explanation
+<p>A ramp input applied to a unity feedback system results in 5% steady state error. The type number and zero frequency gain of the system are respectively.</p>,1 and 20,0 and 20,0 and 1/20,1 and 1/20,,A," <p><i>e</i><sub><i>ss</i></sub> = 5% ⇒ .05</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/16-06-33.png""/>.</p> "
+<p>A fair coil is tossed 10 times. What is the probability that ONLY the first two tosses will yield heads?</p>,"<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/6-02-11-1.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/6-02-11-2.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/6-02-11-3.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/6-02-11-4.png""/>",,C," <p>Use <i>n<sub>cr</sub></i>, (<i>p</i>)<sup><i>r</i></sup> (<i>q</i>)<sup><i>n-r</i></sup> [for any two losses yield head].</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/6-07-11.png""/></p>
+<p>But in present case it is required case it is only for first two tosses. Thus in this case <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/6-07-11-1.png""/> 10 times.</p> "
+<p>The equation sin (<i>z</i>) = 10 has</p>,no real or complex solution,exactly two distinct complex solutions,a unique solution,an infinite number of complex solutions,,A, <p>Since value lies between - 1 and + 1. Therefore no real or complex solution exists.</p> 
+"<p>Given <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/7-04-31.png""/> If <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/7-04-31-1.png""/>, then the value of K is</p>",1,2,3,4,,D," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/7-08-31.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/7-08-31-1.png""/>.</p> "
+"<p>Consider the Schmitt trigger circuit shown below. A triangular wave which goes from - 12 V to 12 V is applied to the inverting input of the op-amp. Assume that the output of the op-amp moves from +15 V to -15 V. The voltage at the non-inverting switches between<br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/5-07-53.png""/></p>",-12 V and +12 V,-7.5 V and +7.5 V,-5 V and +5 V,0 V and 5 V,,B," <p>V<sub>0</sub> is switching between + 15 to - 150</p>
+<p>Thus voltage at non-inverting input switches between</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/5-12-53.png""/>, 7.5 to - 7.5 .</p> "
+"<p><i>i</i><sub>1</sub>(<i>t</i>) for <i>t</i> &gt; 0 is given by<br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-04-40.png""/></p>",2.5 - 2.5<i>e</i><sup>-2<i>t</i></sup>,2.5 - 1.25<i>e</i><sup>-2<i>t</i></sup>,1.25 - 1.25<i>e</i><sup>-2<i>t</i></sup>,None of these,,B," <p>The time constant <span class=""symbol"">t</span> is given by</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-10-40.png""/></p>
+<p>As R<sub><i>eq</i></sub> = 4 || 4 = 2 Ω</p>
+<p><b>∴</b> <i>i</i><sub>1</sub>(<i>t</i>) = <i>i<sub>F</sub></i> - (<i>i<sub>F</sub></i> - <i>i</i><sub>1</sub>)<i>e</i><sup><i>-t/t</i></sup></p>
+<p><i>i</i><sub>final</sub> = <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-10-40-1.png""/> = 2.5 A </p>
+<p><b>∴</b> <i>i</i><sub>1</sub>(<i>t</i>) = 2.5 - (2.5 - 1.25)<i>e</i><sup><i>-t/1/2</i></sup></p>
+<p><i>i</i><sub>1</sub>(<i>t</i>) = 2.5 - 1.25<i>e</i><sup>-2<i>t</i></sup>.</p> "
+"<p>Find I in 4 Ω resistor.<br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/3-07-85.png""/> <br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/3-07-85-1.png""/></p>",1 A,0.5 A,0.75 A,0.95 A,,C," <p>Apply KVL to first to first loop</p>
+<p>6<i>i</i><sub>1</sub> - 2<i>i</i><sub>2</sub> = 10</p>
+<p>(4 + R)<i>i</i><sub>2</sub> - 2<i>i</i><sub>1</sub> - 2<i>i</i><sub>3</sub> = 0</p>
+<p>4<i>i</i><sub>3</sub> - 2<i>i</i><sub>2</sub> = 0</p>
+<p>but <i>i</i><sub>3</sub> = 0.5 A</p>
+<p>2 - 2<i>i</i><sub>2</sub> = 0</p>
+<p><b>∴</b> <i>i</i><sub>2</sub> = 1 A, 6<i>i</i><sub>1</sub> - 2 = 10</p>
+<p><b>∴</b> <i>i</i><sub>1</sub> = 2 A, (4 + R) - 2 X 2 -1 = 0</p>
+<p><b>∴</b> R = 1 Ω</p>
+<p>Using Nodal analysis for loop 2</p>
+<p>At node A, <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/3-15-85.png""/></p>
+<p>V<sub>A</sub> - 20 + V<sub>A</sub> + V<sub>A</sub> - V<sub>B</sub> = 0</p>
+<p>3V<sub>A</sub> - V<sub>B</sub> - 20 = 0</p>
+<p>3V<sub>A</sub> - V<sub>B</sub> = 20 ...(i)</p>
+<p>At node B, <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/3-15-85-1.png""/></p>
+<p>2V<sub>B</sub> - 2V<sub>A</sub> + 2V<sub>B</sub> + V<sub>B</sub> = 0</p>
+<p>5V<sub>B</sub> - 2V<sub>A</sub> = 0 ...(ii)</p>
+<p>Multiplying (i) by 2 and (ii) by 3</p>
+<p>6V<sub>A</sub> - 2V<sub>B</sub> = 40</p>
+<p>- 6V<sub>A</sub> - 15V<sub>B</sub> = 0</p>
+<p>13V<sub>B</sub> = 40</p>
+<p>V<sub>B</sub> ≅ 3 V</p>
+<p><b>∴</b> <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/3-15-85-2.png""/></p> "
+"<p>Which of the following Boolean Expression correctly represents the relation between P, Q, R and M<sub>1</sub>?<br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/5-07-57.png""/></p>",M<sub>1</sub> = (P OR Q) XOR R,M<sub>1</sub> = (P AND Q) XOR R,M<sub>1</sub> = (P NOR Q) XOR R,M<sub>1</sub> = (P XOR Q) XOR R,,D," <p>M<sub>1</sub> = Z XOR R</p>
+<p>M<sub>1</sub> = (X, Y) XOR R</p>
+<p>= M<sub>1</sub> = [<span style=""text-decoration:overline;"">P.Q.</span>(P + Q)]XOR R</p>
+<p>= (P<span style=""text-decoration:overline;"">Q</span> + PQ) XOR R = (P XOR Q) XOR R.</p> "
+"<p>A sequential multiplexer is connected as shown in figure. Each time the multiplexer receives the clock, it switches to the next channel from 6 to 1. If the input signals are :<br/>A = 10 cos 2<span class=""symbol"">p</span>(4 x 10<sup>3</sup>t)<br/>B = 15 cos 2<span class=""symbol"">p</span>(5 x 10<sup>3</sup>t)<br/>C = 20 cos 2<span class=""symbol"">p</span>(6 x 10<sup>3</sup>t)<br/>D = 10 cos 2<span class=""symbol"">p</span>(10 x 10<sup>3</sup>t)<br/>The minimum clock frequency should be __________ kHz.<br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/14-03-28.png""/></p>",8 kHz,50 kHz,20 kHz,10 kHz,,C," <p>Minimum clock freq. = 2<i>f<sub>m</sub></i></p>
+<p>Where <i>f<sub>m</sub></i> is highest freq. component = 2 x 10 kHz = 10 kHz.</p> "
+"<p>The Boolean function realized by the logic circuit shown is<br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/7-05-39.png""/></p>","F = Σ<i>m</i>(0, 1, 3, 5, 9, 10, 14)","F = Σ<i>m</i>(2, 3, 5, 7, 8, 12, 13)","F = Σ<i>m</i>(1, 2, 4, 5, 11, 14, 15)","F = Σ<i>m</i>(2, 3, 5, 7, 8, 9, 12)",,D," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/7-08-39.png""/></p>
+<p>F = Σ<i>m</i> (2, 3, 5, 7, 8, 9, 15).</p> "
+"<p>Find R<sub>AB</sub> <br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/3-04-54.png""/></p>",1 Ω,"<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/3-04-54-2.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/3-04-54-3.png""/>",2 Ω,,D," <p>By solving <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/3-11-54-1.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/3-11-54-2.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/3-11-54-3.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/3-11-54-4.png""/></p> "
+"<p>For the network shown below, determine <i>f</i><sub>Hi</sub> and <i>f</i><sub>HO</sub>, if, <i>r<sub>0</sub></i> = ∞, C<i><sub>be</sub></i> = 36 P<i>f</i>, C<i><sub>bc</sub></i> = 4 P<i>f</i>, C<sub><i>ce</i></sub> = 1 P<i>f</i>, C<sub><i>wo</i></sub> = 8 P<i>f</i>, C<sub><i>wi</i></sub> = 6 P<i>f</i> <br/> <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-760-80-1.png""/> <br/> where C<i><sub>wo</sub></i> = wiring capacitance at output side, C<i><sub>wi</sub></i> = wiring capacitance at input side</p>","738.24 KH<i>z</i>, 8.6 MH<i>z</i>","781.2 KH<i>z</i>, 10.6 MH<i>z</i>","838.32 KH<i>z</i>, 9.2 MH<i>z</i>","938.24 KH<i>z</i>, 8.2 MH<i>z</i>",,A," <p>Equivalent is</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-768-80-1.png""/> </p>
+<p>R<sub>T<i>i</i></sub> = R<sub>S</sub> || R<sub>1</sub> || R<sub>2</sub> || R<sub><i>i</i></sub> = 0.531 KΩ </p>
+<p>C<sub><i>i</i></sub> = C<sub><i>wi</i></sub> + C<sub><i>be</i></sub> + (1 + A<sub>V</sub>)C<i>b</i><sub><i>c</i></sub></p>
+<p> = 6<i>pf</i> + 36<i>pf</i> + (1 - <i>c</i> - 90) 4 <i>pf</i> = 460 <i>pf</i> </p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-768-80-2.png""/> </p>
+<p>R<sub>T2</sub> = R<sub>C</sub> || R<sub>L</sub> = 4 K || 2.2 K = 1.419 KW </p>
+<p>C<sub>0</sub> = C<sub>wo</sub> + C<sub>ce</sub> + C<sub>MO</sub> </p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-768-80-3.png""/></p> "
+"<p>Complex pole in z-plane is as shown below. This is the pole diagram for __________ .<br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-01-8.png""/></p>",Decaying sinusoidal sequence,Growing sinusoidal sequence,Decaying non sinusoidal sequence,Growing non sinusoidal sequence,,A, <p>Decaying sinusoidal sequence.</p> 
+"<p>Four messages band limited to W, W, 2W and 3W respectively are to be multiplex using Time Division Multiplexing (TDM). The minimum bandwidth required for transmission of this TDM signal is</p>",W,3W,6W,7W,,C," <p>In TDM minimum bandwidth is twice the maximum frequency present. Thus, 6W is the answer.</p> "
+"<p>Which of the following terms are equivalent? <ol style=""list-style-type: decimal; padding-bottom:10px;""><li style=""padding-top:10px;"">A ⊕ B ⊕ C</li><li style=""padding-top:10px;"">A ⊕ B ⊙ C</li><li style=""padding-top:10px;""> A ⊙ B ⊕ C</li><li style=""padding-top:10px;"">A ⊙ B ⊙ C</li></ol></p>",1 and 4; 2 and 3,1 and 3,2 and 3,"1, 2 and 4",,A," <p>A ⊕ B ⊕ C = A <span style=""text-decoration:overline;"">(B ⊕ C)</span> + <span style=""text-decoration:overline;"">A</span>(B ⊕ C) </p>
+<p>= A(B ⊙ C) + <span style=""text-decoration:overline;"">A</span> <span style=""text-decoration:overline;"">(B ⊙ C)</span> = A ⊙ B ⊙ C </p>
+<p> A ⊕ B ⊙ C = A <span style=""text-decoration:overline;"">(B ⊙ C)</span> + <span style=""text-decoration:overline;"">A</span><span style=""text-decoration:overline;""></span>(B ⊙ C) </p>
+<p>= A(B ⊕ C) + <span style=""text-decoration:overline;"">A</span>(<span style=""text-decoration:overline;"">B ⊕ C</span>) </p>
+<p>= A ⊙ B ⊙ C.</p> "
+<p>If 137 + 276 = 435 how much is 731 + 672?</p>,534,1403,1623,1513,,C," <p>Given, 137 + 276 = 435</p>
+<p>Adding units digits <i>i.e., </i> 7 + 6 = 13, but given as 5, which is 13 - 8 and also 1 is carry forwarded to the tens digit.</p>
+<p><i>i.e., </i> + 1</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/7-10-62.png""/></p>
+<p>Here, 7 + 3 + 1 = 1 <i>i.e., </i> 11 - 8 = 3 and 1 is carry forwarded to hundred digits</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/7-10-62-1.png""/></p>
+<p>Now, the sum of digits in hundred's place is 1 + 1 + 2 = 4</p>
+<p><i>ie., </i></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/7-10-62-2.png""/></p>
+<p>Using the same logic, we have</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/7-10-62-3.png""/></p>
+<p>Using digits sum 1 + 2 = 3 </p>
+<p>Tens digits sum = 3 + 7 = 10 </p>
+<p>i.e., 10 - 2 and + 1 carry forward Hundreds digits sum = 1 + 7 + 6 = 14 </p>
+<p><i>i.e., </i> 14 - 8 = 6 and one carry forward.</p> "
+"<p>An astable multivibrator circuit using IC 555 timer is shown below. Assume that the circuit is oscillating steadily<br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/5-07-50.png""/><br/>The voltage V<sub>c</sub> across capacitor varies between</p>",3 V to 5 V,3 V to 6 V,3.6 V to 6 V,3.6 V to 5 V,,B," <p>Charging and discharging level of capacitor will be the voltage across it. </p>
+<p>This is equal to <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/5-1.1.png""/> Vcc and <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/5-2.1.png""/> Vcc. </p>
+<p>Thus 3V to 6V is the voltage V<i><sub>C</sub></i> across the capacitor.</p> "
+"<p>The fourier transform of a double sided exponential function<br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-03-37.png""/> is</p>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-03-37-1.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-03-37-2.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-03-37-3.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-03-37-4.png""/>",,D," <p>Consider general expression</p>
+<p>X(<i>j</i>ω) = <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-04-3.png""/> <i>e</i><sup><i>a</i>|<i>t</i>|</sup> <i>e</i><sup>- <i>jωt</i></sup> <i>dt</i></p>
+<p> = <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-09-37.png""/> <i>e<sup>at</sup></i> <i>e</i><sup><i>-jωt</i></sup> <i>dt</i> + <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-09-37-1.png""/> <i>e</i><sup><i>-at</i></sup><i>e</i><sup><i>-jωt</i></sup> <i>dt</i></p>
+<p> X(<i>j</i>ω) = <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-09-37.png""/> <i>e</i><sup>(<i>a - jω</i>)<i>t</i></sup> <i>dt</i> + <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-09-37-1.png""/> <i>e</i> <sup>-(<i>a + jω</i>)<i>t</i></sup> <i>dt</i></p>
+<p> <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-09-37-2.png""/></p>
+<p> <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-09-37-3.png""/></p>
+<p> Since <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-09-37-4.png""/> <b>∴</b> <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-09-37-5.png""/>.</p> "
+"<p>The number of product terms in the minimized sum of product expression obtained through the following <i>k</i> map is (where ""<i>d</i>"" denotes don't care states)</p>",2,3,4,5,,B," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/14-06-29.png""/></p>
+<p><i>Y</i> = <span style=""text-decoration:overline;"">A</span> <span style=""text-decoration:overline;"">B</span> <span style=""text-decoration:overline;"">D</span> + A <span style=""text-decoration:overline;"">B</span> <span style=""text-decoration:overline;"">D</span> + A C <span style=""text-decoration:overline;"">D</span>.</p> "
+"<p>If A = <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-791-85-1.png""/> then |A<sup>50</sup>| will be</p>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-791-85-2.png""/>(1 - 100<sup>2</sup>)","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-798-85-5.png""/>(1 - 50<sup>2</sup>)","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-791-85-4.png""/>(1 - 100<sup>2</sup>)","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-791-85-3.png""/>(1 - 50<sup>2</sup>)",,B," <p>A<sup><i>n</i></sup> = ? </p>
+<p>Every <i>n x n</i> matrix satisfy its characteristic equation |A - λI| = 0 λ -&gt; eigen vector </p>
+<p>A - λI = <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-798-85-6.png""/> </p>
+<p>|A - λI| = <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-798-85-1.png""/>= 0 </p>
+<p><b>∴</b> 1 =<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-789-61-1.png""/>, <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-789-61-1.png""/> </p>
+<p><b>∴</b> <i>f</i>(A) = A<sup><i>n</i></sup> = β<sub>0</sub>I + β<sub>1</sub>A </p>
+<p>Replace A by 1, I by 1 </p>
+<p><i>f</i>(λ) = λ<sup><i>n</i></sup> = β<sub>0</sub> + β<sub>1</sub>λ </p>
+<p>Differentiate w.r.t. λ <i>n</i>λ<sup><i>n</i> - 1</sup> = β<sub>1</sub> </p>
+<p>β<sub>1</sub> = <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-798-85-2.png""/> </p>
+<p><b>∴</b> β<sub>0</sub> = λ<sup><i>n</i></sup> - β x λ </p>
+<p>β<sub>1</sub> = <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-798-85-4.png""/> </p>
+<p>β<sub>0</sub> = <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-798-85-3.png""/>-<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-798-85-4.png""/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-798-85-12.png""/> = <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-798-85-3.png""/>[1 - <i>n</i>] </p>
+<p><b>∴</b> A<sup><i>n</i></sup> = <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-798-85-3.png""/>[1 - <i>n</i>]<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-798-85-7.png""/>+<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-798-85-3.png""/> . 2<i>n</i><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-798-85-8.png""/> </p>
+<p><b>∴</b> A<sup><i>n</i></sup> = <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-798-85-3.png""/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-798-85-9.png""/> </p>
+<p>= <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-798-85-3.png""/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-798-85-10.png""/> </p>
+<p><b>∴</b> A<sup>50</sup> = <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-798-85-5.png""/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-798-85-11.png""/> </p>
+<p>|A<sup>50</sup>| = <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-798-85-5.png""/>(1 - 50<sup>2</sup>).</p> "
+<p>A uniform plane magnetic wave incident normally on a plane surface of a dielectric material is reflected and the percentage of reflected power is 75% What is VSWR?</p>,14,1.4,15,13,,A," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/3-08-11-1.png""/></p> "
+"<p>Silicon is doped with boron to a concentration of 4 x 10<sup>17</sup> atoms/cm<sup>3</sup>. Assuming the intrinsic carrier concentration of silicon to be 1.5 x 10<sup>10</sup>/cm<sup>3</sup> and the value of <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/5-07-51.png""/> to be 25mV at 300K. Compared to undoped silicon, the Fermi level of doped silicon</p>",goes down by 0.13 eV,goes up by 0.13 eV,goes down by 0.427 eV,goes up by 0.427 eV,,C," <p>Use E<sub>F</sub> - E<sub>v</sub> = <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/5-12-51.png""/></p>
+<p>Since it is doped with acceptor impurity, Fermi level will shift down.</p> "
+"<p>The Fourier series of a real periodic function has only <ol style=""list-style-type: decimal; padding-bottom:10px;""><li style=""padding-top:10px;"">Cosine terms if it is even</li><li style=""padding-top:10px;"">Sine terms if it is even</li><li style=""padding-top:10px;"">Cosine terms if it is odd</li><li style=""padding-top:10px;"">Sine terms if it is odd</li></ol> Which of the above statements are correct?</p>",(1) and (4),(1) and (2),(2) and (4),(2) and (3),,A," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/6-07-2.png""/>, then it has 0 and <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/6-07-2-1.png""/> HZ frequency component.</p> "
+"<p>A communication channel with AWGN operating at a signal to noise ratio SNR &gt;&gt; 1 and bandwidth B has capacity C<sub>1</sub>. If the SNR is doubled keeping B constant, the resulting capacity C<sub>2</sub> is given by</p>",C<sub>2</sub> ≈ 2C<sub>1</sub>,C<sub>2</sub> ≈ C<sub>1</sub> + B,C<sub>2</sub> ≈ C<sub>1</sub> + 2B,C<sub>2</sub> ≈ C<sub>1</sub> + 0.3B,,B," <p>C = B log<sub>2</sub>[1 + SNR]</p>
+<p>C = B log<sub>2</sub>[SNR]</p>
+<p>C' = B log<sub>2</sub>[2SNR] = B log<sub>2</sub> SNR + B log<sub>2</sub><sup>2</sup></p>
+<p>C' = C<sub>1</sub> + B.</p> "
+<p>Power gain of antenna equals directive gain in VHF and UHF range if and only if efficiency of the antenna is __________ .</p>,0.25,0.5,0.75,1,,D," <p>Directive gain and power gain are identical except that power gain takes into account the antenna losses. It may be written as</p>
+<p>G<sub><i>p</i></sub> = ηG<sub><i>d</i></sub> η =&gt; efficiency</p>
+<p>If η = 1 , G<sub><i>P</i></sub> = G<sub><i>d</i></sub> .</p> "
+"<p>For the asymptotic Bode magnitude plot shown below, the system transfer function can be<br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/7-03-19.png""/></p>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/7-03-19-1.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/7-03-19-2.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/7-03-19-3.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/7-03-19-4.png""/>",,A," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/7-08-19.png""/>.</p> "
+"<p>A square in which each (<i>i</i>, <i>j</i>)<sup>th</sup> element of matrix is equal to the negative of the conjugate complex of (<i>j</i>, <i>i</i>)<sup>th</sup> element, is called</p>",Hermitian matrix,Skew symmetric matrix,Conjugate anti-symmetric matrix,Skew-Hermitian matrix,,D," <p>When <i>a<sub>ij</sub></i> = - <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/1-750-1-1.png""/>.
+</p>
+<p>This matrix is called skew hermitian matrix.</p> "
+"<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/15-04-36.png""/><br/>Mid-band gain =</p>",100,- 100,50,- 50,,B," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/15-05-36.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/15-05-36-1.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/15-05-36-2.png""/>.</p> "
+"<p>The characteristic equation of a feedback control system is given by <i>s</i><sup>3</sup> + 5<i>s</i><sup>2</sup> + (K + 6)<i>s</i> + K = 0<br/>where K &gt; 0 is a scalar variable parameter. In the root-loci diagram of the system the asymptotes of the root-locus for large values of <i>K</i> meet at a point in the <i>s</i>-plane, whose coordinates are :</p>","(- 3, 0)","(- 2, 0)","(- 1, 0)","(2, 0)",,C," <p>Apply R-H, and find ω by auxiliary equation.</p> "
+<p>The input 3-dB frequency is :</p>,100 Hz,148 Hz,100 kHz,None,,B," <p>Input 3 dB frequency <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/15-05-45.png""/></p>
+<p>C = 0.40 μF.</p> "
+<p>Consider a stable and causal system with impulse response <i>h</i>[<i>n</i>] and rational system function H(<i>z</i>). Suppose it is known that H(<i>z</i>) contains a pole at <i>z</i> = 1/2 and a zero some where on the unit circle. The precise number and locations of all of the other poles is unknown.<br/>The following statement which is false is __________ .</p>,H(<i>e<sup>jω</sup></i>) = 0 for some ω,"<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-03-32-2.png""/>",g[<i>n</i>] = {<i>n</i>[<i>h</i>[<i>n</i> * <i>h</i>[<i>n</i>]} is the impulse response of a stable system,<i>h</i>[<i>n</i>] has a finite duration,,D," <p>Statement (<i>d</i>) is false because a finite-duration sequence must have an ROC that includes the entire <i>z</i>-plane, except possible <i>z</i> = 0 and/or <i>z</i> = ∞ </p>
+<p>This is not consistent with having a pole at <i>z</i> = 1/2.</p>
+<p>Statement (b) is true <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-09-32.png""/> corresponds to the value of the <i>z</i>-transform of <i>h</i>[<i>n</i>] at <i>z</i> = 2. </p>
+<p>Thus, its convergence is equivalent to the point <i>z</i> = 2 being in the ROC. </p>
+<p>Since the system is stable and causal, all of the poles of <i>H</i>(<i>z</i>) are inside the unit circle, and the ROC includes all the points outside the unit circle, including <i>z</i> = 2.</p>
+<p>Statement (<i>c</i>) is true. Since the system is causal, <i>h</i>[<i>n</i>] = 0 for <i>n</i> &lt; 0. </p>
+<p>Consequently, <i>h</i>[<i>n</i>] * <i>h</i>[<i>n</i>] = 0 for <i>n</i> &lt; 0; i.e., system with <i>h</i>[<i>n</i>] * <i>h</i>[<i>n</i>] as its impulse response is causal. </p>
+<p>The same is then true for <i>g</i>[<i>n</i>] = <i>n</i>[<i>h</i>[<i>n</i>]]. </p>
+<p>Furthermore, by the convolution property the system function corresponding to the impulse response <i>h</i>[<i>n</i>] * <i>h</i>[<i>n</i>] is H<sup>2</sup>(<i>z</i>), and by the differentiation property the system function corresponding to <i>g</i>[<i>n</i>] is</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-09-32-1.png""/></p>
+<p>From above equation we can conclude that the poles of <i>G</i>(<i>z</i>) are at the same locations as those of <i>H</i>(<i>z</i>), with the possible exception of the origin. </p>
+<p>Therefore, since H(<i>z</i>) has all its poles inside the unit circle, so must <i>G</i>(<i>z</i>). </p>
+<p>It follows that <i>g</i>[<i>n</i>] is the impulse response of a causal and stable system.</p>
+<p>Statement (<i>a</i>) is true because there is a zero on the unit circle.</p> "
+<p>When transient and steady state response require improvement; <i>a</i> __________ is used.</p>,Lead compensator,Lag - Lead compensator,Lag compensator,Integrator,,B," <p>When improvement in transient state response is required Lead compensator is used. </p>
+<p>When improvement in steady state response is required lag compensator is used. </p>
+<p>Use of lag-lead compensator increases the low frequency gain which improves the steady state while at the same time it increases bandwidth of the system making the system response very fast.</p> "
+"<p>For the collector-feedback amplifier shown below the voltage gain A<sub>v</sub> will be __________ . <br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-754-29-1.png""/></p>",-113.07,-103.07,-107.07,-93,,B," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-762-29-1.png""/> </p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-762-29-2.png""/> = - 103.07 </p>
+<p>R<sub>F</sub> -&gt; feedback resistor.</p> "
+<p>Narrow band FM signal can be represented as</p>,"A cos (2<span class=""symbol"">p</span><i>f<sub>c</sub>t</i>) - β<i>A</i> sin (2<span class=""symbol"">p</span><i>f<sub>c</sub>t</i>) sin (2<span class=""symbol"">p</span><i>f<sub>m</sub>t</i>)","A cos (2<span class=""symbol"">p</span><i>f<sub>m</sub>t</i>) - β<i>A</i> sin (2<span class=""symbol"">p</span><i>f<sub>c</sub>t</i>) sin (2<span class=""symbol"">p</span><i>f<sub>m</sub>t</i>)","A cos (2<span class=""symbol"">p</span><i>f<sub>c</sub>t</i>) + β<i>A</i> sin (2<span class=""symbol"">p</span><i>f<sub>c</sub>t</i>) sin (2<span class=""symbol"">p</span><i>f<sub>m</sub>t</i>)","A cos (2<span class=""symbol"">p</span><i>f<sub>m</sub>t</i>) + β<i>A</i> sin (2<span class=""symbol"">p</span><i>f<sub>m</sub>t</i>) sin (2<span class=""symbol"">p</span><i>f<sub>c</sub>t</i>)",,A," <p>General expression for narrowband FM is </p>
+<p>A cos (2<span class=""symbol"">p</span><i>f</i><sub><i>c</i></sub><i>t</i>) - βA sin (2<span class=""symbol"">p</span><i>f</i><sub><i>c</i></sub><i>t</i>) sin (2<span class=""symbol"">p</span><i>f</i><sub><i>m</i></sub><i>t</i>).</p> "
+<p>2's complement representation of a 16 bit number (one sign bit and 15 magnitude bits) is FFFF. Its magnitude in decimal representation is</p>,0,1,"32, 767","65, 535",,B," <p>First bit is sign bit, hence its magnitude its</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/14-05-17.png""/> → 2<sup><i>s</i></sup> complement</p>
+<p>⇒ Sign bit is part of magnitude, so it may be 1.</p> "
+"<p>In the following transistor circuit <i>V</i><sub>BE</sub> = 0. 7 V, <i>r<sub>c</sub></i> = 25mV/I<sub>E</sub>, and β and the capacitance are very large<br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/5-09-80.png""/><br/>The value of DC current I<sub>E</sub> is</p>",1 mA,2 mA,5 mA,10 mA,,A," <p>Design is independent of <i>I<sub>B</sub></i> as β is very high </p>
+<p>I<sub>B</sub> ∼ 0</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/5-14-80.png""/></p>
+<p>Thus applying Kirchhoff's law is base emitter, we get.</p> "
+<p>A certain JK FF has <i>t<sub>pd</sub></i> = 12 nsec. The largest MOD counter that can be constructed from these FFs and still operate up to 10 MHz is</p>,any,8,256,10,,B," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/14-06-38.png""/></p>
+<p><i>f</i><sub>0</sub> = 10<sup>7</sup> Hz</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/14-06-38-1.png""/> ⇒ 8.33</p>
+<p><i>n</i> = 8.</p> "
+"<p>A second-order system has a transfer function is given by <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/16-03-31.png""/>. If the system, initially at rest is subjected to a unit step input at <i>t</i> = 0, the second peak in response will occur at :</p>","<span class=""symbol"">p</span> sec","<span class=""symbol"">p</span>/3 sec","<span class=""symbol"">p</span>/6 sec","<span class=""symbol"">p</span>/2 sec",,C," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/16-06-31.png""/></p>
+<p>Peak time <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/16-06-31-1.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/16-06-31-2.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/16-06-31-3.png""/>.</p> "
+"<p>Value of Z<sub>L</sub> for maximum power transfer is<br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-01-6.png""/></p>",R,R + <i>j</i>ωL,R - <i>j</i>ωL,None of these,,C," <p>The value of load for maximum power transfer is given by complex conjugate of Z<sub>AB</sub>. Z<sub>AB</sub> = R + <i>j</i>X<sub>L</sub> = R + <i>j</i>ωL.</p>
+<p><b>∴</b> Z<sub>L</sub> for maximum power transfer is given by, Z<sub>L</sub> = R - <i>j</i>ωL.</p> "
+"<p>A periodic voltage has following values for equal time intervals changing suddenly from one value to next : 0, 5, 10, 20, 50, 60, 50, 20, 10, 5, 0, - 5, - 10 etc.<br/>RMS value of the waveform is :</p>",31 <i>v</i>,32 <i>v</i>,insufficient data,none of these,,A," <p>Mean value of V<sub>2</sub> =<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-793-25-1.png""/></p>
+<p>= 965 V</p>
+<p> <b>∴</b> <i>rms</i> value = <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-793-25-2.png""/> ≈ 31 V.</p> "
+"<p>The magnitude plot of a rational transfer function G(<i>s</i>) with real coefficients is shown below. Which of the following compensators has such a magnitude plot?<br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/6-01-8.png""/></p>",Lead compensator,Lag compensator,PID compensator,Lead-lag compensator,,D," <p>Since magnitude plot shows both increasing as well as decreasing plot, it is lead-lag compensator.</p> "
+"<p>The circuit shown in the figure converts<br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/14-03-34.png""/></p>",BCD to Binary code,Binary to excess - 3 code,Excess - 3 to Gray,Gray to Binary,,D," <p>Let input is 1 1 0 1</p>
+<p><i>y</i><sub>1</sub> = <i>x</i><sub>1</sub></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/14-06-34.png""/></p>
+<p><i>y</i><sub>2</sub> = <i>x</i><sub>2</sub> ⊕ <i>x</i><sub>1</sub> ⇒ 1 ⊕ 1 = 0</p>
+<p><i>y<sub>3</sub></i> = <i>x</i><sub>3</sub> ⊕ <i>x</i><sub>2</sub> = 0 ⊕ 0 = 0</p>
+<p><i>y</i><sub>4</sub> = <i>x</i><sub>4</sub> ⊕ <i>x</i><sub>3</sub> = 1 ⊕ 0 = 1</p>
+<p>if input is gray then <i>y</i><sub>1</sub> <i>y</i><sub>2</sub> <i>y</i><sub>3</sub> <i>y</i><sub>4</sub> will be Binary.</p> "
+<p>Using 4-bit numbers (<i>n</i> = 4) if <i>k</i> = (0011)<sub>2</sub> how is <i>k</i> expressed in 2's complement.</p>,(1011)<sub>2</sub>,(1101)<sub>2</sub>,(1100)<sub>2</sub>,(0101)<sub>2</sub>,,B," <p>In 2's complement</p>
+<p>Simply find 2<sup><i>s</i></sup> complement</p>
+<p>⇒ (0011)<sub>2</sub> ⇒ 1100 + 1 ⇒ (1101)<sub>2</sub> .</p> "
+<p>Which of the following options is the closest in meaning to the world below:<br/>Circuitous</p>,cyclic,indirect,confusing,crooked,,B, <p>Circuitous means round about or not direct. Therefore the closest in meaning will be indirect.</p> 
+"<p>System is :<br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/3-01-2.png""/></p>",causal,stable,non causal,anticausal,,A, <p>ROC is towards infinity hence the signal is causal. Now the ROC does not contain the unit circle hence the system is unstable.</p> 
+"<p>A sphere with charge Q was placed in, but not touching a larger hollow sphere. If there is any charge initially on the outer sphere; to remove it the outer sphere was earthed momentarily, and then the inner sphere was removed. The charge remaining on the outer sphere was then measured. This charge was found to be __________ to the charge on the inner sphere.</p>",equal and of same again,equal and of opposite sign,unequal and of same sign,unequal and of opposite sign,,B, <p>This is true for all sizes of the spheres and for all types of dielectric media between the spheres.</p> 
+"<p>At <i>t</i> = ∞; V<sub>R2</sub> and V<sub>C</sub> will be<br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-02-15.png""/></p>","4, 4","2, 4","0, 2","2, 0",,B," <p>When steady state is reached again; then <i>C</i> is open</p>
+<p>Now V<sub>R2</sub> = 2V</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-06-15.png""/>.</p> "
+"<p>Two products are sold from a vending machine, which has two push buttons P<sub>1</sub> and P<sub>2</sub>. When a button is pressed, the price of the corresponding product is displayed in a 7-segment display. If no buttons are pressed, '0' is displayed, signifying 'Rs' .0'. If only P<sub>1</sub> is pressed, '2' is displayed, signifying 'Rs. 2'.<br/>If only P<sub>2</sub> is pressed, '5' is displayed, signifying 'Rs. 5'.<br/>If both P<sub>1</sub> and P<sub>2</sub> are pressed, 'E' is displayed, signifying 'Error'. The names of the segments in the 7-segment display, and the glow of the display for '0', '2', '5' and 'E', are shown below.<br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/6-07-59.png""/><br/>Consider <ol style=""list-style-type: upper-roman; padding-bottom:10px;""><li style=""padding-top:10px;"">push button pressed/not pressed is equivalent to logic 1/ 0 respectively</li><li style=""padding-top:10px;"">a segment <i>a</i> to <i>g</i> are considered as functions of P<sub>1</sub> and P<sub>2</sub>, then which of the respectively.</li></ol> If segments <i>a</i> to <i>g</i> are considered as functions of P<sub>1</sub> and P<sub>2</sub>, then which of the following is correct?</p>","<i>g</i> = <span style=""text-decoration:overline;"">P</span><sub>1</sub> + P<sub>2</sub>, <i>d</i> = <i>c</i> + <i>e</i>","<i>g</i> = P<sub>1</sub> + P<sub>2</sub>, <i>d</i> = <i>c</i> + <i>e</i>","<i>g</i> = <span style=""text-decoration:overline;"">P</span><sub>1</sub> + P<sub>2</sub>, <i>e</i> = <i>b</i> + <i>c</i>","<i>g</i> = P<sub>1</sub> + P<sub>2</sub>, <i>e</i> = <i>b</i> + <i>c</i>",,B," <p>From the figure</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/6-08-59.png""/></p> "
+<p>Laplace transform of {<i>t</i> cos <i>at</i>} is:</p>,"<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/1-744-22-1.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/1-744-22-2.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/1-744-22-3.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/1-744-22-4.png""/>",,A," <p><i>x</i>(<i>t</i>) <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/1-Arrow.png""/> <i>x</i>(<i>s</i>) 
+</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/1-750-22-1.png""/>.</p> "
+"<p>The following series RLC circuit with zero initial conditions is excited by a unit impulse function δ(<i>t</i>).<br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/5-09-74.png""/><br/>For <i>t</i> &gt; 0, the output voltage V<sub><i>c</i></sub> (<i>t</i>) is</p>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/5-09-74-1.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/5-09-74-2.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/5-09-74-3.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/5-09-74-4.png""/>",,D," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/5-13-74.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/5-13-74-1.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/5-13-74-2.png""/>.</p> "

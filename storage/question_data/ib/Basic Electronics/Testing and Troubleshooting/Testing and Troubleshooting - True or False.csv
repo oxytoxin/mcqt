@@ -1,0 +1,5 @@
+question,A,B,C,D,E,answer,explanation
+"<p>The three basic steps for fixing a failure are ISOLATE, DIAGNOSE, and REPAIR.</p>",True,False,,,,B,
+<p>An internal logic gate that shorts to either +V<sub>CC</sub> or ground will cause the inputs or output to be stuck either LOW or FLOATING.</p>,True,False,,,,B,
+<p>A noise problem in a digital circuit is often called a glitch.</p>,True,False,,,,A,
+<p>The time interval between the start of two consecutive pulses is called pulse repetition time.</p>,True,False,,,,B,

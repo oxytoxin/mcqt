@@ -1,0 +1,51 @@
+question,A,B,C,D,E,answer,explanation
+<p><p><b>Assertion (A):</b>  In 8085 WR and RD signals are active high.</p><p><b>Reason (R):</b> LOW WR means write operation and low RD means read operation.</p></p>,Both A and R are correct and R is correct explanation of A,Both A and R are correct but R is not correct explanation of A,A is correct R is wrong,A is wrong R is correct,,D," <p><span style=""text-decoration:overline;"">WR</span> and <span style=""text-decoration:overline;"">RD</span> are active low.</p> "
+<p>Which of the following is not treated as hexadecimal constant by assembler in 8085?</p>,64 H,5 AFH,AFH,OCFH,,C,
+<p>Which of the following real expressions is correct in Pascal?</p>,<code>- Z + P * X </code>,<code>(X + Y) (A + B)</code>,<code>Z ** M </code>,<code>Z P * M</code>,,A, <p>All others are incorrect.</p> 
+<p>Each cell of static RAM contains</p>,4 MOS transistors,4 MOS transistors and 1 capacitor,2 MOS transistors,4 MOS transistors and 2 capacitors,,A, <p>Each SRAM cell has 4 MOS transistors.</p> 
+<p>Which group of instructions is used to change sequence of operations in a computer program?</p>,Data transfer group,Branch group,Arithmetic group,Logic group,,B,
+"<p>In 8085, which instructions are useful for writing and using subroutines?</p>",CALL,RET,CALL and RET,none of the above,,C,
+"<p>In a RAM chip with a total of 8096 words, the word addresses range from</p>",1 to 8096,0 to 8095,1 to 8095,0 to 8096,,B, <p>The starting word address is 0.</p> 
+"<p>The loops ' for , 'while' , 'do-while' are used in</p>",Fortran 77,Pascal,C,none of the above,,C, <p>They are all used in C language.</p> 
+<p>Which of the following is not a valid arithmetic statement in C?</p>,<i>x</i> = <i>x</i> + 1,<i>x</i> = <i>y</i> <sup>*</sup> <i>z</i>,<i>x</i> <sup>*</sup> <i>y</i> = <i>z</i>,<i>z</i> = <i>y</i> / <i>x</i>,,C, <p>Left hand side must be a variable name.</p> 
+<p>The symbol ! in Java means</p>,logical NOT,logical OR,AND,logical XOR,,A,
+<p>Java's syntax is based on</p>,C,C + +,Fortran 77,Pascal,,B, <p>Java syntax is based on C++.</p> 
+<p>The memory segment registers in 8086 are denoted by</p>,"AS, BS, CS, DS","BS, CS, SS, ES","CS, DS, SS, ES","DS, ES, FS, SS",,C,
+<p>The normalised form of 0.0152 x 10<sup>18</sup> is</p>,0.152 x 10<sup>17</sup>,1.52 x 10<sup>16</sup>,15.2 x 10<sup>15</sup>,152 x 10<sup>14</sup>,,A,
+<p>Which of these are allowed in Basic?</p>,"Arithmetic operators +, -, *, / etc.","Logical operators AND, OR, NOT","Relational operators =, &lt;, &gt; etc.",All of the above,,D,
+<p>In 8085 eight address and data buses are multiplexed.</p>,True,False,,,,A,
+"<p>Consider the following expressions in Java <br/><code>int <i>a, b, c, </i><br/><i>a</i> = 40;<br/><i>b</i> = <i>a</i><sup>++</sup> ;<br/><i>c</i> = <sup>++</sup><i>a</i> ;</code><br/>Now the values of <i>a, b, c</i> are</p>","42, 40, 42 respectively","42, 42, 42 respectively","40, 42, 42 respectively","40, 40, 42 respectively",,A," <p>The steps are : <i>a</i> is given the value 40, <i> b</i> is given the value of <i>a</i> before it is incremented (<i>i.e., </i> 40) and <i>a</i> is incremented to 41, a is incremented to 42 and c is given this value. Thus the result is 42, 40, 42.</p> "
+<p>Which of the following is not correct in C?</p>,6 / 4 = 1,2 / 5 = 0,2.0 / 5 = 0,2.0 / 5.0 = 0.4,,C," <p><img src=""/_files/images/electronics-and-communication-engineering/microprocessors/46-337.png""/></p> "
+<p>Which is not a software?</p>,DOS,Windows,MS WORD,Hard disk,,D, <p>Hard disc is a memory storage device.</p> 
+<p>Which of the following integer expressions is incorrect in Pascal?</p>,<code>L div M + P </code>,<code>A * * B</code>,<code>A div B - C </code>,<code>A mod B</code>,,B, <p>Two operators cannot be together.</p> 
+<p>Accumulator is an 8 bit register and is also known as register B.</p>,True,False,,,,B, <p>Accumulator is register A.</p> 
+<p>The signal in 8086 are in minimum mode when</p>,"MN / <span style=""text-decoration:overline;"">Mx</span> pin is tied to V<sub>cc</sub>","MN / <span style=""text-decoration:overline;"">Mx</span> pin is grounded","MN / <span style=""text-decoration:overline;"">MX</span> pin is left open",none of the above,,A,
+"<p>If it is desired to tabulate number of students in a class in Fortran language, a proper variable name is</p>",ST,STUD,NSTUD,STD,,C, <p>It is an integer. Hence N as first character.</p> 
+<p>Let JCOKE = 20 and LPEPSI =15. Consider the statement <code><br/><br/>IF(2* JCOKE. LE. LPEPSI)<br/>JCOKE = JCOKE + 5 <br/>JCOKE = JCOKE + 3<br/><br/></code> The value of JCOKE after the execution of above statement will be</p>,25,23,15,17,,B, <p>Since 2 x J COKE = 40 and (LPEPSI) is 15 control goes to statement J COKE = J COKE + 3 and result is 23.</p> 
+"<p>In Pascal if I = 45, I div 10 * 10 =</p>",45,40,0.45,0.4,,B," <p><img src=""/_files/images/electronics-and-communication-engineering/microprocessors/46-291.png""/> → 4 x 10 = 40.</p> "
+<p>X COPY is an internal DOS command.</p>,True,False,,,,B,
+<p>The number of logic or arithmetic operations with <code>ALU 1C 74181</code> can carry out is</p>,4,8,16,32,,C,
+<p>6 bytes means</p>,6 bits,24 bits,48 bits,96 bits,,C, <p>One byte has 8 bits.</p> 
+<p>In the integer expression <code>- A * B div C + D</code> which operation is done first in Pascal</p>,-,*,div,+,,A, <p>In Pascal binary has highest priority.</p> 
+"<p>In Pascal if I = 55, 10 * I div 10 =</p>",55,50,5.5,5,,A," <p>In Pascal multiplication has higher precedence than division so 10 x 55 = <img src=""/_files/images/electronics-and-communication-engineering/microprocessors/46-292.png""/>.</p> "
+<p>In FORTRAN 77 IFIX (-73.2) gives the value</p>,73,-73,-7,-73.2,,B, <p>Only integer part appears in result.</p> 
+"<p><code>LPEPSI = 2<br/>2PEPSI = LPEPSI * LPEPSI + 1<br/>GOT TO (3, 5, 9, 11, 13, 17, 21, 23) LPEPSI <br/><br/></code> After the execution of above statement the control is transferred to statement number</p>",3,9,13,23,,C," <p>Since L PEPSI = 2 x 2 + 1 = 5 the control goes to the fifth statement, <i>i.e., </i> 13.</p> "
+<p>Which of the following is not an application software?</p>,MS Word,DBMS,Worksheet,Lisp,,D, <p>Lisp is a computer language.</p> 
+<p>Which of the following is not a DTP program?</p>,Page maker,Coral draw,Coral ventura,Coral key,,D, <p>Coral key is not DTP program.</p> 
+<p>Which of the following array names in Fortran 77 is invalid?</p>,A(6),A(R),A(I),A(N),,B, <p>Subscript R is not proper.</p> 
+"<p>E-mail can be used to send text, graphics, and video.</p>",True,False,,,,A,
+<p>Which of the following is a valid integer variable in FORTRAN 77?</p>,ALPHA,NEXT,BANGLORE,ABC,,B," <p>Others do not start withs I, J, K, L, M, N.</p> "
+<p>Which of the following instruction modes does not exist in microprocessor 8085?</p>,Inherent,Immediate,Absolute,Indirect,,D,
+<p>The S (sign) flag is set when the contents of accumulator become negative during an operation.</p>,True,False,,,,A,
+<p>Which of the following is not a proper FORTRAN expression?</p>,B + A / C - D,(A + C) / (B + D),B + * A / C,A ** (B + 2),,C, <p>Two operators should not occur together.</p> 
+<p>Which of the following is invalid integer variable name in Fortran?</p>,IAEG,I 124,AILG,MI AC,,C, <p>Integer cannot start with A.</p> 
+<p>A microprocessor can understand instruction written in</p>,machine language only,mnemonics operation codes only,high language only,both machine language and mnemonics operation codes,,A,
+<p>Which language has a preprocessor?</p>,Fortran 77,Pascal,C,None of the above,,C, <p>Preprocessor processes the source program before it is passed to compiler.</p> 
+<p>In a display specified as 600 x 400 the number of pixels across the display screen is</p>,600,400,240000,either (a) or (b),,A,
+"<p>Consider the following DO statement in Fortran 77 <code><br/><br/>DO 12 A = 1.0, 5.5, 0.5<br/><br/></code> The number of DO loop executions in the above statement is</p>",1,11,10,4,,C," <p>Do loop executations are for A = 1.0, 1.5, 2.0, 2.5, 3.0, 3.5, 4.0, 4.5, 5.0, 5.5 or a total of 10 times.</p> "
+<p>Which of the following real expressions is incorrect in Pascal?</p>,<code>Y - X </code>,<code>(A + B) (C + D)</code>,<code>X / Y - Z </code>,<code>P * Z - 5.0</code>,,B, <p>Operator is missing.</p> 
+"<p>The instruction <code>MVI A, 20</code> in 8085 means</p>",contents of memory location 20 are brought into the accumulator,the value 20 is brought into accumulator,either (a) or (b),neither (a) nor (b),,B,
+<p>The two orientations of worksheet page are called</p>,portrait and landscape,auto text and auto correct,font and footer,header and footer,,A, <p>Portrait and worksheet are two orientations of worksheet page.</p> 
+<p>The correct form of expression B<sup>3</sup> -2 A C in FORTRAN 77 is</p>,B * * 3 - 2 * A * C,B * 3 - 2 * A AC,B * * 3 - 2 ** A * C,B *** 3 - 2 * A * C,,A, <p>It is the only expression with correct symbols for exponential and product.</p> 
+"<p>If RADIUS = 3.0 the result of the following FORTRAN 77 program will be <code><br/><br/>REAL RADIUS, CAREA, SAREA, RATIO <br/>PI<br/>PI = 3.1416<br/>READ *, RADIUS CAREA = PI * RADIUS * RADIUS <br/>SAREA = 2 * RADIUS * RADIUS <br/>RATIO = CAREA/SAREA</code></p>",1.5708,1,28.2744,18.0,,A, <p>Calculate and add decimal at proper place.</p> 
+<p>Which one is not a valid subscripted variable?</p>,"KET(2<sup>*</sup> J, 3<sup>*</sup> 1 - 4)","MET(J + 2, K - 4)",A (2 I),VEL(I),,C,

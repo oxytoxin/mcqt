@@ -1,0 +1,13 @@
+question,A,B,C,D,E,answer,explanation
+<p>All triacs operate in __________.</p>,quadrant 1 and quadrant 2,quadrant 1 and quadrant 3,quadrant 2 and quadrant 4,quadrant 3 and quadrant 4,,B,
+<p>The number of bits in a digital word determines the number of digital combinations that will be represented. The number of combinations can be calculated by ________.</p>,raising 2 to the number of bits in the analog word,raising 2 to the number of bits in the digital word,multiplying 2 by the number of bits in the analog word,determining the range of the analog word,,B,
+<p>A(n) _____ can be rapidly switched on and off remotely by another controlling circuit.</p>,triac,diac,RTD,zero-voltage switch,,A,
+<p>A sample-and-hold circuit consists of _________.</p>,"an op-amp, an analog switch, and an inductor","an op-amp, an analog switch, and a capacitor","two op-amps, an analog switch, and a variable resistor","two op-amps, an analog switch, and a capacitor",,D,
+"<p>RTDs, strain gauges, and pressure transducers are _____ devices.</p>",resistive,inductive,capacitive,solid-state,,A,
+<p>A thermistor's temperature characteristic is essentially _________.</p>,linear,logarithmic,nonlinear,geometric,,B,
+<p>The three types of relative pressure measurement are ________.</p>,"exact, reflective, and referenced","absolute, exact, and differential","absolute, gauge, and reflective","absolute, gauge, and differential",,D,
+<p>The two most common types of analog-to-digital converters discussed in this chapter were the ______.</p>,linear converter and the analog converter,linear converter and the successive approximation converter,flash converter and the analog converter,flash converter and the successive approximation converter,,D,
+<p>The voltage produced by a thermocouple is called the _________.</p>,hot junction voltage,cold junction voltage,Seebeck voltage,Hooke voltage,,C,
+<p>The ________ are two types of acceleration transducers.</p>,LVDT and the piezoelectric,magnetic and the piezoelectric,RTD and the magnetic,LVDT and the RTD,,A,
+<p>A triac is different from an SCR because ________.</p>,it can handle large current flows,it can handle large voltages,the gate signal can turn off the current flow,it allows current flow in both directions,,D,
+"<p>The ______ is composed of a transformer with a movable core, a primary, and two secondaries.</p>",LVDT,strain gauge,accelerometer,transformer displacement sensor,,A,

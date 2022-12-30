@@ -1,0 +1,6 @@
+question,A,B,C,D,E,answer,explanation
+<p>A technique that can be used in multiple-digit numerical displays to control suppression or display of leading or trailing zeros in the display is called _________.</p>,advanced zero control,time division multiplexing,parity generation,ripple blanking,,D,
+<p>Parity systems are defined as either_____ or _____ and will add an extra _____ to the digital information being transmitted.</p>,"positive, negative, byte","odd, even, bit","upper, lower, digit","on, off, decimal",,B,
+<p>A device that uses a binary decoder to direct a digital signal from a single source to one of several destinations is a ________.</p>,multiplexer,demultiplexer,encoder,comparator,,B,
+<p>A code in which each individual digit of a decimal number is represented by a 4-bit binary number is _________.</p>,binary coded decimal,binary,hexadecimal,seven-segment code,,A,
+<p>The diodes in a seven-segment display where all cathodes are tied together and grounded are illuminated when a logic ____________________ is applied to the ____________________.</p>,"LOW, anodes","LOW, count down control line","HIGH, anode","HIGH, count up control line",,C,

@@ -1,0 +1,480 @@
+﻿question,choices,answer
+"If the antenna increases 3.3 times how much does the radiated power increase?","[""3.3 times"",""10.89 times"",""9.9 times"",""6.6 times""]",1
+"When speaking of antennas. ______ is a section which would be a complete antenna by itself.","[""image"",""top loading"",""bay"",""quarterwave""]",2
+"In what range of frequencies are most omnidirectional horizontally polarized antennas used?","[""VHF, UHF"",""VLF, LF"",""SH, EHF"",""MF, HF""]",0
+"If the current ratios of the two or more elements must be held 5% and the phase angle to 3° the antenna is called a","[""end fire array"",""critical phased array"",""broadband array"",""wideband array""]",1
+"A device that converts high frequency current into electromagnetic wave.","[""Antenna"",""Loudspeaker"",""Microphone"",""Transducer""]",0
+"Which is a non-resonant antenna?","[""Rhombic antenna"",""Folded dipole"",""End-fire array"",""Yagi-Uda antenna""]",0
+"Gain of a half-wave dipole antenna over isotropic.","[""2.15 dB"",""1.76 dB"",""1 dB"",""0 dB""]",0
+"Very low signal strength in antenna.","[""Minor lobes"",""Null"",""Antenna patterns"",""Major lobes""]",1
+"What is the gain of the Hertzian dipole over isotropic antenna?","[""1.64 dB"",""2.15 dB"",""1.76 dB"",""1.55 dB""]",2
+"______ is the measurement of a unilateral antenna properties of directivity","[""Phase angle"",""Antenna gain"",""Beamwidth"",""Bandwidth""]",2
+"In testing transmitter to prevent interfering with other stations, which type of antenna must be used?","[""Void antenna"",""Dummy antenna"",""Hertzian antenna"",""Isotropic antenna""]",1
+"The best solution to fading is _____.","[""space diversity"",""frequency diversity"",""polarization diversity"",""wavelength diversity""]",0
+"_____ is the amount of uncertainty in a system of symbols","[""Bandwidth"",""Enthalpy"",""Entropy"",""Quantum""]",2
+"If an antenna has a gain of 3 dB, it increases the output of the transmitter by","[""10,000 times"",""1000 times"",""100 times"",""1 million times""]",1
+"Top loading is used in an antenna in order to increase its ______.","[""practical height"",""beamwidth"",""effective height"",""input capacitance""]",2
+"A horizontal antenna is _____.","[""vertically polarized"",""horizontally polarized"",""centrally polarized"",""circularly polarized""]",1
+"All elements in a beam _____ antennas are in line","[""collinear"",""yagi"",""broadside array"",""log-periodic""]",0
+"Which does not use vertical polarization antenna?","[""AM Broadcasting"",""FM Broadcasting"",""Mobile Communications"",""Satellite Communications""]",1
+"Lightning rods must be mounted a top structure not less than ___ above the highest point.","[""10 cm"",""20 cm"",""30 cm"",""40 cm""]",2
+"_____ is an antenna with a number of half-wave antenna on it.","[""Antenna array"",""Tower"",""Omni-directional"",""Rhombic""]",0
+"Which antenna radiates an omnidirectional pattern in the horizontal plane with vertical polarization?","[""Marconi antenna"",""Discone antenna"",""Horn antenna"",""Helical antenna""]",0
+"An antenna with very high gain and very narrow beamwidth.","[""Helical antenna"",""Discone antenna"",""Horn antenna"",""Parabolic dish antenna""]",3
+"What determines antenna polarization?","[""The frequency of the radiated wave"",""The direction of the radiated wave"",""The direction of the magnetic field vector"",""The direction of the electric field vector""]",3
+"_____ is the horizontal pointing angle of an antenna","[""Azimuth"",""Angle of elevation"",""Right angle"",""Beamwidth""]",0
+"A dipole antenna requires to be fed with 20 kW of power to produce a given signal strength to a particular distant point. If the addition of a reflector makes the same field strength available with an input power of 11kW. What is the gain in dB, obtained by the use if the reflector. (Gain referred to this particular dipole).","[""4.75"",""2.6"",""1.81"",""4.24""]",1
+"What is the estimated medium wind loading in the Philippines for antenna tower design?","[""300 kph"",""100 kph"",""200 kph"",""250 kph""]",2
+"Discone radiation pattern is ______.","[""omnidirectional\/vertical polarized"",""unidirectional"",""bidirectional"",""figure of eight""]",0
+"_____ is an open-ended slot antenna","[""Helical antenna"",""Rhombic antenna"",""Notch antenna"",""Cassegrain antenna""]",2
+"Which antenna is a properly terminated?","[""Marconi"",""Rhombic"",""Dipole"",""Yagi-Uda""]",1
+"What is the radiation characteristic of a dipole antenna?","[""Omnidirectional"",""Bidirectional"",""Unidirectional"",""Hemispherical""]",1
+"What is the theoretical gain of a Hertzian dipole?","[""1.76 dB"",""2.15 dB"",""3 dB"",""0 dB""]",0
+"An antenna with unity gain","[""Rhombic"",""Half-wave dipole"",""Isotropic"",""Whip""]",2
+"How will you increase the gain of an antenna?","[""By adding several antennas in parallel"",""By focusing the radiated energy in one desired direction"",""By making antenna rods thicker"",""By making the antenna size larger""]",1
+"An antenna which is one-tenth wavelength long","[""Hertzian dipole"",""Loop antenna"",""Marconi antenna"",""Elementary doublet""]",3
+"What is the minimum number of turns a helix antenna must have?","[""3"",""5"",""4"",""6""]",0
+"What is the gain of isotropic antenna?","[""10"",""1"",""10"",""100""]",1
+"Which of the following improves antenna directivity?","[""Driven element"",""Reflector element"",""Director element"",""Parasitic element""]",3
+"The antenna radiates _____ polarized waves when the transmitter antenna is horizontally installed.","[""Vertically"",""negatively"",""horizontally"",""circularly""]",2
+"The length of a Marconi antenna to operate with 985 kHz is ______.","[""200 ft"",""500 ft"",""250 ft"",""999 ft""]",2
+"What is the front-to-back ratio of an antenna which radiates 500 watts in a northernly direction and 50 watts in a southernly direction?","[""25000 dB"",""10 dB"",""100 dB"",""20 dB""]",1
+"If 4 kW in antenna produces 50 μV/m in a receiving antenna, a 15 kW will produce _____.","[""200 \u03bcV\/m"",""10 \u03bcV\/m"",""100 \u03bcV\/m"",""20 \u03bcV\/m""]",2
+"If the radiated power increase 10.89 times, the antenna current increases by ______.","[""3.3 times"",""6.6 times"",""1.82 times"",""10.89 times""]",0
+"The frequency of operation of a dipole antenna cut to a length of 3.4 m.","[""88 MHz"",""44 MHz"",""22 MHz"",""11 MHz""]",1
+"Comparing the signal strength arriving at the driven element from the desired direction to the signal strength reaching the driver from the opposite direction.","[""Directivity"",""Sensitivity"",""Beamwidth"",""Front-to-back ratio""]",3
+"What is the capture area of a dipole operated at 75 MHz?","[""4 mm"",""2 m^2"",""2.088 m^2"",""4.088 m^2""]",2
+"_____ of an antenna is a measure of how the antenna concentrates its radiated power in a given direction.","[""Efficiency"",""Power"",""Gain"",""Polarization""]",2
+"Shortening effect of an antenna that makes it appear as if it were 5% longer.","[""End effect"",""Flywheel effect"",""Skin effect"",""Capture effect""]",0
+"Harmonic suppressor connected to an antenna.","[""Low-pass filter"",""High-pass filter"",""M-derived filter"",""Constant-K""]",0
+"A simple half-wavelength antenna radiates the strongest signal","[""at 45 degrees to its axis"",""parallel to its axis"",""at right angles to its axis"",""at 60 degrees to its axis""]",2
+"It is measure of the microwave power radiated from an antenna as a function of angular direction from the antenna axis.","[""Polarization"",""Sidelobes"",""Beamwidth"",""Antenna pattern""]",2
+"What is the gain of four identically polarized antennas stacked one above the other fed in phase?","[""4 dB over the gain of one antenna"",""10 dB over the gain of one antenna"",""3 dB over the gain of one antenna"",""6 dB over the gain of one antenna""]",3
+"Gain of an isotropic antenna.","[""1 dB"",""-1 dB"",""0 dB"",""2 dB""]",2
+"A dipole antenna requires to be fed with 20 kW of power to produce a given signal strength to a particular distant point. If the addition of a reflector makes the same field strength available with an input power of 11 kW, what is the gain in dB obtained by the use of the reflector? (Gain referred to this particular dipole)","[""4. 75"",""1.81"",""4.24"",""2.6""]",3
+"Top loading is used in an antenna in order to increase its __________________.","[""Bandwidth"",""Beamwidth"",""Input capacitance"",""Effective height""]",3
+"A horizontal antenna is","[""Perpendicularly polarized"",""Centrally polarized"",""Horizontally polarized"",""Vertically polarized""]",2
+"The frequency of operation of a dipole antenna cut to length of 3.4 m.","[""42.9 MHz"",""53.3 MHZ"",""38.5 MHz"",""61.3 MHz""]",0
+"Two or more antennas separated by 9 wavelengths are used.","[""Frequency diversity"",""Space diversity"",""Hybrid diversity"",""Polarized diversity""]",1
+"A convenient method of determining antenna impedance.","[""Trial and error"",""Stub matching"",""Smith chart"",""Reactance circle""]",2
+"Width measured in degrees of a major lobe between end of the lobe at which the relative power is one half (-3 dB) its value from the peak of the lobe.","[""Radiation"",""Wavelength"",""Bandwidth"",""Beamwidth""]",3
+"An increase in the effective power radiated by an antenna in a certain desired direction at the expense of power radiated in other directions.","[""Antenna gain"",""Antenna efficiency"",""Antenna total ratio"",""Antenna back lobe ratio""]",0
+"Where does the maximum current and minimum voltage value on a resonant Hertz dipole exist?","[""Center of the antenna"",""Ends of the antenna"",""Near the center of the antenna"",""Near the end of the antenna""]",0
+"How can the antenna efficiency of a HF grounded vertical antenna be made comparable to that of a half-wave antenna?","[""By isolating the coax shield from ground"",""By installing a good ground radial system"",""By shortening the vertical"",""By isolating the coax shield from ground""]",1
+"Known as the technique for adding a series inductor at or near the center of an antenna element in order to cancel the capacitive reactance of an antenna.","[""Reflector"",""Center loading"",""Dipole"",""Loading coil""]",3
+"What is meant by the term antenna bandwidth?","[""The angle between the half-power radiation points"",""The angle formed between two imaginary lines drawn through the ends of the elements"",""The frequency range over which an antenna can be expected to perform well"",""Antenna length divided by the number of elements""]",2
+"Where does the voltage node of a half-wave antenna exist?","[""At feed point"",""Near the feed point"",""Near the center"",""At center""]",0
+"This is a flexible vertical rod antenna commonly used on mobiles.","[""Hertz"",""Ground plane"",""Whip"",""Marconi""]",2
+"What is a dummy antenna?","[""A non-directional transmitting antenna"",""An antenna used for hand-held ratio"",""One which is used as a reference for gain measurements"",""A non-radiating load for a transmitter used for testing""]",3
+"Best description of a collinear and broadside antenna radiation pattern.","[""Bidirectional"",""Omnidirectional"",""Unidirectional"",""Perfect circle""]",0
+"What is a driven element of an antenna?","[""Always the forward most element"",""Always the rearmost element"",""The element fed by the transmission line"",""The element connected to the rotator""]",2
+"Antenna which is not properly terminated","[""Whip"",""Non-resonant"",""Isotropic"",""Resonant""]",3
+"At the ends of a half-wave antenna, what values of current and voltage exist compared to the remainder of the antenna?","[""Minimum voltage and maximum current"",""Maximum voltage and minimum current"",""Minimum voltage and minimum current"",""Equal voltage and current""]",1
+"Refers to a type of beam antenna which uses two or more straight elements arranged in line with each other.","[""Whip antenna"",""Yagi antenna"",""Rhombic antenna"",""Dipole antenna""]",1
+"What is meant by the term radiation resistance for an antenna?","[""Losses in the antenna elements and feed line"",""An equivalent resistance that would dissipate the same amount of power as that radiated from an antenna"",""The resistance in the trap coils to received signal"",""The specific impedance of the antenna""]",1
+"Which of the following parts of the radio receiver represents the component that extracts the desired RF signal from the electromagnetic wave?","[""Detector"",""Antenna"",""Crystal"",""AF amplifier""]",1
+"Determine the dB of a receiving antenna which delivers a microvolt signal to a transmission line over that of an antenna that delivers a 20 microvolt signal under identical circumstances.","[""-26 dB"",""26 dB"",""3 dB"",""10 dB""]",0
+"What is the term for the ratio of the radiation resistance of an antenna to the total resistance of the system?","[""Antenna efficiency"",""Radiation conversion loss"",""Beamwidth"",""Effective radiated power""]",0
+"One of the following prevents a transmitter from emitting a signal that interferes with other station on frequency during the test.","[""Use of shielded antenna radiator"",""Use of low height antenna"",""Use of dummy antenna"",""Use of grounded antenna""]",3
+"In high frequency radio transmission, the lower the radio frequency the _______________ of the antenna.","[""Longer the length"",""Bigger the diameter"",""Shorter length"",""Smaller the diameter""]",0
+"Which of the following antenna where its beamwidth is determined by the dimensions of its lens or reflector?","[""Whip antenna"",""Aperiodic antenna"",""Aperture antenna"",""Long wire antenna""]",2
+"What measure will you adopt on the antenna system of a VHF or UHF mobile transceivers that has very low height antenna?","[""Increase transmitter to antenna cable"",""Use directional antenna"",""Check grounding system"",""Provide loading coil""]",3
+"In order to have an effective radio antenna, the design of its radiator must have a minimum length equivalent to ________________.","[""\u03bb\/10"",""\u03bb\/4"",""\u03bb\/14"",""\u03bb\/6""]",1
+"What is a parasitic element of an antenna?","[""An element dependent on the antenna structure for support."",""A transmission line that radiates radio-frequency energy."",""An element that receives its excitation from mutual coupling rather than from a transmission line."",""An element-polarized 90 degrees opposite the driven element.""]",2
+"At what position does a maritime ship main antenna have when it is open circuited and that any auxiliary is/are connected to the main receiver?","[""AA"",""Emergency transmitter"",""Direction finder"",""Ground""]",2
+"Due to the presence of parallel LC networks in the trap antenna, one of the following is a disadvantage of using this kind of antenna.","[""Radiate harmonics"",""Reduce power"",""Reduce beamwidth"",""Allow entry of interference""]",1
+"How do you compare the length of the reflector element of a parasitic beam antenna with that of its driven element?","[""Same length"",""Reflector element is 5% longer"",""Reflector element is half shorter"",""Reflector element is 5% shorter""]",0
+"Which of the following statements refers to a reason why intelligence signal cannot be transmitted directly on their frequency?","[""Their frequencies are high and are susceptible to noise"",""Their frequencies are high and need very large antennas"",""Their frequencies are low and need very large antennas"",""Their frequencies are low and need very small antennas""]",2
+"What is the purpose of a certain antenna component composed of a parallel LC networks inserted in the antenna called traps?","[""Cancel the capacitive reactance of an antenna"",""Enhance directivity"",""Produce resonant system at specific frequency"",""Provide a multiband operation""]",3
+"Refers to the numerical ratio relating to the radiated signal strength of an antenna to that of another antenna.","[""Antenna loss"",""Antenna gain"",""Antenna bandwidth"",""Antenna efficiency""]",1
+"How much longer or shorter does the length of the director element of parasitic beam antenna compared with that of the driven element?","[""About 5% shorter"",""Around 10% longer"",""One half longer"",""Around 5% longer""]",0
+"Refers to the ratio of radiated to reflected energy.","[""Front-to-back ratio"",""Antenna efficiency"",""Radiation efficiency"",""Signal-to-noise ratio""]",2
+"A half-wave dipole antenna","[""Hertz"",""Marconi"",""Parabolic"",""Vertical monopole""]",0
+"When conductors are spread out in a straight line to a total length of one-quarter wavelength, the antenna is called what?","[""Marconi"",""Vertical monopole"",""Quarter-wave dipole"",""All of these""]",3
+"What do you call of a polar diagram or graph representing field strengths or power densities at various angular positions relative to an antenna?","[""Venn diagram"",""Figure-8 pattern"",""Lissajous figure"",""Radiation pattern""]",3
+"________________ is the ratio of the front lobe power to the back lobe power.","[""Front-to-side ratio"",""Front-to-back ratio"",""Back-to-front ratio"",""Minor-to-major ratio""]",1
+"It is defined as the area within a distance D2/λ from the antenna, where λ is the wavelength and D is the antenna diameter in the same units.","[""Far field"",""Near field"",""Green field"",""Radiation field""]",1
+"What is the ratio of the power radiated by the antenna to the total input power?","[""Power gain"",""Directive gain"",""Antenna efficiency"",""Radiation efficiency""]",2
+"_________________ of an antenna refers to the orientation of the electric field radiated from it.","[""Radiation"",""Bandwidth"",""Beamwidth"",""Polarization""]",3
+"Pertains to a wire structure placed below the antenna and erected above the ground. It is a form of capacitive ground system.","[""Image"",""Counterpoise"",""Antenna orientation"",""Antenna polarization""]",1
+"If an antenna is too short for the wavelength being used, the effective length can be increased by adding:","[""capacitance in series"",""inductance in series"",""resistance in parallel"",""resistance in series""]",1
+"Which of the following antennas is used for testing and adjusting a transmitter for proper modulation, amplifier operation and frequency accuracy?","[""Elementary"",""Real"",""Isotropic"",""Dummy""]",3
+"The power fed to a two-bay turnstile antenna is 100 watts. If the antenna has a 2 dB power gain, what is the effective radiated power?","[""317 watts"",""158 watts"",""200 watts"",""400 watts""]",1
+"What is the gain, in dB of a helical antenna with diameter of λ/3, 10 turns at pitch of λ/4, used at 100 MHz?","[""16"",""41.1"",""31.4"",""1.25""]",0
+"How is it possible to lower the resonant frequency of Hertz dipole antenna?","[""By reducing the frequency at the transmitter"",""By connecting a capacitor in series with the antenna"",""By the connecting a resistor in series with the antenna"",""By connecting an inductor in series with the antenna""]",3
+"Which of the following antennas receive signals in the horizontal plane equality well from all directions?","[""Horizontal Hertz antenna"",""Vertical loop antenna"",""Vertical Yagi antenna"",""A vertical antenna which is a quarter-wavelength long""]",3
+"If the length of a Hertz dipole is decreased","[""its resonant frequency will be lowered its distributed inductance will be increased"",""its distributed inductance will be decreased"",""its resonant frequency will be increased"",""its distributed capacitance between the antenna and ground will be increased.""]",2
+"A final amplifier of a radio transmitter draws 250 mA of plate current when the plate supply voltage is 1400 volts. If the plate circuit efficiency is 80% and the transmitter is connected to an antenna having a feed impedance of 70 ohms, what is the antenna current at the feed-point?","[""4.0 A"",""2.2 A"",""1.25 A"",""2.0 A""]",3
+"A one-quarter wavelength shunt-fed vertical Marconi antenna","[""has maximum radiation in a vertical direction"",""must have a horizontal receiving antenna for the best reception"",""must use a receiving antenna for the best reception"",""must have a vertical receiving antenna for the best reception""]",3
+"A shunt-fed quarter-wavelength Marconi antenna","[""has maximum RF impedance to ground at its feedpoint"",""has a current null at its feedpoint"",""has a zero DC resistance to ground"",""has zero RF resistance to ground""]",2
+"The parasitic element of an antenna system will","[""decrease its directivity"",""increase its directivity"",""give the antenna unidirectional properties"",""both B and C""]",3
+"If the length of an antenna is changed from 2.5 meters to 2.8 meters, its resonant frequency will","[""increase"",""depend on the velocity factor so the resonant frequency can either be increased or decreased"",""will be unchanged"",""decrease""]",3
+"What is the effect of adding a capacitor in series with an antenna?","[""The antenna\u2019s resonant frequency will increase"",""The antenna\u2019s resonant frequency will decrease"",""The antenna will be physically 5% longer than its electrical length"",""A capacitor is never added in series with an antenna""]",0
+"How does the electric field strength of a standard broadcast station vary with the distance from the antenna?","[""The field strength of a standard broadcast station vary with the distance from the antenna"",""The field strength is directly proportional to the distance from the antenna"",""The field strength remains constant regardless of the distance from the antenna"",""The field strength varies inversely as the distance from the antenna""]",3
+"Stacking elements in a transmitting antenna system","[""increases the field strength at the receiving antenna"",""increases the directivity of the transmitter antenna"",""decrease the size of the lobe in the radiation pattern"",""both A and B""]",3
+"A vertical loop antenna has a","[""unidirectional radiation pattern in the horizontal plane"",""unidirectional radiation pattern in the vertical plane"",""omnidirectional radiation pattern in the horizontal plane"",""a bidirectional radiation pattern in the horizontal plane""]",3
+"In order to get maximum radiation to all surrounding points in the horizontal plane, the antenna used is a","[""vertical loop"",""vertical quarter-wavelength rod"",""array which includes parasitic elements"",""a horizontal Hertz dipole""]",1
+"What is the electrical wavelength of a 500 MHz signal?","[""60 centimeters"",""6 meters"",""0.06 meter"",""60 meters""]",0
+"If the antenna current is doubled, the field strength at a particular position is","[""doubled"",""halved"",""multiplied by a factor of four"",""divided by a factor of four""]",0
+"The rhombic antenna is primarily used for","[""ground wave propagation"",""space wave propagation"",""ionosphere scatter propagation"",""sky wave propagation""]",3
+"What antenna radiates equally in all directions?","[""Vertical antenna"",""isotropic antenna"",""Horizontal antenna"",""Dipole antenna""]",1
+"Actual height of antenna should be at least","[""one wavelength"",""half wavelength"",""quarter wavelength"",""three-fourth wavelength""]",2
+"Which antenna is not properly terminated?","[""Resonant"",""Non-resonant"",""Isotropic"",""Whip""]",0
+"______ is an antenna array which is highly directional at right angles to the plane of the array?","[""Broadside array"",""End-fire array"",""Turnstile array"",""Log-periodic array""]",0
+"The directivity pattern of an isotropic radiator is","[""a figure-8"",""a sphere"",""a unidirectional cardioid"",""a parabola""]",1
+"An isotropic radiator is","[""in the northern hemisphere"",""an antenna high enough in the air"",""an antenna whose directive pattern is substantially incredible"",""a hypothetical, omnidirectional antenna""]",3
+"The purpose of stacking elements on an antenna.","[""Sharper directional pattern"",""increased gain"",""Improved bandpass"",""All of these""]",3
+"The advantage of using top loading in a shortened HF vertical antenna is","[""lower quality factor"",""greater structural strength"",""higher losses"",""improved radiation efficiency""]",3
+"Where are the voltage nodes in a half-wave antenna?","[""At the ends"",""Three-quarters of the way from the feed point toward the end"",""One-half of the way from the feed point toward the end"",""At the feed point""]",3
+"A theoretical reference antenna that provides a comparison for antenna measurements.","[""Marconi antenna"",""Isotropic radiator"",""Yagi-Uda array"",""Whip antenna""]",1
+"A Hertz antenna is operating on a frequency of 2182 kHz and consists of a horizontal wire that is hanged between two towers. What is the frequency of its third harmonic?","[""727 kHz"",""6546 kHz"",""436 kHz"",""6.546 kHz""]",1
+"In horizontal-dipole antenna, the polarization is","[""in the vertical direction"",""in the horizontal direction"",""circular"",""measured at the center of the antenna""]",1
+"Increasing the electrical length of an antenna means","[""add an inductor in parallel"",""add a capacitor in series"",""add an inductor series"",""add a resistor is series""]",2
+"Stacking antennas at various angles results in","[""a more omnidirectional reception"",""a more unidirectional reception"",""a less omnidirectional reception"",""an overall reception signal increase""]",0
+"What is driven element?","[""Always the rearmost element"",""Always the forward most element"",""The element fed by the transmission line"",""The element connected to the rotator""]",2
+"What is antenna bandwidth?","[""Antenna length divided by the number of elements"",""The angle between the half-power radiation points"",""The angle formed between two imaginary lines drawn through"",""The frequency range over which an antenna can be expected to operate satisfactorily""]",3
+"To lengthen an antenna electrically, add a","[""resistor"",""battery"",""condult"",""coil""]",3
+"What is the gain of an antenna over a half-wavelength dipole when it has 6 dB gain over an isotropic radiator?","[""6.0 dB"",""8.1 dB"",""3.9 dB"",""10.0 dB""]",2
+"What is the usual electrical length of a driven element in an HF beam antenna?","[""\u00bc wavelength"",""\u00be wavelength"",""\u00bd wavelength"",""1 wavelength""]",2
+"What happens to the bandwidth of an antenna as it is shortened through the use of loading coils?","[""It is increased"",""It is decreased"",""No change occurs"",""It becomes flat""]",0
+"To electrically decrease the length of an antenna.","[""add an inductor in series"",""add an inductor in parallel"",""add a resistor in series"",""add a capacitor in series""]",3
+"Strong interference from one particular station can be eliminated by the use of","[""noise limiters"",""squelch circuits"",""negative feedback"",""wave traps in the antenna circuitry""]",3
+"It is useful to refer to an isotropic radiator.","[""when comparing the gains of directional antennas"",""when testing a transmission line for standing wave ratio"",""when (in the northern hemisphere) directing the transmission"",""when using a dummy load to tune a transmitter""]",0
+"A disadvantage of using a trap antenna.","[""It will radiate harmonics"",""It can only be used for single-bad operation"",""It is too sharply directional at lower frequencies"",""It must be neutralized""]",0
+"The input terminal impedance at the center of a folded dipole antenna is","[""72 \u03a9"",""300 \u03a9"",""50 \u03a9"",""73 \u03a9""]",1
+"When a capacitor is connected in series with a Marconi antenna?","[""Antenna open circuit stops transmission"",""An inductor of equal value must be added"",""No change occurs to antenna"",""Antenna resonant frequency increases""]",3
+"Where are the current nodes in a half-wave antenna?","[""At the ends"",""At the center"",""Three-quarters of the way from the feed point toward the end"",""One-half of the way from the feed point toward the end""]",0
+"For a shortened vertical antenna, where should a loading coil be placed to minimize losses and produce the most effective performance?","[""As low as possible on the vertical radiator"",""Near the center of the vertical radiator"",""As close to the transmitter as possible"",""At a voltage node""]",1
+"The effect of adding parasitic elements of a Hertz dipole is to","[""make the antenna more omnidirectional"",""reduce its resonant frequency"",""increase the antenna\u2019s power gain"",""All of these""]",2
+"In the case if Marconi antenna, the actual length if the radiating element is","[""one-half wavelength"",""one-quarter wavelength"",""one wavelength"",""one-eight wavelength""]",1
+"The antenna efficiency of an HF grounded vertical antenna can be made comparable to that of a half-wave antenna","[""By installing a good ground radial system"",""By isolating the coax shield from ground"",""By shortening the vertical"",""By lengthening the vertical""]",0
+"An antenna “efficiency” is computed by using one of the following equations.","[""Efficiency = (radiation resistance \/ transmission resistance)"",""Efficiency = (total resistance \/ radiation resistance) x 100%"",""Efficiency = (effective radiated power \/ transmitter output) x 100%"",""Efficiency = (radiation resistance \/ total resistance) x 100%""]",3
+"Increasing the resonant frequency of an end-fed Marconi antenna can be done by","[""adding a capacitor in series and reducing the physical length"",""adding an inductor in series"",""adding an inductor in series"",""All of these""]",0
+"Factors that determine the radiation resistance of an antenna","[""Transmission line length and height of antenna"",""The location of the antenna with respect to nearby objects"",""It is a constant for all antennas since it is physical"",""Sunspot activity and the time of day""]",1
+"_____ is the angle between the half-power radiation points","[""Critical angle"",""Beamwidth"",""Angle of elevation"",""Azimuth""]",1
+"What is the ratio of the maximum radiation intensity to the average radiation intensity?","[""Aperture gain"",""Directivity gain"",""Transmission gain"",""Power gain""]",1
+"Good grounding is important for","[""horizontal antennas"",""broadside array antennas"",""vertical antennas"",""Yagi-Uda antennas""]",2
+"An ungrounded antenna near the ground","[""acts as a single antenna of twice the height"",""is unlikely to need an earth mat"",""acts as antenna array"",""must be horizontally polarized""]",2
+"One of the following is very useful as a multiband HF receiving antenna.","[""Parabolic antenna"",""Elementary doublet"",""Log-periodic"",""Square loop""]",2
+"Which of the following antennas is best excited from a waveguide?","[""Biconical"",""Horn"",""Helical"",""Discone""]",1
+"Indicate which of the following reasons for using metal counterpoise with antennas is false.","[""Impossibly of a good ground connection"",""Protection of personnel working underneath"",""Provision of an earth for the antenna"",""Rockiness of the ground itself""]",1
+"Not a reason for the use of an antenna coupler.","[""To make the antenna look resistive"",""To provide the output amplifier with the correct load impedance"",""To discriminate against harmonics"",""To prevent re-radiation of the local oscillator""]",3
+"Which antenna is not a wideband?","[""Discone"",""Folded dipole"",""Helical"",""Marconi""]",3
+"One of the following is not a reason for the use of an earth mat","[""impossibility of a good ground connection"",""provision of an earth for the antenna"",""protection of personnel working underneath"",""improvement of the radiation pattern of the antenna""]",2
+"One of the following makes an antenna physically long but electrically short","[""Adding L in series"",""Adding C in series"",""Top loading"",""Both A and C""]",1
+"When antennas are closed to the ground, _______ polarization is ideal","[""horizontally polarized"",""vertically polarized"",""circularly polarized"",""both A and B""]",1
+"_____ is an antenna made up of a number of full wavelengths","[""Elementary doublet"",""Log-periodic"",""Long wire"",""Whip""]",2
+"Any energy which radiates in the form of radio waves, infrared waves, light waves, x-rays, etc.","[""Radiant energy"",""Electromagnetic"",""Heat"",""Ultraviolet""]",1
+"Which one is an antenna coupling unit?","[""Coupler"",""Diplexer"",""Lecher wire"",""Duplexer""]",1
+"_____ polarization is employed in AM broadcasting","[""Horizontal"",""Vertical"",""Circular"",""Omnidirectional""]",1
+"______ polarization is employed in FM broadcasting","[""Horizontal"",""Vertical"",""Circular"",""Bidirectional""]",0
+"Which antenna is not grounded at one end?","[""Hertz"",""Marconi"",""Dipole"",""Whip""]",2
+"Which antenna does not use the ground?","[""Marconi"",""Yagi"",""Hertz"",""Rhombic""]",1
+"Class of citizens band station operating at 462.55 to 466.45 MHz.","[""Class A"",""Class B"",""Class C"",""Class D""]",0
+"Ground system recommended by the FCC for broadcast stations consists of a minimum of _______.","[""120 radials"",""150 radials"",""130 radials"",""140 radials""]",0
+"To achieve maximum possible energy transfer between transmitting and receiving stations at practical distances, _______ are used.","[""High gain"",""Parabolic reflector"",""Director"",""secret""]",1
+"________ is the transmission of data metered at a distance from the observer.","[""Data communications"",""Altimetery"",""Telemetry"",""cemetery""]",2
+"Impedance transformation between a balanced and unbalanced impedances.","[""Gamma match"",""Eslun transformer"",""Decca match"",""Match box""]",1
+"Calculate the physical length required of a 146 MHz 4:1 balun mode of polyethylene foam coaxial cable. Use velocity factor of 0.80.","[""12.6 ft"",""2.5 m"",""32.4 inches"",""6.2 inches""]",2
+"_______ is an instrument that measures the radiated field from an antenna.","[""Field strength meter"",""Field meter"",""Strength meter"",""Intensity meter""]",0
+"Calculate the number of turns required to make a 5 uH inductor on a t-50-6 core. Use core factor AL of 40.","[""25"",""35"",""45"",""50""]",1
+"This resistance is a hypothetical concept that accounts for the fact that rF power is radiated by the antenna.","[""Ohmic resistance"",""Resistance"",""Radiation resistance"",""None of these""]",2
+"If 1000 watts of RF power is applied to the feedpoint, and a current of 3.7 amperes was measured, what is the radiation resistance?","[""50 ohms"",""300 ohms"",""600 ohms"",""73 ohms""]",3
+"Antenna theory recognizes a point of reference called the _________.","[""Half-wave dipole"",""Full wave dipole"",""Isotropic radiator"",""Image antenna""]",2
+"Quarter wavelength vertical antenna is basically a dipole placed vertically, with the other half of the dipole being the ____________.","[""Gain"",""Radials"",""Ground"",""Reflector""]",2
+"Most common form of multi-band wire antenna is the __________.","[""Log periodic antenna"",""Yagi Uda"",""Long wire antenna"",""Trap dipole""]",3
+"The change in velocity resulting from a stray capacitance is called _________.","[""End effect"",""Skin effect"",""Proximity effect"",""No effect""]",0
+"In order to increase the gain of Yagi-Uda arrays, what element are added?","[""Using many director"",""Using many dipole"",""Using many reflector"",""All of these""]",0
+"It is a measure of how much the antenna concentrates its transmitted microwave power in a given direction","[""Beamwidth"",""Polarization"",""Bandwidth"",""Gain""]",3
+"The angle where the transmitted power has dropped by from the maximum power in the direction at which the antenna is pointing.","[""Bandwidth"",""Polarization"",""Beamwidth"",""None of these""]",2
+"Orientation of the electric field signal propagated from the antenna.","[""Directivity"",""Polarization"",""Sidelobes"",""Gain""]",1
+"Is not included in the group.","[""Slot"",""Horn"",""Helix"",""Marconi""]",3
+"Radiation from an antenna at other angles than the desired direction.","[""Antenna direction"",""Field strength"",""Sidelobe"",""Directivity""]",2
+"If the antenna is not in the exact dimension/measurement, the impedance of the antenna turns to be:","[""Capacitive"",""Resistive"",""Inductive"",""a or c""]",3
+"Impedance for free space is _______.","[""120(pi)"",""30(pi)"",""180(pi)"",""None of these""]",0
+"An antenna is formed of four array antenna, each of which has a gain of _____ if the total gain of these antenna arrays is 30 dB.","[""12 dB"",""13 dB"",""14 dB"",""15 dB""]",2
+"______ of the antenna is the ratio of the radiation resistance to the total resistance of the system.","[""Gain"",""Directivity"",""Efficiency"",""None of these""]",2
+"The major lobes of the directive pattern are those in which the radiation is _______.","[""Minimum"",""Maximum"",""Same"",""None of these""]",1
+"Is one supplied power from the transmitter, usually through a transmission line.","[""Parasitic element"",""Driven element"",""Director element"",""Reflector element""]",1
+"Is one which the principal direction of the radiation is perpendicular to the axis of array.","[""Broadside array"",""End-fire array"",""Phased array"",""Array antenna""]",0
+"Front-to-back ratio is the ratio of the forward power and the ________.","[""Maximum power"",""Optimum power"",""Minimum power"",""Backward power""]",3
+"________ is elective means to generate circular polarization.","[""Folded antenna"",""Marconi antenna"",""Helix antenna"",""Any antenna""]",2
+"Ranges of frequencies the antenna will radiate effectively.","[""Beamwidth"",""Bandwidth"",""Gain"",""Directivity""]",1
+"Is used to increase the current at the base of the antenna, and also to make the current distribution more uniform.","[""Amplifier"",""Top loading"",""Booster"",""None of these""]",1
+"_________ is a network composed of reactances and transformers, which provide impedance matching.","[""Circulator"",""Antenna coupler"",""Matching section"",""None of these""]",1
+"Consisting of grouped radiations or elements.","[""Turnstile antenna"",""Antenna array"",""Phase array"",""Half-wave dipole""]",1
+"The design ratio of the log-periodic antenna must be _____.","[""Equal to zero"",""Greater than 1"",""Less than 1"",""Unity""]",2
+"For low and medium frequency antennas which are mounted vertically from the earth’s surface, the effective length is referred to as __________.","[""Actual length"",""Effective height"",""Actual height"",""None of these""]",1
+"The main difference between half-wave and folded dipole is the __________.","[""Length"",""Radiation resistance"",""Transmission line"",""None of these""]",1
+"A wire several wavelengths in length that is suspended at some height above the earth.","[""Wire antennas"",""Long wire antennas"",""Short wire antennas"",""Rhombic antennas""]",1
+"Consist of two half-wave dipoles placed at right angles to each other and fed 90o out of phase with each other.","[""Long wire antennas"",""Turnstile antennas"",""Vertical antennas"",""Rhombic antennas""]",1
+"Directivity higher than that obtained with uniform phase.","[""Super gain"",""High gain"",""Medium gain"",""Low gain""]",0
+"A parabolic dish antenna has a diameter of 3m and operates at 46 Hz. Calculate the aperture.","[""3.5 square meters"",""4.59 square meters"",""2.7 square meters"",""1.2 square meters""]",1
+"If the radiation resistance is 36 ohms, what must be the antenna length?","[""Half-wavelength long"",""One wavelength long"",""Quarter-wavelength long"",""Any of these""]",2
+"If the antenna is receiving of 10^-12 v/m of electric field, magnetic field of 3.2 x 10^-3 A/m at a 5 sq. m absorbing area, what is the power received?","[""0.2561 pW"",""0.72 pW"",""0.016 pW"",""0.0012 pW""]",2
+"The case where the electric field lies in a plane parallel to the earth surface.","[""Vertical polarization"",""Horizontal polarization"",""Circular polarization"",""None o f these""]",1
+"It is known as a single directive antenna.","[""Corner director"",""Corner dipole"",""Corner reflector"",""Yagi antenna""]",2
+"The presence of dielectric other than air ________ the velocity of light.","[""Increase"",""Decrease"",""Same"",""Secret""]",1
+"The fact that the second wire of the folded dipole is folded makes the current on the two conductors of the antenna flow in the _______ direction.","[""Same"",""Opposite"",""No"",""None of these""]",0
+"A closed circuit antenna is also called __________.","[""Helix antenna"",""Discone antenna"",""Loop antenna"",""None of these""]",2
+"The omega match is slightly modified from the ___________.","[""T match"",""Gamma match"",""Delta match"",""None of these""]",1
+"A dish antenna has a diameter of 2m and operates at 46 Hz, find the antenna gain at 65% efficiency.","[""3422.6"",""3.26 dB"",""12.3 dB"",""4266.67""]",3
+"What is the approximate effective length of an antenna at 10 MHz","[""2.65 m"",""9.55 m"",""4.62 m"",""8.6 m""]",1
+"Calculate effective absorbing area operating at 106 Hz for a standard half-wave dipole.","[""0.265 mm^2"",""0.1175 mm^2"",""1.26 mm^2"",""2.3 mm^2""]",1
+"The variation of the slot antenna is _________.","[""Isotropic antenna"",""Notch antenna"",""Lenz antenna"",""Horn antenna""]",1
+"A point where the power field strength is zero.","[""Minimum"",""Maximum"",""Lobe"",""Null""]",3
+"An area of radiation which exist between adjacent nulls.","[""Minimum"",""Maximum"",""Lobe"",""Nulls""]",2
+"The property of an antenna that causes it to receive signal better from one direction than from another.","[""Gain"",""Directivity"",""Dipole"",""Reflector""]",1
+"The 70.7% point on the polar graph is known as the _________ point and represent the point of maximum width of the lobe","[""Full power"",""Half-power"",""Quarter point"",""Maximum point""]",1
+"A transmitting antenna has a gain of 10 and a power input of 60 watts. What is the effective radiated power?","[""6 kW"",""60 kW"",""0.6 kW"",""600 kW""]",0
+"Marconi antenna is used in many types of mobile communications unit because it allows transmission and receptions in _________.","[""One direction"",""Two direction"",""More direction"",""All direction""]",3
+"Used only to a small degree in the VHF band because of its large size requirements","[""Vee antenna"",""Long antenna"",""Rhombic antenna"",""Marconi antenna""]",0
+"A resistance which accounts for the energy dissipated in the form of heat","[""Ohmic resistance"",""Surge resistance"",""Radiation resistance"",""None of these""]",0
+"Antenna array having one active dipole element and two or more parasitic element is known as _______.","[""Marconi"",""Horizontal antenna"",""Ground antenna"",""Yagi-Uda antenna""]",3
+"This antenna is a monopole in that it uses a half-wavelength radiator, but is fed at a voltage node rather than current node.","[""Voltage antenna"",""Zepp antenna"",""Quartz antenna"",""Xylene antenna""]",1
+"Vertical antenna like those used in the AM broadcast and lower frequency armature band rely heavily upon a good __________ for maximum coverage.","[""Insulation"",""Ground system"",""Gain"",""Directivity""]",1
+"One of the following consists of non-resonant antennas","[""Rhombic antenna"",""Folded dipole"",""End-fire array"",""Broadside array""]",0
+"One of the following is very useful as a multiband HF receiving antenna. This is the:","[""Conical horn"",""Folded dipole"",""Log-periodic"",""Square loop""]",2
+"Which of the following antennas is best excited from a waveguide?","[""Biconical"",""Horn"",""Helical discone"",""None of the above""]",1
+"Indicate which of the following reasons for using a counterpoise with antennas is false:","[""Impossibility of a good ground connection"",""Protection of personnel working underneath"",""Provision of an earth for the antenna"",""Rockiness of the ground itself""]",1
+"One of the following is not a reason for the use of an antenna coupler","[""To make the antenna look resistive"",""To provide the output amplifier with the correct load impedance"",""To discriminate against harmonics"",""To prevent re-radiation of the local oscillator""]",3
+"Indicate the antenna that is not wideband:","[""Discone"",""Folded dipole"",""Helical"",""Marconi""]",3
+"Indicates which of the following reasons for the use of an earth mat with antennas is false.","[""Impossibility of a good ground connection"",""Provision of an earth for the antenna"",""Protection of personnel working underneath"",""Improvement f the radiation pattern of the antenna""]",2
+"Which of the following terms does not apply to the Yagi-Uda array?","[""Good bandwidth"",""Parasitic elements"",""Folded dipole"",""High gain""]",3
+"An antenna that is circularly polarized is the","[""Helical"",""Small circular loop"",""Parabolic reflector"",""Yagi-Uda""]",0
+"The standard reference antenna for the directive gain is the","[""Infinitesimal dipole"",""Isotropic antenna"",""Elementary doublet"",""Half-wave dipole""]",1
+"Top loading is sometimes used with an antenna in order to increase its","[""Effective height"",""Bandwidth"",""Beamwidth"",""Input capacitance""]",0
+"Cassegrain feed is used with a parabolic reflector to","[""Increase the gain of the system"",""Increase the beamwidth of the system"",""Reduce the size of the main reflector"",""Allow the feed to be placed at a convenient point""]",3
+"Zoning is used with a dielectric antenna in order to","[""Reduce the bulk of the lens"",""Increase the bandwidth of the lens"",""Permit pin-point focusing"",""Correct the curvature if the wavefront from a horn that is too short""]",0
+"A helical antenna is used for satellite tracking because of its","[""Circular polarization"",""Maneuverability"",""Broad bandwidth"",""Good front-to-back ratio""]",0
+"The discone antenna is","[""A useful direction-finding antenna"",""Used as a radar receiving antenna"",""Circularly polarized like other circular antennas"",""Useful as a HF receiving antenna""]",3
+"One of the following is not an omnidirectional antenna:","[""Half-wave dipole"",""Log-periodic"",""Discone"",""Marconi""]",1
+"How is it possible to lower the resonant frequency of a Hertz dipole antenna?","[""Reduce the frequency at the transmitter"",""Connect a capacitor in series with the antenna"",""Connect an inductor in series with the antenna"",""Reduce the length of the antenna""]",2
+"Which of the following antennas receives signals in the horizontal plane equally well from all directions?","[""Horizontal Hertz antenna"",""Vertical loop antenna"",""Vertical Yagi antenna"",""A vertical antenna which is a quarter-wavelength long""]",3
+"A one-quarter-wavelength shut-fed vertical Marconi antenna:","[""Has maximum radiation in a vertical direction"",""Must have a horizontal receiving antenna for the best reception"",""Must use a receiving antenna which has an electric field in a horizontal direction"",""Must have a vertical receiving antenna for the best reception""]",3
+"A shunt-fed quarter-wavelength Marconi antenna:","[""Has maximum RF impedance to ground at its feedpoint"",""Has a current null at its feedpoint"",""Has zero dc resistance to ground"",""Uses balanced twin line as its feeder cable""]",2
+"The parasitic element of an antenna system will:","[""Decrease its directivity"",""Increase its directivity"",""Give the antenna unidirectional properties"",""Both B and C""]",3
+"If the length of the antenna is changed from 2.5 meters to 2.8 meters, its resonant frequency will","[""Increase"",""Decrease"",""Depend on the velocity factor so the resonant frequency can either be increased or decreased"",""Will be unchanged""]",1
+"What is the effect of adding a capacitor in series with an antenna?","[""The antenna\u2019s resonant frequency will increase"",""The antenna\u2019s resonant frequency will decrease"",""A capacitor is never added in series with an antenna"",""The purpose is to block dc from being applied to the antenna""]",0
+"How does the electric field strength of a broadcast station vary with the distance from the antenna?","[""The field strength varies inversely proportional to the distance from the antenna"",""The field strength is directly proportional to the square of the distance from the antenna"",""The field strength varies directly proportional to the square of the distance from the antenna"",""The field strength varies inversely as the distance from the antenna""]",3
+"Stacking elements in a transmitting antenna system","[""Increases the field strength at the receiving antenna"",""Increases the directivity of the transmitter antenna"",""Decreases the size of the major lobe in the radiation pattern"",""Both a and b""]",3
+"The rhombic antenna is primarily used for","[""Ground wave propagation"",""Skywave propagation"",""Space wave propagation"",""Tropospheric propagation""]",1
+"If the antenna current is doubled, the field strength at a particular position is","[""Doubled"",""Halved"",""Multiplied by a factor of four"",""Multiplied by a factor of 1.414""]",0
+"A vertical loop antenna has a","[""Unidirectional radiation pattern in the horizontal plane"",""Unidirectional radiation pattern in the vertical plane"",""Bidirectional radiation pattern in the horizontal plane"",""Omnidirectional radiation pattern in the horizontal plane""]",2
+"In order to get maximum radiation to all surrounding points in the horizontal plane, the antenna used is a(an)","[""Vertical loop"",""Vertical quarter-wavelength rod"",""Array which includes parasitic elements"",""Horizontal Hertz dipole""]",1
+"The physical length of a Hertz dipole resonant at a 100 MHz is","[""9.84 ft"",""4.92 ft"",""4.68 ft"",""2.46 ft""]",2
+"What is meant by the term antenna gain?","[""The numerical ratio relating the radiated signal strength of an antenna to that of another antenna"",""The ratio if the signal in the forward direction to the signal in the back direction"",""The ratio of the amount of power produced by the antenna compared to the output power of the transmitter"",""The final amplifier gain minus the transmission losses""]",0
+"What is meant by the term antenna bandwidth?","[""Antenna length divided by the number of elements"",""The frequency range over which an antenna can be expected to perform well"",""The angle between the half-power radiation points"",""The angle formed between two imaginary-lines drawn through the ends of the elements""]",1
+"What is the wavelength of a shorted stub used to absorb even harmonics?","[""\u00bd \u03bb"",""1\/3 \u03bb"",""\u00bc \u03bb"",""1\/8 \u03bb""]",2
+"What is a trap antenna?","[""An antenna for rejecting interfering signals"",""A highly sensitive antenna with maximum gain in all directions"",""An antenna capable of being used on more than one band because of the presence of parallel LC networks"",""An antenna with a large capture area""]",2
+"What is the disadvantage of using a trap antenna?","[""It has a high directivity in the high-frequency bands"",""It has a high gain"",""It minimizes harmonic radiation pattern"",""It may be used for multi-band operation""]",3
+"What is the disadvantage of using a trap antenna?","[""It will radiate harmonics"",""It can only be used for single band operation"",""It is too sharply directional at lower frequencies"",""It must be neutralized""]",0
+"What is the principle of a trap antenna?","[""Beamwidth may be controlled by nonlinear impedance"",""The traps form a high impedance to isolate parts of the antenna"",""The effective radiated power can be increased if the space around the antenna sees a high impedance"",""The traps increase the antenna gain""]",1
+"What is a parasitic element of an antenna?","[""An element polarized 90 degrees opposite the driven element"",""An element dependent on the antenna structure for support"",""An element that receives its excitation from mutual coupling rather than from a transmission line"",""A transmission line that radiates radio-frequency energy""]",2
+"How does a parasitic element generate an electromagnetic field?","[""By the RF current received from a connected transmission line"",""By interacting with the earth\u2019s magnetic field"",""By altering the phase of the current on the driven element"",""By currents induced into the element from a surrounding electric field""]",3
+"How much power will an antenna having a radiation resistance of 50 Ω radiate when fed with a 20 A current?","[""20, 000 W"",""1000 W"",""2 kW"",""10 kW""]",0
+"Determine the Q of an antenna if it has a bandwidth of 0.06 MHz and is cut to a frequency of 30 MHz.","[""50"",""100"",""150"",""250""]",0
+"How does the length of the reflector element of a parasitic element beam antenna compare with that of the driven element?","[""It is about 5% longer"",""It is about 5% shorter"",""It is twice as long"",""It is one-half as long""]",0
+"How does the length of the director element of a parasitic element beam antenna compare with that of the driven element?","[""It is about 5% longer"",""It is about 5% shorter"",""It is twice as long"",""It is one-half as long""]",1
+"What is meant by the radiation resistance for an antenna?","[""Losses in the antenna elements and feedline"",""The specific impedance of the antenna"",""An equivalent resistance that would dissipate the same amount of power as that radiated from an antenna"",""The resistance in the trap coils to received signals""]",2
+"What are the factors that determine the radiation resistance of an antenna?","[""Transmission line length and height of antenna"",""The locations of the antenna with respect to nearby objects and the length\/diameter ratio of the conductors"",""It is a constant for all antennas since it is a physical constant"",""Sunspot activity and the time of day""]",1
+"In a half-wave dipole, where are the current nodes?","[""At the ends"",""At the feedpoint"",""Three-quarters of the way from the feedpoint towards the end"",""One-half of the way from the feedpoint toward the end""]",0
+"What is the advantage of using top loading in a shortened HF vertical antenna?","[""Lower Q"",""Greater structural strength"",""Higher losses"",""Improved radiation efficiency""]",3
+"What is the beamwidth of a symmetrical pattern antenna with a gain of 30 dB as compared to an isotropic radiator?","[""3.2 degrees"",""6.4 degrees"",""37 degrees"",""60.4 degrees""]",1
+"A microwave communications uses plane reflectors as passive repeaters. The diameter of the parabolic antenna is 18 ft while the effective area is 310 sq ft. Determine the reflector coupling factor.","[""0.76"",""0.906"",""0.92"",""0.706""]",1
+"A directional antenna with two or more elements is known as","[""folded dipole"",""ground plane"",""loop"",""array""]",3
+"The ratio of the focal length to the diameter of the mouth of the parabola is called _____.","[""aperture"",""focal point"",""foci"",""major axis""]",0
+"The impedance of a dipole is about","[""50-ohm"",""73-ohm"",""93-ohm"",""300-ohm""]",1
+"A special type of transmission line that consist of conducting metallic tube through which high frequency electromagnetic energy is propagated","[""medium"",""microstrip"",""stripline"",""waveguide""]",3
+"Calculate the angle of declination for an antenna using a polar mount at a latitude of 45 degrees","[""3.2 degrees"",""1.3 degrees"",""4.2 degrees"",""6.81 degrees""]",3
+"The cone angle of the flare angle of a conical horn antenna is approximately","[""55 degrees"",""45 degrees"",""40 degrees"",""50 degrees""]",3
+"Electrical energy that has escaped into free space in the form of transverse electromagnetic waves","[""Radio waves"",""Frequency"",""Signal"",""Wavelength""]",0
+"The length of the ground plane vertical at 146 MHz is","[""1.6 ft"",""1.68 ft"",""2.05 ft"",""3.37 ft""]",0
+"Using a small reflector to beam waves to the larger parabolic reflector is known as","[""Focal feed"",""Horn feed"",""Cassegrain feed"",""Coax feed""]",2
+"The plane parallel to the mutually perpendicular line in the electric and magnetic fields is called _______.","[""wavefront"",""point source"",""isotropic source"",""rays""]",0
+"What is the beamwidth of a parabolic antenna with a diameter of 5 meters and an operating frequency of 10 GHz?","[""0.5 degrees"",""0.675 degrees"",""0.348 degrees"",""3.48 degrees""]",2
+"The horizontal radiation pattern of a dipole is a","[""circle"",""figure of eight"",""clover leaf"",""narrow beam""]",1
+"The size of antenna is inversely proportional to _______.","[""frequency"",""power"",""radiation resistance"",""wavelength""]",0
+"A popular half – wave antenna is the","[""Ground plane"",""End-fire"",""Collinear"",""Dipole""]",3
+"Calculate the gain of a parabolic antenna using a 2.5-m radius dish operating at 10 GHz.","[""166.673 dB"",""83.7 dB"",""52.2 dB"",""45.6 dB""]",2
+"It is the ratio of the radiated to the reflected energy","[""Radiation resistance"",""Radiation efficiency"",""Radiation constant"",""Radiation antenna""]",1
+"The feed mechanism in a parabolic antenna that radiates the electromagnetic energy.","[""Primary antenna"",""Reflectors"",""Secondary antenna"",""Focal point""]",0
+"It is a polar diagram or graph representing field strengths or power densities at various angular positions relative to an antenna","[""Side lobe"",""Front lobe"",""Radiation pattern"",""Radiation constant""]",2
+"For a transmit antenna with a radiation resistance of 72 ohms, an effective antenna resistance of 8 ohms, a directive gain of 20 and an input power of 100W, determine the antenna gain.","[""12.55 dB"",""10.43 dB"",""11.21 dB"",""9.78 dB""]",0
+"The radiation pattern plotted in terms of electric field strength or power density","[""absolute radiation pattern"",""relative radiation pattern"",""absolute front lobe pattern"",""absolute side lobe pattern""]",0
+"Calculate the characteristic impedance of a quarter – wavelength section used to connect a 300-ohm antenna to a 75-ohm line","[""150 ohms"",""120 ohms"",""130 ohms"",""110 ohms""]",0
+"Plots of field strength or power density with respect to the value at a reference point","[""absolute front lobe pattern"",""relative front lobe pattern"",""relative front lobe pattern"",""relative radiation pattern""]",3
+"What must be the height of a vertical radiator one half wavelength high if the operating frequency is 1100 kHz?","[""120 m"",""136 m"",""115 m"",""124 m""]",1
+"Lobes adjacent to the front lobe","[""Diagonal lobes"",""Side lobes"",""Front lobes"",""Back lobes""]",1
+"Lobes in a direction exactly opposite of the front lobe","[""Side lobes"",""Adjacent lobes"",""Front lobes"",""Back lobes""]",3
+"Calculate the efficiency of an antenna that has a radiation resistance of 73 ohms and an effective dissipation resistance of 5 ohms","[""98.3%"",""93.6%"",""90.7%"",""95.5%""]",1
+"The line bisecting the major lobe, or pointing from the center of the antenna in the direction of maximum radiation is called _______.","[""line of shoot"",""diagonal shoot"",""bisecting shoot"",""antenna shoot""]",0
+"The ammeter connected at the base of a Marconi antenna has a certain reading. If this reading is increased 2.77 times, what is the increase in output power?","[""3.45"",""1.89"",""2.35"",""7.67""]",3
+"Refers to a field pattern that is close to the antenna.","[""Induction field"",""Far field"",""Radiation field"",""Capture field""]",0
+"A half-wave dipole is driven with a 5-W signal at 225 MHz. A receiving dipole 100 km. Calculate the received power into a 73-ohm receiver.","[""23.5 pW"",""7.57 pW"",""5.64 pW"",""1.26 pW""]",1
+"It is the resistance that, if it replaced the antenna, would dissipate exactly the same amount of power that the antenna radiates.","[""Directive gain"",""Antenna efficiency"",""Radiation resistance"",""Antenna resistance""]",2
+"What is the effective radiated power of a television broadcast station if the output of the transmitter is 1000W, antenna transmission line loss is 50W, and the antenna power gain is 3?","[""1250 W"",""2370 W"",""2130 W"",""2850 W""]",3
+"It is the ratio of the power radiated by an antenna to the sum of the power radiated and the power dissipated.","[""radiation resistance"",""coupling coefficient"",""antenna efficiency"",""antenna beamwidth""]",2
+"It is the ratio of the power radiated by the antenna to the total input power.","[""antenna efficiency"",""reflection coefficient"",""standing wave ratio"",""radiation resistance""]",0
+"If a 500 kHz transmitter of a constant power produces field strength of 100 uV/m at a distance of 100 mi from the transmitter, what would be the theoretical field strength at a distance of 200 mi from the transmitter?","[""45 uV\/m"",""100 uV\/m"",""50 uV\/m"",""35 uV\/m""]",2
+"An antenna that transmits or receives equally well in all directions is said to be _____.","[""omnidirectional"",""bidirectional"",""unidirectional"",""quasidirectional""]",0
+"It is the ratio of the power density radiated in a particular direction to the power density radiated to the same point by a reference antenna, assuming both antennas are radiating the same amount of power","[""power gain"",""directive gain"",""total gain"",""system gain""]",1
+"If the field intensity of 25 mV/m develops 2.7 V in a certain antenna, what is its effective height?","[""110 m"",""100 m"",""98 m"",""108 m""]",3
+"The magnetic field of an antenna is perpendicular to the earth. The antenna’s polarization ______.","[""is vertical"",""is horizontal"",""is circular"",""cannot be determined from the information given""]",1
+"If the power of a 500 kHz transmitter is increased from 150 W to 300 W, what would be the percentage change in field intensity at a given distance from the transmitter?","[""141%"",""150%"",""100%"",""133%""]",0
+"It is the same with directive gain except that the total power fed to the antenna is used and the antenna efficiency is taken into account.","[""system gain"",""power gain"",""directive gain"",""total gain""]",1
+"A hip-radio telephone transmitter operates on 2738 kHz. At a certain point distant from the transmitter, the 2738 kHz signal is measured field of 147 mV/m. The second harmonic field at the same point is measured as 405 uV/m. To the nearest whole unit in decibels, how much has the harmonic emission been attenuated below the 2738 kHz fundamental?","[""43.2 dB"",""51.2 dB"",""35.1 dB"",""25.1 dB""]",1
+"It is the equivalent power that an isotropic antenna would have to radiate to achieve the same power density in the chosen direction at a given point as another antenna.","[""EIRP"",""ERP"",""IRL"",""RSL""]",0
+"When the energy is applied to the antenna at a point of high – circulating current.","[""voltage-fed antenna"",""power-fed antenna"",""current-fed antenna"",""impedance-fed antenna""]",2
+"For a transmit antenna with a power gain of 10 and an input power of 100 W, determine the EIRP in watts.","[""30 dBW"",""40 dBW"",""50 dBW"",""20 dBW""]",0
+"If energy is applied at the geometrical center of antenna, the antenna is said to be _____.","[""center-fed"",""end-fed"",""quarterwave-fed"",""halfwave-fed""]",0
+"For a transmit antenna with a power gain of 10 and an input power of 100 W, determine the power density at a point 10 km from the transmit antenna","[""0.574 uW\/m^2"",""0.796 uW\/m^2"",""1.24 uW\/m^2"",""0.981 uW\/m^2""]",1
+"For a transmit antenna with a radiation resistance of 72 ohms, an effective antenna resistance of 8 ohms, a directive gain of 20 and an input power of 100 W, determine the antenna efficiency.","[""90%"",""96%"",""98%"",""96%""]",0
+"The fields surrounding the antenna do not collapse their energy back into the antenna but rather radiate it out in space.","[""induction field"",""near field"",""radiation field"",""magnetic field""]",2
+"The property of interchangeability for the transmitting and receiving operations is known as ______.","[""efficiency"",""accuracy"",""reciprocity"",""polarization""]",2
+"The length of a doublet at 27 MHz is _____.","[""8.67 ft"",""17.3 ft"",""18.2 ft"",""34.67 ft""]",1
+"Refers to the orientation of the electric field radiated from an antenna.","[""efficiency"",""beamwidth"",""polarization"",""accuracy""]",2
+"At frequencies below 2 MHz, what type of antenna is usually used?","[""Marconi antenna"",""Hertzian antenna"",""Hertz antenna"",""Elementary doublet""]",0
+"The angular separation between two half-power points in the major lobe of the antenna’s plane radiation pattern.","[""bandwidth"",""polarization"",""efficiency"",""beamwidth""]",3
+"Hertz antenna are predominantly used with frequencies above","[""3 MHz"",""4 MHz"",""5 MHz"",""2 MHz""]",3
+"Defined as the frequency range over which antenna operation is satisfactory","[""beamwidth"",""channel"",""bandwidth"",""baseband""]",2
+"One of the following is not an omnidirectional antenna.","[""Half-wave dipole"",""Log-periodic"",""Discone"",""Marconi""]",1
+"The point on the antenna where the transmission line is connected is called _______.","[""center feed"",""end feed"",""feedpoint"",""voltage feed""]",2
+"A popular vertical antenna is the _____&gt;","[""collinear"",""dipole"",""ground plane"",""broadside""]",2
+"The discone antenna is","[""a useful direction-finding antenna"",""used as a radar receiving antenna"",""circularly polarized with other circular antennas"",""useful as a UHF receiving antenna""]",3
+"The feedpoint presents and ac load to the transmission line called","[""antenna output impedance"",""antenna input impedance"",""feedpoint impedance"",""center feed impedance""]",1
+"A helical antenna is used for satellite tracking because of its","[""circular polarization"",""maneuverability"",""broad bandwidth"",""good front to back ratio""]",0
+"The simplest type of antenna.","[""Elementary doublet"",""Half-wave dipole"",""Quarterwave dipole"",""5\/8 wavelength dipole""]",0
+"Zoning is used with a dielectric antenna in order to","[""reduce the bulk of the lens"",""increase the bandwidth of the lens"",""permit pin-point focusing"",""correct the curvature of the wavefront from a horn that is too short""]",0
+"It is an electrically short dipole","[""short dipole"",""quarterwave dipole"",""half-wave dipole"",""yagi antenna""]",0
+"Cassegrain feed is used with parabolic reflector to","[""increase the gain of the system"",""increase the bandwidth of the system"",""reduce the size of the main reflector"",""allow the feed to be placed at a convenient point""]",3
+"The half-wave dipole is generally referred to as ______.","[""Yagi antenna"",""Hertzian antenna"",""Marconi antenna"",""Hertz antenna""]",3
+"Top loading is sometimes used with an antenna in order to increase its","[""effective height"",""bandwidth"",""beamwidth"",""input capacitance""]",0
+"What is the directivity of a Hertz antenna?","[""1.64"",""2.18"",""2.15"",""1.75""]",0
+"The standard reference antenna for the directive gain is the _______.","[""infinitesimal dipole"",""isotropic antenna"",""elementary doublet"",""half-wave dipole""]",1
+"An antenna which is one-quarter wavelength long, mounted vertically with the lower end either connected directly to ground or grounded through the antenna coupling network.","[""loop antenna"",""hertzian dipole"",""monopole antenna"",""turnstile antenna""]",2
+"An antenna that is circularly polarized is the","[""helical"",""small circular loop"",""parabolic reflector"",""Yagi \u2013 Uda""]",0
+"It is a wire structure placed below the antenna and erected above the ground.","[""ground plane"",""counterpoise"",""ground lines"",""top hat""]",1
+"Which of the following terms does not apply to the Yagi-Uda array?","[""good bandwidth"",""parasitic elements"",""folded dipole"",""high gain""]",3
+"It effectively cancels out the capacitance component of the antenna input impedance.","[""ground plane"",""top hat"",""loading coil"",""shunt capacitance""]",2
+"Indicate which of the following reasons for the use of an earth mat with antenna is false:","[""impossibility of a good ground conduction"",""provision of an earth for an antenna"",""protection of personnel working underneath"",""improvement of the radiation pattern of the antenna""]",2
+"A metallic array that resembles a spoke wheel placed at the top of an antenna, it increases the shunt capacitance to ground reducing the overall antenna capacitance.","[""loading coil"",""top loading"",""series capacitance"",""series inductors""]",1
+"Indicate the antenna that is not wideband:","[""discone"",""folded dipole"",""helical"",""marconi""]",3
+"It is formed when two or more antenna elements are combined to form a single antenna.","[""antenna elements"",""antenna array"",""driven elements"",""parasitic elements""]",1
+"One of the following is not a reason for the use of an antenna coupler:","[""to make the antenna look resistive"",""to provide the output amplifier with the correct load impedance"",""to discriminate against harmonics"",""to prevent re-radiation of local oscillators""]",3
+"It is an individual radiator, such as a half or quarter-wave dipole.","[""antenna element"",""antenna array"",""reflector"",""director""]",0
+"Indicate which of the following reasons for using a counterpoise with antennas is false:","[""impossibility of a good ground connection"",""protection of personnel working underneath"",""provision of an earth for the antenna"",""rockiness of the ground itself""]",1
+"Type of antenna element that is directly connected to the transmission lines and receives from or is driven by the source.","[""driven array"",""parasitic array"",""driven element"",""parasitic element""]",2
+"Which of the following antennas is best excited from a waveguide?","[""biconical"",""horn"",""helical"",""discone""]",1
+"Type of antenna element that is not connected to the transmission lines.","[""parasitic array"",""driven array"",""parasitic array"",""parasitic element""]",3
+"One of the following is very useful as a multi-band HF receiving antenna. This is the:","[""conical horn"",""folded dipole"",""log-periodic"",""square loop""]",2
+"A parasitic element that is longer than the driven element from which it receives energy.","[""driven element"",""director"",""parasitic elements"",""reflector""]",3
+"One of the following consists of non-resonant antennas.","[""rhombic antenna"",""folded-dipole antenna"",""end-fire antenna"",""broadside antenna""]",0
+"A parasitic element that is shorter than its associated driven element.","[""redirector"",""director"",""reflector"",""parasitic element""]",1
+"An ungrounded antenna near the ground.","[""acts as a single antenna near the ground"",""is unlikely to need an earth mat"",""acts as an antenna array"",""must be horizontally polarized""]",2
+"It is a non-resonant antenna capable of operating satisfactorily over a relatively wide bandwidth, making it ideally suited for HF transmission.","[""turnstile antenna"",""loop antenna"",""rhombic antenna"",""discone antenna""]",2
+"A wide – bandwidth multi-element driven array is the ______.","[""end-fire"",""log-periodic"",""yagi"",""collinear""]",1
+"It is a linear array antenna consisting of a dipole and two or more parasitic elements: one reflector and one director.","[""broadside antenna"",""end-fire antenna"",""yagi-uda antenna"",""phased array antenna""]",2
+"An antenna which is consists of a cone that is truncated in a piece of circular waveguide.","[""pyramidal horn antenna"",""circular horn antenna"",""rectangular horn antenna"",""cylindrical horn antenna""]",1
+"Which antenna has a unidirectional radiation pattern and gain?","[""dipole"",""ground plane"",""yagi"",""collinear""]",2
+"An antenna formed by placing two dipoles at right angles to each other, 90 degrees out of phase.","[""discone antenna"",""turnstile antenna"",""bicone antenna"",""5\/8 wavelength antenna""]",1
+"The radiation pattern of collinear and a broadside antenna is ________.","[""omnidirectional"",""bidirectional"",""unidirectional"",""clover-leaf shaped""]",1
+"What is the bandwidth ratio of log-periodic antenna?","[""10:1"",""5:1"",""20:1"",""1:10""]",0
+"It is the ratio of the highest to the lowest frequency over which an antenna will satisfactorily operate.","[""channel ratio"",""bandwidth ratio"",""reflection ratio"",""dynamic range""]",1
+"An antenna has a power gain off 15. The power applied to the antenna is 32 W. The effective radiated power is ________.","[""15 W"",""32 W"",""120 W"",""480 W""]",3
+"It is simply a single-turn coil of wire that is significantly shorter than one wavelength and carries RF current.","[""turnstile antenna"",""loop antenna"",""rhombic antenna"",""long-wire antenna""]",1
+"A coax has an attenuation of 2.4 dB per 100 ft. The attenuation of 275 ft","[""2.4 dB"",""3.3 dB"",""4.8 dB"",""6.6 dB""]",3
+"It is group of antenna arrays that when connected together, function as a simple antenna whose beamwidth and direction can be changed electronically without having to physically move any of the individual antennas or antenna elements within the array.","[""end-fire array"",""broadside antenna"",""phased array antenna"",""log-periodic antenna""]",2
+"Conductors in multi-element antennas that do not receive energy directly from the transmission line are known as ______.","[""parasitic element"",""driven element"",""the boom"",""receptor""]",0
+"It is a broadband VHF or UHF antenna that is suited for applications for which radiating circular rather than horizontal or vertical polarized electromagnetic waves are required.","[""discone antenna"",""bicone antenna"",""log-periodic antenna"",""helical antenna""]",3
+"Mode of propagation of helical antenna where electromagnetic radiation is in the direction at right angles to the axis of the helix.","[""normal mode"",""axial mode"",""helix mode"",""helical mode""]",0
+"Mode of propagation of helical antenna where the radiation of the antenna in the axial direction and produces a broadband relatively directional pattern.","[""helical mode"",""normal mode"",""axial mode"",""helix mode""]",2
+"In a Yagi antenna, maximum direction of radiation is toward the","[""director"",""driven element"",""reflector"",""sky""]",0
+"It is defined as the ratio of the antennas maximum gain in the forward direction to its maximum gain in its backward direction","[""side-to-back ratio"",""front-to-side ratio"",""back-to-side ratio"",""front-to-back ratio""]",3
+"The horizontal radiation pattern of a vertical dipole is a ____________.","[""figure of eight"",""circle"",""narrow beam"",""clover leaf""]",1
+"An antenna that provides extremely high gain and directivity and very popular for microwave radio and satellite communications link.","[""helical antenna"",""parabolic antenna"",""hyperbolic antenna"",""log-periodic antenna""]",1
+"Part of a parabolic antenna that houses the primary antenna which radiates electromagnetic waves toward the reflector.","[""feed mechanism"",""focal point"",""center feed"",""feed antenna""]",0
+"It is a passive device that simply reflects the energy radiated by the feed mechanism into a concentrated, highly directional emission in which the individual waves are all in phase with each other.","[""director"",""parabolic segment"",""reflector"",""feed mechanism""]",2
+"The energy near the edge of the parabolic dish that does not reflect but rather is diffracted around the edge of the dish.","[""spillover"",""corona"",""dissipated power"",""copper loss""]",0
+"Determines the angular aperture of the reflector, which indirectly determines how much the primary radiation is reflected by the parabolic dish.","[""numerical aperture"",""V number"",""aperture number"",""aperture angle""]",2
+"For a 2-m diameter parabolic reflector with 10W of power radiated by the feed mechanism operating at 6 GHz with a transmit antenna efficiency of 55% and an aperture efficiency of 55%, determine the beamwidth.","[""1.25 degrees"",""2.25 degrees"",""1.5 degrees"",""1.75 degrees""]",3
+"Type of feed mechanism where the primary radiating source is located just behind a small opening at the vertex of the paraboloid rather than at the focus.","[""cassegrain feed"",""center feed"",""horn feed"",""antenna feed""]",0
+"Discone radiation pattern is","[""omnidirectional"",""unidirectional"",""figure-of-eight"",""bidirectional""]",0
+"Which is properly terminated antenna?","[""dipole"",""marconi"",""hertz"",""rhombic""]",3
+"An example of a marconi antenna is _______.","[""quarter wave vertical tower"",""collinear"",""yagi"",""rhombic""]",0
+"At the ends of a half-wave antenna, what values of current and voltage exist compared to the remainder of the antenna?","[""minimum voltage and maximum current"",""minimum voltage and minimum current"",""equal voltage and current"",""maximum voltage and minimum current""]",3
+"Radiation resistance is the ratio of ______.","[""radiated power to the antenna center current"",""radiated power to the square of the antenna center current"",""voltage to any point of the antenna"",""square of voltage to the square of current at any point in the antenna""]",1
+"Consists of basic antenna connected to a transmission line plus one or more additional conductors","[""parasitic array"",""directors"",""driven array"",""reflectors""]",0
+"Which of the following is not a driven array?","[""yagi"",""broadside"",""collinear"",""end fire""]",0
+"What is used to determine phase difference between two broadcast antennas?","[""a phase monitor"",""a frequency monitor"",""an amplitude monitor"",""a power monitor""]",0
+"In antennas, which gives more forward gain?","[""reflector"",""driven element"",""parasitic element"",""director""]",3
+"Which of the following is longer?","[""director"",""reflector"",""driven element"",""parasitic element""]",1
+"Which is closer to the driven element?","[""parasitic element"",""driven element"",""director"",""reflector""]",2
+"How much do they differ in length from a half-wavelength?","[""5%"",""10%"",""15%"",""20%""]",0
+"How much more feed-point impedance does a folded dipole have than a normal dipole?","[""two times as much"",""three times as much"",""four times as much"",""five times as much""]",2
+"How is it possible to produce 70-ohm twin lead?","[""by folding more parasitic element"",""by manufacturing"",""by increasing the radiation resistance"",""by increasing the length of the antenna""]",1
+"With similar size parabolic, plane reflector, and corner-reflector beams, which has greater gain?","[""plane reflector"",""parabolic"",""corner-reflector beam"",""V-beam""]",1
+"With similar size, which has the narrowest lobes?","[""parabolic"",""V-beam"",""corner-reflector beam"",""plane reflector""]",0
+"Why would the wires of V-beam be closer together when used on higher frequencies?","[""main lobe lays farther to wire"",""main lobe lays closer to wire"",""secondary lobes closer to wire"",""secondary lobes farther to wire""]",1
+"How the V-beam is made unidirectional?","[""impedance terminated"",""capacitive terminated"",""inductive terminated"",""resistor terminated""]",3
+"Why might a rhombic be better than a V-beam?","[""it is resistor terminated"",""more acreage needed"",""less acreage needed"",""it is unidirectional""]",2
+"Why is the usual rhombic not frequency – sensitive?","[""unidirectional"",""with its characteristic impedance"",""less acreage required"",""main lobe is greater than back lobe""]",1
+"In what direction is the null of small diameter loop in relation to the plane of the loop?","[""45 degrees angle"",""180 degrees angle"",""360 degrees angle"",""90 degrees angle""]",3
+"When is a loop unidirectional?","[""when horizontal"",""when vertical"",""when circular"",""when unidirectional""]",0
+"Why are verticals sometimes top-loaded?","[""to resonate on high frequency"",""to decrease the electrical length"",""to resonate on low frequency"",""to look better""]",2
+"Why is pi-network superior to direct coupling to an antenna?","[""reduce harmonic radiation"",""better frequency response"",""better radiation of energy"",""reduce power dissipation""]",0
+"Why might L networks be used between an antenna and transmission line?","[""step impedance up"",""step impedance down"",""better radiation of energy"",""reduce power radiation""]",0
+"Why are antenna ammeters often shorted out or disconnected from the antenna except when readings are desired?","[""to replace it with dummy"",""not to interface with transmission"",""for proper reception of signals"",""to protect from lightning""]",3
+"Device to split transmission line current to two or more antenna towers","[""splitter"",""coupler"",""isolator"",""phasor circuit""]",3
+"What method can be used to determine the feed-point impedance of a vertical antenna?","[""resistance substitution"",""impedance matching"",""dissipated resistance measurement"",""grounding the antenna""]",0
+"In what unit is field intensity measured?","[""volts"",""amperes"",""watts\/m"",""mV\/m""]",3
+"How fast does low-frequency field strength attenuate?","[""directly proportional to distance"",""inversely proportional to distance"",""directly proportional to time"",""inversely proportional to time""]",0
+"One of the following consists of non-resonant antennas:","[""The rhombic antenna"",""The folded dipole"",""The end-fire array"",""The broadside array""]",0
+"One of the following is very useful as a multiband HF receiving antenna. This is the:","[""Conical horn"",""Folded dipole"",""Log-periodic"",""Square loop""]",2
+"Which of the following antennas is best excited from a waveguide?","[""Biconical"",""Horn"",""Helical"",""Discone""]",1
+"Indicate which of the following reasons for using a counterpoise with antennas is false:","[""Impossibility of a good ground connection"",""Protection of personnel working underneath"",""Provision of an earth for the antenna"",""Rockiness of the ground itself""]",1
+"One of the following is not a reason for the use of an antenna coupler:","[""To make the antenna look resistive"",""To provide the output amplifier with the correct load impedance"",""To discriminate against harmonics"",""To prevent reradiation of the local oscillator""]",3
+"Indicate the antenna that is not wideband","[""Discone"",""Folded dipole"",""Helical"",""Marconi""]",3
+"Indicate which one of the following reasons for the use of an earth mat with antennas is false:","[""Impossibility of a good ground connection"",""Provision of an earth for the antenna"",""Protection of personnel working underneath"",""Improvement of the radiation pattern of the antenna""]",2
+"Show which of the following terms does not apply to the Yagi-Uda array","[""Good bandwidth"",""Parasitic elements"",""Folded dipole"",""High gain""]",3
+"An antenna that is circularly polarized is the","[""Helical"",""Small circular loop"",""Parabolic reflector"",""Yagi-Uda""]",0
+"The standard reference antenna for the directive gain is the","[""Infinitesimal dipole"",""Isotropic antenna"",""Elementary doublet"",""Half-wave dipole""]",1
+"Top loading is sometimes used with an antenna in order to increase its","[""Effective height"",""Bandwidth"",""Beamwidth"",""Input capacitance""]",0
+"Cassegrain feed is used with a parabolic reflector to","[""Increase the gain of the system"",""Increase the beamwidth of the system"",""Reduce the size of the main reflector"",""Allow the feed to be places at a convenient point""]",3
+"Zoning is used with a dielectric antenna in order to","[""Reduce the bulk of the lens"",""Increase the bandwidth of the lens"",""Permit pin-point focusing"",""Correct the curvature of the wavefront from a horn that is too short""]",0
+"A helical antenna is used for satellite tracking because of its","[""Circular polarization"",""Maneuverability"",""Broad bandwidth"",""Good front-to-back ratio""]",0
+"The discone antenna is","[""A useful direction-finding antenna"",""Used as a radar receiving antenna"",""Circularly polarized like other circular antennas"",""Useful as a UHF receiving antenna""]",3
+"One of the following is not omnidirectional antenna","[""Half-wave dipole"",""Log-periodic"",""Discone"",""Marconi""]",1
+"The polarization of a discone antenna is ______________.","[""Horizontal"",""Vertical"",""Omni"",""Directional""]",1
+"_____________ is the horizontal pointing angle of an antenna.","[""Right angle"",""Angle of elevation"",""Bandwidth"",""Azimuth""]",1
+"Which is a properly terminated antenna?","[""Rhombic"",""Hertz"",""Marconi"",""Dipole""]",0
+"____________ is a device that detects both vertically and horizontally polarized signals simultaneously.","[""Crystal"",""Orthomode transducer"",""Light transducer"",""Optoisolator""]",1
+"How much does the radiated power of an antenna increases if its current increased by 3.3 times?","[""6.6 times"",""3.3 times"",""10.89 times"",""9.9 times""]",2
+"What do you call the energy that was not radiated into space or completely transmitted?","[""Incident waves"",""Captured waves"",""Standing waves"",""Modulated waves""]",2
+"What is the estimated medium wind loading in the Philippines for antenna tower design?","[""200 kph"",""250 kph"",""300 kph"",""100 kph""]",0
+"The minimum number of turns a helix antenna must have","[""4"",""5"",""3"",""6""]",2
+"When testing transmitter to prevent interfering with other stations, which type of antenna must be used?","[""Dummy antenna"",""Herztian antenna"",""None"",""Void antenna""]",0
+"A device that radiates electromagnetic energy and/or intercepts electromagnetic radiation","[""Antenna"",""Transmitter"",""Transmission line"",""Transceiver""]",0
+"Determine the gain of a 6 ft parabolic dish operating at 1800 MHz","[""15.5 dB"",""30 dB"",""11.2 dB"",""28.17 dB""]",3
+"Radiation characteristic of a dipole","[""figure of eight"",""omnidirectional"",""bi-directional"",""unidirectional""]",2
+"An antenna which is not resonant at particular frequencies and so can be used over a wide band of frequencies is called","[""Aperiodic"",""Cassegrain"",""Top-loaded"",""Boresight""]",0
+"Two wires that are bent 90 degrees apart.","[""Rhombic"",""Hertz"",""Dipole"",""Log-periodic""]",2
+"Harmonic suppressor connected to an antenna","[""Tank circuit"",""M-derived filter"",""Low-pass filter"",""High-pass filter""]",2
+"Theoretical gain of a Herztian dipole","[""0 dB"",""1.76 dB"",""2.15 dB"",""3 dB""]",1
+"A helical antenna is used for satellite tracking because of","[""Maneuverability"",""Good front-to-back"",""Circular polarization"",""Broad bandwidth""]",2
+"A convenient method of determining antenna impedance","[""Reactance circle"",""Stub matching"",""Smith chart"",""Trial and error""]",2
+"Unity gain antenna.","[""Half-wave dipole"",""Rhombic"",""Dummy"",""Isotropic""]",3
+"EIRP stands for ______________________.","[""Effective isotropic reflected power"",""Effective isotropic refracted power"",""Efficient and ideal radiated power"",""Effective isotropic radiated power""]",3
+"Which of the following refers to the smallest beam of satellite antenna’s radiation pattern?","[""Global beam"",""Zoom beam"",""Spot beam"",""Hemispheric beam""]",2
+"A region in front of a parabolic antenna","[""Transmission zone"",""Fraunhofer"",""Fresnel"",""All of these""]",2
+"An antenna that can only receive a television signal.","[""Isotropic antenna"",""Reference antenna"",""TVRO"",""Yagi antenna""]",2
+"Radiation pattern of a discone","[""Figure of eight"",""Bi-directional"",""Omnidirectional"",""Unidirectional""]",2
+"Radio wave concentration in the direction of the signal emitted by a directional antenna.","[""Back lobe radiation"",""Transmitted signal"",""Side lobe radiation"",""Major lobe radiation""]",3
+"The reflector and director of an antenna array are considered as:","[""Transcendental elements"",""Feed-points"",""Driven elements"",""Parasitic elements""]",3
+"An electronic equipment used to measure standing wave ratio:","[""Altimeter"",""Multimeter"",""Reflectometer"",""Wavemeter""]",2
+"The product of the power supplied to the antenna and its gain relative to a half-wave dipole in a given direction.","[""Rated power"",""ERP"",""Peak envelope power"",""Carrier power""]",1
+"What makes an antenna physically long electronically short?","[""Adding C in series"",""Top loading"",""Adding L in series"",""All of these""]",0
+"The capture area of an antenna is directly proportional to the","[""Distance between transmitter and receiver"",""Power density of the signal"",""Gain of the antenna"",""Frequency of the received signal""]",2
+"A type of an undergrounded antenna is a/an ________________.","[""Hertz"",""Isotropic"",""Parabolic"",""Marconi""]",0
+"What is meant by antenna gain?","[""The ratio of the signal in the forward direction to the signal in the backward direction"",""The ratio of the amount of power produced by the antenna compared to the output power of the transmitter"",""The final amplifier gain minus the transmission line losses (including any phasing lines present)"",""The numeric ratio relating the radiated signal strength of an antenna to that of another antenna""]",3
+"It consists of a number of dipoles of equal size, equally spaces along a straight line with all dipoles fed in the same phase from the same source.","[""End-fire array"",""Yagi antenna"",""Log-periodic antenna"",""Broadside array""]",3

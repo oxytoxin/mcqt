@@ -1,0 +1,12 @@
+question,A,B,C,D,E,answer,explanation
+<p>The forward voltage drop for a germanium transistor is 0.7 V and for a silicon transistor is 0.3 V.</p>,True,False,,,,B,
+<p>When a depletion region of a transistor is large the barrier voltage is also large.</p>,True,False,,,,A,
+<p>The first integrated circuit was invented in 1959.</p>,True,False,,,,A,
+<p>A covalent bond is when atoms lose valence shell electrons.</p>,True,False,,,,B,
+"<p>When a voltage is placed across a semiconductor, free electrons move toward the negative voltage.</p>",True,False,,,,B,
+<p>The first transistor was invented in 1938.</p>,True,False,,,,B,
+<p>Germanium is the most widely used semiconductor material because of its stability at high temperatures.</p>,True,False,,,,B,
+"<p>The natural elements carbon, germanium, and silicon are semiconductors.</p>",True,False,,,,A,
+<p>The P-N junction is a barrier to electron flow.</p>,True,False,,,,A,
+"<p>The number of electrons in the outer shell of carbon, germanium, and silicon is 5.</p>",True,False,,,,B,
+<p>The n-type semiconductor material is doped by adding material with electron holes.</p>,True,False,,,,B,

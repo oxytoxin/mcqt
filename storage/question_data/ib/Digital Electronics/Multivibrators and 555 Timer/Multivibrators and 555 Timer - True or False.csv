@@ -1,0 +1,11 @@
+question,A,B,C,D,E,answer,explanation
+"<p>When extremely critical timing is required, a quartz crystal can be used.</p>",True,False,,,,A,
+"<p>In the 74121, which is nonretriggerable, any triggers that come in before the end of the timing cycle are ignored.</p>",True,False,,,,A,
+<p>A comparator simply outputs a HIGH or LOW based on a comparison of the voltage levels at its input.</p>,True,False,,,,A,
+<p>The 74S124 TTL chip is a voltage-controlled oscillator that will generate a specific frequency at <i>V</i><sub>out</sub>.</p>,True,False,,,,B,
+<p>A single Schmitt trigger inverter is all that is needed to build a simple astable multivibrator.</p>,True,False,,,,B,
+<p>The bistable multivibrator is an <i>R-C</i> flip-flop.</p>,True,False,,,,B,
+"<p>When the 74123, a retriggerable monostable multivibrator device, ends its timing cycle it must be started all over again.</p>",True,False,,,,B,
+<p>Timing accuracy of more than eight significant digits can be easily achieved by using quartz crystals.</p>,True,False,,,,B,
+"<p>A multivibrator is a circuit that changes between two digital levels on a continuous, free-running basis or on demand.</p>",True,False,,,,A,
+<p>A monostable multivibrator is commonly called a two shot.</p>,True,False,,,,B,

@@ -1,0 +1,12 @@
+question,A,B,C,D,E,answer,explanation
+<p>Using 4 kWh of power is equivalent to using 2000 W of power for 2 h.</p>,True,False,,,,A,
+<p>The current through a resistor can be found by dividing the resistor's voltage by its ohmic value.</p>,True,False,,,,A,
+<p>The voltage drop across a resistor is simply a difference of potential across that resistor.</p>,True,False,,,,A,
+<p>Doubling the voltage across a resistor will cut the current by half.</p>,True,False,,,,B,
+<p>Current and voltage have a nonlinear relationship.</p>,True,False,,,,B,
+<p>The efficiency rating of a power supply is determined by internal power loss.</p>,True,False,,,,A,
+<p>The value of a resistor is in direct proportion to its power handling capabilities.</p>,True,False,,,,B,
+<p>Heat produced by a resistor is generally a desirable effect.</p>,True,False,,,,B,
+<p>Power is a measure of how fast current is flowing.</p>,True,False,,,,B,
+"<p><p><img src=""/_files/images/basic-electronics/basics/tfq3_1005_1.gif""/></p><p>If the current in the given circuit is increased to 24 mA, the source voltage must have tripled.</p></p>",True,False,,,,B,
+"<p>Generally, increasing the resistance in a circuit will decrease the current.</p>",True,False,,,,A,

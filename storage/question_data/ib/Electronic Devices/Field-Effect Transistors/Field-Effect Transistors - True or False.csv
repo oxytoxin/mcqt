@@ -1,0 +1,12 @@
+question,A,B,C,D,E,answer,explanation
+"<p>When biased as a variable resistor, JFET resistance (R<sub>DS</sub>) increases as V<sub>GS</sub> becomes more negative.</p>",True,False,,,,A,
+<p>The arrow on the schematic symbol for a MOSFET indicates the channel material type.</p>,True,False,,,,B,
+<p>A VMOS device can handle higher power and voltage than a conventional MOSFET.</p>,True,False,,,,A,
+<p>It is not necessary to exercise any particular care in handling a MOSFET.</p>,True,False,,,,B,
+<p>The Q-point in a JFET with voltage-divider bias is more stable than in a self-biased JFET.</p>,True,False,,,,A,
+<p>One advantage of a JFET over the BJT is its high input resistance.</p>,True,False,,,,A,
+<p>An E-MOSFET can be operated with either positive or negative values of V<sub>GS</sub>.</p>,True,False,,,,B,
+<p>The MOSFET has no pn junction.</p>,True,False,,,,A,
+<p>The JFET operates with a reverse-biased pn junction (gate-to source).</p>,True,False,,,,A,
+"<p>The three FET terminals are called source, base, and drain.</p>",True,False,,,,B,
+<p>The E-MOSFET has no physical channel.</p>,True,False,,,,A,

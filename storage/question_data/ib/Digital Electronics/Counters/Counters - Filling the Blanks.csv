@@ -1,0 +1,49 @@
+question,A,B,C,D,E,answer,explanation
+<p>A reliable method for eliminating decoder spikes is the technique called ________.</p>,strobing,feeding,wagging,waving,,A,
+<p>A decade counter will count through decimal ________.</p>,10,9,15,0,,B,
+<p>One method of troubleshooting involves ________ the circuit under test with a ________ or ________ and then observing the output to check for proper bit patterns.</p>,"checking, voltmeter, ohmmeter","exercising, stimulus, test pattern","testing, scope, logic analyzer","smashing, hammer, axe",,B,
+"<p>In VHDL, if we need to remember a value it must be stored in a ________.</p>",function,type declaration,variable,process,,A,
+<p>A glitch that appears on the decoded output of a ripple counter is often difficult to see on an oscilloscope because ________.</p>,it is a random event,it occurs less frequently than the normal decoded output,it is very fast,all of the above,,D,
+<p>It is a characteristic of ring counters that the ________ equal to the number of flip-flops in the register.</p>,number of invalid states is,number of CASE statements is,modulus is,other states are,,C,
+<p>Many parallel counters use ________ presetting whereby the counter is preset on the active transition of the same clock signal that is used for counting.</p>,feedback,synchronous,ripple,asynchronous,,B,
+<p>A D flip-flop can be made to toggle by ________.</p>,"connecting to <span class=""overline"">Q</span> to D",connecting to Q to D,connecting D low,connecting D high,,A,
+"<p><p>The given circuit represents a(n) ________.</p>
+<p><img src=""/_files/images/digital-electronics/digital-systems/fbq7_1010_1.gif""/></p></p>",four-bit binary counter,asynchronous BCD decade counter,synchronous BCD decade counter,BCD-to-decimal decoder,,C,
+"<p><p>The circuit shown below is a ________.</p>
+<p><img src=""/_files/images/digital-electronics/digital-systems/fbq7_1017_1.jpg""/></p></p>",Johnson counter,ring counter,decade counter,BCD counter,,A,
+<p>A(n) ________ one-shot starts a pulse in response to a trigger and will restart the internal pulse timer every time a subsequent trigger edge occurs before the pulse is complete.</p>,non-retriggerable,retriggerable,high-level triggered,edge-triggered,,B,
+<p>Assume you want to determine the timing diagram for a 4-bit counter using an oscilloscope. The best choice for an oscilloscope trigger signal is ________.</p>,the most significant bit (MSB),the least significant bit (LSB),the clock signal,from a composite of the MSB and LSB,,C,
+"<p><p>Referring to the function table given below, taking the <i>CLEAR</i>, <i>S</i>1, and <i>S</i>0 inputs all HIGH ________.</p>
+<p><img src=""/_files/images/digital-electronics/digital-systems/fbq7_1022_1.jpg""/></p></p>",will inhibit the operation of the register,will reset the parallel registers and inhibit the serial data inputs,will cause the parallel data inputs to be loaded and passed to the parallel data outputs,will depend on what values are loaded into the parallel data inputs,,C,
+"<p>Assume a 4-bit ripple counter has a failure in the second flip-flop such that it ""locks up."" The third and fourth stages will ________.</p>",continue to count with correct outputs,continue to count but have incorrect outputs,stop counting,turn into molten silicon,,C,
+"<p>In order to use a shift register as a counter, ________.</p>",the register's serial input is the counter input and the serial output is the counter output,the parallel inputs provide the input signal and the output signal is taken from the serial data output,serial in/serial out register must be used,the serial output of the register is connected back to the serial input of the register,,D,
+"<p>In order to check the CLR function of a counter, ________.</p>",apply the active level to the <i>CLR</i> input and check all of the <i>Q</i> outputs to see if they are all in their reset state,ground the <i>CLR</i> input and check to be sure that all of the <i>Q</i> outputs are LOW,connect the <i>CLR</i> input to <i>V</i><sub>cc</sub> and check to see if all of the <i>Q</i> outputs are HIGH,connect the <i>CLR</i> to its correct active level while clocking the counter; check to make sure that all of the <i>Q</i> outputs are toggling,,A,
+"<p><p>The circuit shown below is used for ________, and for the inputs shown, the DATA output will be ________.</p>
+<p><img src=""/_files/images/digital-electronics/digital-systems/fbq7_1014_1.jpg""/></p></p>","multiplexing, 1","parallel-to-serial conversion, 0","demultiplexing, 0","parallel-to-serial conversion, HIGH",,B,
+"<p><p>________ is the output frequency of the counter shown below.</p>
+<p><img src=""/_files/images/digital-electronics/digital-systems/fbq7_1020_1.jpg""/></p></p>",4 MHz,20 kHz,210.5 kHz,800 Hz,,B,
+"<p>An asynchronous binary up counter, made from a series of leading edge-triggered flip-flops, can be changed to a down counter by ________.</p>","taking the output on the other side of the flip-flops (<img src=""/_files/images/digital-electronics/digital-fundamentals/qoverbar.gif""/> instead of Q)","clocking of each succeeding flip-flop from the other side (<img src=""/_files/images/digital-electronics/digital-fundamentals/qoverbar.gif""/> instead of Q)",changing the flip-flops to trailing edge triggering,all of the above,,D,
+<p>A 4-bit binary up counter has an input clock frequency of 20 kHz. The frequency of the most significant bit is ________.</p>,1.25 kHz,2.50 kHz,160 kHz,320 kHz,,A,
+<p>Modulus refers to ________.</p>,a method used to fabricate decade counter units,"the modulus of elasticity, or the ability of a circuit to be stretched from one mode to another","an input on a counter that is used to set the counter state, such as UP/DOWN",the maximum number of states in a counter sequence,,D,
+"<p><p>The circuit shown below is a ________.
+
+<p><img src=""/_files/images/digital-electronics/digital-systems/fbq7_1015_1.jpg""/></p></p></p>",parallel in/serial out register,serial in/parallel load register,multiplexer,demultiplexer,,A,
+<p>A sequential circuit design is used to ________.</p>,count up,count down,decode an end count,count in a random order,,D,
+<p>The MOD-10 counter is also referred to as a ________ counter.</p>,decade,strobing,BCD,circuit,,A,
+"<p>In general, when using a scope to troubleshoot digital systems the instrument should be triggered by ________.</p>",the A channel or channel 1,"the vertical input mode, when using more than one channel",the system clock,"line sync, in order to observe troublesome power line glitches",,C,
+<p>________ counters are often used whenever pulses are to be counted and the results displayed in decimal.</p>,Synchronous,Bean,Decade,BCD,,D,
+<p>The technique used by one-shots to respond to an edge rather than a level is called ________.</p>,level management,edge triggering,trigger input,edge trapping,,A,
+<p>A J-K flip-flop is reset and must stay reset after the clock pulse. This transition requires that ________.</p>,J and K inputs must both = 0,"J must be 0, K doesn't matter","J doesn't matter, K must = 0",J must be 0 and K must be 1,,B,
+"<p><p>________ is the modulus of the counter shown below.</p>
+<p><img src=""/_files/images/digital-electronics/digital-systems/fbq7_1020_1.jpg""/></p></p>",200,19,0.005,5000,,A,
+"<p>The ________ counter in the Altera library has controls that allow it to count up or down, and perform synchronous parallel load and asynchronous cascading.</p>",74134,LPM,synchronous,AHDL,,B,
+<p>A BCD counter has ________ states.</p>,8,9,10,11,,C,
+<p>The decimal equivalent of the largest number that can be stored in a 4-bit binary counter is ________.</p>,8,15,16,32,,B,
+<p>The minimum number of flip-flops that can be used to construct a modulus-5 counter is ________.</p>,3,5,8,10,,A,
+<p>The duty cycle of the most significant bit from a 4-bit (0–9) BCD counter is ________.</p>,10%,20%,50%,80%,,B,
+"<p>Shift-register counters use ________, which means that the output of the last FF in the register is connected back to the first FF in some way.</p>",MOD,feedback,strobing,switchbacks,,B,
+"<p><p>The counter circuit and associated waveforms shown below are for a(n) ________ counter, and the correct output waveform for <i>Q<sub>B</sub></i> is shown by waveform ________.</p>
+<p><img height=""300"" src=""/_files/images/digital-electronics/digital-systems/fbq7_1006_1.gif"" width=""250""/></p></p>","synchronous, a","asynchronous, b","synchronous, c","asynchronous, d",,C,
+<p>Asynchronous counters are often called ________ counters.</p>,toggle,ripple,binary,flip-flop,,B,
+"<p><p>The given circuit is a(n) ________.</p>
+<p><img src=""/_files/images/digital-electronics/digital-systems/fbq7_1008_1.gif""/></p></p>",three-bit synchronous binary counter,eight-bit asynchronous binary flip-flop,two-bit asynchronous binary counter,four-bit asynchronous binary counter,,D,

@@ -1,0 +1,765 @@
+﻿question,choices,answer
+"What is defined as the distance the light travels in a vacuum in 1/299,792,458 second?","[""Yard"",""Feet"",""Meter"",""Inch""]",2
+"What is the SI unit of work?","[""Newton"",""Watt"",""Newton-Second"",""Joule""]",3
+"What is the SI unit of power?","[""Newton"",""Watt"",""Newton-Second"",""Joule""]",1
+"What is the SI unit of temperature?","[""Fahrenheit"",""Kelvin"",""Celsius"",""Rankine""]",1
+"What is the SI unit of luminous intensity?","[""Candela"",""Lumens"",""Lux"",""Candlepower""]",0
+"What is the unit of relative intensity?","[""Pa"",""N-m"",""C.N-m\/s"",""Unitless""]",3
+"What is the SI unit of pressure?","[""Pa"",""N-m"",""N\/m"",""N-m\/s""]",0
+"Which one is equivalent of the unit “Pascal’?","[""N\/nm<sup>2<\/sup>"",""N\/m<sup>2<\/sup>"",""N\/m"",""D.N\/nm""]",1
+"The pressure of 1 bar is equivalent to how many pascals?","[""1,000,000"",""100,000"",""10,000"",""1000""]",1
+"What is the SI unit of intensity?","[""Joule\/m<sup>2<\/sup>"",""kg\/m<sup>2<\/sup>"",""N\/m<sup>2<\/sup>"",""watt\/m<sup>2<\/sup>""]",3
+"What is the unit of potential difference?","[""Watt"",""Coulomb"",""Volt"",""Weber""]",2
+"Which of the following is equivalent to a volt?","[""watt\/coulomb"",""joule\/coulomb"",""joule\/watt"",""watt\/joule""]",1
+"One election volt is equivalent to _______ joules.","[""1.6 x 10^-17"",""1.6 x 10^-18"",""1.6 x 10 ^-19"",""1.6 x 10^-20""]",2
+"What is the unit of capacitance?","[""Farad"",""Weber"",""Coulomb"",""Gauss""]",0
+"Which of the following is equivalent to the unit “farad”?","[""coulomb\/volt"",""joule\/volt"",""joule\/coulomb"",""coulomb\/joule""]",0
+"What is the unit of electric current?","[""Volt"",""Watt"",""Ampere"",""Coulomb""]",2
+"Which of the following is equivalent to the unit “ampere”?","[""joule\/second"",""volt\/second"",""coulomb\/second"",""watt\/second""]",2
+"What is the unit of resistance?","[""Ohm"",""Watt"",""Volt"",""Ampere""]",0
+"Ohm is equivalent to which of the following?","[""coulomb\/ampere"",""watt\/ampere"",""volt\/ampere"",""joule\/ampere""]",2
+"What is the unit of luminous intensity?","[""Footcandle"",""Lumen"",""Candela"",""Lux""]",2
+"What is the unit of luminous flux?","[""Candela"",""Lumen"",""Lux"",""Footcandle""]",1
+"Which of the following is equivalent to the unit “candela”?","[""lumen\/m<sup>2<\/sup>"",""footcandle\/steradian"",""lux\/steradian"",""lumen\/steradian""]",3
+"What is the unit of luminous efficiency?","[""lumen\/watt"",""lumen\/volt"",""lumen\/ampere"",""lumen\/coulomb""]",0
+"What is the unit of illumination?","[""Lux"",""Lumen"",""Candela"",""Lumen\/watt""]",0
+"Lux is equivalent to which combination of units?","[""lumen\/cm<sup>2<\/sup>"",""lumen\/ft<sup>2<\/sup>"",""lumen\/m<sup>2<\/sup>"",""lumen\/in<sup>2<\/sup>""]",2
+"Footcandle is equivalent to which combination of units?","[""lumen\/cm<sup>2<\/sup>"",""lumen\/ft<sup>2<\/sup>"",""lumen\/m<sup>2<\/sup>"",""lumen\/in<sup>2<\/sup>""]",1
+"How many dynes are there in one newton?","[""10,000"",""100,000"",""1,000,000"",""1000""]",1
+"What is an elemental unit of energy?","[""Quartz"",""Quark"",""Photon"",""Quantum""]",3
+"What refers to the mass which is accelerated at the rate of one foot per second when acted on by a force of one pound?","[""Slug"",""Erg"",""Dyne"",""BTU""]",0
+"The size of some bacteria and living cells is in the order of _______.","[""centimetre"",""millimetre"",""nanometer"",""micrometer""]",3
+"The size of the largest atom is in the order of ________.","[""centimeter"",""millimeter"",""nanometer"",""micrometer""]",2
+"The mass of a grain of salt is in the order of _______.","[""milligram"",""gram"",""microgram"",""nanogram""]",0
+"Which one is equivalent to the unit ‘joule’?","[""Newton-second"",""Newton-meter"",""Newton-meter per second"",""Newton-meter per second squared""]",1
+"Which one is equivalent to the unit “watt”?","[""Newton-second"",""Newton-meter"",""Newton-meter per second"",""Newton-meter per second squared""]",2
+"One horsepower is equivalent to how many watts?","[""550"",""746"",""33,000"",""250""]",1
+"The “kilowatt-hour” is a unit of _______.","[""work"",""energy"",""power"",""work or energy""]",3
+"The “kilowatt-hour” is a unit of _______.","[""work"",""energy"",""power"",""work or energy""]",3
+"The English unit “slug” is a unit of _______.","[""mass"",""weight"",""force"",""energy""]",0
+"How is sound intensity measured?","[""In beats"",""In decibels"",""In phons"",""In sones""]",1
+"An electron volt is the energy required by an electron that has been accelerated by a potential difference of how many volts?","[""1 volt"",""0.1 volts"",""10 volts"",""0.01 volts""]",0
+"What is a vector with a magnitude of one and with no unit?","[""Single vector"",""Unit vector"",""Dot vector"",""Scalar vector""]",1
+"What is the purpose of a unit vector?","[""To describe the direction in space"",""To indicate a magnitude without reference to direction"",""To serve as comparison with other vectors"",""To set a standard among vectors""]",0
+"What is another term for a scalar product of two vectors?","[""Cross product"",""Vector product"",""Dot product"",""Plus product""]",2
+"What is another term for vector product of two vectors?","[""Cross product"",""Vector product"",""Dot product"",""Plus product""]",0
+"The scalar product of two perpendicular vectors is always _______.","[""equal to 1"",""greater than 1"",""less than 1"",""equal to 0""]",3
+"The vector product of two parallel or antiparallel vectors is always ______.","[""equal 1"",""greater than 1"",""less than 1"",""equal to 0""]",3
+"The vector product of any vector with itself is ______.","[""equal to 1"",""greater than 1"",""less than 1"",""equal to 0""]",3
+"What refers to physical quantities that are completely specified by just a number and a unit or physical quantities that have magnitudes only?","[""Scalar quantities"",""Vector product"",""Dot product"",""Vector quantities""]",0
+"What refers to physical quantities that have a magnitude and a direction?","[""Scalar quantities"",""Vector quantities"",""Dot product"",""Vector quantities""]",3
+"The closeness of an indication or reading of a measurement device to the actual value of the quantity being measured. Usually expressed as ± percent of full scale output or reading.","[""Accuracy"",""Compression"",""Chemical Equilibrium"",""Distance""]",0
+"The rate of change of angular velocity with respect to time.","[""Angular Velocity"",""Acceleration"",""Angular Acceleration"",""none of these""]",2
+"What is a physical quantity expressing the size of a part of a surface?","[""Lever"",""Area"",""Measurement"",""Bend""]",1
+"The rate of change of angular displacement with respect to time.","[""Angular Velocity"",""Load"",""Instantaneous"",""Brittle""]",0
+"A rigid, usually horizontal, structural element","[""Beam Bridge"",""Force"",""Core"",""Beam""]",3
+"A simple type of bridge, composed of horizontal beams supported by vertical posts","[""Beam"",""Brace"",""Beam Bridge"",""Buckle""]",2
+"To curve; bending occurs when a straight material becomes curved; one side squeezes together in compression, and the other side stretches apart in tension.","[""Tension"",""Brace"",""Buckle"",""none of these""]",3
+"Is mechanics applied to biology (Fung). This includes research and analysis of the mechanics of living organisms and the application of engineering principles to and from biological systems.","[""Biomechanics"",""engineering mechanics"",""mechanics"",""none of these""]",0
+"A structural support;","[""Brittle"",""Cable"",""Brace"",""Cantilever""]",2
+"Characteristic of a material that fails without warning; brittle materials do not stretch or shorten before failing.","[""Beam"",""Brace"",""Beam Bridge"",""Brittle""]",3
+"To bend under compression.","[""Brittle"",""compression"",""bend"",""Buckle""]",3
+"A structural element formed from steel wire bound in strands; the suspending element in abridge; the supporting element in some dome roofs.","[""Beam"",""Cable"",""Brace"",""Compression""]",1
+"A projecting structure supported only at one end, like a shelf bracket or a diving board.","[""Cantilever"",""Equilibrium"",""Cable"",""Irreversible""]",0
+"A condition in which a chemical reaction is occurring at equal rates in its forward and reverse directions, so that the concentrations of the reacting substances do not change with time.","[""Chemical Equilibrium"",""Equilibrium"",""force"",""Pile""]",0
+"A pressing force that squeezes a material together.","[""force"",""Compression"",""steel"",""modulus""]",1
+"Central region of a skyscraper; usually houses elevator and stairwell.","[""Core"",""physical constant"",""gravitational attraction"",""dimension""]",0
+"To change shape","[""dimension"",""deform"",""deformation"",""instantaneous""]",1
+"Is a numerical description of how far apart objects are at any given moment in time. In physics or everyday discussion, distance may refer to a physical length, a period of time, or estimation based on other criteria. In mathematics, distance must meet more rigorous criteria.","[""Force"",""Distance"",""mass"",""deformation""]",1
+"Is the mathematical description of an object or substance’s tendency to be deformed elastically (i.e. non-permanently) when a force is applied to it.","[""modulus of elasticity"",""fluid power"",""Hydraulics"",""Gravitation""]",0
+"A profession in which acknowledge of math and natural science is applied to develop ways to utilize the materials and forces of nature for the benefit of all human beings.","[""Mechanics"",""Engineering Mechanics"",""Engineering"",""None of these""]",2
+"A condition in which all acting influences are canceled by others, resulting in a stable, balanced, or unchanging system.","[""Chemical Equilibrium"",""Equilibrium"",""invariant mass"",""Gravitation""]",1
+"The capacity to do work or cause physical change; energy, strength, or active power: the force of an explosion.","[""Inertia"",""Quantity"",""Lever"",""Force""]",3
+"Is a natural phenomenon by which all objects with mass attract each other? In everyday life, gravitation is most commonly thought of as the agency that gives objects weight.","[""gravitational attraction"",""universal gravitation"",""Gravitation"",""mass""]",2
+"Is a physical constant involved in the calculation of the gravitational attraction between objects with mass? It appears in Newton’s law of universal gravitation and in Einstein’s theory of general relativity.","[""gravitational attraction"",""universal gravitation"",""Gravitation"",""gravitational constant""]",3
+"Is the measurement of vertical distance, but has two meanings in common use. It can either indicate how “tall” something is, or how “high up” it is.","[""magnitude"",""Height"",""distance"",""none of these""]",1
+"Is a topic of science and engineering dealing with the mechanical properties of liquids. Hydraulics is part of the more general discipline of fluid power.","[""Hydraulics"",""physical body"",""fluid power"",""momentum""]",0
+"The tendency of a body to resist acceleration; the tendency of a body at rest to remain at rest or of a body in straight line motion to stay in motion in a straight line unless acted on by an outside force.","[""Inertia"",""energy"",""force"",""none of these""]",0
+"Occurring or completed without perceptible delay","[""volume"",""Shear"",""Instantaneous"",""none of these""]",2
+"Is the same for all frames of reference? A mass for a particle is <b><i>m</i></b> in the equation","[""mass"",""invariant mass"",""force"",""all of these""]",1
+"That cannot be revoked or undone.","[""measurement"",""Irreversible"",""base unit"",""none of these""]",1
+"A device connecting two or more adjacent parts of a structure; a roller joint allows adjacent parts to move controllably past one another; a rigid joint prevents adjacent parts from moving or rotating past one another.","[""energy"",""velocity"",""force-field"",""joint""]",3
+"Is the base unit of mass in the International System of Units (known also by its French-language initials “SI”).","[""mass"",""measurement"",""weight"",""kilogram""]",3
+"Is the long dimension of any object? The length of a thing is the distance between its ends, its linear extent as measured from end to end.","[""distance"",""rigid"",""free body"",""length""]",3
+"A simple machine consisting of a rigid bar pivoted on a fixed point and used to transmit force, as in raising or moving a weight at one end by pushing down on the other.","[""Inertia"",""Quantity"",""Lever"",""Force""]",2
+"Weight distribution throughout a structure; loads caused by wind, earthquakes, and gravity, for example, affect how weight is distributed throughout a structure.","[""Angular Velocity"",""Load"",""Instantaneous"",""Brittle""]",1
+"A property by which it can be large or smaller than other objects of the same kind; in technical terms, an ordering of the class of objects.","[""magnitude"",""Height"",""distance"",""none of these""]",0
+"Is a fundamental concept in physics, roughly corresponding to the intuitive idea of “how much matter there is in an object”. Mass is a central concept of classical mechanics and related subjects, and there are several definitions of mass within the framework of relativistic kinematics.","[""mass"",""measurement"",""weight"",""kilogram""]",0
+"Is commonly defined as the substance of which physical objects are composed, not counting the contribution of various energy or force-fields, which are not usually considered to be matter per se.","[""mass"",""magnitude"",""matter"",""none of these""]",2
+"Science of the action of forces on material bodies. It forms a central part of all physical science and engineering.","[""engineering mechanics"",""mechanics"",""mechanism"",""none of these""]",1
+"Is the estimation of the magnitude of some attribute of an object, such as its length or weight, relative to a unit of measurement?","[""mass"",""measurement"",""weight"",""kilogram""]",1
+"Is the product of the mass and velocity of an object? Motion – The act or process of changing position or place.","[""Hydraulics"",""physical body"",""fluid power"",""momentum""]",3
+"The three laws proposed by Sir Isaac Newton to define the concept of a force and describe motion, used as the basis of classical mechanics.","[""law of inertia"",""Newton\u2019s Law of Motion"",""Newton\u2019s Law"",""none of these""]",1
+"A long, round pole of wood, concrete, or steel driven into the soil by pile drivers","[""Chemical Equilibrium"",""Equilibrium"",""force"",""Pile""]",3
+"Is a collection of masses, taken to be one. For example, a cricket ball can be considered an object but the ball also consists of many particles.","[""Hydraulics"",""physical body"",""fluid power"",""momentum""]",1
+"Is a kind of property which exists as magnitude or multitude?","[""magnitude"",""fluid power"",""quantity"",""none of these""]",2
+"Ability to resist deformation when subjected to a load; the measure of a structure’s ability not to change shape when subjected to a load.","[""distance"",""rigid"",""free body"",""length""]",1
+"Is the effort to understand, or to understand better, how nature works, with observable physical evidence as the basis of that understanding.","[""physics"",""science"",""physical evidence"",""load""]",1
+"A force that causes parts of a material to slide past one another in opposite directions.","[""force"",""stress"",""shear"",""momentum""]",1
+"Is a stress state where the stress is parallel or tangential to a face of the material, as opposed to normal stress when the stress is perpendicular to the face.","[""shear stress"",""tensile stress"",""shear"",""none of these""]",0
+"Sediment particles ranging from 0.004 to0.06 mm (0.00016 to 0.0024 inch) in diameter.","[""silt"",""stress"",""shear"",""momentum""]",0
+"Is often used to describe the measurement of the steepness, incline, gradient, or grade of a straight line. A higher slope value indicates a steeper incline.","[""shear"",""stiff"",""slope"",""none of these""]",2
+"Ability to resist collapse and deformation;","[""stable"",""shear"",""stiff"",""none of these""]",0
+"Characteristic of a structure that is able to carry a realistic load without collapsing or deforming significantly.","[""steel"",""stability"",""stiff"",""stable""]",1
+"An alloy of iron and carbon that is hard, strong, and malleable.","[""stable"",""shear"",""stiff"",""none of these""]",3
+"Ability to resist deformation;","[""steel"",""stability"",""stiff"",""stable""]",2
+"Defined as force per unit area, is a measure of the intensity of the total internal forces acting within a body across imaginary internal surfaces, as a reaction to external applied forces and body forces.","[""silt"",""stress"",""shear"",""momentum""]",1
+"Is a two-dimensional manifold.","[""surface"",""vector"",""silt"",""volume""]",0
+"A bridge in which the roadway deck is suspended from cables that pass over two towers; the cables are anchored in housings at either end of the bridge","[""surface"",""vector"",""suspension bridge"",""tensile strength""]",2
+"The component of linear acceleration tangent to the path of a particle moving in a circular path.","[""tension"",""tangential acceleration"",""tensile"",""tension ring""]",1
+"Is the stress state leading to expansion; that is, the tensile stress may be increased until the reach of tensile strength, namely the limit state of stress.","[""tension"",""tension ring"",""tensile"",""tensile stress""]",3
+"A stretching force that pulls on a material.","[""tension"",""tension ring"",""tensile"",""tensile stress""]",0
+"A support ring that resists the outward force pushing against the lower sides of a dome.","[""tension"",""tension ring"",""tensile"",""tensile stress""]",1
+"Is a vector that measures the tendency of a force to rotate an object about some axis. The magnitude of a torque is defined as force times its lever arm. Just as a force is a push or a pull, a torque can be thought of as a twist.","[""tension"",""tension ring"",""torque"",""tensile stress""]",2
+"A rigid frame composed of short, straight pieces joined to form a series of triangles or other stable shapes.","[""truss"",""tension"",""torque"",""tensile stress""]",0
+"Not in balance or in proper balance.","[""unbalanced"",""torque"",""truss"",""stress""]",0
+"A directed line segment. As such, vectors have magnitude and direction. Many physical quantities, for example, velocity, acceleration, and force, are vectors. Vectors are widely used in mathematical physics.","[""surface"",""vector"",""suspension bridge"",""tensile strength""]",1
+"Of a solid object is the three-dimensional concept of how much space it occupies, often quantified numerically. One dimensional figures and two-dimensional shapes are assigned zero volume in the three-dimensional space.","[""volume"",""Shear"",""Instantaneous"",""none of these""]",0
+"Is a measurement of the gravitational force acting on an object?","[""mass"",""measurement"",""weight"",""kilogram""]",2
+"The maximum displacement of a particle in vibration relative to the position of the equilibrium.","[""Wave front"",""Frequency"",""Amplitude"",""Period""]",2
+"A type of wave in which the particles vibrate in direction at right angles to the direction of the wave travel.","[""Wave front"",""Transverse waves"",""Longitudinal waves"",""wave length""]",1
+"A type of wave in which individual particles vibrate in a direction parallel to the direction of the wave travel.","[""Longitudinal waves"",""Stationary wave"",""wave front"",""Transverse waves""]",0
+"A surface that passes through all points in the wave those are in the same phase.","[""Longitudinal waves"",""Transverse waves"",""Wave front"",""Stationary wave""]",2
+"Interference in which two waves arrive at a point in phase with each other and the resulting amplitude is the sum of the amplitudes is the sum of the amplitudes of the two original waves.","[""Constructive interference"",""Destructive interference"",""Opposing interference"",""None of these""]",0
+"The waves arrive a half wave out of phase and the resultant amplitude is the difference between the two amplitude.","[""Constructive interference"",""Destructive interference"",""Opposing interference"",""None of these""]",1
+"A principle stating that each point on a wave front may be considered as a new source of disturbance sending wavelets in forward direction. At any instant the new wave front is the surface tangent to all wave length.","[""Huygen\u2019s principle"",""Hygen\u2019s principle"",""Hugen\u2019s principle"",""Hegyn\u2019s principle""]",0
+"The change of direction of a wave due to speed changes.","[""Dispersion"",""Refraction"",""wave front"",""wave misalignment""]",1
+"Wave produced when two waves of equal amplitude and frequency travel in opposite directions in a medium.","[""Stationary Wave"",""Antinodes"",""wave front"",""wave misalignment""]",0
+"Points in a stationary wave at which the amplitude is zero.","[""antinodes"",""nodes"",""pronodes"",""none of these""]",1
+"Points of maximum amplitude.","[""antinodes"",""nodes"",""pronodes"",""none of these""]",0
+"A disturbance caused by a vibrating body and sense by the ear.","[""force vibration"",""resonance"",""sound"",""intensity""]",2
+"Set up by an elastic body by another vibrating body.","[""resonance"",""forced vibration"",""amplitude"",""super sonic wave""]",1
+"Forced vibration where the natural frequency of the coupled body is the same as that of the vibrator.","[""resonance"",""amplitude"",""forced vibration"",""super sonic wave""]",0
+"Effect due to the combined action of two set of waves passing through a single region at the same time.","[""interference"",""Doppler effect"",""refraction"",""ultrasonic""]",0
+"The apparent frequency of a sound source is changed if there is relative motion between the source and the observer.","[""Doppler effect"",""supersonic"",""interference"",""ultrasonic""]",0
+"A highly concentrated pressure wave caused by an object flying faster than speed of sound.","[""sonic-boom shock wave"",""ultrasonic"",""supersonic"",""resonance""]",0
+"A speed greater than the speed of sound.","[""supersonic"",""ultrasonic"",""infrasonic"",""micro sonic""]",0
+"Sound produced by an object that vibrates with a frequency above the range of human hearing.","[""supersonic"",""ultrasonic"",""infrasonic"",""micro sonic""]",1
+"The study of sound production and transmission in relation to the human sense of hearing.","[""music"",""acoustic"",""noise"",""pitch""]",1
+"A sound produce by a regular vibration.","[""musical tone"",""acoustic"",""noise"",""pitch""]",0
+"Any undesirable sound.","[""musical tone"",""acoustic"",""noise"",""pitch""]",2
+"The highness or lowness of a sound as characterized by the frequency of vibration.","[""musical tone"",""acoustic"",""noise"",""pitch""]",3
+"Refers to the complexity of the sound.","[""musical tone"",""acoustic"",""noise"",""pitch""]",3
+"The magnitude of hearing sensation produced by the sound.","[""intensity"",""intensity level"",""loudness"",""bell""]",2
+"The rate at which sound energy flows through a unit area.","[""intensity"",""intensity level"",""loudness"",""bell""]",0
+"The logarithm of the ratio of the intensity of a sound to an arbitrary chosen intensity.","[""intensity"",""intensity level"",""loudness"",""bell""]",1
+"The unit of intensity.","[""intensity"",""intensity level"",""loudness"",""bel""]",3
+"The succession of tones related to each other.","[""musical tone"",""intensity level"",""musical pitch"",""musical scale""]",3
+"The persistence of sound in a enclose space.","[""echo"",""reverberation"",""reflection"",""complexity""]",1
+"A type of wave in which individual particles vibrate in a direction parallel to the direction of the wave travel.","[""Longitudinal waves"",""Stationary wave"",""Wave front"",""Transverse waves""]",0
+"A surface that passes through all points in the wave those are in the same phase.","[""Longitudinal waves"",""Transverse waves"",""Wave front"",""Stationary wave""]",2
+"Interference in which two waves arrive at a point in phase with each other and the resulting amplitude is the sum of the amplitudes is the sum of the amplitudes of the two original waves.","[""Constructive interference"",""Destructive interference"",""Opposing interference"",""None of these""]",0
+"The waves arrive a half wave out of phase and the resultant amplitude is the difference between the two amplitude.","[""Destructive interference"",""Constructive interference"",""Opposing interference"",""None of these""]",0
+"A principle stating that each point on a wave front may be considered as a new source of disturbance sending wavelets in forward direction. At any instant the new wave front is the surface tangent to all wave length.","[""Huygen\u2019s principle"",""Hygen\u2019s principle"",""Hugen\u2019s principle"",""Hegyn\u2019s principle""]",0
+"The change of direction of a wave due to speed changes.","[""Dispersion"",""Refraction"",""Wave front"",""Wave misalignment""]",1
+"Wave produced when two waves of equal amplitude and frequency travel in opposite directions in a medium.","[""Stationary Wave"",""Antinodes"",""wave front"",""wave misalignment""]",0
+"Points in a stationary wave at which the amplitude is zero.","[""antinodes"",""nodes"",""pronodes"",""none of these""]",1
+"Points of maximum amplitude.","[""antinodes"",""nodes"",""pronodes"",""none of these""]",0
+"A disturbance caused by a vibrating body and sense by the ear.","[""force vibration"",""resonance"",""sound"",""intensity""]",2
+"Set up by an elastic body by another vibrating body.","[""resonance"",""amplitude"",""forced vibration"",""super sonic wave""]",2
+"Forced vibration where the natural frequency of the coupled body is the same as that of the vibrator.","[""resonance"",""amplitude"",""forced vibration"",""super sonic wave""]",0
+"Effect due to the combined action of two set of waves passing through a single region at the same time.","[""interference"",""Doppler effect"",""refraction"",""ultrasonic""]",0
+"The apparent frequency of a sound source is changed if there is relative motion between the source and the observer.","[""Doppler effect"",""supersonic"",""interference"",""ultrasonic""]",0
+"A highly concentrated pressure wave caused by an object flying faster than speed of sound.","[""sonic-boom shock wave"",""ultrasonic"",""supersonic"",""resonance""]",0
+"A speed greater than the speed of sound.","[""supersonic"",""ultrasonic"",""infrasonic"",""micro sonic""]",0
+"Sound produced by an object that vibrates with a frequency above the range of human hearing.","[""supersonic"",""ultrasonic"",""infrasonic"",""micro sonic""]",1
+"The study of sound production and transmission in relation to the human sense of hearing.","[""music"",""acoustic"",""noise"",""pitch""]",1
+"A sound produce by a regular vibration.","[""musical tone"",""acoustic"",""noise"",""pitch""]",0
+"Any undesirable sound.","[""musical tone"",""acoustic"",""noise"",""pitch""]",2
+"The highness or lowness of a sound as characterized by the frequency of vibration.","[""musical tone"",""acoustic"",""noise"",""pitch""]",3
+"Refers to the complexity of the sound.","[""musical tone"",""acoustic"",""noise"",""pitch""]",3
+"The magnitude of hearing sensation produced by the sound.","[""intensity"",""intensity level"",""loudness"",""bell""]",2
+"The rate at which sound energy flows through a unit area.","[""intensity"",""intensity level"",""loudness"",""bell""]",0
+"The logarithm of the ratio of the intensity of a sound to an arbitrary chosen intensity.","[""intensity"",""intensity level"",""loudness"",""bell""]",1
+"The unit of intensity.","[""intensity"",""intensity level"",""loudness"",""bel""]",3
+"The succession of tones related to each other.","[""musical tone"",""intensity level"",""musical pitch"",""musical scale""]",3
+"The persistence of sound in a enclose space.","[""echo"",""reverberation"",""reflection"",""complexity""]",1
+"Rebounding of light from certain substances.","[""reflection"",""interference"",""refraction"",""diffraction""]",0
+"The property of light by which it travels in a straight line.","[""intensity"",""rectilinear propagation"",""polarization"",""diffraction""]",1
+"The process by which the vibrations of light are confined to a definite plane.","[""intensity"",""rectilinear propagation"",""polarization"",""diffraction""]",2
+"A theory which states that light is a special form of wave disturbances.","[""wave theory or adulatory theory of light"",""quantum theory"",""wave disturbances theory"",""none of these""]",0
+"States that energy exchanges between matters occur in discrete amounts of energy which are proportional to the frequency.","[""wave theory or adulatory theory of light"",""quantum theory"",""wave disturbances theory"",""none of these""]",1
+"Refers to the quantity of visible radiation passing per unit time.","[""luminous flux"",""quantum theory"",""lumen"",""candle""]",0
+"Unit of luminous intensity","[""luminous flux"",""luminous intensity"",""lumen"",""candle""]",3
+"Unit of luminous flux.","[""luminous flux"",""luminous intensity"",""lumen"",""candle""]",2
+"Evaluated in terms of the power that causes the brightness sensation from a standard candle.","[""illuminance"",""luminous intensity"",""lumen"",""candle""]",1
+"Luminous flux per unit area that reaches the surface.","[""illuminance"",""luminous intensity"",""lumen"",""candle""]",0
+"A faint blue white glow produced in water and other transparent substances when charges particles pass through the substances at speeds greater than the speed of light through these substances.","[""illuminance"",""cherenkov radiation"",""blue tooth"",""radiation""]",1
+"Instrument use for comparing luminous intensities of light sourced.","[""odometer"",""luminous tester"",""luminance"",""photometer""]",3
+"Source intensity per unit projected area of emitting surface.","[""odometer"",""luminous tester"",""luminance"",""photometer""]",2
+"Law of reflection.","[""the angle of reflection is equal to the angle of incidence."",""the reflected ray, the incident ray, and the normal to the surface are in the same plane principal focus of a spherical mirror."",""both a and b"",""none of these""]",2
+"Rays farther from the principal axis of the spherical mirror are reflected to cross the axis nearer to the mirror than those close to the axis.","[""spherical"",""aberration"",""vertical length"",""spherical aberration""]",3
+"The ratio of the speed of light v1 in the first medium to the speed v2 in the second medium.","[""absolute index of refraction"",""index of refraction"",""total internal refraction"",""mirage""]",1
+"The ratio of the speed of light in empty space to the speed in the medium.","[""absolute index of refraction"",""index of refraction"",""total internal refraction"",""mirage""]",0
+"Phenomenon due to atmospheric refraction.","[""absolute index of refraction"",""index of refraction"",""total internal refraction"",""mirage""]",3
+"Occur when light passes from a medium of less speed to one of greater speed.","[""absolute index of refraction"",""index of refraction"",""total internal refraction"",""mirage""]",2
+"The point at which rays parallel to the principal axis converge after passing through a converging lens.","[""principal focus"",""focal length"",""real image"",""virtual image""]",0
+"Distance of principal focus from the lens.","[""principal focus"",""focal length"",""real image"",""virtual image""]",1
+"When object is between lens and principal focus.","[""converging lens"",""focal length"",""real image"",""virtual image""]",3
+"A type of lens which causes a set of parallel rays to converge after passing through the lens","[""converging lens"",""diverging lens"",""real image"",""virtual image""]",0
+"A lens that causes parallel rays to diverge after refraction.","[""converging lens"",""diverging lens"",""real image"",""virtual image""]",1
+"It only produces a virtual image of any object regardless of position.","[""converging lens"",""first surface"",""diverging lens"",""diverging image""]",2
+"The defect of a lens by which rays entering near the edge of the lens are brought to a focus nearer the lens than the rays that enter near the center.","[""coma"",""distortion"",""astigmatism"",""spherical aberration""]",3
+"A form of lateral spherical aberration whereby rays from object points not on the principal axis are focused in a comet-shaped image.","[""coma"",""distortion"",""astigmatism"",""spherical aberration""]",0
+"Caused by variations in the magnification of the outermost portion of the image, resulting in a barrel-shaped or pin-cushion-shaped images of a square- mesh object.","[""coma"",""distortion"",""astigmatism"",""spherical aberration""]",1
+"The defect whereby horizontal and vertical lines are brought to a focus at different distances.","[""coma"",""distortion"",""astigmatism"",""spherical aberration""]",2
+"The adjustment of the eye for seeing at different distances.","[""hyperopia"",""accommodation"",""myopia"",""magnifier""]",1
+"The inability of the eye to clearly see distant objects.","[""hyperopia"",""accommodation"",""myopia"",""magnifier""]",2
+"The difficulty of the eye to focus on very close object.","[""hyperopia"",""accommodation"",""myopia"",""magnifier""]",0
+"A converging lens use to produce an enlargement effect.","[""hyperopia"",""accommodation"",""myopia"",""magnifier""]",3
+"Ratio of the angle subtended at the eye by the image to the angle subtended by the object.","[""angular vision"",""angular modulation"",""angular displacement"",""angular magnification""]",3
+"The variation of the index of refraction with the wavelength of light.","[""angular dispersion"",""optical dispersion"",""circular dispersion"",""none of these""]",1
+"Produces deviation without dispersion.","[""prism spectroscope"",""fluorescence"",""achromatic prism or lens"",""chromatic aberration""]",2
+"Light rays of different wave lengths originating from a common point are brought to different foci by a lens.","[""prism spectroscope"",""fluorescence"",""achromatic prism or lens"",""chromatic aberration""]",3
+"A combination of a prism an achromatic lenses. Used to separate the various wavelengths in a beam of light into its spectrum.","[""prism spectroscope"",""fluorescence"",""achromatic prism or lens"",""chromatic aberration""]",0
+"A process in which substance absorbs radiant energy and remits it in wavelengths, different from those absorb.","[""phosphorescence"",""fluorescence"",""achromatic prism or lens"",""chromatic aberration""]",1
+"Occurs when the process of fluorescence continues after the exciting radiation is removed.","[""phosphorescence"",""fluorescence"",""achromatic prism or lens"",""chromatic aberration""]",0
+"The science that seeks to relate the human sense of color perception to the physical light stimulus in such a way as to produce practical graphical and numerical specification of color.","[""colorimetry"",""color characterization"",""chief spectral hues"",""complementary beams""]",0
+"Hue, saturation, brightness, or lightness of a color.","[""primaries"",""characteristic of color"",""chief spectral hues"",""complementary beams""]",1
+"What hue does the color violet, blue, green, yellow, orange, and red belong?","[""primaries"",""color characterization"",""chief spectral hues"",""complementary beams""]",2
+"Monochromatic or polychromatic pairs which when in proper proportions produce the sensation of white.","[""primaries"",""color characterization"",""chief spectral hues"",""complementary beams""]",3
+"Any three beams having wavelengths near the two extremes and the middle of spectrum. These beams when added in correct proportions produce the sensation of white.","[""primaries"",""color characterization"",""chief spectral hues"",""chromaticity coordinates""]",0
+"Specification of color quantitatively in terms of relative amounts of three artificial primaries necessary to produce a visual equivalent of that color.","[""primaries"",""color characterization"",""chief spectral hues"",""chromaticity coordinates""]",3
+"Interference fringes formed in air films between optical surfaces. The spacing of the rings provide a sensitive means of measuring","[""constructive interference"",""Michelson interferometer"",""destructive interference"",""Newton\u2019s ring""]",3
+"An instrument that uses interference in the measurement of light wavelengths.","[""Constructive interference"",""Michelson interferometer"",""Destructive interference"",""Newton\u2019s ring""]",1
+"The spreading of light into the region behind an obstacle.","[""interference"",""diffraction"",""destructive interference"",""Newton\u2019s ring""]",1
+"The process by which the vibrations of a wave motion are confined to a definite pattern.","[""polarization"",""Malu\u2019s law"",""angle of polarization"",""Newton\u2019s ring""]",0
+"Angle at which light reflected from a substance is almost completely planed polarized.","[""polarization"",""Malu\u2019s law"",""angle of polarization"",""angular displacement""]",2
+"Instrument for measuring optical rotation.","[""polarization"",""Malu\u2019s law"",""polarimeters"",""light meter""]",2
+"A branch of physics that deals with the properties of electricity at rest.","[""electrical"",""electrostatics"",""electrification"",""magnetism""]",1
+"The process of rubbing two materials together and then separating them to produce charge on the materials.","[""energy convention"",""electrostatics"",""electrification"",""magnetism""]",2
+"Bodies of similar charges repel and bodies of unlike charges attract.","[""first law of electrostatics"",""second law of electrostatics"",""third law of electrostatics"",""fourth law of electrostatics""]",0
+"What charges will be produce if you rub glass rod with silk.","[""positive charge"",""negative charge"",""neutral"",""none of these""]",0
+"What charges will be produce if you rub rubber rod with fur.","[""positive charge"",""negative charge"",""neutral"",""none of these""]",1
+"The rubbing of an objects does not create energy but merely changes the electrical neutrality of the substance in contact.","[""first law of electrostatics"",""second law of electrostatics"",""law of conservation of charge"",""Newton\u2019s law""]",2
+"Small, tightly packed, positively charged mass that consist of protons and neutrons.","[""electrons"",""neutrons"",""nucleus"",""free electron""]",2
+"Negatively charged particles.","[""electrons"",""neutrons"",""nucleus"",""free electron""]",0
+"Positive charges particles in the nucleus.","[""neutrons"",""proton"",""insulator"",""free electron""]",1
+"Particles that carry no charges.","[""neutrons"",""proton"",""insulator"",""free electron""]",0
+"Removed from an atom or atoms due to the influence of nearby atoms.","[""neutrons"",""proton"",""insulator"",""free electron""]",3
+"A substance with very few free electrons.","[""neutrons"",""proton"",""insulator"",""semiconductor""]",2
+"Materials that are ordinarily insulators but which become conductors when under particular conditions.","[""neutrons"",""proton"",""insulator"",""semiconductor""]",3
+"A device for studying electrostatic phenomena. Consist of very light gold leaf, or other thin metal foil, hanged from a contact on a flat metal plate which ends in a ball at the upper end.","[""electroscope"",""leaf electroscope"",""force scope"",""gold scope""]",1
+"A point charged that is repelled by a force of one dyne when place one cm. from an equal charged.","[""statcoulomb"",""coulomb"",""partlycoulomb"",""none of these""]",0
+"The charged transferred through any cross section of a conductor in one second by a constant current of one ampere.","[""statcoulomb"",""coulomb"",""partlycoulomb"",""none of these""]",1
+"A region in which a charge will be subjected to a force","[""electric field"",""electric field intensity"",""magnetic field"",""magnetic field intensity""]",0
+"A line so drawn in an electric field such that a tangent to it at any point gives the direction of the electric field at that point.","[""electric field line"",""electric field intensity"",""line of force"",""tangent line""]",2
+"A 46.07 N light hangs from two cables at angles 54.9° and 61.4° with respect to the ceiling. What is the tension in the first cable?","[""24.6 N"",""25 N"",""23.9 N"",""26.4 N""]",0
+"A light hangs from two cables. One cable has a tension of 28.75 N and is at an angle of 58.1° with respect to the ceiling. What is the tension in the other cable if it makes an angle of 9.4° with respect to the ceiling?","[""15.9 N"",""16.1 N"",""15.4 N"",""14.9 N""]",2
+"A 8.3 kg mass and a 17.1 kg mass are tied to a light string and hung over a frictionless pulley. What is their acceleration?","[""33.95 m\/s<sup>2<\/sup>"",""4.395 m\/s<sup>2<\/sup>"",""4 m\/s<sup>2<\/sup>"",""3.395 m\/s<sup>2<\/sup>""]",3
+"An unknown mass and a 9.9 kg mass are tied to a light string and hung over a frictionless pulley. If the tension in the string is 14.5 N, what is the unknown mass?","[""1 kg"",""0.8 kg"",""1.8 kg"",""0.5 kg""]",1
+"A lady pulls a cart with a force of 1837 N. Neglecting friction, if the cart changes from resting to a speed of 1.3 m/s in a distance of0.03289 m, what is the total mass of the cart?","[""71.5 kg"",""75.1 kg"",""70.5 kg"",""17.5 kg""]",0
+"A 3.66 lb. book is resting on a 19.41 lb. table. What is the normal force from the floor on each table leg?","[""5 lbs."",""5.7675 lbs."",""4.9 lbs."",""6.7675 lbs.""]",1
+"A box sits on a ramp inclined at 21.7° to horizontal. If the normal force on the box from the ramp is 20.94 N, what is the mass of the box?","[""3.2 kg"",""2.9 kg"",""2.3 kg"",""3.9 kg""]",2
+"A 7.9 kg box sits on a ramp. If the normal force on the box from the ramp is 41.82 N, what is the angle the ramp makes with the (horizontal) ground?","[""75.3\u00b0"",""57.3\u00b0"",""57.5\u00b0"",""75.5\u00b0""]",2
+"A man sees a 44.5 kg cart about to bump into a wall at 1.7 m/s. If the cart is 0.04203 m from the wall when he grabs it, how much force must he apply to stop it before it hits?","[""1530 N"",""1350 N"",""1250 N"",""1520 N""]",0
+"What is the minimum force required to start a 4.2 kg box moving across the floor if the coefficient of static friction between the box and the floor is 0.6?","[""23.761 N"",""25.469 N"",""24.696 N"",""26.496 N""]",2
+"What is the kinetic energy of a 70 kg man running along at 6.36 m/s?","[""1315 J"",""1515 J"",""1215 J"",""1415 J""]",3
+"What is the speed of a 53.6 kg woman running with a kinetic energy of 1617 J?","[""7.77 m\/s"",""7.57 m\/s"",""7.67 m\/s"",""7.87 m\/s""]",0
+"What is the gravitational potential energy of a149.1 kg man at a height of h = 74.21 m above the ground? (consider h = 0 to be the reference where Ug = 0)","[""100,000 J"",""107,300 J"",""108,400 J"",""110,580 J""]",2
+"What is the height where a 121.2 kg woman would have a gravitational potential energy of 10610 J? (consider h = 0 to be the reference where the Ug = 0)","[""9.54 m"",""7.57 m\/s"",""8.94 m"",""7.87 m\/s""]",2
+"What is the change in gravitational potential energy for a 68.9 kg man walking up stairs from a height of 63.07 m to 107.69 m?","[""-30133 J"",""301230 J"",""30320 J"",""30130 J""]",3
+"What is the change in gravitational potential energy for a 132.5 kg woman walking down a hill from a height of 102.86 m to 70.38 m?","[""-4123 J"",""-42175 J"",""-5 J"",""4321 J""]",1
+"How much work is done by gravity when a 82.3 kg. diver jumps from a height of 5.23 m into the water?","[""4321 J"",""4218 J"",""4871 J"",""4334 J""]",1
+"How much work must be done to move a 34.6 kg box 3.66 m across the floor if the coefficient of kinetic friction between the box and the floor is 0.3.","[""372.3 J"",""-321.9 J"",""-372.3 J"",""3.234 J""]",0
+"What is the coefficient of kinetic friction between a 16 kg box and the floor if it takes 140.4 J of work to move it a distance of 3.2 m?","[""0.28"",""-0.25"",""0.281"",""0.21""]",0
+"What is the length of a 73.7 m wide rectangular lab if its mass is 1.01 kg and the moment of intertia about an axis through the center and perpendicular to the large flat face if its mass is 713.6 kg*m<sup>2</sup>?","[""55.2 m"",""53.5 m"",""52.5 m"",""54.5 m""]",0
+"What is the mass of a hollow cylinder of radius3.38 m if it has a moment of inertia of 33.930468 kg*m<sup>2</sup> about the central axis or rotation?","[""3.07 kg"",""2.50 kg"",""2.97 kg"",""1.95 kg""]",2
+"A 0.324 kg ball is stuck 0.54 m from the center of a disk spinning at 5.55 rad/s. What is its angular momentum?","[""0.5243 J*s"",""0.6321 J*s"",""1.021 J*s"",""1.1524 J*s""]",0
+"A 40.2 kg child is sitting on the edge of a 165.3 kg merry-go-round of radius 2.1 m while it is spinning at a rate of 3.229 rpm. If the child moves to the center, how fast will it be spinning? (Hint: use conservation of angular momentum)","[""4.5 rpm,"",""4.4 rpm"",""4.2 rpm"",""4.8 rpm""]",3
+"An empty metal can rolling down a hill gets to the bottom with a speed of 1.06 m/s. What would have been the speed if the can was full? (Assume the ends of the hollow can don’t significantly affect its moment of inertia and the walls are so thin that the full can may be considered as a solid cylinder of the same radius)","[""1.333 m\/s"",""1.423 m\/s"",""1.223 m\/s"",""1.323 m\/s""]",2
+"A light hangs from two cables. One cable has a tension of 23.83 lb. and is at an angle of 26.2° with respect to the ceiling. What is the weight of the lamp if the other cable makes an angle of 48.7° with respect to the ceiling?","[""34.86 lb."",""33.9 lb."",""35.8 lb."",""36 lb.""]",0
+"A light hangs from two cables. One cable has a tension of 25.55 N and is at an angle of 7.5° with respect to the ceiling. What is the tension in the other cable if it makes an angle of 20.2° with respect to the ceiling?","[""28 N"",""26 N"",""27 N"",""29 N""]",2
+"A man is pulling a cart (total 26.7 kg) with a force of 1612 N. Neglecting friction, how much time does it take to get the cart from rest up to 1.5 m/s?","[""0.04583 s"",""0.01252 s"",""0.03567 s"",""0.02484 s""]",3
+"A lady is pulling a cart (total 55.7 kg) with a force of 395 N. Neglecting friction, what is the acceleration of the cart?","[""7.1 m\/s<sup>2<\/sup>"",""7.092 m\/s<sup>2<\/sup>"",""7.091 m\/s<sup>2<\/sup>"",""7.093 m\/s<sup>2<\/sup>""]",2
+"A lady pulls a cart with a force of 1454 N. Neglecting friction, if the cart changes from resting to a speed of 1.7 m/s in a distance of 0.02872 m, what is the total mass of the cart?","[""28.90 kg"",""28.91 kg"",""27.90 kg"",""29.00 kg""]",0
+"A man sees a 44.5 kg cart about to bump into a wall at 1.7 m/s. If the cart is 0.04203 m from the wall when he grabs it, how much force must he apply to stop it before it hits?","[""1530 N"",""1730 N"",""1630 N"",""1830 N""]",0
+"A 5.4 kg mass and a 6.2 kg mass are tied to a light string and hung over a frictionless pulley. What is the tension in the string?","[""56.57 N"",""55.569 N"",""57.1 N"",""56.569 N""]",3
+"A 4.6 kg mass and an 8.5 kg mass are tied to a light string and hung over a frictionless pulley. What is their acceleration?","[""2.92 m\/s<sup>2<\/sup>"",""2.916 m\/s<sup>2<\/sup>"",""2.917 m\/s<sup>2<\/sup>"",""3 m\/s<sup>2<\/sup>""]",2
+"An unknown mass and a 13.2 kg mass are tied to a light string and hung over a frictionless pulley. If the tension in the string is 61.3114 N, what is the unknown mass?","[""4.12 kg"",""4.1 kg"",""4.0 kg"",""4.2 kg""]",1
+"A 3.1 lb. book is resting on a 73.76 lb. table. What is the normal force of the book on the table?","[""-3.2 lbs."",""-3.1 lbs."",""3.2 lbs."",""3.1 lbs.""]",1
+"A 5.2 kg box sits on a ramp inclined at 42.4° to horizontal. What is the normal force on the box from the ramp?","[""37.64 N"",""37.53 N"",""37.54 N"",""37.63 N""]",3
+"A 6.7 kg box sits on a ramp inclined at 37.4° to horizontal. What is the normal force on the ramp from the box?","[""52.17 N"",""52.16 N"",""-52.16 N"",""-52.17 N""]",2
+"A box sits on a ramp inclined at 21.7° to horizontal. If the normal force on the box from the ramp is 20.94 N, what is the mass of the box?","[""2.3 kg"",""2.4 kg"",""2.2 kg"",""2.1 kg""]",0
+"A 7.9 kg box sits on a ramp. If the normal force on the box from the ramp is 41.82 N, what is the angle the ramp makes with the (horizontal) ground?","[""57.3\u00b0"",""56.3\u00b0"",""57.4\u00b0"",""55.3\u00b0""]",0
+"What is the minimum force required to start a 11.5 kg box moving across the floor if the coefficient of static friction between the box and the floor is 0.64?","[""72.13 N"",""72.1 N"",""72.13 N"",""72.128 N""]",3
+"What is the mass of a box which requires a minimum pushing force of 74.088 N to start moving across a floor with a coefficient of static friction between the box and the floor of 0.6?","[""12.2 kg"",""12.6 kg"",""13 kg"",""12.5 kg""]",1
+"If a minimum force of 79.4682 N is required to push on a 15.9 kg box to begin moving it across the floor, what is the coefficient of static friction between the box and the floor?","[""0.51"",""0.52"",""0.53"",""0.54""]",0
+"A box is sliding down a ramp with an acceleration of 1.621 m/s2. If the ramp is at an angle of 25.1° relative to the ground, what is the coefficient of kinetic friction between the box and the ramp?","[""0.2857"",""0.3000"",""0.2856"",""0.2867""]",0
+"What is the kinetic energy of a 70 kg man running along at 6.36 m/s?","[""1416 J"",""1417 J"",""1415 J"",""1418 J""]",2
+"What is the change in gravitational potential energy for a 68.9 kg man walking up stairs from a height of 63.07 m to 107.69 m?","[""30130 J"",""30132 J"",""30131 J"",""30133 J""]",0
+"What is the mass of a diver whose gravitational potential energy changes by -160,500 J when diving into water from a height of 130.61 m?","[""125.2 kg"",""125.3 kg"",""125.5 kg"",""125.4 kg""]",3
+"How much work is done by gravity when a 82.3 kg diver jumps from a height of 5.23 m into the water?","[""4220 J"",""4218 J"",""4229 J"",""4219 J""]",1
+"What height above the water does a 133.9 kg diver jumps need to jump from for gravity to do 6062 J of work on him/her?","[""4.61 m"",""4.60 m"",""4.62 m"",""4.63 m""]",2
+"What is the mass of a diver if gravity does 8100 J of work on him/her when jumping into the water from a height of 6.55 m? What is the mass of a diver if gravity does 8100 J of work on him/her when jumping into the water from a height of 6.55 m?","[""126.2 kg"",""126.1 kg"",""126.4 kg"",""126.3 kg""]",0
+"How much work must be done to move a 34.6 kg box 3.66 m across the floor if the coefficient of kinetic friction between the box and the floor is 0.3?","[""372.2 J"",""372.3 J"",""372.4 J"",""372.5 J""]",1
+"What is the wavelength in air under standard conditions of a compressional wave whose frequency is 250 per second? Assume that the bulk modulus for air is 1.40 Mdyne/cm<sup>2</sup> and the density of air is 1.29 g/L.","[""132 cm"",""231 cm"",""123 cm"",""321 cm""]",0
+"What tension would be required to create a standing wave with four segments in a string 100 cm long weighing 0.50 g. If it is attached to a vibrator with a frequency of 100 Hz?","[""0.125 Mdyne"",""0.521 Mdyne"",""0.152 dyne"",""0.251 dyne""]",0
+"What is the velocity of a wave along a chord having a linear mass of 4 g/cm if the chord is stretched to have a tension of 90 Kdyne?","[""105 cm\/s"",""150 cm\/s"",""501 cm\/s"",""510 cm\/s""]",1
+"A sonar device on a submarine sends out a signal and receives an echo 5 seconds later. Assuming the speed of sound in water to be 1452 m/s, how far away is the object that is reflecting the signal?","[""3526 m"",""4215 m"",""3625 m"",""3512 m""]",2
+"What note is sounded by a siren having a disk with 16 holes and making 20 r/s?","[""320 Hz"",""220 Hz"",""302 Hz"",""230 Hz""]",0
+"If one sound is 5.0 dB higher than another, what is the ratio of their intensities?","[""3.16"",""31.6"",""2.55"",""35.1""]",0
+"Two sounds have intensities of 0.5 and 10 W/m² respectively. How many decibels is one louder than the other?","[""1.3 dB"",""13 dB"",""3.1 dB"",""31 dB""]",1
+"Two sound waves have intensities of 100 and 400 ∝W/cm<sup>2</sup>, respectively. How much louder is one than the other?","[""0.6 dB"",""6 dB"",""4 dB"",""7 dB""]",1
+"If an unshaded electric lamp is 6 m above a table and is lowered to 3 m, how much has its luminance been increase?","[""1"",""2"",""3"",""4""]",3
+"A lamp produces a certain luminance on a screen situated 85 cm from it. On placing a glass plate between the lamp and the screen, the lamp must be moved 5 cm closer to the screen to produced same illuminance as before. What percent of the light is stopped by the glass?","[""11%"",""12%"",""13 %"",""14%""]",0
+"If a lamp provides an illuminance of 8.0 mc on a book is moved 1.5 times as far away , will the new illumination then be sufficient for comfortable reading?","[""2.5 mc"",""3.6 mc"",""3 mc"",""4 mc""]",1
+"If the light of a full moon is found to produce the same illuminance as a 1.0 cd source does at a distance of 4.0 ft., what is the effective luminous intensity of the moon? (The mean distance of the moon is 239,000 mi.)","[""1.0 x 10 cd"",""2.0 x 10 cd"",""3.0 x 10 cd"",""4.0 x 10 cd""]",0
+"An unknown lamped placed 6m from a photometer screen provides the same illumination as an 80 cd lamp placed 4 m from that same screen. What is the candle power of the unknown lamp?","[""180 cd"",""200 cd"",""280 cd"",""100 cd""]",0
+"A standard 48 – cd lamp is placed 30cm from a photometer screen and produces the same illumination as a 60 -cd lamped placed some distance away. How far away is the 60 -cd lamp from the screen?","[""33.54 cm"",""23.54 cm"",""33.43 cm"",""25.43 cm""]",0
+"Two point sources of light are placed 4.0m apart on a photometer. If one is a standard of 50 cd and they produced equal illuminance at a point 2.5m from the standard source, what is the intensity of the second source?","[""18 cd"",""19 cd"",""20 cd"",""17 cd""]",0
+"A point source of light of 10 cd is enclosed at the middle of a hollow sphere having a radius of 4 m. If an opening of 10 m2 exist in the sphere, what is the luminous flux through the opening?","[""625 m"",""62.5 m"",""6.25 m"",""0.625 m""]",2
+"Find the candle power of a point source of light that provides 20 mc of illumination on a surface 4 m away.","[""320 cd"",""32.0 cd"",""3.20 cd"",""217 cd""]",0
+"What is the vertical length of the smallest plane mirror in which a man 2 m tall can just see his full height from the top of his head to his feet?","[""1 m"",""2 m"",""3 m"",""4 m""]",0
+"A person backing a car up sees in the rearview mirror a person walking toward him at 5 km/hr. If the car is moving backward at 10km/hr., how fast does the person as viewed from the mirror approached the car.","[""10 km\/h"",""20 km \/h"",""50 km\/h"",""30 km\/h""]",3
+"The distance of comfortable distinct vision is about 25 cm for the average person. Where should a person hold a plane mirror in order to see himself conveniently?","[""12.5 cm"",""125 cm"",""20 cm"",""10 cm""]",0
+"An object is placed 20 cm in front of a concave mirror of radius 60 cm. Where is the image?","[""12 cm"",""25 cm"",""60 cm"",""100 cm""]",2
+"In what position in front of a spherical mirror should an object be placed to produce a real image which is magnified three times if the radius of curvature of the mirror is 18 cm?","[""12 cm"",""9 cm"",""7 cm"",""10 cm""]",0
+"A dentist holds a concave mirror of radius of curvature 6.0 cm at a distance 2.0 cm from a filling in a tooth. What is the magnification of the filling?","[""2"",""4"",""5"",""3""]",3
+"In what position should an object be placed in front of a concave mirror having a focal length of 20 cm so that an erect image which is twice as large as the object is formed?","[""12 cm"",""9 cm"",""7 cm"",""10 cm""]",3
+"The angle of incidence of a ray of light at the surface of water is 40°and the observe angle of refraction is 29°. Compute the index of refraction.","[""13.25"",""1.325"",""1.25"",""132.5 cm""]",1
+"The velocity of light in a liquid is 0.80 as fast as it is in air. What is the index of refraction of the liquid?","[""13.25"",""1.325"",""1.25"",""132.5""]",2
+"A ray of light strikes a water surface at an angle. The angle of refraction in the water is measured to be 22°. What must be the angle of incidence of the light ray have been?","[""30\u00b0"",""25\u00b0"",""35\u00b0"",""40\u00b0""]",0
+"What is the mass of a box which requires 3518 J of work to be pulled 9.36 m across a floor with a coefficient of kinetic friction between the box and the floor of 0.4?","[""96 kg"",""95.8 kg"",""95.7 kg"",""95.9 kg""]",3
+"How far must you pull a 10.9 kg box across the floor to do 123.3 J of work if the coefficient of kinetic friction between the box and the floor is 0.15?","[""7.5 m"",""7.6 m"",""7.7 m"",""7.8 m""]",2
+"How much work must be done to move a 3.8 kg chair 6.1 m across the floor at constant velocity if the coefficient of kinetic friction between the chair and the floor is 0.64 and you are pushing at an angle of 30.2° relative to the floor?","[""231.5 J"",""231.6 J"",""231.7 J"",""231.8 J""]",1
+"If you do 231.9 J of work to move a 19.8 kg chair 3.35 m across the floor at constant velocity, and you are pushing at an angle of 17.9° relative to the floor, what is the coefficient of kinetic friction between the floor and the chair?","[""0.30"",""0.31"",""0.32"",""0.33""]",2
+"A 80.4 kg diver jumps from a height of 2.64 m with an initial speed of 1.25 m/s. What is his speed entering the water?","[""7.301 m\/s"",""7.302 m\/s"",""7.303 m\/s"",""7.304 m\/s""]",0
+"How much does a 30 lbm weigh on the moon? Gravitational acceleration in the moon is 5.47 ft/s<sup>2</sup> and in earth is 32.2 ft/s<sup>2</sup>.","[""2.0 lbf"",""3.2 lbf"",""3.4 lbf"",""5.096 lb""]",3
+"The mass of air in a room 3 m x 5 m x 20 m is known to be 350 kg. Find its density.","[""1.167"",""1.176"",""1.617"",""1.716""]",0
+"An iron block weighs 5 N and has a volume of 200 cubic centimeters. What is the density of the block?","[""988 kg\/m<sup>3<\/sup>"",""1255 kg\/m<sup>3<\/sup>"",""2550 kg\/m<sup>3<\/sup>"",""800 kg\/m<sup>3<\/sup>""]",2
+"100 g of water is mixed to 150 g of alcohol (ρ = 790 kg/m<sup>3</sup>). Calculate the specific volume of the solution, assuming that it is mixed completely.","[""0.82 cm<sup>3<\/sup>\/g"",""0.88 cm<sup>3<\/sup>\/g"",""0.63 cm<sup>3<\/sup>\/g"",""1.20 cm<sup>3<\/sup>\/g""]",3
+"100 g of water is mixed to 150 g of alcohol (ρ = 790 kg/m<sup>3</sup>). Calculate the specific gravity of the total mixture.","[""1.862"",""0.963"",""0.286"",""0.862""]",3
+"The specific gravity of mercury relative to water is 13.55. What is the specific weight of mercury? The specific weight of water is 62.4 lbf/ft<sup>3</sup>.","[""102.3 kN\/m<sup>3<\/sup>"",""132.9 kN\/m<sup>3<\/sup>"",""150.9 kN\/m<sup>3<\/sup>"",""82.2 kN\/m<sup>3<\/sup>""]",1
+"A 16 gram mass is moving at 30 cm/sec while a 4 gram mass is moving in an opposite direction at 50 cm/sec. They collide head on and stick together. Their velocity after collision is","[""0.14 m\/s"",""0.21 m\/s"",""0.07 m\/s"",""0.28 m\/s""]",0
+"A 60 ton rail car moving at 1 mile/hr is instantaneously coupled to a stationary 40 ton rail car. What is the speed of the coupled cars?","[""0.88 mph"",""1 mph"",""0.6 mph"",""0.4 mph""]",2
+"A 10 g block slides with a velocity of 20 cm/s on a smooth level surface and makes a collision with a 30 g block moving in the opposite direction with a velocity of 10 cm/s. If the collision is perfectly elastic, what is the velocity of the 30 g block after the collision?","[""15 cm\/s"",""10 cm\/s"",""25 cm\/s"",""5 cm\/s""]",3
+"A 60 ton rail car moving at 1 mile/hr is coupled to a second stationary rail car. If the velocity of the two cars after coupling is 1ft/s (in the original direction of motion) and the coupling is completed in 0.5 second, what is the average impulsive force on the 60 ton rail car?","[""50 lbf"",""3500 lbf"",""1200 lbf"",""60 lbf""]",1
+"What momentum does a 40 lbm projectile possess if the projectile is moving at 420 mph?","[""24,640 lbf-sec"",""16,860 lbf-sec"",""765 lbf-sec"",""523.6 lbf-sec""]",2
+"A 10-kg block is raised vertically 3 meters. What is the change in potential energy? Answer in SI units closest to:","[""320 J"",""350 kg-m<sup>2<\/sup>\/s<sup>2<\/sup>"",""294 J"",""350 N-m""]",2
+"An aircraft engine develops a forward thrust of 15,000 N. If the gross mass of the aircraft is 100 tons, what horsepower does the engine develop if it is flying at 1000 kph?","[""150,000"",""5585"",""5400"",""3108""]",1
+"If a 10 kg piece of copper falls 100 m, how much heat might be produced?","[""3.81 kCal"",""32 BTU"",""2300 Cal"",""9.41 kJ""]",2
+"A rocket is moving through a vacuum. It changes its velocity from 9020 ft/sec to 5100 ft/sec in 48 seconds. How much power is required to accomplish this if the rocket’s mass is 13,000 slugs?","[""1.63 x 10<sup>7<\/sup> hp"",""3.16 x 10<sup>7<\/sup> hp"",""3.61 x 10<sup>7<\/sup> hp"",""1.36 x 10<sup>7<\/sup> hp""]",3
+"A force of 200 lbf acts on a block at an angle of 28° with respect to the horizontal. The block is pushed 2 feet horizontally. What is the work done by this force?","[""320 J"",""480 J"",""540 J"",""215 J""]",1
+"What average force is necessary to stop a .45 caliber bullet of mass of 15 grams and speed of 300 m/s as it penetrates a block to a distance of 5 cm?","[""12.5 kN"",""13.0 kN"",""13.5 kN"",""12.0 kN""]",2
+"What is the water pressure if manometer is 0.6 m Hg? Mercury is 13.6 times heavier than water.","[""27.4 kPa"",""47.2 kPa"",""79.97 kPa"",""72.4 kPa""]",2
+"A mercury barometer at the base of Mt. Makiling reads 654 mm and at the same time another barometer at the top of the mountain reads 480 mm. Assuming specific weight of air to be constant at 12 N/m<sup>3</sup>, what is the approximate height of Mt. Makiling?","[""1,934.5 m"",""3,508.4 m"",""4, 168.2 m"",""2,674.7 m""]",0
+"Assuming the barometer reads 760 mm Hg, what is the absolute pressure for 900 mm Hg gauge?","[""74.213 kPa"",""221.24 kPa"",""48 kPa"",""358 kPa""]",1
+"A barometer reads 760 mm Hg and a pressure gage attached to a tank reads 850 cm of oil (sp.gr. 0.80). What is the absolute pressure in the tank in kPa?","[""168.1 kPa"",""186.1 kPa"",""118.6 kPa"",""161.8 kPa""]",0
+"A sealed tank contains oxygen at 27°C at a pressure of 2 atm. If the temperature increases to 100°C, what will be the pressure inside the tank?","[""4.92 atm"",""4.29 atm"",""2.49 atm"",""9.24 atm""]",2
+"A volume of 400 cc of air is measured at a pressure of 740 mm Hg abs and a temperature of 18°C. What will be the volume at 760 mm Hg and 0°C?","[""376 cc"",""326 cc"",""356 cc"",""366 cc""]",3
+"The pressure of the nitrogen gas thermometer is 76 cm at 0°C. What is the temperature of a liquid in which the bulb of the thermometer is immersed when the pressure is seen to be 87.7 cm?","[""34\u00b0C"",""45\u00b0C"",""60\u00b0C"",""90\u00b0C""]",0
+"A transportation company specializes in the shipment of pressurized gaseous materials. An order is received for 100 liters of a particular gas at STP (32°F and 1 atm). What minimum volume tank is necessary to transport the gas at 80°F and a maximum pressure of 8 atm?","[""16 liters"",""14 liters"",""10 liters"",""12 liters""]",1
+"A 20 liter sample of gas exerts a pressure of 1 atm at 25°C. If t is expanded into a 40 liter vessel that is held at 100°C, what will be its final pressure?","[""0.50 atm"",""1.0 atm"",""0.315 atm"",""0.63 atm""]",3
+"A 10 lbm object is acted upon by a 4.4 lbf force. What acceleration in ft/s<sup>2</sup> does the object possess?","[""12.4"",""10.1"",""14.2"",""13.0""]",2
+"A 50 kN truck traveling with a speed of 50 kph hits a lamp post and is brought to rest in 0.1 s. What is the average force of the truck?","[""-408 kN"",""-508 kN"",""-608 kN"",""-708 kN""]",3
+"A tennis ball moving horizontally to the left at 40 m/s hits a racket and rebounds horizontally to the right at 30 m/s. If the mass of the ball is 100 grams, find the impulse of the force (in kg-m/s) exerted on the ball by the racket.]","[""1"",""-1"",""7"",""12""]",2
+"Two steel balls of masses 500 kg and 50 kg, respectively are placed with their centers 0.5 m apart. The two balls attract with a force of","[""6.67 x 10<sup>-10<\/sup> N"",""6.67 x 10<sup>-7<\/sup> N"",""6.67 x 10<sup>-8<\/sup> N"",""6.67 x 10<sup>-3<\/sup> N""]",2
+"A 50 g mass hangs at the end of the spring. When 20 grams more are added to the end of the spring, it stretches 7 cm more. Fine the spring constant.","[""2.8"",""2.9"",""4.3"",""2.5""]",0
+"Determine the submerged depth of a cube of steel 0.3 m on each side floating in mercury. The specific gravities of steel and mercury are 7.8 and 13.6 respectively.","[""0.155 m"",""0.165 m"",""0.134 m"",""0.172 m""]",3
+"A block of wood floats in water with 5 cm projecting above the water surface. When placed in glycerine of specific gravity of 1.35, the block projects 7.5 cm above the liquid. Determine its specific gravity.","[""0.514"",""0.704"",""0.836"",""0.658""]",3
+"A solid cube material is 0.75 cm on each side. If it floats in oil of density 800 kg/m<sup>3</sup> with one-third of the block out of the oil, what is the density of the material of the cube?","[""533 kg\/m<sup>3<\/sup>"",""523 kg\/m<sup>3<\/sup>"",""513 kg\/m<sup>3<\/sup>"",""543 kg\/m<sup>3<\/sup>""]",0
+"A hollow cylinder 1 m in diameter and 2 m high weighs 2825 N. How many kN of lead weighing 110 kN/m<sup>3</sup> must be fastened to the outside bottom of the cylinder to make it float with 1.5 m submerged in water?","[""8.5 kN"",""6.5 kN"",""1.5 kN"",""9.5 kN""]",0
+"How long must a current of 5 amperes pass through a 10-ohm resistor until a charge of 1200 coulombs passes through?","[""3 min"",""1 min"",""4 min"",""2 min""]",2
+"What is the power required to transfer 97,000 coulombs of charge through a potential rise of 50 volts in one hour?","[""0.5 kW"",""1.3 kW"",""0.9 kW"",""2.8 kW""]",1
+"How much oil at 200°C must be added to 5 grams of the same oil at 20°C to heat it to 70°C?","[""12.39 grams"",""29.12 grams"",""19.23 grams"",""23.91 grams""]",2
+"The temperatures of three different liquids are maintained at 15°C, 20°C and 25 °C respectively. When equal masses of the first two liquids are mixed, the final temperature is 18°C and when equal masses of the last two are mixed, the final temperature is 24°C. What temperature will be achieved by mixing equal masses of the first and last liquid?","[""15.87\u00b0C"",""10.30\u00b0C"",""8.65\u00b0C"",""23.57\u00b0C""]",3
+"Three forces, 20 N, 30 N, and 40 N are in equilibrium. Find the largest angle(in degrees) they make with each other.","[""104.48"",""105.58"",""106.69"",""107.96""]",0
+"Two forces of 20 units and 30 units act at right angle. What is the magnitude of the resultant force?","[""36"",""42"",""40"",""44""]",0
+"What is the magnitude of the resultant force of the two forces 200 N at 20 degrees and 400 N at 144 degrees?","[""332.5N"",""323.5N"",""313.5N"",""233.5N""]",0
+"A load of 100 lb. is hung from the middle of the rope, which is stretched between two rigid walls 30 ft. apart. Due to the load, the rope sags 4 feet in the middle. Determine the tension in the rope.","[""165 lbs."",""173 lbs."",""194 lbs."",""149 lbs.""]",2
+"A boat moving at 12 kph is crossing a river 500 m wide in which a current is flowing at 4 kph. In what direction should the boat head if it is to reach a point on the other of the river directly opposite in starting point?","[""19.47 degrees downstream"",""19.47 degrees upstream"",""18.43 degrees downstream"",""18.43 degrees upstream""]",1
+"A 100 kg weight rest on a 30 degrees incline plane. Neglecting friction, how much pull must one exert to bring the weight up the plane?","[""88.67 kg."",""100 kg"",""70.71 kg"",""50 kg""]",3
+"A block weighing 500 kN rest on a ramp inclined at 25 degrees with the horizontal. The force tending to move the block down the ramp is ________.","[""121 kN"",""265 kN"",""211 kN"",""450 kN""]",2
+"A 200 kg crate impends to slide down a ramp inclined at an angle of 19.29 degrees with the horizontal. What is the frictional resistance?","[""612.38 N"",""628.38 N"",""648.16 N"",""654.12 N""]",2
+"A man can exert a maximum pull of 1000 N but wishes to lift a new stone door for his cave weighing 20,000 N. If he uses a lever, how much closer must the fulcrum be to the stone then to his hand?","[""10 times nearer"",""20 times farther"",""10 times farther"",""20 times nearer""]",3
+"A beam rests on a fulcrum, 1.2 m from one end. A weight of 350 kg is suspended from this end causing the beam to balance. If the weight of 350 kg is suspended on the opposite end of the beam, it is necessary to suspend a 1000 kg weight on the first end in order to effect an even balance. Find the length of the beam.","[""2.48 m"",""3.24 m"",""3.43 m"",""4.21 m""]",2
+"Which is NOT a fundamental physical quantity of mechanics?","[""Length"",""Mass"",""Volume"",""Time""]",2
+"What is an arrowed line whose length is proportional to the magnitude of some vector quantity and whose direction is that of the quantity?","[""Vector diagram"",""Vector"",""Component"",""Resultant""]",1
+"What is scaled drawing of the various forces, velocities or other vector quantities involved in the motion of a body?","[""Vector diagram"",""Vector"",""Component"",""Resultant""]",0
+"The _______ of a moving object is the distance it covers in a time interval divided by the time interval.","[""acceleration"",""instantaneous speed"",""average speed"",""instantaneous velocity""]",2
+"The rate at which velocity changes with time is known as ________.","[""acceleration"",""instantaneous speed"",""average speed"",""instantaneous velocity""]",0
+"“The work done by the net force on a particle equals the change in the particle’s kinetic energy.” This statement is known as _________.","[""Law of conservation of energy"",""Work-energy theorem"",""Law of conservation of work"",""Total work theorem""]",1
+"The ________ of a particle is equal to the total work that particle can do in the process of being brought to rest.","[""kinetic energy"",""potential energy"",""total energy"",""mechanical energy""]",0
+"Work is defined as the product of:","[""Force and displacement"",""Force and time"",""Displacement and time"",""Power and time""]",0
+"What is defined as the time rate at which work is done?","[""impulse"",""Momentum"",""Power"",""Energy""]",2
+"What is defined as any influence that can change the velocity of an object?","[""Impulse"",""Force"",""Energy"",""Work""]",1
+"What is a measure of the inertia of an object?","[""Density"",""Weight"",""Mass"",""Force""]",2
+"What is the property of matter which is the reluctance to change its state of rest or of uniform motion?","[""Impulse"",""Momentum"",""Inertia"",""Equilibrium""]",2
+"“If no net force acts on it, an object at rest will remain at rest and an object in motion will remain in motion at constant velocity”. This statement is the _______.","[""first law of motion"",""second law of motion"",""third law of motion"",""d\u2019 Alembert\u2019s principle""]",0
+"“The net force acting on an object equals the product of the mass and the acceleration of the object. The direction of the force is the same as that of the acceleration”. This statement is the _______.","[""first law of motion"",""second law of motion"",""third law of motion"",""d\u2019 Alembert\u2019s principle""]",1
+"“When an object exerts a force on another object, the second object exerts on the first a force of the same magnitude but in the opposite direction”. This statement is the _____.","[""first law of motion"",""second law of motion"",""third law of motion"",""d\u2019 Alembert\u2019s principle""]",2
+"What refers to the force with which the earth attracts an object?","[""Gravitational pull"",""Mass"",""Weight"",""All of these""]",2
+"How many kilograms are there in 1 slug?","[""11.9"",""12.5"",""13.2"",""14.6""]",3
+"What refers to an actual force that arises to oppose relative motion between contracting surfaces?","[""Action force"",""Reaction force"",""Friction"",""Drag""]",2
+"What refers to the force between two stationary surfaces in contact that prevents motion between them?","[""kinetic friction"",""sliding friction"",""starting friction"",""static friction""]",3
+"What is the maximum value of the static friction?","[""Starting friction"",""Sliding friction"",""Kinetic friction"",""Dynamic friction""]",0
+"What is TRUE between kinetic friction and static friction?","[""Kinetic friction is always to static friction"",""Kinetic friction is always less than static friction"",""Kinetic friction is always greater than static friction"",""Kinetic friction is equal to or greater than static friction""]",1
+"What is another term for kinetic friction?","[""Dynamic friction"",""Starting friction"",""Sliding friction"",""All of these""]",2
+"For the same materials in contact, what is TRUE between coefficient of static friction and coefficient of kinetic friction?","[""Coefficient of static friction is always less than the coefficient of kinetic friction"",""Coefficient of static friction is always equal to the coefficient of kinetic friction"",""Coefficient of static friction is always greater than the coefficient of kinetic friction."",""Coefficient of static friction may be greater than or less than the coefficient of kinetic friction.""]",2
+"Efficiency of a machine is the ratio of:","[""power output to power input"",""power input to power output"",""total work done to total energy"",""total energy to total power""]",0
+"What is the energy something possesses by virtue of its motion?","[""Kinetic energy"",""Potential energy"",""Rest energy"",""Mechanical energy""]",0
+"What is the energy something possesses by virtue of its mass?","[""Kinetic energy"",""Potential energy"",""Rest energy"",""Mechanical energy""]",2
+"What is the energy something possesses by virtue of its position?","[""Kinetic energy"",""Potential energy"",""Rest energy"",""Mechanical energy""]",1
+"When the vector sum of the external forces acting on the system of particles equals zero, the total linear momentum of the system __________.","[""becomes zero"",""maximizes"",""changes abruptly"",""remains constant""]",3
+"What is conserved in an elastic collision?","[""Kinetic energy"",""Potential energy"",""Rest energy"",""Mechanical energy""]",0
+"In elastic collision, kinetic energy is conserved. This statement is:","[""true"",""false"",""is either true or false, depending upon the colliding bodies"",""is either true or false, depending on the impact of two colliding bodies""]",1
+"When can we say that a collision is a completely inelastic collision?","[""When the kinetic energy lost is minimum."",""When the kinetic energy is conserved."",""When the two colliding objects stick together after impact."",""When the two colliding objects will separate after impact.""]",2
+"What will happen to the kinetic energy if it is a completely inelastic collision?","[""It is conserved."",""It is lost to maximum value."",""It is gained from the loss of potential energy."",""It is lost to minimum value.""]",1
+"Coefficient of restitution is the ratio of:","[""relative speed after collision to relative speed before collision"",""relative speed before collision to relative speed after collision"",""relative speed to absolute speed"",""absolute speed to relative speed""]",0
+"What is the coefficient of restitution for a perfectly elastic collision?","[""0"",""1"",""Less than 1"",""Greater than 1""]",1
+"What is the coefficient of restitution for a perfectly inelastic collision?","[""0"",""1"",""Less than 1"",""Greater than 1""]",0
+"The coefficient of restitution always applies _______.","[""to only one of the colliding objects"",""to neither of the colliding objects"",""jointly to the colliding objects"",""to the bigger colliding object""]",2
+"“When the vector sum of the external forces acting on a system of particles equals zero, the total linear momentum of the system remaining constant.” This statement is known as:","[""Law of universal gravitation"",""Law of conservation of impulse"",""Law of conservation of momentum"",""Law of conservation of energy""]",2
+"What refers to the product of the force and the time during which a force acts?","[""Impulse"",""Momentum"",""Power"",""Energy""]",0
+"Momentum is the product of:","[""mass and time"",""velocity and mass"",""force and time"",""force and mass""]",1
+"The coefficient of restitution always applies _________.","[""to only one of the colliding objects"",""to neither of the colliding"",""jointly to the colliding objects"",""to the bigger colliding object""]",2
+"What refers to the force perpendicular to the velocity of an object moving along a curve path?","[""Centrifugal force"",""Centripetal force"",""Reverse-effective force"",""Gravitational force""]",0
+"The centripetal force is:","[""directed away from the center of the curvature of the path"",""directed toward the center of curvature of the path"",""tangent to the curvature of the path"",""either directed away or toward the center of curvature of the path""]",1
+"What refers to the time needed by an object in uniform circular motion to complete an orbit?","[""path time"",""orbit time"",""revolution"",""period""]",3
+"The centripetal acceleration of a particle in uniform motion is _______ to the radius of its path.","[""directly proportional"",""inversely proportional"",""equal"",""not related in any way""]",1
+"Gravitation occurs between all objects in the universe by virtue of their ________.","[""mass"",""density"",""weight"",""volume""]",0
+"“Every object in the universe attracts every other object with a force directly proportional to the product of their masses and inversely proportional to the square of the distance separating them”. This statement is known as:","[""Law of conservation of energy"",""Law of universal gravitation"",""Law of conservation of momentum"",""Law of conservation of impulse""]",1
+"The gravitational force of the earth on an object varies of the ______ the distance of the object from the center of the earth.","[""inversely as"",""inversely as the square of"",""directly as"",""directly as the square of""]",1
+"A rotating body has kinetic energy. This statement is ________.","[""sometimes true"",""sometimes false"",""always true"",""always false""]",2
+"What type of energy is usually transmitted by rotary motion?","[""Kinetic energy"",""Potential energy"",""Mechanical energy"",""Rest energy""]",2
+"“When the sum of the external torques acting on a system of particles is zero, the total angular momentum of the system remains constant “. This statement is known as:","[""Conservation of energy"",""Conservation of impulse"",""Conservation of linear momentum"",""Conservation of angular momentum""]",3
+"What particles will experience tangential acceleration?","[""Those particles whose angular speed changes"",""Those particles whose angular speed remains constant"",""All particles"",""Those particles whose angular speed is zero.""]",0
+"The _________ of a body about a given axis is the rotational analog of mass of the body is distributed about the axis.","[""moment of mass"",""moment of area"",""moment of inertia"",""torque""]",2
+"The _______ of a force about a particular axis is the product of the magnitude of the force and the perpendicular distance from the line of action of the force to the axis.","[""inertia"",""mass moment"",""torque"",""moment""]",2
+"When the forces that act on an object have a vector sum of zero, the object is said to be in _______.","[""unstable equilibrium"",""stable equilibrium"",""rotational equilibrium"",""translational equilibrium""]",3
+"Which of the following is an example of a neutral equilibrium?","[""A cone balanced on its apex."",""A cone balanced on its base."",""A cone on its side."",""A cone balanced on the circumference of its base.""]",2
+"Which of the following is an example of a stable equilibrium?","[""A cone balanced on its apex."",""A cone balanced on its base."",""A cone on its side."",""A cone balanced on the circumference of its base.""]",1
+"A device that transmits force or torque is called _______.","[""mechanical tool"",""machine"",""axle"",""wedge""]",1
+"If a cone is balanced on its apex, it illustrates what type of equilibrium?","[""stable equilibrium"",""neutral equilibrium"",""unstable equilibrium"",""translational equilibrium""]",2
+"When the net torque acting on an object is zero, the object is in _______.","[""unstable equilibrium"",""stable equilibrium"",""rotational equilibrium"",""translational equilibrium""]",2
+"Which of the following is NOT a basic machine?","[""lever"",""incline plane"",""hydraulic press"",""wedge""]",2
+"Where is the center of gravity of an object located?","[""It is always inside the object."",""It is always outside the object."",""It is always at its geometric center."",""It may sometimes be inside the object and sometimes outside the object.""]",3
+"What is defined as the mass per unit volume?","[""Density"",""Weight density"",""Relative density"",""Specific density""]",0
+"What is defined as the weight per unit volume?","[""Density"",""Weight density"",""Relative density"",""Specific density""]",1
+"All are values of the density of water except one. Which one?","[""1000 kg\/m<sup>3<\/sup>"",""62.4 lb\/ft<sup>3<\/sup>"",""10 g\/cm<sup>3<\/sup>"",""9.81 kN\/m<sup>3<\/sup>""]",2
+"The __________ of a substance is its density relative to that of water?","[""density"",""weight density"",""viscosity"",""specific gravity""]",3
+"What is another term for specific gravity?","[""Density"",""Weight density"",""Relative density"",""Viscosity""]",2
+"What is the average pressure of the earth’s atmosphere at sea level?","[""1.042 bar"",""1.021 bar"",""1.013 bar"",""1.037 bar""]",2
+"“An external pressure exerted on a fluid is transmitted uniformly throughout the volume of the fluid”. This statement is known as ________.","[""Bernoulli\u2019s energy theorem"",""Pascal\u2019s principle"",""Archimedes principle"",""Torricelli\u2019s theorem""]",1
+"The hydraulic press is an instrument which uses one of the following theorems. Which one?","[""Bernoulli\u2019s energy theorem"",""Pascal\u2019s principle"",""Archimedes principle"",""Reynold\u2019s principle""]",1
+"The hydrometer is an instrument which uses one of the following theorems. Which one?","[""Bernoulli\u2019s energy theorem"",""Pascal\u2019s principle"",""Archimedes principle"",""Reynold\u2019s principle""]",2
+"The hydrometer is an instrument used to measure __________.","[""pressure of a liquid"",""density of a liquid"",""Reynold\u2019s number"",""viscosity of liquid""]",1
+"The maximum displacement of an object undergoing harmonic motion on either side of its equilibrium position is called the _________ of the motion.","[""frequency"",""oscillation"",""period"",""amplitude""]",3
+"What quantity is often used in describing harmonic motion?","[""Amplitude"",""Frequency"",""Period"",""Oscillation""]",1
+"The period of the simple harmonic motion is _______ its amplitude.","[""directly proportional to"",""inversely proportional to"",""equal to"",""independent of""]",3
+"What refers to an oscillatory motion that occurs whenever a restoring force acts on a body in the opposite direction to its displacement from its equilibrium position, with the magnitude of the restoring force proportional to the magnitude of the displacement?","[""Damped harmonic motion"",""Pendulum"",""Simple harmonic motion"",""Damped harmonic oscillation""]",2
+"In a damped harmonic oscillator, what reduces the amplitude of the vibrations?","[""Force"",""Period"",""Frequency"",""Friction""]",3
+"The _________ of a pivotal object is that point at which it can be struck without producing a reaction force on its pivot.","[""center of gravity"",""center of oscillation"",""axis of oscillation"",""center of mass""]",1
+"What is a longitudinal wave phenomenon that results in periodic pressure variations?","[""Sound"",""Resonance"",""Wave"",""Beat""]",0
+"What occurs when periodic impulses are applied to a system and frequency equal to one of its natural frequencies of oscillation?","[""Beat"",""Resonance"",""Doppler effect"",""Shock wave""]",1
+"What refers to a shell of high pressure produced by the motion of an object whose speed exceeds that of sound?","[""Shock wave"",""Mach wave"",""Beat wave"",""Sonic wave""]",0
+"What refers to the change in frequency of a wave when there is relative motion between its source and an observer?","[""Superposition principle"",""Shock effect"",""Doppler effect"",""Wave motion""]",2
+"What occur when the individual particles of a medium vibrate back and forth in the direction in which the waves travel?","[""Longitudinal waves"",""Transverse waves"",""Wave motions"",""Shock waves""]",0
+"Infrasound refers to sounds whose frequencies are below _________.","[""20 Hz"",""30 Hz"",""40 Hz"",""50 Hz""]",0
+"Ultrasound refers to sounds whose frequencies are above __________.","[""10,000 Hz"",""20,000 Hz"",""30,000 Hz"",""40,000 Hz""]",1
+"What occur when the individual particles of a medium vibrate from side to side perpendicular to the direction in which the waves travel?","[""Longitudinal waves"",""Transverse waves"",""Wave motions"",""Shock waves""]",1
+"“When two or more waves of the same mature travel just a given point at the same time, the amplitude at the point is the sum of the amplitude of the individual waves”. This statement is known as ________.","[""Mach principle"",""Doppler principle"",""Principle of superposition"",""Wave motion principle""]",2
+"What occurs when the resulting composite wave has amplitude greater than that of either of the original waves?","[""Local interference"",""Ordinary interference"",""Constructive interference"",""Destructive interference""]",2
+"What occurs when the resulting composite wave has amplitude less than that of either of the original waves?","[""Local interference"",""Ordinary interference"",""Constructive interference"",""Destructive interference""]",3
+"The rate at which a wave of any kind carries energy per unit cross-sectional area is called ________.","[""beats"",""frequency"",""gain"",""intensity""]",3
+"At what intensity will sound wave starts to damage the ear of humans.","[""10 W\/m<sup>2<\/sup>"",""0.1 W\/m<sup>2<\/sup>"",""1 W\/m<sup>2<\/sup>"",""0.01 W\/m<sup>2<\/sup>""]",2
+"For a 1kHz sound wave to be audible, it must have a minimum intensity of ______ W/m2?","[""10^-10"",""10^-11"",""10^-12"",""10^-13""]",2
+"How many decibels should a sound to be barely audible?","[""0"",""1"",""0.1"",""1.5""]",0
+"The ratio of a speed of an object and the speed of sound is called the _________.","[""Wave factor"",""Supersonic number"",""Sonic number"",""Mach number""]",3
+"“The net electric charge in an isolated system remains constant”. This statement is known as ________.","[""Principle of conservation of attraction"",""Principle of conservation of charge"",""Coulomb\u2019s law"",""Principle of superconductivity""]",1
+"“The force one charge exerts on another is directly proportional to the magnitudes of the charges and inversely proportional to the square of the distance between them”. This statement is known as ________.","[""Coulomb\u2019s law"",""Kirchhoff\u2019s law"",""Lenz\u2019s law"",""Faraday\u2019s law""]",0
+"What refers to a region of space at every point of which an appropriate test object would experience a force?","[""Energy field"",""Electric field"",""magnetic field"",""Force field""]",3
+"The _________ of an electric field is the electric potential energy per unit volume associated with it.","[""capacitance"",""polar energy"",""energy density"",""dielectric distance""]",2
+"What is the ratio between the charge on either plates of a capacitor and the potential difference between the plates?","[""Resistance"",""Inductance"",""Capacitance"",""Potential difference""]",2
+"The potential difference across a battery, a generator or other source of electric energy when it is not connected to any external circuit is called its ________.","[""electromechanical force"",""electrostatic force"",""electromotive force"",""internal resistance""]",2
+"What is defined as the luminous flux per unit area?","[""Luminous intensity"",""Luminous efficiency"",""Illumination"",""Lumen""]",2
+"What refers to the brightness of a light source?","[""Luminous intensity"",""Illumination"",""Luminous flux"",""Luminous efficiency""]",0
+"What is the approximate luminous intensity of a candle?","[""1 candela"",""1 flux"",""1 lumen"",""All of these""]",0
+"What unit is defined in terms of the light emitted by a small pool of platinum at its melting point?","[""Footcandle"",""Candela"",""Lux"",""Lumen""]",1
+"What refers to the total amount of visible light given off by a light source?","[""Luminous intensity"",""Luminous flux"",""Luminous efficiency"",""Illumination""]",1
+"Lumen is defined as the luminous flux that falls on each square meter of a sphere 1 meter in radius at whose center is a ________ light source that radiates equally well in all directions.","[""0.1 candela"",""1.0 candela"",""10 candela"",""100 candela""]",1
+"What is the total luminous flux radiated by a 1 candela source?","[""2\u03c0 lm"",""4\u03c0 lm"",""8\u03c0 lm"",""\u03c0 lm""]",1
+"What refers to the luminous flux emitted by a light source per watt of power input?","[""Luminous factor"",""Luminous efficiency"",""Luminous intensity"",""Illumination""]",1
+"What coating material is used in the inside of the fluorescent lamp which emits visible light when it is excited by an ultraviolet radiation?","[""Mercury"",""Inert gas"",""Phosphor"",""Argon""]",2
+"What refers to the ratio between the speed of light in free space and its speed in a particular medium?","[""Index of refection"",""Total internal reflection"",""Index of dispersion"",""Index of refraction""]",3
+"“The ratio of the sines of the angles of incidence and refraction is equal to the ratio of the speeds of light in the two media”. This statement is known as ________.","[""Huygen\u2019s principle"",""Snell\u2019s law"",""Maxwell\u2019s hypothesis"",""Doppler\u2019s effect""]",1
+"Light ray that passes at an angle from one medium to another is deflected at the surface between the two media. What is this phenomenon called?","[""Dispersion"",""Reflection"",""Refraction"",""Incidence""]",2
+"“Every point on the wavefront can be considered as a source of secondary wavelets that spread out in all directions with the wave speed of the medium. The wavefront at any time is the envelope of these wavelets”. This statement is known as ________.","[""Huygen\u2019s principle"",""Snell\u2019s law"",""Maxwell\u2019s hypothesis"",""Doppler\u2019s effect""]",0
+"What is an imaginary surface the joins points where all the waves from a source are in the same phase of oscillation?","[""Gamma ray"",""Wavefront"",""Electromagnetic wave"",""Microwave""]",1
+"What refers to the effect when a beam containing more than one frequency is split into a corresponding number of different beams when it is refracted?","[""Flux"",""Refraction"",""Reflection"",""Dispersion""]",3
+"What refers to the band of colors that emerges from the prism?","[""Spectrum"",""Luminance"",""Facet"",""Reflection""]",0
+"What is the index of refraction of air?","[""1.3"",""1.03"",""1.003"",""1.0003""]",3
+"What is the index of refraction of water?","[""1.33"",""1.63"",""1.43"",""1.53""]",0
+"What type of lens deviates parallel light outward as though it originated at a single virtual focal point?","[""Magnifying lens"",""Convergent lens"",""Divergent lens"",""Microscopic lens""]",2
+"What type of lens bring parallel light to a single real focal point?","[""Magnifying lens"",""Convergent lens"",""Divergent lens"",""Microscopic lens""]",1
+"Which one best describes the meniscus lens?","[""It has only concave surfaces."",""It has only convex surfaces."",""it has no concave surface and no convex surface."",""It has one concave surface and one convex surface""]",3
+"What is the distance from a lens to its focal point called?","[""Focal index"",""Focal factor"",""Focal length"",""All of these""]",2
+"In optical system, what refers to the ratio of the image height to the object height?","[""Linear magnification"",""Object magnification"",""Image magnification"",""Height magnification""]",0
+"If the linear magnification of an optical system is less than one, it means that:","[""the image and the object are of the same size"",""the image is larger than the object"",""the image is smaller than the object"",""the image may be larger or smaller than the object""]",2
+"A camera usually uses what type of lens to form an image on a light-sensitive photographic film?","[""Magnifying lens"",""Convergent lens"",""Divergent lens"",""Microscopic lens""]",1
+"One of the common defects of vision is _______ commonly known as nearsightedness.","[""hyporopia"",""hyperopia"",""myopia"",""minorpia""]",2
+"One of the common defects of vision is ______ commonly known as farsightedness.","[""hyporopia"",""hyperopia"",""myopia"",""minorpia""]",1
+"What lens is commonly used to correct nearsightedness?","[""Magnifying lens"",""Convergent lens"",""Divergent lens"",""Microscopic lens""]",2
+"What lens is commonly used to correct farsightedness?","[""Magnifying lens"",""Convergent lens"",""Divergent lens"",""Microscopic lens""]",1
+"What is a defect of vision caused by the cornea having different curvatures in different planes?","[""Astigmatism"",""Myopia"",""Hyperopia"",""Presbyopia""]",0
+"In telescopes, what refers to the ratio between the angles subtended at the eye by the image and the angle subtended at the eye by the object seen directly?","[""Magnifying power"",""Linear magnification"",""Angular magnification"",""Object magnification""]",2
+"What type of mirror that curves inward its center and converges parallel light to a single real focal point?","[""Convex mirror"",""Concave mirror"",""Spherical mirror"",""Chromatic mirror""]",1
+"What type of mirror that curves outward toward its center and diverges parallel light as though the reflected light came from a single virtual focal point behind the mirror?","[""Convex mirror"",""Concave mirror"",""Spherical mirror"",""Chromatic mirror""]",0
+"What refers to an artificially made polarizing material that transmits light with only a single plane of polarization?","[""Quartz"",""Fiber optic"",""Polaroid"",""Tounnaline""]",2
+"In optical system, what refers to its ability to produce separate images of nearby objects?","[""Coherent power"",""Brewster\u2019s power"",""Polarization power"",""Resolving power""]",3
+"The resolving power of an equal system is _________ the objective lens of the optical system?","[""directly proportional"",""inversely proportional"",""equal"",""not related to""]",0
+"What refers to the ability of waves to bend around the edges of obstacles in their paths?","[""Coherence"",""Reflection"",""Refraction"",""Diffraction""]",3
+"What refers to a series of parallel slits that produces a spectrum through the interference of light that is diffracted?","[""Diffraction grating"",""Polarization"",""Coherent waves"",""Reflection""]",0
+"The emission of electrons from a metal surface when light shines on it is called _______.","[""Absorption effect"",""Spectrum emission"",""Quantum effect"",""Photoelectric effect""]",3
+"What are high-frequency electromagnetic waves emitted when fast electrons impinge on matter?","[""Beta rays"",""Alpha rays"",""X-rays"",""De Broglie waves""]",2
+"What refers to the increase in the measured mass of an object when it is moving relative to an observer?","[""Exclusion principle"",""Quantum theory of mass"",""State of mass"",""Relativity of mass""]",3
+"What device is used for producing a narrow, monochromatic, coherent beam of light?","[""Spectral device"",""Prism"",""Fiber optic"",""Laser""]",3
+"What consists of various wavelengths of light emitted by an excited substance?","[""Excited spectrum"",""Light spectrum"",""Absorption spectrum"",""Emission spectrum""]",3
+"What consists of various wavelengths of light absorbed by a substance when white light is passed through it?","[""Excited spectrum"",""Light spectrum"",""Absorption spectrum"",""Emission spectrum""]",2
+"Every electron has a certain amount of angular momentum called its _________.","[""spin"",""shell"",""state"",""quantum number""]",0
+"What is the distance from a lens to its focal point called?","[""Focal index"",""Focal factor"",""Focal length"",""All of these""]",2
+"What does LASER stands for?","[""Light amplification by spectral emission of radiation"",""Light amplification by state emission of radiation"",""Light amplification by stimulated emission of radiation"",""Light amplification by saturated emission of radiation""]",2
+"A free falling object is acted upon by which of the following?","[""Weight of the body"",""Air resistance and gravitational pull"",""Gravitational pull"",""Air resistance""]",1
+"The first law of motion is also known as ___________.","[""Law of acceleration"",""Law of inertia"",""Law of interaction"",""Law of momentum""]",1
+"The second law of motion is also known as _________.","[""Law of acceleration"",""Law of inertia"",""Law of interaction"",""Law of momentum""]",0
+"The third law of motion is also known as __________.","[""Law of acceleration"",""Law of inertia"",""Law of interaction"",""Law of momentum""]",2
+"Air exerts force that is opposite to the car’s motion. What is this force called?","[""Reverse effective force"",""Terminal force"",""Drag force"",""Aerodynamic force""]",2
+"What instrument is used to measure blood pressure of human beings?","[""Stropomanometer"",""Pumpmanometer"",""Electromanometer"",""Sphygmomanometer""]",3
+"What do light, radiowaves, microwaves and X-rays have in common?","[""These waves were predicted by only one person, James Maxwell."",""These do not need a medium to travel in."",""These waves are all mechanical waves."",""These waves are all serendipitous discoveries.""]",1
+"Who predicted the existence of electromagnetic waves in 1865?","[""Roentgen"",""Maxwell"",""Tesla"",""Doppler""]",1
+"What is the velocity of light in meters per second?","[""3 x 10^6"",""3 x 10^9"",""3 x 10^7"",""3 x 10^8""]",3
+"What is the sound level of the threshold of pain?","[""100 dB"",""110 dB"",""120 dB"",""130 dB""]",2
+"What is the intensity in W/m2 of the threshold of pain?","[""1"",""10"",""0.1"",""0.01""]",0
+"What is the intensity of the threshold of hearing in W/m<sup>2</sup>?","[""10^-12"",""10^-10"",""10^-8"",""10^-6""]",0
+"What refers to a measure of the energy of sound?","[""Intensity"",""Loudness"",""Pitch"",""Sone""]",0
+"What refers to the sensation in the ear which depends on the energy in the sound wave?","[""Pitch"",""Intensity"",""Loudness"",""Timbre""]",2
+"How can loudness of sound be increased?","[""By increasing the energy of sound"",""By preventing sound waves to spread in different directions."",""By collecting and focusing sound waves at the receiving end."",""All of the choices.""]",3
+"Which of the following is dependent upon the frequency of sound vibrations?","[""Timbre"",""Loudness"",""Intensity"",""Pitch""]",3
+"The “Doppler effect” is named after which scientist?","[""Christopher Jacques Doppler"",""Christian Jacques Doppler"",""Christopher Jason Doppler"",""Christian Johann Doppler""]",3
+"When a person tells you that the pitch of your voice is high, he is referring to _________.","[""the intensity of your voice"",""the number of sound waves you are sending out per second"",""the loudness of your voice"",""the equality of your voice""]",1
+"At what intensity level will a noise be considered pollutant in the environment?","[""Above 50 dB"",""Above 100 dB"",""Above 120 dB"",""Above 150 dB""]",2
+"The velocity of sound in air increases by how many m/s for every 1ºC increase in temperature?","[""0.2"",""0.4"",""0.6"",""0.8""]",2
+"Why is sound wave travel faster in water than in air?","[""Because water has greater density than air."",""Because water has greater bulk modulus than air."",""Because water has more in terms of number of molecules than air."",""Because water has more in volume than air.""]",1
+"What will happen to the wavelength if the velocity and frequency of a wave are both reduced to one-half?","[""It will double."",""It will reduce in half."",""It will quadruple."",""It will remain the same.""]",3
+"Which of the following statements is TRUE?","[""A high-frequency sound has high pitch."",""A high-frequency sound has low pitch."",""A high-frequency sound has low energy."",""A high-frequency sound has low pitch and low energy.""]",0
+"What part of the human ear where sound energy is converted into electrical energy?","[""Ear drum"",""Cochlea"",""Tympanum"",""Ear canal""]",1
+"In which medium do sound waves travel the faster?","[""Liquids"",""Solids"",""Gases"",""Vacuum""]",1
+"Who provide evidence that light and electromagnetic waves have the same nature and that they travel at the same speed and exhibit the same properties such as refraction, reflection and interference?","[""Townes"",""Maxwell"",""Hertz"",""Huygens""]",2
+"Which of the following has the smallest wavelength band?","[""Blue"",""Indigo"",""Green"",""Yellow""]",1
+"What color has the longest wavelength?","[""Orange"",""Red"",""Yellow"",""Green""]",1
+"What color has the shortest wavelength?","[""Indigo"",""Violet"",""Blue"",""Green""]",1
+"What is the wavelength band of orange?","[""550 nm \u2013 600 nm"",""600 nm \u2013 650 nm"",""650 nm \u2013 700 nm"",""500 nm \u2013 550 nm""]",1
+"What is the wavelength band in nanometer of visible light?","[""350 \u2013 700"",""350 \u2013 800"",""300 \u2013 700"",""300 \u2013 800""]",0
+"What terms is used to describe the angular opening of a sphere that encloses the mirror?","[""Angle of curvature"",""Focal point"",""Aperture"",""Vertex""]",2
+"What makes the sun visible even before it is in the line with the horizon?","[""Diffraction"",""Reflection"",""Refraction"",""Diffusion""]",2
+"When the white light is passed through a prism, the different lights are bent to varying degrees and are dispersed into different colors. Which of these colors bends the most?","[""Violet"",""Red"",""Orange"",""Green""]",0
+"When the white light is passed through a prism, the different lights are bent to varying degrees and are dispersed into different colors. Which of these colors bends the least?","[""Violet"",""Red"",""Orange"",""Green""]",1
+"The formation of rainbow in the sky is due to _______.","[""diffraction"",""reflection"",""refraction"",""diffusion""]",2
+"What refers to the defect in lenses which causes unequal refraction of the different colors?","[""Chromatic diffraction"",""Chromatic polarization"",""Chromatic aberration"",""Chromatic dispersion""]",2
+"What property of a light wave is determined by its wavelength?","[""Color"",""Shape"",""Size"",""Density""]",0
+"What is diffraction?","[""It is the scattering of white light behind an obstruction."",""It is the separation of white light into its component colors."",""It is the merging of component colors into white light."",""It is the absorption of white light in the atmosphere.""]",0
+"What is dispersion?","[""It is the scattering of white light behind an obstruction."",""It is the separation of white light into its component colors."",""It is the merging of component colors into white light."",""It is the absorption of white light in the atmosphere""]",1
+"What are primary colors?","[""Blue, Red and White"",""Light colors"",""Colors which when combined produce white light"",""Blue, Red and Green""]",2
+"What device used to measure atmospheric pressure and is consists of a glass tube sealed at one end filled with mercury and a slide with a Vernier scale?","[""Bourdon gage"",""Aneroid barometer"",""Mercury barometer"",""Manometer""]",2
+"A wave that needs a material medium through which it can travel as it transfers energy?","[""Electromagnetic wave"",""Radio wave"",""Microwave"",""Mechanical wave""]",3
+"What refers to the band of colors produced when sunlight passes through a prism?","[""Light spectrum"",""Solar spectrum"",""White spectrum"",""Visible spectrum""]",1
+"What refers to the property of some media to transmit light wave in a diffused matter to make objects behind them undistinguishable?","[""Lucidity"",""Limpidity"",""Transparent"",""Translucent""]",3
+"What refers to the invisible electromagnetic waves shorter than the visible violet wave but longer than the Roentgen ray?","[""Beta ray"",""Ultraviolet light"",""Alpha ray"",""X-ray""]",1
+"What refers to the part of the shadow from which all light is excluded?","[""Footprint"",""Lumbra"",""Umbra"",""Sunspot""]",2
+"The range of the projectile is:","[""directly proportional to the gravitational acceleration"",""directly proportional to the square of the velocity"",""directly proportional to the velocity"",""inversely proportional to the velocity""]",1
+"What instrument is used to measure humidity of air?","[""Hydrometer"",""Hygrometer"",""Lactometer"",""Radiometer""]",1
+"It explains combustion as a result of loss of a substance.","[""Phlogiston"",""Roasting"",""Reduction"",""Fission""]",0
+"It refers to matter that do not have definite form or structure.","[""Amorphous"",""Morphous"",""Transient"",""Extrinsic""]",0
+"Three grams of Sulphur dissolved in 200 g of naphthalene C10H8, was found decreasing the freezing point of the solvent to 0.72 ⁰C. Find the molecular weight of the solute. (Kf C<sub>10</sub>H<sub>8</sub> = 6.9 °C/molar)","[""351.16 g\/mole"",""115.32 g\/mole"",""135.61 g\/mole"",""151.23 g\/mole""]",2
+"Substance having a pH level less than 7","[""acid"",""base"",""salt"",""hydrate""]",1
+"It is the enthalpy change associated with the condensation of gaseous positive and negative ion into a crystal.","[""a Raoult\u2019s Law"",""Lattice Energy"",""Enthalpy Of Solution"",""Partition Coefficient""]",1
+"It is a product of the weathering of complex silicates, particularly of feldspars which are abundant minerals.","[""clay"",""chalk"",""pyrite"",""diamond""]",0
+"Electrons occupy all the orbitals of a given subshell singly before pairing begins. These unpaired electrons have parallel spins. This is known as:","[""Building Up Principle"",""Aufbau Principle"",""Hund\u2019s rule"",""David\u2019s rule""]",2
+"This law states that at constant temperature the volume of a sample of gas varies inversely with the pressure.","[""Avogadro\u2019s Law"",""Boyle\u2019s Law"",""Charle\u2019s Law"",""Gay-Lussac\u2019s Law""]",1
+"It is the scattering of light by colloidal particles","[""Mott Scattering"",""Tyndall Effect"",""Rayleigh Scattering"",""Wolf Effect""]",1
+"Consider H<sub>3</sub>AsO<sub>3</sub>, Arsenic acid (H=1.01,As=74.9,O=16.0).How many mole is 1kg of H<sub>3</sub>AsO<sub>3</sub>?","[""7.94 moles"",""6.94 moles"",""5.94 moles"",""8.94 moles""]",0
+"It is customary to indicate accuracy by using a certain numbers of figures or digits.","[""atomic mass unit"",""International system"",""significant figures"",""supplementary units""]",2
+"It is required for organic compounds.","[""hydrogen"",""oxygen"",""boron"",""carbon""]",3
+"At what temperature reading do the Celsius scale and the Fahrenheit scale have the same temperature?","[""-40"",""-30"",""-20"",""-25""]",0
+"The _______ of the source is the luminous flux per unit area of the source.","[""luminous emittance"",""luminous efficiency"",""luminous intensity"",""illumination""]",0
+"Brightness is the same as __________.","[""luminous emittance"",""luminous efficiency"",""luminous intensity"",""illumination""]",0
+"What is a monochromatic light?","[""Light with only one color"",""Light with only one wavelength"",""Light with only one color and one wavelength"",""Light with many colors""]",2
+"What is a three-dimensional image of an object illuminated by a broad band of coherent light?","[""Hologram"",""Polygram"",""Opaque image"",""Translucent image""]",0
+"In opaque material,","[""light is able to pass through"",""the reflected energy is absorbed within a very thin layer and converted to heat"",""light is partially absorbed"",""the refracted energy is absorbed within a thick layer and converted to heat""]",1
+"In translucent material,","[""light is able to pass through"",""the refracted energy is absorbed within a very thin layer and converted to heat"",""light is partially absorbed"",""the reflected energy is absorbed within a thick layer and converted to heat""]",2
+"In transparent material,","[""light is able to pass through"",""the refracted energy is absorbed within a very thin layer and converted to heat"",""light is partially absorbed"",""the refracted energy is absorbed within a thick layer and converted to heat""]",0
+"The ratio of the speeds of light in two different media is known as ________.","[""index of refraction"",""index of diffraction"",""relative index of refraction"",""index of diffusion""]",2
+"What occurs when two waves combine so that one subtracts from the other?","[""Interference"",""Superposition"",""Reinforcement"",""Polarization""]",0
+"What type of waves is produced in the stem when tuning fork?","[""Transverse wave"",""Longitudinal wave"",""Neither transverse wave nor longitudinal wave"",""Both transverse wave and longitudinal wave""]",1
+"The moment of inertia of an object is dependent on which of the following?","[""The object\u2019s size and shape"",""The object\u2019s mass"",""The location of the axis of rotation"",""All of these""]",3
+"Which of the following statements about center of gravity is TRUE?","[""It may be outside the object"",""It is always at its geometrical center"",""It is always in the interior of the object"",""It is sometimes arbitrary""]",0
+"A diatomic scale is a musical scale build up of how many major chords?","[""2"",""3"",""4"",""5""]",1
+"A chromatic scale is a diatomic scale with how many added half tones?","[""2"",""3"",""4"",""5""]",3
+"What refers to two colors which combine to form white light?","[""Complementary colors"",""Secondary colors"",""Primary colors"",""Elementary colors""]",0
+"A spectrum consisting of a wide range of unseparated wavelength is called ________.","[""visible spectrum"",""continuous spectrum"",""emission spectrum"",""discontinuous spectrum""]",1
+"What refers to the emission of electrons from a heated metal in a vacuum?","[""Geiger effect<b><\/b>"",""Edison effect"",""Eddy current"",""Fraunhofer effect""]",1
+"The six colors of which sunlight is composed are called __________.","[""secondary colors"",""primary colors"",""complementary colors"",""elementary colors""]",3
+"A spectrum formed by the dispersion of light from an incandescent solid, liquid and gas is called ________.","[""visible spectrum"",""continuous spectrum"",""emission spectrum"",""discontinuous spectrum""]",2
+"What is the type of force which binds the protons and neutrons together in the nucleus of an atom?","[""Drag force"",""Bind force"",""Exchange force"",""Intact force""]",2
+"The “f” number of the lens is the ration of the:","[""focal length of the lens to the effective aperture"",""effective aperture to the focal length of the lens"",""magnifying power of lens to effective aperture"",""effective aperture to magnifying power of the lens""]",0
+"What refers to the length of time during which half of a given number of radioactive nuclei will disintegrate?","[""active life"",""half cycle"",""half life"",""half period""]",2
+"What refers to the lowest pitch produced by a musical tone source?","[""Treble"",""Bass"",""Octave"",""Fundamental""]",3
+"What is an electromagnetic radiation of very short wavelength emitted from the nucleus of a radioactive atom?","[""Beta ray"",""Alpha ray"",""Gamma ray"",""X-ray""]",2
+"What is an instrumental used to detect and measure radioactivity?","[""Edison counter"",""Radioactive counter"",""Fraunhofer counter"",""Geiger effect""]",3
+"What refers to the fundamentals and the tones whose frequencies are whole number multiples of the fundamentals?","[""Harmony"",""Beats"",""Treble and bass"",""Harmonics""]",3
+"A spectrum consisting of monochromatic slit images having wavelengths characteristic of the atoms parent is called __________.","[""line spectrum"",""continuous spectrum"",""slit spectrum"",""image spectrum""]",0
+"What is an instrument used to determine the mass of atomic particles?","[""Mass indicator"",""Mass spectrograph"",""Mass counter"",""Mass technograph""]",1
+"What is a nucleon?","[""A proton in the nucleus of an atom."",""An electron in the nucleus of an atom."",""A neutron in the nucleus of an atom."",""A proton or a neutron of an atom.""]",3
+"What is a glass bottle used to determine the specific gravity of liquids?","[""Beaker"",""Flask"",""Pyonometer"",""Graduated cylinder""]",2
+"What is an instrument used to determine the angle of rotation of the plane of polarized light?","[""Polariscope"",""Polarimeter"",""Polargraph"",""Polagraph""]",0
+"What refers to the property of sound waves which depends on the number of harmonics present and on their prominence?","[""Pitch"",""Quality"",""Harmonic"",""Fundamental""]",1
+"What refers to the failure of one set of color receptors in the eye to be stimulated?","[""Retinal failure"",""Retinal fatigue"",""Pupil imperfection"",""Astigmatism""]",1
+"The theory that the retina of the eye is provided with three sets of receptors, each of which is sensitive to one of the three primary colors is known as ___________.","[""True color vision theory"",""Young \u2013 Helmholtz color vision theory"",""Primary vision theory"",""Young \u2013 Huygen primary vision theory""]",1
+"What is a probable explanation for observe phenomena which is supported by abundant data?","[""Theory"",""Hypothesis"",""Axiom"",""Conclusion""]",0
+"A tempered scale is a musical scale with _______ equal frequency ratio intervals between the successive notes of an octave.","[""9"",""10"",""11"",""1""]",3
+"What is unifying theory applicable to the divergent phenomena of light which assumes that the transfer of energy between light and matter occurs only in discrete quantities proportional to the frequency of the energy transferred?","[""Quantum theory"",""Radioactive theory"",""Nuclear energy"",""Quark energy""]",0
+"A horizontal cord 5 m long has a mass of 2.5 grams. What must be the tension in the cord if the wavelength of a 120 Hz wave on it is to be 50 cm?","[""1.50 N"",""1.80 N"",""2.50 N"",""4.30 N""]",1
+"A 3-m string is driven by a 240 Hz vibrator at its end. Determine the speed of transverse waves on the string if it resonates four segments?","[""340 m\/s"",""360 m\/s"",""430 m\/s"",""420 m\/s""]",1
+"A guitar string 30 cm long resonates in its fundamental to a frequency of 250 Hz. What is the tension in the string if 80 cm of the string “weighs” 0.80 grams?","[""20 N"",""30 N"",""10 N"",""40 N""]",3
+"A piano string with a length of 1.17 m and a mass of 21.0 g in under tension of 6.4 x 10<sup>3</sup> N, what is the fundamental frequency?","[""225 Hz"",""187 Hz"",""255 Hz"",""290 Hz""]",2
+"A rope 4 ft. long weighs 0.7 lb. A blow on the rope produces a transverse wave. Determine the velocity of the wave considering that the tension is 40 lb.","[""75.8 ft\/s"",""95.7 ft\/s"",""78.5 ft\/s"",""85.8 ft\/s""]",3
+"What is the relative intensity level of sound in decibels it its intensity is 3 x 10<sup>-7</sup> W/cm<sup>2</sup>?","[""94.8"",""78.7"",""80.5"",""75.4""]",0
+"A wave has pressure amplitude of 5 dynes/cm<sup>2</sup> and a velocity of 35.7 m/s, what is the absolute intensity considering that 0.001293 gm/cm?","[""1.27 x 10^-8 W\/cm<sup>2<\/sup>"",""1.47 x 10^-8 W\/cm<sup>2<\/sup>"",""3.27 x 10^-8 W\/cm<sup>2<\/sup>"",""2.71 x 10^-8 W\/cm<sup>2<\/sup>""]",3
+"A train blowing its whistle at 750 Hz approaches a station at the rate of 35 mph. What frequency is heard by a man standing at the station considering the velocity of sound in air 1100 ft/s?","[""739.7 Hz"",""857.4 Hz"",""716.4 Hz"",""786.7 Hz""]",3
+"Two cars A and B are traveling toward each other at speeds of 45 km/hr and 70 km/hr respectively. If A blowing its horn, what is the relative pitch heard by a passenger in B, considering that the velocity of sound is 344 m/s","[""1.043"",""1.021"",""1.096"",""1.078""]",2
+"An explosion occurs at a distance of 5 km from the observer. How long after the explosion does a person hear if the temperature is 18°C? Note: the speed of sound at STP (standard temperature and pressure) is 332 m/s and changes by 0.6 m/s for every 1 °C change in temperature.","[""14.58 s"",""12.45 s"",""11.87 s"",""17.54 s""]",0
+"What is the speed of sound in neon gas at temperature of 25°C considering that the molecular mass if this gas is 20.18 kg/mol? Neon is monoatomic. Use k = 1.67","[""543.7 m\/s"",""478.6 m\/s"",""321.7 m\/s"",""447.5 m\/s""]",3
+"What is the wavelength of yellow light whose frequency is 5 x 10<sup>14</sup> Hz?","[""800 mm"",""200 mm"",""600 mm"",""700 mm""]",2
+"What is the angle of refraction of light as a beam of parallel light enters a block of ice at angle of incidence of 30°? The index of refraction of ice is 1.31 and that of air is 1.0.","[""45\u00b0"",""30\u00b0"",""22\u00b0"",""26\u00b0""]",2
+"A light ray is incident at an angle of 45° on one side of a glass plate of index of refraction 1.6. Find the angle at which the ray emerges from the other side of the plate.","[""26\u00b0"",""20\u00b0"",""22\u00b0"",""28\u00b0""]",2
+"It was found out that the speed of light in water is 75% of its speed in vacuum. What is the index of refraction of water?","[""1.46"",""1.33"",""1.26"",""1.67""]",1
+"A glass plate is 0.6 cm thick and has a refractive index of 1.55. Compute how long will it take for a pulse of light to pass through the plate?","[""4.41 x 10<sup>-12<\/sup> s"",""3.11 x 10<sup>-11<\/sup> s"",""1.34 x 10<sup>-12<\/sup> s"",""2.34 x 10<sup>-11<\/sup> s""]",1
+"A light passes from glass to water. If the index of refraction for glass is 1.54 and for water is 1.33, compute the critical angle for this light to pass the glass.","[""59.7\u00b0"",""45.8\u00b0"",""67.4\u00b0"",""50.9\u00b0""]",0
+"A light source emits a total luminous flux of 1000 lumens and distributed uniformly over 25% of a sphere. What is the luminous intensity at 2.5-meter distance?","[""413 cd"",""243 cd"",""134 cd"",""318 cd""]",3
+"A light bulb emits a total luminous flux of 1700 lumens, distributed uniformly over a hemisphere. What is the illuminance at a distance of 2 meters?","[""67.65 lm\/m<sup>2<\/sup>"",""35.70 lm\/m<sup>2<\/sup>"",""59.87 lm\/m<sup>2<\/sup>"",""23.56 lm\/m<sup>2<\/sup>""]",0
+"A light bulb is used to light a bunker 10 ft. below. A chair sits on the floor of the bunker 3 feet from a spot directly below the bulb. What is the illumination on the floor around the chair if the luminous intensity is 150 candles?","[""2.38 footcandles"",""2.43 footcandles"",""3.87 footcandles"",""1.38 footcandles""]",3
+"A light ray passing through air and strikes a glass surface at an angle of 55° from the normal surface. What is the angle between the reflected light and the surface?","[""55\u00b0"",""25\u00b0"",""35\u00b0"",""45\u00b0""]",2
+"A converging lens of focal length 20 cm is placed 37 cm in front of a screen. At what distance that the object be placed so that its image appears on the screen?","[""43.5 cm"",""35.7 cm"",""27.6 cm"",""50.7 cm""]",0
+"In what positions will a converging lens of focal length 10 cm from an image of luminous object on a screen located 50 cm from the object?","[""11.52 cm and 38.48 cm from the object"",""10 cm and 40 cm from the object"",""13.82 cm and 36.18 cm from the object"",""12.56 cm and 37.44 cm from the object""]",2
+"A lens has a convex surface of radius 17 cm and a concave surface of radius 38 cm and is made of glass of refractive index 1.55. Calculate the focal length of the lens and classify the type of lens whether diverging or converging?","[""55.93 cm converging lens"",""57.45 cm diverging lens"",""55.93 cm diverging lens"",""57.45 cm converging lens""]",0
+"A double convex lens has faces of radii 16 and 18 cm. When an object is 20 cm from the lens, a real image is formed 30 cm from the lens. What is the focal length of the lens?","[""11 cm"",""10 cm"",""12 cm"",""14 cm""]",2
+"A double convex lens has faces of radii 22 and 24 cm. When an object is 30 cm from the lens, a real image is formed 45 cm from the lens. Compute the refractive index of the lens material","[""1.64"",""1.32"",""1.21"",""1.76""]",0
+"A 50 watt incandescent lamp has a mean spherical luminous intensity of 66.5 candelas. Compute the total luminous flux radiated by the lamp?","[""842 lm"",""457 lm"",""786 lm"",""987 lm""]",0
+"A 250 W light source has a mean spherical luminous intensity of 87.5 candelas. Compute the luminous intensity of the lamp?","[""4.7 lm\/s"",""4.4 lm\/s"",""2.0 lm\/s"",""1.7 lm\/s""]",1
+"Compute the illumination on a surface 5 ft distance from a 100-cd source if the surface makes an angle of 18° with the rays?","[""1.67 lm\/ft<sup>2<\/sup>"",""1.50 lm\/ft<sup>2<\/sup>"",""1.24 lm\/ft<sup>2<\/sup>"",""2.13 lm\/ft<sup>2<\/sup>""]",2
+"Estimate the distance for which a 30-cd lamp provide the same illumination as a standard lamp of 80-cd placed 17 ft from the screen?","[""9.76 ft"",""8.5 ft"",""12.7 ft"",""10.41 ft""]",3
+"A Plano-convex lens has a focal length of 35 cm and an index of refraction 1.53. Find the radius of the convex surface.","[""18.55 cm"",""15.78 cm"",""20.78 cm"",""17.55 cm""]",0
+"If a beam of polarized light has one-twelfth of its initial intensity after passing through an analyzer, what is the angle between the axis of the analyzer and the initial amplitude of the beam?","[""65.73\u00b0"",""76.27\u00b0"",""73.22\u00b0"",""67.54\u00b0""]",2
+"An observer sees a spaceship, measured 100 m long when at rest. He passed by in uniform motion with the speed of 0.5 c. While the observer is watching the spaceship, a time of 2 s elapses on a clock on board the ship, what is the length of the moving spaceship?","[""82 m"",""85 m"",""83 m"",""87 m""]",3
+"The captain of a spacecraft send a pulse of light towards earth and then exactly 1 min. later (as measured by the clock on the spacecraft), sends a second pulse. An observer on earth sees the second pulse arrive 4 minutes after the first. What is the velocity of the spacecraft relative to the earth?","[""0.987c"",""0.968c"",""0.954c"",""0.953c""]",1
+"What is the rest energy of electron equivalent to its rest mass? 1Mev = 1.60 x 10^-13 J and mass of electron is 9.11 x 10^-31 kg.","[""0.512 MeV"",""0.987 MeV"",""0.345 MeV"",""0.675 MeV""]",0
+"What is the frequency of photon having energy of 2 eV?","[""560 THz"",""300 THz"",""250 THz"",""480 THz""]",3
+"A red light passes an empty space. What is the momentum of a single photon of red light whose frequency is 400 x 10<sup>12</sup> HZ?","[""8.8 x 10<sup>-28<\/sup> kg m\/s"",""7.6 x 10<sup>-28<\/sup> kg m\/s"",""5.4 x 10<sup>-28<\/sup> kg m\/s"",""6.5 x 10<sup>-28<\/sup> kg m\/s""]",0
+"The eye can detect as little as 1 x 10^-18 J of electromagnetic energy. How many photons of orange light whose wavelength is 600 nm present in the energy?","[""5"",""4"",""3"",""1""]",2
+"What is the speed of sound through compressed water (100 kPa) if its volume decreased by 0.005% of its original volume?","[""1414 m\/s"",""1250 m\/s"",""1130 m\/s"",""1200 m\/s""]",0
+"What is the bulk modulus of steel if the sound waves traveled at approximately 5900 m/s? Note: the density of steel is 7900 kg/m<sup>3</sup>","[""2.75 x 10<sup>11<\/sup> Pa"",""1.25 x 10<sup>11<\/sup> Pa"",""1.15 x 10<sup>11<\/sup> Pa"",""2.45 x 10<sup>11<\/sup> Pa""]",0
+"A certain loud speaker has a circular opening with a diameter of 15 cm. Assume that the sound it emits is uniform and outward through this entire opening. How much power is being radiated by the loudspeaker if the sound intensity at opening is 150 µW/m<sup>2</sup>?","[""1.77 \u00b5W"",""1.87 \u00b5W"",""2.65 \u00b5W"",""3.41 \u00b5W""]",2
+"Sound intensity that reaches 1.2 W/m<sup>2</sup> is painful to human ear. How many decibels is 1.2 W/m<sup>2</sup>?","[""240.5 dB"",""170.4 dB"",""120.8 dB"",""134.5 dB""]",2
+"Compute the ratio of the intensities of sounds if one is 12 times louder than the other?","[""13.47 dB"",""15.85 dB"",""18.76 dB"",""14.54 dB""]",1
+"An automobile moving at 30 m/s is approaching a building whistle with a frequency of 500 Hz. If the speed of sound in air is 340 m/s what is the apparent frequency of the whistle heard by the driver?","[""459 Hz"",""458 Hz"",""457 Hz"",""456 Hz""]",3
+"What is the mass of electron traveling at half the speed of light?","[""1.05 x 10<sup>-30<\/sup> kg"",""2.31 x 10<sup>-30<\/sup> kg"",""1.56 x 10<sup>-31<\/sup> kg"",""1.61 x 10<sup>-31<\/sup> kg""]",0
+"A medium unshaded lamp hangs 8 m directly above the table. To what distance should it be lowered to increase the illumination to 4.45 times its former value?","[""4.02 m"",""3.86 m"",""3.79 m"",""4.21 m""]",2
+"A floodlight emitting 25,000 candelas in the center of its beam is aimed at 50° to a point on the ground 20 meters away. The illumination of the point in flux is:","[""54.12"",""62.5"",""31.25"",""625""]",2
+"Compute the speed of sound in neon gas at 27°C of molecular mass 20.18 kg/kmol and k of 1.67.","[""454 m\/s"",""564 m\/s"",""356 m\/s"",""434 m\/s""]",0
+"A magnifying glass has a lens with an index of refraction 5.4 and radii of curvature of 2.95 feet and 4.27 feet for the two faces. What is the magnification of the lens when it is held 2.36 inches from an object being viewed?","[""1.6"",""2.78"",""2.16"",""1.98""]",3
+"The work done by all forces except the gravitational force is always equal to the one of the system.","[""Total mechanical energy"",""Total potential energy"",""Total kinetic energy"",""Total momentum""]",2
+"When the two waves of the same frequency, speed and amplitude traveling in opposite directions are superimposed,","[""the phase difference is always zero"",""distractive waves are produced"",""standing waves are produced"",""constructive interference always results to zero""]",2
+"According to this law, “The force between two charges varies directly as the magnitude of each charge and inversely as the square of the distance between them.”","[""Law of Universal Gravitation"",""Newton\u2019s Law"",""Inverse Square Law"",""Coulomb\u2019s Law""]",3
+"It describes the luminous flux incidence per unit area and is expressed in lumens per square meter.","[""Illuminance"",""Luminance"",""Luminous Intensity"",""Radiance""]",0
+"The fluid pressure is the same in all directions. This is known as","[""Pascal\u2019s Principle"",""Bernoulli\u2019s Theorem"",""Ideal Fluid Principle"",""Archimedes Principle""]",0
+"The amount of heat needed to change solid to liquid is","[""condensation"",""cold fusion"",""latent heat of fusion"",""solid fusion""]",2
+"At the boiling point of liquid, the vapor pressure","[""is equal to external pressure on the surface of the liquid"",""is greater than the atmospheric pressure"",""is less than the atmospheric pressure"",""can have any value""]",0
+"Which of the following thermometers is best suited for measuring a temperature of nearly 1500°C?","[""Gas thermometer"",""Platinum resistance thermometer"",""Thermocouple thermometer"",""Mercury thermometer""]",2
+"The energy stored in a starched elastic material such as spring is","[""Mechanical energy"",""Elastic potential energy"",""Internal energy"",""Kinetic energy""]",1
+"In physics, if LF and LV are the latent heat of fusion and vaporization, respectively, which of the following equations apply in determining the amount of energy needed to freeze a liquid?","[""Q = -mif"",""Q = -miv"",""Q = mif"",""Q = miv""]",0
+"Which of the following is true? The density of water","[""Is maximum at 4\u00b0C"",""Decreases as the temperature is increased"",""Is minimum at 4\u00b0C"",""Increases with temperature""]",0
+"When the pitch of a note is raised then, its","[""frequency decreases"",""wavelength is increased"",""frequency increases"",""None of the above is true""]",2
+"Cohesion is the attraction between like","[""atom"",""element"",""compound"",""molecule""]",3
+"The quality known as specific heat is based on:","[""the increase in temperature due to induction"",""the heat needed for one pound of water to boil"",""the heat needed to increase the temperature to one gram of a substance one degree Celsius"",""the amount of heat required to melt one kg of lead""]",2
+"On decreasing the pressure, the boiling point of water will","[""increase"",""remain unaffected"",""decrease"",""may increase\/decrease depending on the pressure""]",1
+"When sugar is added to water, its boiling point","[""increases"",""remains unaffected"",""decreases"",""Any of the above is possible""]",2
+"Which one of the following processes of heat transfer requires the presence of a fluid?","[""conduction"",""convection"",""radiation"",""none of these""]",1
+"When salt is added to water, its boiling point","[""increases"",""decreases"",""remains unaffected"",""may increase\/decrease depending on the pressure""]",0
+"Which one of the following propagates with the same speed as speed of light?","[""The sound waves"",""The heat waves"",""The shock waves"",""The Beta rays""]",1
+"Which of the following is not true about sound waves?","[""They transmit the energy"",""They are propagated as a series of compressions and the rare fractions"",""They travel faster in air than in solids"",""They produce interference""]",2
+"Sound waves in air are","[""longitudinal"",""neither longitudinal nor transverse"",""transverse"",""stationary""]",0
+"Normal range of the frequency of sound, which the human beings can hear, is","[""Less than 20 Hz"",""More than 25,000 Hz"",""20 Hz to 20,000 Hz"",""All of these""]",2
+"The loudness of sound depends upon its","[""Wavelength"",""Frequency"",""Amplitude"",""All of these""]",3
+"Sound above the frequency of 20,000 Hz is called","[""Supersonic sound"",""Intrasonic sound"",""Hypersonic sound"",""Ultrasonic sound""]",3
+"The surface of the thermos flask is silvered for minimizing heat transfer by what process?","[""conduction"",""radiation"",""convection"",""vaporization""]",1
+"Water starts boiling when","[""Its temperature reaches 100\u00b0C"",""Its vapor pressure equals 76 cm of mercury"",""Its saturated vapor pressure equals the external pressure on its surface"",""Its saturated vapor pressure is less than the atmospheric pressure""]",3
+"500 gm of water at 4°C occupies a certain volume V. Which of the following statements is correct?","[""It will weigh less than one pound of water at 0\u00b0C"",""It will weigh more than 500 gm of water at 0\u00b0C"",""Its volume will decrease when its temperature is lowered"",""Its volume will increase when its temperature is lowered or raised""]",2
+"Heat will flow from one body to another in thermal contact with it, when they differ in","[""mass"",""specific mass"",""density"",""temperature""]",3
+"The amount of heat which is absorbed during the change of state of a substance without rise in its temperature is called its","[""Specific heat"",""Latent heat"",""Thermal conductivity"",""Water equivalent""]",1
+"The scientist who systematically demonstrated the equivalence of mechanical energy and heat was","[""Joule"",""Boltzmann"",""Faraday"",""Kelvin""]",0
+"On a sunny day at the beach, the sand gets so hot and the water stays relatively cool is due to the difference in of water and sand.","[""density"",""specific heat"",""depth"",""thermal conductivity""]",1
+"The instrument, which measures temperature by radiation, is called","[""thermopile"",""thermometer"",""pyrometer"",""hydrometer""]",2
+"When the temperature of an ideal gas is increased at constant pressure,","[""the potential energy of molecules increases"",""the potential energy of molecules decreases"",""the kinetic energy of molecules increases"",""the kinetic energy of molecules decreases""]",2
+"The root mean square speed of the molecules of a gas is","[""independent of its pressure P"",""directly proportional to square root of P"",""directly proportional to the square of its temperature T"",""proportional to T""]",2
+"At what temperature do both the centigrade and Fahrenheit thermometers show the same reading?","[""-38\u00b0C"",""-40\u00b0C"",""-42\u00b0C"",""-50\u00b0C""]",1
+"A mercury thermometer is constructed at","[""room temperature"",""a temperature higher than the maximum range of the thermometer"",""a temperature lower than the minimum range of the thermometer"",""atmospheric pressure""]",1
+"The boiling point of water on plains is 100°C. At hills it will be","[""100oC"",""Less than 100\u00b0C"",""More than 100\u00b0C"",""May be any of these""]",1
+"It is hotter over the top of a fire than at the same distance on the sides because of:","[""convection of heat"",""conduction of heat"",""radiation of heat"",""convection, conduction and radiation of heat""]",0
+"The density of water is","[""same at all temperature"",""maximum at 4\u00b0C"",""minimum at 4\u00b0C"",""maximum at 0\u00b0C""]",0
+"When a substance is heated, its","[""molecules move more slowly"",""molecules move more rapidly"",""there is no change in the speed of its molecules"",""its temperature always increases""]",1
+"When common salt is sprinkled on ice the temperature of ice","[""increases"",""decreases"",""remains unchanged"",""none of these""]",1
+"The minimum temperature which can be measured with a mercury thermometer is","[""0\u00b0C"",""-273\u00b0C"",""-39\u00b0C"",""-143\u00b0C""]",2
+"A wave in which the particles of the material move up and down as the waves goes from left is called a","[""Longitudinal wave"",""Transverse wave"",""Standing wave"",""None of these""]",1
+"When waves go from one place to another they transport","[""Energy and matter"",""Wavelength and matter"",""Frequency only"",""Energy only""]",3
+"The phenomenon of damping results in decrease in","[""frequency"",""velocity"",""wavelength"",""amplitude""]",3
+"Echo is formed as a result of","[""refraction of sound"",""diffraction of sound"",""interference of sound"",""reflection of sound""]",3
+"The characteristic of sound which enables us to distinguish two musical notes having the same frequency and loudness is called","[""pitch"",""intensity"",""timber"",""decibel""]",0
+"Which of the following could be a longitudinal wave?","[""electromagnetic waves"",""a sound wave in air"",""a water wave"",""waves on vibrating string""]",1
+"A Decibel is a","[""musical instrument"",""highest frequency emitted by a tuning fork"",""a measure of intensity level"",""a measure of clarity of sound""]",2
+"A stone was dropped freely from a balloon at a height of 190 m. above the ground. The balloon is moving upward at a speed of 30 m/s. Determine the velocity of the stone as it hits the ground.","[""69.03 m\/s"",""68.03 m\/s"",""67.30 m\/s"",""69.23 m\/s""]",1
+"A ball is thrown vertically at a speed of 20 m/s from a bldg. 100 m. above the ground. Find the velocity and position of the stone above the ground after 5 seconds.","[""4.67 m, 48.30 m\/s"",""4.54 m, 47.68 m\/s"",""5, 43 m, 47.69 m\/s"",""5.68 m, 48.20 m\/s""]",1
+"A ball is thrown vertically at a speed of 30 m/s from the top of a tower 200 m. Determine the velocity of the stone and the time that it strikes the ground.","[""1 1.50 sec, 65.80 m\/s"",""1 1.45 sec, 66.59 m\/s"",""10.30 sec, 67.21 m\/s"",""10.14 sec, 69.45 m\/s""]",3
+"A ball is thrown vertically with a velocity of 20 m/s. from the top of a bldg. 100 m. high. Find the velocity of the stone at a height of 40 m. above the ground.","[""39.71 m\/s"",""40.23 m\/s"",""39.88 m\/s"",""39.68 m\/s""]",0
+"A projectile is fired from the top of a cliff 92 m. high with a velocity of 430 m/s directed 45° to the horizontal. Find the range on the horizontal plane through the base of the cliff.","[""18.959 km."",""23.408 km."",""15.273 km."",""20.365 km.""]",0
+"A stone is thrown outward, at an angle of 30° with the horizontal as shown in the drawing, into the river from a cliff that is 120 meters above the water level at a velocity of 36 kilometers per hour . At what height above the water level will the stone start to fall?","[""121.27 m."",""189.29 m."",""1 1 1.38 m."",""152.22 m.""]",0
+"A stone was thrown upward at an angle of 60° with the horizontal and a resultant vertical speed of 100.0 meters per second. If gravity decelerates the speed at 9.8 meters/sec², what is the actual speed of the stone, in meters per second, 10.0 seconds later, in the direction it was thrown?","[""57.77 m\/s"",""64.22 m\/s"",""60.35 m\/s"",""67.23 m\/s""]",0
+"A projectile is launched at 45° to the horizontal on a level ground at a speed of 60 m/s. Neglecting air resistance, what is the range of the projectile?","[""366.86 m."",""355.29 m."",""663.24 m."",""386.66 m.""]",0
+"A ball thrown at an angle of 30° with the horizontal from a point60 m. from the edge of a vertical cliff 48 m. high. The ball just misses the edge of the cliff. Determine the initial velocity of the ball and the distance beyond the cliff where the ball strikes the ground.","[""28.4 m\/sec; 32.6 m."",""26.1 m\/sec; 46.9 m."",""27.5 m\/sec; 56.5 m"",""31.1 m\/sec; 43.2 m""]",1
+"A block passes a point 4 m from the edge of a table with a velocity of 5 m/sec. It slides off the edge of the table which is 5 m. high and strikes the floor 3 m from the edge of the table. What was the coefficient of friction between the block and the table?","[""0.65"",""1.04."",""0.21."",""0.1 1""]",2
+"A ball is shot at a ground level at an angle of 60 degrees with the horizontal with an initial velocity of 10 m/sec. Which of the following most nearly gives the maximum height (h) attained by the ball?","[""2.47 m"",""3.29 m"",""4.61 m"",""3.82 m""]",3
+"A stone is thrown upward at an angle of 30° with the horizontal. It lands 60 m. measured horizontally and 2 m. below measured vertically from its point of release. Determine the initial velocity of the stone in m/s.","[""27.35"",""28.35"",""25.35"",""26.35""]",2
+"A projectile is fired with a muzzle velocity of 300 m/s from a gun aimed upward at an angle of 20° with the horizontal, from the top of a building 30m. high above a level ground. With what velocity will it hit the ground in m/s?","[""300.98"",""310.96"",""320.96"",""330.96""]",0
+"A projectile leaves a velocity of 50 m/s at an angle of 30 with the horizontal. Find the maximum height that it could reach?","[""31.86"",""41.26"",""28.46"",""51.26""]",0
+"A ball is shot at a ground level at angle of 60 degrees with the horizontal with an initial velocity of 100 m/s. Determine the height of the ball after 2 sec.","[""162.46 m."",""153.59 m."",""175.48 m."",""186.42 m.""]",1
+"A projectile has a velocity of 200m/s acting at an angle of 20° with the horizontal. How long will it take for the projectile to hit the ground surface?","[""13.95 sec."",""15.75 sec."",""10.1 1 sec"",""24.23sec.""]",0
+"A stone is thrown upward at an angle of 20° with the horizontal from the top of a tower 30 m. high and hits the ground at a distance of 5976.4 m. horizontally from the base of the tower. Find the time of flight of the stone until it hits the ground.","[""21.20 sec."",""22.20 sec"",""19.39 sec."",""24.15 sec.""]",0
+"A projectile is fired upward at an angle of 20° with the horizontal from the top of a tower 30 m. high above a level ground. Find the range on the horizontal plane will the ball hit the ground after 20.20 seconds.","[""5386.30 m."",""5642.22 m."",""5415.37 m."",""6329.33 m.""]",2
+"A projectile leaves a velocity of 50 m/s at an angle of 30° with the horizontal. Find the time it would take for the projectile to reach the maximum height.","[""2.55 sec."",""2.60 sec."",""3.10 sec."",""2.89 sec.""]",0
+"A baseball is thrown from a horizontal plane following a parabolic path with an initial velocity of 100 m/s at an angle of 30° above the horizontal. How far from the throwing point will the ball attain its original level?","[""890 m."",""884 m."",""883 m."",""875 m.""]",2
+"A shot is fired at an angle of 45° with the horizontal and a velocity of 300 fps. Calculate, to the nearest, the range of the projectile.","[""3500 ft."",""1200 ft."",""4000 ft."",""934 yds.""]",3
+"Three crates with masses A = 45.2 kg, B = 22.8 kg and C = 34.3 kg and are placed with B along a horizontal frictionless surface. Find the force exerted by B and C by pushing the crates to the right with an acceleration of 1.32 m/sec².","[""45.3 kN"",""54.2 KN"",""43.2 kN"",""38.7 kN""]",0
+"Three blocks A, Band Care placed on a horizontal frictionless surface and are connected by chords between A, Band C. determine the tension between block B and C when a horizontal tensile force is applied at C equal to 6.5 N. Masses of the blocks are A = 1.2 kg, B = 2.4 kg and C = 3.1 kg.","[""3.50 N"",""4.21 N"",""3.89 N"",""4.65 N""]",0
+"A constant force P = 750 N acts on the body shown during only the first 6 m. of its motion starting from rest. If u = 0.20, find the velocity of the body after it has moved a total distance of 9m.","[""3.93 m\/sec\u00b2"",""4.73 m\/sec\u00b2"",""2.32 m\/sec\u00b2"",""3.1 1 m\/sec\u00b2""]",0
+"A weight of 9 kN is initially suspended on a 150 m. long cable. The cable weighs 0.002 kN/m. If the weight is then raised 100 m. How much work is done in Joules?","[""915000"",""938700"",""951000"",""905100""]",0
+"What is the kinetic energy of a 4000 lb. automobile which is moving at 44 fps.","["") 1.21 x 10<sup>5<\/sup> ft-lb."","") 2.1 x 10<sup>5<\/sup> ft-lb."",""1.8 x 10<sup>5<\/sup> ft-lb"",""1.12 x 10<sup>5<\/sup> ft-lb.""]",0
+"A box slides from rest from point Adown a plane inclined 30°, to the horizontal. After reaching the bottom of the plane, the box moves on horizontal floor at a distance 2 m before coming to rest. If the coefficient of friction between the box and plane and between the box and floor is k = 0.40, what is the distance of point “A” from the intersection of plane and the floor?","[""7.24 m"",""5.21 m"",""4.75 m"",""9.52 m""]",1
+"A 400 N block slides on a horizontal plane by applying a horizontal force of 200 N and reaches a velocity of 20 m/s in a distance of 30 m. from rest. Compute the coefficient of friction between the floor and the block.","[""0.18"",""0.24"",""0.31"",""0.40""]",0
+"A car weighing 40 tons is switched to a 2 percent upgrade with a velocity of 30 mph. If the train resistance is 10 lb/ton, how far up the grade will it go?","[""1124 ft. on slope"",""2014 ft. on slope"",""1203 ft. on slope"",""1402 ft on slope""]",2
+"A wooden block starting from rest, slides 6 m down a 45° slope, then 3 m along a level surface and then up a 30° incline until it comes to rest again. If the coefficient of friction is 0.15 for all surfaces of contact, compute the total distance traveled.","[""20m"",""1 1m"",""14 m"",""18m""]",2
+"A 1000 N block on a leveled surface is attached to 250 N block hanging on the pulley. The pulley is 3 m away from the first block. If the first block started at rest and moves towards the right. What is the velocity of block B as it touches the ground? How far will the block A travel along the horizontal surface if the coefficient of friction between block A and the surface is .20? Assume pulley to be frictionless.","[""1.44 m"",""2.55 m"",""5.22 m"",""3.25 m""]",0
+"A 500 N block on a n incline plane with an angle of 30° has move 3 m up the incline plane due to 600 N force applied. Find the velocity of the block when it returns to its initial position.","[""8.6 m\/s"",""5.6 m\/s"",""6.4 m\/s"",""7.1 m\/s""]",2
+"A 10 Kg block is raised vertically 3 meters. What is the change in potential energy? Answer in SI units closest to:","[""350 kg-m<sup>2<\/sup>\/sec"",""320 J"",""350 N-m"",""294 J""]",3
+"A car weighing 40 tons is switched to a 2% upgrade with a velocity of 30 mph. if the car is then allowed to run back, what velocity will it have at the foot of the grade?","[""37 fps"",""31 fps"",""43 fps"",""34 fps""]",3
+"A 200 ton train is accelerated from rest to a velocity of 30 mph on a level track. How much useful work was done?","[""12024845 ft-lbs"",""13827217 ft-lbs"",""11038738 ft-lbs"",""10287846 ft-lbs""]",0
+"A force of 200 lbf acts on a block at an angle of 28° with respect to the horizontal. The block is pushed 2 feet horizontally. What is the work done by this force?","[""320 J"",""480 J"",""540 J"",""215 J""]",1
+"A 50 Kg object strikes the unscratched spring attached to a vertical wall having a spring constant of 20 KN/m. Find the maximum deflection of the spring. The velocity of the object before it strikes the spring is 40 m/s.","[""1 m"",""2 m"",""3 m"",""4 m""]",1
+"To push a 25 Kg crate up a 27° incline plane, a worker exerts a force of 120 N, parallel to the incline. As the crates slides 3.6 m, how much is the work done on the crate by the worker and by the force of gravity.","[""400 J"",""420 J"",""380 J"",""350 J""]",0
+"A train weighing 12,000 KN is accelerated at a constant rate up a 2% grade with a velocity increasing from 30 kph to 50 kph in a distance of 500 meters. Determine the horse power developed by the train.","[""5.394 kW"",""5.120 kW"",""4.486 kW"",""4.591 kW""]",2
+"An elevator has an empty weight of 5160 N. It is design to carry a maximum load of 20 passengers from the ground floor to the 25th floor of the building in a time of 18 seconds. Assuming the average weight of a passenger to be 710 N and the distance between floors to be 3.5 m, what is the minimum constant power needed for the elevator motor?","[""94.3 kW"",""85.5 kW"",""97.4 kW"",""77.6 kW""]",0
+"A piano string is 80 cm long and weighs 5 N. if the string is stretched by a force of 500 N. what is the speed of the wave set up when the hammer strikes the string?","[""26m\/s"",""27m\/s"",""28 m\/s"",""30m\/s""]",2
+"A 16-16 wire cable 100 ft. long is stretched between two poles under tension of 500 lb. If the cable is struck at one end, how long will it take for the wave to travel to the far end and return?","[""0.63 s"",""0.64 s"",""0.65 s"",""0.66 s""]",0
+"Assume that young modulus for silver is 77.5 G N/m<sup>2</sup>. If it has density 10.5 x 10<sup>3</sup> kg/m<sup>3</sup>, how fast does sound travel through the silver?","[""2600m\/s"",""2700m\/s"",""1600 m\/s"",""1700m\/s""]",1
+"The speed of a compressional wave in silver, specific gravity 10.5, is 2610 m/s. compute y for silver.","[""71.6 GN\/m<sup>2<\/sup>"",""76 GN\/m<sup>2<\/sup>"",""7.16 GN\/m<sup>2<\/sup>"",""716 GN\/m<sup>2<\/sup>""]",0
+"Two waves whose frequencies are 500 and 511 per second travel out from a common point. Find their difference in phase after 1.40 s.","[""143\u00b0"",""144\u00b0"",""145\u00b0"",""146\u00b0""]",1
+"A copper has a density of 9 g/cm<sup>3</sup> and a bulk modulus of 120 G N/m<sup>2</sup>. What is the speed of a wave through it?","[""3600 m\/s"",""6300 m\/s"",""6030 m\/s"",""1460 m\/s""]",0

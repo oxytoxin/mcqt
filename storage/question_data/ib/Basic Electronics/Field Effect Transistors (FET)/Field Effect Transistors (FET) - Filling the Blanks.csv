@@ -1,0 +1,6 @@
+question,A,B,C,D,E,answer,explanation
+"<p>To get a negative gate-source voltage in a self-biased JFET circuit, you must use a ________.</p>",negative gate supply voltage,ground,voltage divider,source resistor,,D,
+"<p>One advantage of voltage-divider bias is that the dependency of drain current, I<sub>D</sub>, on the range of Q points is _________.</p>",reduced,increased,not affected,none of the above,,A,
+<p>Changing  ________ can control the voltage gain of a common-source amplifier.</p>,the input voltage,"<img alt=""smdelta.gif"" src=""/_files/images/basic-electronics/complete/smdelta.gif""/><sub>m</sub>",V<sub>DD</sub>,R<sub>S</sub>,,B,
+<p>A __________ change in V<sub>DS</sub> will produce a __________ change in I<sub>D</sub>.</p>,"small, large","large, small","large, large","small, small",,B,
+<p>A _______________ JFET amplifier provides a voltage gain of less than one.</p>,common-source,common-gate,common-drain,cascode amplifier,,C,

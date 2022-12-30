@@ -1,0 +1,16 @@
+question,A,B,C,D,E,answer,explanation
+"<p>If a 5 V, 60 Hz voltage is applied to a 4.7 <img align=""absmiddle"" alt=""mu.gif"" src=""/_files/images/basic-electronics/basics/mu.gif""/>F capacitor, the circuit current will be ______ .</p>",0.886 mA,8.86 mA,"8.86 <img align=""absmiddle"" alt=""mu.gif"" src=""/_files/images/basic-electronics/basics/mu.gif""/>A","88.6 <img align=""absmiddle"" alt=""mu.gif"" src=""/_files/images/basic-electronics/basics/mu.gif""/>A",,B,
+<p>___ capacitors have the highest values of capacitance.</p>,Electrolytic,Ceramic,Plastic-film,Mica,,A,
+<p>The basic capacitor is made up of ___ that separates two conductive plates.</p>,a conductor,a spacer,a dielectric,an electrode,,C,
+"<p><p><img src=""/_files/images/basic-electronics/basics/fbq9_1007_1.gif""/></p> <p>The total circuit reactance is ______ in the given circuit.</p></p>","50 <img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/>","140 <img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/>","265 <img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/>","676 <img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/>",,C,
+<p>A circuit whose output voltage is proportional to the rate of change of the input voltage is called a(n) ______ .</p>,differentiator,integrator,curve averager,mixer,,A,
+<p>The term ______ is derived from a mathematical function in calculus.</p>,differentiator,integrator,filter,voltage-divider,,B,
+<p>A capacitor takes ___ time constants to charge to 95% of its capacity.</p>,2,3,4,5,,B,
+<p>The ___ of a capacitor affects the time it takes to charge and discharge.</p>,package style,lead arrangement,plate area,voltage rating,,C,
+"<p>The ______ the area of the plates, the greater the number of electrons and ______ that can be stored.</p>","larger, charge","smaller, charge","larger, polarity","smaller, polarity",,A,
+<p>A discharged capacitor has ______ charges on its plates.</p>,no,unequal,equal,negative,,C,
+<p>A ___ capacitor allows ac signals to pass while blocking dc signals.</p>,filter,bypass,decoupling,coupling,,D,
+<p>The rate of charge or discharge of a capacitor is based on ___ function.</p>,an exponential,a linear,a parabolic,a trigonometric,,A,
+"<p><p><img src=""/_files/images/basic-electronics/basics/fbq9_1003_1.gif""/></p>
+<p>The given image is a _____ capacitor.</p></p>",0.33 pF,"0.00033 <img align=""absmiddle"" alt=""mu.gif"" src=""/_files/images/basic-electronics/basics/mu.gif""/>F","33,000 pF","0.33 <img align=""absmiddle"" alt=""mu.gif"" src=""/_files/images/basic-electronics/basics/mu.gif""/>F",,D,
+"<p><p><img src=""/_files/images/basic-electronics/basics/fbq9_1007_1.gif""/></p> <p>The reactance of C<sub>2</sub> is _____ in the given circuit.</p></p>","66 <img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/>","80 <img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/>","199 <img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/>","398 <img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/>",,D,

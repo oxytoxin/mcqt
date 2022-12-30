@@ -1,0 +1,22 @@
+question,A,B,C,D,E,answer,explanation
+"<p><img alt=""fbq16_1001_1.gif"" src=""/_files/images/basic-electronics/basics/fbq16_1003_1.gif""/><br/> A ___ is created when an electron moves from the valence band to the conduction band.</p>",hole,gap,vacancy,blank,,A,
+<p>The average value of the half-wave rectified output voltage is approximately __________ of V<sub>p</sub>.</p>,31.8%,63.6%,70.7%,100%,,A,
+<p>Typically the forward voltage on an LED is between _______ and ________.</p>,"1.5 V, 3.7 V","0.7 V, 1.1 V","1 V, 3 V","1 V, 6 V",,C,
+<p>A two-diode rectifier will not operate without a _________.</p>,center-tapped transformer,voltage regulator,capacitive filter,phase-inverting transformer,,A,
+"<p><p><img src=""/_files/images/basic-electronics/basics/fbq16_1010_1u.gif""/></p>
+<p>The name of the circuit in the given circuit is the ___.</p></p>",half-wave rectifier,center-tapped full-wave rectifier,full-wave bridge rectifier,half-wave bridge rectifier,,C,
+<p>The small amount of ac signal present on the output of a filtering network for a dc power supply is known as ________.</p>,pulsating dc,trickle,ripple,waffle,,C,
+"<p><p><img src=""/_files/images/basic-electronics/basics/fbq16_1007_1.gif""/></p>
+<p>The peak output voltage from the circuit in the given circuit equals ___.</p></p>",3 V,3.7 V,2.3 V,0 V,,C,
+<p>An electron can move to another atom's orbit only while in the _______.</p>,valence band,conduction band,orbit nearest the nucleus,covalent band,,B,
+"<p><p><img src=""/_files/images/basic-electronics/basics/fbq16_1010_1.gif""/></p>
+<p>The average value of the output voltage from the circuit in the given circuit equals ___.</p></p>",5.48 V,2.74 V,0 V,6.37 V,,A,
+"<p><img alt=""fbq16_1001_1.gif"" src=""/_files/images/basic-electronics/basics/fbq16_1001_1.gif""/><br/> Atoms in a silicon crystal are held together by ___ bonds.</p>",crystal,chemical,electrical,covalent,,D,
+<p>Special diodes designed to conduct in the reverse direction are called _______________ diodes.</p>,zener,varactor,LED,switching,,A,
+<p>___ occurs when a <i>pn</i> junction is first formed.</p>,Recombination,Covalent bonding,Crystallization,Breakdown,,A,
+"<p><p><img src=""/_files/images/basic-electronics/basics/fbq16_1010_1.gif""/></p>
+<p>Connecting a capacitor filter to the circuit in the given circuit will___.</p></p>",produce a nearly-constant dc voltage,reduce the output voltage,increase the ripple voltage,lower the surge current,,A,
+"<p><p><img src=""/_files/images/basic-electronics/basics/fbq16_1007_1.gif""/></p>
+<p>The peak inverse voltage (PIV) for the diode in the give circuit equals ___.</p></p>",3 V,2.3 V,0 V,6 V,,A,
+<p>A pure semiconductor material ___ very well.</p>,conducts,insulates,conducts and insulates,neither conducts nor insulates,,D,
+<p>The small amount of ac signal present on the output of a filtering network for a dc power supply is known as ________.</p>,pulsating dc,trickle,ripple,waffle,,C,

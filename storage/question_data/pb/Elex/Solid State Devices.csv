@@ -1,0 +1,568 @@
+﻿question,choices,answer
+"The maximum permissible number of electrons in the third orbit is","[""18"",""8"",""32"",""2""]",0
+"Varactor diodes are commonly used","[""As voltage controlled capacitance"",""As a constant current source"",""As voltage multiplier"",""As a constant voltage source""]",0
+"The reason why electrons are not pulled into the nucleus of an atom.","[""Because of the centrifugal or outward force created by their orbital motion."",""Because of the force of attraction between them and the nucleus is weak."",""Because they are not being attracted by the positive nucleus."",""Because of the strong bonding between them that resists any force pulling them towards the nucleus.""]",0
+"The electrons in the largest orbit travel ________ than the electrons in the smaller orbits.","[""More slowly"",""Faster"",""In the same velocity"",""A little bit slower""]",0
+"A transistor configuration with the lowest current gain.","[""Common base"",""Common emitter"",""Common collector"",""Emitter-follower""]",0
+"A semiconductor in its purest form is called","[""Pure semiconductor"",""Doped semiconductor"",""Intrinsic semiconductor"",""Extrinsic semiconductor""]",2
+"Valence orbit is the other form for","[""Outer orbit"",""3rd orbit"",""4th orbit"",""2nd orbit""]",0
+"K shell means","[""First orbit"",""2nd orbit"",""3rd orbit"",""4th orbit""]",0
+"For either germanium or silicon diodes, the barrier potential decreases _______ for each Celsius degree rise.","[""1 mV"",""3 mV"",""4 mV"",""2 mv""]",3
+"A diode modeling circuit which considers the threshold voltage, average resistance and switch as the diode’s equivalent circuit.","[""Ideal model"",""Simplified model"",""Piecewise linear model"",""Real model""]",2
+"There are two mechanisms by which holes and electrons move through a silicon crystal. They are","[""Covalent bond and recombination"",""Diffusion and drift"",""Free and charge particles"",""Forward and reverse bias""]",1
+"A semiconductor is an element with a valence of","[""Four"",""Eight"",""Two"",""One""]",0
+"What orbit controls the electrical property of the atom?","[""Valence orbit"",""First orbit"",""Fourth orbit"",""M shell""]",0
+"________ is a substance that contains atoms with several bands of electrons but with only one valence electron.","[""Insulator"",""Conductor"",""Semiconductor"",""Resistor""]",1
+"Pure silicon crystal atoms contain how may valence electrons as a result of covalent bonding?","[""1"",""4"",""8"",""16""]",2
+"The peak inverse voltage of a full wave center tapped rectifier circuit is equal to _______ of the input signal.","[""Thrice the peak"",""Twice the peak"",""One half"",""One third""]",1
+"Diffusion or storage capacitance is the term used to refer to","[""The reverse bias capacitance of a diode"",""The forward bias capacitance of a diode"",""The breakdown capacitance of a zener diode"",""The effective capacitance of the rectifier""]",1
+"What is considered as the key electrical conductivity?","[""The number of electrons in the valence orbit"",""The number of protons in the nucleus"",""The number of neutrons in the nucleus"",""The number of protons plus the number of electrons in the atom""]",0
+"Each atom in the silicon crystal has how many electrons in its valence orbit?","[""8"",""32"",""2"",""4""]",0
+"Lifetime is the amount of time between the creation and disappearance of a/an","[""Free electron"",""Proton"",""Ion"",""Neutron""]",0
+"A silicon crystal is an intrinsic semiconductor","[""If every atom in the crystal is a silicon atom"",""If majority of the atoms in crystal is a silicon atom"",""If the crystal contains 14 silicon atoms"",""If the crystal is undoped""]",0
+"At room temperature, a silicon crystal acts approximately like a/an","[""Insulator"",""Semiconductor"",""Conductor"",""Superconductor""]",0
+"An extrinsic semiconductor is a","[""Doped semiconductor"",""Pure semiconductor"",""Good insulator"",""Good conductor""]",0
+"What is associated with random motion due to thermal agitation in the movement of holes and electrons in a silicon crystal?","[""Drift"",""Diffusion"",""Doping"",""Recombination""]",1
+"The peak inverse voltage of a half wave rectifier circuit is approximately equal to the ________ of the input signal.","[""Peak amplitude"",""Frequency"",""Voltage sinusoidal"",""Current""]",0
+"Silicon that has been doped with a trivalent impurity is called a/an","[""P-type semiconductor"",""N-type semiconductor"",""Intrinsic semiconductor"",""Extrinsic semiconductor""]",0
+"Silicon that has been doped with a pentavalent impurity is called a/an","[""N-type semiconductor"",""P-type semiconductor"",""Intrinsic semiconductor"",""Extrinsic semiconductor""]",0
+"What is another name for a pn crystal","[""Junction diode"",""PN junction"",""Diode"",""Lattice""]",0
+"An acceptor atom is also called","[""Pentavalent atom"",""Trivalent atom"",""Minority carrier"",""Majority carrier""]",1
+"Which is a donor atom?","[""Trivalent atom"",""Aluminum"",""Boron"",""Pentavalent atom""]",3
+"In an n-type semiconductor, free electrons are called","[""Minority carriers"",""Valence electrons"",""Majority carriers"",""Charge carriers""]",2
+"in an n-type semiconductor, holes are called","[""minority carriers"",""majority carriers"",""protons"",""charge carriers""]",0
+"What is the barrier potential of germanium at 25˚C","[""0.7 V"",""0.3 V"",""0.5 V"",""0.4 V""]",1
+"The barrier potential for a silicon diode at 25˚C is approximately","[""0.4 V"",""0.3 V"",""0.7 V"",""0.5 V""]",2
+"Each pair of positive and negative ions at the junction is called a/an","[""Anion"",""Positron"",""Cation"",""Dipole""]",3
+"When temperature increases, barrier potential _________.","[""Remains the same"",""Decreases"",""Increases"",""Either increases or decreases depending on the semiconductor material used""]",1
+"Avalanche effects occurs at","[""Higher reverse voltages"",""Lower reverse voltages"",""Higher forward voltages"",""Lower forward voltages""]",0
+"The creation of free electrons through zener effect is also known as","[""Avalanche emission"",""Thermionic emission"",""Low-field emission"",""High-field emission""]",3
+"Zener effect only depends on the","[""High-speed minority carriers"",""High-speed majority carriers"",""Intensity of the electric field"",""Intensity of the magnetic field""]",2
+"What temperature is inside the diode, right at the junction of the p and n-type materials?","[""Junction temperature"",""Ambient temperature"",""Internal temperature"",""Absolute temperature""]",0
+"What is the input control parameter of a FET?","[""Gate voltage"",""Source voltage"",""Drain voltage"",""Gate current""]",0
+"One of the important diode parameters which gives the magnitude of current the diode candle without burning.","[""Reverse saturation current"",""Reverse current"",""Forward current"",""Forward breakdown current""]",2
+"The maximum reverse voltage that can be applied before current surges is called","[""Reverse recovery time"",""Maximum junction voltage"",""Forward voltage"",""Reverse breakdown voltage""]",3
+"What is the other name of Esaki diode?","[""Diac"",""Hot-carrier diode"",""Shockley diode"",""Tunnel diode""]",3
+"The most important application of Schottky diodes is in","[""Digital computers"",""Power supplies"",""Amplifier circuits"",""Voltage regulators""]",0
+"A diode is a nonlinear device because","[""It produces a nonlinear graph"",""Its current is not directly proportional to its voltage"",""It has a built-in barrier potential"",""It can rectify alternating current""]",1
+"The sum of the resistance of the p-region and the n-region is called","[""Junction resistance"",""Extrinsic resistance"",""Intrinsic resistance"",""Bulk resistance""]",3
+"What is the typical bulk resistance of rectifier diodes?","[""Less than 1\u2126"",""Greater than 1\u2126"",""Equal to 1\u2126"",""It depends on the doping level""]",0
+"The reverse bias diode capacitance is termed as","[""Transition region capacitance"",""Diffusion capacitance"",""Storage capacitance"",""Reverse capacitance""]",0
+"An over-voltage protection circuit employing a zener diode and an SCR whose function is to produce high overload by-pass current on a circuit.","[""regulator"",""current enhancer"",""crowbar"",""shunted zener""]",2
+"The flow of electron in a NPN transistor when used in electronic circuit is from _______.","[""collector to base"",""collector to base"",""emitter to collector"",""base to emitter""]",2
+"A three terminal, three layer semiconductor device that has the ability to multiply charge carriers. This device was first introduced at Bell Laboratories, by Brattain and Bardeen in 1947 and which opens a completely new direction of interest and development in the field of electronics.","[""triode"",""triac"",""SCR"",""transistor""]",3
+"An active semiconductor device, capable of amplification, oscillation, and switching action. It is an acronym for transfer resistor and had replaced the tube in most applications.","[""thyristor"",""thyrector"",""SBS"",""transistor""]",3
+"Transistor replaces the old vacuum tubes because it has several obvious advantages, what are they?","[""smaller, lightweight and rugged construction"",""no heater loss, low operating voltage and therefore efficient"",""low power consumption and low power dissipation"",""all of these""]",3
+"Which of the three regions/areas in a transistor that is the smallest in construction?","[""emitter"",""collector"",""base"",""all are equal""]",2
+"The region or area in a transistor that is heavily doped","[""at the junction"",""emitter"",""collector"",""base""]",1
+"A transistor in which the base is diffused and the emitter is alloyed. The collector is provided by the semiconductor substrate into which alloying and diffusion are affected.","[""alloy-transistor"",""alloy-diffused transistor"",""alloy junction transistor"",""diffused junction transistor""]",1
+"A transistor whose junctions are created by alloying","[""alloy transistor"",""alloy-diffused transistor"",""diffused transistor"",""alloy junction""]",0
+"In a semiconductor device, a p-n junction formed by alloying a suitable material such as indium with the semiconductor.","[""alloy junction"",""diffused junction"",""depletion junction"",""storage junction""]",0
+"A transistor in which one or both electrodes are created by diffusion","[""diffused transistor"",""alloy transistor"",""planar transistor"",""mesa transistor""]",0
+"A two-junction transistor whose construction takes the form of a pnp or a npn. Such device uses both electron and hole conduction and is current-driven.","[""bipolar transistor"",""unipolar transistor"",""bi-directional transistor"",""double junction transistor""]",0
+"The predecessor of the junction transistor, and is characterized by a current amplification factor, alpha of greater than one.","[""surface-charge transistor"",""surface-barrier transistor"",""schottky transistor"",""point-contact transistor""]",3
+"For a transistor, the outer layers are","[""lightly doped semiconductors"",""heavily doped semiconductors"",""no doping at all"",""A and B above""]",1
+"The ratio of the total width of the outer layers to that of the center layer","[""100:1"",""150:5"",""150:1"",""1:150""]",2
+"The ratio of the doping level of the outer layers to that of the sandwiched material","[""10:3 or more"",""10:2 or more"",""10:3"",""10:1 or less""]",3
+"Limiting the number of “free” carriers will","[""increase the conductivity but decreases the resistance"",""decrease the conductivity but increases the resistance"",""increase the conductivity as well as resistivity"",""decrease the conductivity as well as resistivity""]",1
+"The term __________ reflects the fact that holes and electrons participate in the injection process into the oppositely polarized material.","[""unipolar"",""bipolar"",""tetrode"",""pentode""]",1
+"What device, that employs only electron or hole?","[""unipolar"",""bipolar"",""tetrode"",""pentode""]",0
+"At forward-biased junction of pnp transistor, majority carriers flow heavily","[""from p- to the n-type material"",""from n- to the p-type material"",""from p- to p-type material"",""A and B above""]",0
+"The minority-current component of a transistor is called","[""leakage current"",""emitter current"",""cut-off current"",""all of the above""]",0
+"For general-purpose transistors, IC is measured in _________, while I<sub>CO</sub> is measured in ________.","[""micro and nanoamperes"",""milliamperes and microamperes"",""milliamperes and nanoamperes"",""b and c above""]",3
+"Is temperature sensitive, and can severely affect the stability of the system, when not carefully examined during design","[""I<sub>C<\/sub>"",""I<sub>CO<\/sub>"",""I<sub>S<\/sub>"",""I<sub>E<\/sub>""]",1
+"For the transistor, the arrow in the graphic symbol defines the direction of ____________ through the device","[""leakage current flow"",""emitter electron flow"",""majority carrier flow"",""emitter conventional current flow""]",3
+"In the dc mode, the levels of I<sub>C</sub> and I<sub>E</sub> due to the majority carriers are related by the quantity","[""alpha (\u03b1)"",""beta (\u03b2)"",""gamma (\u03b3)"",""A and B above""]",0
+"In the ac mode, alpha α is formally called","[""common-base, short-circuit, amplification factor"",""common-emitter, amplification factor"",""common-collector, amplification factor"",""all of the above are correct""]",0
+"Phrases “not pointing in” and “pointing in” simply mean","[""npn and pnp"",""pnp and npn"",""npn only"",""pnp only""]",0
+"In the dc mode, the levels of I<sub>C</sub> and I<sub>B</sub> are related by a quantity called","[""\u03b1"",""\u03b2"",""\u03b3"",""A and B above""]",1
+"For practical transistor devices, the level of β typically ranges","[""from about 25 to over 400"",""less than 1"",""mostly in midrange of 50 to 400"",""A or C above""]",2
+"The formal name of βac","[""Common-collector reverse-current amplification factor"",""Common-collector forward-current amplification factor"",""Common-emitter forward-current amplification factor"",""Common-emitter reverse-current amplification factor""]",2
+"It is a particularly important parameter that provides a direct link between current levels of the input and output circuits for a common-emitter configuration.","[""\u03b1"",""\u03b2"",""A and B above"",""none of these""]",1
+"The __________ id defined as that area below I<sub>C</sub> = I<sub>CEO</sub>.","[""active region"",""cutoff region"",""saturation region"",""none of the above""]",1
+"It is referred to as the communication link between the manufacturer and user","[""specification sheet"",""characteristic manual"",""characteristic curve"",""all of the above""]",3
+"The information that can be found in most specification sheets?","[""maximum ratings"",""thermal characteristics"",""electrical characteristics"",""all of the above""]",3
+"With an ohmmeter, a large or small resistance in either junction of an npn or pnp transistor indicates","[""faulty device"",""well functioning device"",""leaky device"",""either A or C""]",0
+"At base-emitter junction, using an ohmmeter, if the positive (+) lead is connected to the base and the negative (-) lead to the emitter, a low resistance reading would indicate","[""npn transistor"",""pnp transistor"",""germanium transistor"",""silicon transistor""]",0
+"At base-emitter junction, if the positive (+) lead is connected to the base and the negative (-) lead to the emitter, a high resistance reading would indicate","[""npn transistor"",""pnp transistor"",""germanium transistor"",""silicon transistor""]",1
+"Transistors of heavy duty construction","[""high-power devices"",""low-power devices"",""medium-power devices"",""all of the above""]",0
+"On a voltage-current condition curve, the point belong to which a further increase in voltage produces no (or very little) further increase in current.","[""saturation flux"",""saturation value"",""saturation point"",""all of the above""]",2
+"It is applied to any system where levels have reached their maximum values","[""saturation"",""active"",""cutoff"",""quiescent point""]",0
+"For an “on” transistor, the voltage VBE should be in the neighborhood of","[""0.3 V"",""0.55 V"",""0.7 V"",""1.7 V""]",2
+"Among the three characteristics of a transistor amplifier, which region is normally employed for linear (undistorted) amplifiers?","[""active region"",""cutoff region"",""saturation region"",""capital region""]",0
+"In the active region, the collector-base junction is ________, while the base-emitter junction is ________.","[""forward and forward-biased"",""forward and reverse-biased"",""reverse and reverse biased"",""reverse and forward-biased""]",3
+"It is necessary, in order to establish the proper region of operation for ac amplification.","[""ac biasing"",""dc biasing"",""A and B above"",""none of the above""]",1
+"At cutoff region, the collector-base and base-emitter junctions of a transistor are","[""both reverse-biased"",""forward and reverse-biased"",""both forward-biased"",""reverse and forward-biased""]",0
+"In saturation region, the collector-base and base-emitter junctions of a transistor are","[""both reverse-biased"",""forward and reverse-biased"",""both forward-biased"",""reverse and forward-biased""]",2
+"If the base-emitter junction is reverse biased and the base-collector junction is forward biased, the transistor will be at what region of operation?","[""active region"",""cut-off region"",""saturation region"",""breakdown region""]",1
+"Under what region does the transistor operate if both the base-emitter and base-collector junctions are reverse-biased?","[""active region"",""cut-off region"",""saturation region"",""breakdown region""]",1
+"What region the transistor should be operating to have minimum distortion at the output signal?","[""active region"",""cut-off region"",""saturation region"",""none of the above""]",0
+"The transistor terminal that handles most current","[""base"",""collector"",""emitter"",""collector and emitter""]",2
+"Which indicates the degree of change, in operating-point due to temperature variation in the dc biasing?","[""temperature coefficient"",""factor of safety"",""merit factor"",""stability factor""]",3
+"What best describes the transistor current that flows between the collector and emitter terminals when the base is open?","[""leakage current"",""cut-off current"",""reverse saturation current"",""all of these""]",1
+"Solve for the base current if collector current is 600 mA and the current gain is 20.","[""30 mA"",""3 mA"",""12 mA"",""1.2 mA""]",0
+"When the transistor is saturated, VCE is approximately","[""0 V"",""\u00bd VCC"",""VCC"",""infinite""]",0
+"Collector-emitter resistance of ideal transistor at cut-off","[""0 \u2126"",""infinite"",""a function of the load resistance"",""a function of the collector current""]",1
+"The leakage current that flows at the collector-base junction when the emitter is open","[""ICO"",""ICBO"",""ICEO"",""ICBE""]",1
+"A transistor with β = 100 is connected as common base, was found to have a leakage current ICBO = 1 µA. If the transistor is configured as common emitter, what is the approximate value of its I<sub>CEO</sub>?","[""0.01 \u00b5A"",""1.0 \u00b5A"",""100 \u00b5A"",""10 mA""]",2
+"The most correct technical term of the reverse leakage current that flows between the collector and base junctions when the emitter is open circuited.","[""leakage current"",""saturation current"",""reverse saturation current"",""cut-off current""]",2
+"How is the collector cut-off or reverse saturation current ICBO related to the emitter cutoff current IEBO?","[""ICBO \u2248 \u03b2 IEBO p"",""ICBO \u2248 IEBO\/\u03b2"",""ICBO \u2248 IEBO(1-\u03b1)"",""ICBO \u2248 IEBO""]",3
+"ICBO of an ideal transistor","[""increases as temperature increases"",""increases as temperature decreases"",""is not affected by a temperature change"",""is zero (0) mA""]",3
+"The maximum voltage that can be applied across the collector-emitter terminal for a given transistor is specified as","[""VCEO"",""VECO"",""V(BR)BEO"",""V(BR)CEO""]",3
+"If the current-gain-bandwidth product of transistor is 250 MHz and is operated at 100 MHz, what is the effective current gain of the transistor?","[""2.5"",""25"",""250"",""350""]",0
+"The current gain of a transistor decreases as the operating frequency increases. As the operating frequency is increased continuously, a point occurs where the current gain becomes unity. This point, is best described by what transistor parameter?","[""unity gain frequency"",""0 dB frequency"",""cut-off frequency"",""unity gain bandwidth product or unity current gain bandwidth product""]",3
+"When base is common to both the input and output sides of the configuration and is usually the terminal closes to, or at ground potential, it is called what?","[""common-emitter terminology"",""common-collector terminology"",""common-base terminology"",""all of the these""]",2
+"Which transistor configuration has the highest input resistance?","[""common base"",""common emitter"",""common collector"",""common transistor""]",2
+"One of the following amplifier characteristic refers to that of a common-base (C-B) as compared to common-emitter (C-E) and common-collector (C-C) amplifiers.","[""Has larger current gain"",""Has lower input resistance"",""Has higher input resistance"",""Has larger voltage gain""]",1
+"A transistor is said to be configured as common emitter if the emitter terminal is","[""grounded"",""connected to V+"",""floating"",""not used as an input nor output""]",3
+"Most frequently used transistor configuration for pnp and npn","[""common-base"",""common-collector"",""common-emitter"",""A and C above""]",2
+"Calculate the common-emitter amplification factor β of a transistor with a common-base amplification factor α = 0.99.","[""10"",""50"",""100"",""200""]",2
+"Which transistor configuration hybrid parameters, that is usually specified by the manufacturers?","[""for common-base"",""for common-collector"",""for common-emitter"",""a combination of the three configurations""]",2
+"For a common-emitter transistor configuration, the hybrid parameter hfe stands for forward transfer current ratio. This parameter is approximately equal to","[""HFE"",""\u03b2ac"",""\u03b2"",""all of these""]",3
+"Hybrid parameter that is usually neglected in circuit analysis","[""hi and ho"",""hr and hf"",""hi and hf"",""hr and ho""]",3
+"The input impedance of a common-base configuration is hib, and its magnitude is approximately equal to","[""hie\/hfe"",""hie\/(1+\u03b2)"",""re for dynamic model"",""all of these""]",3
+"In most transistor input equivalent circuit it comprises of a resistor and a","[""voltage source"",""stiff voltage source"",""current source"",""stiff current source""]",0
+"Which transistor configuration has the highest input resistance?","[""common-base"",""common-collector"",""common-emitter"",""emitter follower""]",1
+"Common-base configuration has a high voltage gain and a current gain of","[""low"",""moderate"",""high"",""approximately equal to one (1)""]",3
+"Common-collector has the lowest power gain and a voltage gain of approximately one. In contrast to this, what configuration has the highest power gain?","[""common-base"",""common-collector"",""common-emitter"",""emitter follower""]",2
+"Which of the following transistor characteristic curves that is most useful?","[""input characteristic curve"",""output characteristic curve"",""transfer characteristic curve"",""all of the above""]",1
+"The graph of the product of collector-emitter voltage VCE and collector current IC in the transistor output characteristic curve.","[""maximum power curve"",""minimum power curve"",""saturation power curve"",""breakdown curve""]",0
+"The base of a transistor serves a purpose to what element of the FET?","[""source"",""ground"",""substrate"",""gate""]",3
+"What is the primary difference between the BJT and the FET?","[""current-controlled device and voltage-controlled device, respectively"",""voltage-controlled device and current-controlled device, respectively"",""impedance transformed device and conductance transformed device, respectively"",""A and C above are correct""]",0
+"Another difference between a BJT and a FET with regards to its normal biasing.","[""The input circuit is forward-biased for BJT while reverse for FET."",""The input circuit is reverse-biased for BJT while forward for FET."",""The output circuit is forward-biased for BJT while reverse for FET."",""The output circuit is reverse-biased for BJT while forward for FET.""]",0
+"Field-effect transistors (FETs) offer high input impedance than BJT. What makes FETs have high input impedance?","[""The way FETs are constructed."",""Because of the materials used."",""Due to the level of doping"",""Due to the reverse-biased input circuit of FETs""]",3
+"The operation of BJT involves both the flow of electrons and holes and is therefore, considered as a bipolar device. Unlike BJT, FET’s operation involves only either electrons or holes and is considered as a _________ device.","[""single polar"",""unipolar"",""unpolar"",""polarized""]",1
+"Considered as the basic FET or the simplest form of FET","[""JFET"",""MOS-FET"",""IGFET"",""VMOS-FET""]",0
+"Junction field effect transistor or JFET has three terminals, which corresponds to the EB-C of the BJT?","[""D-S-G"",""D-G-S"",""S-G-D"",""S-D-G""]",2
+"One obvious advantage of a JFET over BJT is its","[""high voltage gain"",""high current gain"",""high input resistance"",""high output resistance""]",2
+"A BJT is a current-controlled current-source device while JFET is a ___________ device.","[""current-controlled voltage-source"",""voltage-controlled voltage-source"",""voltage-controlled current-source"",""voltage-controlled transconductance-source""]",2
+"What do you call the area in a JFET where current passes as it flows from source (S) to drain (D).","[""channel"",""substrate"",""depletion"",""drift""]",0
+"What will happen to the channel of a JFET as current flows to it?","[""widens"",""narrows"",""skews"",""nothing""]",2
+"For a normal operation of an n-channel JFET, how do you bias the gate-source junction?","[""positive-negative respectively"",""negative-positive respectively"",""forward-biased"",""any of the above""]",1
+"The voltage across the gate-source terminal of a FET that causes drain current ID equal to zero.","[""saturation voltage"",""threshold voltage"",""cut-off voltage"",""pinch-off voltage""]",3
+"The current that flows into the channel of a JFET when the gate-source voltage is zero.","[""drain-source saturation current"",""drain-source cut-off current"",""drain-source leakage current"",""drain-source pinch-off current""]",0
+"The graph of the drain current ID versus drain-source voltage VDS with VGS as the parameter.","[""transfer characteristic curve"",""output characteristic curve"",""input characteristic curve"",""current-voltage characteristic curve""]",3
+"In FET, the conduction path of the output is controlled by the electric field as its name implies. How does an electric field in FET established?","[""By the charges present at the gate due to the reverse-biased junction."",""By the application of reverse-biased between the gate and drain."",""By the charges produced due to the applied potential between drain and source VDS."",""By the charges present at each terminal due to the applied potential.""]",0
+"An early version of the field effect transistor in which limited control of current carriers near the surface of a semiconductor bar or film was obtained by an external electric field applied transversely.","[""fieldistor"",""JFET"",""IGFET"",""MOSFET""]",0
+"A FET in which the gate electrode consists of a pn junction","[""JFET"",""fieldistor"",""MOS-FET"",""IGFET""]",0
+"Which type of FET has the lowest input resistance?","[""JFET"",""MOS-FET"",""IGFET"",""VMOSFET""]",0
+"What is the insulator used in most MOS-FET?","[""CO2"",""SiO2"",""mica"",""plastic""]",1
+"An n-channel JFET has a drain-source saturation current IDSS = 10 mA and a gate-source pinch-off voltage Vp = -4 V. If the applied reverse gate-source voltage VGS = 2 V, calculate the drain current ID.","[""2.5 mA"",""5.0 mA"",""10.0 mA"",""22.5 mA""]",0
+"Base from Shockley’s equation of a JFET, what is the drain current when the applied voltage VGS is exactly equal to the pinch-off voltage Vp?","[""IDSS"",""maximum"",""minimum"",""zero""]",3
+"The transconductance of a JFET is defined as","[""dID\/dVGS"",""dVGS\/dID"",""dIDSS\/dVGS"",""dID\/dVp""]",0
+"A field-effect transistor in which the gate electrode is not a pn junction (as in the junction field-effect transistor) but a thin metal film insulated from the semiconductor channel by a thin oxide film.","[""MOSFET (enhancement type)"",""MOSFET (depletion type)"",""IGFET"",""all of the above""]",3
+"In MOSFET, it is the foundation upon which the device will be constructed and is formed from a silicon base","[""substrate"",""slab"",""source"",""base""]",0
+"A type of MOSFET wherein originally there is no channel between the drain and the source","[""depletion type"",""enhancement type"",""break type"",""insulated type""]",1
+"What type of MOSFET whose channel is originally thick but narrows as the proper gate bias is applied?","[""enhancement"",""depletion"",""transverse"",""all of the above""]",1
+"The amount of voltage needed at the gate-source terminal for an enhancement type MOSFET so that a channel can be formed for the current to flow.","[""\u201cON\u201d voltage"",""pinch-off voltage"",""threshold voltage"",""trigger voltage""]",2
+"To switch off the depletion type MOSFET, the channel should be depleted. Depletion of the channel is done by applying enough voltage across the gate-source terminal. What do you call this voltage?","[""pinch-off voltage"",""trigger voltage"",""holding voltage"",""threshold voltage""]",0
+"The substrate of a MOSFET is usually connected internally to","[""source"",""gate"",""drain"",""channel""]",0
+"In an n-channel enhancement type MOSFET, the gate voltage should be ________ with respect to the source in order to produce or enhance a channel.","[""the same"",""positive"",""negative"",""either positive or negative""]",1
+"To deplete a channel from a p-channel IGFET depletion type, the gate voltage should be ________ with respect to the source.","[""the same"",""positive"",""negative"",""either positive or negative as long as it is greater""]",1
+"The substrate used in a p-channel IGFET enhancement type","[""n -type material"",""n+ -type material"",""p -type material"",""p+ -type material""]",0
+"The base material of a MOSFET which extends as an additional terminal","[""source (S)"",""channel (C)"",""drain (D)"",""substrate (SS)""]",3
+"Which FET that has a substrate?","[""MOSFET enhancement type"",""IGFET"",""MOSFET depletion type"",""all of the above""]",3
+"What is the difference between a JFET and a MOSFET?","[""The gate of a MOSFET is insulated."",""MOSFET uses a substrate in its construction."",""MOSFET can work in both forward and reverse gate-source voltages."",""all of the above""]",3
+"Calculate the transconductance of a p-channel MOSFET enhancement type if the gate-source voltage VGS = -8 V, threshold voltage VT = -4 and a constant k = 0.3 mA/V2.","[""1.2 mS"",""2.4 mS"",""3.6 mS"",""7.2 mS""]",1
+"One drawback of JFET devices is the strong dependence of the devices’ parameters on the channel geometry. Which parameter is an example of this?","[""drain saturation current (IDSS)"",""pinch-off voltage (VP)"",""transconductance (gm)"",""all of the above""]",3
+"JFET cutoff frequency is dependent on channel length by a factor of","[""1\/L"",""1\/L2"",""1\/L3"",""1\/L4""]",1
+"Which FET operates as close as BJT in terms of switching?","[""JFET"",""MOSFET depletion type"",""MOSFET enhancement type"",""IGFET""]",2
+"Generally, MOSFET has low power handling capability than BJT. To increase MOSFET power, the channel should be made","[""narrow and long"",""narrow and short"",""wide and long"",""wide and short""]",3
+"Which FET has a wide and short effective channel?","[""JFET"",""MOSFET"",""IGFET"",""V-MOSFET""]",3
+"A type of FET wherein the channel is formed in the vertical direction rather than horizontal","[""JFET"",""MOSFET"",""IGFET"",""V-MOSFET""]",3
+"Advantage or advantages of V-MOS over BJT","[""No stored charge and therefore faster in switching action."",""A negative temperature dependence of output current which eliminates thermal runaway."",""High input impedance and therefore high current gain."",""all of the above""]",3
+"In general, which of the transistors is particularly more useful in integrated-circuit (IC) chips?","[""BJTs"",""FETs"",""UJTs"",""all of the above""]",1
+"A monolithic semiconductor-amplifying device in which a high-impedance GATE electrode controls the flow of current carriers through a thin bar of semiconductor called the CHANNEL. Ohmic connections made to the ends of the channel constitute SOURCE and DRAIN electrodes.","[""BJT"",""UJT"",""FET"",""UPT""]",2
+"A junction field effect transistor has a drain saturation current of 10 mA and a pinch-off voltage of -4 V. Calculate the maximum transconductance.","[""2.5 mS"",""5.0 mS"",""25.0 mS"",""50.0 mS""]",1
+"Approximately, the atomic weight of germanium is","[""32"",""28.09"",""72.7"",""16""]",2
+"Atomic weight of silicon at 300 K is","[""28.09"",""72.7"",""5.32"",""16""]",0
+"An LED and phototransistor is equivalent to a/an","[""Thermocouple"",""FET"",""Optocoupler"",""Regulator""]",2
+"Optocoupler is otherwise known as","[""Laser"",""Photodiodes"",""Optoisolator"",""Photoconductive cell""]",2
+"When the emitter junction is forward biased while the collector junction is reverse biased, the transistor is at ________ region.","[""Cut-off"",""Saturation"",""Active"",""Breakdown""]",2
+"When both emitter and collector junction are forward biased, the transistor is said to be at _________ region.","[""Active"",""Cut-off"",""Breakdown"",""Saturation""]",3
+"An equivalent circuit of a diode in which it is represented as a switch in series with a barrier potential.","[""First approximation"",""Second approximation"",""Third approximation"",""Fourth approximation""]",1
+"Which of the following is the equivalent circuit for a diode for third approximation?","[""A switch only"",""A switch in series with a battery in series with a resistance"",""A switch in series with battery"",""A switch in series with a resistance""]",1
+"A silicon crystal is a/an ___________ of a semiconductor if every atom in the crystal is a silicon atom.","[""Extrinsic"",""Intrinsic"",""P-type"",""N-type""]",1
+"With pnp voltage divider bias, you must use","[""Ground"",""Negative power supplies"",""Positive power supplies"",""Resistors""]",1
+"Two pn silicon diodes are connected in series opposing. A 5 V voltage is impressed upon them. Find the voltage across each junction at room temperature when nVT= 0.052 V.","[""0.236 V, 3.2 V"",""4.764 V, 0.236 V"",""0.036 V, 4.964 V"",""3.21 V, 1.79 V""]",2
+"A half-wave signal has a period of","[""16.7 ms"",""8.3 ms"",""16.7 \u00b5s"",""8.3 \u00b5s""]",0
+"A full-wave signal has a period of","[""16.7 \u00b5s"",""8.3 \u00b5s"",""8.3 ms"",""16.7 ms""]",2
+"When doping increases, ________ of a semiconductor decreases.","[""Impurity"",""Conductivity"",""Bulk resistance"",""Minority carrier""]",2
+"Which of the following has the least noise level?","[""FET"",""BJT"",""Triode"",""Tetrode""]",0
+"Which of the following has the highest input impedance","[""FET"",""BJT"",""MOSFET"",""Crystal diode""]",2
+"The frequency of a half-wave signal is","[""Twice the line frequency"",""Equal to the line frequency"",""One-half of the line frequency"",""One-fourth the line frequency""]",1
+"For a full-wave rectifier, the output frequency","[""Equals one-half the input frequency"",""Equals the line frequency"",""Equals two times the input"",""Is three times the line frequency""]",2
+"The averaged dc voltage of a half wave rectifier circuit is _________ of the value of the peak input voltage.","[""63.6%"",""31.8%"",""4.8%"",""6.2%""]",1
+"The average dc voltage of a full wave rectifier circuit is __________ of the value of the peak input voltage.","[""31.8%"",""48.1%"",""63.6%"",""1%""]",2
+"Typical leakage current in a pn junction is in the order of","[""\u00b5A"",""mA"",""nA"",""pA""]",0
+"The resistance of a forward biased pn junction is in the order of","[""\u2126"",""m\u2126"",""\u00b5\u2126"",""k\u2126""]",0
+"The removal by electronic means of one extremity of an input waveform is called ________.","[""Filtering"",""Clamping"",""Amplifying"",""Clipping""]",3
+"Which of the choices below does not describe a clipper circuit?","[""Limiter"",""Amplitude selector"",""Slicer"",""Baseline stabilizer""]",3
+"The varactor diode is also called as","[""Voltage-variable capacitance"",""Varicap"",""Epicap"",""All of these""]",3
+"What diode has no depletion layer","[""Varactor"",""Varistor"",""Schottky diode"",""Shockley diode""]",3
+"Varistors are used for line filtering to eliminate spikes and dips and is also called","[""Transient regulator"",""Transient limiter"",""Transient filter"",""Transient suppressor""]",3
+"Defined as random motion of holes and free electrons due to thermal agitation","[""Fission"",""Fusion"",""Diffusion"",""Ionization""]",2
+"The temperature coefficient of resistance of a semiconductor is","[""Positive"",""Negative"",""Zero"",""Infinity""]",1
+"A large signal amplifier which is biased so that collector current flow continuously during the complete electrical cycle of the signal as well as when no signal is present","[""Class A"",""Class B"",""Class AB"",""Class C""]",0
+"A large signal amplifier which is biased so that current is non zero for less than one-half cycle.","[""Class AB"",""Class C"",""Class A"",""Class B""]",2
+"A class __________ amplifier stage operates with a small forward bias of the transistor so that some collector current flows at all times","[""A"",""B"",""AB"",""C""]",2
+"What factor is shown on a data sheet that tells how much you have to reduce the power of a device?","[""Power factor"",""Derating factor"",""Reactive factor"",""Reduction factor""]",1
+"The time it takes to turn off a forward-biased diode is called the","[""Forward recovery time"",""Reverse recovery time"",""Recombination"",""Turn-off time""]",1
+"A heavily doped semiconductor has","[""High resistance"",""No effect on the semiconductor characteristics"",""More heat dissipation"",""Low resistance""]",3
+"Gallium arsenide, aluminum arsenide and gallium phosphide are classified as","[""Elementary semiconductor"",""Secondary semiconductor"",""Intrinsic material made by doping"",""Insulators""]",1
+"A lightly doped semiconductor has","[""Low resistance"",""High resistance"",""No effect on a semiconductor"",""More heat dissipated behaviors""]",1
+"The property or ability of a material to support charge flow or electron flow","[""Resistance"",""Conductance"",""Resistivity"",""Permeance""]",1
+"What is also known as photodiffusion effect?","[""Dember effect"",""Skin effect"",""Destriau effect"",""Night effect""]",0
+"An effect that occurs within the entire bulk of a semiconductor material rather than in a localized region or junction","[""Silicon effect"",""Dember effect"",""Bulk effect"",""Destriau effect""]",2
+"The creation voltage in a conductor or semiconductor by illumination of one surface","[""Dember effect"",""Skin effect"",""Destriau effect"",""Night effect""]",0
+"What device uses a material catwhisker as its anode and is classified as a hot-carrier diode?","[""PIN"",""Point-contact diode"",""Shockley diode"",""Crystal diode""]",1
+"What is the typical operating current of an LED?","[""50 mA"",""10 mA"",""20 mA"",""5 mA""]",1
+"At absolute zero temperature, a semiconductor behaves as a/an","[""Good conductor"",""Superconductor"",""Insulator"",""Variable resistor""]",2
+"Avalanche breakdown in a semiconductor takes place","[""When forward current exceeds a certain value"",""When potential barrier is reduced to zero"",""When reverse bias exceeds a certain value"",""When forward bias exceeds a certain value""]",2
+"A cold-cathode glow-discharge diode having a copper anode and a large cathode of sodium or other material.","[""Tunnel diode"",""BARITT diode"",""Anotron"",""READ diode""]",2
+"A microwave diode in which the carriers that transverse the drift region are generated by minority carrier injection from a forward-biased junction instead of being extracted from the plasma of an avalanche region.","[""IMPATT"",""TRAPAT"",""BARITT diode"",""Esaki diode""]",2
+"What electronic circuit converts AC to DC where the DC output peak value can be greater than the AC input peak value?","[""Voltage multiplier"",""Rectifier"",""Clamper"",""Clipper""]",0
+"Which of the item below does not mean a VARACTOR diode?","[""VOLTACAPS"",""VARICAPS"",""Voltage variable capacitors"",""Variable resistance diode""]",3
+"It is the current gain for the common-emitter configuration","[""\u03b1"",""\u03b2"",""\u03b4"",""\u03c1""]",1
+"when a factor a junction transistor is 0.98,the factor would be equivalent to ________ value of transistor’s beta.","[""49"",""60"",""20"",""38""]",0
+"An emitter resistor is used for ________ in most amplifier circuits.","[""Temperature stabilization"",""Biasing a bipolar junction transistor"",""Current limitation"",""Voltage amplification""]",1
+"What line is drawn between the open-circuit current on a JFET characteristic curve?","[""Operating point"",""Load line"",""Tangent line"",""Quiescent point""]",1
+"Which of the choices below is another name for a photoconductive cell?","[""Varicap"",""Varistor"",""Photoresistive device"",""Photodiode""]",2
+"When both emitter and collector junctions are reverse biased, the transistor is said to be at _______ region.","[""Active"",""Cut-off"",""Saturation"",""Amplifying""]",1
+"What type of diode is used for tuning receivers and is normally operated with reverse bias and derived its name from voltage variable capacitor?","[""Hot-carrier diode"",""Varactor diode"",""Tunnel diode"",""Zener diode""]",1
+"What silicon npn tetrode serves as bistable negative-resistance device?","[""BJT"",""Binistor"",""FET"",""Thermistor""]",1
+"A multiple-terminal solid-state device similar to a transistor that generates frequencies up to about 10000 MHz by injecting electrons or holes into a space-charge layer which rapidly forces these carriers to a collecting electrode.","[""Magnetron"",""IMPATT"",""Klystron"",""Spacistor""]",3
+"Which of the items below is not a good conductor?","[""Electrolytes"",""Ionized gases"",""Silicon"",""Silver""]",2
+"What is the net charge if a certain semiconductor losses 4 valence electrons?","[""+4"",""-4"",""+8"",""-8""]",0
+"What is the net charge if a certain semiconductor gains one valence electron?","[""+1"",""-1"",""+4"",""-4""]",1
+"What is the approximate voltage drop of LED?","[""0.3 V"",""0.7 V"",""1.5 V"",""3.8 V""]",2
+"Under standard conditions, pure germanium has a resistivity of","[""60 \u2126-cm"",""60 \u2126-m"",""60 \u2126-mm"",""60 x 10^-4 cm""]",0
+"The holding of one extreme amplitude of the input waveform to a certain amount of potential is called","[""Slicing"",""Limiting"",""Rectifying"",""Clamping""]",3
+"Clamper is also known as","[""DC restorer"",""Rectifier"",""Charger"",""Clipper""]",0
+"Percentage ripple can be calculated by getting the _________ and multiplying the result by100%.","[""Ratio of the input resistance and input voltage"",""Product of the ac current to dc current"",""Ratio of the ac voltage to dc voltage"",""Addition of the ac and dc component of the given signal""]",2
+"Which of the following materials has the smallest leakage current?","[""Germanium"",""Carbon"",""Sulfur"",""Silicon""]",3
+"What refers to annihilation of a hole and electron?","[""Doping"",""Recombination"",""Diffusion"",""Bonding""]",1
+"What are the two possible breakdown mechanisms in pn junction diodes?","[""Reverse and breakdown effects"",""Threshold and knee effects"",""Avalanche and forward effects"",""Zener and avalanche effects""]",1
+"What occurs in pn diodes when the electric field in the depletion layer increases to the point where it can break covalent bonds and generate electron hole pairs?","[""Covalent breakdown"",""Diffusion"",""Zener breakdown"",""Avalanche effect""]",2
+"The amount of additional energy required to emit an electron from the surface of metal is called","[""Potential barrier"",""Junction voltage"",""Work function"",""Knee voltage""]",2
+"When temperature of a pure semiconductor is increased, its resistance","[""Decreases"",""Remains the same"",""Increases"",""Cannot be estimated""]",0
+"As a general rule, ________ are found only in semiconductors.","[""Electrons"",""Bulk resistances"",""Depletion layers"",""Holes""]",3
+"What in a semiconductor is defined as the incomplete part of an electron pair bond?","[""Hole"",""Valence electron"",""Impurity"",""Ion""]",0
+"When the number of free electrons is increased in doped semiconductor, it becomes a/an ________ semiconductor.","[""N type"",""P type"",""PN type"",""NP type""]",0
+"Reducing the number of free electrons in a doped semiconductor forms a/an _________ semiconductor.","[""N type"",""P type"",""PNPN type"",""NPN type""]",1
+"Pure semiconductor atoms contain how many valence electrons?","[""1"",""2"",""4"",""8""]",2
+"An acceptor atom contains how many valence electrons?","[""1"",""2"",""3"",""4""]",2
+"What is the resistivity of an extrinsic semiconductor?","[""1 \u2126-cm"",""2 \u2126-cm"",""3 \u2126-cm"",""4 \u2126-cm""]",1
+"The forward resistance crystal diode is in the order of","[""\u2126"",""m\u2126"",""\u00b5\u2126"",""k\u2126""]",0
+"What is the ideal value stability factor?","[""1"",""0.5"",""Infinite"",""100""]",0
+"What is the approximate mass of a neutron at rest?","[""1.6726 x 10^-27 kg"",""9.1096 x 10^-31 kg"",""1.6022 x 10^-19 kg"",""No mass""]",0
+"Approximate mass at rest of a proton is _________ to that of a neutron.","[""Greater than"",""Equal"",""Less than"",""Comparable""]",1
+"Charge of an electron is approximately equal to","[""1.6022 x 10^-19 C"",""-1.6726 x 10^-27 C"",""-1.6022 x 10^-19 C"",""No charge""]",2
+"What capacitors are used in transistor amplifiers?","[""Mica"",""Air"",""Electrolytic"",""Paper""]",2
+"What is the reason why a common collector is used for impedance matching?","[""Its output impedance is very high"",""Its output impedance is very low"",""Its input impedance is very low"",""Its input impedance is very high""]",3
+"In power supplies, circuits that are employed in separating the ac and dc components and bypass the ac components around the load, or prevent their generation are called","[""Filters"",""Limiters"",""Series capacitors"",""Diode circuits""]",2
+"A nuclei with a common number of protons, but with different number of neutrons","[""Fission"",""Isotope"",""Atom"",""Core""]",1
+"What is the reason why FET has high input impedance?","[""Because its input is a forward biased"",""Because of the impurity atoms"",""Because its input is reverse biased"",""Because it is made of semiconductor material.""]",2
+"A MOSFET is sometimes called _________ FET.","[""Open gate"",""Shorted gate"",""Metallic gate"",""Insulated gate""]",3
+"Which of the following choices is an advantage of a MOSFET over a BJT in an RF amplifier circuit?","[""Low voltage operation"",""Low noise"",""Low amplification of signals"",""Compatibility""]",1
+"The voltage gain of an emitter follower circuit is","[""High"",""Low"",""Very high"",""Moderate""]",1
+"A _________ is considered a current controlled device.","[""Diode"",""Field effect transistor"",""Transistor"",""Resistor""]",2
+"A ________ is considered a voltage controlled device","[""FET"",""Diode"",""Transistor"",""Capacitor""]",0
+"The value of coupling capacitor, Cc in RC coupling is about","[""0.01 \u00b5F"",""0.1 \u00b5F"",""10 \u00b5F"",""100 \u00b5F""]",2
+"FET has a pinch-off voltage of about","[""0.5 V"",""5 V"",""10 V"",""20 V""]",1
+"What is the point of intersection between a diode characteristic and a load line?","[""Q point"",""Quiescent point"",""Operating point"",""All of these""]",3
+"A measure of the ability of an LED to produce the desired number of lumens generated per applied watt of electrical energy.","[""Luminous intensity"",""Luminous efficiency"",""Luminous efficacy"",""Luminous ability""]",2
+"What happens to the photoconductive material when light strikes on it?","[""The conductivity of the material decreases"",""Nothing important happens"",""The conductivity of the material stays the same"",""The conductivity of the material increases""]",3
+"What type of diode is used for tuning receivers; operate with reverse bias and derived its name from voltage-variable capacitor?","[""Zener diode"",""Tunnel diode"",""Varactor diode"",""Crystal diode""]",2
+"What semiconductor material is used in the construction of LED?","[""Silicon"",""Germanium"",""Gallium"",""Gallium arsenide""]",3
+"What is approximately the sum of the number of protons and neutrons of an atom?","[""Atomic mass"",""Atomic number"",""Atom subscript"",""Valence shell""]",0
+"What is the number of protons in the nucleus or the number of electrons in an atom?","[""Atomic mass"",""Atomic weight"",""Atomic number"",""Free electrons""]",2
+"The charge of proton has the same value to that of an electron but","[""Opposite in sign"",""Greater in some cases"",""Lesser than in some cases"",""Usually not important""]",0
+"Mass of proton or neutron is __________ times that of an electron.","[""1386"",""2000"",""1836"",""10""]",2
+"A photodiode which conducts current only when forward biased and is exposed to light.","[""LAD"",""LED"",""PIN"",""Photoconductor""]",0
+"What is the most commonly used color of an LED?","[""Orange"",""Blue"",""Red"",""Green""]",2
+"If the temperature of a semiconductor material increases, the number of free electrons","[""Decreases"",""Increases"",""Remains the same"",""Becomes zero""]",1
+"Varactor diode’s transition capacitance is directly proportional to the product of the permittivity of the semiconductor material and PN junction area but inversely proportional to its","[""Resistance"",""Voltage"",""Depletion width"",""Threshold voltage""]",2
+"A __________ is a light-sensitive device whose number of free electrons generated is proportional to the intensity of the incident light.","[""Varicap"",""Photodiode"",""Schottky diode"",""LED""]",1
+"Which of the following is NOT one of the three distinct regions in the characteristic curve of a diode?","[""Forward bias region"",""Reverse bias region"",""Breakdown region"",""Saturation region""]",3
+"Another name for saturation current in a diode, which arises from the fact that it is directly proportional to the cross-sectional are of the diode.","[""Steady-state current"",""Constant current"",""Thermal current"",""Scale current""]",3
+"How much voltage would you measure across the base-emitter junction of a silicon transistor at class A?","[""0 V"",""0.3 V"",""3.6 V"",""0.7 V""]",3
+"In an amplifier, the emitter junction is","[""Forward biased"",""Reverse biased"",""Grounded"",""Shorted""]",0
+"A manufacturer quotes in his specifications that a germanium diode conducts 50 mA at 1 volt. Determine the bulk resistance.","[""100 ohms"",""60 ohms"",""14 ohms"",""20 ohms""]",2
+"A silicon diode has a maximum allowable junction temperature of 150ºC. Find the maximum allowable power dissipation at 25ºC temperature if the diodes thermal resistance is 0.4 ºC/mW.","[""238 mW"",""313 mW"",""600 mW"",""117 mW""]",1
+"What is the principal characteristic of a zener diode?","[""A constant current under conditions of varying voltage"",""A high forward current rating"",""A constant voltage under conditions of carrying current"",""A very high PIV""]",2
+"What device whose internal capacitance varies with the applied voltage?","[""Zener diode"",""Photodiode"",""Tunnel diode"",""Varactor diode""]",3
+"The ________ transistor configuration has the highest value of input resistance.","[""Common base"",""Common emitter"",""Emitter-stabilized"",""Common collector""]",3
+"A method of connecting amplifiers in cascade","[""Configuration"",""Coupling"",""Link"",""Stages""]",1
+"What is the largest region of a bipolar transistor?","[""Base"",""Emitter"",""Collector"",""P-region""]",2
+"A diode that has a negative resistance region and widely used in the design of oscillators, switching networks and pulse generators.","[""Hot-carrier diode"",""Tunnel diode"",""LED"",""Schottky diode""]",1
+"Refers to a three-layer diode.","[""Shockley diode"",""Schottky diode"",""Diac"",""Triac""]",2
+"Diode that operates in the reverse breakdown voltage and is used as a voltage regulator.","[""Varactor diode"",""PIN diode"",""Tunnel diode"",""Zener diode""]",2
+"Another name for metal-oxide semiconductor field effect transistor is","[""JFET"",""GFET"",""IGFET"",""Transistor""]",2
+"In enhancement-type MOSFETs, the __________ region is used if the FET is to operate as an amplifier.","[""Triode region"",""Diode region"",""Cut-off region"",""Saturation region""]",3
+"In enhancement-type MOSFETs, the __________ regions are used for operation as a switch.","[""Triode and saturation"",""Cut-off and saturation"",""Saturation and active"",""Cut-off and triode""]",2
+"Unijunction transistor has three terminals, namely","[""Gate, cathode and anode"",""Grid, plate and cathode"",""Base 1, base 2 and emitter"",""Gate, base 1 and base 2""]",2
+"What two elements widely used in semiconductor devices exhibit both metallic and nonmetallic characteristics?","[""Gold and silicon"",""Germanium and gold"",""Bismuth and galena"",""Silicon and germanium""]",3
+"What happens to the voltage drop across the diode when current flow increases rapidly in a forward-biased diode?","[""Increases"",""Decreases"",""Becomes zero instantly"",""Remains relatively constant""]",3
+"What are the majority current carriers in the N-type silicon?","[""Free electrons"",""Holes"",""Bounded electrons"",""Protons""]",0
+"What diode gives off light when energized?","[""Photodiode"",""LED"",""Photoconductive cell"",""Tunnel diode""]",1
+"What are the solid state gallium arsenide devices that emit beam of radiant flux when forward biased?","[""LEDs"",""Photoconductive cells"",""IR emitters"",""Photodiodes""]",2
+"A graphical representation in transistor wherein the emitter current is plotted against the variable emitter base voltage VEB for constant value of collector-base voltage VCB.","[""Static curve"",""Input characteristic curve"",""Output characteristic curve"",""Semilog curve""]",1
+"When the collector current Ic is plotted against the collector base voltage at constant emitter Ie, the curve obtain is called","[""Output characteristic curve"",""Linear curve"",""V-I curve"",""Semilog curve""]",0
+"Eg for silicon is 1.12 eV and germanium is 0.72 eV. It can be concluded that","[""Less number of electron hole pairs will be generated in silicon than in germanium at room temperature"",""More number of electrons and hole pairs will be generated in silicon than in germanium at room temperature"",""High energy of charges is a property of silicon"",""The relationship of the two is not significant""]",0
+"Junction diodes are commonly rated by its","[""Maximum current and PIV"",""Inductance and PIV"",""Capacitance and maximum reverse current"",""Circuits resistance and maximum forward current""]",0
+"A special type of diode which is often used in RF switches, attenuators and various types of phase shifting devices is called","[""Zener diode"",""PIN diode"",""Tunnel diode"",""Varactor diode""]",1
+"A volt-ampere characteristic curve that describes the relationship of the output voltage of a transistor to its output current is a set input current.","[""Input characteristic"",""Output characteristic"",""Load line"",""Saturation curve""]",1
+"The use of __________ coupling is particularly desirable in low level, low noise audio amplifier stages to minimize hum pick up from stray magnetic fields.","[""Transformer"",""Direct"",""RC"",""LC""]",2
+"The way in which the gain of an amplifier varies with the frequency is called","[""Logarithmic response"",""Frequency response"",""Voltage response"",""Phase response""]",1
+"The maximum rectification efficiency of a half wave rectifier is","[""81.2 %"",""40.6 %"",""20.6 %"",""25 %""]",1
+"The maximum rectification efficiency of a full-wave rectifier is","[""40.6 %"",""81.2 %"",""110 %"",""92 %""]",1
+"A coupled amplifier which has the major advantage of permitting power to be transported from the relatively high output impedance of the first stage to the relative low input impedance of the second stage.","[""RC coupling"",""Transformer coupling"",""Direct coupling"",""Stabilized coupling""]",1
+"Electron mobility property of silicon at 300 K is approximately equal to __________ m^2/V-s","[""1.1"",""0.135"",""0.048"",""45""]",1
+"In a push-pull power amplifier, an input transformer can be used as a __________ providing equal amplitude input signals opposite in polarity","[""Phase reversal"",""Phase-splitter"",""Limiter"",""Discriminator""]",1
+"If the line frequency is 60 Hz, the output frequency of a bridge rectifier is","[""30 Hz"",""60 Hz"",""120 Hz"",""240 Hz""]",2
+"Who invented the feedback amplifier in 1928?","[""Henry Brattain"",""Mark Twain"",""Harold Black"",""Bell Labs""]",2
+"The arrow in semiconductor symbol","[""Always points towards the P region and away from the N region"",""Always points towards the N region and away from the P region"",""Is not a significant symbol"",""Always points toward the PN junction""]",1
+"If the input power of a half wave rectifier has a frequency of 400 Hertz, then the ripple frequency will be equal to ____________.","[""800 Hertz"",""200 Hertz"",""100 Hertz"",""400 Hertz""]",3
+"If the input frequency of a full-wave rectifier is 400 Hertz, the ripple frequency will be ___________.","[""Twice as great as the input frequency"",""Equal to the input frequency divided by two"",""Quadruple of the input frequency"",""Equal to a quarter of its input frequency""]",0
+"What is also called as the conventional amplifier?","[""Common-collector circuit"",""Emitter follower circuit"",""Common base circuit"",""Common emitter circuit""]",3
+"Which of the following is true about the emitter follower circuits?","[""The output signal is 180\u00b0 out of phase with the input signal"",""The output signal is in phase with the input signal"",""The input signal is always equal to the output signal"",""An emitter follower circuit is equivalent to a common emitter connection""]",1
+"The equation for JFET’s transconductance.","[""gm = \u0394Ic\/\u0394V<sub>GS<\/sub>"",""gm = I<sub>G<\/sub>\/V<sub>G<\/sub>"",""gm = V<sub>GS<\/sub>\/Ic"",""gm = Ic\/V<sub>DS<\/sub>""]",0
+"another name for a light activated diode (LAD) is","[""IR emitter"",""LED"",""Photodiode"",""LCD""]",2
+"The semiconductor device that radiate light or utilize light are called","[""Active devices"",""Photoelectric devices"",""Optoelectronic devices"",""Passive devices""]",2
+"Structural category of a semiconductor diodes can be either","[""Electrolytic and point contact"",""Junction and point contact"",""Electrolytic and vacuum"",""Vacuum and gaseous""]",1
+"Zener diodes can be primarily classified as","[""Forward and reverse biased"",""Varactor and rectifying"",""Voltage regulation and voltage reference"",""Gaseous and hot-carrier""]",2
+"The principal characteristics of a tunnel diode.","[""A constant current under conditions of varying voltage"",""A negative resistance region"",""A very high PIV device"",""An internal capacitance that varies with the applied voltage""]",1
+"A special type of semiconductor diode which varies its internal capacitance as the voltage applied to its terminal varies.","[""Varactor diode"",""Point contact diode"",""Zener diode"",""Silicon controlled rectifier""]",0
+"The maximum forward current in a junction diode is limited by its","[""Peak inverse voltage"",""Maximum forward voltage"",""Leakage current"",""Junction temperature""]",3
+"What are the three terminals of a FET?","[""Gate, source and drain"",""Plate, cathode and grid"",""Gate source and battery"",""Input, output and ground""]",0
+"When a transistor is fully saturated,","[""The emitter current is at its minimum value"",""The transistor alpha is at its maximum value"",""The beta of the transistor is at minimal value"",""The collector current is at its maximum value""]",3
+"A FET without a channel and no current occurs with zero gate voltage is","[""Enhancement-mode FET"",""Depletion-mode FET"",""CMOS"",""Metal-oxide transistor""]",0
+"Which of the items below is a special precaution necessary in handling FET and CMOS devices?","[""They have fragile leads that it might break off"",""They are light sensitive"",""They are susceptible to damage and static charges"",""They have micro welded semiconductor junctions that are susceptible to breakage""]",2
+"A datasheet gives these JFET values; I<sub>DSS</sub> = 20 mA and pinch-off voltage is 5 volts. What is the gate-source cut-off voltage?","[""15 volts"",""10 volts"",""-5 volts"",""5 volts""]",2
+"What is the dc resistance of the JFET in the ohmic region if the drain to source current at gate shorted is equal to 20 mA and the pinch off voltage is 5 volts?","[""300 \u2126"",""250 \u2126"",""1 k\u2126"",""100 \u2126""]",1
+"Suppose a JFET has I<sub>DSS</sub> = 7 mA and V<sub>GS(off)</sub> = -3 V. calculate the drain current for a gate-source voltage of -1 V.","[""3.1 mA"",""0.455 A"",""4.45 mA"",""31.2 mA""]",0
+"What are often called square law devices?","[""Transistors"",""Diodes"",""SCRs"",""JFETs""]",3
+"Equivalent of transistor at saturation in JFETs is ___________?","[""Breakdown"",""Constant-current"",""Pinch-off"",""Ohmic""]",3
+"When a JFET is cut-off, the depletion layers are","[""Touching"",""Separated"",""Very far apart"",""Close together""]",0
+"The voltage that turns on an enhancement-mode device is the","[""Gate-source cut-off voltage"",""Pinch off voltage"",""Threshold voltage"",""Knee voltage""]",2
+"Depletion–mode MOSFET acts mostly as","[""A JFET"",""A voltage source"",""A resistor"",""Enhancement-mode MOSFET""]",0
+"JFET’s input impedance is","[""Approaches unity"",""Approaches zero"",""Approaches infinity"",""Is unpredictable""]",2
+"The current gain of an emitter follower circuit is","[""High"",""Low"",""Moderate"",""Very low""]",0
+"The drift transistor has a high frequency cut off","[""Due to the resistance of the base area"",""Since high collector voltage can be used"",""Due to its low inherent internal capacitance and low electron transmit time through the base"",""Due to the large area""]",3
+"The maximum operating frequency of a transistor should be _________ percent of the frequency cut-off of the transistor to ensure best performance.","[""100"",""20"",""80"",""50""]",3
+"When transistor applications call for a temperature operating condition which exceeds 185°F, which element is most suitable?","[""Gallium"",""Antimony"",""Silicon"",""Impossible to operate transistor above 185\u00b0F""]",2
+"What is the most important factor of a power transistor?","[""Output resistance"",""Heat dissipation"",""Input voltage"",""Output parameter""]",1
+"When the electron transmit time through the base region is very short, this","[""Creates a higher potential barrier"",""Makes the transistor unable to amplify its signal"",""Provides higher cut-off frequency"",""Provides a zener effect""]",2
+"When the transistors are used in video amplifiers, its main limitation is","[""Low peak voltage"",""Poor frequency response"",""Low peak current"",""Poor filtering of signals""]",1
+"Impedance matching in circuit is important for ____________ transfer of energy.","[""Minimum"",""Enough"",""Maximum"",""Limited""]",2
+"An amplifier has an output power of 3 watts. Determine the power output level with reference to 1 mW.","[""34.77 dBm"",""40 dBm"",""-30 dBm"",""-40 dBm""]",0
+"A unijunction transistor is a three terminal consisting of _____________ semiconductor layers.","[""One"",""Two"",""Three"",""Four""]",1
+"It is the process by which atoms are constantly losing and regaining free electrons.","[""Ionization"",""Covalent bond"",""Recombination"",""Parasitism""]",0
+"Termed as unwanted oscillation that may occur in most any type of circuits, oscillator, amplifier, power supply, receiver and transmitters","[""White noise"",""Parasitic oscillations"",""Ripple"",""Pulsating dc signal""]",1
+"Which of the items below describes an RF amplifier which will amplify a weak signal voltage in relatively the same proportion as it will amplify a stronger signal voltage?","[""Class A amplifier"",""Linear amplifier"",""Non-linear amplifier"",""Inverting amplifier""]",1
+"Its maximum amount of reverse voltage which can be applied on a diode before breakdown point is reached.","[""Zener voltage"",""Peak inverse voltage"",""Breakdown voltage"",""Threshold voltage""]",1
+"It refers to any of the over 100 different substances which have never been separated into simpler substances by chemical means and which alone or in combination constitute all matter.","[""Elements"",""Atom"",""Holes"",""Electrons""]",0
+"It is also known as a solid state lamp which utilizes the fall of an electron from the conduction level to the valence level to develop an energy release in the form of heat or light.","[""LCD"",""LED"",""Photodiode"",""Photoconductive cell""]",1
+"Which of the items below is not true with α of a transistor?","[""It is the current gain of a common-base configuration"",""It is the ratio of the change in collector current to the change in emitter current"",""It is usually having a value of unity in some approximations"",""It is the ratio of the change in collector current to the change in base current.""]",3
+"Present atomic theories place the mass and positive charge of an atom in a central nucleus composed of protons and","[""Holes"",""Core"",""Neutrons"",""Magnetron""]",2
+"The _____________ as fundamental particle is considered as a bundle of radiant energy or light, the amount energy being related to the frequency.","[""Protons"",""LED"",""Photons"",""Comet""]",2
+"Electron emitted by the mechanical impact of an ion striking a surface is called","[""Primary electrons"",""Secondary electrons"",""Moderately doped electrons"",""Polarized charge""]",1
+"The break up of nuclei into nuclear fragments that are themselves nuclei is called","[""Fission"",""Isotope"",""Neutrino"",""Atom""]",0
+"What particles are of zero charge and zero mass?","[""Fusion"",""Neutrino"",""Fission"",""Isotopes""]",1
+"What term is used to describe the outermost shell of an atom?","[""Valence shell"",""Free shell"",""Electron shell"",""Conductive cell""]",0
+"What are the electrons at the outermost shell which are usually weakly attracted by the core such that an outside force can easily dislodge these electrons from the atom?","[""Free electrons"",""Orbiting electrons"",""Bound electrons"",""Loose electrons""]",0
+"The reason why electrons are not pulled in the positive charged nucleus is because of the ___________ which usually became exactly equals the inward attraction of the nucleus.","[""Kinetic energy"",""Energy at rest"",""Centrifugal force"",""Frictional force""]",2
+"Which of the following items is not a type of material?","[""Conductor"",""Semiconductor"",""Insulator"",""Diode""]",3
+"The highest energy band of an atom which can be filled with electrons.","[""Valence band"",""Conduction band"",""Insulation band"",""Energy level""]",0
+"An energy band in which electrons can move freely","[""Valence band"",""Conduction band"",""Energy gap"",""Insulation gap""]",1
+"Approximate energy gap in insulator is","[""Eg \u2265 5 eV"",""Eg = 1.1 eV"",""Eg = 0.67 eV"",""Eg = 4 eV""]",0
+"The energy gap for semiconductors made of silicon is","[""Eg = 5 eV"",""Eg = 1.1 eV"",""Eg = 0.67 eV"",""Eg = 4 eV""]",1
+"The energy gap for germanium made semiconductor is","[""Eg = 5 eV"",""Eg = 1.1 eV"",""Eg = 0.67 eV"",""No energy gap""]",2
+"What type of material usually has one valence electron?","[""Insulator"",""Semiconductor"",""Conductor"",""Transistor""]",2
+"What type of material usually has four valence electrons?","[""Insulator"",""Semiconductor"",""Conductor"",""IGFET""]",1
+"Which of the following is considered as the best conductor?","[""Gold"",""Silicon"",""Germanium"",""Mica""]",0
+"Which of the items below is not taking place inside a silicon crystal?","[""Some free electrons and holes are being created by thermal energy"",""Other free electrons and holes are recombining"",""Some free electrons and holes exist in an in-between state"",""Some free electrons disappears in the lattice due to vaporization""]",3
+"It is an arrangement of silicon atoms combine to form a solid such that there are now 8 electrons in the valence shell.","[""Crystal"",""Bonding"",""Recombination"",""Solid silicon""]",0
+"The sharing of valence electrons to produce a chemically stable atom","[""Bound electrons"",""Crystal"",""Covalent bond"",""Recombination""]",2
+"The eight electrons which are tightly held by the atom are called","[""Valence electrons"",""Outermost electrons"",""Bound electrons"",""Covalent electrons""]",2
+"When an atom has bound electrons, it is described as","[""All charges do recombination"",""Valence electrons disappear due to vaporization"",""Filled or saturated since valence orbit can hold not more than 8 electrons"",""Merging of electrons and other particles""]",2
+"What refers to the temperature of the surrounding air?","[""Atmospheric temperature"",""Ambient temperature"",""Freezing point"",""Cooling temperature""]",1
+"What term is used to describe the released electrons dislodged from its original shell due to the increase in temperature which joins into a larger orbit?","[""Free electrons"",""Bound electrons"",""Covalent electrons"",""Merge electrons""]",0
+"What term is used to refer to the vacancy left by the free electron when it departs from its original shell?","[""Proton"",""Hole"",""Neutron"",""Nucleus""]",1
+"The merging of a free electron and a hole inside the silicon crystal","[""Covalent bond"",""Recombination"",""Merged electron"",""Valence bond""]",1
+"The amount of time between the creation and disappearance of a free electron.","[""Recombination time"",""Bonding time"",""Lifetime"",""Propagation time""]",2
+"The purpose of adding an impurity atom to an intrinsic crystal is","[""To alter its insulating property"",""To increase its electric conductivity"",""To stop conduction"",""To increase the resistivity of the semiconductor material""]",1
+"An extrinsic semiconductor produces ___________ when a pentavalent atom is added to the molten silicon","[""Intrinsic"",""P-type"",""N-type"",""Hybrid type""]",2
+"Which of the items below is not a pentavalent atom?","[""Phosphorus"",""Aluminum"",""Antimony"",""Arsenic""]",1
+"What extrinsic semiconductor is produced when a trivalent atom is added to the molten silicon?","[""Aluminum"",""N-type"",""P-type"",""Holes""]",2
+"The reduction of power handling capability of the diode due to the increase of ambient temperature form room temperature.","[""Maximum junction temperature"",""Linear power derating factor"",""Power factor"",""Amplification factor""]",1
+"The maximum temperature the diode can operate before burning.","[""Maximum dissipation factor"",""Maximum junction temperature"",""Ambient temperature"",""Boiling temperature rating""]",1
+"Reverse recovery time of the diode is computed as the ___________ of the storage time and transition interval from the forward to reverse bias.","[""Sum"",""Product"",""Quotient"",""Difference""]",0
+"The nucleus of a copper atom contains how many protons?","[""2"",""1"",""18"",""29""]",3
+"How many protons does the nucleus of a silicon atom contain?","[""4"",""14"",""29"",""32""]",1
+"An intrinsic semiconductor has some holes in it at room temperature. What causes these holes?","[""Doping"",""Thermal energy"",""Free electrons"",""Valence electrons""]",1
+"When a diode is forward biased, the recombination of free electrons and holes may produce _______?","[""Heat"",""Light"",""Radiation"",""All of these""]",3
+"Which of the following doping elements have a valence of 5?","[""Gallium"",""Boron"",""Aluminum"",""Phosphorous""]",3
+"Which of the following doping elements have a valence of 4?","[""Arsenic"",""Gallium"",""Aluminum"",""Silicon""]",3
+"Which of the following doping elements have a valence of 3?","[""Gallium"",""Boron"",""Aluminum"",""Phosphorous""]",1
+"It is a stable positive charge in the nucleus that is not free to move","[""Hole"",""Proton"",""Neutron"",""Electron""]",1
+"A positive charge outside the nucleus which is present only in semiconductor due to unfilled covalent bonds.","[""Electron"",""Proton"",""Hole"",""Neutron""]",2
+"When charges are forced to move by the electric field of a potential difference, ___________ current is said to flow.","[""Reverse"",""Drift"",""Leakage"",""Threshold""]",1
+"When PN junction is connected to a battery in such a way that P-side is connected to positive terminal of the battery and negative terminal to N-side, this connections is known as","[""Forward bias"",""Reverse bias"",""Back bias"",""Knee bias""]",0
+"When PN junction is connected to a battery in such a way that P-side is connected to negative terminal of the battery and positive terminal to N-side, this connections is known as","[""Forward bias"",""Reverse bias"",""Depletion connection"",""Positive bias""]",1
+"An electron in the conduction band","[""Losses its charge easily"",""Jumps to the tip of the crystal"",""Has higher energy than the electron in the valence band"",""Has lower energy that the electron in the valence band""]",2
+"An ideal diode","[""Should have a zero resistance in the forward bias as well as in reverse bias"",""Should have an infinitely large resistance in the forward bias and zero resistance in reverse bias"",""Should have zero resistance in forward bias and an infinitely large resistance in reverse bias"",""Should have infinitely large resistance in forward as well as reverse bias""]",2
+"Thermal voltage Vt is approximately equal to ___________ at room temperature (20ºC)","[""25 mV"",""25 V"",""100 mV"",""100 V""]",0
+"Boltzmann’s constant is equivalent to","[""1.62 x 10^-18 C"",""8032 x 10^-5 eV\/\u00b0K"",""0.7 V"",""1.3 x 10^8 V\/m""]",1
+"The preferred form of biasing a JFET amplifier is through the","[""Voltage divider bias"",""Gate bias"",""Self bias"",""Source bias""]",0
+"The gate-to0source on voltage if an n-channel enhancement mode MOSFET is","[""Less than V<sub>th<\/sub>"",""Equal to V<sub>gs(off)<\/sub>"",""Greater than V<sub>DS(on)<\/sub>"",""Greater than V<sub>GS(th)<\/sub>""]",1
+"A mechanism for carrier motion in semiconductors which occurs when an electric field is applied across a piece of silicon","[""Carrier diffusion"",""Carrier drift"",""Recombination"",""Diffusivity""]",1
+"What occurs in pn diodes when the minority carriers that cross the depletion region under the influence of the electric field gain sufficient kinetic energy to be able to break covalent bonds in atoms with which they collide?","[""Drift"",""Avalanche breakdown"",""Diffusion"",""Saturation""]",1
+"Elements that has four valence electrons are classified as","[""conductor"",""insulator"",""elemental semiconductor"",""compound semiconductor""]",2
+"An example of an elemental semiconductor.","[""Germanium (Ge)"",""Gallium Arsenide (GaAs)"",""Gallium Phosphide (GaP)"",""Aluminum Arsenide (AlAs)""]",0
+"Which of the following is an example of a compound semiconductor?","[""Gallium Arsenide (GaAs)"",""Gallium Phosphide (GaP)"",""Aluminum Arsenide (AlAs)"",""All of the above""]",3
+"Germanium has an atomic number of 32 and an atomic weight of approximately 72 amu. How many electrons, protons and neutrons are there?","[""32, 32, 40"",""32, 32, 104"",""40, 32, 32"",""40, 32, 104""]",0
+"The chemical bond that is present in a crystal lattice of silicon atoms.","[""covalent bond"",""electrovalent bond"",""ionic bond"",""metallic bond""]",0
+"The atomic weight of a silicon atom is approximately 28 amu. How many electrons, protons and neutrons does the atom consist?","[""14, 42, 14"",""14, 14, 42"",""42, 14, 14"",""14, 14, 14""]",3
+"What is the total charge at the nucleus of silicon atom?","[""-12e C"",""12e C"",""-14e C"",""14e C""]",3
+"In materials, what do you call the area that separates the valence band and the conduction band?","[""energy gap"",""forbidden band"",""insulation band"",""A and B are correct""]",1
+"At absolute zero temperature, semiconductor acts as","[""an insulator"",""a conductor"",""a semi-insulator"",""usual""]",0
+"The electron flow in a semiconductor material is","[""opposite in direction of hole flow"",""the same direction with hole flow"",""the drift current"",""known as the conventional current""]",0
+"Typical range of the resistivity of a semiconductor","[""10^-15 \u2013 10^-18 \u2126-cm"",""10^-5 \u2013 10^-8 \u2126-cm"",""10 \u2013 10^4 \u2126-cm"",""10^8 \u2013 10^15 \u2126-cm""]",2
+"Chemical bond that is significant in metals","[""ionic bonding"",""electrovalent bonding"",""covalent bonding"",""metallic bonding""]",3
+"A semiconductor that is free from impurities","[""intrinsic semiconductor"",""extrinsic semiconductor"",""compensated semiconductor"",""elemental semiconductor""]",0
+"The process of adding impurities in a semiconductor material.","[""growing"",""diffusion"",""doping"",""depleting""]",2
+"Impurities with five valence electrons.","[""acceptor"",""donor"",""trivalent"",""pentavalent""]",3
+"Example of acceptor impurities.","[""pentavalent impurities"",""trivalent impurities"",""tetravalent impurities"",""hexavalent impurities""]",1
+"If the substance used in doping has less than four valence electrons, it is known as","[""acceptor"",""donor"",""trivalent"",""pentavalent""]",0
+"Commonly used as donor impurities.","[""Antimony (Sb)"",""Arsenic (As)"",""Phosphorus (P)"",""all of the above""]",3
+"Example of trivalent impurities.","[""Boron (B)"",""Gallium (Ga)"",""Indium (In)"",""all of the above""]",3
+"Donor-doped semiconductor becomes a","[""N-type semiconductor"",""good conductor"",""p-n semiconductor"",""P-type semiconductor""]",0
+"What do you call a semiconductor that is doped with both donor and acceptor impurities?","[""double doped semiconductor"",""compensated semiconductor"",""compound semiconductor"",""diffused semiconductor""]",1
+"The resistance of a semiconductor is known as","[""bulk resistance"",""intrinsic resistance"",""extrinsic resistance"",""dynamic resistance""]",0
+"The most extensively used semiconductor.","[""silicon"",""germanium"",""gallium phosphide"",""gallium arsenide""]",0
+"Semiconductor whose electron and hole concentrations are equal.","[""extrinsic semiconductor"",""intrinsic semiconductor"",""compensated semiconductor"",""doped semiconductor""]",1
+"Silicon is widely used over germanium due to its several advantages, what do you think is its most significant advantage?","[""abundant"",""cheap"",""temperature stable"",""low leakage current""]",3
+"Current flow in a semiconductor that is due to the applied electric field.","[""diffusion current"",""conventional current"",""drift velocity"",""drift current""]",3
+"The movement of charge carriers in a semiconductor even without the application of electric potential.","[""diffusion current"",""conventional current"",""drift current"",""saturation current""]",0
+"Typically, how much energy is required for a valence electron to move to the conduction band for a doped semiconductor?","[""0 eV"",""0.05 eV"",""1.0 eV"",""5.0 eV""]",1
+"Conduction of electrons in a doped semiconductor happens at","[""conduction band"",""forbidden band"",""valence band"",""nuclei band""]",0
+"Theoretically, where does the conduction of holes occur in a doped semiconductor?","[""conduction band"",""forbidden band"",""valence band"",""empty band""]",2
+"In energy band diagram of a doped semiconductor, the donor level","[""is near the valence band"",""is near the conduction band"",""is exactly in between the valence and conduction band"",""depends on the amount of doping""]",1
+"The acceptor level in a doped semiconductor","[""is near the valence band level"",""is near the conduction level"",""is exactly in between the conduction and valence band"",""will depend on the concentration of doping""]",0
+"In a semiconductor material, what will happen to the number of free electrons when the temperature rises?","[""increases"",""decreases exponentially"",""decreases"",""remains the same""]",0
+"The electrical resistance of a semiconductor material will ________ as the temperature increases.","[""increase"",""increase exponentially"",""decrease"",""not change""]",2
+"The potential required to removed a valence electron","[""valence potential"",""threshold potential"",""critical potential"",""ionization potential""]",3
+"Among the given elements, which is considered as nonmetal?","[""silicon (Si)"",""germanium (Ge)"",""tin (Sn)"",""lead (Pb)""]",0
+"A semiconductor that is classified as a metalloid or semi-metal","[""silicon (Si)"",""germanium (Ge)"",""tin (Sn)"",""carbon (C)""]",1
+"Semiconductor that is very rare, it only occurs in minute quantities in many metal sulfides","[""silicon (Si)"",""germanium (Ge)"",""tin (Sn)"",""lead (Pb)""]",1
+"Compound semiconductors are also known as","[""compensated semiconductors"",""amorphous semiconductors"",""organic semiconductors"",""inner-mettalic semiconductors""]",3
+"What semiconductor that is mostly used in devices requiring the emission or absorption of lights?","[""amorphous semiconductor"",""organic semiconductor"",""compound semiconductor"",""elemental semiconductor""]",2
+"For high-speed integrated circuit, which semiconductor material given below is best to be used?","[""silicon"",""germanium"",""carbon"",""gallium arsenide""]",3
+"How much impurity concentration is needed for a sample of silicon to change its electrical property from a poor conductor to a good conductor?","[""one part per hundred"",""one part per thousand"",""one part per million"",""one part per billion""]",2
+"The restriction of certain discrete energy levels in a semiconductor material can be predicted generally by using what model?","[""Bohr model"",""string model"",""wave model"",""particle model""]",0
+"Is defined as the energy acquired by an electron moving through a potential of one volt.","[""electron Joules (eJ)"",""electron-potential"",""oxidation potential"",""electron Volt (eV)""]",3
+"At room temperature, in a perfect silicon crystal, the equilibrium concentration of thermally generated electrons in the conduction band is about","[""1.5 x 10^5 per cubic cm."",""1.5 x 10^10 per cubic cm."",""1.5 x 10^15 per cubic cm."",""1.5 x 10^20 per cubic cm.""]",1
+"What is the basis in operation of semiconductor photoconductors?","[""EHP generation"",""EHP degeneration"",""EHP optical degeneration"",""EHP optical generation""]",3
+"The semiconductor that is used in xerography","[""selenium (Se)"",""gallium phosphide (GaP)"",""cadmium compound"",""organic semiconductor""]",0
+"A silicon material has an intrinsic concentration ni=10^10 per cubic centimeter at room temperature. If it is doped with 10^15 antimony atoms per cubic centimeter, what is now the approximate electron concentration at the conduction band?","[""10^5 electrons"",""10^10 electrons"",""10^15 electrons"",""10^20 electrons""]",2
+"When an electron at the conduction band falls back to the valence band it will recombine with the hole. This is known as","[""regeneration"",""reunion"",""combination"",""recombination""]",3
+"What semiconductor that is good for high-temperature applications?","[""indium antimonide (InSb)"",""gallium anitmonide (GaSb)"",""silicon carbide (SiC)"",""diamond (C)""]",0
+"Among the given semiconductors below, which has the highest mobility?","[""silicon"",""germanium"",""gallium arsenide"",""indium antimonide""]",3
+"A semiconducting glass is known as","[""isomorphous semiconductor"",""amorphous semiconductor"",""organic semiconductor"",""compound semiconductor""]",1
+"For an electroluminescent of green and red lights, which semiconductor is best?","[""silicon carbide"",""gallium arsenide"",""indium antimonide"",""gallium phosphide""]",3
+"Typical range of power dissipation for a semiconductor to be considered as “low power” or “small signal”","[""less than 1 watt"",""5 &lt; P &lt; 10 watts"",""10 &lt; P &lt; 20 watts"",""20 watts above""]",0
+"In the design of high power semiconductor devices, it involves what factors?","[""making the size of the semiconductor bigger"",""packing the device into a bigger case"",""excellent contact between the semiconductor and the case"",""all of the above""]",3
+"How to have a better high-frequency response in designing semiconductor devices?","[""make the chip as small as possible"",""the leads should be made shorter and smaller"",""smaller packaging"",""all of the above""]",3
+"Before an electron can participate in the conduction of electricity, it must leave from the valence band and transfer to the conduction band. Transferring to the conduction band involves energy acquisition by an electron from external sources and this energy must be greater than the energy gap of the material. Which semiconductor material has the highest energy gap?","[""Zinc Sulfide (ZnS)"",""silicon (Si)"",""germanium (Ge)"",""Indium Antimonide (InSb)""]",0
+"Which of the following semiconductors has the smallest energy gap?","[""ZnS"",""Si"",""Ge"",""InSb""]",3
+"The ease with which a charge carrier (electron or hole) moves in a semiconductor material is known as mobility. It is also defined as the average drift velocity of electrons and holes per unit electrostatic field. Which of the semiconductor materials has the highest value of electron-mobility?","[""InSb"",""Ge"",""Si"",""AlP""]",0
+"In semiconductor materials, electrons have a higher value of mobility than holes, but which semiconductor material has the slowest electron-mobility?","[""InSb"",""GaP"",""GaAs"",""AlP""]",3
+"Solar cell is a semiconductor electric-junction device, which absorbs the radiant energy of sunlight and converts it directly and efficiently into electrical energy. This device, uses what type of semiconductor materials?","[""single-crystal silicon"",""amorphous or polycrystalline silicon"",""GaAs, CdS, CdTe, CuS"",""all of the above""]",3
+"What is formed when n-type and p-type semiconductors are brought together?","[""pn junction"",""semiconductor junction"",""energy band gap"",""semiconductor diode""]",0
+"PN junction acts as a one way valve for electrons because _________.","[""the circuit in which the diode is used, only attempts to pump electrons in one diode"",""electrons tend to follow the direction of the hole"",""there is a little mechanical switch inside a diode"",""when electrons are pump from P to N, free electrons and holes are force apart leaving no way for electrons to cross the junction""]",3
+"The device that is formed when an n-type and p-type semiconductors are brought together","[""pn junction"",""semiconductor junction"",""depletion region"",""junction diode""]",3
+"An external voltage applied to a junction reduces its barrier and aid current to flow through the junction","[""reverse bias"",""external bias"",""junction bias"",""forward bias""]",3
+"A device containing an anode and a cathode or a pn junction of a semiconductor as the principal elements and provides unidirectional conduction.","[""diode"",""diac"",""triode"",""triac""]",0
+"Unidirectional conduction in two-electrodes in any device other than a diode, such that rectification between the grid and cathode of a triode, or asymmetrical conduction between the collector and base of a transistor is called","[""rectification"",""diode action"",""clipping"",""clamping""]",1
+"The p-type material in a semiconductor junction diode is technically termed as","[""positive terminal"",""negative terminal"",""cathode"",""anode""]",3
+"Cathode in a semiconductor junction diode is referred to the","[""positive terminal"",""junction"",""p-type terminal"",""n-type terminal""]",3
+"The area in the semiconductor diode where there are no charge carriers","[""depletion layer"",""depletion region"",""depletion mode"",""depletion area""]",1
+"Depletion region is an area in a semiconductor device where there are no charge carriers exist. This will be always near the junction of n-type and p-type materials. What causes this junction to be depleted by charge carriers?","[""Due to the recombination of holes and electrons at the junction"",""Due to the cancellation of positively charge protons and negatively charge electrons"",""Due to the annihilation of charge carriers"",""Due to the combination of positively charge holes and negatively charge electrons""]",3
+"A junction diode is said to be forward-biased if","[""Anode is supplied more positive than the cathode."",""Anode is supplied more negative than the cathode."",""A voltage greater than threshold is applied, with cathode less positive than anode."",""A voltage greater than threshold is applied, with cathode less negative than anode.""]",2
+"What do you call the very small amount of current that will flow in the diode when it is reverse biased?","[""saturation current"",""reverse saturation current"",""cut-off current"",""holding current""]",1
+"When the diode is supplied with forward direction potentials but with a magnitude less than the threshold voltage of the diode, still it will not “turn-on” and will only allow a very small amount of current to pass. This very small current is known","[""as leakage current"",""as forward saturation current"",""as holding current"",""as cut-off current""]",3
+"The minimum voltage required before a diode can totally conduct in a forward direction.","[""triggering voltage"",""breakdown voltage"",""saturation voltage"",""threshold voltage""]",3
+"What will happen to the threshold voltage of the diode when it operates at higher temperatures.","[""increases"",""increases exponentially"",""decreases"",""decreases exponentially""]",2
+"The forward current in a conducting diode will ______________ as the operating temperature increases.","[""not be affected"",""decrease"",""decrease exponentially"",""increase""]",3
+"As the operating temperature of a reverse-biased diode is increased, its leakage or reverse saturation current will","[""Increase"",""increase exponentially"",""decrease"",""decrease exponentially""]",1
+"The small value of direct current that flows when a semiconductor device has reverse bias","[""surge current"",""bias current"",""reverse current"",""current limit""]",2
+"Normally, diodes will not conduct when reverse-biased, but if the reverse voltage is increased further, a point will be reached where the diode gives up and allowing the current to surge. This voltage is one of the limiting parameter of diodes and is known as","[""breakdown voltage (VBR)"",""peak inverse voltage (PIV)"",""peak reverse voltage (PRV)"",""all are correct""]",3
+"For a silicon diode, calculate the current at room temperature if the forward voltage V<sub>F</sub> = 0.3 V and the reverse saturation current I<sub>S</sub> = 100 nA.","[""32.8 \u03bcA"",""10.8 \u03bcA"",""32.8 mA"",""10.8 mA""]",0
+"The breakdown voltage of a junction diode will ___________","[""Increase as operating temperature rises."",""Increase exponentially as operating temperature rises."",""Decrease as operating temperature rises."",""Not change as operating temperature rises.""]",2
+"Calculate the new threshold voltage of a germanium diode when it operates at 100°C.","[""0.113 V"",""0.188 V"",""0.215 V"",""0.513 V""]",0
+"A silicon diode has a reverse saturation current of 50 nA at room temperature. If the operating temperature is raised by 50°C, what is now the reverse saturation current?","[""105.56 nA"",""287.73 nA"",""827.89 nA"",""1.66 \u00b5A""]",3
+"In every increase of 10°C in the operating temperature of a diode will cause its reverse saturation current to","[""decrease"",""double"",""triple"",""quadruple""]",1
+"What do you call the resistance of the diode when operating at a steady state voltage?","[""dc resistance"",""dynamic resistance"",""ac resistance"",""average resistance""]",0
+"The resistance of the diode that is significant when operating with a small ac signal","[""dc resistance"",""static resistance"",""dynamic resistance"",""average resistance""]",2
+"When a diode is used in large ac voltages, the resistance that is to be considered is","[""dc resistance"",""static resistance"",""dynamic resistance"",""average resistance""]",3
+"At forward bias condition, what will happen to the diode resistance when the applied voltage is increased?","[""will also increase"",""will increase exponentially"",""will decrease"",""will not change""]",2
+"The primary use of Zener diode in electronic circuits.","[""resistance regulator"",""rectifier"",""voltage regulator"",""current regulator""]",2
+"What phenomenon in electronics does an avalanche breakdown primarily dependent?","[""Doping"",""Recombination"",""Ionization"",""Collision""]",2
+"When a diode is reverse biased the depletion region widens, since it is in between positively charge holes and negatively charge electrons, it will have an effect of a capacitor, this capacitance is called what?","[""diffusion capacitance"",""storage capacitance"",""stray capacitance"",""transition capacitance""]",3
+"In a semiconductor diode, the total capacitance, that is the capacitance between terminals and electrodes, and the internal voltage variable capacitance of the junction is called","[""diffusion capacitance"",""transition capacitance"",""depletion-region capacitance"",""diode capacitance""]",3
+"What capacitance is significant when the diode is forward biased?","[""diffusion capacitance or storage capacitance"",""transition capacitance"",""depletion-region capacitance"",""stray capacitance""]",0
+"A diode that is especially designed to operate as a voltage-variable capacitor. It utilizes the junction capacitance of a semiconductor diode.","[""varactor"",""varicap"",""varistor"",""A and B are correct""]",3
+"The capacitance of a varactor will _________ when the forward bias voltage is increased.","[""increase"",""decrease"",""exponentially decrease"",""not change""]",0
+"The time taken by the diode to operate in the reverse condition from forward conduction","[""reverse recovery time"",""forward recovery time"",""reverse holding time"",""reverse time constant""]",0
+"In operating a diode at high-speed switching circuits, one of the most important parameters to be considered is","[""ac resistance"",""diode capacitance"",""noise figure"",""reverse recovery time (trr)""]",3
+"The maximum power the diode can handle.","[""maximum derating power"",""maximum consumption power"",""breakdown power"",""maximum dissipation power""]",3
+"What is the most important specification for semiconductor diode?","[""Forward resistance"",""Reverse resistance"",""Peak inverse voltage"",""Current capacity""]",3
+"What will happen to the power handling capability of the diode if it is to be operated at a higher temperature?","[""decreases"",""increases"",""increases exponentially"",""will not be affected""]",0
+"Diode parameter that will inform the user as to what factor does the power handling capability of the diode is reduced as the operating temperature is increased.","[""power derating factor"",""power dissipating factor"",""power reduction constant"",""all of the above""]",0
+"A certain diode has a maximum power dissipation of 500 mW at room temperature and a linear power derating factor of 5.0 mW/°C. How much power the diode can handle if operated at 50°C.","[""625 mW"",""505 mW"",""495 mW"",""375 mW""]",3
+"A semiconductor device especially fabricated to utilize the avalanche or zener breakdown region. This is normally operated in the reverse-region and its application is mostly for voltage reference or regulation.","[""varactor diode"",""zener diode"",""shockley diode"",""Schottky barrier diode""]",1
+"Refers to a special type of diode which is capable of both amplification and oscillation.","[""Junction diode"",""Tunnel diode"",""Point contact diode"",""Zener diode""]",1
+"The effect obtain when the electric field across a semiconductor is strong enough which causes the free electrons to collide with valence electrons, thereby releasing more electrons and a cumulative multiplication of charge carriers occur.","[""Gunn"",""avalanche"",""tunneling"",""diffusion""]",1
+"A negative resistance diode commonly used in microwave oscillators and detectors, it is sometimes used as amplifiers. This device is also known as Esaki diode.","[""varactor diode"",""Schottky diode"",""IMPATT diode"",""tunnel diode""]",3
+"A rectifying metal-semiconductor junction","[""Schottky barrier diode"",""surface barrier diode"",""hot-carrier or hot-electron diode"",""all of the above are correct""]",3
+"Diode whose negative resistance depends on a specific form of quantum-mechanical bond structure of the material","[""Gunn diode"",""tunnel diode"",""TRAPATT diode"",""backward diode""]",0
+"One of the electronic semiconductor devices known as diac, function as","[""Four terminal multi-directional switch"",""Two terminal bi-directional switch"",""Two terminal unidirectional switch"",""Three terminal bi-directional switch""]",2
+"Another name of a three-layer diode. This is also considered as an ac diode.","[""Shockley diode"",""thyrector"",""thyristor"",""diac""]",3
+"A diode whose negative resistance is dependent on the classical effects of phase shift introduced by the time lag between maximum field and maximum avalanche current, and by the transit time through the device.","[""Read diode"",""IMPATT diode"",""TRAPATT diode"",""all of the above""]",3
+"What semiconductor diode that have a fine wire (called a cat-whisker) whose point is in permanent contact with the surface of a wafer of semiconductor material such as silicon, germanium or gallium arsenide?","[""point-contact diode"",""diac"",""PiN diode"",""thyrector""]",0
+"When the p-n junction of a semiconductor diode is inserted with an intrinsic material, the diode becomes a","[""backward diode"",""Read diode"",""Schokley diode"",""PiN diode""]",3
+"A four layer semiconductor diode whose characteristic at the first quadrant is similar to that of a silicon-controlled rectifier (SCR).","[""Shockley diode"",""thyrector"",""Schottky diode"",""diac""]",0
+"A diode that is especially processed so that its high-current flow takes place when the junction is reverse-biased. It is a variation of a tunnel diode.","[""Esaki diode"",""Read diode"",""zener diode"",""backward diode""]",3
+"A silicon diode that exhibits a very high resistance in both directions up to certain voltage, beyond which the unit switches to a low-resistance conducting state. It can be viewed as two zener diodes connected back-to-back in series.","[""bizener diode"",""diac"",""thyristor"",""thyrector""]",3
+"A type of Read diode that uses a heavily doped n-type material as its drift region","[""IMPATT diode"",""TRAPATT diode"",""TUNNETT diode"",""MITATT""]",0
+"A device containing more than one diode. An example is the full-wave bridge-rectifier integrated circuit.","[""diode array"",""diode IC"",""diode pack"",""combined diode""]",2
+"Is the combination of the inductance of the leads and electrodes, capacitance of the junction, and the resistance of the junction of a semiconductor diode.","[""diode impedance"",""diode ac resistance"",""diode reactance"",""diode ac parameter""]",0
+"In a reverse-biased pn junction, the sudden large increase in current that occurs when a particular value of reversed voltage is reached, and which is due to ionization by the high intensity electric field in the depletion region.","[""Zener effect"",""Hall effect"",""breakdown voltage"",""ionization""]",0
+"The appearance of RF current oscillations in a dc-biased slab of n-type gallium arsenide in a 3.3 kV electric field","[""Gunn effect"",""Hall effect"",""Zener effect"",""avalanche""]",0
+"The impedance presented by a junction operating in its zener breakdown region.","[""diode impedance"",""zener impedance"",""breakdown impedance"",""critical impedance""]",1
+"A curve showing the relationship between the voltage and the current of the diode at any given temperature","[""characteristic curve"",""transfer curve"",""transfer characteristic curve"",""all are correct""]",0
+"The line that is plotted in the diode characteristic curve which represents the load","[""linear line"",""operating line"",""load line"",""transfer load line""]",2
+"Diode is said to be operating at a point where the characteristic curve and the load line intersect. This point is technically termed as","[""Q-point"",""operating point"",""quiescent point"",""all are correct""]",3
+"What will happen to the magnitude of the load-line slope when the load resistance is decreased?","[""it will also decrease"",""it will increase"",""it will increase exponentially"",""is not affected by the load""]",1
+"Quiescent or Q-point position is dependent on","[""the supply voltage"",""the load resistance"",""the type of diode"",""all of the above""]",3
+"A germanium diode is connected to a load resistance of 1.5 kΩ and is supplied with 12-V such that the diode will be forward biased. What is the voltage across the diode?","[""approximately 12 V"",""approximately 0.7 V"",""approximately 0.3 V"",""lack of data and can\u2019t be solved""]",2
+"What is the drop across the diode when it is connected in series to a resistor of 1.8 kΩ and a supply voltage of 50 V. The supply voltage causes the diode to be reverse-biased.","[""50 V"",""0.7 V"",""0.3 V"",""can not be solve, lack of data""]",0
+"Two germanium diodes are connected in series and have a load resistance of 10 kΩ and a forward supply voltage of 5 V. Calculate the voltage across the load resistor.","[""4.7 V"",""4.4 V"",""0.6 V"",""0.3 V""]",1
+"A silicon diode is in parallel with a germanium diode and is connected to a load resistor having a value of 20 kΩ and a forward supply voltage of 10 V. What is the approximate voltage across the silicon diode?","[""10 V"",""1.0 V"",""0.7 V"",""0.3 V""]",3
+"What is the output voltage across a load resistor if it is paralleled with a forward biased silicon diode? The resistor network is supplied with 10 V.","[""0.7 V"",""9.3 V"",""10 V"",""Can\u2019t be solve, lack of data.""]",0
+"Diode circuit that is used to cut a portion of the input signal","[""clipper"",""clamper"",""peak detector"",""level shifter""]",0
+"A clipper circuit wherein the diode is connected in series with the load","[""series clipper"",""parallel clipper"",""shunt clipper"",""series feed clipper""]",0
+"What do you call a clipper circuit wherein the diode is shunted with the load?","[""series clipper"",""parallel clipper"",""cascade clipper"",""cascade clipper""]",1
+"A network with a diode and a capacitor that is used to shift the dc-level of the input signal","[""clipper"",""clamper"",""shifter"",""level inverter""]",1
+"Half-wave rectifier is a good example of","[""a series clamper"",""a parallel clamper"",""a parallel clipper"",""a series clipper""]",3
+"Which of the given circuit below must have a capacitor?","[""rectifier"",""clipper"",""clamper"",""all of the above""]",2
+"How many capacitors are used in a diode-capacitor half- wave voltage doubler?","[""1"",""2"",""3"",""4""]",1
+"An improvement of a diode-capacitor half-wave voltage doubler is the full-wave doubler, this circuit uses how many capacitors?","[""1"",""2"",""3"",""4""]",1
+"In a diode-capacitor voltage quadrupler, what is the voltage across the third stage capacitor?","[""Vmax"",""2 Vmax"",""3 Vmax"",""4 Vmax""]",1
+"A combination of several diodes in a single housing","[""diode array"",""diode network"",""diode IC"",""diode matrix""]",0
+"A chopper, employing an alternately biased diodes as the switching element.","[""diode chopper"",""active chopper"",""junction chopper"",""all are correct""]",0
+"A light emitting diode (LED) is to be used in a circuit with a supply voltage of 5 V. What should be the value of the resistor needed by the LED to operate normally?","[""25 \u2126"",""250 \u2126"",""25 k\u2126"",""250 k\u2126""]",1
+"A simple voltage-regulator whose output is the constant voltage drop developed across a zener diode conducting in the reverse breakdown region. The regulator circuit consists of a zener diode in parallel with the load and an appropriate limiting resistor.","[""ordinary voltage regulator"",""zener voltage regulator"",""series voltage regulator"",""switching voltage regulator""]",1
+"Logic circuitry in which a diode is the logic element and a transistor acts as an inverting amplifier.","[""RTL"",""DTL"",""HDTL"",""ECL""]",1

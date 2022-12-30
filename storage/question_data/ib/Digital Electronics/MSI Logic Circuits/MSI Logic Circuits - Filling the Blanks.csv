@@ -1,0 +1,37 @@
+question,A,B,C,D,E,answer,explanation
+<p>A(n) ________ is a combinational logic circuit that compares two input binary quantities and generates outputs to indicate which one has the greater magnitude.</p>,demultiplexer,code converter,magnitude comparator,E-MOS,,C,
+"<p>If by chance more than one of the inputs in an HDL encoder is activated at the same time, the priority encoder ________.</p>",enters a fault mode,ignores the least significant input,resamples the data,finds some other input,,B,
+"<p><p>The diagram given below shows a ________, and in order for the decimal number 3 to be displayed, terminals ________ must be ________.</p>
+<p><img src=""/_files/images/digital-electronics/digital-systems/fbq9_1008_1.gif""/></p></p>","common-cathode seven-segment display, ef, LOW","common-anode seven-segment display, abcdg, HIGH","common-anode seven-segment display, abcdg, LOW","common-cathode seven-segment display, abcdg, HIGH",,C,
+"<p><p>The circuit shown below is a(n) ________.</p>
+<p><img src=""/_files/images/digital-electronics/digital-systems/fbq9_1010_1.gif""/></p></p>",4-bit magnitude comparator,4-bit half adder,8-bit comparator,8-bit binary adder,,A,
+<p>The device that generates a coded output from a single active numeric input line is ________.</p>,a decoder,a multiplexer,a comparator,an encoder,,D,
+<p>The 74139 dual four-line demultiplexer functions as a decoder if ________.</p>,"the <img src=""/_files/images/digital-electronics/digital-systems/e.gif""/> line is grounded","data input is on the <img src=""/_files/images/digital-electronics/digital-systems/e.gif""/> line",data input is on the <i>A</i><sub>0</sub> line,the <i>A</i><sub>0</sub> line is grounded,,A,
+"<p>In HDL, the operation of the DEMUX is exactly described using a ________.</p>",function,process,variable type,number of conditional signal assignment statements,,D,
+"<p>When an application, such as an encoder, calls for a unique response from a circuit corresponding to a combination of its input variables, the two methods that best serve this purpose are the ________ and the ________.</p>","CASE construct, truth TABLE","if then statement, elsif statement","VARIABLE, PROCESS","FUNCTION, TYPE",,A,
+"<p>A(n) ________ is a logic circuit that accepts a set of inputs that represents a binary number, and activates only the output that corresponds to that input number.</p>",decoder,LED,encoder,demultiplexer,,A,
+<p>A 1-of-8 octal decoder has eight outputs and decodes an input of ________ bit(s).</p>,three,two,four,one,,A,
+<p>An everyday illustration of a multiplexer is ________.</p>,the volume control in a stereo receiver,the function switch on a stereo receiver,the balance control on a stereo receiver,the treble-bass control on a stereo receiver,,B,
+<p>The binary value of the BCD number 1000 0001 (81) is ________.</p>,0101 0001,0110 0011,0100 0001,1000 0000,,A,
+<p>A decimal-to-BCD encoder has ________ data inputs.</p>,two,four,five,ten,,D,
+"<p><p>For the inputs shown in the given figure, the output is ________.</p>
+<p><img src=""/_files/images/digital-electronics/digital-systems/fbq9_1010_1.gif""/></p></p>",1,0 ,,,,B,
+"<p><p>The diagram given below shows a ________ being used as a(n) ________ and <i>Y</i> = ________.</p>
+<p><img height=""300"" src=""/_files/images/digital-electronics/digital-systems/fbq9_1006_1.gif"" width=""250""/></p></p>","multiplier, divider, 2.25","multiplexer, encoder, 7641","multiplexer, logic function generator, <i>ABC</i> + <i>ABC</i> + <i>ABC</i> + <i>ABC</i>","logic function generator, multiplexer, 1467",,C,
+"<p>In most modern computers, the transfer of data takes place over a common set of connecting lines called a ________.</p>",data bus,bus line,bus cable,data line,,A,
+<p>An octal-to-binary encoder has eight data inputs and encodes an output of ________ bits.</p>,two,three,four,five,,B,
+<p>A typical AHDL comparator follows an algorithm described as ________.</p>,FUNCTION constructs,CASE constructs,IF/ELSE constructs,PROCESS constructs,,C,
+<p>Another name for a multiplexer is ________.</p>,encoder,decoder,code converter,data selector,,D,
+"<p>When data input <i>I</i><sub>6</sub> of a 74148 octal-to-binary encoder is active, the data output is ________.</p>","<img src=""/_files/images/digital-electronics/digital-systems/fba9_0160a.gif""/>","<img src=""/_files/images/digital-electronics/digital-systems/fba9_0160b.gif""/>","<img src=""/_files/images/digital-electronics/digital-systems/fba9_0160c.gif""/>","<img src=""/_files/images/digital-electronics/digital-systems/fba9_0160d.gif""/>",,C,
+"<p><p><p>For the inputs shown in the given figure, the outputs for <i>P</i> &gt; <i>Q</i>, <i>P</i> = <i>Q</i>, and <i>P</i> &lt; <i>Q</i> are ____, ____, and ____, respectively.</p>
+<p><img src=""/_files/images/digital-electronics/digital-systems/fbq9_1009_1.gif""/></p></p></p>","1,1,1","1,0,1","1,0,0","0,1,0",,C,
+<p>A 75154 1-of-16 decoder has 16 outputs and decodes an input of ________ bits.</p>,two,three,four,six,,C,
+"<p>In an AHDL BCD to binary coded converter, multiplication by 10 is performed by ________.</p>",a multiplication operator,shifting bits,a library function,a variable type,,A,
+<p>A(n) ________ display controls the reflection of available light.</p>,MOS,LCD,LED,LSC,,B,
+<p>The device that places its input data onto one of several outputs is a ________.</p>,demultiplexer,multiplexer,comparator,counter,,A,
+"<p>A(n) ________ has a number of input lines, only one of which is activated at a given time, and produces on N-bit output code, depending on which input is activated.</p>",encoder,code converter,demultiplexer,decoder,,A,
+"<p><p>The device shown in below is a ________ and for the waveforms shown in the accompanying diagram, the ________ output at point X will be ________ and all others will be ________.</p>
+<p><img src=""/_files/images/digital-electronics/digital-systems/fbq9_1007_1.gif""/></p></p>","multiplexer, <i>D</i>4, HIGH, LOW","demultiplexer, <i>D</i>3, LOW, HIGH","demultiplexer, <i>D</i>3, HIGH, LOW","decoder, <i>D</i>12, LOW, LOW",,B,
+<p>The normal outputs of a magnitude comparator are ________.</p>,"<i>A</i> &lt; <i>B</i>, <i>A</i> = <i>B</i>, and <i>A</i> &gt; <i>B</i>","Sum, difference, and carry","C<sub><i>in</i></sub>, C<sub><i>out</i></sub>, and Sum","<i>A</i> = <i>B</i>, <i>A</i> + <i>B</i>, and carry",,A,
+<p>An eight-line multiplexer must have as inputs ________.</p>,four data inputs and three select inputs,eight data inputs and two select inputs,eight data inputs and three select inputs,eight data inputs and four select inputs,,C,
+"<p>In order to select data input I5 of a 74151 eight-line multiplexer, the select inputs must be ________.</p>","<img src=""/_files/images/digital-electronics/digital-systems/fba9_1023a1.gif""/>","<img src=""/_files/images/digital-electronics/digital-systems/fba9_1023b1.gif""/>","<img src=""/_files/images/digital-electronics/digital-systems/fba9_1023c1.gif""/>","<img src=""/_files/images/digital-electronics/digital-systems/fba9_1023d1.gif""/>",,A,

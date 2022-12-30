@@ -1,0 +1,393 @@
+﻿question,choices,answer
+"An electro magnetic wave consists of ___________.","[""both electric and magnetic fields."",""an electric field only"",""a magnetic field only"",""non-magnetic field only""]",0
+"What is the lowest layer of the ionosphere?","[""F1"",""F2"",""E"",""D""]",3
+"Who propounded electro magnetic radiation theory?","[""Sir Edward Appleton"",""James Clerk Maxwell"",""Christian Huygens"",""Sir Isaac Newton""]",1
+"The D, E and F layers are known as ____________.","[""Mark \u2013 space Layers"",""Davinson- Miller Layers"",""Kennely \u2013 Heaviside Layers"",""Appleton Layers""]",2
+"Different grouping of the electromagnetic spectrum.","[""band"",""bandwidth"",""channel"",""group""]",0
+"What is the relation in degrees of the electric and magnetic fields in an electromagnetic wave?","[""180 degrees"",""90 degrees"",""270 degrees"",""45 degrees""]",1
+"A changing electric field gives rise to ________.","[""a magnetic field"",""sound field"",""electromagnetic waves"",""near and far fields""]",0
+"Frequencies in the UHF range propagate by means of","[""ground waves"",""sky waves"",""surface waves"",""space waves""]",3
+"In electromagnetic waves, polarization __________.","[""is caused by reflection"",""is due to the transverse nature of the waves"",""results from the longitudinal nature of the waves"",""is always vertical in an isotropic medium""]",1
+"Electromagnetic Waves are refracted when they ___________.","[""pass into a medium of different dielectric constants"",""are polarized at right angles to the direction of propagation"",""encounter a perfectly conducting surface"",""pass through a small slot in a conducting plane""]",0
+"What is the highest layer of the atmosphere?","[""ionosphere"",""stratosphere"",""troposphere"",""ozone layer""]",0
+"What is the thickest layer of the ionosphere?","[""F2"",""F1"",""D"",""E""]",0
+"Effective Earth radius to true earth radius ratio.","[""index of refraction"",""K factor"",""Fresnel zone"",""path profile""]",1
+"Fading due to interference between direct and reflected rays.","[""atmospheric-multipath"",""Fresnel zone"",""reflection-multipath"",""Rayleigh fading""]",2
+"The layer that reflects very low frequency waves and absorbs medium frequency waves.","[""D Layer"",""E Layer"",""F1 Layer"",""F2 Layer""]",0
+"What layer is used for high-frequency day time propagation?","[""D Layer"",""E Layer"",""F1 Layer"",""F2 Layer""]",1
+"What is the highest frequency that can be sent straight upward and be returned to earth?","[""MUF"",""skip frequency"",""critical frequency"",""gyro frequency""]",2
+"High frequency range is from?","[""0.3 to 3 MHz"",""3 to 30 MHz"",""30 to 300 MHz"",""3to 30 MHz""]",1
+"Medium frequency range is from","[""0.01 to 0.03 MHz"",""0.03 to 0.3 MHz"",""0.3 to 3 MHz"",""3 to 30 MHz""]",2
+"In tropospheric scatter propagation, the attenuation is dependent on","[""scatter angle"",""take-off angle"",""antenna size"",""the troposphere""]",0
+"If the transmitter power remains constant, an increase in the frequency of the sky wave will","[""lengthen the skip distance"",""increase the range of the ground wave"",""reduce the length of the skip distance"",""have no effect on the ground wave range""]",0
+"What is the unit of electric field strength?","[""volts per square meter"",""volt per square cm"",""volts per meter"",""millivolt per watt""]",2
+"Velocity of a radio wave in free space.","[""186,000 miles per sec"",""300 x 10^6 meters per sec"",""162,000 nautical mile per sec"",""all of the above""]",3
+"Refers to the direction of the electric field vector in space.","[""polarization"",""directivity"",""radiation"",""ERP""]",0
+"An TEM wave whose polarization rotates.","[""vertically polarized"",""omnidirectional"",""horizontally polarized"",""circularly polarized""]",3
+"velocity of light in free space","[""300 x 10^6 m\/s"",""300 x 10^6 km\/s"",""186,000 km\/s"",""186,000 m\/s""]",0
+"What is the effective radiated power of a repeater with 200 W transmitter power output, 4 dB feed line loss, 4 dB duplexer and circulator loss, and 10 dB feed line antenna gain?","[""2000 W"",""126 W"",""317 W"",""260 W""]",2
+"Radio wave that is far from its sources is called","[""Plane wave"",""isotropic wave"",""vertical wave"",""horizontal wave""]",0
+"Light goes from medium A to medium B at angle of incidence of 40 degrees. The angle of refraction is 30 degrees. The speed of light in B","[""is the same as that in A"",""is greater than that in A"",""maybe any of these, depending on the specific medium"",""is less than that in A""]",3
+"In a vacuum, the speed of an electromagnetic wave","[""depends on its constant"",""depends on its wavelength"",""depends on its electric and magnetic fields"",""is a universal constant""]",3
+"The depth of an object submerged in a transparent liquid","[""always seems more that its actual depth"",""b may seem less or more than its actual depth, depending on the object"",""always seems less than its actual depth"",""may seem less or more than its actual depth, depending on the transparent liquid""]",2
+"What is a wave front?","[""a voltage pulse in a conductor"",""a current in a conductor"",""a fixed point in an electromagnetic wave"",""a voltage pulse across a resistor""]",2
+"VHF ship station transmitters must have the capability of reducing carrier power to","[""1 W"",""10 W"",""25 W"",""50 W""]",0
+"Most of the effects an electro magnetic wave produces when it interacts with matter are due to its","[""magnetic field"",""speed"",""frequency"",""electric field""]",3
+"A mobile receiver experiences “dead” areas of reception as a result of","[""atmospheric absorption"",""tropospheric scatter"",""sporadic E"",""shading of the RF signal by hills and trees""]",3
+"When the electric field is perpendicular in the surface of the earth, what is the polarization of the TEM wave?","[""elliptical"",""vertical"",""horizontal"",""circular""]",1
+"When the magnetic field is perpendicular to the surface of the earth, what is the polarization of the TEM wave?","[""circular"",""horizontal"",""vertical"",""elliptical""]",1
+"When the magnetic field is parallel to the surface of the earth, what is the polarization of the TEM wave?","[""elliptical"",""horizontal"",""vertical"",""circular""]",2
+"What are the two interrelated fields considered to make up an electromagnetic wave","[""an electric field and a current field"",""an electric field and voltage field"",""an electric field and a magnetic field"",""a voltage and current fields""]",2
+"How does the bandwidth of the transmitted signal affect selective fading?","[""it is more pronounced at narrow bandwidths"",""it is equally pronounced at both narrow and wide bandwidths"",""it is more pronounced at wide bandwidths"",""the receiver bandwidth determines the selective fading""]",2
+"A wide-bandwidth communications systems in which the RF carrier varies according to some predetermined sequence.","[""amplitude compandored single sideband"",""SITOR"",""spread spectrum communication"",""time-domain frequency modulation""]",2
+"A changing magnetic field gives rise to","[""sound field"",""magnetic field"",""electric field"",""nothing in particular""]",2
+"When a space-wave signal passes over a mountain ridge, a small part of the signal is diffracted down the far side of the mountain. This phenomenon is called","[""discontinuity scattering"",""troposheric ducting"",""knife-edge diffraction"",""space-wave refraction""]",2
+"The index of refraction of a material medium","[""is greater than 1"",""is less than 1"",""is equal to 1"",""maybe any of the above""]",0
+"At what speed do electromagnetic waves travel in free space?","[""approximately 468 million meters per second"",""approximately 186300 ft\/s"",""approximately 300 million m\/s"",""approximately 300 million miles\/s""]",2
+"What is the effective earth radius when surface refractivity, and N equals 300?","[""6370 km"",""7270 km"",""7950 km"",""8500 km""]",3
+"If N = 250, what is the earth radius K-factor?","[""1.23"",""1.29"",""1.33"",""1.32""]",0
+"Electric field that lies in a plane perpendicular to the earths surface","[""vertical polarization"",""horizontal polarization"",""circular polarization"",""elliptical polarization""]",0
+"Electric field that lies in a plane parallel to the earth’s surface","[""vertical polarization"",""horizontal polarization"",""circular polarization"",""elliptical polarization""]",1
+"VLF waves are used for some types of services because","[""of the low power required"",""b the transmitting antennas are of convenient size"",""they are very reliable"",""they penetrate the ionosphere easily""]",2
+"Indicate which of the following frequencies cannot be used for reliable beyond-the-horizon terrestrial communications without repeaters","[""20 KHz"",""15 MHz"",""900 MHz"",""12 GHz""]",3
+"High-frequency waves are","[""absorbed by the F2 layer"",""reflected by the D layer"",""capable of use for long-distance communications on the moon"",""affected by the solar cycle""]",3
+"Distances near the skip distance should be used for sky-wave propagation","[""to avoid tilting"",""to prevent sky-wave and upper ray interference"",""to avoid the faraday effect"",""so as not to exceed the critical frequency""]",1
+"A ship-to-ship communications system is plague by fading. The best solution seems to be the use of","[""a more directional antenna"",""a broadband antenna"",""frequency diversity"",""space diversity""]",2
+"A range of microwave frequencies more easily passed by the atmosphere than are the others is called a","[""window"",""critical frequency"",""gyro frequency range"",""resonance in the atmosphere""]",0
+"frequencies in the UHF range normally propagate by means of","[""ground waves."",""sky waves"",""surface waves"",""space waves""]",3
+"Tropospheric scatter is used with frequencies in the following range","[""HF"",""VHF"",""UHF"",""VLF""]",2
+"The ground wave eventually disappears as one moves away from the transmitter because of","[""interference from the sky wave"",""loss of line \u2013 of \u2013 sight conditions"",""maximum single-hop distance limitation"",""tilting""]",3
+"in electromagnetic waves, polarization means","[""the physical orientation of magnetic field in space"",""the physical orientation of electric field in space"",""ionization"",""the presence of positive and negative ions""]",1
+"an electromagnetic waves travel in free space, only one of the following can happen to them.","[""absorption"",""attenuation"",""refraction"",""reflection""]",1
+"the absorption of a radio waves by the atmosphere depends on","[""their frequency"",""their distance from the transmitter"",""the polarization of the waves"",""the polarization of the atmosphere""]",0
+"diffraction of electromagnetic waves","[""is caused by reflections from the ground"",""arises only with spherical wave fronts"",""will occur when the waves pass through a large slot"",""may occur around the edge of a sharp object""]",3
+"In an electromagnetic wave the electric field is","[""Parallel to both magnetic field and the wave direction"",""Perpendicular to both the magnetic field and the wave direction"",""Parallel to the magnetic field and perpendicular to the wave direction"",""Perpendicular to the magnetic field and parallel to the wave direction""]",1
+"The highest frequencies are found in","[""X-rays"",""Radio waves"",""Ultraviolet rays"",""Radar waves""]",0
+"Electromagnetic waves transport","[""Wavelength"",""Charge"",""Frequency"",""Energy""]",3
+"The ionosphere is a region of ionized gas in the upper atmosphere. The ionosphere is responsible for","[""The blue color of the sky"",""Rainbows"",""Long distance radio communication"",""The ability of satellites to orbit the earth""]",2
+"Light of which the following colors has the shortest wavelength","[""Red"",""Yellow"",""Blue"",""Green""]",2
+"The quality in sound that corresponds to color in light is","[""Amplitude"",""Resonance"",""Waveform"",""Pitch""]",3
+"All real images","[""Are erect"",""Can appear on screen"",""Are inverted"",""Cannot appear on a screen""]",1
+"When a beam of light enters one medium from another, a quality that never changes is its","[""Direction"",""Frequency"",""Speed"",""Wavelength""]",1
+"Relative to the angle of incidence, the angle of refraction","[""Is smaller"",""Is larger"",""Is the same"",""Either A or B above""]",3
+"A light ray enters one medium from another along the normal. The angle of refraction is","[""0"",""90 degrees"",""Equal to the critical angle"",""Dependent on the indexes of refraction of the two media""]",3
+"What layer aids MF surface-wave propagation a little and reflects some HF waves in daytime?","[""E layer"",""D layer"",""F1 layer"",""F2 layer""]",0
+"Dispersion is the term used to describe","[""The splitting of white light into its component colors in refraction"",""The propagation of light in straight lines"",""The bending of a beam of light when it goes from one medium to another"",""The bending of a beam of light when it strikes a mirror""]",0
+"The depth of an objects submerged in a transparent liquid","[""Always seems less than its actual depth"",""Always seems more than its actual depth"",""May seems more than its actual depth, depending on the index of refraction of the liquid"",""May seem less or more than its actual depth depending on the angle of view""]",0
+"Total internal reflection can occur when light passes from one medium to another","[""That has a lower index of refraction"",""That has a larger index of refraction"",""That has the same index of refraction"",""At less than the critical angle""]",0
+"When the light ray approaches a glass-air interface from the glass side at the critical angle, the angle of refraction is","[""0"",""90 degrees"",""45 degrees"",""Equal to the angle of incidence""]",1
+"The brightness of light source is called its luminous intensity , whose unit is","[""Candela"",""Lux"",""Lumen"",""Footcandle""]",0
+"Luminous efficiency is least for a","[""Low-wattage light bulb"",""Mercury vapor lamp"",""High-wattage light bulb"",""Fluorescent tube""]",0
+"The minimum illumination recommended for reading is","[""8000 cd"",""8000 lx"",""8000 lm"",""800 W""]",1
+"Light enters a glass plate whose index of refraction is 1.6 at an angle of incidence of 30 degrees . the angle of refraction is","[""18 degrees"",""48 degrees"",""19 degrees"",""53 degrees""]",0
+"Light leaves a slab of transparent material whose index of refraction is 2 at an angle of refraction of 0 degrees. The angle of incidence is","[""0 degrees"",""45 degrees"",""30 degrees"",""90 degrees""]",0
+"Light enters a glass plate at an angle of incidence of 40 degrees and is refracted at an angle refraction of 25 degrees. The index refraction of the glass is","[""0.625"",""1.52"",""0.66"",""1.6""]",1
+"An underwater swimmer shines a flash light beam upward at an angle of incidence of 40 degrees. The angle of refraction is 60 degrees. The index of refraction of water is","[""0.67"",""1.3"",""0.74"",""1.5""]",1
+"The critical angle of incidence for light going from crown glass (n=1.5) to ice (n=1.3) is","[""12 degrees"",""50 degrees"",""42 degrees"",""60 degrees""]",3
+"The solid angle subtended by a hemisphere about its center is","[""\u03c0\/2 sr"",""2\u03c0 sr"",""\u03c0 sr"",""depends on the radius of the hemisphere""]",1
+"The luminous flux emitted by a 60-cd isotropic light source is concentrated on an area of 0.5 m<sup>2</sup>. The illumination of the area is","[""9.6 lx"",""377 lx"",""120 lx"",""1508 lx""]",3
+"Microwave signals propagate by way of the","[""Direct wave"",""Sky wave"",""Surface wave"",""Standing wave""]",0
+"The ionosphere causes radio signals to be","[""Diffused"",""Absorbed"",""Refracted"",""Reflected""]",2
+"Ground wave communications is most effective in what frequency range?","[""300 KHz to 3 MHz"",""3 to 30 MHz"",""30 to 300 MHz"",""Above 300 MHz""]",0
+"The ionosphere has its greatest effect on signals in what frequency range?","[""300 KHz to 3 MHz"",""3 to 30 MHz"",""30 to 300 MHz"",""Above 300 MHz""]",1
+"The type of radio wave responsible for long distance communications by multiple skips is the","[""Ground wave"",""Direct wave"",""Surface wave"",""Sky wave""]",3
+"Line of sight communications is not a factor in which frequency range?","[""VHF"",""UHF"",""HF"",""Microwave""]",2
+"A microwave-transmitting antenna is 550ft high. The receiving antenna is 200ft high. The minimum transmission distance is","[""20 mi"",""33.2 mi"",""38.7 mi"",""53.2 mi""]",3
+"To increase the transmission distance of UHF signal, which of the following should be done?","[""Increase antenna gain"",""Increase antenna height"",""Increase transmitter power"",""Increase receiver sensitivity""]",1
+"States that power density is inversely proportional to the distance from its source.","[""Principle of reciprocity"",""Inverse square law"",""Huygen\u2019s Princple"",""Faraday\u2019s law""]",1
+"gets in contact with the ionosphere and reflected by it.","[""Space wave"",""Sky wave"",""Surface wave"",""Satellite wave""]",1
+"Highest layer in the ionosphere","[""F1"",""D"",""F2"",""E""]",2
+"What is the primary cause of ionization in the atmosphere?","[""Sun spot"",""Cosmic rays"",""Galactic disturbance"",""Ultraviolet radiation""]",3
+"Which layer does not disappear at night?","[""D"",""E"",""F1"",""F2""]",3
+"Which of the following uses surface wave propagation?","[""ELF"",""VLF"",""MF"",""All of these""]",3
+"The ability of the ionosphere to reflect a radio wave back to the earth is determined by","[""Operating frequency"",""Ion density"",""Angle of incidence"",""All of these""]",3
+"Highest frequency that can be used for sky wave propagation between two given points on earth.","[""Critical frequency"",""MUF"",""Cut \u2013off frequency"",""UHF""]",1
+"The shortest distance measured along the earth’s surface that a sky wave is returned to earth.","[""MUF"",""Quarter-wavelength"",""Skip distance"",""Skip zone""]",2
+"Fluctuation in the signal strength at the receiver.","[""Interference"",""Fading"",""Tracking"",""Variable frequency""]",1
+"Two or more antennas are used separated by several wavelengths","[""Space diversity"",""Frequency diversity"",""Hybrid diversity"",""Polarization diversity""]",0
+"Two or more receivers are used using a single antenna.","[""Space diversity"",""Frequency diversity"",""Hybrid diversity"",""Polarization diversity""]",1
+"One of the following is not a cause of fading.","[""Interference between upper and lower rays of a sky wave."",""Sky waves arriving at different number of hops"",""Interference due to ground reflected wave and sky wave"",""Diversity""]",3
+"What do you call the gigantic emissions of hydrogen from the sun?","[""Solar flares"",""SIDs"",""Kennely-Heaviside"",""Sun spots""]",0
+"Sudden ionospheric disturbance","[""Solar flares"",""SIDs"",""Sun spots"",""Intertropical convergence""]",1
+"A means beyond the line of sight propagation of UHF signals.","[""Microwave propagation"",""Space wave propagation"",""Troposcatter propagation"",""Surface wave propagation""]",2
+"Two directional antennas are pointed so that their beams intersect in the troposphere.","[""Skywave"",""Surface wave"",""Microwave"",""Troposcatter""]",3
+"Super refraction.","[""Ducting"",""Trposcatter"",""Skywave"",""Space wave""]",0
+"A layer of warm air trapped above cooler air","[""Troposphere"",""SID"",""Duct"",""Huygen\u2019s principle""]",2
+"Corresponds to voltage","[""Electric field"",""Magnetic field"",""Gyro"",""Direction of propagation""]",0
+"Absence of reception","[""Skip distance"",""Maximum usable"",""Shadow zone"",""Twilight zone""]",2
+"Each point in a spherical waveform maybe a source of a secondary spherical wavefront.","[""Senll\u2019s law"",""Huygen\u2019s principle"",""Rayleigh\u2019s principle"",""De Morgan\u2019s theorem""]",1
+"Ducting occurs in which region of the atmosphere?","[""Stratosphere"",""Troposphere"",""Ionosphere"",""Ozone layer""]",1
+"When is the E region most ionized?","[""At midday"",""At midnight"",""At duck"",""At dawn""]",0
+"Transequatorial propagation is best during","[""Night time"",""Afternoon or early evening"",""Noontime"",""Morning""]",1
+"Which of the following is most affected by knife-edge refraction?","[""Very high and ultra high frequencies"",""High frequencies"",""Medium frequency"",""Low frequency""]",0
+"Which ionosphere layer has an average height of 225 km at night?","[""D layer"",""E layer"",""F1 layer"",""F2 layer""]",3
+"A range of frequency little attenuated by the atmosphere is called","[""slide"",""door"",""window"",""frame""]",2
+"It is defined as either of two acute angles formed by the intersection of the two portions of the tropospheric scatter beam tangent to the earth’s surface.","[""critical angle"",""scatter angle"",""backscatter angle"",""sidescatter angle""]",1
+"It is a device that permits two different transmitters to operate with a single antenna.","[""duplexer"",""diplexer"",""isolator"",""circulator""]",1
+"It is a gradual shift in polarization of the signal in the medium.","[""fading"",""faraday effect"",""ghosting"",""multipath fading""]",1
+"A diversity scheme wherein the receiver receives two fading signals from two different directions.","[""frequency diversity"",""time diversity"",""angle diversity"",""space diversity""]",2
+"The radio wavelength known as _________ falls within the medium frequency range.","[""centimetric wave"",""decametric wave"",""hectometric wave"",""myriametric wave""]",2
+"The most dense of all ionized layer of the ionosphere","[""E"",""F1"",""F2"",""D""]",2
+"The frequency band used as sub-carriers, or signals which carry the baseband modulating information but in turn modulate another higher-frequency carrier is _________.","[""LF"",""MF"",""VLF"",""VH""]",0
+"The range of frequency band termed as super high frequency (SHF) is within _________.","[""30 \u2013 300 GHz"",""30 \u2013 300 MHz"",""3 \u2013 30 GHz"",""300 \u2013 3000 MHz""]",2
+"Electric field that lies in a plane perpendicular to the earth’s surface.","[""circular polarization"",""vertical polarization"",""horizontal polarization"",""elliptical polarization""]",1
+"The magnetic field of an antenna is perpendicular to the earth. The antenna’s polarization","[""is vertical"",""is horizontal"",""is circular"",""cannot be determined from the information given""]",1
+"The surface wave is effective only at frequencies below about _________ MHz.","[""30"",""3"",""300"",""0.3""]",1
+"What wave propagation are attenuated within a few miles?","[""space"",""sky"",""ground"",""direct""]",2
+"What happens to wave velocity as it passes from air to ionosphere?","[""increases"",""decreases"",""remain the same"",""not a factor""]",0
+"What wavelength radiations tend to be transmitted entirely between ionosphere and earth?","[""long"",""short"",""medium"",""millimeter""]",0
+"What effect do sunspots have on the ionosphere?","[""makes more rare and regular"",""makes more dense and irregular"",""makes less dense and regular"",""makes less dense and irregular""]",1
+"What is a double-hop signal?","[""ground, ionosphere, ground and back to ionosphere"",""ground, ground, ionosphere, and ionosphere"",""ionosphere, ionosphere, ground and ground"",""ionosphere, ground, ionosphere and back to ground""]",3
+"What is the major cause of fading?","[""phase difference"",""topographic variation"",""climate"",""ionosphere variation""]",3
+"Where is the skip zone?","[""between the sky and the first reflected wave"",""between end of ground and first reflected wave"",""between end of ground and farthest reflected wave"",""between the end of sky to the farthest reflected wave""]",1
+"What wave is the same day or night?","[""sky"",""space"",""direct"",""ground""]",3
+"Why do HF communications system shift frequencies at different times of day?","[""to take advantage of best reflected signals"",""to conserve the energy used"",""to create diversity"",""to improve noise performance""]",0
+"Scatter transmission is used at what frequencies?","[""EHF and VLF"",""HF and VHF"",""VHF and UHF"",""ELF and VLF""]",2
+"Over what areas ducts often form?","[""desert"",""water"",""forest"",""mountain""]",1
+"Polarization named for _________ component of the wave?","[""static"",""magnetic"",""direction"",""propagation""]",0
+"What polarization is employed in an AM broadcasting?","[""horizontal"",""parallel"",""transverse"",""vertical""]",3
+"How does the bandwidth of the transmitted signal affect selective fading?","[""It is more pronounced at wide bandwidths"",""It is more pronounced at narrow bandwidths"",""It is equally pronounced in both narrow and wide bandwidth"",""The receiver bandwidth determines the selective fading effect""]",0
+"How much farther does the radio-path horizon distance exceed the geometric horizon?","[""By approximately 15% of the distance"",""By approximately twice the distance"",""By approximately one-half the distance"",""By approximately four times the distance""]",0
+"Determine the dB gain of a receiving antenna which delivers a microvolt signal to a transmission line over that of an antenna that delivers a 2 microvolt signal under identical circumstances.","[""-6"",""-3"",""6"",""3""]",0
+"What is transequatorial propagation","[""Propagation between two points at approximately the same distance north and south of the magnetic equator"",""Propagation between two points on the magnetic equator"",""Propagation between two continent by way of ducts along the magnetic equator"",""Propagation between any two station at the same latitude""]",0
+"Knife edge diffraction:","[""Is the bending of UHF frequency radio waves around a building, mountain or obstruction"",""Causes the velocity of wave propagation to be different than the original wave"",""Both a and b above"",""Attenuate UHF signal""]",2
+"The average range for VHF communications is","[""5 miles"",""15 miles"",""30 miles"",""100 miles""]",2
+"A 500 kHz radiates 500 W of power. The same antenna produces a field strength equal 10 1.5 mV/m, If the power delivered by the antenna is increased to 1 kW, what would be the expected field intensity?","[""3 mV\/m"",""1.732 mV\/m"",""2.12 mV\/m"",""1.456 mV\/m""]",2
+"The earth’s layer is struck by a meteor; a cylindrical region of free electron is formed at what layer of the ionosphere?","[""F1 layer"",""E layer"",""F2 layer"",""D layer""]",1
+"What happens to a radio wave as it travels in space and collides with other particles","[""Kinetic energy is given up by the radio wave"",""Kinetic energy is gained by the radio wave"",""Aurora is created"",""Nothing happens since radio waves have no physical substance""]",0
+"Find the characteristic impedance of polyethylene, which has a dielectric constant of 2.4.","[""163.9 ohms"",""377 ohms"",""243 ohms"",""250 ohms""]",2
+"What is the maximum range for signals using transequatorial propagation","[""About 1000 miles"",""About 2500 miles"",""About 5000 miles"",""About 7500 miles""]",2
+"Calculate the electric field intensity in millivolts per meter at 30 kW from a 5 km source.","[""190 mV\/m"",""95.49 uV\/m"",""0.189 W\/m"",""13.416 V\/m""]",0
+"What is the index of refraction of a certain substance if light travels through the substance at 100 meters at a time it is 140 meter to air?","[""1.183"",""1.4"",""0.714"",""0.845""]",1
+"What s selective fading?","[""A fading effect caused by small changes in beam heading at the receiving station"",""A fading caused by phase difference between radio wave components of the same transmission as experienced at the receiving station"",""A fading caused by large changes in the height of the ionosphere as experienced at the receiving station"",""A fading effect caused by the time difference between the receiving and transmitting stations""]",1
+"To what distance is VHF propagation ordinarily limited?","[""Approximately 100 miles"",""Approximately 500 miles"",""Approximately 1500 miles"",""Approximately 2000 miles""]",1
+"Why does the radio path horizon distance exceed the geometric horizon?","[""E-layer skip"",""D-layer skip"",""Auroral skip"",""Radio waves may be bent""]",3
+"Determine the effective radiated power of 20kW TV broadcast transmitter whose antenna has a field gain of 2.","[""40 kW"",""80 kW"",""20 kW"",""10 kW""]",1
+"What is the major cause of selective fading?","[""Small changes in beam heading at the receiving station"",""Large changes in the height of the ionosphere as experienced in the receiving station"",""Time difference between the receiving and transmitting station"",""Phase differences between the radio waves components of the same transmission as experienced in the receiving station""]",3
+"Determine the critical frequency value of an HF signal if its maximum usable frequency is 7050.50 kHz at 35 degrees incidence.","[""4936.8 kHz"",""5775 kHz"",""4044 kHz"",""4908.75 kHz""]",1
+"What is the propagation effect called when phase difference between radio wave components of the same transmission are experiences at the recovery station?","[""Faraday\u2019s rotation"",""Diversity reception"",""Selective fading"",""Phase shift""]",2
+"What is the best time for transequatorial propagation?","[""Morning"",""Noon"",""Afternoon or early evening"",""Transequatorial propagation only works at night""]",2
+"The dielectric strength of a certain medium is about 2.85 MV/m. what is the maximum power density of an electromagnetic wave in this medium?","[""23.9 GW\/ sq. m"",""67.7 GW\/ sq. m"",""21.5 GW\/ sq. m"",""6.86 GW\/ sq. m""]",2
+"What is the knife edge diffraction?","[""Allows normally line-of-sight signals to bend around sharp edges, mountain ridges, building and other obstruction"",""Arching in sharp bends of conductors"",""Phase angle image rejection"",""Line-of-sight causing distortion to other signals""]",0
+"The total power delivered to the radiator of an isotropic antenna is 200, 000 W. determine the power density at a distance of 100 meters","[""1.59 W\/sq m"",""24.49 W\/sq m"",""3.18 W\/sq m"",""244.95 W\/sq m""]",0
+"The bending of radio waves passing over the top of a mountain range disperse a weak portion of the signal behind the mountain is","[""Eddy-current phase effect"",""Knife-edge diffraction"",""Shadowing"",""Mirror refraction effect""]",1
+"A radio wave moves from air (er=1) to glass (er=7.8). Its angle of incidence is 20 degrees. What is the angle of refraction?","[""7 degrees"",""29 degrees"",""10.3 degrees"",""72.79 degrees""]",0
+"A dipole antenna requires to be feed with 20 kW of power to produce a given signal strength available with an input power of 11 kW. What is the dB gain obtained by the use of the reflector? (gain referred to this particular dipole)","[""-2.6 dB"",""2.6 dB"",""5.19 dB"",""-5.19 dB""]",1
+"What is a wavefront?","[""A voltage pulse in a conductor"",""A current pulse in a conductor"",""A voltage pulse across a resistor"",""A fixed point in an electromagnetic wave""]",3
+"What is meant by referring to electromagnetic waves as having circular polarization?","[""The electric field is bent into a circular shape"",""The electric field rotates"",""The electromagnetic wave continues to circle the earth"",""The electromagnetic wave has been generated by a quad antenna""]",1
+"An automobile travels at 90 km/h, find the time between fades if the car uses a cellphone at 800 MHz","[""11.2 ms"",""15 ms"",""7.5 ms"",""4.7 ms""]",2
+"When the electric field is parallel to the surface of the earth, what is the polarization of the electromagnetic wave?","[""Vertical"",""Horizontal"",""Circular"",""Elliptical""]",1
+"At what speed do electromagnetic waves travel in space?","[""Approximately 300 million meters per second"",""Approximately 468 million meters per second"",""Approximately 186, 300 feet per second"",""Approximately 300 million miles per second""]",0
+"The maximum number of free electrons in a certain ionospheric layer is 3.256 x 10^13 per cu m. the critical frequency is","[""51.355 MHz"",""17.118 MHz"",""34.237 MHz"",""5.706 MHz""]",0
+"What are electromagnetic waves?","[""Alternating currents in the core of an electromagnet"",""A wave consisting of two electric fields at right angles to each other"",""A wave consisting of an electric field and a magnetic field at right angles to each other"",""A wave consisting of two magnetic fields at right angles to each other""]",2
+"When the electric field is perpendicular to the surface of the earth, what is the polarization of the electromagnetic wave?","[""Circular"",""Vertical"",""Horizontal"",""Elliptical""]",1
+"Determine the refractive index of an ionospheric layer with 1.567×10^6 free electrons per cu m. The frequency of the radio wave is 32 kHz.","[""0.999"",""0.936"",""0.956"",""0.987""]",1
+"What is meant by electromagnetic waves as horizontally polarized?","[""The electric field is parallel to the earth"",""The magnetic field is parallel to the earth"",""Both the electric and magnetic field are horizontal"",""Both the electric and magnetic field are vertical""]",0
+"Why do electromagnetic waves not penetrate a good conductor to any great extent?","[""The electromagnetic field induces currents in the insulator"",""The oxide on the conductor surface acts as a shield"",""Because of eddy currents"",""The resistivity of the conductor dissipates the field""]",2
+"A transmitter has a power output of 250 W at a carrier frequency of 325 MHz. it is connected to an antenna with a gain of 12 dBi. The receiving antenna is 10 km away and has a gain of 5 dBi. Calculate the power delivered to the receiver, assuming free-space propagation. Assume that there are no losses or mismatches in the system.","[""404 nW"",""2.04 nW"",""960 nW"",""680 nW""]",3
+"What is the frequency to use for skywave propagation if the critical frequency is 15 MHZ and the angle of radiation is 60 degrees?","[""17.32 MHz"",""30 MHz"",""25.5 MHz"",""14.722 MHz""]",2
+"When the magnetic field is parallel tot eh surface of the earth, what is the polarization of the electromagnetic field?","[""Circular"",""Horizontal"",""Elliptical"",""Vertical""]",3
+"What is the index of refraction of a certain medium if the velocity of propagation of a radio wave in this medium is 1.527×10^8 m/s?","[""0.509"",""0.631"",""0.713"",""1.965""]",0
+"When the magnetic field is perpendicular to the surface of the earth, what is the polarization of the electromagnetic field?","[""Circular"",""Horizontal"",""Elliptical"",""Vertical""]",1
+"Frequencies most affected by knife-edge refraction are","[""Low and medium frequencies"",""High frequencies"",""Very high and ultra high frequencies"",""100 kHz to 3 MHz""]",2
+"The ionosphere causes radio signals to be","[""Diffused"",""Absorbed"",""Refracted"",""Reflected""]",2
+"To increase the transmission distance of a UHF signal, which of the following should be done?","[""Increase antenna gain"",""Increase antenna height"",""Increase transmitter power"",""Increase receiver sensitivity""]",1
+"A receiver-transmitter station used to increase the communications range of VHF, UHF and microwave signals is called a(an)","[""Transceiver"",""Remitter"",""Repeater"",""Amplifier""]",2
+"A taxi company uses a central dispatcher with an antenna at the top of a 25 m tower, to communicate with the taxicabs. The taxi antennas are on the roofs of the cars, approximately 1.5 m above the ground. Calculate the maximum communication distance between the dispatcher and a taxi.","[""25.7 km"",""8.8 km"",""21 km"",""10.1""]",0
+"Microwave propagate by means of","[""Direct wave"",""Sky wave"",""Surface wave"",""Standing wave""]",0
+"The D layer of the ionosphere reflects _________ waves.","[""MF and HF"",""VLF and MF"",""MF and VHF"",""VLF and LF""]",3
+"A diversity scheme wherein the same radio signal is repeated or transmitted more than once.","[""polarization diversity"",""field component diversity"",""time diversity"",""frequency diversity""]",2
+"The disadvantage of ground wave propagation is","[""Ground waves require a relatively high transmission power"",""Ground waves are limited to very low, low and medium frequencies requiring large antennas"",""Ground losses very considerably with surface material"",""Any of these""]",3
+"A range of microwave frequencies more easily passed by the atmosphere than the others is called a","[""window"",""critical frequency"",""gyro frequency range"",""resonance in the atmosphere""]",0
+"It is simply the orientation of the electric field vector in respect to the surface of the Earth","[""Polarization"",""Wavefront"",""Rays"",""Power density""]",0
+"For an isotropic antenna radiating 100W of power, what is power density 1000m from the source?","[""1.99 \u00b5W\/m^2"",""7.96 \u00b5W\/m^2"",""3.22 \u00b5W\/m^2"",""9.17 \u00b5W\/m^2""]",1
+"The ground wave eventually disappears, as moves away from the transmitter, because of","[""interference from the sky wave"",""loss of line-of-sight conditions"",""maximum single hop distance limitations"",""tilting""]",3
+"If the electric field is propagating parallel to the surface of the Earth, the polarization is _________.","[""Circular"",""Vertical"",""Horizontal"",""Elliptical""]",2
+"A taxi company uses a central dispatcher, with an antenna at the top of a 15m tower, to communicate with taxi cabs. The taxi antennas are on the roofs of the cars, approximately 1.5m above the ground. What is the maximum communication distance between the dispatcher and a taxi?","[""21 km"",""30 km"",""25 km"",""33 km""]",0
+"The E layer of the ionosphere aid _________ propagation and reflects _________ waves","[""MF, HF"",""HF, MF"",""LF, MF"",""MF, LF""]",0
+"When microwave signals follows the curvature of the earth, it is known as","[""the Faraday effect"",""ducting"",""tropospheric scatter"",""ionospheric scatter""]",1
+"If the polarization vector rotates 360 degrees as the wave moves one wavelength through space and field strength is equal at all angles of polarization, the polarization is _________.","[""Vertically polarized"",""Horizontally polarized"",""Circularly polarized"",""Elliptically polarized""]",2
+"_________ travels essentially in a straight line between the transmit and the receive antennas","[""Direct waves"",""Sky waves"",""Space waves"",""Surface waves""]",0
+"Variations brought about the revolution of the earth around the sun","[""weather variation"",""cyclical variation"",""diurnal variation"",""seasonal variation""]",3
+"The dielectric strength of air is about 3 MV/m. Arching is likely to take place at field strengths greater than that. What is the maximum power density of an electromagnetic wave in air?","[""40 GW\/m^2"",""15.5 GW\/m^2"",""23.9 GW\/m^2"",""18.9 GW\/m^2""]",2
+"It is a single location from which rays propagate equally in all directions","[""point source"",""omnidirectional source"",""ideal polarization"",""isotropic polarized""]",0
+"Diffraction of electromagnetic waves","[""is caused by reflections from the ground"",""arises only with spherical waveforms"",""will occur when the waves pass through a large slot"",""may occur around the edge of a sharp obstacle""]",3
+"The critical frequency at a particular time is 11.6 MHz. What is the MUF for a transmitting station if the required angle of incidence for propagation to a desired destination is 70 degrees?","[""34 MHz"",""45 MHz"",""40 MHz"",""15.5 MHz""]",0
+"The rate at which energy passes through a given surface area in free space is called _________.","[""capture power"",""capture area"",""captured power density"",""power density""]",3
+"A radio wave moves from air (relative permittivity is 1) to glass (relative permittivity is 7.8). Its angle of incidence is 30 degrees. What is the angle of refraction?","[""10.3 degrees"",""11.2 degrees"",""20.4 degrees"",""0.179 degrees""]",0
+"It is the intensity of the electric and the magnetic fields of the electromagnetic wave propagating in free space","[""field intensity"",""field density"",""power intensity"",""power density""]",0
+"Radio propagation was predicted mathematically by","[""Heinrich R. Hertz"",""Guglielmo Marconi"",""James Clerk Maxwell"",""Alexander Graham Bell""]",2
+"Tropospheric scatter is used with frequencies in the following range","[""HF"",""VHF"",""UHF"",""VLF""]",2
+"A point source that radiates power at a constant rate uniformly in all directions.","[""isotropic source"",""isotropic radiator"",""point source"",""any of these""]",3
+"The transmitting distance with direct waves is limited to short distances and strictly a function of the _________ of the transmitting and receiving antenna.","[""frequency"",""phase"",""power"",""height""]",3
+"One nautical mile is equal to _________ statute miles.","[""2.12"",""1.15"",""2.54"",""1.90""]",1
+"It is the deflection or bending of electromagnetic waves such as radio waves, light or even sound when the waves cross the boundary line between two mediums with different characteristics.","[""reflection"",""diffraction"",""refraction"",""dispersion""]",2
+"The reduction of power density with distance is equivalent to a power loss.","[""absorption"",""attenuation"",""distance loss"",""power dissipation""]",1
+"The signal refracted back from the ionosphere strikes the earth and is reflected back up to the ionosphere again to be bent and sent back to earth.","[""skip transmission"",""multi-hop transmission"",""multi transmission"",""hop transmission""]",1
+"Electromagnetic waves are refracted when they","[""pass into a medium of different dielectric constant"",""are polarized at right angles to the direction of propagation"",""encounter a perfectly conducting surface"",""pass through a small slot in a conducting plane""]",0
+"The reduction in power density due to non free-space propagation","[""absorption"",""attenuation"",""power dissipation"",""distance loss""]",0
+"_________ is the signal that is radiated by the antenna into the atmosphere where it is bent or reflected back to earth.","[""ground wave signal"",""sky wave signal"",""space wave signal"",""direct waves signal""]",1
+"It is a type of fading having different effect different frequencies","[""Selective fading"",""Polarization fading"",""Interference fading"",""Absorption fading""]",0
+"It is defined as the modulation or redistribution of energy within a wave front as it passes near the edge of an opaque object.","[""refraction"",""scattering"",""reflection"",""diffraction""]",3
+"What type of modulation is primarily used in ground wave propagation?","[""Frequency modulation"",""Amplitude modulation"",""Phase modulation"",""Pulse modulation""]",1
+"It states that every point on a given spherical wavefront can be considered as a secondary point source of electromagnetic waves from which other secondary waves or wavelets are radiated outward.","[""Hertzian principle"",""Maxwell\u2019s principle"",""Huygen\u2019s principle"",""Marconi\u2019s principle""]",2
+"Calculate the electric field intensity, in volts per meter, 20 km from a 1-kW source.","[""3.44 mW\/m"",""7.65 mW\/m"",""8.66 mW\/m"",""1.45 mW\/m""]",2
+"The absorption of radio waves by the atmosphere depends on","[""their frequency"",""their distance from the transmitter"",""the polarization of waves"",""is always vertical in an isotropic medium""]",0
+"Calculate the radio horizon for a 500-ft transmitting antenna and receiving antenna of 20 ft.","[""23.1 mi"",""31.2 mi"",""14.8 mi"",""37.9 mi""]",3
+"Calculate the power received from a 20-W transmitter, 22,000 miles from earth, if the receiving antenna has an effective area of 1600 m^2","[""4.06 x 10^-12 W"",""2.03 x 10^-12 W"",""1.02 x 10^-12 W"",""0.91 x 10^-12 W""]",1
+"As electromagnetic waves travel in free space, only one of the following can happen to them","[""absorption"",""attenuation"",""refraction"",""reflection""]",1
+"Electromagnetic waves travelling within Earth’s atmosphere is called","[""Space wave"",""Surface wave"",""Terrestrial wave"",""Sky-wave""]",2
+"Calculate the power density in watts per square meter (on earth) from a 10-W satellite source that is 22,000 miles from earth.","[""3.17 x 10^-16 W\/m^2"",""6.35 x 10^-16 W\/m^2"",""2.31 x 10^-16 W\/m^2"",""1.21 x 10^-16 W\/m^2""]",1
+"It is termed used to describe variations in signal strength that occur at the receiver during this time a signal is being received.","[""skipping"",""attenuation"",""absorption"",""fading""]",3
+"The constant temperature stratosphere is called _________.","[""E-layer"",""S-layer"",""isothermal region"",""ionosthermal region""]",2
+"It is the tendency of the sun to have grayish-black blemishes, seemingly at random times and at random place, on its fiery surface.","[""solar intensity"",""sunspot"",""solar flare"",""solar flux""]",1
+"In electromagnetic waves, polarization","[""is caused by reflection"",""is due to the transverse nature of the waves"",""results from the longitudinal nature of waves"",""is always vertical in an isotropic medium""]",1
+"It is an earth-guided electromagnetic wave that travels over the surface of the Earth","[""Surface waves"",""Sky waves"",""Direct waves"",""Space waves""]",0
+"Frequencies in the UHF range normally propagate by means of","[""Ground waves"",""Sky waves"",""Surface waves"",""Space waves""]",3
+"Electromagnetic waves that are directed above the horizon level is called _________.","[""direct waves"",""sky waves"",""space waves"",""surface waves""]",1
+"The refracting and reflecting action of the ionosphere and the ground is called","[""sliding"",""skipping"",""hopping"",""boosting""]",1
+"An electrical energy that is escaped in free space","[""Electrical signal"",""Electromagnetic waves"",""Magnetic waves"",""Electromagnetism""]",1
+"The layer of the ionosphere which farthest from the sun","[""D layer"",""E layer"",""F1 layer"",""F2 layer""]",0
+"A condition which manifest itself in the form of double-image distortion","[""running"",""fading"",""ghosting"",""snowing""]",2
+"The D layer of the ionosphere absorbs _________ waves.","[""LF and MF"",""MF and HF"",""HF and VHF"",""VHF and UHF""]",1
+"The E layer of the ionosphere is sometimes called _________","[""Kennely-Heavisides"",""Sporadic-E layer"",""E-densed layer"",""Kennely layer""]",0
+"It is defined as the higher frequency that can be propagated directly upward and still be returned to earth by the ionosphere","[""critical angle"",""maximum usable frequency"",""critical frequency"",""virtual height""]",2
+"The maximum vertical angle at which electromagnetic waves can be propagated and still be reflected back by the ionosphere","[""numerical aperture"",""incident angle"",""critical angle"",""refracted angle""]",2
+"It is defined as the plane joining all points of equal phase","[""rays"",""electromagnetic wave"",""wavefront"",""isotropic source""]",2
+"It is the height above Earth’s surface from which a reflected wave appears to have been reflected.","[""virtual height"",""maximum height"",""vertical height"",""horizontal height""]",0
+"It is the highest frequency that can be used for sky wave propagation between two specific points on Earth’s surface","[""optimum working frequency"",""maximum usable frequency"",""critical frequency"",""maximum frequency""]",1
+"The polarization of electromagnetic waves can be determined by the direction of the","[""E field"",""H field"",""propagation"",""both E and H field""]",0
+"85 percent of the maximum usable frequency (MUF) is called _________.","[""maximum usable frequency"",""optimum working frequency"",""critical frequency"",""maximum frequency""]",1
+"It is defined as the minimum distance from the transmit antenna that a sky wave at a given frequency will be returned to earth.","[""skip distance"",""skip zone"",""skip frequency distance"",""skip zone frequency""]",0
+"At distance greater than the skip distance, two rays can take different paths and still be returned to the same point on Earth. The two rays are called lower rays and _________.","[""Pedersen ray"",""Light ray"",""Huygen\u2019s ray"",""Miller\u2019s ray""]",0
+"Undesired radiated energy from a radio transmitter or in another source.","[""ESD"",""EMI"",""RFI"",""ESI""]",1
+"The area between where the surface waves are completely dissipated and the point where the first sky wave returns to earth is called _________.","[""skip distance"",""skip distance zone"",""optical horizon"",""quiet zone""]",3
+"The undesired radiated energy that may cause interference with other electronic equipment in the vicinity.","[""ESD"",""EMI"",""RFI"",""ESI""]",2
+"It is defined as the loss incurred by an electromagnetic wave as it propagates in a straight line through a vacuum with no absorption or reflection of energy from nearby objects.","[""free-space path loss"",""free space loss"",""path loss"",""any of these""]",3
+"To increase the transmission distance of a UHF signal, which of the following should be done?","[""increase the antenna gain"",""increase antenna height"",""increase transmitter power"",""increase receiver sensitivity""]",1
+"For a carrier frequency of 6 GHz and a distance of 50 km, determine the free-space path loss","[""132 dB"",""123 dB"",""142 dB"",""152 dB""]",2
+"A microwave-transmitting antenna is 550 ft. high. The receiving antenna is 200 ft. high. The maximum transmission distance is","[""20 mi"",""33.2 mi"",""38.7 mi"",""53.2 mi""]",3
+"Indicate which one of the following term applies to troposcatter propagation","[""SIDs"",""Fading"",""Atmospheric storms"",""Faraday\u2019s rotation""]",1
+"Line-of-sight communications is not a factor in which frequency range?","[""VHF"",""UHF"",""HF"",""Microwave""]",2
+"VLF waves are used for some types of services because","[""of the low powers required"",""the transmitting antenna are of convenient size"",""they are very reliable"",""affected by the solar cycle""]",2
+"Microwave signals propagate by way of the","[""direct wave"",""sky wave"",""surface wave"",""standing wave""]",1
+"Indicate which of the following frequencies cannot be used for reliable beyond-the-horizon terrestrial communications without repeaters:","[""20 kHz"",""15 MHz"",""900 MHz"",""12 GHz""]",3
+"The type of radio wave responsible for long-distance communications by multiple skips is the","[""ground wave"",""direct wave"",""surface waves"",""sky wave""]",3
+"High-frequency waves are","[""absorbed by the F2 layer"",""reflected by the D layer"",""capable of use for long-distance communications on the moon"",""affected by the solar cycle""]",3
+"The ionosphere has its greatest effect on signals in what frequency range?","[""300 kHz to 3 MHz"",""3 to 30 MHz"",""30 to 300 MHz"",""above 300 MHz""]",1
+"Distances near the skip distance should be used for sky-wave propagation","[""to avoid tilting"",""to prevent sky-wave and upper ray interference"",""to avoid Faraday effect"",""so as not to exceed the critical frequency""]",1
+"Ground-wave communications is most effective in what frequency range?","[""300 kHz to 3 MHz"",""3 to 30 MHz"",""30 to 300 MHz"",""above 300 MHz""]",0
+"The ionosphere causes radio signals to be","[""diffused"",""absorbed"",""refracted"",""reflected""]",2
+"Helical antenna are often used for satellite tracking at VHF because of","[""troposcatter"",""superrefraction"",""ionospheric refraction"",""the Faraday effect""]",3
+"A ship-to-ship communication system is plagued by fading. The best solution seem to use of","[""a more directional antenna"",""a broadband antenna"",""frequency diversity"",""space diversity""]",2
+"It is defined as the ratio of the electric field intensity of the reflected wave to that of the incident wave","[""refractive index"",""numerical aperture"",""reflection coefficient"",""absorption coefficient""]",2
+"It is the measure of energy received per unit time, per unit area, per unit frequency interval.","[""solar intensity"",""sunspot"",""solar flare"",""solar flux""]",3
+"A long period with lack of any solar activity","[""El Ni\u00f1o"",""La Ni\u00f1a"",""Maunder period"",""Sunspots""]",2
+"As a ground-wave signal moves away from the transmitter, the ground wave eventually disappears due to the","[""absorption"",""tilting"",""refraction"",""diffraction""]",1
+"It is the lowest layer of the atmosphere where all weather disturbances takes place","[""D layer"",""Stratosphere"",""Ionosphere"",""Troposphere""]",3
+"It is the lower limit of the range of frequencies that provide useful communication between two given points by the way of the ionosphere.","[""MUF"",""LUF"",""OWF"",""MMF""]",1
+"It is the area that lies between the outer limit of the ground-wave range and the inner edge of energy return from the ionosphere","[""skip distance"",""skip zone"",""virtual height"",""optical horizon""]",1
+"Variations brought about by the rotation of the earth around its axis.","[""cyclical rotation"",""seasonal variation"",""diurnal variation"",""weather variation""]",2
+"Ionospheric irregularity caused by solar flares, which are gigantic emissions of hydrogen from the sun.","[""Sudden ionospheric disturbances"",""Dillenger fadeouts"",""Mogul-Delliger fadeouts"",""Any of these""]",3
+"It is a type of fading caused by so-called Faraday effect or Faraday rotation","[""interference fading"",""absorption fading"",""selective fading"",""polarization fading""]",3
+"Radio horizon is _________ greater than the optical horizon.","[""one-third"",""four-third"",""two-third"",""twice""]",0
+"An increase in temperature with height which gives rise to super refraction or ducting is known as _________.","[""height inversion"",""depth inversion"",""temperature inversion"",""ionospheric inversion""]",2
+"A region in which super refraction occurs which is formed in the troposphere when the layer of cool air becomes trapped underneath a layer of warmer air.","[""duct"",""dielectric area"",""gateway"",""window""]",0
+"The D, E and F layers of the ionosphere are called","[""Mark-Space Layers"",""Davidson-Miller Layers"",""Kenelly Heaviside Layers"",""Maxwell Layer""]",2
+"________ refers to the ratio of an electric field component to a magnetic field component at the same point of the wave.","[""Characteristics impedance"",""Load impedance"",""Intrinsic impedance"",""Wave impedance""]",3
+"The field strength of a radio signal varies according to the output or transmitted power and the distance of the receiver from the transmitter. This wave behavior is described by","[""The field strength"",""Huygen\u2019s Principle"",""Faraday\u2019s Law"",""Inverse Square Law""]",0
+"The antenna theory states that reception and transmission functions are interchangeable is","[""Poynting Theorem"",""Snell\u2019s Law"",""Huygen\u2019s Principle"",""Law of Reciprocity""]",3
+"The frequency band where electromagnetic waves travel in straight path or in a direct line of sight between the transmitter and receiver antenna is","[""ELF"",""HF"",""VLF"",""VHF and above""]",3
+"This mode of electromagnetic wave propagation uses the earth’s surface or curvature as a guide to transmit vertically polarized waves","[""Sky wave"",""Tropospheric wave"",""Transionospheric wave"",""Ground wave""]",3
+"Frequencies in the UHF range propagate by means of","[""Ground waves"",""surface waves"",""sky waves"",""space waves""]",3
+"the ground wave eventually disappear as it moves farther away from the transmitter, because of","[""tilting"",""reflection"",""refraction"",""diffraction""]",3
+"as electromagnetic waves travel in free space, only one of the following can happen","[""absorption"",""attenuation"",""refraction"",""reflection""]",1
+"In polarization diversity, two signals are","[""Both polarized at one specific location"",""Vertically and horizontally polarized separately"",""Polarized in the same manner"",""Vertically and horizontally polarized using a common antenna""]",1
+"If the direction of the electric field of a radio wave is horizontal. That wave is known to be _____ polarized.","[""Negatively"",""Vertically"",""Positively"",""Horizontally""]",3
+"The property of a material that determines how much change electrostatic energy can be stored per unit volume when voltage is applied","[""Miller effect"",""Permeability"",""Capacitance"",""Permitivity""]",3
+"According to this law or principle, a wavefront may be considered to consist of an infinite number of isotropic radiators, each one sending out wavelets, always away from the source.","[""Snell\u2019s Law"",""Maxwell\u2019s Law"",""Huygen\u2019s Principle"",""Archimedes Principle""]",2
+"A number, which when multiplied by the speed of light in free space gives the speed of light in the medium in question is","[""Fibonacci number"",""Fermat\u2019s number"",""Velocity factor"",""K-factor""]",2
+"The ability of a radio wave to be bent slightly over the edge of a sharp obstacle such as a steep hill or mountain top is","[""Diffraction"",""Reflection"",""Refraction"",""Attenuation""]",0
+"A space wave is","[""Sky wave"",""Radio wave"",""Surface wave"",""Line of sight propagation wave""]",3
+"It is a diagram indicating the intensity in volts/meter, in all directions, of the radiated filed of an antenna as it would occur under actual operating conditions.","[""Constellation diagram"",""Argand diagram"",""Funicular diagram"",""Radiation pattern""]",3
+"Equivalent to capacitance in electrical circuits","[""Inductance"",""Permittivity"",""Permeability"",""Power density""]",1
+"All of these cause attenuation except","[""Tilting"",""Ground absorption"",""Atmospheric absorption"",""Surface wave propagation""]",3
+"The transmission of radio waves far beyond line of sight distances by using high power and large transmitting antennas to beam the signal upward into the atmosphere and a similar large receiving antenna to pick up a small portion of the signal scattered by the atmosphere is called","[""Forward scatter propagation"",""Beyond the horizon propagation"",""Either a or b"",""Meteoric Scatter Propagation""]",2
+"The apparent height of an ionized layer of the atmosphere; as determined from the time interval between the transmitted signal and the ionospheric echo at vertical incidence. This height is the maximum height reached if the actual paths are projected forming straight lines from the ascent to the descent of waves.","[""Optimum height"",""Virtual height"",""Complex height"",""Critical height""]",1
+"The highest frequency whereby a wave will be returned back to earth by an ionospheric layer having been beamed up at it and ranges from 5 to 12 MHz. For F2 layers. This frequency is directly proportional to the secant function of the smallest angle, which allows reflection of sky waves.","[""Apex frequency"",""Critical frequency"",""Carrier frequency"",""Baseband frequency""]",1
+"The distant at which sky-wave signals are reflected back to earth depend on","[""Height of the reflecting layer"",""The takeoff angle of the waves"",""Both a and b"",""Conductivity of the soil""]",2
+"Perfect reflection of waves occur when","[""The magnitude of the incident is equal to the reflected waves"",""The magnitude of the incident is less than the reflected waves"",""The magnitude of incident is greater than reflected waves"",""Both a and b""]",0
+"The process by which a radio wave is bent and returned to earth from one medium to another after striking them is","[""Reflection"",""Refraction"",""Diffraction"",""Absorption""]",1
+"An incident, traveling obliquely from one medium to another, will undergo a change in direction if the velocity of the wave in one medium is different from that in the other and the ratio of the sine of the angle of incidence to the sine of the angle of refraction is the same ratio of respectively wave velocities in these media. This law is called","[""Snell\u2019s Law"",""Fisher\u2019s Law"",""Hooke\u2019s Law"",""Newton\u2019s Law""]",0
+"The lowest layer of the ionosphere which exists between 50 to 90 km from the earth’s surface and reflects VLF and LF waves while absorbing MF and HF waves during daytime is the","[""D layer"",""E layer"",""F layer"",""Vantress layer""]",0
+"This phenomenon occurs when the thicker air is on top instead of being at the bottom when the temperature of water vapor gradient is lesser or greater than the standard rate.","[""Thermal inversion"",""Horizontal ducting"",""Elevated ducting"",""Sporadic E""]",0
+"An ionospheric layer, which exists between 90 to 120 km above the earth’s surface and is about 25 km thick. It aids MF surface propagation while reflecting some HF during daytime","[""D-layer"",""E-layer"",""F layer"",""Vantress layer""]",1
+"Atmospheric condition is controlled by","[""Pressure"",""Temperature"",""Humidity"",""All of these""]",3
+"This ionospheric layer forms at night at about 300 km from the earth’s surface and is responsible for long distance HF wave propagation due to reflection and refraction. It splits during daytime due to the ionizing energy from ultraviolet rays of the sun.","[""D layer"",""E layer"",""F layer"",""Vantress layer""]",2
+"When the transmitting and receiving antennas are line-of-sight of each other, the mode of propagation is _____ wave.","[""Space or direct"",""Sky"",""surface"",""ground""]",0
+"Power density is inversely proportional to the square of the distance from the source or transmitter to the destination or receiver. This law is called:","[""Coulomb\u2019s law"",""Law of Universal Gravitation"",""Inverse Square Law"",""Lenz\u2019s Law""]",2
+"A one-hop, full duplex, microwave system is in a space diversity arrangement. Determine how many receivers in all are used?","[""6"",""2"",""8"",""4""]",1
+"________ is the extra ionization of the E-layer resulting to irregular and intermittent reflection of frequencies of up to 80 MHz in temperate and lower latitudes of frequencies of up to 80 MHz in temperate and lower latitudes. It is variable in time of occurrence, height. Geographical distribution, penetration frequency and ionization density.","[""Sporadic E"",""Dillinger Effect"",""Faraday rotation"",""Scintillations""]",0
+"The decrease in signal strength as a result of absorption or scattering of energy along a transmission path is called:","[""Attenuation"",""Microbending"",""Dispersion"",""Multipath fading""]",0
+"The transfer of electromagnetic waves or acoustical energy from one place to another through a suitable transmission medium is","[""Wave propagation"",""RF induction"",""Radio Frequency Interference"",""Forward Scatter""]",0
+"The upper limit of frequencies that can be used at a specified time for radio transmission between two points and involving propagation by reflection from regular ionized layers of the ionosphere is","[""Maximum usable frequency"",""Optimum traffic frequency"",""Minimum usable frequency"",""Carrier frequency""]",3
+"Waves whose oscillations are perpendicular to the direction of propagation are called","[""Huygen\u2019s waves"",""Transverse waves"",""Longitudinal waves"",""Fraunhoffer waves""]",1
+"Indicate which one of the following terms applies to troposcatter propagation:","[""SIDs"",""Fading"",""Atmospheric storms"",""Faraday rotation""]",1
+"VLF waves are used for some types of services because","[""Of the low power required"",""The transmitting antennas are of convenient size"",""They are very reliable"",""They penetrate the ionosphere easily""]",2
+"High frequency waves are","[""Absorbed by the F2 layer"",""Reflected by the D layer"",""Capable of use for long-distance communications on the moon"",""Affected by the solar cycle""]",3
+"Distances near the skip distance should be used for sky-wave propagation","[""To avoid tilting"",""To prevent sky-wave and upper ray interference"",""To avoid the faraday effect"",""So as not to exceed the critical frequency""]",1
+"The ground wave eventually disappears, as one moves away from the transmitter, because of","[""Interference from the sky wave"",""Loss of line of sight conditions"",""Maximum single-hop distance limitation"",""Tilting""]",3
+"In electromagnetic waves, polarization","[""Is caused by reflection"",""Is due to the transverse nature of the waves"",""Results from the longitudinal nature of the waves"",""Is always vertical in an isotropic medium""]",1
+"Radio fading resulting from obstruction losses.","[""Log normal fading"",""Rayleigh Fading"",""Multi-path fading"",""None of these""]",0
+"The absorption of radio waves by the atmosphere depends on","[""Their frequency"",""Their distance from the transmitter"",""The polarization of the waves"",""The polarization of the atmosphere""]",0
+"Electromagnetic waves are refracted when they","[""Pass into a medium of different dielectric constant"",""Are polarized at right angles to the direction of propagation"",""Encounter a perfectly conducting surface"",""Pass through a small slot in a conducting plane""]",0
+"Diffraction of electromagnetic waves","[""Is caused by reflection from the ground"",""Arises only with spherical wavefronts"",""Will occur when the waves pass through a large slot"",""May occur around the edge of a sharp obstacle""]",1
+"Electromagnetic waves are","[""Consist of electric and magnetic component that are parallel to each other"",""Oscillations that propagate through free space"",""Irregular oscillations"",""Oscillations that are produced by an oscillating circuit""]",1
+"The region around an electrically charged body in which other charged bodies are acted by an attracting or repelling force.","[""Electric field"",""Radiation field"",""Magnetic field"",""Electromagnetic field""]",0
+"What are the two components of electromagnetic field?","[""Ray and wavefront"",""Magnet and electricity"",""Polar electrons and magnetic field"",""Electric field (E-field) and magnetic field""]",3
+"Shows a surface of constant phase of a wave and is formed when points of equal phase on rays propagated from the source are joined together.","[""Ray"",""Wavefront"",""Point source"",""Isotropic source""]",1
+"It is a line drawn along the direction of propagation of an electromagnetic wave used to show the relative direction of electromagnetic wave propagation.","[""Ray"",""Wavefront"",""Point source"",""Isotropic source""]",0
+"Refers to the rate at which energy passes through a given surface area in free space","[""Field intensity"",""Power density"",""Refractive index"",""Absorption coefficient""]",1
+"It it’s the intensity of the electric and magnetic fields of an electromagnetic wave propagating in free space","[""Field intensity"",""Power density"",""Refractive index"",""Absorption coefficient""]",0
+"In a lossless transmission medium, _______ of free space is equal to the square root of the ratio of its magnetic permeability to its electric permittivity","[""Resistance"",""Field intensity"",""Characteristic impedance"",""A or C is correct""]",3
+"Electromagnetic wave measures all except","[""Inductance"",""Power density"",""Magnetic field intensity"",""Permittivity of the medium""]",0
+"A reduction in power density due to the inverse square law presumes free-space propagation is called","[""Absorption"",""Wave attenuation"",""Space attenuation of the wave"",""B or C is correct""]",3
+"Which of the following are optical effects of radio waves?","[""Refraction and reflection"",""Diffraction and interference"",""Induction and diffraction"",""A and B""]",3
+"What is diffraction?","[""Is the change in direction of a ray as it passes obliquely from one medium to another with different velocities or propagation"",""Refers to the modulation or redistribution of energy within a wavefront when it passes near the edge of an opaque object"",""Is the phenomenon that allows light or radio waves to travel (peek) around corners of an obstacle."",""A or C is right""]",3
+"A rare refracting medium has","[""Smaller value of dielectric constant"",""Higher value of dielectric constant"",""Variable value for dielectric constant"",""A dielectric constant dependent on the medium""]",0
+"Refractive index refers to","[""The ratio of velocity of light in free space to the velocity of light in a given material"",""The ratio of the light in free space towards the light in a given medium"",""The ratio of the angle of refraction"",""The amount of bending or refraction that occurs at the interface of two material of different densities""]",0
+"Why is it that rays traveling near the top of the medium travel faster than those at the bottom?","[""The medium is more dense near the bottom"",""The medium is less dense at the top"",""The medium is less dense near the bottom and more dense at the top"",""A and B are incorporated""]",3
+"When does reflection if wave occur?","[""When an incident wave strikes a boundary of two media, and some of the incident power does not enter the second material"",""When the reflective surface is irregular or rough"",""When two or more electromagnetic waves combine in such a way that the system performance is degraded."",""A and B""]",3
+"What is meant by specular reflection?","[""Is a reflection from a perfectly smooth surface"",""Is an incident wavefront striking an irregular surface, randomly scattered in many directions"",""Reflection of surfaces that fall between smooth and irregular"",""Is a combination of diffused and semirough surfaces""]",0
+"________ states that a semirough surface will reflect as if it were a smooth surface whenever the cosine of he angle of incidence is greater than 1/8d, where d is the depth of the surface irregularity and I is the wavelength of the incident wave.","[""Rayleigh criterion"",""Huygen\u2019s principle"",""Linear superposition"",""Reflection coefficient""]",0
+"Energy that has neither been radiated into space nor completely transmitted","[""Modulated waves"",""Captured waves"",""Standing waves"",""Incident waves""]",2
+"What property of radio waves occurs whenever two or more waves simultaneously occupy the same point in space?","[""Reflection"",""Refraction"",""Diffraction"",""Interference""]",3
+"Pertains to a source which radiates equally in all directions","[""Isobaric source"",""Isotropic source"",""Isentropic source"",""Isothermal source""]",1
+"Electromagnetic waves travel at _____ in free space","[""300,000 km\/sec"",""200 km\/sec"",""400,000 km\/sec"",""100,000 km\/sec""]",0
+"Any space or region wherein a magnetic force is exerted on moving electric charges","[""Electric field"",""Radiation field"",""Magnetic field"",""Electromagnetic field""]",2
+"Which of the following is a characteristic of electromagnetic wave?","[""Measures power, voltage, capacitance and impedance of a system"",""Measures power density, voltage, and inductance"",""Measures power density, magnetic field intensity, and electric field intensity"",""All of the above""]",2
+"Reflection waves","[""Should take place at one medium"",""Does not necessarily take place at one medium"",""Occurs at any other medium at the same time"",""Is not possible""]",0
+"Way(s) of propagating electromagnetic waves:","[""Ground-wave propagation"",""Space wave propagation"",""Sky-wave propagation"",""All of these""]",3
+"At frequencies below 1.5 MHz, what propagation provides the best coverage?","[""Ground wave"",""Space wave"",""Sky wave"",""All of these""]",0
+"Which of these causes the wavefront to tilt progressively forward?","[""Gradient density"",""Electric field intensity"",""Absorption coefficient"",""Magnetic field intensity""]",0
+"Which of following of must be taken into consideration to ensure proper ground-wave propagation?","[""Power"",""Terrain"",""Frequency"",""B and C""]",3
+"What are the applications of ground–wave propagation?","[""Ship-to-ship and ship-to-shore communications"",""Maritime mobile communications"",""Radio navigation"",""All of these""]",3
+"The curvature of the earth presents a horizon to space wave propagation which is approximately 4/3 that of the optical horizon","[""Standard atmosphere"",""Optical horizon"",""Radio horizon"",""All of these""]",2
+"Refraction is caused by what factors?","[""Changes in troposphere\u2019s density and temperature"",""Water vapor content"",""Relative conductivity"",""All of the above""]",3
+"Any of the flowing can be caused to lengthen radio horizon:","[""Elevating the transmit or receive antennas above Earth\u2019s surface"",""Elevating both antennas"",""Installing the transmit and\/or receive antennas on top of mountains or high buildings"",""All of these""]",3
+"A special condition which occurs when the density of the lower atmosphere is such that electromagnetic waves are trapped between it and earth’s surface","[""Duct propagation"",""Sky wave propagation"",""Space wave propagation"",""Ground wave propagation""]",0
+"The vibrating electrons at the ionosphere decrease current which is equivalent to reducing the dielectric constant, which in turn, will also cause the velocity of propagation to______.","[""Increase"",""Decrease"",""Remain constant"",""Decrease by a factor of 2""]",0
+"Increasing the velocity of propagation causes a/an _____ of the electromagnetic waves.","[""Increasing refraction"",""Decreasing reflection"",""Increasing diffraction"",""Decreasing interference""]",0
+"What layer has its maximum density at approximately 70 mi a noon, when the sun is at its highest point?","[""D layer"",""E layer"",""Kennelly-Heaviside layer"",""B or C""]",3
+"The sporadic E layer is a thin layer with a very high ionization density. It is considered separately from the other layers and when it appears, gives an unexpected improvement in long distance radio transmissions. What cause(s) its unpredictable appearance?","[""Sunspot activity"",""Sunspot cycle"",""Solar flares"",""A and C""]",3
+"The region in the ionosphere with a very high ionization density at roughly 55 to 90 miles and is used for frequencies up to about 20 MHz. It is gone completely at midnight.","[""D layer"",""E layer"",""F layer"",""G layer""]",1
+"A layer in the ionosphere which is the most important reflecting medium fir HF radio waves. It has 2 sublayers, at 90 to 250 mi height","[""A layer"",""D layer"",""E layer"",""F layer""]",3
+"The apparent height of the ionized layer and is always greater than the actual height","[""Critical height"",""Virtual height"",""Maximum height"",""Imaginary height""]",1
+"Refers to the shortest distance in which a sky-wave signal will be returned to the earth. It includes the maximum ground-wave range and the width of the skip zone.","[""Hop"",""Skip distance"",""Actual distance"",""Critical distance""]",1
+"Concerns to the highest frequency that is able to return to earth when beamed at a certain angle of incidence","[""Relative frequency"",""Optimum frequency"",""Resonant frequency"",""Maximum usable frequency, MUF""]",3
+"In ________, the distant of each succeeding hop from earth to ionosphere and back is also the skip distance.","[""Hop transmission"",""Single transmission"",""Unihop transmission"",""Multihop transmission""]",3
+"Concerns to the single reflection of a radio wave form the ionosphere back to earth.","[""Jog"",""Hop"",""Skip"",""Fading""]",1
+"The fluctuation of signal strength at the receiver that are caused by changes in the transmission medium","[""Fading"",""Hopping"",""Skipping"",""Diversity""]",0
+"Gradual variation in the field strength of a radio signal is compensated by","[""Fading techniques"",""Diversity techniques"",""Transverse techniques"",""Transmission techniques""]",1
+"A modulation of two different RF carrier frequencies with the same IF intelligence, then transmitting both RF signals to a given destination.","[""Diversity"",""Space diversity"",""Frequency diversity"",""Polarization diversity""]",2
+"To increase the availability of the system, a method in which the output of a transmitter is fed to two or more antennas that are physically separated by an appreciable number of wavelengths.","[""Space diversity"",""Frequency diversity"",""Polarization diversity"",""Space wave propagation""]",0

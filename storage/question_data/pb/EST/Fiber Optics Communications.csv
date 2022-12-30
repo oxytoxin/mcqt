@@ -1,0 +1,272 @@
+﻿question,choices,answer
+"Proposed the use of clad glass fiber as a dielectric waveguide","[""Karpon and Keck"",""Karpon and Bockham"",""Bockham and Kao"",""Kao and Keck""]",2
+"Developed the first laser","[""Charles Townes"",""Theodore Maiman"",""Gordon McKenzie"",""Albert Einstein""]",1
+"The band of light wavelengths that are too long to be seen by the human eye","[""Amber"",""Visible"",""Infrared"",""Ultraviolet""]",2
+"The band of light wavelengths that are too short to be seen by the human eye","[""Amber"",""Visible"",""Infrared"",""Ultraviolet""]",2
+"Which color has the shortest wavelength of light?","[""Red"",""Yellow"",""Blue"",""Green""]",2
+"What generates a light beam of a specific visible frequency?","[""Laser"",""Maser"",""Infrared"",""Flashlight""]",0
+"Which of the following materials is sensitive to light?","[""Photoresist"",""Photosensitive"",""Light Sensitive"",""Maser""]",0
+"The core of an optical fiber has a","[""Lower refracted index than air"",""Lower refractive index than the cladding"",""Higher refractive index than the cladding"",""Similar refractive index with the cladding""]",2
+"Is the different angle of entry of light into an optical fiber when the diameter of the core is many times the wavelength of the light transmitted.","[""Acceptance angle"",""Modes"",""Sensors"",""Aperture""]",1
+"The loss in signal power as light travels down a fiber is called","[""Dispersion"",""Scattering"",""Absorption"",""Attenuation""]",3
+"The bandwidth of optical fiber","[""900M Hz"",""900 PHz"",""900 THz"",""900 EHz""]",2
+"If a mirror is used to reflect light, the reflected light angle is ____ as the incident angle","[""Smaller"",""Larger"",""The same"",""Independent""]",2
+"What is a specific path the light takes in an optical fiber corresponding to a certain angle and number of reflection","[""Mode"",""Grade"",""Numerical Aperture"",""Dispersion""]",0
+"Is the width of the range of wavelengths emitted by the light source","[""Bandwidth"",""Chromatic Dispersion"",""Spectral width"",""Beamwidth""]",2
+"Which theory states that the light wave behaves as if it consists of many tiny particles?","[""Huygen\u2019s theory"",""Wave theory of light"",""Nyquist theory"",""Quantum theory""]",3
+"Fiber optic cables operate at frequencies near","[""20 MHz"",""200 MHz"",""2G Hz"",""800 THz""]",3
+"When a beam of light enters one medium from another, which quantity will not change?","[""Direction"",""Speed"",""Frequency"",""Wavelength""]",2
+"Dispersion is used to describe the","[""Splitting of white light into its component colors"",""Propagation of light in straight lines"",""Bending of a beam of light when it goes from one medium to another"",""Bending of a beam light when it strikes a mirror""]",0
+"Luminance efficiency is minimum for a","[""Fluorescent tube"",""High wattage light bulb"",""Mercury vapor lamp"",""Low wattage light bulb""]",3
+"An object farther from a converging lens than its focal point always has a/an _____ image.","[""Inverted"",""The same in size"",""Virtual"",""Smaller size""]",0
+"An object nearer to a converging lens than its focal point always has a/an ______ image.","[""Inverted"",""The same in size"",""Virtual"",""Smaller size""]",2
+"The real image formed by a spherical mirror is ____ relative to its object","[""Erect"",""Inverted"",""Smaller"",""Larger""]",3
+"The wavelength of light has no role in","[""Diffraction"",""Interference"",""Polarization"",""Reflection""]",2
+"Longitudinal waves do not exhibit","[""Polarization"",""Refraction"",""Reflection"",""Diffraction""]",0
+"________ dispersion is caused by the difference in the propagation times of light rays that take different paths down a fiber.","[""Material dispersion"",""Wavelength dispersion"",""Modal dispersion"",""Delay dispersion""]",2
+"What is the average insertion loss of fusion splice in fiber optics?","[""0.09 dB"",""0.9 dB"",""0.19 dB"",""0.009 dB""]",0
+"What is the insertion loss of connector-type splices for a single mode fiber optics?","[""0.51 dB"",""0.31 dB"",""0.49 dB"",""0.38 dB""]",3
+"What is the lifetime of LEDs?","[""200,000 minutes"",""200,000 hours"",""150,000 minutes"",""150,000 hours""]",1
+"What is the lifetime of ILDs?","[""50,000 hours"",""75,000 hours"",""100,000 hours"",""125,000 hours""]",0
+"Photodiodes used as fiber optic directors are","[""Unbiased to generate a voltage same as a solar cell"",""Forward bias"",""Reversed bias"",""Thermoelectrically cooled""]",2
+"What type of fiber has the highest modal dispersion?","[""Step-index multimode"",""Graded index multimode"",""Step-index single mode"",""Graded index mode""]",0
+"Laser light is ______ emission.","[""Coherent"",""Stimulated"",""Spontaneous"",""Coherent and stimulated""]",3
+"A dielectric waveguide for the propagation of electromagnetic energy at light frequencies","[""Stripline"",""Microstrip"",""Laser beam"",""Fiber optics""]",3
+"Is a non-coherent light source foe optical communications system.","[""ILD"",""LED"",""APD"",""PIN Diode""]",1
+"Which type of laser is the simplest to modulate directly by changing its excitation?","[""Semiconductor"",""Ruby"",""Helium-neon"",""Neodymium-YAG""]",0
+"Which laser emits light in the visible range 400 to 700 nm?","[""Argon-ion"",""Nitrogen"",""Carbon-dioxide"",""Neodymium-YAG""]",0
+"Which is the proper measurement of average power emitted by a pulsed laser?","[""Energy x time"",""Pulse energy x repetition rate"",""Pulse energy \/ repetition rate"",""Peak power x pulse length""]",1
+"What is the photon energy for an infrared wave with frequency of 10^12 Hz?","[""10.6 x 10^34 joules"",""6.63 x 10^-34 joules"",""6.63 x 10^-22 joules"",""10.6 x 10^22 joules""]",2
+"A positive lens with a focal length of 10 cm forms a real image of an object 20 cm away from the lens. How far is the real image from the lens?","[""5 cm"",""10 cm"",""15 cm"",""20 cm""]",3
+"Which of the following factor does not harm laser efficiency?","[""Atmospheric absorption"",""Excitation energy not absorbed"",""Problems in depopulating the lower laser level"",""Inefficiency in populating the upper laser level""]",0
+"Which of the following contributes to the broadening of laser emission bandwidth?","[""Doppler shift of moving atoms and molecules"",""Amplification within the laser medium"",""Coherence of the laser light"",""Optical pumping of the laser transition""]",0
+"The first laser emitted","[""Pulses of 694 nm red light"",""A continuous red beam"",""Pulses of white light from a helical flash lamp"",""Spontaneous emission""]",0
+"What is the stage of the sand becoming a silicon?","[""Liquid"",""Gas"",""Molten"",""Hot""]",2
+"Which of the following is used as an optical transmitter on the Fiber Optical Communications?","[""APD"",""LSA diode"",""PIN diode"",""LED""]",3
+"Which of the following is used as an optical receiver in fiber optics communications","[""APD"",""Tunnel diode"",""Laser diode"",""LED""]",0
+"The numerical aperture of a fiber if the angle of acceptance is 15 degrees, is","[""017"",""0.26"",""0.50"",""0.75""]",1
+"The inner portion of the fiber cable is called","[""Cladding"",""Coating"",""Inner conductor"",""Core""]",3
+"Which type of laser is the simplest to modulate directly by changing its excitation?","[""Semiconductor"",""Ruby"",""Helium-neon"",""Neodymium-YAG""]",0
+"The laser frequency when the light has the wavelength 800 nm is","[""375 x 10^12 Hz"",""475 x 10^15 Hz"",""375 x 10^9 Hz"",""375 x 10^18 Hz""]",0
+"Total internal reflection takes place if the light ray strikes the interface at an angle with what relationship to the critical angle?","[""Less than"",""Greater than"",""Equal to"",""Zero""]",1
+"The operation of the fiber-optic cable is based on the principle of","[""Refraction"",""Reflection"",""Dispersion"",""Absorption""]",1
+"Which of the following is not a common type of fiber-optic cable?","[""Single-mode step-index"",""Multimode graded-index"",""Single-mode graded-index"",""Multimode step-index""]",2
+"Cable attenuation is usually expressed in terms of","[""Loss per foot"",""dB\/km"",""intensity per mile"",""voltage drop per inch""]",1
+"Which of the cable length has the highest attenuation?","[""1 km"",""2 km"",""95 ft"",""5500 ft""]",1
+"The upper pulse rate and information carrying capacity of a cable is limited by","[""Pulse shortening"",""Attenuation"",""Light leakage"",""Modal dispersion""]",3
+"The core of a fiber optic cable is made of","[""Air"",""Glass"",""Diamond"",""Quartz""]",1
+"The core of a fiber optic is surrounded by","[""Wire braid shield"",""Kevlar"",""Cladding"",""Plastic insulation""]",2
+"The speed of light in plastic compared to the speed of light in air is","[""Slower"",""Faster"",""The same"",""Either lower or faster""]",0
+"Which of the following is not a major benefit of fiber-optic cable?","[""Immunity from interference"",""No electrical safety problems"",""Excellent data security"",""Lower cost""]",1
+"The main benefit of light-wave communications over microwaves or any other communications media is","[""Lower cost"",""Better security"",""Wider bandwidth"",""Freedom from interference""]",2
+"Which of the following is not part of the optical spectrum?","[""Infrared"",""Ultraviolet"",""Visible color"",""X-rays""]",3
+"The wavelength of visible light extends from","[""0.8 to 1.0 nm"",""400 to 750 nm"",""200 to 660 nm"",""700 to 1200 nm""]",1
+"The speed of light is","[""186,000 mi\/h"",""300 mi\/h"",""300,000 m\/s"",""300,000,000 m\/s""]",3
+"Refraction is the","[""Bending of light waves"",""Reflection of light waves"",""Distortion of light waves"",""Diffusion of light waves""]",0
+"The ratio of speed of light in air to the speed of light in another substance is called the","[""Speed factor"",""Index of reflection"",""Index of refraction"",""Dielectric constant""]",2
+"A popular light wavelength in fiber-optic cable is","[""0.7 \u00b5m"",""1.3 \u00b5m"",""1.5 \u00b5m"",""1.8 \u00b5m""]",1
+"Which type of fiber optic cable is most widely used?","[""Single-mode step-index"",""Multimode step-index"",""Single-mode graded-index"",""Multimode graded-index""]",0
+"Which type of fiber-optic cable is the best for very high speed data?","[""Single-mode step-index"",""Multimode step-index"",""Single-mode graded-index"",""Multimode graded-index""]",0
+"Which type of fiber-optic cable has the least modal dispersion?","[""Single mode step-index"",""Multimode step-index"",""Single-mode graded-index"",""Multimode graded-index""]",0
+"Which of the following is not a factor in cable light loss?","[""Reflection"",""Absorption"",""Scattering"",""Dispersion""]",0
+"A distance of 8 km is the same as","[""2.5 mi"",""5 mi"",""8 mi"",""12.9 mi""]",1
+"A fiber-optic cable has a loss of 15 dB/km. The attenuation in a cable, 100 ft long is","[""4.57 dB"",""9.3 dB"",""24 dB"",""49.2 dB""]",0
+"Fiber-optic cables with attenuations of 1.8, 3.4, 5.9, and 18 dB are linked together. The total loss is","[""7.5 dB"",""19.8 dB"",""29.1 dB"",""650 dB""]",2
+"Which light emitter is preferred for high speed data in a fiber-optic system","[""Incandescent"",""LED"",""Neon"",""Laser""]",3
+"Most fiber-optic light sources emit light in which spectrum?","[""Visible"",""Infrared"",""Ultraviolet"",""X-ray""]",1
+"Both LEDs and ILDs operate correctly with","[""Forward bias"",""Reverse bias"",""Neither A or B"",""Either A or B""]",0
+"Single-frequency light is called","[""Pure"",""Intense"",""Coherent"",""Monochromatic""]",3
+"Laser light is very bright because it is","[""Pure"",""White"",""Coherent"",""Monochromatic""]",2
+"Which of the following is NOT a common light detector","[""PIN photodiode"",""Photovoltaic diode"",""Photodiode"",""Avalanche photodiode""]",1
+"Which of the following is the fastest light sensor","[""PIN photodiode"",""Photovoltaic diode"",""Phototransistor"",""Avalanche photodiode""]",3
+"Photodiodes operate property with","[""Forward bias"",""Reverse bias"",""Neither A or B"",""Either A or B""]",1
+"The product of the bit rate and distance of a fiber-optic system is 2 Gbits km/s. What is the maximum rate at 5 km?","[""100 Mbits\/s"",""200 Mbits\/s"",""400 Mbits\/s"",""1000 Gbits\/s""]",2
+"Which fiber-optic system is better?","[""3 repeaters"",""8 repeaters"",""11 repeaters"",""20 repeaters""]",0
+"An important requirement for successful transmission system using light","[""Powerful, reliable light source"",""Strong glass"",""Reliable, high cost transmission medium"",""Powerful regenerators""]",0
+"What is used to block light from a laser and let other light through","[""Neutral density"",""Color"",""Interference"",""Spatial""]",2
+"________ is a light that can be coherent","[""Spontaneous emission"",""Monochromatic and in-phase"",""Narrow beam divergence"",""Monochromatic""]",1
+"Coherence of laser light is important for _________","[""Light propagation"",""Getting laser light to pass through air"",""Drilling holes"",""Holography""]",3
+"The ultrapure glass used to manufacture optical fibers is approximately ____ pure","[""99.9 %"",""99.99 %"",""99.999 %"",""99.9999 %""]",3
+"In fiber optics, PCS stands for","[""Plastic-clad-silica"",""Polyethylene-clad-silica"",""Personal carrier system"",""Personal communication""]",0
+"How many longitudinal modes can fall within a laser’s gain bandwidth?","[""2"",""5"",""9"",""No fixed limit, dependent on bandwidth and mode spacing""]",3
+"_________ is the result of photons of light that are absorbed by the atoms of the glass core molecules","[""Ion resonance absorption"",""Ultraviolet absorption"",""Infrared absorption"",""Absorption loss""]",2
+"In fiber optics, SCS stands for","[""Suppressed-clad-silicon"",""Silicon base-class-silica"",""Silica-clad-silica"",""Serial-clad-silicon""]",2
+"Human laser was developed by A. Javen at Bell laboratory in","[""1960"",""1962"",""1963"",""1964""]",0
+"What parameter of light detector determines the range or system length that can be achieved for a given wavelength?","[""Transit time"",""Spectral response"",""Dark current"",""Responsitivity""]",1
+"Dark current in light detectors is caused by","[""Thermally generated carriers in the diode"",""The absence of light input"",""Small leakage current"",""Its imperfection""]",0
+"What is the unit of responsitivity?","[""Ampere\/volt"",""Ampere\/watt"",""Watt\/ampere"",""Volts\/ampere""]",1
+"One of the following is not a characteristic of light detectors.","[""Responsitivity"",""Spectral response"",""Transmit time"",""Dispersion""]",3
+"What is the typical wavelength of light emitted from epitaxially grown LEDs?","[""840 nm"",""490 nm"",""480 nm"",""940 nm""]",3
+"Band loss is","[""A reduction in transmitter power caused by earth\u2019s surface curvature"",""A reduction in strength of the signal caused by folded dipole bends"",""An attenuation increase caused by bends radiating from the side of the fiber"",""All of these""]",2
+"Infrared range for fiber optics","[""400 \u2013 700 nm"",""700 \u2013 1200 nm"",""300 \u2013 2000 nm"",""400 \u2013 7000 nm""]",1
+"Which of the following is a disadvantage for plastic fiber optics?","[""Noise immunity"",""Electric hazards"",""Higher losses"",""All of these""]",2
+"OTDR stands for","[""Optical Time Domain Reflectometer"",""Optical Transmit Direction Return"",""Optical Time Domain Time Regeneration"",""Overtime Direct Reference""]",0
+"Which of the following is determined by an OTDR?","[""Distance to trouble"",""Length of fiber"",""Refractive index"",""All of these""]",3
+"Under normal condition, a single fiber should not be used for a two-way communication mainly because of","[""Loss"",""Fading"",""Noise"",""Attenuation""]",2
+"A single mode optical fiber has a core diameter of _____ nm.","[""0.1"",""0.01"",""0.2"",""0.05""]",1
+"A step-index multimode optical fiber has a core diameter of _____ nm.","[""0.02"",""0.2"",""2"",""0.002""]",0
+"The graded-index multimode optical fiber has a core diameter of _____ nm.","[""0.5"",""0.05"",""0.0005"",""5""]",1
+"Which is not a possible cause of optical fiber loss?","[""Impurities"",""Glass attenuation"",""Stepped index operation"",""Microbending""]",2
+"The ratio of the speed of light in a vacuum and the speed of light in the material used.","[""S\/N ratio"",""Refractive index"",""Intermodal dispersion"",""Monomode ratio""]",1
+"Splicing fibers means","[""Fusion"",""Butt"",""Glue"",""Both fusion and butt""]",3
+"An IC that represents a short distance one-way optical communications","[""Optoisolator"",""Insulator"",""Multivibrator"",""Optical IC""]",0
+"When light strikes a flat polished end of a fiber, it produces a loss of","[""14%"",""4%"",""10%"",""1%""]",1
+"When light strikes a flat polished end of a fiber, the fiber loss produced can be reduced by","[""Splicing"",""Antireflection coating"",""Insulation jacket"",""All of these""]",1
+"In fiber optics, higher-order mode refers to","[""Cladding boundary at high angle"",""Backscattering electromagnetic signals"",""Diffracting signals"",""All of these""]",0
+"The following are the cause of light attenuation in fiber optics except","[""Backscattering"",""Absorption"",""Refraction"",""Microbends""]",2
+"Why are visible-light LEDs not used for fiber optics?","[""It has high losses"",""It has short wave"",""It has low attenuation"",""It has weak signal""]",0
+"Optical cable testers are used for","[""Checking refractive index"",""Light power out of a fiber"",""Non-calibrated light into a fiber"",""Checking maximum distance covered""]",1
+"A function of an optic isolator","[""Cancels reflective waves"",""Amplifies signal transmitted"",""Filters unnecessary signals"",""All of these""]",0
+"An increase in light intensity produces fast optic switching due to","[""Increase in index of glass"",""Amplification of optical signal"",""High gain"",""Photoconductivity""]",1
+"Light traveling in optical fiber follows which of the following principles.","[""Huygen\u2019s principle"",""Reflection theory"",""Light theory"",""Snell\u2019s law""]",3
+"Optical fibers for telecommunications are typically about _____ mils thick and consists of a glass core, a glass cladding of lower index of refraction, and a protective coating","[""5"",""6"",""7"",""8""]",0
+"Material dispersion is caused by the","[""Wavelength dependence of the index of refraction"",""Wavelength independence of the index of refraction"",""Dependence of the propagation constant on the mode number"",""Independence of the propagation constant on the mode number""]",0
+"Modal dispersion is caused by the","[""Dependence of wavelength on index of refraction"",""Dependence of propagation constant on index of refraction"",""Dependence of the propagation constant on the wavelength"",""Dependence of the propagation constant on the mode number""]",3
+"The dominant loss mechanisms in silica fiber are","[""Absorption and radiation losses"",""Absorption and Rayleigh scattering"",""Coupling and radiation losses"",""Radiation and modal dispersion""]",1
+"The bandwidth of a fiber is limited by","[""Mode"",""Wavelength"",""Dispersion"",""Frequency""]",2
+"Fiber bandwidth is generally specified as the","[""Product of the bandwidth and distance"",""Sum of the bandwidth and distance"",""Difference of the bandwidth and distance"",""Quotient of bandwidth and distance""]",0
+"The _____ of a detector is the fraction of incident photons that produce a photoelectron or electron-hole pair","[""Responsitivity"",""Photon efficiency"",""Aperture"",""Quantum efficiency""]",3
+"In solid-state optical detectors, the excited charge is transported in the solid by","[""Holes and protons"",""Holes and electrons"",""Anion and cation"",""Protons and photons""]",1
+"One of the following is not a solid-state optical detector","[""APD"",""PIN"",""PMT"",""Phototransistors""]",2
+"Optical detectors are square-law devices because they respond to _____ rather than amplitude","[""Intensity"",""Light"",""Density"",""Photon""]",0
+"The _____ is equal to the number of electrons emitted per second times the electron charge","[""Intensity"",""Optical power"",""Photocurrent"",""Responsitivity""]",2
+"Which optical detector is used when high sensitivity and bandwidth are required?","[""PMT"",""APD"",""PIN"",""Phototransistor""]",0
+"What is the average loss in fiber splice?","[""0.10 dB"",""0.15 dB"",""0.20 dB"",""0.25 dB""]",1
+"Which of the following colors is not found in the visible light wave spectrum?","[""Red"",""White"",""Orange"",""Yellow""]",1
+"What is the frequency limit of an optical fiber?","[""20 GHz"",""30 GHz"",""40 GHz"",""50 GHz""]",2
+"The mechanical splice attenuation loss is _____ dB or less","[""0.1"",""0.01"",""0.001"",""1""]",0
+"_____ is applied to protect core and cladding of the fiber","[""Insulation"",""Fiber insulation"",""Silica"",""Polymer jacket""]",3
+"The energy of the photon is","[""Directly proportional to its bandwidth"",""Directly proportional to the Planck\u2019s constant"",""Directly proportional to Boltzmann\u2019s constant"",""Inversely proportional to the Planck\u2019s constant""]",1
+"Refractive index of glass","[""1.0"",""1.2"",""1.4"",""1.5""]",3
+"Refractive index of diamond","[""1.0"",""1.4"",""1.8"",""2.0""]",3
+"What is the unit of light wavelength?","[""Micrometer"",""Angstroms"",""Mils"",""Fathom""]",1
+"How much is the power loss of the fusion splice?","[""0.1 dB or less"",""0.01 dB or less"",""1 dB or less"",""10 dB or less""]",1
+"Used to test a fiber optics splice","[""Spectrum analyzer"",""Oscilloscope"",""Optical power meter"",""Field strength meter""]",2
+"A coupler which consists of a series of lenses and a partly reflective surface","[""Beam-splitting coupler"",""Reflective star coupler"",""Fused coupler"",""None of these""]",0
+"Reflections in many directions","[""Diffuse reflection"",""Diffraction"",""Scattering"",""Dispersion""]",0
+"Commonly used electro-optic crystal for polarization modulation","[""Lithium Niobate"",""Tourmaline"",""Sodium Chlorate"",""Sphalerite""]",0
+"Which modulation methods are the most widely used in optical systems?","[""Phase and frequency modulations"",""Polarization modulation and phase modulation"",""Intensity modulation and phase modulation"",""Intensity modulation and polarization modulation""]",3
+"Which fiber-optic system is better?","[""3 repeaters"",""8 repeaters"",""11 repeaters"",""20 repeaters""]",0
+"What is the frequency limit of a copper wire?","[""approximately 0.5 MHz"",""approximately 1.0 MHz"",""approximately 40 GHz"",""none of the above""]",1
+"They were granted patents for scanning and transmitting television images through uncoated fiber cables.","[""Baird and Hansel"",""Bockham and Kao"",""Kapron and Keck"",""Maiman and Schawlow""]",0
+"The product of the bit rate and distance of a fiber-optic system is 2 Gbits-km/s. What is the maximum rate at 5 km?","[""100 Mbits\/s"",""200 Mbits\/s"",""400 Mbits\/s"",""1000 Gbits\/s""]",2
+"Approximately what is the frequency limit of the optical fiber?","[""20 MHz"",""1 MHz"",""100 MHz"",""40 GHz""]",3
+"They experimented with light transmission cables through bundle of fibers and lead to the development of flexible fiberscope.","[""Townes, Schawlow and Kao"",""Maiman, Kao and Bockham"",""Maurer, Kapron and Keck"",""Van Heel, Hopkins and Kapany""]",3
+"Photodiodes operate properly with","[""forward bias"",""reverse bias"",""neither forward nor reverse bias"",""either forward or reverse bias""]",1
+"He coined the term “fiber optics” in 1956.","[""Kapany"",""Kao"",""Bockham"",""Keck""]",0
+"They wrote a paper describing how it was possible to use stimulated emission for amplifying light waves (laser) as well as microwaves (maser).","[""Theodore Maiman"",""KC Kao and GA Bockham"",""Charles Townes and Arthur Schawlow"",""Kapron, Keck and Maurer""]",2
+"The scientist who built the first optical maser","[""Charles Townes"",""GA Bockham"",""Theodore Maiman"",""ACS Van Heel""]",2
+"A single fiber can handle as many voice channels as","[""a pair of copper conductors"",""a 1500-pair cable"",""a 500-pair cable"",""a 1000-pair cable""]",1
+"They proposed a new communication medium using cladded fiber cables.","[""Kao and Bockham"",""Maiman, Kao and Bockham"",""Kapron, Keck and Maurer"",""Maiman and Schawlow""]",0
+"An incident ray can be defined as","[""a light ray reflected from a flat surface"",""a light directed toward a surface"",""a diffused light ray"",""a light ray that happens periodically""]",1
+"Developed an optical fiber with losses less that 2 dB/km","[""Kao and Bockham"",""Maiman, Kao and Bockham"",""Maiman and Schawlow"",""Kapron, Keck and Maurer""]",0
+"The band of light frequencies that are too high to be seen by the human eye.","[""Ultraviolet"",""Visible light"",""Infrared"",""Yellow""]",2
+"Which of the following is the fastest light sensor?","[""PIN photodiode"",""Photovoltaic diode"",""Photodiode"",""Avalanche photodiode""]",3
+"Range of infrared","[""360 nm to 440 nm"",""670 nm to 10^3 nm"",""110 nm to 240 nm"",""770 nm to 10^6 nm""]",3
+"The term dispersion describes the process of","[""separating light into its component frequencies"",""reflecting light from a smooth surface"",""the process by which light is absorbed by an uneven rough surface"",""light scattering""]",0
+"The band of light frequencies to which human eye will respond","[""Infrared"",""Visible light"",""Ultraviolet"",""Cosmic ray""]",1
+"Laser light is very bright because it is","[""pure"",""white"",""coherent"",""monochromatic""]",2
+"Which of the following is the fastest light sensor?","[""PIN photodiode"",""Photovoltaic diode"",""Photodiode"",""Avalanche photodiode""]",3
+"Range of wavelength of visible light","[""670 nm to 10^3 nm"",""440 nm to 540 nm"",""110 nm to 240 nm"",""390 nm to 770 nm""]",3
+"The band of light frequencies that are too low to be seen by the human eye","[""Infrared"",""X-rays"",""Visible"",""Ultraviolet""]",3
+"Which of the following terms best describes the reason that light is refracted at different angles?","[""Photon energy changes with wavelength"",""Light is refracted as a function of surface smoothness"",""The angle is determined partly by a and b"",""The angle is determined by the index of the materials""]",3
+"Range of wavelengths of ultraviolet","[""670 nm to 10^3 nm"",""440 nm to 540 nm"",""110 nm to 240 nm"",""10 nm to 390 nm""]",3
+"Single frequency light is called","[""pure"",""intense"",""coherent"",""monochromatic""]",3
+"The coating in a fiber helps protect fiber from moisture, which reduces the possibility of the occurrence of a detrimental phenomenon called","[""static fatigue"",""mechanical fatigue"",""stress fatigue"",""coating fatigue""]",0
+"The term critical angle describes","[""the point at which light is refracted"",""the point at which light becomes invisible"",""the point at which light has gone from the refractive mode to the reflective mode"",""the point at which light has crossed the boundary layers from one index to another""]",2
+"The ratio of the speed of light in air to the speed of light in another substance is called","[""speed factor"",""index of reflection"",""index of refraction"",""speed gain""]",2
+"The three essential types of fiber commonly used today except:","[""Plastic core and cladding"",""Plastic core and glass cladding"",""Glass core and glass cladding (SCS)"",""Glass core and plastic cladding (PCS)""]",1
+"What phenomenon will result if the glass fiber is exposed to long periods of high humidity?","[""stress fatigue"",""core corrosion"",""stress corrosion"",""cladding corrosion""]",2
+"The law that states “When visible light of high frequency electromagnetic radiation illuminates a metallic surface, electrons are emitted” is known as ____________.","[""Einstein law of photon"",""Marconi\u2019s law"",""Maxwell\u2019s law"",""Plank\u2019s law""]",3
+"Both LEDs and ILDs operate correctly with","[""forward bias"",""reverse bias"",""neither forward nor reverse bias"",""either forward or reverse bias""]",0
+"Any energy above the ground state is called ___________.","[""normal state"",""above-ground state"",""excited state"",""spontaneous state""]",2
+"The process of decaying from one energy level to another energy level is called __________.","[""Spontaneous emission"",""Excited emission"",""Absorption"",""Any of these""]",0
+"The process of moving from one energy level to another is called ____________.","[""Spontaneous emission"",""Excited emission"",""Absorption"",""Spontaneous decay""]",2
+"Most fiber optic light sources emit light in which spectrum?","[""visible"",""infrared"",""ultraviolet"",""X-ray""]",1
+"A packet of energy which is equal to the difference between the two energy levels.","[""Photons"",""Electronvolt"",""Quantum"",""Quanta""]",0
+"It is the science of measuring only light waves that are visible to the human eye.","[""Radiometry"",""Photometry"",""Ophthalmology"",""Optometry""]",1
+"The refractive index number is","[""a number which compares the transparency of a material with that of air"",""a number of assigned by the manufacturer to the fiber in question"",""a number which determines the core diameter"",""a term describing core elasticity""]",0
+"It is a science of measuring light throughout the entire electromagnetic spectrum","[""Radiometry"",""Photometry"",""Ophthalmology"",""Optometry""]",0
+"Which light emitter is preferred for high-speed data in a fiber-optic system?","[""incandescent"",""LED"",""neon"",""laser""]",3
+"Light intensity is generally described in terms of __________ and measured in _________.","[""Luminous flux density; Lumens per unit area"",""Luminous flux intensity; Lumens per unit area"",""Luminous flux density; Lumens per unit volume"",""Luminous flux intensity; Lumens per unit volume""]",0
+"In radiometric terms, it measures the rate at which electromagnetic waves transfer light energy","[""Optical radiation"",""Optical impedance"",""Optical illusion"",""Optical power""]",3
+"It is described as the flow of light energy past a given point in a specified time","[""Optical radiation"",""Optical impedance"",""Optical illusion"",""Optical power""]",3
+"The term single mode and multimode are best described as","[""a number of fibers placed into fiber-optic cable"",""the number of voice channels each fiber can support"",""the number of wavelengths each fiber can support"",""the index number""]",2
+"Optical power is sometimes called __________.","[""Radiant emission"",""Radiant power"",""Radiant flux"",""Radiant optics""]",2
+"In refraction that occurs in air/glass interfaces, among the visible light, which is bent the most?","[""red"",""violet"",""yellow"",""green""]",1
+"Fiber-optic cables with attenuation of 1.8, 3.4, 5.9 and 18 dB are linked together. The total loss is","[""7.5 dB"",""19.8 dB"",""29.1 dB"",""650 dB""]",2
+"Ratio of the velocity of propagation of a light ray in free space to the velocity of propagation of a light ray in free space in a given material.","[""refractive index"",""standing wave ratio"",""velocity factor"",""propagation velocity""]",0
+"It is the angle at which the propagating ray strikes the interface with respect to the normal.","[""refracted angle"",""incident angle"",""reflected angle"",""critical angle""]",1
+"It is the angle formed between the propagating ray and the normal after the ray has entered the second medium.","[""angle of incidence"",""angle of reflection"",""propagation angle"",""angle of refraction""]",3
+"Between silicon and gallium arsenide, which has the greatest index of refraction?","[""Gallium arsenide"",""Neither of silicon nor gallium arsenide"",""Silicon"",""They are equal""]",0
+"A fiber-optic cable has a loss of 15 dB/km. The attenuation in a cable 1000 ft. long is","[""4.57 dB"",""9.3 dB"",""24 dB"",""49.2 dB""]",0
+"Medium 1 is a glass (n1 = 1.5) and medium 2 is an ethyl alcohol (n2 = 1.36). For an angle of incidence of 30 degrees, determine the angle of refraction.","[""44.5 degrees"",""14.56 degrees"",""33.47 degrees"",""75 degrees""]",2
+"The minimum angle of incidence at which the light ray may strike the interface of two media and result in an angle of refraction of 90 degrees or greater.","[""optimum angle"",""angle of refraction"",""refracted angle"",""critical angle""]",3
+"The higher the index number","[""the higher the speed of light"",""the lower the speed of light"",""has no effect on the speed of light"",""the shorter the wavelength propagation""]",1
+"The maximum angle in which external light rays may strike the air/glass interface and still propagate down the fiber.","[""Acceptance cone half-angle"",""Acceptance cone"",""Critical angle"",""Angle of incidence""]",0
+"It is the figure of merit used to measure the magnitude of the acceptance angle.","[""acceptance angle"",""numerical aperture"",""index profile"",""refractive index""]",1
+"The effect of a large magnitude of the numerical aperture","[""The amount of external light the fiber will accept is greater."",""The amount of external light the fiber will accept is less."",""The amount of modal dispersion will be less."",""The amount of chromatic dispersion will be greater.""]",0
+"Only one path for light rays to take down the fiber","[""Multimode"",""Step-index"",""Single mode"",""Graded index""]",2
+"More than one path for light rays to take down the fiber","[""Multimode"",""Step-index"",""Single mode"",""Graded index""]",0
+"The three major groups of the optical system are","[""the components, the data rate and the response time"",""the source, the link and the receiver"",""the transmitter, the cable and the receiver"",""the source, the link and the detector""]",3
+"Infrared light has a wavelength that is","[""less than 400 nm"",""more than 700 nm"",""less than 700 nm"",""a little over 400 nm""]",1
+"How many modes possible with a multimode step-index with a core diameter of 50 um, a core refractive index of 1.6, a cladding refractive index of 1.584, and a wavelength of 1300 nm.","[""456"",""213"",""145"",""372""]",3
+"It is a graphical representation of the magnitude of the refractive index across the fiber.","[""mode"",""index profile"",""numerical aperture"",""refractive index""]",1
+"A type of index profile of an optical fiber that has a central core and outside cladding with a uniform refractive index","[""multimode"",""graded index"",""step-index"",""single mode""]",2
+"A type of index of an optical fiber that has no cladding and whose central core has a non-uniform refractive index.","[""graded index"",""multimode"",""single mode"",""step-index""]",0
+"Results in reduction in the power of light wave as it travels down the cable.","[""power loss"",""absorption loss"",""resistive loss"",""heat loss""]",0
+"Which of the following is not a factor in cable light loss?","[""reflection"",""absorption"",""scattering"",""dispersion""]",0
+"It is analogous to power dissipation to copper cables, impurities in the fiber absorb the light and covert it to heat.","[""power loss"",""absorption loss"",""resistive loss"",""heat loss""]",1
+"It is caused by valence electrons in the silica material from which the fiber are manufactured.","[""ion resonance absorption"",""infrared absorption"",""ultraviolet absorption"",""visible light absorption""]",2
+"It is a result of photons of light that are absorbed by the atoms of the glass core molecule.","[""ion resonance absorption"",""infrared absorption"",""ultraviolet absorption"",""visible light absorption""]",1
+"It is caused by hydroxide ions in the material","[""visible light absorption"",""infrared absorption"",""ultraviolet absorption"",""ion resonance absorption""]",3
+"Which type of fiber-optic cable has the least modal dispersion?","[""single-mode step-index"",""multimode step-index"",""single-mode graded-index"",""multimode graded-index""]",0
+"For a single mode optical cable with 0.25 dB/km loss, determine the optical power 100 km from a 0.1-mW light source.","[""-45 dBm"",""-15 dBm"",""-35 dBm"",""\u201325 dBm""]",2
+"Light rays that are emitted simultaneously from an LED and propagated down an optical fiber do not arrive at the far end of the fiber at the same time results to","[""intramodal dispersion"",""pulse length dispersion"",""modal dispersion"",""wavelength dispersion""]",3
+"Chromatic dispersion can be eliminated by __________.","[""using a monochromatic light source"",""using a very small numerical aperture fiber"",""using a graded-index fiber"",""using a very sensitive photo detector""]",0
+"Type of bend that occurs as a result of differences in thermal contraction rates between the core and the cladding material.","[""Macrobending"",""Microbending"",""Quad bending"",""Constant-radius bending""]",1
+"These bends are caused by excessive pressure and tension and generally occur while fiber are bent during handling or installation.","[""microbending"",""macrobending"",""constant-radius bending"",""kinks""]",2
+"As light is coupled in a multiport deflective device, the power is reduced by","[""1.5 dB"",""0.1 dB"",""0.5 dB"",""0.001 dB""]",2
+"It is caused by the difference in the propagation time of light rays that take different paths down the fiber.","[""modal dispersion"",""microbending"",""Rayleigh scattering"",""chromatic dispersion""]",0
+"How can modal dispersion reduced entirely?","[""Use a graded index fiber"",""Use a single-mode fiber"",""Use a monochromatic light source"",""Use a very sensitive light detector""]",1
+"It indicates what signal frequencies can be propagated through a given distance of fiber cable.","[""Bandwidth Distance Product"",""Pulse width dispersion"",""Rise time"",""Cutoff frequency""]",0
+"For a 300-m optical fiber cable with a bandwidth distance product of 600 MHz-km, determine the bandwidth.","[""5 GHz"",""1 GHz"",""2 GHz"",""3 GHz""]",2
+"For an optical fiber 10 km long with a pulse spreading constant of 5 ns/km, determine the maximum digital transmission rates using Return to Zero (RZ) and Non-return to Zero (NRZ).","[""5 Mbps and 10 Mbps"",""10 Mbps and 5 Mbps"",""10 Mbps and 20 Mbps"",""20 Mbps and 10 Mbps""]",3
+"What is the spectral width of a standard LED?","[""20 to 40 nm"",""30 to 50 nm"",""10 to 30 nm"",""40 to 60 nm""]",1
+"What is the spectral width of an ILD?","[""0.1 nm to 1 nm"",""2 nm to 5 nm"",""1 nm to 3 nm"",""3 nm to 4 nm""]",2
+"When connector losses, splice losses and coupler losses are added, what is the limiting factor?","[""source power"",""fiber attenuation"",""connector and splice loss"",""detector sensitivity""]",3
+"A pn-junction diode emits light by spontaneous emission","[""LED"",""APD"",""PIN"",""Zener diode""]",0
+"Which type of fiber optic cable is best for very high speed data?","[""single-mode step-index"",""multimode step-index"",""single-mode graded-index"",""multimode graded-index""]",0
+"A measure of conversion efficiency of a photodetector.","[""Efficiency"",""Responsivity"",""Dark current"",""Spectral response""]",1
+"The leakage current that flows through a photodiode with no light input","[""dark voltage"",""dark impedance"",""dark power"",""dark current""]",3
+"The time it takes a light induced carrier travel across the depletion region of the semiconductor.","[""dispersion"",""response time"",""irradiance"",""transit time""]",3
+"The range of wavelength values that a given photodiode will respond.","[""spectral response"",""permeance"",""dark current"",""reluctance""]",0
+"The term responsivity as it applies to a light detector is best described as","[""the time required for the signal to go from 10 to 90 percent of maximum amplitude"",""the ratio of the diode output current to the input optical power"",""the ratio of the input power to output power"",""the ratio of output current to input current""]",1
+"The minimum optical power a light detector can receive and still produce a usable electrical output signal.","[""light responsivity"",""light sensitivity"",""light collectivity"",""illumination""]",1
+"Type of lasers that uses a mixture of helium and neon enclosed in glass tube.","[""gas lasers"",""solid lasers"",""semiconductor lasers"",""liquid lasers""]",0
+"A popular light wavelength fiber-optic cable is","[""0.7 micrometer"",""1.3 micrometer"",""1.5 micrometer"",""1.8 micrometer""]",1
+"Type of lasers that use solid, cylindrical crystals such as ruby","[""solid lasers"",""ILD"",""gas lasers"",""liquid lasers""]",0
+"Type of lasers that are made from semiconductor ph-junctions commonly called ILDs","[""semiconductor lasers"",""liquid lasers"",""plasma lasers"",""gas lasers""]",0
+"Which of the following is not a common application of fiber-optic cable?","[""computer networks"",""long-distance telephone system"",""closed-circuit TV"",""consumer TV""]",3
+"Total internal reflection takes place if the light ray strikes the interface at an angle with what relationship to the critical angle?","[""less than"",""greater than"",""equal to"",""zero""]",1
+"Loss comparisons between fusion splices an mechanical splices","[""1:10"",""10:1"",""20:1"",""1:20""]",0
+"The operation of a fiber-optic cable is based on the principle of","[""refraction"",""reflection"",""dispersion"",""absorption""]",0
+"Which of the following is not a common type of fiber-optic cable?","[""single-mode step-index"",""multimode graded-index"",""single-mode graded-index"",""multimode step-index""]",2
+"Cable attenuation is usually expressed in terms of","[""loss per foot"",""dB\/km"",""intensity per mile"",""voltage drop per inch""]",1
+"Which cable length has the highest attenuation?","[""1 km"",""2 km"",""95 ft."",""500 ft.""]",1
+"The mechanical splice is best suited for","[""quicker installation under ideal condition"",""minimum attenuation losses"",""field service conditions"",""situations in which cost of equipment is not a factor""]",3
+"The upper pulse rate and information-carrying capacity of a cable is limited by","[""pulse shortening"",""attenuation"",""light leakage"",""modal dispersion""]",3
+"The core of a fiber-optic cable is made of","[""air"",""glass"",""diamond"",""quartz""]",1
+"The core of fiber-optic cable is surrounded by","[""wire braid shield"",""Keviar"",""cladding"",""plastic insulation""]",2
+"The speed of light in plastic compared to the speed of light in air is","[""less"",""more"",""the same"",""zero""]",0
+"Which of the following is not a major benefit of a fiber-optic cable?","[""immunity from interference"",""no electrical safety problems"",""excellent data security"",""lower cost""]",3
+"EMD is best described by which statement?","[""70 percent of the core diameter and 70% of the fiber NA should be filled with light."",""70 percent of the fiber diameter and 70% of the cone of acceptance should be filled with light."",""70 percent of input light should be measured at the output."",""70 percent of the unwanted wavelengths should be attenuated by the fiber.""]",0
+"The main benefit of light wave communications over microwaves or any other communications media are","[""lower cost"",""better security"",""wider bandwidth"",""freedom from interface""]",2
+"Which of the following is not a part of the optical spectrum?","[""infrared"",""ultraviolet"",""visible color"",""x-rays""]",3
+"The wavelength of a visible extends from","[""0.8 to 1.6 um"",""400 to 750 nm"",""200 to 660 nm"",""700 to 1200 nm""]",1
+"Single-mode step-index cable has a core diameter in the range of","[""100 to 1000 micrometer"",""50 to 100 micrometer"",""2 to 15 micrometer"",""5 to 20 micrometer""]",2
+"Refraction is the","[""bending of light"",""reflection of light waves"",""distortion of light waves"",""diffusion of light waves""]",0
+"Which of the following cables will have the highest launch power capability?","[""50\/125\/0.2"",""85\/125\/0.275"",""62.5\/125\/0.275"",""100\/140\/0.3""]",0
+"Which type of fiber-optic cable is the most widely used?","[""single-mode step-index"",""multimode step-index"",""single-mode graded index"",""multimode graded index""]",1
+"The term power budgeting refers to","[""the cost of cable, connectors, equipment and installation"",""the loss of power due to defective components"",""the total power available minus the attenuation losses"",""the comparative costs of fiber and copper installations""]",2
+"It refers to the abrupt of change in refractive index from core to clad","[""step index"",""graded index"",""semi-graded index"",""half step index""]",0

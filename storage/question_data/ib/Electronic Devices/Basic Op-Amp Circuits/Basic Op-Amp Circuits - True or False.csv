@@ -1,0 +1,11 @@
+question,A,B,C,D,E,answer,explanation
+<p>An op-amp integrator uses a capacitor as the feedback element.</p>,True,False,,,,A,
+<p>An op-amp can be used as a comparator to determine when an input voltage exceeds a certain level.</p>,True,False,,,,A,
+<p>The output voltage of a summing amplifier is proportional to the sum of the input voltages.</p>,True,False,,,,A,
+<p>Operational amplifiers are never used as nonlinear devices.</p>,True,False,,,,B,
+"<p>In an op-amp comparator, when the input voltage exceeds a reference voltage, the voltage output changes state.</p>",True,False,,,,A,
+<p>The R/2R ladder is commonly used for D/A converters.</p>,True,False,,,,A,
+<p>Bounding allows the output of a comparator to be an unlimited voltage.</p>,True,False,,,,B,
+<p>The difference between the UTP and the LTP is the hysteresis voltage.</p>,True,False,,,,A,
+<p>The output of an op-amp comparator will be zero when the input voltage exceeds the reference voltage.</p>,True,False,,,,B,
+<p>A positive feedback network for hysteresis improves an op-amp comparator's noise immunity.</p>,True,False,,,,A,

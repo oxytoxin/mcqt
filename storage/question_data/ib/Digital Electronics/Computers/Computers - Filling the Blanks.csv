@@ -1,0 +1,11 @@
+question,A,B,C,D,E,answer,explanation
+"<p>The AND, OR, and TEST instructions are all part of which type of instruction?</p>",Data transfer,Arithmetic,Bit manipulation,Loops and jumps,,C,
+"<p>A mini-program that can be used repeatedly, but is programmed only once is called a(n) ________.</p>",string,subroutine,interrupt,processor control,,B,
+<p>Contiguous sequences of bytes or words are called ________.</p>,data transfer,arithmetic,loops and jumps,strings,,D,
+<p>An interrupt method that requires the CPU to test each peripheral device in sequence is called ________.</p>,vectored I/O,polled I/O,programmed interrupt,interrupt-driven I/O,,B,
+<p>An example of a unidirectional bus in a microcomputer system is the ________.</p>,address bus,data bus,control bus,all of the above,,A,
+"<p>The ADD, CMP, and MUL instructions are all part of which type of instruction?</p>",Data transfer,Arithmetic,Bit manipulation,Loops and jumps,,B,
+<p>Instructions that allow direct control of the processor's flags are called ________ instructions.</p>,data transfer,arithmetic,bit manipulation,processor control,,D,
+"<p>The MOV, PUSH, and POP instructions are all part of which type of instruction?</p>",Data transfer,Arithmetic,Bit manipulation,Loops and jumps,,A,
+"<p>The JNZ, JA, and LOOP instructions are all part of which type of instruction?</p>",Data transfer,Arithmetic,Bit manipulation,Loops and jumps,,D,
+"<p>During a memory read operation, the CPU fetches ________.</p>",a program instruction,an address,data,all of the above,,D,

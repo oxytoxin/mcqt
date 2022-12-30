@@ -1,0 +1,9 @@
+question,A,B,C,D,E,answer,explanation
+"<p>________ analog-to-digital converters (ADCs) use no clock signal, because there is no timing or sequencing required.</p>",Actuator,Dual,Flash,Bipolar,,C,
+<p>________ analog-to-digital converters (ADCs) have a fixed value of conversion time that is not dependent on the value of the analog input.</p>,Substandard,Dual,Recessive approximation,Successive approximation,,D,
+<p>The problems of the binary-weighted resistor digital-to-analog converter (DAC) can be overcome by using ___________.</p>,an 8-bit binary-weighted resistor DAC,an R/2R ladder DAC,a staircase DAC,a flash DAC,,B,
+<p>The number of binary bits at the input of a digital-to-analog converter (DAC) is known as ________.</p>,accuracy,linearity,resolution,monotonicity,,C,
+<p>A(n) ________ converts an analog input to a digital output.</p>,flash converter,bipolar converter,ADC,DAC,,C,
+<p>The characteristic that a change of one binary step on the input of a digital-to-analog converter (DAC) should cause exactly one step change on the output is called ________.</p>,resolution,monotonicity,linearity,accuracy,,B,
+<p>Inaccurate analog-to-digital conversion may be due to ____________.</p>,constant analog input voltage,linear ramp usage,intermittent counter inputs,faulty sample-and-hold circuitry,,D,
+<p>A binary-weighted resistor used in a digital-to-analog converter (DAC) is only practical up to a resolution of ________.</p>,10 bits,2 bits,8 bits,4 bits,,D,

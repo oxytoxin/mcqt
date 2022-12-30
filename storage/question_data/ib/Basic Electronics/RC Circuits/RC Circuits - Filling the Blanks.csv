@@ -1,0 +1,18 @@
+question,A,B,C,D,E,answer,explanation
+"<p><p><img src=""/_files/images/basic-electronics/basics/fbq10_1006_1.gif""/></p>
+<p>The phase angle in the given circuit equals___.</p></p>",90°,36.87°,0°,53.13°,,B,
+"<p><p><img src=""/_files/images/basic-electronics/basics/fbq10_1008_1.gif""/></p>
+<p>Connecting the oscilloscope as shown in the given figure will _____.</p></p>",measure the voltage across the source,"measure the voltage across <i>C</i><sub>1</sub>, <i>R</i><sub>2</sub>, and <i>C</i><sub>2</sub>",short <i>R</i><sub>1</sub>,"short <i>C</i><sub>1</sub>, <i>R</i><sub>2</sub>, and <i>C</i><sub>2</sub>",,D,
+"<p><p><img src=""/_files/images/basic-electronics/basics/fbq10_1009_1.gif""/></p>
+<p>If the given circuit is used as a filter, the cutoff frequency is _____.</p></p>",5 kHz,14.47 kHz,less than 5 kHz,more than 20 kHz<br/><br/><br/>,,B,
+"<p>In a series <i>RC</i> circuit, the phase difference between the capacitor and the resistor voltages ___.</p>",depends on the values of <i>R</i> and <i>C</i>,equals 0°,equals 90°,depends on the value of the input voltage,,C,
+"<p>If the impedance equals 2 k<img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/> in a parallel <i>RC</i> circuit, the admittance equals ___.</p>",More information is needed in order to find the admittance.,2 kS,4 kS,500 µS,,D,
+"<p><p><img src=""/_files/images/basic-electronics/basics/fbq10_1009_1.gif""/></p>
+<p>The true power in the given circuit equals ___.</p></p>",48.48 mW,296.93 mW,280.64 mW,96.98 mW,,D,
+"<p>In a series <i>RC</i> circuit, the phase difference between the current and the source voltage _____.</p>",depends on the values of <i>R</i> and <i>C</i>,equals 0°,equals 90°,depends on the amplitude of the input voltage,,A,
+<p>The hypotenuse of the right triangle of a vector diagram for <i>R</i> and <i>X<sub>C</sub></i> is _______________.</p>,impedance,current,voltage,power,,A,
+"<p><p><img src=""/_files/images/basic-electronics/basics/fbq10_1006_1.gif""/></p>
+<p>The magnitude of the impedance in the given circuit equals _____.</p></p>","17.14 <img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/>","24 <img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/>","70 <img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/>",More information is needed in order to find the impedance.,,B,
+"<p>When the resistance is greater than the capacitive reactance in a series <i>RC</i> circuit, the phase angle is ___.</p>",0°,between 0° and 45°,between 45° and 90°,45°,,B,
+<p>______________ is shuttled back and forth between the source and load.</p>,True power,Reactive power,Apparent power,Impedance power,,B,
+"<p>If a series <i>RC</i> circuit contains a 120 k<img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/> resistance and a 160 k<img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/> capacitive reactance, the impedance equals _____.</p>","280 k<img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/>","120 k<img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/>","160 k<img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/>","200 k<img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/>",,D,

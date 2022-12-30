@@ -1,0 +1,13 @@
+question,A,B,C,D,E,answer,explanation
+<p>The gate-source junction of a JFET must be ________ for proper linear operation.</p>,forward-biased,reverse-biased,either forward-biased or reverse-biased,neutral,,B,
+<p>The ___ oscillator takes advantage of the <b><i>piezoelectric effect</i></b>.</p>,crystal,Hartley,Colpitts,<i>RC</i>,,A,
+"<p>In order to sustain oscillations in a feedback oscillator, the gain should be _________ so the product of <i>A<sub>v</sub></i> × <i>B</i> equals_______.</p>","reduced, one","reduced, less than one","increased, more than one","increased, much greater than one",,A,
+<p><i>V</i><sub>CE</sub> approximately equals _______ when a transistor is in saturation.</p>,<i>V</i><sub>CC</sub>,<i>V</i><sub>B</sub>,0.2 V,0.7 V,,C,
+<p>The power gain (<i>A<sub>p</sub></i>) of any transistor amplifier circuit equals the ___________.</p>,current gain squared,current gain times the voltage gain,voltage gain times the output resistance,current gain plus the voltage gain,,B,
+<p>A(n) ___ has a conductive channel only when it is biased properly.</p>,<i>p</i>-channel JFET,<i>n</i>-channel D-MOSFET,<i>p</i>-channel D-MOSFET,<i>n</i>-channel E-MOSFET,,D,
+<p>The ac input resistance (<i>R<sub>in</sub></i>) of a voltage-divider biased common-emitter amplifier consists of ____________.</p>,"<img alt=""fba17_1004a1.gif"" src=""/_files/images/basic-electronics/basics/fba17_1004a1.gif""/>","<img alt=""fba17_1004b1.gif"" src=""/_files/images/basic-electronics/basics/fba17_1004b1.gif""/>","<img alt=""fba17_1004c1.gif"" src=""/_files/images/basic-electronics/basics/fba17_1004c1.gif""/>","<img alt=""fba17_1004d1.gif"" src=""/_files/images/basic-electronics/basics/fba17_1004d1.gif""/>",,B,
+<p>The collector current in a class A amplifier flows for ________ of the ac input signal.</p>,&lt; 180°,180°,&lt; 360°,360°,,D,
+<p>Removing a bypass capacitor from a common-emitter amplifier circuit will _________ voltage gain and ________ input resistance.</p>,"increase, decrease","decrease, increase","decrease, decrease","increase, increase",,B,
+<p>The gain of a BJT is called _______ and the gain of a JFET is called _______.</p>,"beta, alpha","transconductance, beta","beta, transconductance","transconductance, transconductance",,C,
+<p>A _______________ JFET amplifier provides a voltage gain of less than one.</p>,common-source,common-channel,common-drain,None of the above,,C,
+<p>Changing ________ can control the voltage gain of a common-source amplifier.</p>,the input voltage,<i>g<sub>m</sub></i>,<i>V</i><sub>DD</sub>,<i>R</i><sub>S</sub>,,B,

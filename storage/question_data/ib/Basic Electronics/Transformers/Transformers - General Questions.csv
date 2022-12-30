@@ -1,0 +1,19 @@
+question,A,B,C,D,E,answer,explanation
+<p>When does <b><i>maximum power transfer</i></b> happen from the source to the load?</p>,When the source resistance is greater than the load resistance,When the source resistance is less than the load resistance,When there is negligible source resistance,When the source resistance equals the load resistance,,D,
+"<p>A transformer is plugged into a 120 V rms source and has a primary current of 300 mA rms. The secondary is providing 18 V across a 10 <img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/> load. What is the efficiency of the transformer?</p>",88%,90%,92%,95%,,B,
+<p>The coefficient of coupling between two coils is 0.45. The first coil has an inductance of 75 mH and the second coil has an inductance of 105 mH. What is the mutual inductance between the coils?</p>,3.54 mH,7.88 mH,39.9 mH,189.3 mH,,C,
+<p>Increasing the number of turns of wire on the secondary of a transformer will</p>,increase the secondary current,decrease the secondary current,have no effect on the secondary current,increase the primary current,,B,
+"<p>What is the turns ratio of the transformer needed to match a 1 k<img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/> source resistance to a 160 <img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/> load?</p>",2.5:1,0.4:1,6.25:1,16:1,,B,
+"<p><p><img src=""/_files/images/basic-electronics/basics/mcq14_1003.gif""/></p>
+<p>What is the secondary voltage in the given circuit?</p></p>",13.3 V rms in phase with the primary,120 V rms in phase with the primary,13.3 V rms out of phase with the primary,120 V rms out of phase with the primary,,C,
+<p>The transformer turns ratio determines</p>,the ratio of primary and secondary voltages,the ratio of primary and secondary currents,the reflected impedance,all of the above,,D,
+<p>Mutual induction is dependent on</p>,winding ratios,output polarities,dc voltage levels,current changes,,D,
+"<p><p><img src=""/_files/images/basic-electronics/basics/mcq14_1004.gif""/></p>
+<p>What is the current through the load in the given circuit?<p></p></p></p>","500 <img align=""absmiddle"" alt=""mu.gif"" src=""/_files/images/basic-electronics/basics/mu.gif""/>A",10 mA,250 mA,1.25 A,,C,
+"<p><p><img src=""/_files/images/basic-electronics/basics/mcq14_1004.gif""/></p>
+<p>What is the power dissipated in the primary of the transformer in the given circuit?</p></p>",25 mW,500 mW,12.5 W,62.5 W,,D,
+<p>A special transformer used to convert unbalanced signals to balanced signals is the</p>,balun,autotransformer,center-tapped transformer,step-across transformer,,A,
+"<p><p><img src=""/_files/images/basic-electronics/basics/mcq14_1004.gif""/></p>
+<p>If the load doubled in value in the given circuit, what <b><i>reflected resistance</i></b> would the source see?</p></p>","80 <img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/>","400 <img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/>","2 k<img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/>","10 k<img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/>",,A,
+"<p>If the primary power of an ideal transformer having a 2:1 voltage ratio is 100 W, the secondary power is</p>",100 W,50 W,75 W,200 W,,A,
+<p>A transformer has</p>,"primary and secondary windings, both of which are considered inputs","primary and secondary windings, both of which are considered outputs",a primary winding used as an output and a secondary winding used as an input,a primary winding used as an input and a secondary winding used as an output,,D,

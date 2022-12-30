@@ -1,0 +1,13 @@
+question,A,B,C,D,E,answer,explanation
+"<p><p>The gates in this figure are implemented using TTL logic. If the input of the inverter is open, and you apply logic pulses to point B, the output of the AND gate will be ________.</p>
+<p><img src=""/_files/images/digital-electronics/digital-fundamentals/cuq3_00800.gif""/></p></p>",a steady LOW,a steady HIGH,an undefined level,pulses,,A,
+"<p><p>The gates in this figure are implemented using TTL logic. If the output of the inverter is open, and you apply logic pulses to point B, the output of the AND gate will be ________.</p>
+<p><img src=""/_files/images/digital-electronics/digital-fundamentals/cuq3_00900.gif""/></p></p>",a steady LOW,a steady HIGH,an undefined level,pulses,,D,
+"<p>If A is LOW or B is LOW or BOTH are LOW, then X is LOW. If A is HIGH and B is HIGH, then X is HIGH. These rules specify the operation of a(n) ________.</p>",AND gate,OR gate,NAND gate,XOR gate,,A,
+<p>A major advantage of ECL logic over TTL and CMOS is ________.</p>,low power dissipation,high speed,both low power dissipation and high speed,neither low power dissipation nor high speed,,B,
+<p>The output of an XOR gate is HIGH only when ________.</p>,both inputs = 0,both inputs = 1,the two inputs are unequal,both inputs are undefined,,C,
+<p>A 2-input gate that can be used to pass a digital waveform unchanged at certain times and inverted at other times is a(n) ________.</p>,AND gate,OR gate,NAND gate,XOR gate,,D,
+"<p><p>The gates in this figure are implemented using TTL logic. If the output of the inverter has an internal open circuit, what voltage would you expect to measure at the inverter's output?</p> <p><img src=""/_files/images/digital-electronics/digital-fundamentals/cuq3_00700.gif""/></p></p>",Less than 0.4 V,1.6 V,Greater than 2.4 V,All of the above,,B,
+<p>When does the output of a NAND gate = 1?</p>,Whenever a 0 is present at an input,Only when all inputs = 0,Whenever a 1 is present at an input,Only when all inputs = 1,,A,
+<p>The number of input combinations for a 4-input gate is ________.</p>,9,8,15,16,,D,
+<p>When does the output of a NOR gate = 0?</p>,Whenever a 0 is present at an input,Only when all inputs = 0,Whenever a 1 is present at an input,Only when all inputs = 1,,C,

@@ -1,0 +1,36 @@
+question,A,B,C,D,E,answer,explanation
+<p>A LOW placed on the input of an inverter will produce a HIGH output.</p>,True,False,,,,A,
+<p>The SUBDESIGN section defines the input and output of the logic circuit block.</p>,True,False,,,,A,
+<p>The NAND gate is an example of combinational logic.</p>,True,False,,,,A,
+"<p><p>The symbol shown below is an AND gate.</p>
+<p><img src=""/_files/images/digital-electronics/digital-systems/tfq3_1007_1.gif""/></p></p>",True,False,,,,A,
+<p>The complement of 1 is 0.</p>,True,False,,,,A,
+"<p>In VHDL, local signals are declared in the VARIABLE section, which is placed between the SUBDESIGN section and the logic section.</p>",True,False,,,,B,
+"<p><p>The given figure shows the correct logic implementation of the distributive law.</p>
+<p><img src=""/_files/images/digital-electronics/digital-systems/tfq3_1021_1.gif""/></p></p>",True,False,,,,A,
+<p>Boolean algebra was first applied to the analysis of digital circuits by Claude Shannon at Stanford University.</p>,True,False,,,,B,
+<p>The application of DeMorgan's theorems to a Boolean expression with double and single inversions produces a resultant expression that contains only single inverter signs over single variables.</p>,True,False,,,,A,
+"<p><p>The timing diagram for a two-input NAND gate is shown below. The gate is working correctly.</p>
+<p><img src=""/_files/images/digital-electronics/digital-systems/tfq3_1011_1.gif""/></p></p>",True,False,,,,A,
+"<p><p>The truth table shown below describes the operation of a NOR gate.</p>
+<p><img src=""/_files/images/digital-electronics/digital-systems/tfq3_1012_1.gif""/></p></p>",True,False,,,,B,
+<p>A two-input NAND gate has inputs of 1 and 0; the output is 0.</p>,True,False,,,,B,
+<p>A NAND gate consists of an AND gate and an OR gate connected in series with each other.</p>,True,False,,,,B,
+"<p>In an expression containing both AND and OR operations, the AND operations are performed first (unless parentheses indicate otherwise).</p>",True,False,,,,A,
+"<p>In a text-based language, the circuit being described must be given a name.</p>",True,False,,,,A,
+"<p>The effect of an inverted output being connected to the inverting input of another gate is to effectively eliminate one of the inversions, resulting in a single inversion.</p>",True,False,,,,B,
+<p>A minimum of three universal NOR gates would be required to perform the logical operation of a 2-input AND gate.</p>,True,False,,,,A,
+<p>The Boolean expression for a three-input AND gate is <i>X</i> = <i>ABC</i>.</p>,True,False,,,,A,
+<p>Output logic levels for certain input conditions of a logic circuit may often be determined without using the Boolean expression.</p>,True,False,,,,A,
+<p>The comments in ADHL are enclosed between # characters.</p>,True,False,,,,B,
+"<p>The expressions, <img src=""/_files/images/digital-electronics/digital-systems/tfq3_1015_1.gif""/>, are equivalent.</p>",True,False,,,,A,
+<p>The output of a NAND gate is the inverse of the output for an AND gate for all possible input combinations.</p>,True,False,,,,A,
+<p>NOR gates can be used to construct AND gates.</p>,True,False,,,,A,
+<p>The commutative law of Boolean addition states that <i>A</i> + <i>B</i> = <i>A</i> · <i>B</i>.</p>,True,False,,,,B,
+"<p><p>The figure given below is an example of the implementation of AND-OR-INVERT logic.</p>
+<p><img src=""/_files/images/digital-electronics/digital-systems/tfq3_1023_1.gif""/></p></p>",True,False,,,,B,
+<p>The OR gate performs like two switches wired in a series.</p>,True,False,,,,B,
+"<p>The inputs to an AND gate are: <i>A</i> = 1, <i>B</i> = 0, <i>C</i> = 1. The output will be LOW.</p>",True,False,,,,A,
+"<p>In Boolean algebra, 1 · 0 = 0.</p>",True,False,,,,A,
+<p>Boolean multiplication is symbolized by <i>A</i> + <i>B</i>.</p>,True,False,,,,B,
+<p>VHDL is not a new language.</p>,True,False,,,,A,

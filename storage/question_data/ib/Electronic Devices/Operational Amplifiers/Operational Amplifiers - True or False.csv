@@ -1,0 +1,11 @@
+question,A,B,C,D,E,answer,explanation
+<p>An inverting amplifier has an input impedance equal to the feedback resistor R<sub>f</sub>.</p>,True,False,,,,B,
+<p>Closed-loop gain is the gain with negative feedback.</p>,True,False,,,,A,
+<p>Negative feedback decreases the bandwidth and increases the voltage gain.</p>,True,False,,,,B,
+"<p>A good op-amp has low voltage gain, low output impedance, and high input impedance.</p>",True,False,,,,B,
+<p>A non-inverting amplifier has a higher input impedance and a lower output impedance than the op-amp itself (without feedback).</p>,True,False,,,,A,
+<p>All practical op-amps have input bias currents and voltages that produce output error voltages.</p>,True,False,,,,A,
+"<p>When the open-loop gain of an op-amp is reduced by negative feedback, the bandwidth is increased.</p>",True,False,,,,A,
+<p>Open-loop gain of an op-amp is the voltage gain without feedback.</p>,True,False,,,,A,
+<p>Open-loop gain is always smaller than closed-loop gain.</p>,True,False,,,,B,
+<p>The common-mode rejection ratio (CMRR) is a measure of an op-amp's ability to reject common-mode input signals.</p>,True,False,,,,A,

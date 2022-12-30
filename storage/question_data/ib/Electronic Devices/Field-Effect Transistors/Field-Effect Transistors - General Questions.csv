@@ -1,0 +1,44 @@
+question,A,B,C,D,E,answer,explanation
+"<p>For a JFET, the value of V<sub>DS</sub> at which I<sub>D</sub> becomes essentially constant is the</p>",pinch-off voltage.,cutoff voltage.,breakdown voltage.,ohmic voltage.,,A,
+<p>The ________ has a physical channel between the drain and source.</p>,D-MOSFET,E-MOSFET,V-MOSFET,,,A,
+"<p><p>Refer to figure given below. Calculate the value of V<sub>DS</sub>.</p>
+<p><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq7_1018_1.jpeg""/></p></p>",0 V,2 V,4 V,–2 V,,B,
+"<p><p>Refer to figure shown below. Determine the value of V<sub>S</sub>.</p>
+<p><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq7_1018_1.jpeg""/></p></p>",20 V,8 V,6 V,2 V,,C,
+<p>A self-biased n-channel JFET has a V<sub>D</sub> = 6 V. V<sub>GS</sub> = –3 V. Find the value of V<sub>DS</sub>.</p>,–3 V,–6 V,3 V,6 V,,C,
+"<p><p>Refer to the given figure. I<sub>D</sub> = 6 mA. Calculate the value of V<sub>DS</sub>.</p>
+<p><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq7_1013_1c.jpeg""/></p></p>",–9 V,9 V,6 V,–3 V,,A,
+<p>What type(s) of gate-to-source voltage(s) can a depletion MOSFET (D-MOSFET) operate with?</p>,zero,positive,negative,any of the above,,D,
+"<p>Midpoint bias for a D-MOSFET is I<sub>D</sub> = ________, obtained by setting V<sub>GS</sub> = 0.</p>",I<sub>DSS</sub> / 2,I<sub>DSS</sub> / 3.4,I<sub>DSS</sub>,,,C,
+"<p>On the drain characteristic curve of a JFET for V<sub>GS</sub> = 0, the pinch-off voltage is</p>",below the ohmic area.,between the ohmic area and the constant current area.,between the constant current area and the breakdown region.,above the breakdown region.,,B,
+"<p><p>Refer to the given figure. I<sub>D</sub> = 6 mA. Calculate the value of V<sub>DS</sub>.</p>
+<p><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq7_1013_1a.jpeg""/></p></p>",–6 V,6 V,12 V,–3 V,,B,
+"<p><p>Refer to figure given below. Determine the value of V<sub>GS</sub>.</p>
+<p><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq7_1018_1.jpeg""/></p></p>",–20 V,–8 V,–6 V,–2 V,,C,
+<p>Which of the following devices has the highest input resistance?</p>,diode,JFET,MOSFET,bipolar junction transistor,,C,
+<p>The value of V<sub>GS</sub> that makes I<sub>D</sub> approximately zero is the</p>,pinch-off voltage.,cutoff voltage.,breakdown voltage.,ohmic voltage.,,B,
+<p>The JFET is always operated with the gate-source pn junction ________ -biased.</p>,forward,reverse,,,,B,
+"<p><p>Identify the p-channel D-MOSFET.</p>
+<p><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq7_1007_1.jpeg""/></p></p>",a,b,c,d,,B,
+<p>All MOSFETs are subject to damage from electrostatic discharge (ESD).</p>,true,false,,,,A,
+"<p><p>Identify the n-channel D-MOSFET.</p>
+<p><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq7_1007_1.jpeg""/></p></p>",a,b,c,d,,A,
+<p>A dual-gated MOSFET is</p>,a depletion MOSFET.,an enhancement MOSFET.,a VMOSFET.,either a depletion or an enhancement MOSFET.,,D,
+"<p><p>Refer to figure show below. Calculate the value of V<sub>D</sub>.</p>
+<p><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq7_1018_1.jpeg""/></p></p>",20 V,8 V,6 V,2 V,,B,
+<p>What three areas are the drain characteristics of a JFET (V<sub>GS</sub> = 0) divided into?</p>,"ohmic, constant-current, breakdown","pinch-off, constant-current, avalanche","ohmic, constant-voltage, breakdown",,,A,
+"<p>In a self-biased JFET circuit, if V<sub>D</sub> = V<sub>DD</sub> then I<sub>D</sub> = ________.</p>",0,cannot be determined from information above,,,,A,
+<p>The resistance of a JFET biased in the ohmic region is controlled by</p>,V<sub>D.</sub>,V<sub>GS.</sub>,V<sub>S.</sub>,V<sub>DS.</sub>,,B,
+<p>High input resistance for a JFET is due to</p>,a metal oxide layer.,a large input resistor to the device.,an intrinsic layer.,the gate-source junction being reverse-biased.,,D,
+"<p>For a JFET, the change in drain current for a given change in gate-to-source voltage, with the drain-to-source voltage constant, is</p>",breakdown.,reverse transconductance.,forward transconductance.,self-biasing.,,C,
+"<p><p>Identify the p-channel E-MOSFET.</p>
+<p><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq7_1007_1.jpeg""/></p></p>",a,b,c,d,,D,
+"<p><p>Refer to figure shown below. What is the value of I<sub>G</sub>?</p>
+<p><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq7_1018_1.jpeg""/></p></p>",6 mA,4 mA,2 mA,0 mA,,D,
+<p>A JFET data sheet specifies V<sub>GS(off)</sub> = –6 V and I<sub>DSS</sub> = 8 mA. Find the value of I<sub>D</sub> when V<sub>GS</sub> = –3 V.</p>,2 mA,4 mA,8 mA,none of the above,,A,
+<p>A JFET data sheet specifies V<sub>GS(off)</sub> = –10 V and I<sub>DSS</sub> = 8 mA. Find the value of I<sub>D</sub> when V<sub>GS</sub> = –3 V.</p>,2 mA,1.4 mA,4.8 mA,3.92 mA,,D,
+"<p><p>Identify the n-channel E-MOSFET.</p>
+<p><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq7_1007_1.jpeg""/></p></p>",a,b,c,d,,C,
+"<p>If V<sub>D</sub> is less than expected (normal) for a self-biased JFET circuit, then it could be caused by a(n)</p>",open R<sub>G</sub>.,open gate lead.,FET internally open at gate.,all of the above,,D,
+"<p><p>Refer to the given figure. I<sub>D</sub> = 6 mA. Calculate the value of V<sub>DS</sub>.</p>
+<p><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq7_1013_1b.jpeg""/></p></p>",13.2 V,10 V,6.8 V,0 V,,C,

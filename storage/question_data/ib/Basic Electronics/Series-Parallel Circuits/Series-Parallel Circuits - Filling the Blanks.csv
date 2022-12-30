@@ -1,0 +1,20 @@
+question,A,B,C,D,E,answer,explanation
+<p>The loading effect of a voltmeter can be ignored if ____.</p>,the measured voltage is very high,the measured voltage is very low,the meter's resistance is at least 10 times greater than the resistance across which it is connected,the meter's resistance is at least 10 times less than the resistance across which it is connected,,C,
+<p>A <i><b>Thevenin equivalent circuit</b></i> contains _____.</p>,a voltage source in series with a resistance,a current source in series with a resistance,resistors in a series-parallel configuration,many voltage sources,,A,
+"<p><p><img src=""/_files/images/basic-electronics/basics/fbq6_1007_1.gif""/></p>
+<p>In the given circuit, the current flowing through <i>R</i><sub>3</sub> equals ______.</p></p>",10 mA,21.11 mA,90 mA,100 mA,,A,
+"<p>Series components in a series–parallel circuit may be in series with other _______________ components, or with other _______________ components.</p>","individual, combinations of","series, parallel","parallel, series","shunt, parallel",,A,
+"<p>If four 10 k<img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/complete/omega.gif""/>  resistors are in series with a single 20 k<img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/complete/omega.gif""/>  resistor and one of the parallel resistors shorts, the voltage across the other parallel resistors ________.</p>",increases,decreases,remains the same,drops to zero,,B,
+"<p><p><img src=""/_files/images/basic-electronics/basics/fbq6_1007_1.gif""/></p>
+<p>In the given circuit, the voltage dropped across <i>R</i><sub>1</sub> equals _____.</p></p>",1 V,9 V,10 V,19 V,,B,
+<p>___ is often used to analyze multiple-source circuits.</p>,Thevenin's theorem,Superposition,Kirchhoff's law,Ohm's law,,B,
+"<p><p><img src=""/_files/images/basic-electronics/basics/fbq6_1001_1.gif""/></p>
+<p>If <i>R</i><sub>3</sub> opens in the given circuit, the total resistance (<i>R</i><sub>T</sub>) between points A and B equals ____.</p></p>","900 <img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/>","100 <img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/>","110 <img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/>",infinite resistance,,C,
+"<p>If a <i><b>Wheatstone bridge</b></i> is balanced, its output voltage is ____.</p>",the same as its input voltage,very high,dependent on the unknown resistor value,equal to 0 V,,D,
+"<p>When a load is connected to a voltage divider, the total resistance of the circuit will ________.</p>",increase,decrease,remain the same,double,,B,
+"<p><p><img src=""/_files/images/basic-electronics/basics/fbq6_1001_1.gif""/></p>
+<p>In the given circuit, the total resistance (<i>R</i><sub>T</sub>) between points A and B equals _____.</p></p>","10 <img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/>","100 <img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/>","900 <img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/>","1,010 <img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/>",,B,
+"<p><p><img src=""/_files/images/basic-electronics/basics/fbq6_1007_1.gif""/></p>
+<p>In the given circuit, the voltage at point A equals ______.</p></p>",–10 V,+1 V,+9 V,+10 V,,D,
+"<p><p><img src=""/_files/images/basic-electronics/basics/fbq6_1001_1.gif""/></p>
+<p>If the voltage between points A and B equals 9 V in the given circuit, then <i>V<sub>R</sub></i>3 equals ______.</p></p>",0.9 V,8.1 V,9 V,More information is needed to find <i>V<sub>R</sub></i>3.,,B,

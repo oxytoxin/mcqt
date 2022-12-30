@@ -1,0 +1,18 @@
+question,A,B,C,D,E,answer,explanation
+"<p><p><img src=""/_files/images/basic-electronics/basics/mcq20_1011_1.jpg""/></p>
+<p>Which circuit is known as a current-to-voltage converter?</p></p>",a,b,c,d,,A,
+"<p>When using an OTA in a Schmitt-trigger configuration, the trigger points are controlled by</p>",the <i>I<sub>out</sub></i>,the <i>I</i><sub>BIAS</sub>,the <i>V<sub>out</sub></i>,both <i>I<sub>out</sub></i> and <i>I</i><sub>BIAS</sub>,,D,
+"<p><p><img src=""/_files/images/basic-electronics/basics/mcq20_1011_1.jpg""/></p>
+<p>Refer the given circuits. Which circuit is known as an OTA?</p></p>",a,b,c,d,,D,
+"<p><p><img src=""/_files/images/basic-electronics/basics/mcq20_1007_1.jpg""/></p>
+<p>This circuit is a setup for</p></p>",an antilog amplifier,a constant-current source,an instrumentation amplifier,an isolation amplifier,,C,
+"<p><p><img src=""/_files/images/basic-electronics/basics/mcq20_1011_1.jpg""/></p>
+<p>Which circuit is known as a voltage-to-current converter?</p></p>",a,b,c,d,,B,
+<p>The primary function of the oscillator in an isolation amplifier is to</p>,convert dc to high-frequency ac,convert dc to low-frequency ac,rectify high-frequency ac to dc,produce dual-polarity dc voltages for the input to the demodulator,,A,
+"<p><img alt=""mcq20_1008_1.jpg"" src=""/_files/images/basic-electronics/basics/mcq20_1008_1.jpg""/> <br/> Refer to Figure 20-2. This circuit is a setup for</p>",an antilog amplifier,a constant-current source,an instrumentation amplifier,an isolation amplifier,,B,
+<p>An instrumentation amplifier has a high</p>,output impedance,power gain,CMRR,supply voltage,,C,
+"<p><p><img src=""/_files/images/basic-electronics/basics/mcq20_1009_1.jpg""/></p>
+<p>This circuit is a setup for</p></p>",an antilog amplifier,a constant-current source,an instrumentation amplifier,an isolation amplifier,,D,
+<p>Circuits that shift the dc level of a signal are called</p>,limiters,clampers,peak detectors,dc converters,,B,
+<p>The voltage gain of an OTA can be calculated using the formula</p>,"<img align=""absmiddle"" alt=""mca20_1002a1.gif"" src=""/_files/images/basic-electronics/basics/mca20_1002a1.gif""/>","<img align=""absmiddle"" alt=""mca20_1002b1.gif"" src=""/_files/images/basic-electronics/basics/mca20_1002b1.gif""/>","<img align=""absmiddle"" alt=""mca20_1002c1.gif"" src=""/_files/images/basic-electronics/basics/mca20_1002c1.gif""/>","<img align=""absmiddle"" alt=""mca20_1002d1.gif"" src=""/_files/images/basic-electronics/basics/mca20_1002d1.gif""/>",,B,
+"<p>In the classic three-op-amp instrumentation amplifier, the differential voltage gain is usually produced by the</p>",first stage,second stage,mismatched resistors,output op-amp,,A,

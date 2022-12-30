@@ -1,0 +1,12 @@
+question,A,B,C,D,E,answer,explanation
+"<p>""Train"" and ""single"" is the mode selection for a _______.</p>",multimeter,logic probe,current tracer,logic pulser,,D,
+<p>The use of a logic probe may be improved through the use of a(n) ________.</p>,logic clip,frequency counter,oscilloscope,current tracer,,A,
+<p>The control of digital circuits is usually achieved with _________.</p>,random pulses,clock signals,sophisticated gating,selected frequencies,,B,
+"<p>In order for a logic probe to operate, its red and black leads must first be connected to a ________.</p>",logic clip,HIGH or TRUE signal,power source,logic pulser,,C,
+"<p>The ideal test equipment to use for locating shorts in
+digital circuitry is the ________ and _______.</p>","logic probe, clip","logic pulser, logic probe","current tracer, logic pulser","current tracer, logic clip",,C,
+<p>The results of internal IC failures will usually be noticed during the ______ phase of troubleshooting.</p>,diagnostic,isolation,repair,final test,,A,
+<p>Erratic or unexplained digital circuit activity is often due to _________.</p>,a glitch,a random pulse,clock frequency changes,a change in slew rate,,C,
+"<p>The device that would best aid in open track detection
+is a(n) ________.</p>",multimeter,current tracer,logic probe,oscilloscope,,B,
+<p>A check of all power supply voltages should be made during the ________ method of troubleshooting.</p>,half-split,diagnosis,repair,final test,,A,

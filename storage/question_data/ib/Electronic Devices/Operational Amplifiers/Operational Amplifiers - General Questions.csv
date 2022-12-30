@@ -1,0 +1,96 @@
+question,A,B,C,D,E,answer,explanation
+<p>In which of the following are operational amplifiers (op-amps) used?</p>,Oscillators,Filters,Instrumentation circuits,All of the above,,D,
+"<p><p>Refer to this figure. If the value of R<sub>1</sub> decreases, the voltage gain will ________ and the input impedance will ________.</p>
+<p><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq12_1011_1.gif""/></p></p>","increase, increase","increase, decrease","decrease, decrease","decrease, increase",,B,
+"<p><p>Refer to this figure. The purpose of R<sub>3</sub> is</p>
+<p><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq12_1011_1.gif""/></p></p>",for bias current compensation.,for input offset voltage compensation.,to set input impedance.,to set input impedance and voltage gain.,,A,
+"<p>A voltage-follower amplifier comes to you for service. You find the voltage gain to be 5.5 and the input impedance 22 k<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>. The probable fault in this amplifier, if any, is</p>",the gain is too low for this type of amplifier.,the input impedance is too high for this amplifier.,nothing is wrong. The trouble must be somewhere else.,none of these.,,D,
+"<p>For an op-amp having a slew rate SR = 5 V/ms, what is the maximum closed-loop voltage gain that can be used when the input signal varies by 0.2 V in 10 ms?</p>",150,200,250,300,,C,
+"<p>An op-amp has an open-loop gain of 100,000 and a cutoff frequency of 40 Hz. Find the open-loop gain at a frequency of 30 Hz.</p>",800,"8,000","80,000","100,000",,D,
+"<p><p>Refer to the given figure. The input impedance of this circuit is</p>
+<p><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq12_1001_1c.jpeg""/></p></p>","500 k<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>.","10 k<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>.","50 k<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>.","5 k<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>.",,C,
+<p>What is the level of the voltage between the input terminals of an op-amp?</p>,Virtually zero,5 V,18 V,22 V,,A,
+"<p>An op-amp has an open-loop gain of 75,000 and a cutoff frequency of 100 Hz. At 1 kHz the open-loop gain is down by</p>",10 dB.,6 dB.,20 dB.,3 dB.,,C,
+<p>What is the difference output voltage of any signals applied to the input terminals?</p>,The differential gain times the difference input voltage.,The common-mode gain times the common input voltage.,The sum of the differential gain times the difference input voltage and the common-mode gain times the common input voltage.,The difference of the differential gain times the difference input voltage and the common-mode gain times the common input voltage.,,C,
+<p>A three-stage op-amp can have a maximum phase lag of ________°.</p>,–180,–90,–270,none of the above,,C,
+<p>The summing amplifier contains an inverting amplifier.</p>,True,False,,,,A,
+<p>What is the open-loop gain of an op-amp at the gain-bandwidth product of the op-amp?</p>,"200,000","50,000",200,1,,D,
+"<p>Calculate the overall voltage gain of the circuit if R<sub>1</sub> = 100 <img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/> and R<sub>f</sub> = 1 k<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>. <p> <img src=""/_files/images/electronic-devices-and-circuit-theory/mcq10_01400.gif""/></p></p>",–1,–10,11,9,,C,
+"<p><p>Refer to the given figure. A dc input signal of –50 mV is applied. You would measure ________ from the inverting input to ground.</p>
+<p><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq12_1001_1b.jpeg""/></p></p>",50 mV,1.05 V,–1.05 V,–50 mV,,D,
+<p>The ________ amplifier configuration has the highest input impedance and the lowest output impedance of the three basic op-amp configurations.</p>,non-inverting,inverting,voltage-follower,,,C,
+"<p>This circuit is referred to as a(n) ________. <p> <img src=""/_files/images/electronic-devices-and-circuit-theory/mcq10_02100.gif""/></p></p>",inverting amplifier,noninverting amplifier,differentiator,integrator,,D,
+"<p><p>Refer to the given figure. Calculate the bandwidth.</p>
+<p><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq12_1028_1.jpeg""/></p></p>",8.33 MHz,833 kHz,83.3 kHz,8.33 kHz,,C,
+"<p><p>Refer to this figure. The purpose of R<sub>4</sub> is</p>
+<p><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq12_1011_1.gif""/></p></p>",for bias current compensation.,for input offset voltage compensation.,to set input impedance.,to set input impedance and voltage gain.,,B,
+"<p><p>Refer to the given figure. Find the midrange gain of this amplifier.</p>
+<p><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq12_1022_1a.jpeg""/></p></p>",26.7,–26.7,27.7,–27.7,,B,
+"<p>An RC network has R = 47 k<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/> and C = 0.22 <img src=""/_files/images/electronic-devices-and-circuit-theory/mu.gif""/>F. What is the cutoff frequency?</p>",154 Hz,1540 Hz,1.54 Hz,15.4 Hz,,D,
+"<p>A certain op-amp has an open-loop voltage gain of 150,000. What is this gain expressed in dB?</p>",51.7 dB,103.5 dB,"150,000 dB",5.18 dB,,B,
+<p>An IC unit made using both ________ and ________ transistors is called a ________ circuit.</p>,"bipolar, MOSFET, BiFET","bipolar, MOSFET, BiMOS","TTL, MOSFET, TailFET",,,B,
+"<p><p>Refer to the given figure. You need an amplifier with an input impedance of 12 k<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>. You must <b>not</b> change the amplifier voltage gain. The new value of R<sub>i</sub> would be ________ and the new value of R<sub>f</sub> would be ________.</p>
+<p><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq12_1001_1c.jpeg""/></p></p>","10 k<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>, 100 k<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>","13.3 k<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>, 120 k<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>","12 k<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>, 108 k<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>","12 k<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>, 120 k<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>",,D,
+<p>What is the slew rate of an op-amp if the output voltages change from 2 V to 3 V in 0.2 ms?</p>,5 V/ms,3 V/ms,2 V/ms,1 V/ms,,A,
+"<p><p>Refer to the given figure. This amplifier is known as</p>
+<p><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq12_1001_1a.jpeg""/></p></p>",an inverting amplifier.,a non-inverting amplifier.,a voltage-follower.,a common-source amplifier.,,C,
+"<p>Calculate the output voltage if R<sub>1</sub> = R<sub>2</sub> = R<sub>3</sub> = 100 <img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>, R<sub>f</sub> = 1 k<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>, and V<sub>1</sub> = V<sub>2</sub> = V<sub>3</sub> = 50 mV. <p> <img src=""/_files/images/electronic-devices-and-circuit-theory/mcq10_01700.gif""/></p></p>",–1.5 V,1.5 V,0.5 V,–0.5 V,,A,
+"<p>If R<sub>f</sub> = R<sub>1</sub>, the voltage gain is ________. <p> <img src=""/_files/images/electronic-devices-and-circuit-theory/mcq10_01200.gif""/></p></p>",1,–1,10,very small,,B,
+<p>The maximum rate of change of the output voltage in response to a step input voltage is the ________ of an op-amp.</p>,time constant,maximum frequency,slew rate,static discharge,,C,
+<p>At what input voltage level does the output voltage level become numerically equal to the value of the differential gain of the amplifier?</p>,V<sub>i1</sub> = –V<sub>i2</sub> = 0.25 V,V<sub> i1</sub> = –V<sub> i2</sub> = 0.50 V,V<sub> i1</sub> = –V<sub> i2</sub> = 0.75 V,V<sub> i1</sub> = –V<sub>i2</sub> = 1.00 V,,B,
+"<p><p>Refer to the given figure. The op-amp has a unity-gain bandwidth of 3 MHz. Determine the BW of the circuit.</p>
+<p><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq12_1022_1a.jpeg""/></p></p>",3 MHz,30 kHz,112.4 kHz,infinite in width,,C,
+"<p>A practical op-amp has very ________ input impedance, very ________ output impedance, very ________ open-loop voltage gain, and a ________ bandwidth.</p>","high, low, high, wide","high, high, low, narrow","low, high, high, wide","low, low, low, wide",,A,
+"<p>This circuit is referred to as a(n) ________. <p> <img src=""/_files/images/electronic-devices-and-circuit-theory/mcq10_02000.gif""/></p></p>",inverting amplifier,noninverting amplifier,unity follower,integrator,,A,
+"<p>This circuit is an example of a ________. <p> <img src=""/_files/images/electronic-devices-and-circuit-theory/mcq10_00400.gif""/></p></p>",single-ended input,double-ended (differential) input,double-ended output,common-mode operation,,C,
+<p>What is the level of the roll-off in most op-amps?</p>,–6 dB / decade,–20 dB / octave,–6 dB / decade or –20 dB / octave,–20 dB / decade or –6 dB / octave,,D,
+"<p>Calculate the output impedance of an inverting op-amp using the 741 op-amp (r<sub>o</sub> = 75 <img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>, A<sub>OL</sub> = 200 V/mV) if R<sub>1</sub> = 100 <img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/> and R<sub>f</sub> = 1 k<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>.</p>",0.011,0.00375,0.0375,0.375,,B,
+<p>The input offset voltage drift is a parameter directly related to V<sub>OS</sub> and ________.</p>,I<sub>D</sub>,power dissipation,temperature,phase shift,,C,
+<p>What is the difference voltage if the inputs are an ideal opposite signal?</p>,The differential gain times twice the input signal.,The differential gain times the input signal.,The common-mode gain times twice the input signal.,The common-mode gain times the input signal.,,A,
+"<p><p>Refer to the given figure. Determine the bandwidth.</p>
+<p><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq12_1028_1.jpeg""/></p></p>",1 MHz,1.5 MHz,1 kHz,1.5 kHz,,B,
+"<p><p>Refer to the given figure. This amplifier is known as</p>
+<p><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq12_1001_1c.jpeg""/></p></p>",an inverting amplifier.,a non-inverting amplifier.,a voltage-follower.,a common-source amplifier.,,A,
+"<p><p>Refer to the given figure. The midrange voltage gain of this amplifier is</p>
+<p><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq12_1022_1c.jpeg""/></p></p>",0.5.,27.7.,–11.,1.,,D,
+<p>Which of the following circuit conditions affect(s) the output offset voltage of an op-amp?</p>,"An input offset voltage, V<sub>IO</sub>","An input offset current, I<sub>IO</sub>","Both an input offset voltage, V<sub>IO</sub> and an input offset current, I<sub>IO</sub>",None of the above,,C,
+"<p>This circuit is an example of a ________. <p> <img src=""/_files/images/electronic-devices-and-circuit-theory/mcq10_00300.gif""/></p></p>",single-ended input,double-ended (differential) input,double-ended output,common-mode operation,,B,
+<p>A(n) ________ amplifier configuration has a higher input impedance and a lower output impedance than the op-amp itself.</p>,non-inverting,inverting,voltage-follower,,,A,
+<p>In which of the following operations is the resulting output signal of the differential amplifier near zero?</p>,Single-ended,Double-ended,Common-mode,None of the above,,C,
+<p>What is the voltage gain of the unity follower?</p>,0,1,–1,Infinity,,B,
+<p>Negative feedback added to an op-amp ________ the bandwidth and ________ the gain.</p>,"increases, increases","increases, decreases","decreases, decreases","decreases, increases",,B,
+"<p>It takes an op-amp 22 <img src=""/_files/images/electronic-devices-and-circuit-theory/mu.gif""/>s to change its output from –15 V to +15 V. Determine the slew rate.</p>","1.36 V/<img src=""/_files/images/electronic-devices-and-circuit-theory/mu.gif""/>s","0.68 V/<img src=""/_files/images/electronic-devices-and-circuit-theory/mu.gif""/>s","–0.68 V/<img src=""/_files/images/electronic-devices-and-circuit-theory/mu.gif""/>s",cannot determine,,A,
+"<p><p>Refer to the given figure. The op-amp has a unity-gain bandwidth of 1.7 MHz. Find the bandwidth of the circuit.</p>
+<p><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq12_1022_1b.jpeg""/></p></p>",155 MHz,155 kHz,155 Hz,15.5 Hz,,B,
+"<p>An RC network has R = 500 k<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/> and C = 10 pF. Find the value of f<sub>c</sub>.</p>",31831 Hz,31.831 kHz,0.031831 MHz,all of the above,none of the above,D,
+<p>What is the scale multiplier (factor) of a basic integrator?</p>,R / C,C / R,–RC,–1 / RC,,D,
+"<p>Calculate the overall voltage gain of the circuit if R<sub>1</sub> = 100 and R<sub>f </sub>= 1 k<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>. <p> <img src=""/_files/images/electronic-devices-and-circuit-theory/mcq10_01300.gif""/></p></p>",–1,–10,11,9,,B,
+<p>Which of the following circuits is referred to as a BiMOS circuit?</p>,Bipolar and FET,Bipolar and MOSFET,Opposite-type MOSFETs,None of the above,,B,
+"<p><p>Refer to the given figure. A dc voltage of –1.2 V is applied. V<sub>CC</sub> = ±12 V. What is the output voltage?</p>
+<p><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq12_1001_1a.jpeg""/></p></p>",1.2 V,–1.2 V,0 V,12 V,,B,
+"<p>In the differential amplifier circuit, which of the following terminals are connected together?</p>",Bases,Collectors,One base to another collector,Emitters,,D,
+"<p>What is the cutoff frequency of an op-amp if the unity-gain frequency is 1.5 MHz and the open-loop gain is 100,000?</p>",5 Hz,10 Hz,15 Hz,20 Hz,,C,
+<p>The ________ is the voltage gain of an op-amp with external feedback.</p>,A<sub>ol</sub>,A<sub>cl</sub>,A<sub>v</sub>,,,B,
+"<p><p>Refer to the given figure. This amplifier is known as</p>
+<p><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq12_1001_1b.jpeg""/></p></p>",an inverting amplifier.,a non-inverting amplifier.,a voltage-follower.,a common-source amplifier.,,B,
+"<p><p>Refer to the given figure. The voltage gain of this amplifier is</p>
+<p><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq12_1001_1b.jpeg""/></p></p>",100.,5.,20.,21.,,D,
+<p>A(n) ________ amplifier configuration has an input impedance approximately equal to the input resistor R<sub>i</sub> and an output impedance approximately equal to the output impedance of the op-amp itself.</p>,non-inverting,inverting,voltage-follower,,,B,
+"<p>This circuit is an example of a ________. <p> <img src=""/_files/images/electronic-devices-and-circuit-theory/mcq10_00500.gif""/></p></p>",single-ended input,double-ended (differential) input,double-ended output,common-mode operation,,D,
+<p>What is the difference voltage if the inputs are an ideal in-phase signal?</p>,The differential gain times twice the input signal.,The differential gain times the input signal.,The common-mode gain times twice the input signal.,The common-mode gain times the input signal.,,D,
+"<p><p>Refer to this figure. The purpose of R<sub>1</sub> and R<sub>2</sub> is</p>
+<p><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq12_1011_1.gif""/></p></p>",for bias current compensation.,for input offset voltage compensation.,to set input impedance.,to set input impedance and voltage gain.,,D,
+"<p><p>Refer to the given figure. If an input signal of –0.5 V were applied, determine the output voltage.</p>
+<p><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq12_1001_1c.jpeg""/></p></p>",–5 V,5 V,10 V,–10 V,,B,
+"<p>Calculate the input voltage if R<sub>1</sub> = 100 <img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/> , R<sub>f</sub> = 1 k<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>, and V<sub>out</sub> = 550 mV. <p> <img src=""/_files/images/electronic-devices-and-circuit-theory/mcq10_01600.gif""/></p></p>",–50 mV,–5 mV,550 mV,50 mV,,D,
+<p>The midrange open-loop gain of an op-amp is 135 dB. With negative feedback this gain is reduced to 72 dB. The closed-loop gain is</p>,135 dB.,72 dB.,207 dB.,63 dB.,,B,
+"<p>This circuit is referred to as a(n) ________. <p> <img src=""/_files/images/electronic-devices-and-circuit-theory/mcq10_02200.gif""/></p></p>",inverting amplifier,noninverting amplifier,differentiator,integrator,,C,
+"<p><p>Refer to the given figure. Find the midrange gain of this op-amp amplifier.</p>
+<p><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq12_1022_1b.jpeg""/></p></p>",10,11,–10,–11,,B,
+"<p>This circuit is an example of a ________. <p> <img src=""/_files/images/electronic-devices-and-circuit-theory/mcq10_00200.gif""/></p></p>",single-ended input,double-ended (differential) input,double-ended output,common-mode operation,,A,
+<p>What is the level of the current through the amplifier input(s) to ground in an op-amp?</p>,Virtually zero,1.7 mA,2.8 mA,3.3 mA,,A,
+<p>Open-loop voltage gain of an op-amp can range up to ________.</p>,"10,000","50,000","100,000","200,000",,D,
+<p>At what input voltage level does the output voltage level become numerically equal to the value of the common-mode gain of the amplifier?</p>,V<sub>i1</sub> = –V<sub>i2</sub> = 0.25 V,V<sub>i1</sub> = –V<sub>i2</sub> = 0.50 V,V<sub>i1</sub> = –V<sub>i2</sub> = 0.75 V,V<sub>i1</sub> = –V<sub>i2</sub> = 1.00 V,,B,
+"<p><p>Refer to the given figure. The unity-gain bandwidth of this op-amp is 10.4 kHz. What is the bandwidth of the circuit?</p>
+<p><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq12_1022_1c.jpeg""/></p></p>",10.4 kHz,15.5 kHz,3 MHz,16.7 kHz,,A,
+<p>Which of the following is (are) the result of gain reduction by a feedback?</p>,The amplifier voltage gain is a more stable and precise value.,The input impedance of the circuit is increased over that of the op-amp alone.,The output impedance is reduced over that of the op-amp alone.,All of the above,,D,

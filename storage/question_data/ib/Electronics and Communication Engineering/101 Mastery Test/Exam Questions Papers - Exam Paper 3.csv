@@ -1,0 +1,254 @@
+question,A,B,C,D,E,answer,explanation
+"<p>The circuit given below is: <br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/1-749-80-1.png""/></p>",Band stop filter,Band pass filter,Oscillator circuit,All pass filter,,B," <p>The given circuit is Band pass filter
+</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/1-752-80-1.png""/>.</p> "
+"<p>Rank of the matrix: <br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/1-743-2-1.png""/></p>",3,2,1,4,,C," <p>The given matrix is equivalent to
+</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/1-750-2-1.png""/>, 
+</p>
+<p>Thus rank is 1.</p> "
+<p>His rather casual remarks on politics __________ his lack of seriousness about the subject.</p>,masked,belied,cherish,conserve,,C," <p>The key words in the statement are 'casual remarks' and 'lack of seriousness'. </p>
+<p>The blank should be filled with a word meaning 'showed' or 'revealed'. Hence, 'betrayed' is the correct answer.</p> "
+"<p>The resolution of a 4 bit counting ADC is 0.5 volts. For an analog input of 6.6 volts, the digital output of the ADC will be</p>",1011,1101,1100,1110,,D," <p>Resolution = <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/14-04-8.png""/></p>
+<p> ⇒ <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/14-04-8-1.png""/> = 0.5</p>
+<p>2<sup><i>n</i></sup> = 14 = (1110)</p>
+<p><i>n</i> = 4 bits.</p> "
+"<p>For the power amplifier circuit shown below, the maximum power dissipated by both output transistor is<br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-787-29-1.png""/></p>",9.66 W,30.11 W,31.66 W,33.66 W,,C," <p>The max. power dissipated by both output transistor is max. P<sub>2</sub> = <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-793-29-1.png""/> = 31.66 W.</p> "
+<p>The maximum percent overshoot with maximum value of first overshoot as 3.5 V and steady state value as 2.575 V is</p>,35.92%,26.43%,57.61%,15.24%,,A," <p>From the transient response characteristics, Maximum percentage overshoot (MPO) is given as</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-04-01.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-04-1-1.png""/></p>
+<p>MPO decides the relative stability of the system.</p> "
+"<p>Find <i>V</i><sub><i>o</i></sub>(<i>t</i>) for the following circuit.<br/>Data: L = 1 H, C = 1 F, R<sub>1</sub> = R<sub>2</sub> = 1 Ω and zero initial conditions.<br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/3-04-48.png""/></p>",0 V,5 V,3 V,2 V,,A," <p>E(<i>s</i>) = L[<i>e</i>(<i>t</i>)] = L[5 sin 3<i>t</i>]</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/3-10-48.png""/></p>
+<p>Let V<sub>1</sub>(<i>s</i>) = Voltage across L</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/3-10-48-1.png""/> and </p>
+<p>V<sub>2</sub>(<i>s</i>) = Voltage across R<sub>2</sub></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/3-10-48-2.png""/></p>
+<p>V(<i>s</i>) = V<sub>1</sub>(<i>s</i>) - V<sub>2</sub>(<i>s</i>)</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/3-10-48-3.png""/></p> "
+<p>An XOR gate with 8 variable is as follows:<br/> A ⊕ B ⊕ C ⊕ D ⊕ E ⊕ F ⊕ G ⊕ H<br/>The number of minterms in the Boolean expression is</p>,255,127,128,256,,C," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/14-06-40.png""/>.</p> "
+"<p>The figure shown below is designed to act as a constant current source across the load resistor. The β of transistor is 50. What is the value of load current?<br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/15-04-33.png""/></p>",1.96 mA,2 mA,2.04 mA,None,,A," <p>Voltage at base = 12 - 5 = 7 v</p>
+<p>Voltage at emitter = 7 + 0.7 = 7.7 v</p>
+<p>Current through R<sub>1</sub> = 2 mA</p>
+<p>Thus current through load = <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/15-05-33.png""/> = 1.96 mA.</p> "
+"<p>For a given magnetic material operating in linear mode B = 0.06 T. Assume permeability = 51, then magnetization is:</p>",44836 A/m,46834 A/m,946 A/m,936 A/m,,B," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/1-751-64-1.png""/>
+</p>
+<p>μ = λ<sub><i>m</i></sub>H, 
+</p>
+<p>λ<sub><i>m</i></sub> = (μ - 1) = 51 - 1 = 50 
+</p>
+<p>μ = 50 x H <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/1-1-sym-imp.gif""/> 46834.</p> "
+"<p>The circuit is shown in figure. <br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/1-744-27-1.png""/> <br/>The current transfer ratio <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/1-744-27-2.png""/>, is</p>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/1-744-27-3.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/1-744-27-4.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/1-744-27-5.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/1-744-27-6.png""/>",,B," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/1-751-27-1.png""/> .</p> "
+"<p>Let <i>f</i>(A, B) = A ⊕ B; then the simplified form of the function <i>f</i>(<i>f</i>(<i>x</i> ⊕ <i>y</i>, <i>z</i>)<i>w</i>) is</p>",(<i>x</i> ⊕ <i>y</i> ⊕ <i>z</i>)<i>w</i>,<i>x</i> ⊕ <i>y</i> ⊕ <i>z</i> ⊕ <i>w</i>,(<i>x</i> ⊕ <i>y</i> ⊕ <i>z</i>) + <i>w</i>,none of these,,D," <p><i>f</i>(A, B) = A ⊕ B</p>
+<p><i>f</i>(<i>x</i> ⊕ <i>y</i>, <i>z</i>) = (<i>x</i> ⊕ <i>y</i> ⊕ <i>z</i>) = M</p>
+<p>But <i>f</i>(MW) is undefined.</p> "
+<p>A system has 12 poles or 2 zeros. Its high frequency asymptote in its magnitude plot has slope of</p>,-200 dB/decade,-240 dB/decade,-280 dB/decade,-320 dB/decade,,A, <p>High frequency asymptotes = - 20(12) + 2(20) = - 200 dB/DECADE.</p> 
+<p>(1 2 1)<sub>x</sub> = (1 0 0)<sub>4</sub> Then <i>x</i> is equal to</p>,2,3,5,does not exist,,B," <p><i>x</i><sup>2</sup> = 2<i>x</i> + 1 = 16
+</p>
+<p><i>x</i><sup>2</sup> + 2<i>x</i> - 15 = 0, (<i>x</i> - 3)(<i>x</i> + 5) = 0, <i>x</i> = 3, - 5 
+</p>
+<p>Thus <i>x</i> = 3.</p> "
+"<p>For the network shown below, the Thevenin voltage and R<sub><i>TH</i></sub> is equal to __________ <br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-03-31.png""/></p>","0 V, 58.82 Ω","0 V, 96.774 Ω","0 V, 3 KΩ",None of these,,A," <p>Since there is no independent source in the network; V<sub>TH</sub> = 0. To find R<sub>TH</sub> apply 1 A current source across A and B.</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-08-31.png""/></p>
+<p>Apply KCL at node V<sub><i>x</i></sub></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-08-31-1.png""/></p>
+<p>as <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-08-31-2.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-08-31-3.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-08-31-4.png""/></p>
+<p>Solving V<sub><i>x</i></sub> = 58.82 V</p>
+<p><b>∴</b> <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-08-31-5.png""/>.</p> "
+"<p>Impedance function for the network shown below is: <br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/1-743-7-1.png""/></p>",(3<i>s</i> + 1),"<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/1-743-7-2.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/1-743-7-3.png""/>",2<i>s</i> + 3,,C," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/1-750-7-1.png""/>
+</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/1-750-7-2.png""/></p> "
+"<p>The function <i>f</i> = A ⊕ B ⊕ <span style=""text-decoration:overline;""> A</span> ⊕ D ⊕ E ⊕ C ⊕ <span style=""text-decoration:overline;"">D</span> ⊕ E ⊕ F ⊕ G ⊕ F ⊕ G ⊕ C ⊕ E ⊕ A ⊕ D ⊕ <span style=""text-decoration:overline;"">B</span> ⊕ E ⊕ <span style=""text-decoration:overline;"">E</span> ⊕ <span style=""text-decoration:overline;"">B</span> ⊕ B ⊕ <span style=""text-decoration:overline;"">B</span> ⊕ B ⊕ D can be written as</p>","A ⊕ B ⊕ <span style=""text-decoration:overline;"">D</span>","<span style=""text-decoration:overline;"">A</span> ⊕ B ⊕ E","A ⊕ <span style=""text-decoration:overline;"">E</span>","<span style=""text-decoration:overline;"">A</span> ⊕ <span style=""text-decoration:overline;"">E</span>",,D," <p>A <span style=""text-decoration:overline;"">A</span> B <span style=""text-decoration:overline;"">B</span> C D <span style=""text-decoration:overline;"">D</span> E <span style=""text-decoration:overline;"">E</span> F G </p>
+<p>2 1 3 3 2 3 1 4 1 2 2 </p>
+<p>0 <span style=""text-decoration:overline;"">A</span> B <span style=""text-decoration:overline;"">B </span> 0 D <span style=""text-decoration:overline;"">D</span> 0 <span style=""text-decoration:overline;"">E</span> 0 0 </p>
+<p><i>f</i> = <span style=""text-decoration:overline;"">A</span> ⊕ B ⊕ <span style=""text-decoration:overline;"">B</span> ⊕ D ⊕ <span style=""text-decoration:overline;"">D</span> ⊕ <span style=""text-decoration:overline;"">E</span> </p>
+<p>= <span style=""text-decoration:overline;"">A</span> ⊕ 1 ⊕ 1 ⊕ <span style=""text-decoration:overline;"">E</span> </p>
+<p>= <span style=""text-decoration:overline;"">A</span> ⊕ 0 ⊕ <span style=""text-decoration:overline;"">E</span> = <span style=""text-decoration:overline;"">A</span> ⊕ <span style=""text-decoration:overline;"">E</span>.</p> "
+<p>Which of the following functions would have only odd powers of <i>x</i> in its Taylor series expansion about the point <i>x</i> = 0?</p>,sin (<i>x</i><sup>3</sup>),sin (<i>x</i><sup>2</sup>),cos (<i>x</i><sup>3</sup>),cos (<i>x</i><sup>2</sup>),,A," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/5-10-5.png""/></p>
+<p>Thus sin(<i>x</i><sup>3</sup>) will have odd powers</p>
+<p>Sin (<i>x</i><sup>2</sup>) will have even powers</p>
+<p>Cos (<i>x</i><sup>3</sup>) will have even powers</p>
+<p>Cos (<i>x</i><sup>2</sup>) will have even powers.</p> "
+"<p>Find the maximum power that can be delivered to a load<br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-785-11-1.png""/></p>",0.025 W,2.5 W,2.5 W,0.25 W,,D," <p>P<sub>L</sub> = I<sup>2</sup>R = <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-792-11-1.png""/>x R •••(i)</p>
+<p>where <i>z</i><sub>S</sub> = 100 + <i>j</i>50</p>
+<p><i>z</i><sub>L</sub> = 100 - <i>j</i>50</p>
+<p>Putting the values in eq. (i)</p>
+<p>P<sub>L</sub> =<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-792-11-2.png""/>X l00 = 0.25 watts.</p> "
+"<p>For a integrator circuit, R<i><sub>i</sub></i> = 100 KΩ, C<sub>F</sub> = 10 μF. The input is a step <i>dc</i> voltage as shown below. Its output will be <br/> <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-760-82-1.png""/></p>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-760-82-2.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-760-82-3.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-760-82-4.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-760-82-5.png""/>",,B," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-768-82-1.png""/></p> "
+<p>The distance between target and radar is reduced to half. Power received increases by</p>,1/16,1/4,4 times,16 times,,D," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/12-04-20.png""/>.</p> "
+<p>The Causal system given below is __________ <br/> <i>H</i>(<i>z</i>) = 6 + <i>z</i><sup>-1</sup> - <i>z</i><sup>-2</sup></p>,maximum phase,minimum phase,mixed phase,none of these,,B," <p>Minimum phase</p>
+<p><i>H(z)</i> = 6 + <i>z</i><sup>-1</sup> - <i>z</i><sup>-1</sup></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-04-2.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-04-2-1.png""/></p>
+<p>6<i>z</i><sup>2</sup> + <i>z</i> - 1 = 0</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-04-2-2.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-04-2-3.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-04-2-4.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-04-2-5.png""/></p>
+<p><b>∴</b> We have zeros at <i>z</i> = 1/3 and <i>z</i> = - 1/2</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-04-2-6.png""/></p>
+<p><b>∴</b> All the zeroes lies inside the unit circle, it is a min. phase system.</p> "
+"<p>Given potential <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/3-06-73.png""/>sin Θ cos Φ, find flux density D at (2, 2<span class=""symbol"">p</span>, 0)</p>",22.12 pC/m<sup>2</sup>,2.212 pC/m<sup>2</sup>,22.12 nC/m<sup>2</sup>,2.212 nC/m<sup>2</sup>,,A," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/3-13-73.png""/></p>
+<p> Now E = -∇V</p>
+<p> E = ∇V</p>
+<p> <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/3-13-73-1.png""/></p>
+<p> At <i>r</i> = 2, θ = <span class=""symbol"">p</span>/2; Φ = 0 we have</p>
+<p> <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/3-13-73-2.png""/></p>
+<p> <b>∴</b> D = 22.12 PC/m<sup>2</sup>.</p> "
+"<p>The following circuit is implementation of <ol style=""list-style-type: decimal; padding-bottom:10px;""><li style=""padding-top:10px;"">Sum of full adder</li><li style=""padding-top:10px;"">Carry of half adder</li><li style=""padding-top:10px;"">Difference of full subtractor</li></ol><br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/14-01-11.png""/></p>",(i) only,(iii) only,(ii) only,(i) and (ii),,D," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/14-05-11.png""/></p>
+<p>Now it is evident from the truth tables that sum and differennce are same.</p> "
+"<p>The Thevenin impedance Z<sub>th</sub> between the nodes P and Q in the following circuit is<br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/5-02-21.png""/></p>",1,"<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/5-02-21-2.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/5-02-21-3.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/5-02-21-4.png""/>",,A," <p>For finding Thevenin equivalent</p>
+<p>Short voltage source</p>
+<p>Open circuit source</p>
+<p>Now Thevenin equivalent</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/5-11-21.png""/>.</p> "
+"<p>If the memory chip size is 256 x 1 bits, then the number of chips required to make up 1 kB (1024) bytes of memory is</p>",32,24,12,8,,A," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/14-06-43.png""/>.</p> "
+"<p>A coil has a designed for high Q performance at a rated voltage and a specified frequency. If the frequency of operation is doubled, and the coil is operated at the same rated voltage, then the Q factor and the active power P consumed by the coil will be affected as follows.</p>","P is doubled, Q is halved","P is halved, Q is doubled","P remains constant, Q is doubled","P decreases 4 times, Q is doubled",,D," <p>ω<sub>2</sub>L = 2ω<sub>1</sub>L, R remains constant </p>
+<p><b>∴</b> Q<sub>2</sub> = <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-761-19-1.png""/> = 2Q<sub>1</sub> i.e. Q is doubled </p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-761-19-2.png""/> </p>
+<p>for a high a coil ωL &gt;&gt; R </p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-761-19-3.png""/> </p>
+<p><b>∴</b> <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-761-19-4.png""/> </p>
+<p>i.e. P decreases 4 times.</p> "
+"<p>The number of variables in a function is odd and the number of minterms with even number of 0's are same as the number of minterms with odd number at 1 's, the expression formed can be represented in __________ as well as __________ form.</p>","exclusive - OR, NOR","equivalence, exclusive - OR","AND, coincidence","OR, exclusive - OR",,B," <p>With odd number of variables (<i>n</i>) terms with even number of 0'<i>s</i> and terms with odd number of 1 '<i>s</i> are the same. </p>
+<p>Thus the <i>k</i>-map for the above condition with minterms represented by terms with even number of 0'<i>s</i> is </p>
+<p>for n = 3 <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-761-4-1.png""/> </p>
+<p><b>∴</b> The expression can be represented by equivalence (EX NOR) or (EX OR) expressions.</p> "
+"<p>Find the number of loop equation and number of possible trees for the given graph.<br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-758-69-1.png""/></p>","7, 2097152","7, 262144",7.5764801,"6, 823543",,B," <p>In any graph, Number of loop equations L = B - N + 1 </p>
+<p>where B = Number of branches, N = Number of nodes.</p>
+<p>Given B = 14, N = 8 </p>
+<p><b>∴</b> L = B - N + 1 = 7 </p>
+<p>The total number of trees possible </p>
+<p>T = N<sup>N - 2</sup> = 8<sup>8 - 2</sup> = 262144.</p> "
+"<p>The number of open right half plane poles of <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/5-05-41.png""/> is</p>",0,1,2,3,,C, <p>Use Routh criteria.</p> 
+"<p>The common emitter model is shown below: <br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/1-745-32-1.png""/> <br/>The h-parameter of this model are:</p>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/1-745-32-2.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/1-745-32-3.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/1-745-32-4.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/1-745-32-5.png""/>",,A," <p>h parameter <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/1-751-32-1.png""/>
+</p>
+<p>V<sub>1</sub> = (3 + 5)I<sub>1</sub> + V<sub>2</sub>
+</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/1-751-32-2.png""/>.</p> "
+"<p>In the following limiter circuit, an input voltage V<sub>1</sub> = 10 sin 100<span class=""symbol"">p</span><i>t</i> applied. Assume that the diode drop is 0.7 V when it is forward biased. The zener breakdown voltage is 6.8 V<br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/5-02-17.png""/><br/>The maximum and minimum values of the output voltage respectively are</p>","6.1 V, -0.7 V","0.7 V, -7.5 V","7.5 V, -0.7 V","7.5 V, -7.5 V",,C," <p>During +ve part of V<i><sub>i</sub></i></p>
+<p>D<sub>1</sub> will be forward biased</p>
+<p>Zener diode is reverse biased</p>
+<p>Thus net voltage = 6.8 + 0.7 = 4.5 V</p>
+<p>During -ve part of V<sub><i>i</i></sub></p>
+<p>D<sub>2</sub> will be forward biased</p>
+<p>D<sub>1</sub> will be reversed biased</p>
+<p>Thus net voltage = -0.7 V .</p> "
+"<p>Four signals<br/><i>m</i><sub>1</sub> = cos (ω<sub>0</sub><i>t</i>), <i>m</i><sub>2</sub>(<i>t</i>) = <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/11-02-17.png""/>cos (ω<sub>0</sub><i>t</i>), <i>m</i><sub>3</sub><i>(t)</i> = 2 cos (ω<sub>0</sub><i>t</i>) and <i>m</i><sub>4</sub><i>(t)</i> = cos (4 ω<sub>0</sub><i>t</i>) are multiplexed by Time Division Multiplexing system. The commutator speed in rps is</p>",2<i>f</i><sub>0</sub>,3<i>f</i><sub>0</sub>,4<i>f</i><sub>0</sub>,8<i>f</i><sub>0</sub>,,D," <p>Apply Nyquist criteria.</p>
+<p>Maximum angular speed is 4ω<sub>0</sub></p>
+<p>Thus commutator speed must be 2 x 4ω<sub>2</sub> = 8ω<sub>0</sub> .</p> "
+"<p>The feedback control system shown in figure is stable for what values of K and T? <br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/1-748-70-1.png""/></p>","K &lt; 0, T &gt; - 1","K &gt; 0, T &gt; 0","K &gt; 0, T &gt; - 1","K &lt; 0, T &gt; 0",,C, <p>Apply Routh Hurwitz criteria.</p> 
+"<p>Find <i>z</i> parameters for the following network<br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-05-42.png""/></p>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-05-42-1.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-05-42-2.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-05-42-3.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-05-42-4.png""/>",,A," <p>Use Mesh analysis</p>
+<p><i>z</i> parameters are given by, </p>
+<p>V<sub>1</sub> = Z<sub>11</sub>I<sub>1</sub> + Z<sub>12</sub>I<sub>2</sub> ...(a)</p>
+<p>V<sub>2</sub> = Z<sub>21</sub>I<sub>1</sub> + Z<sub>22</sub>I<sub>2</sub> ...(b)</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-10-42.png""/></p>
+<p>Apply KVL to mesh 1</p>
+<p>V<sub>1</sub> = 3I<sub>1</sub> - 2I<sub>3</sub> ...(i)</p>
+<p>Apply KVL to mesh 2</p>
+<p>V<sub>2</sub> = 2I<sub>2</sub> + 2I<sub>3</sub> ...(ii)</p>
+<p>Apply KVL to mesh 3</p>
+<p>5I<sub>3</sub> + 2<i>I</i><sub>2</sub> -2<i>I</i><sub>1</sub> =0 ...(iii)</p>
+<p>5I<sub>3</sub> = 2I<sub>1</sub> - 2I<sub>2</sub></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-11-42.png""/></p>
+<p>Put I<sub>3</sub> in eq. (i)</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-11-42-1.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-11-42-2.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-11-42-3.png""/> ...(iv)</p>
+<p>Put in (ii)</p>
+<p>Similarly, <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-11-42-4.png""/> ...(v)</p>
+<p>Compare equation (iv) to (a) and equation (v) to (b)</p>
+<p><b>∴</b> <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-11-42-5.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-11-42-6.png""/>.</p> "
+"<p>Find the value of <i>i<sub>x</sub></i> if each resistance is of 3 Ω and each battery is of 6 V.<br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-03-28.png""/></p>",1.1428 V,1.432 A,0.2892 A,O A,,C," <p>Using Mesh analysis</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-08-28.png""/></p>
+<p>Loop 1 : 6 = 9<i>i</i><sub>1</sub> - 3<i>i</i><sub>4</sub> ...(i)</p>
+<p>Loop 2: 6 + 6 = - 6<i>i</i><sub>2</sub></p>
+<p><i>i</i><sub>2</sub> = - 2<i>A</i> ...(ii)</p>
+<p>Loop 3: 6 = 9<i>i</i><sub>3</sub> - 3<i>i</i><sub>4</sub> ...(iii)</p>
+<p>Loop 4: 6 = 9<i>i</i><sub>4</sub> - 3<i>i</i><sub>3</sub> - 3<i>i</i><sub>1</sub> ...(iv)</p>
+<p>Solving the above equations simultaneously</p>
+<p><i>i</i><sub>1</sub> = <i>i</i><sub>3</sub> = 1.1428 A</p>
+<p><i>i</i><sub>4</sub> = 1.432 A</p>
+<p><b>∴</b> <i>i</i><sub><i>x</i></sub> = <i>i</i><sub>4</sub> - <i>i</i><sub>3</sub> = 0.2892 A.</p> "
+<p>An image uses 512 x 512 picture elements. Each of the picture elements can take any of the 8 distinguishable intensity levels. The maximum entropy in the above image will be</p>,2097152 bits,786432 bits,648 bits,144 bits,,B," <p>Picture elements (pixel) = 512 x 512 = 262144</p>
+<p>Information per picture element N = <i>log</i><sub>2</sub> M </p>
+<p>M = 2<sup>N</sup> </p>
+<p>8 = 2<sup>N</sup> </p>
+<p>N = 3 </p>
+<p>Information for 262144 pixels = 262144 x 3 = 786432 bits </p>
+<p>Entropy is same as average information per message.</p> "
+"<p>Find R<sub>TH</sub><br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-04-32.png""/></p>",200 Ω,0 Ω,400 Ω,None of these,,C," <p>Since there is no independent source in the network</p>
+<p>V<sub>TH</sub> = O V</p>
+<p>To find R<sub>Th</sub> apply : A current source of 1 A across A and B.</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-08-32.png""/></p>
+<p>Apply KCL at node <i>n</i><sub>1</sub></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-08-32-1.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-08-32-2.png""/></p>
+<p>Apply KCL at node V<i>n</i><sub>2</sub></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-08-32-3.png""/></p>
+<p>V<i>n</i><sub>1</sub> = 2V<sub><i>x</i></sub> put in (i)</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-08-32-4.png""/></p>
+<p><b>∴</b> V<i>n</i><sub>2</sub> = 4<i>v<sub>x</sub></i></p>
+<p>put in (ii)</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-09-32.png""/></p>
+<p>100 + V<sub><i>x</i></sub> = 2V<sub><i>x</i></sub></p>
+<p>100 = V<sub><i>x</i></sub></p>
+<p><b>∴</b> V<i>n</i><sub>2</sub> = 4V<sub><i>x</i></sub> = 400 V</p>
+<p><b>∴</b> <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-09-32-1.png""/>.</p> "
+"<p>If <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-01-3.png""/> then for this to be true <i>x</i>(<i>t</i>) is __________ .</p>","exp (<i>j</i>2<span class=""symbol"">p</span><i>f</i>/<i>t</i>)","exp (-<i>j</i>2<span class=""symbol"">p</span><i>f/t</i>)","exp (<i>j</i>2<span class=""symbol"">p</span><i>ft</i>)","exp (-<i>j</i>2<span class=""symbol"">p</span><i>ft</i>)",,C," <p>Consider <i>x(t)</i> = <i>e<sup>j2<span class=""symbol"">p</span>ft</sup></i></p>
+<p><i>y(t)</i> = <i>h(t)</i> * <i>x</i> <i>(t)</i></p>
+<p>⇒ <i>y(t)</i> = <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-04-3.png""/><i>h(<span class=""symbol"">t</span>). e<sup>j2<span class=""symbol"">p</span>f(t - <span class=""symbol"">t</span>)</sup> . d<span class=""symbol"">t</span></i></p>
+<p>= <i>e<sup>i2<span class=""symbol"">p</span>ft</sup></i><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-04-3.png""/><i>h(<span class=""symbol"">t</span>)</i> . <i>e<sup>- j2<span class=""symbol"">p</span>f<span class=""symbol"">t</span></sup></i> . <i>d<span class=""symbol"">t</span></i></p>
+<p>= <i>e<sup>j2<span class=""symbol"">p</span>ft</sup></i> x H(<i>f</i>) = <i>x(t)</i> x H(<i>f</i>)</p>
+<p>⇒ <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-04-3-1.png""/>.</p> "
+"<p>The dual transform of the given network as<br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/3-07-88.png""/></p>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/3-07-88-1.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/3-07-88-2.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/3-07-88-3.png""/>",none of the above,,C," <p>Dual of R → G</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/3-15-88.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/3-15-88-1.png""/></p> "
+"<p>A λ/4 long high frequency transmission line is terminated into one impedance Z<sub>R</sub>. If Z<sub>0</sub> be the characteristic impedance of the line, then input impedance Z<sub>in</sub> is</p>","<span class=""root"">Z<sub>o</sub>Z<sub><i>R</i></sub></span>",Z<sup>2</sup><sub><i>R</i></sub>/Z<sub>o</sub>,Z<sup>2</sup><sub>0</sub>/Z<sub><i><i>R</i></i></sub>,Infinity,,C," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/12-04-19.png""/>, here <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/12-04-19-1.png""/> and <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/12-04-19-2.png""/></p>
+<p><b>∴</b> <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/12-04-19-3.png""/> [Here Z<sub>L</sub> = Z<sub>R</sub>].</p> "
+"<p>Find the power absorbed or delivered by each source:<br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-791-86-1.png""/></p>",<i>a</i> = -32 <i>b</i> = - 12 <i>c</i> = -80 <i>d</i> = -60,<i>a</i> = -32 <i>b</i> = - 12 <i>c</i> = 80 <i>d</i> = 60,<i>a</i> = 32 <i>b</i> = 12 <i>c</i> = -80 <i>d</i> = 60,<i>a</i> = -32 <i>b</i> = 12 <i>c</i> = 80 <i>d</i> = -60,,D," <p><i>Source a</i> : Power : 8 x (4) = - 32 W. Source A has delivered the power as it is. - <i>ve</i>. </p>
+<p><i>Source b:</i> Source B has absorbed power of + 12 W as power is positive </p>
+<p><i>Source c:</i> Source C has absorbed power of 5 x 16 = 80 W </p>
+<p><i>Source d</i>: Delivers power of 3 x <i>i<sub>x</sub></i> x (5) = 3 x 4 x (- 5) = -60 W </p>
+<p>Total power of the network is - 32 + 12 + 80 - 60 = 0 <i>Watts</i>.</p> "
+"<p>The function shown in figure, can represent a probability density function for A __________ <br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-790-63-1.png""/></p>",A = 1/4,A = 1/6,A = 1/9,A = 1/2,,C," <p>The condition for the probability density function <i>d(x)</i> is<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-796-63-1.png""/>and is always non negative or the area under the curve <i>f(x)</i>is unity. </p>
+<p>=&gt; A x 6 +<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-789-61-1.png""/>x 2 x 3A = 1 </p>
+<p>or 9A = 1 or A =<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-796-63-2.png""/>.</p> "
+"<p>If the transfer function of the following network is <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/6-02-17.png""/><br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/6-02-17-1.png""/><br/>The value of the load resistance R<sub>L</sub> is</p>",R/4,R/2,R,2R,,C," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/6-07-17.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/6-07-17-1.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/6-07-17-2.png""/>.</p> "
+"<p>A bipolar differential amplifier uses a transistor having β<sub>0</sub> = 200, I<sub>CQ</sub> = 100 <i>m</i>A, |A<sub><i>dm</i></sub>| = 500 and CMRR = 80 dB. The value of R<sub>c</sub> and R<sub>E</sub> will be respectively __________ .</p>","1.25 <i>k</i>Ω, 1.25 MΩ","125 <i>k</i>Ω, 1.25 MΩ","1.25 MΩ, 1.25 <i>k</i>Ω","3.25 <i>k</i>Ω, 3.25 MΩ",,A," <p>80 = 20 log CMRR </p>
+<p><b>∴</b> CMRR = 10000 </p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-796-66-1.png""/> </p>
+<p>But CMRR = 2<i>g<sub>m</sub></i>R<sub>E</sub> </p>
+<p><b>∴</b> <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-796-66-2.png""/>= 1.25 MΩ </p>
+<p>A<sub><i>dm</i></sub> = - <i>g<sub>m</sub></i>R<sub>C</sub> </p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-796-66-3.png""/> = 1.25 KΩ.</p> "
+"<p>System is at rest for <i>t</i> &lt; 0. V<i><sub>s</sub></i> = sin 2<i>t</i>. Determine <i>v</i>(<i>t</i>) for <i>t</i> greater than zero. <br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/3-04-42.png""/></p>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/3-04-42-1.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/3-04-42-2.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/3-04-42-3.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/3-04-42-4.png""/>",,D," <p>KCL at node V</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/3-10-42.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/3-10-42-1.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/3-10-42-2.png""/></p>
+<p><b>∴</b> Natural response from <i>s</i> + 2, is <i>A</i><i>e</i><sup>-2<i>t</i></sup></p>
+<p>For V<sub>s</sub> = sin 2<i>t</i>, <i>s</i> = 2<i>j</i></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/3-10-42-3.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/3-10-42-4.png""/></p>
+<p>Steady state response <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/3-10-42-5.png""/></p>
+<p>Since the system is at rest for <i>t</i> &lt; 0</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/3-10-42-6.png""/></p>
+<p>Now substituting <i>t</i> = 0, we get <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/3-10-42-7.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/3-10-42-8.png""/></p> "
+<p>A 300 MHz plane EM wave is propagating in free space. The wave is incident normally on an infinite copper slap. The antenuation constant for the wave is (σ<sub>copper</sub> = 5.8 x 10<sup>7</sup> mho/ m). The skin depth is</p>,0.005 x 10<sup>-3</sup> m,0.0038 x 10<sup>-3</sup>m,0.0028 x 10<sup>-3</sup> m,0.0024 x 10<sup>-3</sup> m,,B," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/12-04-29.png""/>.</p> "
+"<p>Following figure represents<br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/14-02-15.png""/></p>",AND,OR,NAND,NOT,,C," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/14-05-15.png""/></p>
+<p>The output C is low only when A and B are both 1.</p> "
+"<p>For parallel RLC circuit, which one of the following statements is NOT correct?</p>",The bandwidth of the circuit deceases if R is increased,The bandwidth of the circuit remains same if L is increased,"At resonance, input impedance is a real quantity","At resonance, the magnitude of input impedance attains its minimum value",,D," <p>Bandwidth = <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/7-07-5.png""/> </p>
+<p>Thus it is maximum at resonance.</p> "
+"<p>The practical resonant circuit is shown in above figure. Find the expression for the resonant frequency ω<sub><i>o</i></sub><br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-04-33.png""/></p>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-04-33-1.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-04-33-2.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-04-33-3.png""/>",None of these,,B," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-09-33.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-09-33-1.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-09-33-2.png""/></p>
+<p>Rationalising, </p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-09-33-3.png""/></p>
+<p>Equating imaginary parts of numerator to 0, </p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-09-33-4.png""/>.</p> "

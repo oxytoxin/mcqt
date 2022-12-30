@@ -1,0 +1,50 @@
+﻿question,choices,answer
+"For a given plate voltage, if negative potential on the control grid of triode is increased, the plate current","[""decreases"",""remains the same"",""increases"",""becomes zero""]",0
+"A vacuum diode can be used as","[""an amplifier"",""an oscillator"",""a rectifier"",""a regulator""]",2
+"Which generates the least noise in operation?","[""Triode valve"",""Tetrode valve"",""Pentode valve"",""Octode valve""]",0
+"A vacuum tube will conduct only if its plate is ______________ with respect to the cathode.","[""positive"",""negative"",""at zero potential"",""at infinite potential""]",0
+"Saturation in a tube is a condition where an increase in plate voltage will produce","[""a rise in electron emission"",""a decrease in electron emission"",""no appreciable change in plate current"",""an appreciable change in plate current""]",2
+"A vacuum diode can be used as","[""an amplifier"",""an oscillator"",""a rectifier"",""a regulator""]",2
+"Which tube generates the greatest noise?","[""Triode"",""Tetrode"",""Pentode"",""Diode""]",2
+"Before ionisation, a gas- filled tube has a _____________ resistance.","[""very high"",""very small"",""small"",""zero""]",0
+"The negative resistance characteristics of the tetrode is due to","[""secondary emission"",""plate being positive with respect to cathode"",""control grid being negative with respect to cathode"",""screen grid being negative with respect to cathode""]",0
+"What emitter is used in X-ray tubes?","[""Thoriated tungsten"",""Oxide-coated"",""Tungsten"",""Nickel""]",2
+"When the temperature of an emitter is increased two times, the electron emission","[""increases two times"",""increases four times"",""increases several million times"",""decreases two times""]",2
+"What is the typical life span of an oxide coated emitter?","[""500 hours"",""200 hours"",""1000 hours"",""10000 hours""]",3
+"The cathode heating time of thermionic glass diode is ___________ that of a vacuum diode.","[""the same as"",""much less than"",""much more than"",""not related to""]",2
+"What is the solid state equivalent of thyratron?","[""FET"",""SCR"",""BJT"",""UJT""]",1
+"The grid to palate capacitance is least in _________ valve","[""triode"",""tetrode"",""pentode"",""diode""]",2
+"The peak inverse voltage of a diode is defined as the maximum allowable","[""negative voltage across the load resistor"",""negative voltage applied to plate with respect to cathode"",""positive voltage to plate with respect to cathode"",""positive voltage applied across the load resistor""]",1
+"The equation that defines the dc plate resistance of a vacuum tube.","[""Eb\/Ib"",""Ib2 x Eb"",""Ib x Eb"",""Ib\/Eb""]",0
+"The voltage on the suppressor grid of a pentode is generally","[""positive with respect to cathode"",""positive with respect to cathode"",""zero with respect to cathode"",""at zero potential""]",2
+"Which of the following defines the amplification factor of a vacuum tube?","[""\u2206Eb\/\u2206Ec"",""\u2206Ib\/\u2206Eb"",""\u2206Ec\/\u2206Eb"",""\u2206Eb\/\u2206Ic""]",0
+"Which is the best tube for high frequency amplification?","[""Triode valve"",""Tetrode valve"",""Pentode valve"",""Diode valve""]",2
+"A triode is normally operated with control grid at ___________ potential with respect to cathode.","[""positive"",""high positive"",""zero"",""negative""]",3
+"Once a thyratron is fired, its control grid ____________ over palate current.","[""loses all control"",""exercises rough control"",""exercises fine control"",""becomes helpless""]",0
+"The ____________ voltage should be reduced to zero to stop conduction in a thyratron.","[""grid"",""filament"",""plate"",""heater""]",2
+"What is the typical value of ac plate resistance for a triode?","[""1000 \u2126"",""100 k\u2126"",""1000 k\u2126"",""10 \u2126""]",0
+"Direct coupling is used for ___________ amplification.","[""very low frequency"",""radio-frequency"",""audio-frequency"",""ultra high frequency""]",0
+"A vacuum diode acts as a rectifier because of its ___________ conduction.","[""unidirectional"",""bidirectional"",""isotropic"",""omnidirectional""]",0
+"Directly heated cathode require ___________ amount of heating","[""very small"",""large"",""small"",""very large""]",2
+"A hard tube is defined as a tube with","[""a tungsten filament"",""a gas in the envelope"",""a metal envelope"",""no gas in the envelope""]",3
+"What operation results in severest distortion?","[""Class C"",""Class B"",""Class A"",""Class AB""]",0
+"What is the typical plate efficiency of Class A amplifier?","[""50 %"",""75 %"",""30 %"",""10 %""]",2
+"For the sample plate dissipation, the output power of a Class B push-pull circuit is nearly ___________ that of Class A operation.","[""2 times"",""4 times"",""3 times"",""5 times""]",3
+"The screen grid potential is kept ____________ plate potential","[""somewhat lower than"",""same as"",""somewhere higher than"",""at zero potential with respect to""]",0
+"The output stage of a practical amplifier always employs what coupling?","[""RC coupling"",""Transformer coupling"",""Direct coupling"",""Impedance coupling""]",1
+"The plate resistance of a tube is mainly due to","[""space charge"",""electrodes of the tube"",""vacuum in the tube"",""gas in the tube""]",0
+"A vacuum tube is a ____________ device.","[""linear"",""exponential"",""non-linear"",""bilateral""]",2
+"What is the unit of transconductance?","[""Ohm"",""Siemen\/m"",""Volt"",""Siemen""]",3
+"Which provides the best frequency response?","[""Transformer coupling"",""RC coupling"",""Direct coupling"",""Impedance coupling""]",2
+"Voltage amplifiers are operated as __________ amplifiers.","[""Class A"",""Class B"",""Class C"",""Class AB""]",0
+"The PIV of hot cathode gas diode is ___________ the equivalent vacuum diode.","[""the same as that of"",""less than"",""more than"",""independent that of""]",1
+"The anode-cathode potential of a gas-filled tube at which gas de-ionizes and stops conduction is called __________ potential.","[""extinction"",""ionizing"",""striking"",""reverse""]",0
+"For the same plate voltage, a gas diode can conduct ____________ the equivalent vacuum diode.","[""less current than"",""same current as"",""more current than"",""one-half the current than""]",2
+"A thyratron can be used as","[""an oscillator"",""a controlled switch"",""an amplifier"",""an attenuator""]",1
+"A pentode is a __________ device.","[""constant current"",""linear"",""constant voltage"",""bilateral""]",0
+"The actual voltage gain of a triode amplifier is less than µ due to","[""grid being negative with respect to cathode"",""voltage drop in ac resistance of the tube"",""plate being positive with respect to cathode"",""voltage drop in dc resistance of the tube""]",1
+"For faithful amplification, the control grid should be __________ with respect to cathode.","[""positive"",""negative"",""at zero potential"",""at infinite potential""]",1
+"Which valve has the lowest amplification factor?","[""Triode"",""Pentode"",""Tetrode"",""Diode""]",0
+"Which of the following would have the most effect on decreasing the life of a vacuum tube?","[""Too much of a grid excitation"",""An excessive filament voltage"",""A grid current that is too low"",""A plate resistance value that is too high""]",1
+"Valves in a radio receiver generally employ _________ heated cathodes.","[""directly"",""indirectly"",""oxide"",""nickel""]",1
+"A vacuum diode acts as a ____________ switch.","[""bidirectional"",""unidirectional"",""controlled"",""omnidirectional""]",1

@@ -1,0 +1,8 @@
+question,A,B,C,D,E,answer,explanation
+<p>Digitizing a signal converts it from digital to analog.</p>,True,False,,,,B,
+<p>The voltages in digital electronics are continuously variable.</p>,True,False,,,,A,
+"<p>In digital electronic circuits, information is first converted to a coded group of pulses.</p>",True,False,,,,A,
+<p>Digital systems using the 10-state system are more accurate  than those using the two-state system.</p>,True,False,,,,B,
+<p>The decimal code system used ten levels of voltage.</p>,True,False,,,,A,
+<p>Most of the input signals applied to a computer for storage or processing are digital in nature.</p>,True,False,,,,B,
+<p>The coded group of pulses in a digital electronic circuit consists of a series of HIGH and LOW voltages.</p>,True,False,,,,A,

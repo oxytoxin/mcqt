@@ -1,0 +1,11 @@
+question,A,B,C,D,E,answer,explanation
+<p>The stack is a data storage area in RAM used by certain microprocessor operations.</p>,True,False,,,,A,
+"<p>A microprocessor with the necessary support circuits will include at least two memory ICs: ROM or EPROM, and a RAM.</p>",True,False,,,,A,
+<p>I/O-mapped systems identify their input and output devices by giving them an 8-bit port number.</p>,True,False,,,,A,
+"<p>A microcontroller integrates multichip systems with RAM, ROM, and I/O.</p>",True,False,,,,A,
+<p>Programs written for the 8080A must have slight modifications to run on the 8085A.</p>,True,False,,,,B,
+<p>The software used to drive a microprocessor-based system is called FORTRAN.</p>,True,False,,,,B,
+<p>Conversion from assembly language to machine language can be done by the programmer through a process called hand assembly.</p>,True,False,,,,A,
+"<p>Assembly language is written using mnemonics: MVI, DCR, JZ.</p>",True,False,,,,A,
+<p>The 8085 software is compatible with the 8080A.</p>,True,False,,,,A,
+<p>LDA addr and STA addr are Fortran language instructions stored in an external memory IC for a microprocessor.</p>,True,False,,,,B,

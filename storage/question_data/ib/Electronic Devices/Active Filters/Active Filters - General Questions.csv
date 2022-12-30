@@ -1,0 +1,58 @@
+question,A,B,C,D,E,answer,explanation
+<p>A ________ filter rejects all frequencies within a specified band and passes all those outside this band.</p>,low-pass,high-pass,band-pass,band-stop,,D,
+"<p>Identify the frequency response curve for a band-pass filter.
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq15_1006_1.jpeg""/></p>",a,b,c,d,,A,
+<p>Filters with the ________ characteristic are useful when a rapid roll-off is required because it provides a roll-off rate greater than –20/dB/decade/pole.</p>,Butterworth,Chebyshev,Bessel,,,B,
+<p>A ________ filter significantly attenuates all frequencies below f<sub>c</sub> and passes all frequencies above f<sub>c</sub>.</p>,low-pass,high-pass,band-pass,band-stop,,B,
+"<p><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq15_1028_1.jpeg""/><br/><br/>The gain of the multiple-feedback band-pass filter above is equal to which of the following? Assume C = C<sub>1</sub> = C<sub>2</sub>.</p>",A<sub>0</sub> = R<sub>2</sub> / R<sub>1</sub>,A<sub>0</sub> = R<sub>1</sub> / R<sub>2</sub>,A<sub>0</sub> = R<sub>2</sub> / 2 R<sub>1</sub>,A<sub>0</sub> = R<sub>1</sub> / 2 R<sub>2</sub>,,C,
+"<p>Refer to the given figure. This circuit is known as a ________ filter, and the f<sub>c</sub> is ________.
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq15_1010_1d.jpeg""/></p>","high-pass, 1.59 kHz","band-pass, 15.9 kHz","low-pass, 15.9 kHz","high-pass, 15.9 kHz",,D,
+<p>The bandwidth in a ________ filter equals the critical frequency.</p>,low-pass,high-pass,band-pass,band-stop,,A,
+<p>Filters with the ________ characteristic are used for filtering pulse waveforms.</p>,Butterworth,Chebyshev,Bessel,,,C,
+"<p>Refer to the given figure. The roll-off of this filter is about
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq15_1010_1c.jpeg""/></p>",20 dB/decade.,40 dB/decade.,60 dB/decade.,80 dB/decade.,,A,
+"<p>Refer to the given figure. The roll-off of the circuit shown is about
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq15_1010_1a.jpeg""/></p>",20 dB/decade.,40 dB/decade.,60 dB/decade.,80 dB/decade.,,A,
+"<p>Refer to this figure. This is a ________ filter.
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq15_1018_1.jpeg""/></p>",low-pass,high-pass,band-pass,band-stop,,B,
+<p>Which filter exhibits a linear phase characteristic?</p>,Bessel,Butterworth,Chebyshev,all of the above,,A,
+"<p>Refer to the given figure. The cutoff frequency of this filter is ________, and the circuit is known as a ________.
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq15_1010_1b.jpeg""/></p>","721 Hz, low-pass filter","721 Hz, high-pass filter","72 Hz, low-pass filter","721 Hz, band-pass filter",,A,
+<p>The critical frequency is defined as the point at which the response drops ________ from the passband.</p>,–20 dB,–3 dB,–6 dB,–40 dB,,B,
+<p>Filters with the ________ characteristic provide a very flat amplitude in the passband and a roll-off rate of –20 dB/decade/pole.</p>,Butterworth,Chebyshev,Bessel,,,A,
+<p>Which filter exhibits the most rapid roll-off rate?</p>,Bessel,Butterworth,Chebyshev,all of the above,,C,
+<p>Which filter has a maximally flat response?</p>,Bessel,Butterworth,Chebyshev,all of the above,,B,
+"<p>Identify the frequency response curve for a high-pass filter.
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq15_1006_1.jpeg""/></p>",a,b,c,d,,B,
+"<p>Identify the frequency response curve for a low-pass filter.
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq15_1006_1.jpeg""/></p>",a,b,c,d,,C,
+"<p>Refer to the given figure. This is a ________ filter.
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq15_1010_1c.jpeg""/></p>",band-pass,band-stop,high-pass,low-pass,,A,
+<p>A low-pass filter has a cutoff frequency of 1.23 kHz. Determine the bandwidth of the filter.</p>,2.46 kHz,1.23 kHz,644 Hz,not enough information given,,B,
+"<p>Refer to this figure. Increasing the values of the filter section resistors in this circuit will cause the f<sub>c</sub> to
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq15_1018_1.jpeg""/></p>",increase.,decrease.,remain the same.,increase and then decrease.,,B,
+"<p>One important application of a state-variable ________ filter with a summing amplifier is to minimize the 60 Hz ""hum"" in audio systems.</p>",low-pass,high-pass,band-pass,band-stop,,D,
+"<p>Refer to the given figure. This is a ________ filter, and it has a cutoff frequency of ________.
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq15_1010_1a.jpeg""/></p>","high-pass, 21 Hz","low-pass, 21 Hz","high-pass, 2.65 kHz","low-pass, 2.65 kHz",,C,
+"<p>Refer to the given figure. R<sub>A</sub> = 2.2 k<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/> and R<sub>B</sub> = 1.2 k<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>. This filter is probably a
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq15_1010_1b.jpeg""/></p>",Butterworth type.,Bessel type.,Chebyshev type.,,,A,
+"<p>Refer to this figure. This filter has a roll-off rate of
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq15_1018_1.jpeg""/></p>",20 dB/decade.,40 dB/decade.,60 dB/decade.,80 dB/decade.,,D,
+"<p>Identify the frequency response curve for a band-reject filter.
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq15_1006_1.jpeg""/></p>",a,b,c,d,,D,
+<p>A third-order filter will have a roll-off rate of</p>,–20 dB/decade.,–40 dB/decade.,–60 dB/decade.,–30 dB/decade.,,C,
+<p>A ________ filter passes all frequencies within a band between a lower and an upper critical frequency and rejects all others outside this band.</p>,low-pass,high-pass,band-pass,band-stop,,C,

@@ -1,0 +1,11 @@
+question,A,B,C,D,E,answer,explanation
+<p>A multiplexer is a device that outputs a fixed sequence of binary states on each clock pulse.</p>,True,False,,,,B,
+<p>The general function of a decoder is to activate one or more circuit outputs upon detection of a particular digital state.</p>,True,False,,,,A,
+<p>An encoder circuit is designed to generate specific codes.</p>,True,False,,,,B,
+<p>A decoder with two inputs will have two outputs for the decoded value.</p>,True,False,,,,B,
+<p>A magnitude comparator outputs the highest or lowest value of its inputs depending on control signals.</p>,True,False,,,,B,
+<p>An AND gate and two INVERTERs can be connected to act as a basic decoder.</p>,True,False,,,,A,
+<p>Parity checking can only detect an odd number of errors.</p>,True,False,,,,A,
+<p>A sixteen-input multiplexer will need three data select input control lines.</p>,True,False,,,,B,
+<p>A hexadecimal decoder selects one of sixteen outputs depending on the 8-bit binary input applied.</p>,True,False,,,,B,
+<p>A multiplexer is a device that chooses which output to send an input to by means of select lines.</p>,True,False,,,,A,

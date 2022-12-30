@@ -1,0 +1,15 @@
+question,A,B,C,D,E,answer,explanation
+"<p>To ensure a high coefficient of coupling, all fixed transformers are usually wound on a(n) _____________.</p>",EI core,iron core,common core,CI core,,C,
+"<p><p><img src=""/_files/images/basic-electronics/basics/fbq14_1004.gif""/></p>
+<p>The <b><i>reflected resistance</i></b> is ___ as seen by the source in the given circu.</p></p>","150 <img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/>","300 <img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/>","600 <img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/>","2.4 k<img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/>",,D,
+"<p><p><img src=""/_files/images/basic-electronics/basics/fbq14_1004.gif""/></p>
+<p>The secondary current is _____ in the given circuit.</p></p>",1.9 mA,7.5 mA,30 mA,60 mA,,C,
+<p>Making the load resistance appear the same as the source's internal resistance is called _____.</p>,maximum power transfer,reflected resistance,impedance matching,reflected load,,C,
+"<p>A transformer turns ratio of ________ will be needed to match an output impedance of 5 k<img alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/> to an 8 <img alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/> speaker.</p>",5:1,8:1,25:1,625:1,,C,
+<p>___ occurs in a transformer when some of the primary flux lines pass through the air instead of the core.</p>,Hysteresis loss,Magnetic flux leakage,Winding resistance,Winding capacitance,,B,
+<p>A step-up transformer will ___ to the secondary.</p>,increase the current,increase the voltage,increase the power,decrease the voltage,,B,
+"<p><p><img src=""/_files/images/basic-electronics/basics/fbq14_1010.gif""/></p>
+<p>The voltage <i>V</i><sub>2</sub> is _____ in the given circuit.</p></p>",36.7 V,73.3 V,110 V,220 V<br/><br/><br/>,,A,
+<p>___ is the concept of one coil inducing a voltage into another coil.</p>,Electrical isolation,Self-inductance,Mutual inductance,Coefficient of coupling,,C,
+<p>A(n) _____ transformer is usually used for audio or power applications.</p>,iron-core,air-core,ferrite-core,All of the above,,A,
+<p>A(n) ___ is sometimes constructed as a variable transformer.</p>,autotransformer,center-tapped transformer,multiple-tap transformer,multiple-winding transformer,,A,

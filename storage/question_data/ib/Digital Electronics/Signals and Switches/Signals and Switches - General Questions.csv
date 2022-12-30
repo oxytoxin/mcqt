@@ -1,0 +1,49 @@
+question,A,B,C,D,E,answer,explanation
+<p>Why does the TTL family use a totem-pole circuit on the output?</p>,It provides active pull-up.,It provides active pull-down.,It provides active pull-up and active pull-down.,,,C,
+"<p>What is the frequency of a clock waveform if the period of that waveform is<br/>1.25 <img align=""middle"" src=""/_files/images/digital-electronics/basic-digital-electronics/mu.gif""/>s?</p>",8 kHz,0.8 kHz,0.8 MHz,8 MHz,,C,
+"<p><p>Why is the given circuit called an inverter?</p>
+<p><img src=""/_files/images/digital-electronics/basic-digital-electronics/mcq2_1029_1.jpg""/></p></p>",The output is the opposite (inverse) of the input.,The output is in phase with the input.,The output is the same as the input.,There is no output.,,A,
+<p>The hexadecimal number 4B<sub>16</sub> is transmitted as an 8-bit word in parallel. What is the time required for this transmission if the clock frequency is 2.25 MHz?</p>,444 ns,"444 <img align=""middle"" src=""/_files/images/digital-electronics/basic-digital-electronics/mu.gif""/>s","3.55 <img align=""middle"" src=""/_files/images/digital-electronics/basic-digital-electronics/mu.gif""/>s",3.55 ms,,A,
+"<p>Internally, a computer's binary data are almost always transmitted on parallel channels, commonly referred to as the:</p>",parallel bus,serial bus,data bus,memory bus,,C,
+<p>Why is parallel data transmission preferred over serial data transmission for most applications?</p>,It is much slower.,It is cheaper.,More people use it.,It is much faster.,,D,
+"<p><p>Determine if diodes <i>D</i><sub>1</sub> and <i>D</i><sub>2</sub> in the given figure are forward or reverse biased.</p>
+<p><img src=""/_files/images/digital-electronics/basic-digital-electronics/mcq2_1020_1.jpg""/></p></p>",<i>D</i><sub>1</sub> forward and <i>D</i><sub>2</sub> reverse,<i>D</i><sub>2</sub> forward and <i>D</i><sub>1</sub> reverse,<i>D</i><sub>1</sub> and <i>D</i><sub>2</sub> reverse,<i>D</i><sub>1</sub> and <i>D</i><sub>2</sub> forward,,A,
+"<p>With surface-mount technology (SMT), the devices should:</p>",utilize transistor outline connections,mount directly,have parallel connecting pins,require holes and pads,,B,
+"<p>To forward bias a diode, a ________ potential is needed on the ________ and a ________ is needed on the ________.</p>","negative, cathode, positive, anode","negative, anode, positive, cathode",,,,A,
+"<p>Why, in most applications, are transistor switches used in place of relays?</p>",They consume less power.,They are faster.,They are quieter and smaller.,all of the above,,D,
+<p>How long will it take to serially transmit the hexadecimal number C3<sub>16</sub> if the clock frequency is 1.5 MHz?</p>,4.69 ms,"4.69 <img align=""middle"" src=""/_files/images/digital-electronics/basic-digital-electronics/mu.gif""/>s",5.33 ms,"5.33 <img align=""middle"" src=""/_files/images/digital-electronics/basic-digital-electronics/mu.gif""/>s",,D,
+"<p><p>What is the output voltage from the circuit in the given figure?</p>
+<p><img src=""/_files/images/digital-electronics/basic-digital-electronics/mcq2_1029_1.jpg""/></p></p>",+15 V,+12 V,+3 V,0 V,,D,
+<p>The family of logic that is composed of bipolar junction transistors is ____.</p>,TTL,CMOS,DIP,BJT,,A,
+<p>What can a relay provide between the triggering source and the output that semiconductor switching devices cannot?</p>,total isolation,faster,higher current rating,total isolation and higher current rating,,D,
+"<p><p>Determine the output voltage <i>V</i><sub>out</sub> for the circuit in the given figure.</p>
+<p><img src=""/_files/images/digital-electronics/basic-digital-electronics/mcq2_1020_1.jpg""/></p></p>",–0.5 V,0 V,+5 V,+4.3 V,,D,
+<p>The serial format for transmitting binary information uses:</p>,a single conductor,multiple conductors,infrared technology,fiber-optic,,A,
+<p>Which device(s) have almost ideal ON and OFF resistances?</p>,electromechanical relays,manual switches,semiconductor devices (diodes and transistors),electromechanical relays and manual switches,,D,
+<p>A diode placed in parallel across a relay coil serves what function?</p>,to regulate input voltage,to protect the coil from arcing,to ensure most of the current passes through the coil,to reduce arcing across the relay contacts,,B,
+<p>Serial communication can be sped up by:</p>,using silver or gold conductors instead of copper,using high-speed clock signals,adjusting the duty cycle of the binary information,using silver or gold conductors instead of copper and high-speed clock signals,,B,
+<p>What is the period of a clock waveform that has a frequency of 15.4 kHz?</p>,"649 <img align=""middle"" src=""/_files/images/digital-electronics/basic-digital-electronics/mu.gif""/>s","6.49 <img align=""middle"" src=""/_files/images/digital-electronics/basic-digital-electronics/mu.gif""/>s","64.9 <img align=""middle"" src=""/_files/images/digital-electronics/basic-digital-electronics/mu.gif""/>s","0.649 <img align=""middle"" src=""/_files/images/digital-electronics/basic-digital-electronics/mu.gif""/>s",,C,
+"<p>TTL logic chips must have connections to <i>V<sub>cc</sub></i> and ground, even if all inputs and outputs are properly used and tied to valid signals.</p>",True,False,,,,A,
+"<p><p>What is the output voltage <i>V</i><sub>out</sub> for the given circuit if the input voltage changes to 0 V?</p>
+<p><img src=""/_files/images/digital-electronics/basic-digital-electronics/mcq2_1029_1.jpg""/></p></p>",+12 V,+15 V,+3 V,0 V,,A,
+"<p><p>If the input voltage on <i>D</i><sub>1</sub> in the given figure is changed to 0 V, what is the output voltage <i>V</i><sub>out</sub>?</p>
+<p><img src=""/_files/images/digital-electronics/basic-digital-electronics/mcq2_1020_1.jpg""/></p></p>",–5 V,0 V,+5 V,+4.3 V,,B,
+<p>An indication of cutoff in an <i>NPN</i> bipolar transistor is that the:</p>,collector current is maximum,collector-to-emitter voltage equals zero,base-to-emitter voltage equals 0.7 V,collector to emitter appears to be open,,D,
+"<p>When an IC has two rows of parallel connecting pins, the device is referred to as a:</p>",QFP,DIP,TSSOP,CMOS,,B,
+"<p><p>If the input voltage on the base of the transistor in the given figure is changed to +10 V, what is the new voltage at the collector <i>V<sub>c</sub></i>?</p>
+<p><img src=""/_files/images/digital-electronics/basic-digital-electronics/mcq2_1025_1.jpg""/></p></p>",Not enough information is provided.,<i>V<sub>c</sub></i> = 10 V,<i>V<sub>c</sub></i> = 0 V,<i>V<sub>c</sub></i> = 5 V,,C,
+"<p><p>Is the transistor in the given figure considered ON or OFF?</p>
+<p><img src=""/_files/images/digital-electronics/basic-digital-electronics/mcq2_1025_1.jpg""/></p></p>",OFF,ON,Not enough information is provided.,,,A,
+"<p>Normal operation of an <i>NPN</i> bipolar transistor requires the base to be ________ with respect to the emitter, and ________ with respect to the collector.</p>","positive, negative","positive, positive","negative, positive","negative, negative",,A,
+"<p>The abbreviation NO, when used with respect to electromechanical relays, stands for not operational.</p>",True,False,,,,B,
+"<p>In a graphical representation of voltage versus time, ________ is displayed on the ________ axis and ________ is displayed on the ________ axis.</p>","time, <i>y</i>, voltage, <i>x</i>","voltage, <i>y</i>, time, <i>x</i>",,,,B,
+<p>What is the minimum voltage required before a diode will allow current to flow between the cathode and the anode?</p>,0.7 V,0.07 V,4.3 V,0.2 V,,A,
+<p>What is the advantage of using serial data transmission over parallel data transmission?</p>,It is slower.,Only one pair of wires is required.,More people use it.,It is faster.,,B,
+<p>A TTL totem-pole circuit is designed so that the output transistors:</p>,are always on together,provide phase splitting,provide voltage regulation,are never on together,,D,
+<p>What is the advantage of using CMOS logic over TTL?</p>,It switches faster.,It uses less power.,It is larger.,cost,,B,
+<p>What is used to graphically show the time relationship between two or more digital waveforms?</p>,reference diagram,timing diagram,voltage curve,load line,,B,
+"<p><p>Determine the voltage on the collector <i>V<sub>c</sub></i> of the given transistor circuit.</p>
+<p><img src=""/_files/images/digital-electronics/basic-digital-electronics/mcq2_1025_1.jpg""/></p></p>",0 V,+10 V,+4.7 V,+0.5 V,,B,
+<p>The period of a waveform is the percentage of time the signal is HIGH.</p>,True,False,,,,B,
+<p>What is a disadvantage of CMOS in place of TTL?</p>,It switches slower.,It uses less power.,It is smaller.,cost,,A,
+<p>The units for the HIGH time for a periodic wave are ________.</p>,seconds,hertz,cycles,%,,A,

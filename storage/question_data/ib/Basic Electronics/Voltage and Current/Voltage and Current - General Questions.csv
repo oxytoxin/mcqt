@@ -1,0 +1,72 @@
+question,A,B,C,D,E,answer,explanation
+"<p>What is the color code for a 220 <img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/> 5% resistor?</p>","Red, Red, Brown, Gold","Orange, Orange, Black, Gold","Red, Red, Black, Gold","Red, Red, Brown, Silver",,A," <pre>Resistor colour coding series:
+
+Black   0 
+Brown   1 
+Red     2 
+Orange  3 
+Yellow  4 
+Green   5 
+Blue    6 
+Violet  7  
+Gray    8   
+White   9 
+None    20% 
+Silver  10% 
+Gold    5% 
+
+Therefore Red, Red, Brown, Gold 
+           2    2    10<sup>1</sup>    5% 
+
+ = 22 x 10 = 220 ohm 5% (tolerance). 
+
+</pre>
+<p class=""mx-bold mx-green"">Video Explanation: <a href=""https://youtu.be/8YHFQCqBGcA"" target=""_blank"">https://youtu.be/8YHFQCqBGcA</a></p> "
+"<p>If 60 J of energy are available for every 15 C of charge, what is the voltage?</p>",4 V,60 V,15 V,0.25 V,,A,
+<p>An atom's atomic number is determined by the number of:</p>,neutrons minus protons,protons,electrons,neutrons,,B,
+<p>A voltage will influence current only if the circuit is:</p>,open,insulated,high resistance,closed,,D,
+<p>Which resistive component is designed to be temperature sensitive?</p>,Thermistor,Rheostat,Potentiometer,Photoconductive cell,,A,
+<p>The battery symbol is:</p>,"<img alt=""mca1_1009a1.gif"" src=""/_files/images/basic-electronics/complete/mca1_1009a1.gif""/>","<img alt=""mca1_1009b1.gif"" src=""/_files/images/basic-electronics/complete/mca1_1009b1.gif""/>","<img alt=""mca1_1009c1.gif"" src=""/_files/images/basic-electronics/complete/mca1_1009c1.gif""/>","<img alt=""mca1_1009d1.gif"" src=""/_files/images/basic-electronics/complete/mca1_1009d1.gif""/>",,B,
+"<p>What type of switch is this?<br/><br/><img src=""/_files/images/basic-electronics/complete/mcq1_1010_1.gif""/></p>",push button,SPST,DPDT,SPDT,,D,
+"<p>Primary batteries, unlike secondary batteries, may be:</p>",charged once,used once,recharged over and over,stored indefinitely,,B," <p>Primary batteries (disposable batteries), which are designed to be used once and discarded when they are exhausted.<br/><br/>
+
+Secondary batteries (rechargeable batteries), which are designed to be recharged and used multiple times.</p> "
+"<p>In practical applications, battery voltage:</p>",is restored as soon as disconnect occurs,is lowered as the load increases,may be stored indefinitely,will be reduced to zero as power is drawn,,B,
+<p>The negative and positive charge symbols are assigned (in that order) to the:</p>,proton and electron,electron and proton,atom and nucleus,electron and element,,B,
+<p>A voltmeter is used:</p>,to measure current,in series with the circuit,in parallel with the circuit,to measure coulombs,,C,
+"<p>If the current in a circuit equals 0 A, it is likely that the</p>",voltage is too high,resistance is too low,circuit has a short,circuit is open,,D,
+<p>Current equals:</p>,"<img alt=""mca1_1002a1.gif"" src=""/_files/images/basic-electronics/complete/mca1_1002a1.gif""/>",coulombs × time,"<img alt=""mca1_1002c1.gif"" src=""/_files/images/basic-electronics/complete/mca1_1002c1.gif""/>",voltage × time,,A,
+<p>What are the unit and symbol for current?</p>,"Ampere, <i>A</i>","Coulomb, <i>I</i>","Ampere, <i>Q</i>","Ampere, <i>I</i>",,D,
+<p><p>Which part of an atom has no electrical charge?</p></p>,Electron,Neutron,Proton,All of the above,,B,
+<p>Which voltage source converts chemical energy to electrical energy?</p>,Electrical generator,Battery,Solar cell,Electronic power supply,,B,
+<p>An example of potential energy is:</p>,tea-kettle steam,a moving vehicle,the sun,a battery,,D,
+"<p>If 40 C of charge flow past a point in 20 s, what is the current?</p>",2 A,0.5 A,20 A,40 A,,A,
+<p>Batteries differ from fuel cells in that</p>,a battery is a closed system,a battery uses hydrogen and oxygen to create electricity,a battery uses a polymer electrolyte membrane,none of the above,,A,
+<p>The removal of a non-neutral subatomic particle converts the atom into a:</p>,charged ion,nucleus,heavier element,compound,,A,
+<p>One coulomb passing a point in one second is one:</p>,ampere,volt,ohm,charge,,A,
+<p>In which states may matter may be found?</p>,"solid, liquid, or mineral","solid, gas, or liquid","mineral, gas, or liquid","plastic, solid, or gas",,B,
+<p>Material that consists of a mixture of elements is considered to be:</p>,an element,an ion,a compound,a molecule,,C,
+<p>How many valence shell electrons are there in semiconductor atoms?</p>,16,8,4,2,,C,
+<p>When considering conventional current versus electron current flow:</p>,electron current flow came first,protons move in conventional current flow,conventional current flow came first,the direction of current is the same in both methods,,C,
+<p>Which unit of charge contains 6.25 × 10<sup>18 </sup>electrons?</p>,An ampere,A coulomb,A volt,A joule,,B,
+<p>A switch is a device that:</p>,short circuits complex circuits,holds a fuse,has double poles,opens or completes a current path,,D,
+<p>The term used to designate electrical pressure is:</p>,voltage,current,resistance,conductance,,A,
+<p>Which electronics material opposes the movement of free electrons?</p>,Conductor,Insulator,Semiconductor,Element,,B,
+<p>Current is considered as the movement of:</p>,electrons,protons,charge,nuclei,,A,
+<p>A lead-acid battery is an example of a</p>,solar cell,fuel cell,primary battery,secondary battery,,D,
+<p>The charge of one coulomb is equal to:</p>,6.24 x 10<sup>−18</sup> electrons,one ampere,one second,6.24 x 10<sup>18</sup> electrons,,D,
+<p>A basic electric circuit is made up of what components?</p>,"A load, a resistor, and a conductive path for current","A voltage source, a load, and a conductive path for current","A voltage source, a conductive path for current, and a battery","A conductive path for current, a battery, and a copper wire",,B,
+<p>An ammeter is used to measure</p>,voltage,current,resistance,All of the above,,B,
+<p>What is the name of the pressure that moves electrons in a closed circuit?</p>,amperes,ohms,voltage,coulombs,,C,
+<p>What is a characteristic of a secondary cell?</p>,rechargeability,not rechargeable,a dry cell,non-liquid,,A,
+<p>What are the basic building blocks that all matter is composed of?</p>,"electrons, neutrons, and protons",two protons for each neutron,two protons for each electron,"electrons, neutrons, and charged ions",,A,
+"<p>If a fluid system is compared to an electrical system, the fluid pump will correspond to a:</p>",conductor,lamp,battery,insulator,,C,
+<p>An element is a substance that is:</p>,varied throughout the entire piece,used only in electronics,electrically charged,found only in its pure form,,D,
+<p>Current is:</p>,the presence of a positive charge,the abundance of electrons,the movement of electrons,the repulsion of electrons,,C,
+<p>What do you call a diagram that shows the electrical connections of a circuit's components?</p>,A schematic diagram,A pictorial diagram,A block diagram,An electrical diagram,,A,
+<p>A short circuit will have:</p>,a small current flow,a large current flow,no current flow,some current flow,,B,
+<p>The basic difference between a fuse and a circuit breaker is</p>,a fuse is slower,a fuse is reusable,a circuit breaker is reusable,a circuit breaker is more reliable,,C,
+<p>Which is the smallest?</p>,atom,proton,neutron,electron,,D,
+<p>A secondary cell generates dc via chemical activity; a primary cell generates dc:</p>,electrically,thermally,optically,chemically,,D,
+<p>Which of the following statements is true?</p>,Unlike charges repel and like charges attract.,Like charges repel and unlike charges attract.,Unlike charges attract and like charges attract.,Like charges repel and unlike charges repel.,,B,
+"<p>If an electrical system is compared to a fluid system, the electrical current corresponds to the:</p>",pressure,pump,water wheel,water flow,,D,

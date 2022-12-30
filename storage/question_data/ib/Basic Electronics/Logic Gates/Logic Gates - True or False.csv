@@ -1,0 +1,8 @@
+question,A,B,C,D,E,answer,explanation
+<p>The output of an exclusive-OR (XOR) gate is 1 only when the inputs are different.</p>,True,False,,,,A,
+"<p>If the output of a gate is OFF when the inputs are the same, and ON when they are different, the gate must be an exclusive-OR.</p>",True,False,,,,A,
+<p>The output of a NAND gate is the same as the inverted output of an AND gate.</p>,True,False,,,,A,
+<p>Logic gate circuits contain predictable gate functions that open their outputs.</p>,True,False,,,,B,
+"<p>If both inputs are required to be ON for the output to be ON, the gate must be an AND gate.</p>",True,False,,,,A,
+<p>A NAND gate consists of an AND gate and an OR gate connected in series with each other.</p>,True,False,,,,B,
+<p>The exclusive-NOR (XNOR) gate is simply an OR gate followed by a NOT gate.</p>,True,False,,,,B,

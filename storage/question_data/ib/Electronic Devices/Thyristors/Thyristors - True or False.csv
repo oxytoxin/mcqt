@@ -1,0 +1,11 @@
+question,A,B,C,D,E,answer,explanation
+<p>The anode-to-gate voltage can be used to turn the PUT on or off.</p>,True,False,,,,A,
+"<p>In an SCR-based half-wave phase-control circuit, a diode is connected in series with the anode.</p>",True,False,,,,B,
+"<p>The SCS is turned on with the cathode gate, and turned off with the anode gate.</p>",True,False,,,,B,
+"<p>UJTs can only be used to trigger triacs, not SCRs.</p>",True,False,,,,B,
+<p>The SCR is a device that can be triggered off by a pulse applied to the gate.</p>,True,False,,,,B,
+<p>Thyristors are 4-layer semiconductor devices.</p>,True,False,,,,A,
+<p>The diac can conduct current in either direction and is turned on when a breakover voltage is exceeded.</p>,True,False,,,,A,
+"<p>The triac is similar to an SCR, but it provides conduction for both halves of the ac wave.</p>",True,False,,,,A,
+<p>The triac can be turned on or off by a pulse at the gate.</p>,True,False,,,,B,
+<p>The SUS is also known as a Shockley diode.</p>,True,False,,,,A,

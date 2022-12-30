@@ -1,0 +1,15 @@
+question,A,B,C,D,E,answer,explanation
+"<p>When 1100010 is divided by 0101, what will be the decimal remainder?</p>",2,3,4,6,,B,
+<p>What are the two types of basic adder circuits?</p>,half adder and full adder,half adder and parallel adder,asynchronous and synchronous,one's complement and two's complement,,A,
+<p>Adding the two's complement of –11 + (–2) will yield which two's complement answer?</p>,1110 1101,1111 1001,1111 0011,1110 1001,,C,
+"<p>The two's complement system is to be used to add the signed numbers 11110010 and 11110011. Determine, in decimal, the sign and value of each number and their sum.</p>",–14 and –13; –27,–113 and –114; 227,–27 and –13; 40,–11 and –16; –27,,A,
+<p>The fast carry or look-ahead carry circuits found in most 4-bit parallel-adder circuits:</p>,increase ripple delay,add a 1 to complemented inputs,reduce propagation delay,determine sign and magnitude,,C,
+<p>How many basic binary subtraction operations are possible?</p>,4,3,2,1,,D,
+<p>How many basic binary subtraction combinations are possible?</p>,4,3,2,1,,A,
+"<p>Use the two's complement system to add the signed numbers 11110010 and 11110011. Determine, in decimal, the sign and value of each number and  
+their sum.</p>",–14 and –13; –27,–113 and –114; 227,–27 and –13; 40,–11 and –16; –27,,A,
+<p>The selector inputs to an arithmetic-logic unit (ALU) determine the:</p>,selection of the IC,arithmetic or logic function,data word selection,clock frequency to be used,,B,
+"<p>Adding in binary, the decimal values 26 + 27 will produce a sum of:</p>",111010,110110,110101,101011,,C,
+<p>Binary subtraction of a decimal 15 from 43 will utilize which two's complement?</p>,101011,110000,011100,110001,,D,
+"<p>When multiplying in binary the decimal values 13 × 11, what is the third partial product?</p>",100000,100001,0000,1011,,A,
+<p>The range of an 8-bit two's complement word is from:</p>,+128<sub>10</sub> to –128<sub>10</sub>,–128<sub>10</sub> to +127<sub>10</sub>,+128<sub>10</sub> to –127<sub>10</sub>,+127<sub>10</sub> to –127<sub>10</sub>,,B,

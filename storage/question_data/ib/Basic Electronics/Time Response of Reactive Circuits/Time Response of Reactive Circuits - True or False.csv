@@ -1,0 +1,13 @@
+question,A,B,C,D,E,answer,explanation
+"<p>A repetitive pulse with a 50% duty cycle is being applied to the input of an <i>RC</i> integrator. If one time constant is less than one-fifth the pulse width, the capacitor will be able to fully charge and discharge.</p>",True,False,,,,A,
+<p>The output of an RL differentiator is taken from across the inductor.</p>,True,False,,,,A,
+<p>The output voltage of an RC integrator will eventually equal the voltage of a single input pulse if the input pulse width is less than 5 time constants.</p>,True,False,,,,B,
+<p>The output of a differentiator could be considered a spike when the input pulse width is much longer than 5 time constants.</p>,True,False,,,,A,
+<p>The output of an RC differentiator is taken from across the capacitor.</p>,True,False,,,,B,
+"<p>If the output of an <i>RC</i> integrator is zero volts, the capacitor might be open.</p>",True,False,,,,B,
+"<p>During the steady-state condition of a differentiator, the average output voltage is zero volts.</p>",True,False,,,,A,
+<p>The voltage across a capacitor in an <i>RC</i> integrator circuit cannot change exponentially; it can change only instantaneously.</p>,True,False,,,,B,
+<p>The output voltage of a differentiator goes negative on the falling edge of the input pulse.</p>,True,False,,,,A,
+"<p>If a repetitive-pulse waveform is applied to an <i>RC</i> integrator, the output waveshape depends on the relationship of the circuit time constant and the duty cycle of the input pulses.</p>",True,False,,,,B,
+<p>The steady-state condition of an integrator is reached after 5 time constants regardless of the number of input pulses that occur in that amount of time.</p>,True,False,,,,A,
+<p>A differentiator circuit can be used to convert a pulse input to a nearly constant dc output.</p>,True,False,,,,B,

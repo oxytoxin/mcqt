@@ -1,0 +1,91 @@
+question,A,B,C,D,E,answer,explanation
+<p>The 7812 regulator IC provides ________.</p>,5 V,–5 V,12 V,–12 V,,C,
+"<p>Refer to the given figure. If the zener diode had a rating of 1.7 V, the output voltage would be
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq18_1006_1a.jpeg""/></p>",2.13 V.,8.36 V.,20.16 V.,25 V.,,B,
+"<p>Refer to the given figure. This circuit operates at a ________ frequency, and its efficiency is ________.
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq18_1006_1c.jpeg""/></p>","low, low","low, high","high, high","high, low",,C,
+<p>Voltage regulators keep a constant ________ output voltage when the input or load varies within limits.</p>,dc,ac,ripple,,,A,
+"<p>Calculate the ripple voltage of a full-wave rectifier with a 75-<img src=""/_files/images/electronic-devices-and-circuit-theory/mu.gif""/>F filter capacitor connected to a load drawing 40 mA.</p>",1.20 V,1.28 V,1.32 V,1.41 V,,B,
+<p>In which period is the capacitor filter discharged through the load in a full-wave rectifier?</p>,The time during the positive cycle,The time during which the diodes are not conducting,The time during which the diode(s) is (are) conducting,The time during the negative cycle,,B,
+<p>The 7805 regulator IC provides ________.</p>,5 V,–5 V,12 V,–12 V,,A,
+<p>What is the range of the voltage level of the LM317 adjusted voltage regulator?</p>,0 V to 5 V,1.2 V to 37 V,–5 V to –24 V,5 V to 24 V,,B,
+"<p>A voltage regulator with a no-load output dc voltage of 12 V is connected to a load with a resistance of 10 <img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>. If the load resistance decreases to 7.5 <img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>, the load voltage will decrease to 10.9 V. The load current will be ________, and the percent load regulation is ________.</p>","1.45 A, 90.8%","1.45 A, 10.09%","1.2 A, 90.8%","1.2 A, 10.09%",,B,
+"<p>Refer to the given figure. Determine the output voltage, V<sub>OUT</sub>.
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq18_1006_1a.jpeg""/></p>",25 V,5.1 V,20.2 V,4.1 V,,C,
+"<p>Refer to the given figure. This circuit is known as
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq18_1006_1b.jpeg""/></p>",a series-pass voltage regulator.,a shunt voltage regulator.,a step-up switching regulator.,a step-down switching regulator.,,B,
+<p>Calculate the voltage regulation of a power supply having V<sub>NL</sub> = 50 V and V<sub>FL</sub> = 48 V.</p>,4.17%,5.2%,6.2%,7.1%,,A,
+<p>Switching regulator efficiencies can be greater than ________ percent.</p>,60,70,80,90,,D,
+<p>The 7912 regulator IC provides ________ .</p>,5 V,–5 V,12 V,–12 V,,D,
+"<p>If a peak rectified voltage for the full-wave filter circuit is 40 V, calculate the filter dc voltage if C = 75 <img src=""/_files/images/electronic-devices-and-circuit-theory/mu.gif""/>F and load current is 40 mA.</p>",27.9 V,32.12 V,37.78 V,40 V,,C,
+<p>What is the typical dropout voltage for the 7812 fixed positive voltage regulator?</p>,4 mV,100 mV,1.5 V,2 V,,D,
+<p>What is the ratio of the period of the output voltage to the period of the input voltage in a full-wave rectifier?</p>,0,0.5,1,2,,B,
+"<p>If the value of full-load voltage is the same as the no-load voltage, the voltage regulation calculated is ________ %, which is the best expected.</p>",0,1,99,100,,A,
+<p>Calculate the ripple of a filter output having a 20-V dc component and a 1.7 V<sub>r</sub>(rms) ac component.</p>,6%,8.5%,85%,58%,,B,
+<p>A voltage regulator has a no-load output of 18 V and a full-load output of 17.3 V. The percent load regulation is</p>,0.25%.,96.1%.,4.05%.,1.04%.,,C,
+<p>A switching regulator that is configured as a voltage-inverter produces what type of output?</p>,an ac output with opposite phase to the input ac,a dc output that is the negative of the dc input voltage,an output that is a higher voltage than the input voltage,an ac output from a dc input voltage,,B,
+"<p>Refer to the given figure. This circuit is called
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq18_1006_1c.jpeg""/></p>",a series-pass voltage regulator.,a shunt voltage regulator.,a step-up switching regulator.,a step-down switching regulator.,,D,
+"<p>In Figure 17-1(a)(see question 6), the purpose of R<sub>1</sub> is to</p>",provide a reference voltage.,limit current through the diode.,limit voltage to the op-amp.,provide output voltage sampling.,,B,
+"<p>For a full-wave rectifier with ac ripple at 120 Hz, the impedance of a capacitor can be calculated using X<sub>C</sub> = ________.</p>",0.707 ÷ C,1.414 ÷ C,1.3 ÷ C,0.785 ÷ C,,C,
+<p>What is the purpose of an additional RC filter section in a power supply circuit?</p>,Increase the dc voltage component,Increase the ac voltage component,Decrease the ac voltage component,None of the above,,C,
+<p>In which period is the capacitor filter charged in a full-wave rectifier?</p>,The time during the positive cycle,The time during which the diodes are not conducting,The time during which the diode(s) is (are) conducting,The time during the negative cycle,,C,
+"<p>In this improved series regulator circuit, which of the following components is the sampling circuit? <p> <img src=""/_files/images/electronic-devices-and-circuit-theory/mcq15_02100.gif""/></p></p>",Zener diode,Load resistor,Either of the two transistors Q<sub>1</sub> or Q<sub>2</sub>,Resistors R<sub>1</sub> and R<sub>2</sub>,,D,
+"<p>The ________ regulator is less efficient than the ________ type, but offers inherent short-circuit protection.</p>","series, shunt","shunt, series",,,,B,
+<p>In which of the following applications is a pulsating dc voltage suitable?</p>,Battery charger,Radio,Stereo system,Computer,,A,
+"<p>Refer to the given figure. If the output of the circuit were to be a short circuit, what power rating would R<sub>1</sub> need to have?
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq18_1006_1b.jpeg""/></p>",2.25 W,5 W,10 W,22.5 W,,D,
+"<p>Refer to the given figure. This circuit is known as
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq18_1006_1a.jpeg""/></p>",a series-pass voltage regulator.,a shunt voltage regulator.,a step-up switching regulator.,a step-down switching regulator.,,A,
+"<p>The purpose of the added RC section is to pass most of the dc component while reducing as much of the ac component as possible. <p> <img src=""/_files/images/electronic-devices-and-circuit-theory/mcq15_01700.gif""/></p></p>",True,False,,,,A,
+"<p>In a series regulator, what is the purpose of fold-back limiting?</p>",to provide more current in the case of a short circuit,to limit output voltage if input voltage goes too high,"to bypass the pass-transistor, if the pass-transistor should fail","to provide current up to a maximum, but drop current to a lower value when the output becomes shorted, to prevent overheating of the device",,D,
+"<p>Refer to the given figure. The purpose for the zener diode D<sub>1</sub> is
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq18_1006_1b.jpeg""/></p>",to supply a reference voltage.,to amplify the error signal.,to sense the error signal.,to limit the input voltage to the circuit.,,A,
+"<p>In a simple series regulator circuit, which of the following components is the controlling element?</p>",Load resistor,Zener diode,Transistor Q<sub>1</sub>,None of the above,,C,
+<p>What is the ratio of the peak ripple voltage level to its rms voltage level?</p>,"<img src=""/_files/images/electronic-devices-and-circuit-theory/mca15_0130a.gif""/>","<img src=""/_files/images/electronic-devices-and-circuit-theory/mca15_0130b.gif""/>","<img src=""/_files/images/electronic-devices-and-circuit-theory/mca15_0130c.gif""/>","<img src=""/_files/images/electronic-devices-and-circuit-theory/mca15_0130d.gif""/>",,A,
+"<p>Calculate the dc voltage across a 2-k<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/> load for an RC filter section (R = 50 <img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>, C = 20 <img src=""/_files/images/electronic-devices-and-circuit-theory/mu.gif""/>F). The dc voltage across the initial filter capacitor is V<sub>dc</sub> = 50 V.</p>",40.78 V,42.78 V,45.78 V,48.78 V,,D,
+"<p>Refer to the given figure. If the load is short-circuited, what would be the maximum current through R<sub>1</sub>?
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq18_1006_1b.jpeg""/></p>",1 A,1.2 A,1.5 A,5 A,,C,
+"<p>In an improved shunt regulator, which of the following components sets the reference voltage?</p>",Transistor Q<sub>1</sub>,Zener diode,Transistor Q<sub>2</sub>,R<sub>S</sub>,,B,
+<p>________ regulation can be defined as the percentage change in the output voltage for a given change in load current.</p>,Line,Load,,,,B,
+<p>How many diodes conduct in the full-wave bridge rectifier while the capacitor is being charged?</p>,1,2,3,4,,B,
+"<p>Refer to the given figure. If a solder splash shorted the ends of R<sub>1</sub> to each other,
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq18_1006_1a.jpeg""/></p>",the op-amp would fail.,Q<sub>1</sub> would open.,the output voltage would not change.,the zener would fail.,,D,
+"<p>Calculate the ripple of a capacitor filter for a peak rectified voltage of 40 V, a capacitor value C = 75 <img src=""/_files/images/electronic-devices-and-circuit-theory/mu.gif""/>F, and a load current of 40 mA.</p>",3.2%,3.59%,4.03%,4.59%,,A,
+<p>How many terminals does a 7800 series IC regulator have?</p>,2,3,4,none of the above,,B,
+<p>What are the typical values of V<sub>ref </sub>and I<sub>adj</sub> for the LM317 adjustable voltage regulator?</p>,"1.0 V, 100 mA","1.5 V, 100 mA","1.25 V, 100 μA","1.25 V, 10 mA",,C,
+"<p>In this op-amp series regulator circuit, which of the following components is the comparator circuit? <p> <img src=""/_files/images/electronic-devices-and-circuit-theory/mcq15_02200.gif""/></p></p>",Op-amp,Transistor Q<sub>1</sub>,R<sub>1</sub> and R<sub>2</sub> resistors,Zener diode,,A,
+<p>Which component(s) set(s) the voltage across the load in a basic transistor shunt regulator?</p>,Zener diode,Transistor base-emitter voltage,Both the Zener diode and the transistor base-emitter voltage,None of the above,,C,
+<p>Voltage regulation requires</p>,only line regulation.,only load regulation.,a constant load.,load and line regulation.,,D,
+<p>Across which of the following components of a power supply does the average (dc) voltage exist?</p>,Diodes,Secondary of the transformer,Capacitor filter,None of the above,,C,
+"<p>Switching regulators are more efficient than linear regulators and are particularly useful in ________-voltage, ________-current applications.</p>","high, high","low, high","high, low",,,B,
+<p>For what range of load current can voltage regulators be selected for operation?</p>,Hundreds of picoamperes to tens of nanoamperes,Hundreds of picoamperes to tens of milliamperes,Hundreds of milliamperes to tens of amperes,None of the above,,C,
+<p>The 7905 regulator IC provides ________.</p>,5 V,–5 V,12 V,–12 V,,B,
+<p>What type of regulator offers inherent short-circuit protection?</p>,shunt regulators,series regulators,three-terminal regulators,switching regulators,,A,
+"<p>Refer to the given figure. The inductor and capacitor are used for
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq18_1006_1c.jpeg""/></p>",amplifying the error signal.,controlling the load current.,turning on the pulse-width oscillator.,filtering the dc pulse output.,,D,
+"<p>Refer to the given figure. If the BE junction of Q<sub>1</sub> opens, the output voltage V<sub>OUT</sub> will
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq18_1006_1a.jpeg""/></p>",increase.,decrease.,remain the same.,,,B,
+"<p>This circuit is an example of the ac equivalent of an RC filter. <p> <img src=""/_files/images/electronic-devices-and-circuit-theory/mcq15_01800.gif""/></p></p>",True,False,,,,B,
+"<p>Refer to the given figure. If the output voltage tends to decrease due to an increase in load current, the transistor will conduct for ________ time each cycle.
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq18_1006_1c.jpeg""/></p>",a longer,a shorter,the same,,,A,
+"<p>The larger the value of the capacitor, the smaller the peak current drawn through the rectifying diodes.</p>",True,False,,,,B,
+"<p>In a shunt linear regulator, the control element is a(n) ________ in parallel with the load.</p>",inductor,capacitor,transistor,,,C,
+<p>For what range of fixed regulated voltages do the series 78xx regulators provide regulation?</p>,+5 V to +24 V,+5 V to +24 V,–5 V to –24 V,None of the above,,B,
+"<p>In a series linear regulator, the control element is a(n) ________ in series with the load.</p>",inductor,capacitor,transistor,,,C,
+"<p>What regulated output voltage is provided for the following circuit elements: R<sub>1</sub> = 15 k<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>, R<sub>2</sub> = 35 k<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>, and V<sub>Z</sub> = 11.2 V? <p> <img src=""/_files/images/electronic-devices-and-circuit-theory/mcq15_02300.gif""/></p></p>",16.50 V,17 V,17.35 V,18.25 V,,B,
+<p>________ regulation can be defined as the percentage change in the output voltage for a given change in the input voltage.</p>,Line,Load,,,,A,
+<p>A ________ -wave rectified signal has less ripple than a ________ -wave rectified signal and is thus better to apply to a filter.</p>,"full, half","half, full",,,,A,

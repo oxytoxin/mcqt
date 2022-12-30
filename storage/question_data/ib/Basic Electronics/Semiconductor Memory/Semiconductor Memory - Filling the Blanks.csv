@@ -1,0 +1,11 @@
+question,A,B,C,D,E,answer,explanation
+<p>The binary data stored in an EEPROM is___________.</p>,volatile,permanent,refreshed,erasable,,D,
+<p>The data stored in a Mask ROM (MROM) is ___________.</p>,permanent,volatile,erasable,temporary,,A,
+<p>A technique of addressing storage cells on a dynamic RAM that sequentially uses the same inputs for the row and column addresses of the cell is called________.</p>,flash conversion,dynamic refresh,address multiplexing,address strobe,,C,
+<p>Refreshing DRAM typically must occur every ________.</p>,"2 <img align=""absmiddle"" alt=""mu.gif"" src=""/_files/images/basic-electronics/complete/mu.gif""/>s",2 ms,"8 <img align=""absmiddle"" alt=""mu.gif"" src=""/_files/images/basic-electronics/complete/mu.gif""/>s",8 ms,,B,
+<p>The time interval between the memory receiving a new address input and the data being available is called _________.</p>,access time,bus speed,read/write speed,write/data speed,,A,
+"<p>In general, _________ are used when a small amount of read/write is required.</p>",EEPROMs,PROMs,SRAMs,DRAMs,,C,
+<p>The process of entering data into the ROM is called ___________.</p>,burning in,configuration,internal decoding,addressing,,A,
+"<p>To reduce the number of pins on the IC package, manufacturers often use ___________.</p>",MOSFET architecture,address multiplexing,address decoding,address demultiplexing,,B,
+<p>The periodic recharging of  DRAM memory cells is called ___________.</p>,multiplexing,bootstrapping,refreshing,flashing,,C,
+<p>________ is an example of read/write memory.</p>,PROM,EEPROM,RAM,MROM,,C,

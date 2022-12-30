@@ -1,0 +1,14 @@
+question,A,B,C,D,E,answer,explanation
+"<p>A 10 k<img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/> capacitive reactance equals a 100 µS capacitive susceptance.</p>",True,False,,,,A,
+"<p>In a purely capacitive ac circuit, the amount of energy converted to heat is proportional to the circuit's current.</p>",True,False,,,,B,
+<p>Resistance is the same as impedance in an <i>RC</i> circuit.</p>,True,False,,,,B,
+"<p><p><img src=""/_files/images/basic-electronics/basics/tfq10_1006_1.gif""/></p>
+<p>The magnitude of the impedance in the given circuit is approximately 500 <img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/>.</p></p>",True,False,,,,A,
+"<p>In parallel <i>RC</i> circuits, the larger the value of <i>C</i>, the larger the phase angle.</p>",True,False,,,,A,
+"<p>When a series <i>RC</i> circuit is used as a low-pass filter, the output is taken from across the capacitor.</p>",True,False,,,,A,
+"<p>If the resistor drops 6 V and the capacitor drops 8 V in a series <i>RC</i> circuit, the source voltage equals 10 V.</p>",True,False,,,,A,
+<p>The current lags the source voltage in a series <i>RC</i> circuit.</p>,True,False,,,,B,
+"<p>If the frequency increases in a parallel <i>RC</i> circuit, the phase angle decreases.</p>",True,False,,,,B,
+<p>The output voltage from an <i>RC</i> high-pass filter increases as the frequency decreases.</p>,True,False,,,,B,
+"<p>If a 100 <img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/> resistance is connected to a 100 <img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/> capacitive reactance in a series <i>RC</i> circuit, the impedance equals 200 <img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/>.</p>",True,False,,,,B,
+"<p>If the bandwidth of an <i>RC</i> low-pass filter is 20 kHz, the cutoff frequency is also 20 kHz.</p>",True,False,,,,A,

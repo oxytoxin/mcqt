@@ -1,0 +1,11 @@
+question,A,B,C,D,E,answer,explanation
+"<p>In ECL, the HIGH and LOW levels are determined by which transistor in a differential amplifier is conducting more.</p>",True,False,,,,A,
+<p>Propagation delay in TTL is due to slow switching speeds.</p>,True,False,,,,B,
+<p>In TTL the noise margin is between 0.8 V and 0.4 V.</p>,True,False,,,,A,
+"<p>The AND is the simplest of the gates, requiring the least amount of circuitry to implement in TTL.</p>",True,False,,,,B,
+<p>A typical fan-out for most TTL is 9.</p>,True,False,,,,B,
+<p>The basic part numbers of ICs are the same regardless of the manufacturer because digital logic ICs have been standardized.</p>,True,False,,,,A,
+<p>Schottky logic overcomes the saturation and stored charge problem by placing a Schottky diode across the base-to-collector junction.</p>,True,False,,,,A,
+<p>Interfacing (74HCMOS to 74ALSTTl or 74TTL to 74LSTTL) can be done with no danger.</p>,True,False,,,,B,
+<p>A pulse is not perfectly square; it takes time for the digital level to rise from 0 up to 1 and to fall from 1 down to 0.</p>,True,False,,,,A,
+<p>PMOS and NMOS are commonly used for small memories and microprocessors.</p>,True,False,,,,B,

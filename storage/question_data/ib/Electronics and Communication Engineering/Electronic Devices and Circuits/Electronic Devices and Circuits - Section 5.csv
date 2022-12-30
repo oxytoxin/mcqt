@@ -1,0 +1,61 @@
+question,A,B,C,D,E,answer,explanation
+<p>A JFET operates in ohmic region when</p>,V<sub>GS</sub> = 0,V<sub>GS</sub> is less than pinch off voltage,V<sub>GS</sub> = is Positive,V<sub>GS</sub> = V<sub>DS</sub>,,B,
+"<p>In CE connection, the leakage current of a transistor is about</p>",10 x 10<sup>-9</sup> A,5 x 10<sup>-6</sup> A,200 x 10<sup>-6</sup> A,5 x 10<sup>-3</sup> A,,C,
+<p>The early effect in a BJT is caused by</p>,fast turn on,fast turn off,large collector base reverse bias,large emitter base forward bias,,C,
+"<p>In a common emitter BJT amplifier, the maximum usable supply voltage is limited by</p>",avalanche Beakdown of Base-Emitter junction,collector emitter breakdown voltage with base open(βV<sub>CEO</sub>),collector emitter breakdown voltage with emitter open(βV<sub>CEO</sub>),zener break down voltage of the emitter base junction,,C,
+"<p><p><b>Assertion (A):</b>  In active region of CE output characteristics of BJT, collector current is nearly constant.
+</p><p><b>Reason (R):</b>  Base current in CE connection is very small.
+</p></p>",Both A and R are true and R is correct explanation of A,Both A and R are true but R is not a correct explanation of A,A is true but R is false,A is false but R is true,,A,
+<p>The temperature of cathode is increased from 2500K to 2600K. The increase in thermionic emission current is about</p>,0.1%,4%,50%,150%,,D,
+"<p>Consider the following statement: At finite temperature, magnetic dipoles in a material are randomly oriented giving low magnetization. When magnetic field H is applied, the magnetization? <ol style=""list-style-type: decimal; padding-bottom:10px;""><li style=""padding-top:10px;"">Increases with H</li><li style=""padding-top:10px;"">Decreases with H</li><li style=""padding-top:10px;"">Decreases with temp for constant H</li></ol> Which of the statement given above is/are correct?</p>",1,2,"2, 3",1 and 3,,D,
+<p>Ferrites have</p>,low copper loss,low eddy current loss,low resistivity,higher specific gravity compared to iron,,C,
+"<p>E<sub><i>g</i></sub> is the band gap, A is pre-factor, <i>k</i> is Boltzmann constant? Which one of the following is the remaining grade of paper used in paper capacitor, besides the other two grade of paper-low and extra low loss?</p>",Strong dielectric,Regular,Rough,High loss,,B,
+<p>Barkhausen criterion of oscillation is</p>,Aβ &gt; 1,Aβ = 1,Aβ = &lt; 1,Aβ ≤ 1,,B,
+"<p>The current through a PN Junction diode with <i>v</i> volts applied to the P region to the N region, where (I<sub>0</sub> is the reverse saturation current to the diode, <i>m</i> the ideality factor, <i>k</i> the Boltzmann constant, T the absolute temperature and <i>q</i> the magnitude of charge on an electron) is</p>",I<sub>0</sub> (<i>e</i><sup>-<i>qv</i>/<i>mk</i>T</sup> - 1),I<sub>0</sub> <i>e</i><sup>-<i>qv</i>/<i>mk</i>T</sup>,I<sub>0</sub> (1 - <i>e</i><sup><i>qv</i>/<i>mk</i>T</sup>),I<sub>0</sub> (<i>e</i><sup><i>qv</i>/<i>mk</i>T</sup> - 1),,B,
+<p>The ratio of diffusion constant for hole D<sub><i>P</i></sub> to the mobility for holes is proportional to</p>,T<sup>2</sup>,T,1/T,T<sup>3</sup>,,B,
+<p>The carrier mobility in a semiconductor is 0.4 m<sup>2</sup>/Vs. Its diffusion constant at 300k will be (in m<sup>2</sup>/s).</p>,0.43,0.16,0.04,0.01,,B,
+<p>During induction heating of metals which of the following is abnormally high?</p>,Frequency,Voltage,Current,Power factor,,A,
+"<p><p><b>Assertion (A):</b>  Alkali metals are used as emitters in phototubes.
+</p><p><b>Reason (R):</b>  Alkali metals have low work functions.
+</p></p>",Both A and R are true and R is correct explanation of A,Both A and R are true but R is not a correct explanation of A,A is true but R is false,A is false but R is true,,A,
+<p>The output <i>v</i>-<i>i</i> characteristics of enhancement type MOSFET has</p>,only an ohmic region,only a saturation region,an ohmic region at low voltage value and a saturation region at high voltage,a saturation region at low voltage value and an ohmic region at high voltage,,C,
+"<p>In a full wave rectifier, the current in each of the diodes flows for</p>",the complete cycle of the input signal,half cycle of the input signal,less than half cycle of the input signal,one-fourth cycle of the input signal,,B,
+"<p>In an ideal junction transistor the impurity concentration in emitter (E ), base (B) and collector (C) is such that</p>",E &gt; B &gt; C,B &gt; C &gt; E,C &gt; E &gt; B,C = E = B,,A,
+<p>The rating of a transformer to deliver 100 watts of D.C. power to a load under half wave rectifier will be nearly</p>,1 kVA,350 VA,175 VA,108 VA,,B,
+"<p>When a <i>p</i>-<i>n</i> junction is forward biased, the current remains zero till the applied voltage overcomes the barrier potential.</p>",True,False,,,,A,
+<p>Which rectifier has the best ratio of rectification?</p>,Half wave rectifier,Full wave rectifier,Bridge rectifier,Three phase full wave rectifier,,D,
+"<p><p><b>Assertion (A):</b>  A <i>p-n</i> junction is used as rectifier.
+</p><p><b>Reason (R):</b>  A <i>p-n</i> junction has low resistance in forward direction and high resistance in reverse direction.
+</p></p>",Both A and R are true and R is correct explanation of A,Both A and R are true but R is not a correct explanation of A,A is true but R is false,A is false but R is true,,A,
+<p>In an integrated circuit the SiO<sub>2 </sub>layers provide</p>,electrical connection to external Ckt.,physical strength,isolation,conducting path.,,C,
+"<p>For a n-channel JFET with <i>r</i><sub>0</sub> = 10 kW, (V<sub>Gs</sub>= 0 V, V<sub>P</sub> = - 6 V)the drain resistance <i>r</i><sub><i>d</i></sub> at V<sub>GS</sub>= - 3 V is given by</p>",40 kΩ,2.5 kΩ,4.44 kW,120 kW,,A,
+<p>Which of the following are voltage controlled devices?</p>,Vacum triode,FET,SCR,Both (a) and (b),,D,
+<p>Which of the following is known as insulated gate FET?</p>,JFET,MOSFET,Both JFET and MOSFET,None of the above,,B,
+"<p><p><b>Assertion (A):</b>  The hybrid <span class=""symbol"">p</span> model of a transistor can be reduced to <i>h</i> parameter model and vice versa.
+</p><p><b>Reason (R):</b>  Hybrid <span class=""symbol"">p</span> and <i>h</i> parameter models are interrelated as both of them describe the same device.
+</p></p>",Both A and R are true and R is correct explanation of A,Both A and R are true but R is not a correct explanation of A,A is true but R is false,A is false but R is true,,A,
+<p>Which impurity atom will give <i>p</i> type semiconductor when added to intrinsic semiconductor?</p>,Phosphorus,Boron,Arsenic,Antimony,,B,
+<p>An insulator will conduct when the</p>,voltage applied is more than the breakdown voltage,temperature is raised to very high level,either (a) or (b) above,none of the above,,C,
+<p>Zener breakdown occurs</p>,due to rapture of covalent band,mostly in germanium junctions,in lightly doped junctions,due to thermally generated minority carriers,,A,
+<p>The maximum power handling capacity of a resistor depends on</p>,total surface area,resistance value,thermal capacity of the resistor,resistivity of the material used in the resistor,,C,
+<p>Epitaxial growth is used in IC<sub><i>s</i></sub></p>,because it produces low parasitic capacitance,because it yields back to back isolating <i>pn</i> Junction,to grow single crystal <i>n</i> doped silicon on a single crystal P-type substrate,to grow Selectivity single crystal P doped silicon of one resistivity on a P type substrate of a different resistivity,,D,
+<p>The mean life time of carrier may range from 10<sup>-9</sup> seconds to hundreds of μ-seconds.</p>,True,False,,,,A,
+<p>In which mode of BJT operation are both junctions forward biased?</p>,Active,Saturation,Cut off,Reverse active,,B,
+<p>Addition of a small amount of antimony to germanium will result in</p>,formation of P-type semiconductor,more free electrons than holes in the semiconductor,antimony concentrating on the edges of the crystals,increased resistance,,B,
+<p>In intrinsic semiconductor magnitude of free electron and hole concentrations are equal.</p>,True,False,,,,A,
+<p>A P-N junction offers</p>,high resistance in forward as well as reverse direction,low resistance in forward as well as reverse direction,conducts in forward direction only,conducts in reverse direction only,,C,
+"<p>In modern MOSFET<sub>S</sub>, the material used for the gate is</p>",high purity silicon,high purity silica,heavily doped polycrystalline silicon,epitaxial grown silicon,,C,
+"<p>Consider the following circuit configuration <ol style=""list-style-type: decimal; padding-bottom:10px;""><li style=""padding-top:10px;"">common Emitter</li><li style=""padding-top:10px;"">common Base</li><li style=""padding-top:10px;"">emitter follower</li><li style=""padding-top:10px;"">emitter follower using Darlington pair.</li></ol> The correct sequence in increasing order of I/P impedance of these configuration:</p>","2, 1, 4, 3","1, 2, 4, 3","2, 1, 3, 4","1, 2, 3, 4",,B,
+"<p><p><b>Assertion (A):</b>  Field emission is substantially independent of temperature.
+</p><p><b>Reason (R):</b>  When a high electric field is created at metal surface field emission may occur.
+</p></p>",Both A and R are true and R is correct explanation of A,Both A and R are true but R is not a correct explanation of A,A is true but R is false,A is false but R is true,,B,
+<p>In a <i>p</i>-<i>n</i>-<i>p</i> transistor operating in forward active mode</p>,base is positive with respect to emitter and collector,base is negative with respect to emitter and collector,emitter is positive with respect to base and base is positive with respect to collector,emitter is negative with respect to base and base is positive with respect to collector,,C,
+"<p>Consider the following statements. <ol style=""list-style-type: decimal; padding-bottom:10px;""><li style=""padding-top:10px;"">Etching</li><li style=""padding-top:10px;"">Exposure to UV radiation</li><li style=""padding-top:10px;"">Stripping</li><li style=""padding-top:10px;"">Developing</li></ol> After a wafer has been coated with photo resist the correct sequence of these steps in photolithography is</p>","2, 4, 3, 1","2, 4, 1, 3","4, 2, 1, 3","3, 2, 3, 1",,C,
+"<p>If both the emitter base and the collector base junctions of a bipolar transistor are forward biased, the transistor is in the</p>",active region,saturated region,cut off region,inverse mode,,B,
+<p>In a triode the potential of grid (with respect to cathode) is usually</p>,zero,negative,positive,zero or positive,,B,
+<p>A varactor diode is</p>,reverse biased,forward biased,biased to breakdown,unbiased,,A,
+<p>Fermi level in intrinsic semiconductor is at the centre of forbidden energy band.</p>,True,False,,,,A,
+<p>In a photo transistor the photocurrent is</p>,emitter base junction,collector base junction,collector,either (a) or (b),,B,
+<p>In photoelectric emission the maximum kinetic energy of emitted electron is proportional to</p>,"<span class=""root""><i>f</i></span>",<i>f</i>,<i>f</i><sup>2</sup>,<i>f</i><sup>3</sup>,,B,
+"<p>In a P-type semiconductor, the conductivity due to holes (= σ<sub>P</sub>) is equal to <i>e</i> = charge of hole, μ<sub>P</sub> = hole mobility, P = hole concentration,</p>","<img src=""/_files/images/electronics-and-communication-engineering/electronic-devices-and-circuits/58-476-1.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/electronic-devices-and-circuits/58-476-2.png""/>",P.<i>e</i>.μ<sub>P</sub>,"<img src=""/_files/images/electronics-and-communication-engineering/electronic-devices-and-circuits/58-476-3.png""/>",,C,
+<p>Hall effect is observed in a specimen when it is carrying current and is placed in a magnetic field. The resulting electric field inside the speciment will be in</p>,direction normal to both current and magnetic field,the direction of current,direction antiparallel to magnetic field,an arbitrary direction depend upon conductivity,,A,

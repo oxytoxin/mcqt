@@ -1,0 +1,1280 @@
+﻿question,choices,answer
+"Which of the following choices is NOT a characteristic of analog quantity?","[""Variable amplitude"",""One quantity is represented by another which is proportional to the first"",""Is considered discrete"",""They can vary over a continuous range of values""]",2
+"The decimal system is composed of __________ numerals or symbols.","[""2"",""10"",""8"",""16""]",1
+"Change in state is","[""same state"",""reset"",""set"",""toggle""]",3
+"What is the decimal equivalent of (1101011)<sub>2</sub>?","[""107"",""108"",""96"",""100""]",0
+"What is the next binary number following (10111)<sub>2</sub> in the counting sequence?","[""11100"",""11001"",""10110"",""11000""]",3
+"What is the largest decimal value that can be represented using 12 bits?","[""144"",""2048"",""4095"",""4096""]",2
+"What is the largest number that can be represented using 8 bits?","[""11111111"",""10111011"",""10111111"",""11011111""]",0
+"A digital circuit is also referred to as a/an _________ circuit.","[""arithmetic"",""logic"",""electrical"",""sequential""]",1
+"CMOS means","[""Complementary Main-Oxide Semiconductor"",""Complementary Metal-Oxide Semiconductor"",""Complements Main-Oxidation Semiconductor"",""Correlation in Metal Oxidized Semiconductor""]",1
+"What is the smallest type of computer in terms of their physical size?","[""Minicomputer"",""Mainframe"",""Maxicomputer"",""Microcomputer""]",3
+"Equivalent of decimal value of 178 in straight binary code is ________ and in BCD is ________.","[""11000, 11111111"",""10111101, 100000"",""10110010, 101111000"",""111111, 1100000""]",2
+"If each digit of a decimal number is represented by its binary equivalent, the result is a code called","[""Morse code"",""Binary system"",""Binary-coded decimal"",""Straight binary coding""]",2
+"Convert (614)<sub>8</sub> to decimal.","[""400"",""384"",""392"",""396""]",3
+"BCD code has always _________ bits per number.","[""2"",""4"",""8"",""16""]",1
+"Convert (B2F)<sub>16</sub> to octal.","[""5547"",""5457"",""7547"",""11010""]",1
+"Convert 1000 1001 0111 (BCD) to its decimal equivalent.","[""798"",""457"",""897"",""101""]",2
+"Which of the following items below is NOT one of the three basic operations of Boolean algebra?","[""Logical addition"",""Logical complementation"",""Logical subtraction"",""Logical multiplication""]",2
+"How many bits are required to represent an eight digit decimal number in BCD?","[""256"",""4"",""255"",""32""]",3
+"The __________ belongs to a class of codes called the minimum-change codes, in which only one bit in the code group changes when going from one step to the next.","[""Morse code"",""BCD code"",""Excess-3 code"",""Gray code""]",3
+"The most widely used 7-bit alphanumeric code is the","[""ASCII"",""EBCDIC"",""Straight binary code"",""Gray code""]",0
+"What is the hex equivalent of an ASCII code which means “HELP”?","[""48 45 4C 50"",""4C 50 51 52"",""58 57 58 48"",""48 45 50 50""]",0
+"A __________ takes the complete decimal number and represents it in binary.","[""BCD"",""Gray code"",""Excess-3 code"",""Straight binary code""]",3
+"The number of input combinations will equal _________ for an N-input truth table.","[""2<sup>N-1<\/sup>"",""N"",""2<sup>N<\/sup>"",""N-1""]",2
+"The __________ operation result will be 1 if any one or more variables is a 1.","[""NOT"",""AND"",""OR"",""NOR""]",2
+"A circuit that operates in such a way that its output is high when all its inputs are high.","[""OR"",""NAND"",""NOR"",""AND""]",3
+"What is the only input combination that will produce a high at the output of a five-input AND gate?","[""At least one low input"",""At least one high input"",""All inputs should be low"",""All inputs should be high""]",3
+"The output of an inverter is connected to the input of a second inverter. Determine the output level of the second inverter.","[""Output level is the complement of the input level"",""Output level is the same as the input level"",""High output is observed"",""Undetermined state""]",1
+"Given: x = A’BC (A+D)’. Determine the output of the circuit x if A = 0, B = 1, C = 1 and D = 0.","[""0"",""1"",""2"",""10""]",1
+"With OR operation, 1 + 1 = _______","[""1"",""0"",""10"",""2""]",0
+"Use the expression for x = D + [(A+B)C]’ · E to determine the output of the circuit for the conditions A = B = E = 1, C = D = 0.","[""0"",""1"",""2"",""10""]",0
+"The Boolean expression for a six-input OR gate","[""A + B + C"",""A \u00b7 B \u00b7 C \u00b7 D \u00b7 E \u00b7 F"",""A + B + C + D + E + F"",""U + V + W + X + Y + Z""]",2
+"What type of gate is equivalent to a NAND gate followed by an inverter?","[""OR"",""AND"",""XOR"",""NOR""]",1
+"Simplify the expression y = AB’D + AB’D’.","[""AB"",""D\u2019"",""BCD"",""AB\u2019""]",3
+"How many different ways can we implement the inversion operation in a logic circuit?","[""One"",""Two"",""Three"",""Four""]",2
+"In Boolean algebra, B · B’ =","[""B"",""B\u2019"",""0"",""1""]",2
+"In Boolean algebra, G + GF =","[""GF"",""G"",""F"",""1""]",1
+"In Boolean algebra, X + 1 =","[""X + 1"",""X"",""0"",""1""]",3
+"A circuit with no memory characteristic and whose output depends only on the current value of its inputs.","[""SLC"",""Boolean circuits"",""CLC"",""Multiplexers""]",2
+"Determine the sum-of-product expression for a circuit with four inputs and an output that is HIGH only when A is low at the same time that exactly two inputs are low.","[""A\u2019B\u2019C\u2019D + A\u2019B\u2019CD\u2019 + A\u2019BC\u2019D\u2019"",""A\u2019B\u2019C\u2019 + C\u2019D\u2019"",""A\u2019B\u2019C\u2019 + A\u2019C\u2019D\u2019 + A\u2019B\u2019D\u2019"",""10""]",0
+"What graphical device is used to convert a truth table to its corresponding logic circuit in a simple and orderly process?","[""Karnaugh map"",""State table"",""Truth table"",""State diagram""]",0
+"What is the output of an EX – OR gate when a logic signal and its exact inverse are connected to its input?","[""X\u2019"",""X"",""1"",""0""]",2
+"One of the standard levels of complexity of integrated circuits which contains 100,000 and more number of gates.","[""SSI"",""MSI"",""VLSI"",""ULSI""]",3
+"What is the most common type of digital IC package?","[""DIP"",""Metal type"",""CMOS"",""TTL""]",0
+"An acceptable voltage range of a logic 0 for TTL.","[""2 to 5 V"",""0 to 0.8 V"",""0 to 1.5 V"",""3.5 to 5 V""]",1
+"An acceptable voltage range of a logic 1 for TTL.","[""2 to 5 V"",""0 to 0.8 V"",""0 to 1.5 V"",""3.5 to 5 V""]",0
+"An acceptable voltage range of a logic 0 for CMOS operating at VDD = 5 V.","[""2 to 5 V"",""0 to 0.8 V"",""0 to 1.5 V"",""3.5 to 5 V""]",2
+"An acceptable voltage range of a logic 1 for CMOS operating at VDD = 5 V.","[""2 to 5 V"",""0 to 0.8 V"",""0 to 1.5 V"",""3.5 to 5 V""]",3
+"What happens when the input to a digital IC is left unconnected for TTL ICs?","[""It acts like logic 1"",""It becomes overheated"",""It acts just like logic 0"",""It eventually destroys itself.""]",0
+"An unconnected input is termed as _________.","[""open"",""close"",""disconnected"",""floating""]",3
+"An instruction, which means “clear the interrupt mask”.","[""ACC"",""DEL"",""CANCEL"",""CLI""]",3
+"Refers to a condition wherein the result of an arithmetic operation is more negative than the capacity of the output register.","[""Error"",""Negative infinite"",""Overflow"",""Underflow""]",3
+"Refers to a condition wherein the result of an arithmetic operation is more than the capacity of the output register.","[""Error"",""Infinite"",""Overflow"",""Underflow""]",2
+"Machine instructions represented by mnemonics is considered as","[""Machine language"",""Personal language"",""Assembly language"",""Coded language""]",2
+"The first generation language of instruction, and is considered as the most primitive instruction that can be given to a computer.","[""Machine language"",""Assembly language"",""COBOL"",""4GL""]",0
+"COBOL, FORTRAN, and ALGOL are examples of","[""Machine language"",""Assembly language"",""High-level language"",""4GL""]",2
+"An advanced programming language, more advanced than high-level language.","[""Machine language"",""Assembly language"",""High-level language"",""4GL or 4th generation language""]",3
+"Translator from high-level program to machine instructions","[""Assembler"",""Converter"",""Encoder"",""Compiler""]",3
+"Translates source program to object program","[""Assembler"",""Converter"",""Encoder"",""Compiler""]",3
+"Assemble language to machine language translator","[""Assembler"",""Converter"",""Compiler"",""Transponder""]",0
+"A program in a programming language, as written by the programmer.","[""Source program"",""Object program"",""Machine program"",""Original program""]",0
+"A source program can run in computer only after translation into a machine code by a compiler. This machine code is referred as the","[""Source program"",""Object program"",""Interpreter"",""Mnemonic""]",1
+"A program that can read a source program in high-level language, translates, and executes the statement in one operation.","[""Mnemonic"",""Object program"",""Interpreter"",""Assembler""]",2
+"A sequence of instructions or statements designed to tell the computer how to carry out a particular processing task.","[""Software"",""Hardware"",""Assembler"",""Program""]",3
+"The instructions and data in a computer system is referred to as","[""Software"",""Hardware"",""Program"",""CPU""]",0
+"Refers to digital interface in which data characteristics are individually synchronized and may be sent at a time.","[""Half-duplex"",""Asynchronous"",""Synchronous"",""Simplex""]",1
+"A network facility used to connect individual similar network segments forming a larger extended network is called _________.","[""Routers"",""Relays"",""Repeaters"",""Bridges""]",2
+"What is the circuit that detects bit error in binary characters?","[""Decoder"",""Parity detector"",""Server"",""Comparator""]",1
+"A device that enables users to transmit computer data and fax messages along telephone lines","[""Converter"",""Facsimile"",""Demodulator"",""Modem""]",3
+"What do you call the devices that allow computers to communicate with other computers through telephone lines or radio frequency?","[""Modems"",""Disk"",""Mouse"",""Super computers""]",0
+"What network facility used to interconnect distinct networks physically?","[""Relays"",""Routers"",""Repeaters"",""Bridges""]",3
+"Files in E-mail communication are send thru ____________.","[""Disk"",""Mailbox"",""Wires"",""Attachment""]",3
+"The first recipient in E-mail communication.","[""Host"",""Mail box"",""Computer"",""Disk""]",0
+"The interconnections of computers, terminals, and other equipment.","[""Cluster"",""Network"",""Cascading"",""Bonding""]",1
+"A network classification that is usually built and owned by a single company or governmental organization.","[""Private data network"",""Public data network"",""Switched network"",""Node""]",0
+"A network that is built and owned by a common carrier.","[""Public data network"",""Private data network"",""Leased line network"",""Node""]",0
+"Network configuration that let computers share their resources.","[""Peer-to-peer network"",""Hierarchical network"",""Permanent virtual circuit"",""Local Area Network""]",0
+"A computer network configuration that makes the host computer manages a network of dependent terminals.","[""Hierarchical network"",""Peer-to-peer network"",""Local Area Network"",""Wide Area Network""]",0
+"A network switching that creates a dedicated temporary connection between computers in a network.","[""Circuit switching"",""Message switching"",""Packet switching"",""Virtual switching""]",0
+"The component that provides control or supporting services for other computers, terminals, or devices in a network.","[""Host"",""Communications controller"",""Cluster controller"",""Interface equipment""]",0
+"It is a type of computer networking technology that is used to connect computers that are located within the same room, building, or complex.","[""Internet"",""Intranet"",""Local area network"",""Wide area network""]",2
+"It is a fast computer with a large amount of secondary storage, to which all of the other computers in a network have access for data storage and retrieval.","[""Mainframe"",""Maincomputer"",""File server"",""Workstation""]",2
+"It is also known as cooperative processing that involve using two or more networked computers to perform an application task.","[""Client computing"",""Server computing"",""Distributed processing"",""Client\/server computing""]",3
+"A type of server that allows multiple users to take advantage of a single printing device.","[""Printer server"",""Client server"",""Network server"",""File server""]",0
+"This topology is the most efficient centralized network for a small company","[""Bus"",""Ring"",""Tree"",""Star""]",3
+"It is the other term that is used to refer to a central device into which each node of a star network is directly connected.","[""Hub"",""Central pointer"",""Router"",""Repeater""]",0
+"It is simply the term that is used to refer to an I/O device that relies entirely on the host computer for processing.","[""Keyboard"",""Terminal"",""Monitor"",""Mouse""]",1
+"Workstations in a star network that can operate without storage devices.","[""Diskless"",""Wireless"",""Disked"",""Wired""]",0
+"A ___________ network requires that message travel around the ring to the desired destination.","[""Star"",""Bus"",""Tree"",""Ring""]",3
+"Networks that transmit data across town using electromagnetic signals are called<br/>
+____________.","[""LANs"",""WANs"",""MANs"",""All of the above""]",2
+"The process of choosing a terminal on a network to receive data is called _________.","[""Polling"",""Selection"",""Contention"",""Option""]",1
+"A microcomputer attached to a network requires a __________.","[""Dongle"",""Network interface card"",""RS-232"",""Software""]",1
+"To ___________ is to send a file to a remote computer","[""Upload"",""Download"",""Call"",""Transmit""]",0
+"To ___________ is to receive a file from a remote computer.","[""Upload"",""Download"",""Call"",""Transmit""]",1
+"It is term that is used to describe the conventions of how network components communicate with each other.","[""Network model"",""Network layer"",""Network topology"",""Network protocol""]",3
+"It is term that is used to describe the form or the shape of a network.","[""Network model"",""Network layer"",""Network topology"",""Network protocol""]",2
+"__________ is the process of asking each remote terminal, one at a time, if it has data to send.","[""Polling"",""Selection"",""Contention"",""Option""]",0
+"__________ network topology has more than one level of host computer.","[""Star"",""Bus"",""Hierarchical"",""Ring""]",2
+"It describes its System Services Control Point (SSCP), Logical Units (LU), and Physical Units (PU) as network addressable units.","[""Internetworking"",""Digital network architecture"",""Open system interconnection"",""Systems network architecture""]",3
+"Networks that include telecommunications are called __________.","[""LANs"",""WANs"",""MANs"",""All of the above""]",1
+"A multi-network IBM token ring network is also a __________ network.","[""Star"",""Bus"",""Tree"",""Mesh""]",0
+"Network topology, where stations are connected to a concentric ring through a ring interface unit (RIU).","[""Bus"",""Mesh"",""Token Ring"",""Tree""]",2
+"A _________ will decide which route the message or messages should follow through the network.","[""Router"",""Bridge"",""Repeater"",""Gateway""]",0
+"Used in connecting networks at different sites.","[""Router"",""bridge"",""repeater"",""gateway""]",1
+"Similar to a bridge, which connects networks at different sites, it connects networks with different protocols.","[""Router"",""Bridge"",""Gateway"",""Repeater""]",2
+"Used to extend the length of a network or to expand the network.","[""Router"",""Bridge"",""Gateway"",""Repeater""]",3
+"The first electronic computer and was completed in 1946.","[""ENIAC"",""UNIVAC"",""EDVAC"",""Whirlwind I""]",0
+"What is a group of circuits that provides timing and signals to all operations in the computer?","[""Output unit"",""Memory unit"",""Control unit"",""Input unit""]",2
+"Refers to the part of computer that performs mathematical operations.","[""CPU"",""Flip-flop"",""Assembly language"",""ALU""]",3
+"Convert the given binary number 1010011.01 to octal system.","[""511.1"",""511.2"",""123.1"",""123.2""]",3
+"The binary equivalent of the hexadecimal number ECE.5","[""1110 1100 1110.0101"",""1110 1100 1110.101"",""1101 1100 1101.101"",""1101 1100 1101.0101""]",0
+"Convert (1111 1111 1111 1111)<sub>2</sub> to decimal number.","[""32 767"",""32 768"",""65 535"",""65 536""]",2
+"Get the sum of (110.1101)<sub>2</sub> and (11.01)<sub>2</sub>.","[""1010.0101"",""1010.0001"",""1101.0101"",""0111.1010""]",1
+"What is the difference between the given binary numbers, 110.1101 and 11.01?","[""110.0000"",""111.1010"",""11.1010"",""11.1001""]",3
+"Find the radix-minus one complement of (110.1101)<sub>2</sub>.","[""111.0010"",""010.0011"",""1.001"",""001.0010""]",3
+"Mathematics used in expressing, analyzing, and designing of digital electronic circuits.","[""Boolean algebra"",""Numerical methods"",""Statistical approach"",""Logical mathematics""]",0
+"What is the logic circuit having two or more inputs but only output, with high output of any or all inputs are high, with low output only if all inputs are low?","[""AND gate"",""OR gate"",""NOR gate"",""NAND gate""]",1
+"_____________ refers to the class of logic circuit containing flip-flops.","[""Combinational"",""Sequential"",""Linear"",""Feedback""]",1
+"What do you call a circuit that changes pure binary code into ASCII?","[""Decoder"",""Encoder"",""Demultiplexer"",""Code converter""]",3
+"Gate with HIGH output level every time one of its inputs goes LOW.","[""NOR gate"",""NAND gate"",""XNOR gate"",""B and C""]",1
+"What logic gate that gives an output of logic one if there is an odd number of 1’s at the input?","[""NOR gate"",""NAND gate"",""XOR gate"",""XNOR gate""]",2
+"A circuit that converts the input logic level to its complement.","[""Inverter"",""NOR gate with all inputs tied"",""NAND gate with all inputs tied"",""All of these""]",3
+"Known as universal gates.","[""OR and AND"",""AND and NAND"",""OR and NOR"",""NOR and NAND""]",3
+"How many NAND-gates are needed to have an AND function?","[""2"",""3"",""4"",""5""]",0
+"The number of logic gates of the same family that can be connected to the input of a particular gate without degrading the circuit performance.","[""Fan-in"",""Fan-out"",""Input-drive"",""Input noise immunity""]",0
+"Refers to the number of logic gate of the same family that can be driven by a single output of a particular logic gate.","[""Output drive"",""Output noise margin"",""Fan-in"",""Fan-out""]",3
+"A bipolar logic family that uses resistors as its input circuit.","[""RTL"",""DTL"",""ECL"",""TTL""]",0
+"Logic family that uses diodes and transistors as its circuit elements. This logic family is more resistant to noise than RTL.","[""DTL"",""TTL"",""ECL"",""I2L or IIL""]",0
+"What is the memory element used in clocked sequential logic circuit?","[""Gates"",""Flip-flop"",""Static-RAM"",""Read-only memory""]",1
+"Determine which item is not a storage device.","[""Card readers"",""CD-ROM"",""Diskettes"",""Magnetic tape""]",0
+"What do you call the duration within it takes to read the content of a memory location after it has been addressed?","[""Execution time"",""Data rate"",""Cycle time"",""Access time""]",3
+"___________ refers to a circuit that stores pulses and produces an output pulse when specified numbers of pulses are stored.","[""Counter"",""Register"",""Flip-flop"",""Buffer""]",0
+"Flip-flop that changes state every time the input is triggered.","[""RS flip-flop"",""Master slave flip-flop"",""T flip-flop"",""JK flip-flop""]",2
+"Group of flip-flops used to store more bits.","[""Register"",""ROM"",""PROM"",""All of these""]",0
+"Memory whose contents are lost when, electrical power is removed.","[""Nonvolatile"",""Temporary"",""Dynamic"",""Volatile""]",3
+"Type of memory wherein the data are permanently stored. Usually the storing of data is done during manufacturing of the component.","[""ROM"",""PROM"",""EPROM"",""EEPROM""]",0
+"A type of ROM that allows data to be written into the device by a programmer. After it has been programmed it cannot be reprogrammed again.","[""PROM"",""EPROM"",""EEPROM"",""A and B above""]",0
+"Semiconductor-based, volatile data storage device that can be written and read randomly.","[""RAM"",""PROM"",""EPROM"",""EEPROM""]",0
+"A device/circuit used to separate two or more signals from one line.","[""Decoder"",""Demodulation"",""Demodifier"",""Demultiplexer""]",3
+"________________ is a sequence of instructions that tells the computer machine on how available data shall be processed.","[""Program"",""RAM"",""Command"",""Flowchart""]",0
+"Diagram showing procedures that are followed, and actions taken is called","[""Functional block diagram"",""Circuit diagram"",""Flow chart"",""Schematic diagram""]",2
+"What is the medium of communication with a computer where programs are written in mnemonics?","[""Assembly language"",""High level language"",""Machine language"",""Low-level language""]",2
+"A _________ is a program which converts instruction written in a source language into machine code, which can be read and acted upon by the computer.","[""Source code"",""Assembler"",""Application software"",""Compiler""]",1
+"___________ is a software that converts a high level language program into machine or assembly language program.","[""ALU"",""Cross-assembler"",""Compiler"",""CPU""]",2
+"A very high-dense and probably the most versatile integrated circuit used in digital electronics. It is known to function as the central processing unit of most computer applications.","[""Microcomputer"",""Micro-integrated"",""Macro-integrated"",""Microprocessor""]",3
+"The smallest computer in terms of physical size","[""Microcomputer"",""Minicomputer"",""Mainframe"",""Host computer""]",0
+"A logic/digital circuit that generates an output code for every input signal.","[""Enhancer"",""Compressor"",""Encoder"",""Decoder""]",2
+"An instruction that causes the program to go another task.","[""FLIP"",""SUB"",""JUMP"",""MOVE""]",2
+"Machine instructions represented by mnemonics is considered as","[""Machine language"",""Personal language"",""Assembly language"",""Coded language""]",2
+"Translator from high-level program to machine instructions","[""Assembler"",""Converter"",""Encoder"",""Compiler""]",3
+"Assemble language to machine language translator","[""Assembler"",""Converter"",""Compiler"",""Transponder""]",0
+"A program in a programming language, as written by the programmer.","[""Source program"",""Object program"",""Machine program"",""Original program""]",0
+"A source program can run in computer only after translation into a machine code by a compiler. This machine code is referred as the","[""Source program"",""Object program"",""Interpreter"",""Mnemonic""]",1
+"A sequence of instructions or statements designed to tell the computer how to carry out a particular processing task.","[""Software"",""Hardware"",""Assembler"",""Program""]",3
+"The instructions and data in a computer system is referred to as","[""Software"",""Hardware"",""Program"",""CPU""]",0
+"VGA was developed by","[""sun"",""apple"",""hp"",""none of the above""]",3
+"____ is the amount of data that can be transmitted in a fixed amount of time","[""convergence"",""resolution"",""bandwidth"",""none of the above""]",2
+"which one of the following video standards is not introduced by IBM","[""8514\/a"",""xga"",""vga"",""none of the above""]",3
+"which one of the following printers cannot produce letter-quality type?","[""daisy wheel"",""inkjet"",""laser printers"",""dot matrix""]",3
+"which one of the following is not an impact printer?","[""daisy wheel"",""dotmatrix"",""laser printers"",""line printers""]",2
+"laser Printer is also known as","[""thermal printers"",""page printers"",""impact printers"",""all of the above""]",1
+"PCL stands for","[""printer control language"",""pulse coded language"",""portable control language"",""none of the above""]",0
+"Plotters differ from printer in that they draw lines using a","[""laser"",""pen"",""daisy wheel"",""cartridge""]",1
+"____ is an expansion board that enables a computer to manipulate and output sounds","[""motherboard"",""soundcard"",""pci"",""none of the above""]",1
+"the number of electron guns in a color CRT monitor is","[""2"",""3"",""4"",""1""]",1
+"which of the following is an operating system?","[""dos"",""os\/2"",""unix"",""all of the above""]",3
+"which of the following is a database management system?","[""ms word"",""lotus 1-2-3"",""oracle"",""none of the above""]",2
+"which of the following is a spreadsheet?","[""MS excel"",""MS PowerPoint"",""MS word"",""none of the above""]",0
+"which of the following is a word processor?","[""MS word"",""WordStar"",""WordPerfect"",""all of the above""]",3
+"Program that converts a source code into an object code","[""operating systems"",""compilers"",""spreadsheet"",""none of the above""]",1
+"Program that analyses and execute each line of the source code in succession","[""compiler"",""spreadsheet"",""interpreter"",""all of the above""]",2
+"which of the following is a systems software","[""word processor"",""debugger"",""spreadsheet"",""all of the above""]",1
+"which of the following is a presentation graphics software","[""lotus freelance graphics"",""amipro"",""xenix"",""all of the above""]",0
+"SQL stands for","[""standard query language"",""sequential query language"",""structured query language"",""none of the above""]",2
+"which of the following is the most important program in a computer","[""word processor"",""spreadsheet"",""presentation graphics"",""none of the above""]",3
+"Primary purpose of operating system","[""productivity maximization"",""coding"",""maintenance"",""testing""]",0
+"MVS stands for","[""many very large system"",""multi value system"",""multiple virtual storage"",""none of the above""]",3
+"which of the following is a multiuser operating system?","[""dos"",""mvs"",""unix"",""all of the above""]",0
+"DOS stands for","[""disk operating system"",""dirty old system"",""dynamic operating system"",""none of the above""]",0
+"John Napier invented Logarithm in","[""1614"",""1617"",""1620"",""none of above""]",0
+"An integrated circuit is","[""a complicated circuit"",""an integrating device"",""much costlier than a single transistor"",""fabricated on a tiny silicon chip""]",3
+"What type of control pins are needed in a microprocessor to regulate traffic on the bus, in order to prevent two devices from trying to use it at the same time?","[""bus control"",""interrupts"",""bus arbitration"",""status""]",2
+"Where as a computer mouse moves over the table surface, the trackball is","[""stationary"",""difficult to move"",""dragged"",""moved in small steps""]",0
+"Which of the following is used as a primary storage device?","[""magnetic drum"",""hard disks"",""floppy"",""all of above""]",0
+"Multi user systems provided cost savings for small business because they use a single processing unit to link several","[""personal computers"",""workstations"",""dumb terminals"",""mainframes""]",2
+"What are the three decisions making operations performed by the ALU of a computer?","[""grater than"",""less than"",""equal to"",""all of the above""]",3
+"The word processing task associated with changing the appearance of a document is","[""editing"",""writing"",""formatting"",""all of above""]",2
+"Nepal brought a computer for census of 2028 BS. This computer was of","[""first generation"",""second generation"",""third generation"",""fourth generation""]",2
+"Algorithm and Flow chart help us to","[""know the memory capacity"",""identify the base of a number system"",""direct the output to a printer"",""specify the problem completely and clearly""]",3
+"Which statement is valid about computer program?","[""it is understood by a computer"",""it is understood by programmer"",""it is understood user"",""both a &amp; b""]",3
+"The difference between memory and storage is that memory is _____ and storage is __","[""temporary, permanent"",""permanent, temporary"",""slow, fast"",""all of above""]",0
+"When was Pascaline invented?","[""1617"",""1620"",""1642"",""1837""]",2
+"Which of the following statement is valid?","[""lady Augusta is the first programmer"",""Ada is the daughter of lord Byron, a famous English poet"",""Ada is a programming language developed by us defense"",""all of above""]",3
+"A compiler is a translating program which","[""translates instruction of a high-level language into machine language"",""translates entire source program into machine language program"",""it is not involved in program??\u20ac\u2122s execution"",""all of above""]",3
+"What is required when more than one person uses a central computer at the same time?","[""light pen"",""mouse"",""digitizer"",""terminal""]",3
+"Which of the following is the first computer to use Stored Program Concept?","[""Univac"",""eniac"",""edsac"",""none of above""]",2
+"The term gigabyte refers to","[""1024 bytes"",""1024 kilobytes"",""1024 megabytes"",""1024 gigabyte""]",2
+"in which year was UK’s premier computing event called? The which computer? started?","[""1980"",""1985"",""1986"",""1987""]",0
+"Once you load the suitable program and provide required data, computer does not need human intervention. This feature is known as","[""accuracy"",""reliability"",""versatility"",""automatic""]",3
+"What is a brand?","[""the name of companies that made computers"",""the name of product a company gives to identify its product in market"",""a name of class to indicate all similar products from different companies"",""all of above""]",1
+"Machine language is","[""machine dependent"",""difficult to program"",""error prone"",""all of above""]",3
+"A byte consists of","[""one bit"",""four bits"",""eight bits"",""sixteen bits""]",2
+"Modern Computers are very reliable, but they are not","[""fast"",""powerful"",""infallible"",""cheap""]",2
+"What is the date when Babbage conceived Analytical engine","[""1642"",""1837"",""1880"",""1850""]",1
+"Circular division of disks to store and retrieve data are known as","[""tracks"",""sectors"",""cycles"",""rings""]",0
+"Which statement is valid?","[""1KB = 1024 bytes"",""1 MB=2048 bytes"",""1 MB = 1000 kilobytes"",""1 KB = 1000 bytes""]",0
+"The least significant bit of the binary number, which is equivalent to any odd decimal number, is:","[""0"",""1"",""1 or 0"",""3""]",0
+"The latest PC keyboards use a circuit that senses the movement by the change in its capacitance,","[""Capacitance keyboard"",""Mechanical keyboard"",""Qwerty keyboard"",""Dvorak keyboard""]",0
+"The Stepped Reckoner was invented by","[""John Napier"",""William Oughtred"",""Gottfried Leibnitz"",""Blaise Pascal""]",2
+"A term used to describe interconnected computer configuration is","[""Multiprogramming"",""Modulation"",""Multiprocessing"",""Micro program sequence""]",0
+"While inserting a diskette into the diskette drive of a PC, the diskette’s label side should face","[""East"",""North"",""South"",""Up""]",3
+"Most of the inexpensive personal computers do not have any disk or diskette drive. What is the name of such computes?","[""Home computers"",""Diskless computers"",""Dedicated computers"",""General purpose computers""]",1
+"What is a light pen?","[""Mechanical Input device"",""Optical input device"",""Electronic input device"",""Optical output device""]",1
+"Which of the following class of computers cannot support multiple users simultaneously?","[""Mainframe Computer"",""Minicomputers"",""Micro Computers"",""All of them can support""]",2
+"Which of the following is considered first computer in the world?","[""Z3"",""ABC"",""Mark I"",""None of above""]",2
+"When a key is pressed on the keyboard, which standard is used for converting the keystroke into the corresponding bits?","[""ANSI"",""ASCII"",""EBCDIC"",""ISO""]",0
+"In order to play and hear sound on a computer, one needs:","[""a sound card and speakers"",""a microphone"",""all of them required"",""none of them required""]",0
+"Which of the following devices can be sued to directly image printed text?","[""OCR"",""OMR"",""MICR"",""All of above""]",0
+"For which of the following computers can’t be used?","[""gathering data"",""calculating data"",""comparing data"",""Arranging data""]",0
+"Which of the following is called low level languages?","[""Machine language"",""Assembly language"",""Both of the above"",""None of above""]",2
+"A factor which would strongly influence a businessperson to adopt a computer is its","[""Accuracy"",""Reliability"",""Speed"",""All of above""]",3
+"Who invented punched cards?","[""Charles Babbage"",""Dr. Herman Hollerith"",""Howard Aikin"",""Joseph Jacquard""]",3
+"Each model of a computer has a unique","[""Assembly of a computer"",""Machine language"",""High level language"",""All of the above""]",1
+"Which of the following is not a primary storage device?","[""Magnetic tape"",""Magnetic disk"",""Optical disk"",""All of the above""]",3
+"In a punched card system, data is processed by a","[""Keypunch machine, sorter and posting machine"",""Accounting machine, posting machine, and billing machine"",""Sorter, posting machine, and billing machine"",""Accounting machine, keypunch machine and sorter""]",3
+"Which device is required for the Internet connection?","[""Joystick"",""Modem"",""CD Drive"",""NIC Card""]",1
+"A set of rods where numbers were carved and used for multiplication and division aids is known as","[""Pascaline"",""Napier\u2019s Bones"",""Stepped Reckoner"",""Slide Rule""]",1
+"Seek time is","[""time to position the head over proper track"",""time to position the head over proper sector"",""time to position the head over proper cylinder"",""none of above""]",0
+"the unit of information transferred between items in memory hierarchy is","[""bit"",""cache"",""block"",""none of the above""]",2
+"burning the PROM means","[""erasing the prom"",""programming the prom"",""reading the prom"",""none of the above""]",1
+"which of the following is called hyper page mode DRAM?","[""edodram"",""bedodram"",""fpmdram"",""none of the above""]",0
+"which one of the following runs synchronously to the system clock?","[""dram"",""fpmdram"",""sdram"",""none of the above""]",2
+"which one of the following can be erased using UV light?","[""eprom"",""prom"",""eeprom"",""none of the above""]",0
+"which one of the following can be erased using electricity","[""eprom"",""prom"",""eeprom"",""none of the above""]",2
+"which one of the following is not a flexible disk?","[""floppy disk"",""zipdisk"",""superdisk"",""winchester disk""]",3
+"DDS stands for","[""discrete data systems"",""direct data storage"",""digital data storage"",""none of the above""]",2
+"Which company defined DDS standard?","[""3m and sun"",""sony and 3m"",""sony and hp"",""none of the above""]",2
+"Magnetic Disks are often called","[""dds"",""dasd"",""dat"",""none of the above""]",1
+"QIC was introduced by the","[""sony"",""hp"",""seagate"",""3m""]",3
+"which one of the following is an optical disk?","[""cd"",""dvd"",""worm"",""all of the above""]",3
+"Storage medium from which the data is read and to which it is written using laser","[""magnetic disk"",""zip disk"",""floppy disk"",""optical disk""]",3
+"The capacity of a super disk is","[""120mb"",""32mb"",""700mb"",""none of the above""]",0
+"The time it takes an access arm to get into position over a particular track","[""data transfer time"",""rotational delay time"",""head switching time"",""none of the above""]",3
+"The time it takes for the particular record to be positioned under the read/write Head","[""data transfer time"",""rotational delay time"",""seek time"",""head switching time""]",1
+"what refers to sets of electronic instructions that tell the hardware what to do","[""hardware"",""software"",""data"",""users""]",1
+"The technology used in watches and calculators","[""lcd"",""crt"",""led"",""none of the above""]",0
+"VGA stands for","[""video graphics accelerator"",""video generator adapter"",""video graphics array"",""none of the above""]",2
+"which one of the following is not a characteristics of a monitor","[""resolution"",""convergence"",""bandwidth"",""none of the above""]",3
+"Monochrome monitors display ____ colours","[""1"",""2"",""3"",""none of the above""]",1
+"Pixel is a short form for","[""picture cell"",""picture element"",""picture electric"",""none of the above""]",1
+"_____ is a single point in graphics image","[""trackpoint"",""cell"",""pixel"",""none of the above""]",2
+"an 8bit color monitor can display _____ colors","[""128"",""32"",""256"",""1024""]",2
+"true color monitors use _____ bits per pixel","[""24"",""32"",""128"",""none of the above""]",0
+"Before a disk drive can access any sector record, a computer program has to provide the record’s disk address. What information does this address specify?","[""track number"",""sector number"",""surface number"",""all of above""]",3
+"Each set of Napier’s bones consisted of ______ rods.","[""5"",""9"",""11"",""13""]",2
+"When was the world’s first laptop computer introduced in the market and by whom?","[""Hewlett-Packard, 1980"",""Epson, 1981"",""laplink traveling software inc, 1982"",""tandy model-200, 1985""]",1
+"A compiler is a translating program which","[""translates instruction of a high-level language into machine language"",""translates entire source program into machine language program"",""it is not involved in program\u2019s execution"",""all of above""]",3
+"in which year was UK’s premier computing event called? The which computer? started?","[""1980"",""1985"",""1986"",""1987""]",0
+"Which of the following were the contribution of John Presper Eckert and John W. Mauchly?","[""univac"",""eniac"",""edvac"",""mark1""]",1
+"Which one of the follo0wing had design that remained central to computer engineering for next 40years?","[""univac"",""eniac"",""edvac"",""colossus""]",2
+"Who developed Integrated Circuits?","[""john von Neumann"",""jack Kilby"",""Jim Berners lee"",""Remington rand""]",1
+"Who introduced and marketed commercialized microcomputers?","[""IBM"",""apple"",""hp"",""none of the above""]",0
+"Which one of the following is known as Mid-Range computers?","[""workstation"",""microcomputers"",""personal computers"",""minicomputers""]",3
+"Which components invention led to the second generation of computers?","[""integrated circuits"",""transistors"",""vacuum tube"",""none of the above""]",1
+"Which one of the following is related to 4th generation computers?","[""superconductors"",""assembly language"",""intel4004"",""ic""]",2
+"How many characters can be coded in ASCII?","[""7"",""128"",""256"",""none of the above""]",1
+"Decimal equivalent for binary number 111111 is","[""25"",""40"",""65"",""none of the above""]",3
+"Which of the following is the characteristics of a computer?","[""word length"",""accuracy"",""speed"",""all of the above""]",3
+"Which one of the following is machine independent?","[""machine language"",""assembly language"",""high level language"",""all of the above""]",2
+"Fifth Generation languages is also known as","[""machine language"",""assembly language"",""natural language"",""none of the above""]",2
+"Which of the following is not a procedural language","[""Cobol"",""pascal"",""lisp"",""Fortran""]",2
+"MANTIS is an","[""application generator"",""report generator"",""personal computer application software"",""none of the above""]",0
+"Which one of the following is a natural language?","[""basic"",""lisp"",""telon"",""none of the above""]",1
+"Which one of the following is a function of telecommunication software?","[""modulation"",""demodulation"",""access control"",""none of the above""]",2
+"In which network the ends are not connected?","[""bus"",""star"",""ring"",""none of the above""]",0
+"How many channels a half inch diameter fiber optic cable can carry?","[""500"",""5500"",""50000"",""none of the above""]",2
+"Which one of the following is a network protocol?","[""tcp\/ip"",""spx\/ipx"",""netbios"",""all of the above""]",3
+"When we look at the cost, which of the following computer is most expensive?","[""Mainframe Computer"",""Minicomputers"",""Micro Computers"",""Super Computers""]",3
+"Which of the following will happen when data is entered into a memory location?","[""It will add to the content of the location"",""It will change the address of the memory location"",""It will erase the previous content"",""It will not be fruitful if there is already some data at the location""]",2
+"Which device is used as the standard pointing device in a Graphical User Environment?","[""Keyboard"",""Mouse"",""Joystick"",""Track ball""]",1
+"Minicomputers and micro computers are from which generation of computers?","[""First"",""Second"",""Third"",""Fourth""]",3
+"Pick the one that is used for logical operations or comparisons such as less than equal to or greater than.","[""Arithmetic and Logic Unit"",""Control Unit"",""Both of above"",""None of above""]",0
+"The operating speed of third generation computer was","[""Milliseconds"",""Microseconds"",""Nanoseconds"",""Picoseconds""]",2
+"Which of the following is true?","[""Mark I was 8 feet long"",""Mark I was 2 feet long"",""Mark I was 40 feet long"",""None of above""]",3
+"Charles Babbage is considered the father of modern computers because","[""of his difference engine"",""of his analytical engine"",""his concept of input, mill, and output"",""All of above""]",2
+"Which of the following is used only for data entry and storage, and never for processing?","[""Mouse"",""Dumb terminal"",""Micro computer"",""Dedicated data entry system""]",1
+"What was the first computer brought in Nepal?","[""ICL\/2950"",""ENIAC"",""IBM 1401"",""None of above""]",2
+"The primary advantage of key-to-tape data entry system is","[""A large percentage of editing can be performed at the time of data entry"",""Key verification is easily performed"",""The tape is reusable"",""Keying errors can be detected as they occur.""]",2
+"Basic is ________ language.","[""a procedural"",""an object oriented"",""both A and B"",""none of the above""]",0
+"A computer Program that translates one program instruction at a time into machine language is called a/an","[""Interpreter"",""CPU"",""Compiler"",""Simulator""]",0
+"Which of the following have the fastest access time?","[""Semiconductor Memories"",""Magnetic Disks"",""Magnetic Tapes"",""Compact Disks""]",0
+"The first electronic general purpose digital computer built by Eckert and Mauchly called ENIAC did not work on the stored program concept. How many numbers could it store in its internal memory?","[""100"",""20"",""40"",""80""]",1
+"The computer that process both analog and digital is called","[""Analog computer"",""Digital computer"",""Hybrid computer"",""Mainframe computer""]",2
+"What was the name of the first commercially available microprocessor chip?","[""Intel 308"",""Intel 33"",""Intel 4004"",""Motorola 639""]",2
+"Which of the following class of computers can process physical quantities such as speed?","[""Analog Computers"",""Digital Computers"",""Hybrid Computers"",""None of above""]",0
+"How many types of storage loops exists in magnetic bubble memory","[""8"",""4"",""16"",""2""]",3
+"When did IBM introduce the 20286 based PC/AT?","[""1982"",""1984"",""1985"",""1989""]",1
+"The silicon chips used for data processing are called","[""RAM chips"",""ROM chips"",""Micro processors"",""PROM chips""]",2
+"Which computers used operating systems by Microsoft?","[""IBM PCs"",""Apple\/Macintosh PCs"",""IBM Compatibles"",""Both A &amp; C""]",3
+"One of the main features that distinguish microprocessors from micro-computer is","[""Words are usually large in microprocessors"",""Words are shorter in microprocessors"",""Microprocessor does not contain I\/O device"",""Exactly the same as the machine cycle time""]",2
+"Napier’s Bones were invented in","[""1614"",""1617"",""1620"",""None of above""]",1
+"One computer that is not considered a portable computer is","[""Minicomputer"",""A laptop computer"",""Tablet PC"",""All of the above""]",0
+"which part is called the brain of the computer","[""hard disk"",""CPU"",""alu"",""memory""]",1
+"1 giga byte is","[""1024 bytes"",""1024 kb"",""1024 mb"",""none of the above""]",2
+RAM,"[""raid applicable memory"",""random access memory"",""radio activated memory"",""none of the above""]",1
+"Which of the following is not an output device","[""trackball"",""monitor"",""printer"",""speaker""]",0
+"Cray Y-MP/C90 is a","[""microcomputer"",""minicomputer"",""mainframe"",""supercomputer""]",3
+"which of the following is a portable computer?","[""laptop"",""subnotebooks"",""pda"",""all of the above""]",3
+"IBM S/390 is","[""microcomputer"",""minicomputer"",""mainframe"",""supercomputer""]",2
+"which one of the following is not a category of microcomputers","[""workstations"",""desktop"",""notebook"",""none of the above""]",3
+"sun Blade 2000 is a","[""desktop"",""workstation"",""supercomputer"",""none of the above""]",1
+"DDP stands for","[""direct database processing"",""distributed data processing"",""distributed database protection"",""direct data processing""]",1
+"which of these work well in DDP?","[""minicomputers"",""mainframes"",""workstation"",""portable computers""]",0
+"which one of the following is a Mainframe?","[""sunblade 2000"",""ibm z800"",""cray y-mp"",""all of the above""]",1
+"the complex procedure that converts raw data into useful information","[""parsing"",""powering"",""processing"",""none of the above""]",2
+"the circuit board to which a microprocessor is attached is","[""breadboard"",""perfboard"",""motherboard"",""none of the above""]",2
+"which one of the following is not a secondary storage device","[""magnetic tape"",""magneto optical disk"",""zip disk"",""none of the above""]",3
+"the chip used in IBM PC XT is","[""8088"",""8086"",""Pentium"",""none of the above""]",1
+"which one of these belong to Power PC family?","[""Pentium"",""8086"",""603"",""none of the above""]",2
+"Power Mac personal computers are built on","[""intel"",""Motorola"",""g3"",""none of the above""]",2
+"which of the following belongs to 80×86 line","[""68000"",""603"",""80286"",""none of the above""]",2
+"access time is also known as","[""memory cycle time"",""effective access time"",""latency"",""none of the above""]",2
+"the performance of hierarchical memory is defined by","[""response time"",""effective access time"",""memory cycle time"",""none of the above""]",1
+"The memory closest to the processor is known as","[""page"",""ram"",""cache"",""none of the above""]",2
+"Memories are characterized by","[""function"",""capacity"",""response times"",""all of the above""]",3
+"the minimum period between two successive request is","[""response time"",""effective access time"",""memory cycle time"",""none of the above""]",2
+"Tape speed is measured in","[""Feet per second"",""Inch per second"",""Meter per second"",""Centimeter per second""]",1
+"Punched cards were first introduced by","[""Powers"",""Pascal"",""Jacquard"",""Herman Hollerith""]",3
+"Which computer support co-processors?","[""XT computer"",""AT computers"",""None of these"",""Both of these""]",1
+"A floppy disk contains","[""Circular tracks only"",""Sectors only"",""Both circular tracks and sectors"",""None of the above""]",2
+"The capacity of 3.5-inch floppy disk is","[""1.40 MB"",""1.44 GB"",""1.40 GB"",""1.44 MB""]",3
+"The contribution of Konrad Zuse was long ignored because","[""He made the computers secretly"",""his computers were very complicated, and it took time for the people to recognize its power"",""of political reasons. He was German."",""All of the above""]",2
+"Any method for controlling access to or use of memory is known","[""Memory map"",""Memory protection"",""Memory management"",""Memory instruction""]",1
+"In what respect computers are superior to human beings?","[""Diligence"",""Intelligence"",""Both of above"",""None of above""]",0
+"Com in Latin is","[""intensifying prefix"",""intensifying suffix"",""a term that means to reckon"",""None of above""]",0
+"The system unit of a personal computer typically contains all of the following except:","[""Microprocessor"",""Disk controller"",""Serial interface"",""Modem""]",3
+"Which of the following is related to fifth generation computers?","[""Knowledge information processing system"",""Very large-scale integration (VLSI)"",""Both of above"",""Only b""]",0
+"The process of starting a or restarting a computer system by loading instructions from a secondary storage device into the computer memory is called","[""Duping"",""Booting"",""Padding"",""CPS""]",1
+"MSI stands for","[""Medium Scale Integrated Circuits"",""Medium System Integrated Circuits"",""Medium Scale Intelligent Circuit"",""Medium System Intelligent Circuit""]",0
+"A Pixel is _________","[""A computer program that draws picture"",""A picture stored in secondary memory"",""The smallest resolvable part of a picture"",""None of these""]",2
+"A/n _____ Device is any device that provides information, which is sent to the CPU","[""Input"",""Output"",""CPU"",""Memory""]",0
+"What was the nick name of the computer used by the Americans in 1952 for their H-bomb project?","[""ENIAC"",""EDSAC"",""MANIAC"",""UNIVAC""]",2
+"Which is the type of memory for information that does not change on your computer?","[""RAM"",""ROM"",""ERAM"",""RW \/ RAM""]",1
+"LSI, VLSI &amp; ULSI chips were used in which generation?","[""First"",""Second"",""Third"",""Fourth""]",3
+"Which of the following is the largest manufacturer of Hard Disk Drives?","[""IBM"",""Seagate"",""Microsoft"",""3M""]",1
+"Networking such as LAN, MAN started from","[""First generation"",""Second generation"",""Third generation"",""Fourth generation""]",3
+"Which characteristic of computer distinguishes it from electronic calculators?","[""Accuracy"",""Storage"",""Versatility"",""Automatic""]",2
+"Which of the following registers is used to keep track of address of the memory location where the next instruction is located?","[""Memory address register"",""Memory data register"",""Instruction register"",""Program counter""]",3
+"Which of the following is not the classification of computers based on application?","[""Electronic Computers"",""Analog Computers"",""Digital Computers"",""Hybrid Computers""]",0
+"Which of the following is not a type of Software","[""System Software"",""Application Software"",""Utility Software"",""Entertainment Software""]",3
+"Who invented the high-level language C?","[""Dennis M. Ritchie"",""Niklaus Writh"",""Seymour Papert"",""Donald Kunth""]",0
+"Primary memory stores","[""Data alone"",""Programs alone"",""Results alone"",""All of these""]",3
+"After copying the content how many times can you paste?","[""1"",""16"",""32"",""Many""]",3
+"WAN stands for","[""Wap Area Network"",""Wide Area Network"",""Wide Array Net"",""Wireless Area Network""]",1
+"An error in computer data is called","[""Chip"",""Bug"",""CPU"",""Storage device""]",1
+"The instructions for starting the computer are house on","[""Random access memory"",""CD-ROM"",""Read only memory chip"",""All of above""]",2
+"1 nibble equals to","[""1 bits"",""2 bits"",""4 bits"",""8 bits""]",2
+"Perforated paper used as input of output media is known as","[""paper tapes"",""magnetic tape"",""punched papers tape"",""card punch""]",0
+"The secondary storage devices can only store data, but they cannot perform","[""Arithmetic Operation"",""Logic operation"",""Fetch operations"",""Either of the above""]",3
+"Which American computer company is called Big Blue?","[""Microsoft"",""Compaq Corp"",""IBM"",""Tandy Svenson""]",2
+"It was in 2028 BS the _________ was brought in to calculate census data.","[""IBM 1400"",""IBM 1401"",""ICL 2950"",""None of above""]",1
+"Who is the inventor of ABC Computer?","[""John v. Atanasoff"",""Clifford Berry"",""Both of above"",""None of above""]",2
+"Which of the following is the largest unit?","[""data"",""field"",""record"",""database file""]",3
+"Find out who is not the inventor of transistors among following names","[""John Burdeen"",""William Shockley"",""Walter Brattain"",""Lee de Forest""]",3
+"Which of the following is not true for a magnetic disk?","[""It is expensive relative to magnetic tape"",""It provides only sequential access to stored data"",""Users can easily update records by writing over the old data"",""All of above""]",1
+"A disadvantage of the laser printer is","[""It is quieter than an impact printer"",""It is very slow"",""The output is of a lower quality"",""None of the above""]",3
+"The most commonly used standard data code to represent alphabetical, numerical and punctuation characters used in electronic data processing system is called","[""ASCII"",""EBCDIC"",""BCD"",""All of above""]",0
+"Which access method is used to access cassette tape?","[""Direct"",""Sequential"",""Both of the above"",""None of the above""]",1
+"A Compiler is ____","[""a combination of computer hardware"",""a program which translates from one high-level language to another"",""a program which translates from one high-level to a machine level language"",""None of these""]",2
+"Which unit holds data temporarily?","[""Input unit"",""Secondary storage unit"",""Output Unit"",""Primary Memory Unit""]",3
+"The computer size was very large in","[""First Generation"",""Second Generation"",""Third Generation"",""Fourth Generation""]",0
+"A name or number used to identify storage location devices?","[""A byte"",""A record"",""An address"",""All of above""]",2
+"Which of the following is not computer language?","[""High level language"",""Medium level language"",""Low level language"",""All of the above""]",1
+"Reading data is performed in magnetic disk by","[""Read\/write leads"",""Sectors"",""Track"",""Lower surface""]",0
+"IBM 7000 digital computer","[""Belongs to second generation"",""Uses VLSI"",""Employs semiconductor memory"",""Has modular constructions""]",3
+"Computers built before the First Generation of computers were:","[""Mechanical"",""Electro-mechanical"",""Electrical"",""None of these""]",1
+"Which of the following is a way to access secondary memory?","[""Random access memory"",""Action method"",""Transfer method"",""Density method""]",0
+"What is System Analysis?","[""The design of the screen the user will see and use to enter or display data"",""System analysis defines the format and type of data the program will use"",""System Analysis involves creating formal model of the problem to be solved"",""None of the above""]",2
+"Which of the following devices have a limitation that we can only store information to it but cannot erase or modify it?","[""Floppy Disk"",""Hard Disk"",""Tape Drive"",""CDROM""]",3
+"Which is an item of storage medium in the form of circular plate?","[""Disk"",""CPU"",""Printer"",""ALU""]",0
+"Daisy wheel printer is a type of","[""Matrix printer"",""Impact printer"",""Laser printer"",""Manual printer""]",1
+"A number system that has eight different symbols to represent any quantity is known as","[""Binary"",""Octal"",""Decimal"",""Hexadecimal""]",1
+"The two basic types of record access methods are:","[""Sequential and random"",""Sequential and indexed"",""Direct and immediate"",""Online and real time""]",0
+"Artificial Intelligence is associated with which generation?","[""First Generation"",""Second Generation"",""Fifth Generation"",""Sixth Generation""]",2
+"One of a class of storage device devices that can access storage locations in any order is","[""DTE"",""DASD"",""DDE"",""DDE""]",1
+"The actual execution of instructions happens in","[""ALU"",""CU"",""Memory"",""None of above""]",0
+"Floppy disks are available in","[""Single side single density"",""Single side double density"",""Both of above"",""None of above""]",2
+"Which of the following is not electro-mechanical computer?","[""Z3"",""ABC"",""mark I"",""ENIAC""]",3
+"Which of the following is a programming language?","[""Lotus"",""Pascal"",""MS-Excel"",""Netscape""]",1
+"Which converts the user data into machine readable form?","[""input unit, output unit, control unit"",""central processing unit"",""output unit"",""decoder unit""]",0
+"In what respect human beings are superior to computers?","[""Diligence"",""Intelligence"",""Slavery"",""Reliability""]",1
+"As compared to the secondary memory, the primary memory of a computer is","[""Large"",""Cheap"",""Fast"",""Slow""]",2
+"The language that the computer can understand and execute is called","[""Machine language"",""Application software"",""System program"",""All of above""]",0
+"How was the generation of computer classified?","[""by the device used in memory &amp; processor"",""by the speed of computer"",""by the model of the computer"",""by the accuracy of computer""]",0
+"Which of the following is not a feature of first-generation computers","[""They used vacuum tubes or valves as main electronic component"",""They consumed lots of electricity and produced excessive heat"",""They used machine language and assembly language to program the machine"",""None of above""]",2
+"CAD stands for","[""Computer aided design"",""Computer algorithm for design"",""Computer application in design"",""All of the above""]",0
+"Which of the following memories has the shortest access times?","[""Cache memory"",""Magnetic bubble memory"",""Magnetic core memory"",""RAM""]",0
+"A small or intelligent device is so called because it contains within it a","[""Computer"",""Microcomputer"",""Programmable"",""Sensor""]",3
+"Which of the following is not a primary storage device?","[""Magnetic tape"",""Magnetic disk"",""Optical disk"",""All of above""]",3
+"Who invented Analytical engine?","[""Blaise Pascal"",""George Bool"",""Charles Babbage"",""Dr. Herman Hollerith""]",2
+"Model 5100 was ______ in 1957.","[""The first PC built by IBM"",""The first PC built by Apple"",""The first PC built by Motorola"",""The first PC built by Intel""]",0
+"VGA is","[""Video Graphics Array"",""Visual Graphics Array"",""Volatile Graphics Array"",""Video Graphics Adapter""]",0
+"A kind of scanner MICR is the short form of","[""Magnetic Ink Character Reader"",""Magnetic Ink Code Reader"",""Magnetic Ink Cases Reader"",""None""]",0
+"Which of the following is not a class based on size?","[""Mainframe Computer"",""Micro Computer"",""Minicomputer"",""Digital Computer""]",3
+"Which 8-bit chip was used in many of today’s TRS-80 computers?","[""Z-8000"",""Motorola 6809"",""Z-8808"",""Z-80""]",3
+"Which of the following disk is fixed disk?","[""Hard Disks"",""Flash Disks"",""Blu-Ray Disks"",""DVDs""]",0
+"Which of the following professions has not been affected by personal computers?","[""Medical"",""Clerical and law"",""Accounting"",""None of the above""]",3
+"The word Abacus is derived from Abax, a word from","[""Latin language"",""Greek Language"",""Sanskrit language"",""Ancient Egypt""]",0
+"In latest generation computers, the instructions are executed","[""Parallel only"",""Sequentially only"",""Both sequentially and parallel"",""All of above""]",2
+"Which of the following memory medium is not used as main memory system?","[""Magnetic core"",""Semiconductor"",""Magnetic tape"",""Both a and b""]",2
+"An online backing storage system capable of storing larger quantities of data is","[""CPU"",""Memory"",""Mass storage"",""Secondary storage""]",2
+"A kind of serial dot-matrix printer that forms characters with magnetically charged ink sprayed dots is called","[""Laser printer"",""Ink-jet printer"",""Drum printer"",""Chan printer""]",1
+"Which of the following does not affect the resolution of a video display image?","[""Bandwidth"",""Raster scan rage"",""Vertical and horizontal lines of resolution"",""Screen size""]",3
+"Which of the following printing devices an output composed of a series of data?","[""Wire matrix printer"",""Band printer"",""Wang image printer"",""Both a and c""]",3
+"Which of the following is an example of fifth generation computer?","[""PIM\/m"",""ICL 2950"",""IBM 1401"",""None of above""]",0
+"Magnetic disks are the most popular medium for","[""Direct access"",""Sequential access"",""Both of above"",""None of above""]",2
+"Which of the following is not a third-generation computer?","[""IBM 360"",""IBM 1401"",""PDP-8"",""HP2115""]",1
+"The number of records contained within a block of data on magnetic tape is defined by the","[""Block definition"",""Record contain clause"",""Blocking factor"",""Record per block""]",2
+"Mark I is also known as","[""American Sequence Controlled Calculator"",""Automatic Sequence Calculating Controller"",""American Sequence Controlled Computer"",""Automatic Sequence Controlled Calculator""]",3
+"Which of the following registers is loaded with the contents of the memory location pointed by the PC?","[""Memory address registers"",""Memory data registers"",""Instruction register"",""Program counter""]",2
+"Which of the following are the cheapest memory devices in terms of Cost/Bit?","[""Semiconductor memories"",""Magnetic Disks"",""Compact Disks"",""Magnetic Tapes""]",2
+"MIS is designed to provide information needed for effective decision making by?","[""Consumers"",""Workers"",""Foremen"",""Managers""]",3
+"Which is valid statement","[""1 KB = 1024 Bytes"",""1 MB = 1024 Bytes"",""1 KB = 1000 Bytes"",""1 MB = 1000 Bytes""]",0
+"Latency time is","[""Time to spin the needed data under head"",""Time to spin the needed data under track"",""Time to spin data under sector"",""All of above""]",0
+"the first general purpose computer was","[""mark1"",""eniac"",""ibn 132"",""apple ii""]",1
+"the two types of RAM are","[""volatile and non-volatile"",""erasable and programmable"",""static and dynamic"",""none of the above""]",2
+"which of the following loses its contents when the computer is turned off?","[""ram"",""rom"",""prom"",""none of the above""]",0
+"which is the memory chip that is programmed during the manufacturing process","[""rom"",""ram"",""prom"",""eeprom""]",0
+"the two types of auxiliary storage devices are","[""random and sequential access"",""mdia and midi"",""vga and svga"",""none of the above""]",0
+"which of the following is a sequential access drive?","[""hard disk"",""floppy disk"",""magnetic tape"",""all of the above""]",2
+"WORM stands for","[""write -on- reusable media"",""write once read many"",""write on random media"",""none of the above""]",1
+"which of the following is the slowest in accessing data?","[""zip disk"",""hard disk"",""magnetic tape"",""floppy disk""]",2
+"which is the reusable optical disk?","[""CD-ROMs"",""cd-r"",""worm"",""cd-rw""]",3
+"which of the following is not a sequential-access device?","[""cd-rom"",""dat"",""8-mm helical scan"",""magnetic tape""]",0
+"the mouse which needs a special mouse pad is","[""mechanical"",""optical"",""optomechanical"",""none of the above""]",1
+"which is the technology that is used as a direct entry method in banks?","[""ocr"",""omr"",""micr"",""mcr""]",2
+"Which is the technology used in the evaluation of aptitude test","[""ocr"",""omr"",""micr"",""mcr""]",1
+"an input device used widely on supermarkets","[""keyboard"",""mouse"",""trackball"",""bar code reader""]",3
+"Touch sensitive pad used as a pointing device in portable computers?","[""touch pad"",""mouse pad"",""touch screen"",""none of the above""]",0
+"Display technique that enables a monitor to provide more resolution inexpensively","[""tuning"",""refreshing"",""interlacing"",""none of the above""]",2
+"_____ is a program created in human-readable format","[""source code"",""object code"",""binary code"",""none of the above""]",0
+"Which of the following is a basic feature of a word processor?","[""insert text"",""print"",""word wrap"",""all of the above""]",3
+"which of the following is an advanced feature of word processor","[""font specification"",""search and replace"",""print"",""none of the above""]",0
+"which of the following is represented by a series of 1s and 0s?","[""machine level language"",""high level language"",""assembly language"",""none of the above""]",0
+"text-based browser","[""internet explorer"",""safari"",""lynx"",""none of the above""]",2
+"www is the brainchild of","[""Tim Berners lee"",""Remington rand"",""jack Kilby"",""none of the above""]",0
+"requirements of dial up connection","[""modem"",""telephone connection"",""account with internet access provider"",""all of the above""]",3
+"An equipment that allows single phone connection for both ADSL and voice calls","[""splitter"",""modem"",""multiplexer"",""none of the above""]",0
+"Which one of the following is not an internet protocol?","[""TCP\/IP"",""FTP"",""gopher"",""ISP""]",3
+"On a PC, how much memory is available to application software?","[""1024 KB"",""760 KB"",""640 KB"",""560 KB""]",2
+"In a computer _____ is capable to store single binary bit.","[""Capacitor"",""Flip flop"",""Register"",""Inductor""]",1
+"What does DMA stand for?","[""Distinct Memory Access"",""Direct Memory Access"",""Direct Module Access"",""Direct Memory Allocation""]",1
+"Who invented Integrated Circuits?","[""Jack Kilby"",""Robert Noyce"",""Both of above"",""None of above""]",3
+"Operating system, editors, and debuggers comes under?","[""System Software"",""Application Software"",""Utilities"",""None of the above""]",0
+"One computer that is not considered a portable is","[""Minicomputer"",""Laptop computer"",""Notebook computer"",""All of above""]",0
+"Which of the following is not an electronic computer?","[""ENIAC"",""ABC"",""UNIVAC"",""EDVAC""]",1
+"What is the name of the display feature that highlights are of the screen which requires operator attention?","[""Pixel"",""Reverse video"",""Touch screen"",""Cursor""]",1
+"Which is the largest computer?","[""Mainframe Computer"",""Minicomputers"",""Micro Computers"",""Super Computers""]",0
+"Which of the following are the best units of data on an external storage device?","[""Bits"",""Bytes"",""Hertz"",""Clock cycles""]",1
+"The personal computer industry was started by","[""IBM"",""Apple"",""Compaq"",""HCL""]",0
+"What is meant by a dedicated computer?","[""Which is used by one person only"",""Which is assigned one and only one task"",""Which uses one kind of software"",""Which is meant for application software""]",1
+"Which programming languages are classified as low-level languages?","[""Basic, COBOL, FORTRAN"",""Prolog 2, Expert Systems"",""Knowledge based Systems"",""Assembly Languages""]",3
+"What was the main disadvantage of vacuum tubes?","[""They were larger in size"",""They consumed a lot of electricity"",""They produced heat and often burned out"",""The operation cost was high""]",2
+"Registers, which are partially visible to users and used to hold conditional, are known as","[""PC"",""Memory address registers"",""General purpose register"",""Flags""]",2
+"Which is not a computer of first generation?","[""ENIAC"",""UNIVAC"",""IBM 360"",""IBM 1401""]",3
+"Registers which are partially visible to users and used to hold conditional codes (bits set by the CPU hardware as the result of operations), are known as","[""PC"",""Flags"",""Memory Address Registers"",""General Purpose Registers""]",1
+"Who invented vacuum tubes?","[""John Bardeen"",""William Shockley"",""Lee de Forest"",""All of above""]",2
+"An approach that permits the computer to work on several programs instead of one is","[""On-line thesaurus"",""Multiprogramming"",""Over lapped processing"",""Outline processor""]",1
+"Who suggested Stored Program Concept","[""John Mauchly"",""J.P. Eckert"",""John Neumann"",""Joseph Jacquard""]",2
+"The central processing unit (CPU) consists of","[""Input, output and processing"",""Control unit, primary storage, and secondary storage"",""Control unit, arithmetic-logic unit and primary storage"",""Control unit, processing, and primary storage""]",2
+"The notable features like keyboards, monitors, GUI were developed in","[""First generation"",""Second generation"",""Third generation"",""Fourth generation""]",2
+"UNIVAC is","[""Universal Automatic Computer"",""Universal Array Computer"",""Unique Automatic Computer"",""Unvalued Automatic Computer""]",0
+"Which is the highest form?","[""Data"",""Information"",""Knowledge"",""All of above""]",2
+"FORTRAN is a programming language. What does FORTRAN stand for?","[""File Translation"",""Format Translation"",""Formula Translation"",""Floppy Translation""]",2
+"Which of the following memories needs refreshing?","[""SRAM"",""DRAM"",""ROM"",""All of above""]",1
+"Can you tell what passes into and out from the computer via its ports?","[""Data"",""Bytes"",""Graphics"",""Pictures""]",0
+"An output device that uses words or messages recorded on a magnetic medium to produce audio response is","[""Magnetic tape"",""Voice response unit"",""Voice recognition unit"",""Voice band""]",1
+"Which of the items below are considered removable storage media?","[""Removable hard disk cartridges"",""(Magneto-optical) disk"",""Flexible disks cartridges"",""All of the above""]",3
+"Which of the following is not purely output device?","[""Screen"",""Printer"",""Speaker"",""Plotter""]",0
+"Who developed a mechanical device in the 17th century that could add, subtract, multiple, divide and find square roots?","[""Napier"",""Babbage"",""Pascal"",""Leibniz""]",3
+"The first Macintosh computer was from","[""First generation"",""Second generation"",""Third generation"",""Fourth generation""]",3
+"Which of the following is not a form of data?","[""numbers and characters"",""images"",""sound"",""none of above""]",3
+"Which is not a computer classification?","[""mainframe"",""maxframe"",""mini"",""notebook""]",1
+"The control unit of a microprocessor","[""Stores data in the memory"",""Accepts input data from keyboard"",""Performs arithmetic\/logic function"",""None of above""]",3
+"Which of the following is internal memory?","[""Disks"",""Pen Drives"",""RAM"",""CDs""]",2
+"Which operation is not performed by computer","[""Inputting"",""Processing"",""Controlling"",""Understanding""]",3
+"Floppy disks which are made from flexible plastic material are also called?","[""Hard disks"",""High-density disks"",""Diskettes"",""Templates""]",2
+"The magnetic storage chip used to provide non-volatile direct access storage of data and that have no moving parts are known as","[""Magnetic core memory"",""Magnetic tape memory"",""Magnetic disk memory"",""Magnetic bubble memory""]",3
+"A collection of related instructions organized for a common purpose is referred to as","[""File"",""Database"",""Program"",""None of above""]",2
+"Plotter accuracy is measured in terms of repeatability and","[""Buffer size"",""Resolution"",""Vertical dimensions"",""Intelligence""]",1
+"Computer instructions written with the use of English words instead of binary machine code is called","[""Mnemonics"",""Symbolic code"",""Gray codes"",""Opcode""]",1
+"Which language is directly understood by the computer without translation program?","[""Machine language"",""Assembly language"",""High level language"",""None of above""]",0
+"On which aspect the analog computers are better than digital?","[""Speed"",""Accuracy"",""Reliability"",""Automatic""]",1
+"Which of the following processors use RISC technology?","[""486dx"",""Power PC"",""486sx"",""6340""]",1
+"Which of the following machine was not invented by Charles Babbage?","[""Tabulating Machine"",""Analytical Engine"",""Difference Engine"",""Both C and D""]",0
+"How many numbers could ENIAC store in its internal memory","[""100"",""20"",""80"",""40""]",1
+"The subject of cybernetics deals with the science of","[""Genetics"",""Control and communication"",""Molecular biology"",""Biochemistry""]",1
+"Why ABC is considered electro-mechanical computer?","[""Because it was invented before electronic computers were developed"",""Because there are wheels, drums, bars to rotate and move to produce result"",""Because they use the flow of electrons in different component"",""None of above""]",1
+"What is an interpreter?","[""An interpreter does the conversion line by line as the program is run"",""An interpreter is the representation of the system being designed"",""An interpreter is a general-purpose language providing very efficient execution"",""None of the above""]",1
+"Which is a semiconductor memory?","[""Dynamic"",""Static"",""Bubble"",""Both a &amp; b""]",3
+"RJ45 UTP cable has ________ Cables.","[""2 pair"",""3 pair"",""4 pair"",""5 pair""]",2
+"Which of the following is not a valid size of a Floppy Disk?","[""8"",""5 \u00bc"",""3 \u00bd"",""5 \u00bd""]",3
+"The earliest calculating devices are","[""Abacus"",""Clock"",""Difference Engine"",""None of these""]",0
+"Word length of a Personal Computer is ___","[""4 bits"",""8 bits"",""16 bits"",""64 bits""]",1
+"What was the first computer to perform all calculation using electronics rather than wheels, ratchets, or mechanical switches?","[""Mark I"",""ABC"",""Z3"",""None of above""]",1
+"A directly accessible appointment calendar is feature of a ____ resident package","[""CPU"",""Memory"",""Buffer"",""ALU""]",1
+"Which unit converts computer data into human readable form?","[""Input unit"",""Output unit"",""ALU"",""Control Unit""]",1
+"The full form of ALU is","[""Arithmetic Logic Unit"",""Array Logic Unit"",""Application Logic Unit"",""None of above""]",0
+"What produces useful information out of data?","[""Computer"",""Processing"",""Programming"",""none of above""]",1
+"Which of the following device was not invented by Babbage?","[""Pascaline"",""Difference Engine"",""Analytical Engine"",""None of above""]",0
+"A digital computer did not score over an analog computer in terms of","[""Speed"",""Accuracy"",""Reliability"",""Cost""]",1
+"Which number system is usually followed in a typical 32-bit computer?","[""Binary"",""Decimal"",""Hexadecimal"",""Octal""]",0
+"A computer has very low failure rate because it uses electronic components. It produces very consistent results. This is highlighted by which of the feature of computer?","[""Accuracy"",""Reliability"",""Versatility"",""Automatic""]",1
+"A paper printout of a document is known as","[""Softcopy output"",""Hardcopy output"",""Permanent Output"",""All of above""]",1
+"Which electronic component was made from semiconductor material?","[""Vacuum tubes"",""Transistors"",""ICs"",""All of above""]",2
+"The act of retrieving existing data from memory is called","[""Read-out"",""Read from"",""Read"",""All of above""]",3
+"Which part of the computer is used for calculating and comparing?","[""Disk unit"",""Control unit"",""ALU"",""Modem""]",2
+"ABC is a","[""Special purpose computer"",""General purpose computer"",""All Purpose Computer"",""None of above""]",0
+"The computer code for the interchange of information between terminals is","[""ASCII"",""BCD"",""EBCDIC"",""All of above""]",0
+"When was the X window system born?","[""1984"",""1989"",""1988"",""1990""]",0
+"What is the first stage in software development?","[""Specification and design"",""Testing"",""System Analysis"",""Maintenance""]",2
+"Which of the following is valid statement?","[""Data in itself is useless unless it is processed"",""The data that is processed is called a program"",""The data which is not yet processed is information"",""Information is processed by computer to generate data.""]",0
+"Which of the following is not electro-mechanical computer?","[""Mark I"",""ABC"",""Zuse"",""UNIVAC""]",3
+"The term ‘computer’ is derived from","[""Greek language"",""Sanskrit language"",""Latin language"",""German language""]",2
+"Which statement is valid about magnetic tape?","[""It is a plastic ribbon"",""It is coated on both sides with iron oxide"",""It can be erased and reused"",""All of above""]",3
+"Which of the following is first generation computer?","[""EDSAC"",""IBM 1401"",""CDC 1604"",""ICL 2950""]",0
+"A hard copy would be prepared on a","[""Line printer"",""Dot matrix Printer"",""Typewriter terminal"",""All of the above""]",3
+"The term GIGO is related to which characteristics of computers?","[""Speed"",""Automatic"",""Accuracy"",""Reliability""]",2
+"Which of the following programming language were used in first generation computers?","[""Machine language"",""Assembly language"",""Both of above"",""None of above""]",0
+"To locate a data item for storage is","[""Field"",""Feed"",""Database"",""Fetch""]",3
+"Who used punched cards practically for the first time in the history of computers?","[""Charles Babbage"",""Dr. Herman Hollerith"",""Howard Aikin"",""Joseph Jacquard""]",1
+"Hard disk is coated in both sides with","[""Magnetic metallic oxide"",""Optical metallic oxide"",""Carbon layer"",""All of the above""]",0
+"Which of the following term means to reckon?","[""putare"",""com"",""computa"",""computar""]",0
+"An input /output device at which data enters or leaves a computer system is","[""Keyboard"",""Terminal"",""Printer"",""Plotter""]",1
+"Which of the following is first generation of computer","[""EDSAC"",""IBM-1401"",""CDC-1604"",""ICL-2900""]",0
+"A name or number used to identify a storage location is called","[""A byte"",""A record"",""An address"",""All of above""]",2
+"Computer professionals working in a computer center are","[""Software"",""Firmware"",""Hardware"",""Humanware""]",3
+"The first general purpose electronic computer in the world was","[""UNIVAC"",""EDVAC"",""ENIAC"",""All of above""]",2
+"The contents of information are stored in","[""Memory data register"",""Memory address register"",""Memory arithmetic registers"",""Memory access register""]",0
+"Which of the following is correct full form of BCD?","[""Binary Coded Decimal"",""Bit Coded Decimal"",""Binary Coded Digit"",""Bit Coded Digit""]",0
+"Which was the world’s first microcomputer that used Intel 80386 microprocessor chip?","[""IBM PS\/2"",""HP-9830"",""DeskPro-386"",""IBM-360""]",2
+"The qualitative or quantitative attribute of a variable or set of variables is termed as","[""data"",""information"",""both of above"",""none of above""]",0
+"Main storage is also called","[""Accumulator"",""Control Unit"",""Register Unit"",""Memory""]",3
+"Which of the following are (is) considered to be video component?","[""Resolution"",""Color depth"",""Refresh rate"",""All of the alcove""]",3
+"For what Antikythera was used?","[""For counting"",""For Calculating tax collection"",""For calculating astronomical positions"",""For calculating firing weapons""]",2
+"Memory unit is one part of","[""Input device"",""Control unit"",""Output device"",""Central Processing Unit""]",3
+"Microprocessors can be used to make","[""Computer"",""Digital systems"",""Calculators"",""All of the above""]",3
+"Which of the following is NOT an internal digital IC fault?","[""Open signal lines"",""Shorted signal lines"",""Faulty power supply"",""Poor solder connections""]",3
+"What will be the state of Q and Q’ after a flip-flop has been reset?","[""Q = 0, Q\u2019 = 1"",""Q = 1, Q\u2019 = 0"",""Q = 0, Q\u2019 = 0"",""Q = 1, Q\u2019 = 1""]",0
+"This type of fault has the same effect as an internal short between IC pins.","[""Open signal lines"",""Shorted signal lines"",""Broken wire"",""Poor solder connections""]",1
+"Which of the following does not describe a flip-flop circuit?","[""Latch"",""Memory"",""Bistable multivibrator"",""ROM""]",3
+"What is the normal resting state of the SET and CLEAR inputs in a NAND gate latch?","[""SET = CLEAR = 1"",""SET = 0, CLEAR = 1"",""SET = 1, CLEAR = 0"",""SET = CLEAR = 0""]",0
+"Add the hex numbers 58 and 24.","[""7C"",""7D"",""C7"",""2C""]",0
+"Add 3AF to 23C","[""BE5"",""5EB"",""A3B"",""101A""]",1
+"All arithmetic operations take place in the _______ of a computer","[""CPU"",""ALU"",""Microprocessor"",""ROM""]",1
+"How many inputs does a full adder have?","[""2"",""4"",""8"",""3""]",3
+"How many outputs does a full adder have?","[""1"",""2"",""4"",""8""]",1
+"How many inputs does a half adder have?","[""1"",""2"",""3"",""4""]",1
+"What are the three basic parts of a BCD adder circuit?","[""Two 4-bit adders and connection logic"",""Two connection logic and one 4-bit adder"",""Two full adders and one AND gate"",""One connection logic and 4 full adders""]",0
+"What is the principal register of an arithmetic logic unit?","[""Controller"",""Buffer"",""Actuator"",""Accumulator""]",3
+"A computer programming language in which groups of 1s and 0s are used to represent instructions. It is also the only language a computer actually understood.","[""Application software"",""Machine language"",""High \u2013 level language"",""Programming language""]",1
+"A digital circuit that produces an output code depending on which of its inputs is activated.","[""Decoder"",""Encoder"",""Multiplexer"",""Demultiplexer""]",1
+"An IC that contains a large number of interconnected logic functions wherein the user can program the IC for a specific function by selectively breaking the appropriate interconnections.","[""RAM"",""ROM"",""PLD"",""PLC""]",2
+"Class of programmable logic devices wherein its AND array is programmable while its OR array is hard-wired.","[""PAL"",""PLA"",""PLD"",""PROM""]",0
+"Class of programmable logic devices wherein both its AND and its OR arrays are programmable.","[""Field Programmable Logic Array"",""Programmable Logic Controller"",""Programmable Logic Circuit"",""Programmable Array Logic""]",0
+"A result which is obtained when one is added to the least significant bit position of a binary number in the 1’s complement.","[""Spike"",""2\u2019s complement form"",""Complement"",""Signed binary numbers""]",1
+"A digital circuit that oscillates between two unstable output states.","[""Monostable multivibrator"",""Astable multivibrator"",""Bistable multivibrator"",""Flip-flop""]",1
+"An electrical connection common to all segments of an LCD.","[""Dual slope"",""Bootstrap"",""Backplane"",""Cascade""]",2
+"A binary counter that counts from 0000 to 1001 before it recycles.","[""Buffer"",""BCD counter"",""Ring counter"",""Ripple counter""]",1
+"A shift register in which the output of the last flip-flop is connected to the input of the first flip-flop.","[""Ring counter"",""Ripple counter"",""Parallel counter"",""BCD counter""]",0
+"A term synonymous with CLEAR in computer systems.","[""Reset"",""Set"",""Toggle"",""Load""]",0
+"That part of a computer instruction that defines what type of operation the computer is to execute on specified data.","[""Machine language"",""Mnemonic"",""Assembly language"",""Op code""]",3
+"An abbreviation that represents the op code of a computer instruction.","[""ASCII"",""Mnemonic"",""Octets"",""Instruction""]",1
+"A property whereby the output of a digital-to-analog converter either increases or stays the same as the input is increased.","[""Volatility"",""Immunity"",""Monotonicity"",""Parity""]",2
+"Class of mass memory devices that use a laser beam to write and read onto a specified coated disk.","[""Mass storage"",""RAM"",""Optical disk memory"",""Non-volatile memory""]",2
+"A term used to describe the logic function created when open-collector outputs are tied together.","[""Wired-OR"",""Wired-AND"",""Totem-pole"",""Tristate""]",1
+"A technique often used to eliminate decoding spikes.","[""Wired-AND"",""Strobing"",""Tristate"",""Wired-NAND""]",1
+"A momentary, narrow, spurious and sharply defined change in volume.","[""Glitch"",""Strobe"",""Toggle"",""Clock""]",0
+"A single bit comparator is usually implemented using","[""Exclusive OR"",""NOR gate"",""Exclusive NOR"",""Wired-AND""]",0
+"An equivalent Boolean equation for an exclusive NOR is","[""xy + x\u2019y\u2019"",""xy + xy\u2019"",""x\u2019y + xy\u2019"",""xy\u2019+ x\u2019y\u2019""]",0
+"Data storage in a memory is termed as","[""writing"",""memorizing"",""loading"",""reading""]",0
+"Data retrieval from a memory is called","[""getting"",""accessing"",""reading"",""fetching""]",2
+"In BCD, the code 1111 is","[""letter F"",""A"",""11"",""Invalid""]",3
+"A decoder with four inputs can have a maximum of how many outputs?","[""4"",""8"",""16"",""32""]",2
+"Another name for a digital multiplexer is","[""data selector"",""compressor"",""encoder"",""decoder""]",0
+"An astable multivibrator has","[""one stable state"",""two stable states"",""no stable state"",""tristate""]",2
+"A bistable multivibrator has","[""one stable state"",""two stable states"",""no stable state"",""tristate""]",1
+"A monostable multivibrator has","[""one stable state"",""two stable states"",""no stable state"",""tristate""]",0
+"A type of multivibrator circuit which generates a square wave of its own is the","[""astable"",""monostable"",""bistable"",""flip-flop""]",0
+"A situation when a circuit’s output level for a given set of input conditions can be assigned as either a 1 or a 0.","[""Don\u2019t care"",""Totem Pole"",""Low level"",""High level""]",0
+"Circuits made up of combinations of logic gates, with no feedback from outputs to inputs.","[""Latch"",""Sequential logic circuit"",""Combinational logic circuit"",""Memory""]",2
+"A digital circuit that takes a 4-bit BCD input and activates the required outputs to display the equivalent decimal digit on a 7-segment display.","[""BCD-to-decimal decoder"",""BCD-to-7-segment driver"",""Decimal to BCD driver"",""7-segment display""]",1
+"Asynchronous flip-flop input used to clear Q immediately to 0.","[""DC set"",""DC clear"",""DC reset"",""DC toggle""]",1
+"A counter that counts from a maximum count downward to zero","[""Synchronous counter"",""Down counter"",""Up counter"",""Up\/down counter""]",1
+"Small circles on the input or output lines of logic circuit symbols which represent inversion of a particular signal.","[""Bootstrap"",""Bubble"",""Strobe"",""Clode""]",1
+"A multiplexer is described by its size through ______, where n = number of bits.","[""n x 2<sup>n<\/sup>"",""1 x 2<sup>n<\/sup>"",""2<sup>n<\/sup> x 1"",""2<sup>n<\/sup> x m""]",2
+"IBM 1401 is the first computer to enter in Nepal. It belonged to","[""First Generation"",""Second Generation"",""Third Generation"",""Froth Generation""]",1
+"The Third Generation Computer was made with ________.","[""Vacuum Tube"",""Discrete Components"",""IC"",""Bio Chips""]",2
+"Which of the following are the two main components of the CPU?","[""Control Unit and Registers"",""Registers and Main Memory"",""Control unit and ALU"",""ALU and bus""]",2
+"Fifth generation computer is also known as","[""Knowledge information processing system"",""Very large-scale integration"",""Both of above"",""None of above""]",0
+"What is the name of the computer terminal which gives paper printout?","[""Display screen"",""Soft copy terminal"",""Hard copy terminal"",""Plotter""]",2
+"Programs are executed on the basis of a priority number in a","[""Batch processing system"",""Multiprogramming"",""Time sharing"",""None of these""]",1
+"When was Apple Macintosh II microcomputer introduced in the market?","[""1964"",""1970"",""1983"",""1986""]",2
+"When was the world’s first laptop computer introduced in the market and by whom?","[""Hewlett-Packard"",""Epson, 1981"",""Laplink traveling software In1982"",""Tandy model-2000, 1985""]",1
+"Today’s computer giant IBM was earlier known by different name which was changed in 1924. What was that name?","[""Computer Tabulating Recording Co."",""The Tabulator Ltd."",""International Computer L"",""None of these""]",1
+"The personnel who deals with the computer and its management put together are called","[""Software"",""Human ware"",""Firmware"",""Hardware""]",1
+"Which of the following is input device?","[""scanner"",""speaker"",""monitor"",""projector""]",0
+"Which of the following is true?","[""Fields are composed of bytes"",""Records are composed of fields"",""Fields are composed of characters"",""All of above""]",3
+"Who built the world’s first electronic calculator using telephone relays, light bulbs and batteries?","[""Claude Shannon"",""Konrard Zues"",""George Stibits"",""Howard H. Aiken""]",2
+"WAN is a most used abbreviation in Networking, what is its full form?","[""WAP Area Network"",""Wide Area Network"",""Wide Array of Network"",""Wireless Access Network""]",1
+"In which language is source program written?","[""English"",""Symbolic"",""High level"",""Temporary""]",2
+"Which of the following is correct acronym of VGA?","[""Video Graphics Array"",""Visual Graphics Array"",""Volatile Graphics Array"",""Video Graphics Adapter""]",0
+"A song being played on computer speaker is","[""hard output"",""soft output"",""both hard and soft output"",""neither hard nor soft output""]",1
+"In the IBM PC-At, what do the words AT stand for","[""Additional Terminals"",""Advance technology"",""Applied technology"",""Advanced terminology""]",1
+"Size of the primary memory of a PC ranges between","[""2KB to 8KB"",""64KB &amp; 256KB"",""256KB &amp; 640KB"",""None of these""]",2
+"What is the number of read-write heads in the drive for a 9-trac magnetic tape?","[""9"",""16"",""18"",""27""]",0
+"Apple company used chips from ______ for its computers","[""Intel"",""Motorola"",""Both of above"",""None of above""]",1
+"Which of the following is a feature of fifth generation computers?","[""Use of natural language"",""artificial intelligence"",""bio-chips"",""All of above""]",3
+"Charles Babbage was awarded by Royal Society for his","[""Difference Engine"",""Analytic Engine"",""Binary System in Analytic Engine"",""His concept of input, mill, output, and storage""]",0
+"A computer which CPU speed around 100 million instruction per second and with the word length of around 64 bits is known as","[""Super computer"",""Mini computer"",""Micro computer"",""Macro computer""]",0
+"What was the computer invented by Atanasoff and Clifford?","[""mark i"",""abc"",""z3"",""none of above""]",1
+"Which of the following storage devices can store maximum amount of data?","[""floppy disk"",""hard disk"",""compact disk"",""magneto optic disk""]",1
+"Which computer was considered the first electronic computer until 1973 when court invalidated the patent?","[""eniac"",""mark i"",""z3"",""abc""]",0
+"A physical connection between the microprocessor memory and other parts of the microcomputer is known as","[""path"",""address bus"",""route"",""all of the above""]",1
+"High density double sided floppy disks could store _____ of data","[""1.40 mb"",""1.44 gb"",""1.40 gb"",""1.44 mb""]",3
+"A high quality CAD system uses the following for printing drawing and graphs","[""dot matrix printer"",""digital plotter"",""line printer"",""all of the above""]",1
+"Which of the following is not an input device?","[""ocr"",""optical scanners"",""voice recognition device"",""com (computer output to microfilm)""]",3
+"The accuracy of the floating-point numbers representable in two 16-bit words of a computer is approximately","[""16 digits"",""6 digits"",""9 digits"",""all of above""]",1
+"In most of the IBM PCs, the CPU, the device drivers, memory, expansion slots and active components are mounted on a single board. What is the name of the board?","[""motherboard"",""daughterboard"",""bredboard"",""fatherboard""]",0
+"Personal computers used a number of chips mounted on a main circuit board. What is the common name for such boards?","[""motherboard"",""breadboard"",""daughter board"",""grandmother board""]",0
+"Magnetic disks are the most popular medium for","[""direct access"",""sequential access"",""both of above"",""none of above""]",3
+"A technique used by codes to convert an analog signal into a digital bit stream is known as","[""pulse code modulation"",""pulse stretcher"",""query processing"",""queue management""]",0
+"Regarding a VDU, Which statement is more correct?","[""it is an output device"",""it is an input device"",""it is a peripheral device"",""it is hardware item""]",2
+"A modern electronic computer is a machine that is meant for","[""doing quick mathematical calculations"",""input, storage, manipulation, and outputting of data"",""electronic data processing"",""performing repetitive tasks accurately""]",1
+"When was vacuum tube invented?","[""1900"",""1906"",""1910"",""1880""]",1
+"Which of the following produces the best quality graphics reproduction?","[""laser printer"",""ink jet printer"",""plotter"",""dot matrix printer""]",2
+"Computers with 80286 microprocessor is","[""xt computer"",""at computers"",""ps\/2 computer"",""none of above""]",1
+"An application suitable for sequential processing is","[""processing of grades"",""payroll processing"",""both a and b"",""all of above""]",2
+"Which of the following is not processing?","[""arranging"",""manipulating"",""calculating"",""gathering""]",3
+"The digital computer was developed primarily in","[""USSR"",""Japan"",""USA"",""UK""]",2
+"Software in computer","[""enhances the capabilities of the hardware machine"",""increase the speed of central processing unit"",""both of above"",""none of above""]",0
+"Today’s computer giant IBM was earlier known by different name which was changes in 1924. What was that name?","[""tabulator machine co."",""computing tabulating recording co."",""the tabulator ltd."",""international computer ltd.""]",1
+"Before a disk drive can access any sector record, a computer program has to provide the record’s disk address. What information does this address specify?","[""track number"",""sector number"",""surface number"",""all of above""]",3
+"The arranging of data in a logical sequence is called","[""sorting"",""classifying"",""reproducing"",""summarizing""]",0
+"What is the responsibility of the logical unit in the CPU of a computer?","[""to produce result"",""to compare numbers"",""to control flow of information"",""to do math works""]",1
+"By programmable machine we mean","[""computers"",""modern television"",""washing machines"",""anything that can be set to perform different tasks with suitable programs""]",0
+"Which of the following is a secondary memory device?","[""Keyboard"",""Disk"",""ALU"",""All of the above""]",1
+"The memory which is programmed at the time it is manufactured","[""ROM"",""RAM"",""PROM"",""EPROM""]",2
+"One of the popular mass storage devices is CD ROM. What does CD ROM stand for?","[""Compactable Read Only Memory"",""Compact Data Read Only Memory"",""Compactable Disk Read Only Memory"",""Compact Disk Read Only Memory""]",3
+"Identify the true statement","[""Computers are 100% accurate but it can suffer from GIGO"",""Computers are reliable because they use electronic component which have very low failure rate"",""Computer is never tired and does not suffer from boredom"",""All of above""]",3
+"FORTRAN is","[""File Translation"",""Format Translation"",""Formula Translation"",""Floppy Translation""]",2
+"The programs which are as permanent as hardware and stored in ROM is known as","[""Hardware"",""Software"",""Firmware"",""ROM ware""]",2
+"Which of the following memories must be refreshed many times per second?","[""Static RAM"",""Dynamic RAM"",""EPROM"",""ROM""]",1
+"What do you call the translator which takes assembly language program as input &amp; produce machine language code as output?","[""Compiler"",""Interpreter"",""Debugger"",""Assembler""]",3
+"Serial access memories are useful in applications where","[""Data consists of numbers"",""Short access time is required"",""Each stored word is processed differently"",""Data naturally needs to flow in and out in serial form""]",3
+"In ________ mode, the communication channel is used in both directions at the same time?","[""Full duplex"",""Simplex"",""Half-duplex"",""None of the above""]",0
+"Who invented Slide Rules?","[""John Napier"",""William Oughtred"",""Gottfried Leibnitz"",""Blaise Pascal""]",1
+"The proper definition of a modern digital computer is","[""An electronic automated machine that can solve problems involving words and numbers"",""A more sophistic and modified electronic pocket calculator"",""Any machine that can perform mathematical operations"",""A machine that works on binary code""]",0
+"Memory is made up of","[""Set of wires"",""Set of circuits"",""Large number of cells"",""All of these""]",2
+"Which of the following is the most powerful computers?","[""Mainframe Computer"",""Mini Computers"",""Micro Computers"",""Super Computers""]",3
+"Which of the printers used in conjunction with computers uses dry ink powder?","[""Daisy wheel printer"",""Line printer"",""Laser printer"",""Thermal printer""]",2
+"What is the path from which data flow in a computer system is known as","[""Car"",""Bus"",""Truck"",""Road""]",1
+"Which term is used to describe RAM?","[""Dynamic RAM (DRAM)"",""Static RAM (SRAM)"",""Video RAM (VRAM)"",""All of the above""]",3
+"In which year was chip used inside the computer for the first time?","[""1964"",""1975"",""1999"",""1944""]",1
+"Assembly language started to be used from","[""first generation computers"",""second generation computers"",""third generation computers"",""fourth generation computers""]",1
+"Which technology is more reliable?","[""Mechanical"",""Electro-Mechanical"",""Electronic"",""For reliability it does not matter. So, all of above are reliable""]",2
+"Which of the following is not an XT microprocessor?","[""8006"",""8086"",""8088"",""None of above""]",3
+"Hard disk is coated in both side with","[""Magnetic metallic oxide"",""Optical metallic oxide"",""Carbon layer"",""All of the above""]",0
+"ASCII stands for","[""American Stable Code for International Interchange"",""American Standard Case for Institutional Interchange"",""American Standard Code for Information Interchange"",""American Standard Code for Interchange Information""]",2
+"Access time is","[""seek time + latency time"",""seek time"",""seek time"",""latency time""]",0
+"Who invented the microprocessor?","[""Marcian E Huff"",""Herman H Goldstein"",""Joseph Jacquard"",""All of above""]",0
+"MICR stands for","[""Magnetic Ink Character Reader"",""Magnetic Ink Code Reader"",""Magnetic Ink Case Reader"",""None of the above""]",0
+"The Width of a processor’s data path is measured in bits. Which of the following are common data paths?","[""8 bits"",""12 bits"",""16 bits"",""32 bits""]",0
+"MSI is the abbreviation of","[""Medium Scale Integrated"",""Medium System Integrated"",""Medium Scale Intelligent"",""Medium System Intelligent""]",0
+"IMB launched its first personal computer called IBM-PC in 1981. It had chips from Intel, disk drives from Tandon, operating system from Microsoft, the printer from Epson and the application software from everywhere. Can you name the country which contribute?","[""India"",""China"",""Germany"",""Taiwan""]",3
+"Which statement is valid about interpreter?","[""It translates one instruction at a time"",""Object code is saved for future use"",""Repeated interpretation is not necessary"",""All of above""]",1
+"Easily relocatable language is","[""Machine language"",""Assembly language"",""High level language"",""Medium level language""]",1
+"Which of the following memories needs refresh?","[""SRAM"",""DRAM"",""ROM"",""All of above""]",1
+"Through which device the main components of the computer communicate with each other?","[""Keyboard"",""System Bus"",""Monitor"",""Memory""]",1
+"What type of device is computer keyboard?","[""Memory"",""Output"",""Storage"",""Input""]",3
+"Which is the limitation of high-level language?","[""Lower efficiency"",""Machine dependence"",""machine level coding"",""None of above""]",0
+"An example of a digital device can be","[""Digital clock"",""Automobile speed meter"",""Clock with a dial and two hands"",""All of the above""]",0
+"Which of the following is not true?","[""Transistors are much smaller"",""Transistors produce low heat"",""Transistors were less reliable"",""Transistors were used in radios and other electronic devices""]",2
+"A characteristic of card systems is:","[""Slowness in processing data"",""Using cards as records of transactions"",""Needing a larger DP staff"",""All of the above""]",3
+"The full form of EEPROM is","[""Electrically Erasable Programmable Read Only Memory"",""Easily Erasable Programmable Read Only Memory"",""Electronic Erasable Programmable Read Only Memory"",""None of the above""]",0
+"The original ASCII code used __ bits of each byte, reserving that last bit for error checking","[""5"",""6"",""7"",""8""]",2
+"A computer programmer","[""Does all the thinking for a computer"",""Can enter input data quickly"",""Can operate all types of computer\u2019s equipment"",""Can draw only flowchart""]",0
+"Fifth generation computer is also known as","[""Knowledge information processing system"",""Very large-scale integration (VLSI)"",""Both of above"",""None of above""]",0
+"The commonly used standard data code to represent alphabetical, numerical and punctuation characters used in electronic data processing system is called","[""ASCII"",""EBCDIC"",""BCD"",""All of above""]",3
+"Which of the following have low failure rate?","[""mechanical devices"",""electronic devices"",""electro-mechanical devices"",""None of above""]",1
+"Which of the following memories need refresh?","[""SRAM"",""DRAM"",""ROM"",""All of the above""]",1
+"A typical personal computer used for business purposes would have __ of RAM.","[""4 KB"",""16 K"",""64 K"",""256 K""]",3
+"The ALU of a computer normally contains a number of high-speed storage element called","[""Semiconductor memory"",""Registers"",""Hard disks"",""Magnetic disk""]",1
+"Which was the computer conceived by Babbage?","[""Analytical Engine"",""Arithmetic Machine"",""Donald Kunth"",""All of above""]",0
+"The basic operations performed by a computer are","[""arithmetic operation"",""logical operation"",""storage and relative"",""all the above""]",3
+"The two major types of computer chips are","[""external memory chip"",""primary memory chip"",""microprocessor chip"",""both b and c""]",3
+"Microprocessors as switching devices are for which generation computers","[""first generation"",""second generation"",""third generation"",""fourth generation""]",3
+"What is the main difference between a mainframe and a supercomputer?","[""supercomputer is much larger than mainframe computers"",""super computers are much smaller than mainframe computers"",""supercomputers are focused to execute few programs as fast as possible while mainframe uses its power to execute as many programs concurrently"",""supercomputers are focused to execute as many programs as possible while mainframe uses its power to execute few programs as fast as possible.""]",2
+"ASCII and EBCDIC are the popular character coding systems. What does EBCDIC stand for?","[""extended binary coded decimal interchange code"",""extended bit code decimal interchange code"",""extended bit case decimal interchange code"",""extended binary case decimal interchange code""]",0
+"The brain of any computer system is","[""alu"",""memory"",""cpu"",""control unit""]",2
+"Storage capacity of magnetic disk depends on","[""tracks per inch of surface"",""bits per inch of tracks"",""disk pack in disk surface"",""all of above""]",3
+"The two kinds of main memory are:","[""primary and secondary"",""random and sequential"",""rom and ram"",""all of above""]",2
+"A storage area used to store data to a compensate for the difference in speed at which the different units can handle data is","[""memory"",""buffer"",""accumulator"",""address""]",1
+"Computer is free from tiresome and boredom. We call it","[""accuracy"",""reliability"",""diligence"",""versatility""]",2
+"Integrated Circuits (ICs) are related to which generation of computers?","[""first generation"",""second generation"",""third generation"",""fourth generation""]",2
+"CD-ROM is a","[""semiconductor memory"",""memory register"",""magnetic memory"",""none of above""]",3
+"A hybrid computer","[""resembles digital computer"",""resembles analogue computer"",""resembles both a digital and analogue computer"",""none of the above""]",2
+"Which type of computers uses the 8-bit code called EBCDIC?","[""minicomputers"",""microcomputers"",""mainframe computers"",""super computer""]",2
+"The ALU of a computer responds to the commands coming from","[""primary memory"",""control section"",""external memory"",""cache memory""]",1
+"Chief component of first-generation computer was","[""transistors"",""vacuum tubes and valves"",""integrated circuits"",""none of above""]",1
+"To produce high quality graphics (hardcopy) in color, you would want to use a/n","[""rgb monitor"",""plotter"",""ink-jet printer"",""laser printer""]",1
+"What are the stages in the compilation process?","[""feasibility study, system design and testing"",""implementation and documentation"",""lexical analysis, syntax analysis, and code generation"",""none of the above""]",2
+"Which of the following IC was used in third generation of computers?","[""SSI"",""MSI"",""LSI"",""both a and b""]",3
+"The main electronic component used in first generation computers was","[""transistors"",""vacuum tubes and valves"",""integrated circuits"",""none of above""]",1
+"A dumb terminal has","[""an embedded microprocessor"",""extensive memory"",""independent processing capability"",""a keyboard and screen""]",3
+"One millisecond is","[""1 second"",""10th of a seconds"",""1000th of a seconds"",""10000th of a seconds""]",2
+"The output quality of a printer is measured by ______","[""dot per sq. inch"",""dot per inch"",""dots printed per unit time"",""all of the above""]",1
+"Which of the following was a special purpose computer?","[""ABC"",""ENIAC"",""EDVAC"",""all of the above""]",0
+"Abacus was the first","[""electronic computer"",""mechanical computer"",""electronic calculator"",""mechanical calculator""]",3
+"If in a computer, 16 bits are used to specify address in a RAM, the number of addresses will be","[""216"",""65,536"",""64k"",""any of the above""]",1
+"Instructions and memory address are represented by","[""character code"",""binary codes"",""binary word"",""parity bit""]",1
+"The terminal device that functions as a cash register, computer terminal, and OCR reader is the:","[""data collection terminal"",""ocr register terminal"",""video display terminal"",""pos terminal""]",3
+"A set of flip flops integrated together is called ____","[""counter"",""adder"",""register"",""none of the above""]",2
+"People often call ______ as the brain of computer system","[""control unit"",""arithmetic logic unit"",""central processing unit"",""storage unit""]",2
+"Which is used for manufacturing chips?","[""bus"",""control unit"",""semiconductors"",""a and b only""]",2
+"The value of each bead in heaven is","[""1"",""3"",""5"",""7""]",2
+"The first computer introduced in Nepal was","[""IBM 1400"",""IBM 1401"",""IBM 1402"",""IBM 1402""]",1
+"Mnemonic a memory trick is used in which of the following language?","[""machine language"",""assembly language"",""high level language"",""none of above""]",1
+"Instruction in computer languages consists of","[""opcode"",""operand"",""both of above"",""none of above""]",2
+"Which generation of computer is still under development","[""fourth generation"",""fifth generation"",""sixth generation"",""seventh generation""]",1
+"A register organized to allow to move left, or right operations is called a ____","[""counter"",""loader"",""adder"",""shift register""]",3
+"Which was the most popular first-generation computer?","[""IBM 1650"",""IBM 360"",""IBM 1130"",""IBM 2700""]",0
+"Which is considered a direct entry input device?","[""optical scanner"",""mouse and digitizer"",""light pen"",""all of the above""]",3
+"A set of information that defines the status of resources allocated to a process is","[""process control"",""alu"",""register unit"",""process description""]",3
+"Each set of Napie’s bones consisted of ______ rods.","[""5"",""9"",""11"",""13""]",2
+"BCD is","[""binary coded decimal"",""bit coded decimal"",""binary coded digit"",""bit coded digit""]",0
+"When was the worl’s first laptop computer introduced in the market and by whom?","[""hewlett-packard, 1980"",""epson, 1981"",""laplink traveling software inc, 1982"",""tandy model-200, 1985""]",1
+"From which generation operating systems were developed?","[""first"",""second"",""third"",""fourth""]",2
+"The first firm to mass-market a microcomputer as a personal computer was","[""ibm"",""super univac"",""radio shaks"",""data general corporation""]",2
+"How many address lines are needed to address each machine location in a 2048 x 4 memory chip?","[""10"",""11"",""8"",""12""]",1
+"Properly arranged data is called","[""field"",""words"",""information"",""file""]",2
+"A computer consists of","[""a central processing unit"",""a memory"",""input and output unit"",""all of the above""]",3
+"Why are vacuum tubes also called valves?","[""because they can amplify the weak signals and make them strong"",""because they can stop or allow the flow of current"",""both of above"",""none of above""]",1
+"EBCDIC stands for","[""Extended Binary Coded Decimal Interchange Code"",""Extended Bit Code Decimal Interchange Code"",""Extended Bit Case Decimal Interchange Code"",""Extended Binary Case Decimal Interchange Code""]",0
+"Personnel who design, program, operates and maintains computer equipment refers to","[""Console-operator"",""Programmer"",""Peopleware"",""System Analyst""]",2
+"IBM System/360 is","[""Mainframe Computer"",""Mini Computers"",""Micro Computers"",""None of above""]",0
+"A system is","[""an integration of different units so as to achieve an objective"",""input unit"",""input and output unit"",""input, output and storage units""]",0
+"Which of the following programming language started from second generation?","[""Cobol"",""BASIC"",""C"",""LISP""]",0
+"The translator program used in assembly language is called","[""Compiler"",""Interpreter"",""Assembler"",""Translator""]",2
+"EEPROM stands for","[""Electrically Erasable Programmable Read Only Memory"",""Easily Erasable Programmable Read Only Memory"",""Electronic Erasable Programmable Read Only Memory"",""None of the above""]",0
+"Regarding data, computers are very good at","[""store"",""Processing"",""retrieve"",""All of above""]",3
+"Bit map terminal","[""support display containing multiple windows"",""require considerable amount of video RAM"",""requires tremendous amount of copying and hence low performance"",""all of above""]",3
+"First generation computers used _________ for memory","[""vacuum tubes"",""silicon chips"",""magnetic drum"",""RAM""]",2
+"Which of the following memories allows simultaneous read and write operations?","[""ROM"",""RAM"",""EPROM"",""None of above""]",1
+"EPROM can be used for","[""Erasing the contents of ROM"",""Reconstructing the contents of ROM"",""Erasing and reconstructing the contents of ROM"",""Duplicating ROM""]",2
+"ENIAC uses","[""Decimal Numbering System"",""Octal Numbering System"",""Binary Numbering System"",""Hexadecimal Numbering System""]",0
+"A term associated with the comparison of processing speeds of different computer system is:","[""EFTS"",""MPG"",""MIPS"",""CPS""]",2
+"which of the following is problem-oriented language?","[""High level language"",""Machine language"",""Assembly language"",""Low level language""]",0
+"A 32-bit microprocessor has the word length equal to","[""2 byte"",""32 byte"",""4 byte"",""8 byte""]",2
+"The term GIGO is related to","[""Accuracy"",""Reliability"",""Versatility"",""Automatic""]",0
+"Web cam is an","[""input unit device"",""output unit device"",""processing device"",""Input and Output device""]",0
+"Bit stands for","[""Binary digits"",""bit of system"",""a part of byte"",""All of above""]",0
+"Access time is","[""seek time + latency time"",""seek time"",""seek time \u2013 latency time"",""latency time""]",0
+"Which device can understand difference between data &amp; programs?","[""Input device"",""Output device"",""Memory"",""Microprocessor""]",3
+"Which of the following is a read only memory storage device?","[""Floppy Disk"",""CD-ROM"",""Hard Disk"",""None of these""]",1
+"Symbolic logic was discovered by","[""George Boole"",""Herman Hollerith"",""Van Neumann"",""Basic Pascal""]",0
+"Which of the following is not valid statement?","[""Hard is referred to mean something temporary"",""Hard is used to mean something tangible"",""Soft is used to mean something permanent"",""Soft is used to mean something tangible""]",1
+"Which of the following memory medium is not used as main memory system?","[""Magnetic core"",""Semiconductor"",""Magnetic tape"",""Both semiconductor and magnetic tape""]",2
+"The storage subsystem in a microcomputer consists mainly of _____ or _____ media with varying capacities","[""Memory or video"",""Magnetic or optical"",""Optical or memory"",""Video or magnetic""]",1
+"Programs designed to perform specific tasks is known as","[""system software"",""application software"",""utility programs"",""operating system""]",1
+"Computer operators","[""writes computer programs for specific problems"",""operate the device which input and output data from the computer"",""normally require a college degree in computer science"",""all of the above""]",1
+"Which of the following is not anti-viruses’ software?","[""NAV"",""F-Prot"",""Oracle"",""McAfee""]",2
+"What is a compiler?","[""A compiler does a conversion line by line as the program is run"",""A compiler converts the whole of a higher-level program code into machine code in one step"",""A compiler is a general-purpose language providing very efficient execution"",""None of the above""]",1
+"_______ computers are also called personal computers","[""Mainframe Computer"",""Mini Computers"",""Micro Computers"",""Super Computers""]",2
+"Which of the following is not input unit device?","[""scanner"",""camera"",""plotter"",""digitizer""]",2
+"Identify the correct statement","[""IBM PCs used RISC CPU designs"",""Macintosh used CISC CPU design"",""IBM used CISC CPU design"",""None of above is true""]",2
+"Which of the following statement is false?","[""Mechanical analog computers have existed for thousands of years"",""There are mechanical analog computers and electronic analog computers."",""All electronic computers are digital computers"",""All of above are false""]",2
+"Which of the following require large computers memory?","[""Imaging"",""Graphics"",""Voice"",""All of Above""]",3
+"Which of the following is machine independence program?","[""High level language"",""Low level language"",""Assembly language"",""Machine language""]",0
+"When was the first electro-mechanical computer developed?","[""1880"",""1990"",""1944"",""None of above""]",2
+"The first machine to successfully perform a long series of arithmetic and logical operations was:","[""ENIAC"",""Mark-I"",""Analytic Engine"",""UNIVAC-1""]",1
+"Which one is the largest space?","[""kilobyte"",""petabyte"",""terabyte"",""gigabyte""]",1
+"FORTRAN programming language is more suitable for ____","[""Business Applications"",""Marketing Applications"",""Scientific Applications"",""None of the above""]",2
+"The brain of any computer system is","[""Control Unit"",""Arithmetic Logic Unit"",""Central Processing Unit"",""Storage Unit""]",2
+"Analog computer works on the supply of","[""Continuous electrical pulses"",""Electrical pulses but not continuous"",""Magnetic strength"",""None of the above""]",0
+"An error in software or hardware is called a bug. What is the alternative computer jargon for it?","[""Leech"",""Squid"",""Slug"",""Glitch""]",3
+"The advantage of COM are its ____ and _____","[""Compact size; speed readability"",""Compact size, speed"",""Readability; speed"",""Low cost; readability""]",0
+"The BIOS is the abbreviation of ________.","[""Basic Input Output System"",""Best Input Output System"",""Basic Input Output Symbol"",""Base Input Output System""]",0
+"Which printer is very commonly used for desktop publishing?","[""Laser printer"",""Inkjet printer"",""Daisywheel printer"",""Dot matrix printer""]",0
+"IBM 1401 is","[""First Generation Computer"",""Second Generation Computer"",""Third Generation Computer"",""Fourth Generation Computer""]",1
+"Most of the first-generation computers were","[""Special purpose computers"",""General purpose computers"",""Both of above"",""None of above""]",0
+"Floppy disks typically in diameter","[""3"",""5.25"",""8"",""All of above""]",3
+"Which technology is used in Compact disks?","[""Mechanical"",""Electrical"",""Electro Magnetic"",""Laser""]",3
+"Different components of the motherboard of a PC unit are linked together by sets of parallel electrical conducting lines. What are these lines called?","[""Conductors"",""Buses"",""Connectors"",""Consecutives""]",1
+"Which is the first electronic digital computer?","[""ENIAC"",""MARK I"",""Z3"",""ABC""]",3
+"Which of the following is a storage device?","[""Tape"",""Hard Disk"",""Floppy Disk"",""All of the above""]",3
+"The metal disks, which are permanently housed in, sealed and contamination free containers are called","[""Hard disks"",""Floppy disk"",""Winchester disk"",""Flexible disk""]",2
+"A computer program that converts an entire program into machine language is called a/an","[""Interpreter"",""Simulator"",""Compiler"",""Commander""]",2
+"Intel corporation produces chips for which computers?","[""IBM PCs"",""Apple\/Macintosh PCs"",""Both of above"",""None of above""]",0
+"The first microprocessor built by the Intel corporation was called","[""8008"",""8080"",""4004"",""8800""]",2
+"Which of the following is not a class of computers based on size?","[""Mainframe Computers"",""Mini Computers"",""Micro Computers"",""Super Computers""]",3
+"Who invented EDSAC?","[""John v. Neumann"",""J.P. Eckert and John Mauchley"",""Maurice Wilkes"",""Howard Aiken""]",2
+"EEPROM stands for","[""Electrically Erasable Programmable Read Only Memory"",""Electronic Erasable Programmable Read Only Memory"",""Easily Erasable Programmable Read Only Memory"",""Easily Erasable Programmable Read Only Memory""]",0
+"Which of the following is a class of computers based on model?","[""Digital Computer"",""Hybrid Computers"",""Analog Computers"",""AT Computers""]",3
+"What are the computers called that performs calculations and comparisons usually in the binary numbering system?","[""Analog Computers"",""Digital Computers"",""Hybrid Computers"",""None of above""]",1
+"ASCII stands for","[""American Standard Code for Information Interchange"",""American Scientific Code for International Interchange"",""American Standard Code for Intelligence Interchange"",""American Scientific Code for Information Interchange""]",0
+"The data recording format in most of the modern magnetic tape is","[""7-bit ASCII"",""7-bit EBCDIC"",""8-bit ASCII"",""8-bit EBCDIC""]",3
+"Why ABC computer is called so?","[""Because it was developed by Atanasoff and Berry"",""Because it was thought to be the first computer so named with first alphabets of English"",""Both of above are the reason to name the computer ABC"",""None of above are true""]",1
+"Who designed the first electronics computer? ENIAC","[""Von Neumann"",""Joseph M Jacquard"",""J. P. Eckert and J. W. Mauchly"",""All of above""]",2
+"Central Processing Unit is combination of","[""Control and storage"",""Control and output unit"",""Arithmetic logic and input unit"",""Arithmetic logic and control unit""]",3
+"IBM 1401 computer was","[""Mainframe Computer"",""Mini Computers"",""Micro Computers"",""None of above""]",0
+"Time during which a job is processed by the computer is","[""Delay times"",""Real time"",""Execution time"",""Down time""]",2
+"CD-ROM stands for","[""Compactable Read Only Memory"",""Compact Data Read Only Memory"",""Compactable Disk Read Only Memory"",""Compact Disk Read Only Memory""]",3
+"Which unit converts user data into machine readable form?","[""Input unit"",""Output unit"",""ALU"",""Control Unit""]",0
+"Which unit is known as nerve center of computer?","[""ALU"",""CU"",""Memory"",""Registers""]",0
+"What does the disk drive of a computer do?","[""Rotate the disk"",""Read the disk"",""Load a program from the disk into the memory"",""Both b and c""]",3
+"Which of the following is a multi-processing system?","[""mvs"",""UNIX"",""os\/2"",""all of the above""]",3
+"Which of the following operating system allows multi-tasking?","[""os\/2"",""windows"",""amiga"",""all of the above""]",3
+"which of the following is not a real time operating system?","[""blmx"",""ccp"",""ctos"",""dos""]",3
+"_______is a program informing a program an event has occurred","[""virus"",""compiler"",""interrupt"",""none of the above""]",2
+"PCs support _____ types of software interrupts","[""128"",""256"",""32"",""none of the above""]",1
+"Which of the following is an example of system software?","[""word processors"",""spread sheets"",""games"",""none of the above""]",3
+"Which spread sheet package was later sold to Lotus Development Corp.?","[""corel quattro pro"",""open office calc"",""VisiCalc"",""all of the above""]",2
+"Which one of the following is a characteristic of a spreadsheet application?","[""data forms"",""presentation"",""data retrieval"",""all of the above""]",3
+"____ includes the operating system and all the utilities that enable the computer to function","[""application software"",""presentation software"",""system software"",""none of the above""]",2
+"World wide web is made of documents created with language called","[""html"",""url"",""httl"",""htrl""]",0
+"To access and display documents on the web you must have a communication standard called","[""http"",""url"",""dns"",""html""]",3
+"The standard that allows you to enter the name and location of information and the method for transporting the information over the internet","[""http"",""url"",""dns"",""html""]",1
+"As you scroll through a webpage it is likely you will see some underlined text or text in different colors. These represent","[""bookmark"",""hypertext links"",""ftp"",""graphic images""]",1
+"The major categories for top-level domain are","[""com"",""edu"",""gov"",""all of the above""]",3
+"What defines the different aspects of web page including heading levels, bold italics, images, paragraph","[""html"",""httl"",""htrl"",""htpl""]",0
+"The process of visiting websites on internet hosted by various companies, organizations etc is called","[""navigation"",""browsing"",""patrolling"",""none of the above""]",1
+"Which of the following is a search engine?","[""Alta vista"",""excite"",""lycos"",""all of the above""]",0
+"Which is the tool that provides a single interface that enables users to search many different search engines, indexes, databases simultaneously?","[""web index"",""search engines"",""meta search engines"",""none of the above""]",1
+"One way of protecting the email message is","[""caching"",""encryption"",""mirroring"",""shadowing""]",1
+"The feature of an email program which allows you to store the information about the people with whom you correspond is?","[""index"",""folders"",""address book"",""none of the above""]",2
+"The default priority of an e-mail message is","[""high"",""low"",""normal"",""none""]",2
+"which of the following is a telecommunication processor","[""modem"",""multiplexer"",""concentrator"",""all of the above""]",3
+"which of the following is a function a telecommunication software","[""modulation"",""demodulation"",""access control"",""all of the above""]",2
+"WAN stands for","[""wire and network"",""wire accessible network"",""widely accessible network"",""wide area network""]",3
+"LSI stans for","[""light sensitive instrument"",""large scale integration"",""logical sample integration"",""none of the above""]",1
+"The most important advantage of a video disk is","[""Compactness"",""Potential capacity"",""Durability"",""Cost effectiveness""]",1
+"Which of the following generation computers had expensive operation cost?","[""First"",""Second"",""Third"",""Fourth""]",0
+"An IBM system/38 represents the computer class of:","[""Small-scale computer"",""Medium-scale computer"",""Large-scale computer"",""Super computer""]",0
+"Another word for a daisy wheel printer","[""Petal printer"",""Golf ball printer"",""Laser printer"",""Line printer""]",1
+"Cursor is a ____","[""Pixel"",""Thin blinking line"",""Pointing device"",""None of these""]",1
+"Which device is used to backup the data?","[""Floppy Disk"",""Tape"",""Network Drive"",""All of the above""]",3
+"Which of the following printers are you sure will not to use if your objective is to print on multi carbon forms?","[""Daisy wheel"",""Dot matrix"",""Laser"",""Thimble""]",2
+"Which of the following items are examples of storage devices?","[""Floppy \/ hard disks"",""CD-ROMs"",""Tape devices"",""All of the above""]",3
+"ASCII and EBCDIC are the popular character coding systems. What does ASCII stand for?","[""American Stable Code for International Interchange"",""American Standard Case for Institutional Interchange"",""American Standard Code for Information Interchange"",""American Standard Code for Interchange Information""]",2
+"Which computers are used as servers for any medium sized organizations?","[""Mainframe Computer"",""Mini Computers"",""Micro Computers"",""Super Computers""]",1
+"Slide Rules was invented in","[""1614"",""1617"",""1620"",""None of above""]",2
+"A normal CD-ROM usually can store up to __________data?","[""680 KB"",""680 Bytes"",""680 MB"",""680 GB""]",2
+"Which of the following required large computer memory?","[""Imaging"",""Graphics"",""Voice"",""All of above""]",3
+"Which was the computer conceived by Babbage?","[""Analytical engine"",""Arithmetic machine"",""Donald Knuth"",""All of above""]",0
+"The lower deck of an abacus is known as","[""heaven"",""sky"",""earth"",""floor""]",2
+"All modern computer operate on","[""Information"",""Floppies"",""Data"",""Word""]",2
+"The computer that can input analog signals and return result in digital form","[""Analog Computers"",""Digital Computers"",""Hybrid Computers"",""Mainframe Computers""]",2
+"Offline device is","[""A device which is not connected to CPU"",""A device which is connected to CPU"",""A direct access storage device"",""An I\/O device""]",0
+"What is the latest write-once optical storage media?","[""Digital paper"",""Magneto-optical disk"",""WORM disk"",""CD-ROM disk""]",3
+"Which of the following programming language started from second generation?","[""LISP"",""C"",""QBASIC"",""FORTRAN""]",3
+"Which one of the following input devices is user-programmable?","[""Dumb terminal"",""Smart terminal"",""VDT"",""Intelligent terminal""]",3
+"Floppy disks typically in diameter","[""3"",""5.25"",""8"",""All of above""]",3
+"Current SIMMs have either ___ or ___ connectors (pins)","[""9 or 32"",""30 or 70"",""28 or 72"",""30 or 72""]",3
+"Dot-matrix is a type of","[""Tape"",""Printer"",""Disk"",""Bus""]",1
+"Raw facts and figures about any particular topic are","[""Information"",""facts"",""data"",""none of above""]",2
+"A computer can solve more than one kind of problem. This is related to which of the following characteristics?","[""Accuracy"",""Reliability"",""Versatility"",""Automatic""]",2
+"From which generation computers the printers were used?","[""first"",""second"",""third"",""fourth""]",1
+"How many symbols exist in Baudot code?","[""32"",""116"",""58"",""76""]",0
+"Following IC chip integrates 100 thousand electronic components per chip","[""SSI"",""MSI"",""LSI"",""VLSI""]",2
+"An application program that helps the user to change any number and immediately see the result of that change is","[""Desktop publishing program"",""Database"",""Spreadsheet"",""All of above""]",2
+"In 1830, Charles Babbage designed a machine called the Analytical Engine which he showed at the Paris Exhibition. In which year was its exhibition?","[""1820"",""1860"",""1855"",""1870""]",2
+"What is the name of the new color laptop computer which is powered by a 386 processor at 33 MHz and is built by Epson?","[""AX3\/33"",""NEC-20"",""Magnum 2000"",""HCL-3000""]",0
+"In analog computer","[""Input is first converted to digital form"",""Input is never converted to digital form"",""Output is displayed in digital form"",""All of the above""]",1
+"Which of the following computer is not invented by J.P. Eckert and John Mauchly?","[""ENIAC"",""EDVAC"",""UNIVAC"",""EDSAC""]",3
+"When was the company named IBM?","[""1914"",""1924"",""1975"",""None of above""]",1
+"Which of the following storage device can store the largest amount of data?","[""Hard Disks"",""Flash Disks"",""Blu-Ray Disks"",""DVDs""]",0
+"Who invented Mark I?","[""Howard Aikin"",""J. P. Eckert"",""John Mauchley"",""John v. Atanasoff""]",0
+"ALU is","[""Arithmetic Logic Unit"",""Array Logic Unit"",""Application Logic Unit"",""None of above""]",0
+"A computer program that converts an entire program into machine language at one time is called a/an","[""Interpreter"",""CPU"",""Compiler"",""Simulator""]",2
+"When did archrivals IBM and Apple Computers Inc. decide to join hands?","[""1978"",""1984"",""1990"",""1991""]",3
+"The purpose of vacuum tube was to NOT act like","[""an amplifier"",""a switch"",""a router"",""None of above""]",2
+"As compared to diskettes, the hard disks are","[""More expensive"",""More portable"",""Less rigid"",""Slowly accessed""]",0
+"Which of the following is the most quickly accessible storage?","[""RAM"",""Registers"",""Disks"",""Pen Drive""]",1
+"The octal equivalence of 111010 is","[""81"",""72"",""71"",""None of above""]",1
+"Excessive parallel processing is related to","[""First generation"",""Fourth generation"",""Fifth Generation"",""Third generation""]",2
+"Second generation computers were developed during","[""1949 to 1955"",""1956 to 1965"",""1965 to 1970"",""1970 to 1990""]",1
+"What do you call a single point on a computer screen?","[""Cell"",""Element"",""Pixel"",""Bit""]",2
+"Mostly which of the following device is used to carry user files?","[""Floppy Disk"",""Hard Disk"",""RAM"",""CDROM""]",0
+"Which of the following computer implemented binary numbers, perform calculations using electronics and implemented separate computation and memory for the first time?","[""Mark I"",""ABC"",""Z3"",""None of above""]",1
+"Which one of the following identifies a particular internet resource?","[""DSL"",""html"",""url"",""none of the above""]",2
+"Which one of the following is the correct order of hierarchy for a URL","[""protocol-server name-domain name-top-level domain name"",""server name-domain name-top-level domain name-protocol"",""protocol-server name-top-level domain name-domain name"",""none of the above""]",0
+"Which of the following is an interpreted language","[""cobol"",""c"",""c++"",""basic""]",3
+"Which one of the following is not a modifier key","[""shift"",""alt"",""insert"",""ctrl""]",2
+"Which one of the following was included in modern IBM compatible keyboards?","[""insert"",""start"",""delete"",""print screen""]",1
+"Mouse was pioneered by","[""xerox"",""Hewlett-Packard"",""apple"",""none of the above""]",0
+"Mouse was invented by","[""jack Kilby"",""Thomas Watson"",""Douglas Engelbart"",""none of the above""]",2
+"Which is considered to be the next generation of OMR","[""ocr"",""icr"",""micr"",""none of the above""]",1
+"Which one of the following monitors has an electron gun","[""plasma"",""led"",""crt"",""none of the above""]",2
+"Which of the following are basic categories of mouse","[""mechanical"",""laser"",""optical"",""all of the above""]",3
+"Which one of the following is a digital modulation technique","[""frequency shift keying"",""amplitude shift keying"",""on-off keying"",""all of the above""]",3
+"What are the components of a computer hardware","[""hardware"",""software"",""data"",""all of the above""]",3
+"Which one of these consist of interconnected electronic devices that control everything that computerdoes?","[""hardware"",""software"",""data"",""users""]",0
+"Which one of the following is the first spreadsheet application?","[""VisiCalc"",""Corel quattro pro"",""Microsoft excel"",""none of the above""]",0
+"Computer is free from tiresome and boardroom. We call it","[""Accuracy"",""Reliability"",""Diligence"",""Versatility""]",2
+"The output quality of a printer is measured by","[""Dot per sq. inch"",""Dot per inch"",""Dots printed per unit time"",""All of the above""]",1
+"The accuracy of the floating-point numbers representable in two 16-bit words of a computer is approximately","[""16 digits"",""6 digits"",""9 digits"",""All of above""]",0
+"Computers with 80286 microprocessor is","[""XT computer"",""AT computers"",""PS\/2 computer"",""None of above""]",1
+"Today’s computer giant IBM was earlier known by different name which was changes in 1924. What was that name?","[""Tabulator Machine Co."",""Computing Tabulating Recording Co."",""The Tabulator L"",""None of these""]",1
+"What is the responsibility of the logical unit in the CPU of a computer?","[""To produce result"",""To compare numbers"",""To control flow of information"",""To do math\u2019s works""]",1
+"Which was the most popular first-generation computer?","[""IBM 650"",""IBM 360"",""IBM 1130"",""IBM 2700""]",0
+"Nepal brought a computer for census of 2028 BS. This computer was of","[""first generation"",""second generation"",""third generation"",""fourth generation""]",1
+"in which year was UK’s premier computing event started?","[""1980"",""1985"",""1986"",""1987""]",0
+"What was the expected feature of fifth generation computers when Japan started FGCS?","[""Operating Systems"",""Parallel Processing"",""ULSI"",""None of above""]",1
+"Binary circuit elements have","[""One stable state"",""Two stable state"",""Three stable state"",""None of above""]",1
+"Which of the following is used for manufacturing chips?","[""Control bus"",""Control unit"",""Parity unit"",""Semiconductor""]",3
+"Which of the following is not a micro-computer?","[""Laptop PCs"",""Tablet PCs"",""Desktop PCs"",""None of above""]",3
+"The value of each bead in earth is","[""1"",""3"",""5"",""7""]",0
+"When did John Napier develop logarithm?","[""1416"",""1614"",""1641"",""1804""]",1
+"Which of the following terms is the most closely related to main memory?","[""Non volatile"",""Permanent"",""Control unit"",""Temporary""]",3
+"Which was the world’s first minicomputer and when was it introduced?","[""PDP-I, 1958"",""IBM System\/36, 1960"",""PDP-II, 1961"",""VAX 11\/780, 1962""]",0
+"A group of magnetic tapes, videos, or terminals usually under the control of one master is","[""Cylinder"",""Surface"",""Track"",""Cluster""]",3
+"The word length of a computer is measured in","[""Bytes"",""Millimeters"",""Meters"",""Bits""]",3
+"What type of memory is not directly addressable by the CPU and requires special software called EMS (expanded memory specification)?","[""Extended"",""Expanded"",""Base"",""Conventional""]",1
+"Which unit holds data permanently?","[""Input unit"",""Secondary storage unit"",""Output Unit"",""Primary Memory Unit""]",1
+"Before a disk can be used to store data. It must be_______","[""Formatted"",""Reformatted"",""Addressed"",""None of the above""]",0
+"Computer system comprises of major units","[""input unit, output unit, control unit"",""input unit, output unit, control unit and storage"",""input unit, output unit, central processing unit and storage unit"",""input, output and storage units""]",2
+"The first general purpose electronic digital computer in the world was","[""UNIVAC"",""EDVAC"",""ENIAC"",""All of above""]",0
+"Signals can be analog or digital and a computer that processes both type of signals is known as","[""Analog computer"",""Digital Computer"",""Hybrid Computer"",""Mainframe Computer""]",2
+"High level language is also called","[""Problem oriented language"",""Business oriented language"",""Mathematically oriented language"",""All of the above""]",3
+"Human beings are referred to as Homosapiens, which device is called Sillico Sapiens?","[""Monitor"",""Hardware"",""Robot"",""Computer""]",3
+"Which of the following file organization is most efficient for a file with a high degree of file activity?","[""Sequential"",""ISAM"",""VSAM"",""B-Tree Index""]",0
+"Which of the following is associated with error detector?","[""Odd parity bit"",""Even parity bit"",""Both of the above"",""None of above""]",2
+"Magnetic tape can serve as","[""Secondary storage media"",""Output media"",""Input media"",""All of the above""]",0
+"Which company is the biggest player in the microprocessor industry?","[""Motorola"",""IBM"",""Intel"",""AMD""]",2
+"The first digital computer built with IC chips was known as","[""IBM 7090"",""Apple 1"",""IBM System \/ 360"",""VAX-10""]",2
+"EBCDIC can code up to how many different characters?","[""256"",""16"",""32"",""64""]",0
+"MICR stands for","[""Magnetic Ink Character Reader"",""Magnetic Ink Code Reader"",""Magnetic Ink Cases Reader"",""None""]",0
+"Number crunchier is the informal name for","[""Mini computer"",""Super computer"",""Microcomputer"",""Mainframe computer""]",1
+"A situation in a system where it can never leave or progress to another state.","[""Rest"",""Hang-up state"",""No change in state"",""Toggle""]",1
+"A diagram consisting of a set of circles, where each circle contains a number of states within it.","[""State table"",""Transition diagram"",""Karnaugh map"",""Bubble diagram""]",3
+"A counter that counts sequentially but does not step through all possible states, it returns to zero after a particular state.","[""Ripple counter"",""Decade counter"",""Truncated counter"",""Binary counter""]",2
+"A circuit that produces an output pulse for a fixed period of time in response to a trigger and then returns to its quiescent state.","[""Monostable circuit"",""Astable circuit"",""Bistable circuit"",""Discriminator""]",0
+"A small change made in resistance or capacitance to time a circuit precisely.","[""Trigger"",""Tweaking"",""Bounce"",""Squeaking""]",1
+"A square wave oscillator or clock generator","[""Astable circuit"",""Monostable circuit"",""Bistable circuit"",""Debounding circuit""]",0
+"A circuit designed to produce a clean output in response to a switch closure.","[""Monostable circuit"",""Filter circuit"",""Attenuator"",""Debouncing circuit""]",3
+"Duty cycle for repetitive waveform is defined as the","[""Ratio of the ON time to the total time"",""Sum of the ON time and the OFF time"",""Ratio of the OFF time to the ON time"",""Ratio of the total time to the ON time""]",0
+"The state of a flip-flop when Q = 0 and Q’ = 1","[""Reset"",""Set"",""Trigger state"",""Tristate""]",0
+"The state of a flip-flop when Q = 1 and Q’ = 0.","[""Reset"",""Latch"",""Set"",""Glitch""]",2
+"A state causing the flip-flop to change or reverse its state.","[""Reset"",""Set"",""Toggle"",""Non-toggle""]",2
+"How many flip-flops should be used to realize 32-count capacity?","[""2"",""4"",""5"",""6""]",2
+"The time difference which results when a clock may not arrive at all flip-flops at precisely the same time.","[""Glitch"",""Spike"",""Hold"",""Clock skew""]",3
+"A _______ condition that exists if a circuit output depends on which of two nearly simultaneous inputs arrive at a point in the circuit first.","[""glitch"",""skew"",""clear"",""race""]",3
+"A one-input JK flip-flop is the _______ flip-flop.","[""D"",""T"",""S-R"",""C""]",1
+"A JK flip-flop can be made to function like a T flip-flop by simply","[""connecting the J and K inputs together as one input"",""connecting J = 0 and K = 0"",""resetting all inputs of the JK"",""connecting earth ground the JK inputs""]",0
+"The one-input RS flip-flop is the _______ flip-flop.","[""T"",""D"",""R"",""Latch""]",1
+"Which of the following does not describe a flip-flop?","[""It is a one-bit memory device."",""Its interval circuitry are usually symmetrical"",""It is a bistable device"",""It is equivalent to a one-shot circuit""]",3
+"In clock circuits, SWG means","[""square wave glitches"",""standard wire gauge"",""square wave generators"",""standard wave ground""]",2
+"An input signal that can activate or disable a gate.","[""Strobe"",""Glitch"",""Tristate"",""Wired-AND""]",0
+"A ring counter where the output is inverted and tied back to the input","[""Shift counter"",""Decade counter"",""BCD counter"",""Johnson counter""]",3
+"A circuit that goes through 2^n – 1 states in a random fashion.","[""Random generator"",""Pseudo-random sequence generator"",""Counting shift"",""Register""]",1
+"An input that disables multiplexers or demultiplexers when it is HIGH.","[""Strobe"",""Keyboard"",""Decoder"",""Binary input""]",0
+"Application of excessive current to a fuse in order to open it.","[""Shorting"",""Blowing"",""Breaking"",""Disconnecting""]",1
+"An outstanding advantage of LCDs from LEDs.","[""LCDs are organized as a 7-segment display for numerical read out"",""LCDs can be multiplexed"",""LCDs essentially act as a capacitor and consume almost no power"",""LCDs generates light""]",2
+"A computer language that enables Programmable Array Logic (PAL) users to generate a file that can be used to blow a PAL.","[""JEDEC"",""PALASM"",""TURBO C++"",""Visual C""]",1
+"A type of computer bus which is bidirectional.","[""Data bus"",""Address"",""Control bus"",""Calling bus""]",0
+"A table used by a PLD language such as PALASM, to calculate the expected outputs for a set of inputs.","[""Excitation table"",""State table"",""Simulation table"",""Truth table""]",2
+"A programmable block of logic within a gate array, that contains a flip-flop for storage and also allows the user to specify logic functions on its inputs.","[""Programmed block"",""PLD"",""Configurable logic block"",""Block diagram""]",2
+"This type of bus carries the memory address from the computer to the memory.","[""Data bus"",""Address bus"",""Control bus"",""Parallel bus""]",1
+"This bus carries lines that control the operation of the memory from the microprocessor to the memory.","[""Data bus"",""Address bus"",""Control bus"",""Bus lines""]",2
+"A register which holds the address of the word currently being accessed.","[""Hold register"",""Memory address register"",""Memory data register"",""Access register""]",1
+"A register which holds the data being written into or read out of the addressed memory location.","[""Hold register"",""Memory data register"",""Memory address register"",""Glitch register""]",1
+"A preproduction model of a system built for testing and debugging,","[""Wire list"",""Maybe (colloquial)"",""Prototype"",""Sample""]",2
+"Correcting the faults in a circuit or a system.","[""Buzz-out"",""Debugging"",""Trap"",""Fault corrector""]",1
+"There are _________ flip-flops for a 3-bit binary counter.","[""2"",""3"",""4"",""5""]",1
+"A sequential logic circuit where the storage elements commonly used are time-delay devices (usually gates).","[""Synchronous SLC"",""Asynchronous SLC"",""Counter"",""Register""]",1
+"A block added to the combinational logic circuit to form a sequential logic circuit is the","[""ROM"",""counter"",""clock"",""memory""]",3
+"The state of the flip-flop before the occurrence of a clock pulse is called as its","[""present state"",""next state"",""current input"",""present output""]",0
+"The state of the flip-flop after the occurrence of a clock pulse is called as its","[""current state"",""present state"",""next state"",""current input""]",2
+"It is said to be a universal gate because any digital system can be implemented with it.","[""NAND"",""AND"",""OR"",""Exclusive OR""]",0
+"A flip-flop which follows its input in the next state.","[""T"",""D"",""JK"",""RS""]",1
+"An n-bit binary parallel adder requires ________ in its least design.","[""n half adders"",""n half subtractor"",""n full adders"",""n half subtractor and n full adder""]",2
+"A magnitude comparator has 2^(2n) entries in the truth table where n =","[""number of inputs"",""number of comparator bits"",""number of outputs"",""number of inputs and outputs""]",1
+"An included input terminals in a magnitude comparator IC which is significant when both inputs compared are equal is called as its","[""setting"",""cascading inputs"",""input terminals"",""address""]",1
+"In designing a 16 x 1 multiplexer, how many selection lines are needed?","[""2"",""4"",""16"",""32""]",1
+"If F = xy + x’y’ Boolean expression is to be implemented using decoders and OR gates, the connection involves","[""2 to 4 line decoder with 3 OR gates"",""3 to 8 line decoder with 2 OR gates"",""2 to 4 line decoder with 1 OR gate"",""3 to 8 line decoder with 4 OR gates""]",2
+"How many AND gates and 4-bit binary adders are needed to implement a 2-bit to 3-bit binary multiplier?","[""15 AND gates and three 4-bit binary adders"",""2 AND gates and one 4-bit binary adder"",""9 AND gates only"",""6 AND gates and one 4-bit binary adder""]",3
+"From a 3-bit binary counter design using T flip-flops, determine the number of T flip-flops needed in its circuit implementation.","[""1"",""2"",""3"",""4""]",2
+"An area of memory that holds the ASCII characters that are being displayed on a monitor.","[""Space"",""Start bit"",""Terminal"",""Screen image""]",3
+"An IC that transforms parallel data to serial in the asynchronous format and vice versa.","[""UART"",""USART"",""MODEM"",""RS232C""]",0
+"An instruction that alters the normal course of a program by causing it to jump to another instruction.","[""Rotate instruction"",""Skip instruction"",""Jump"",""ACC""]",2
+"An instruction that causes data to be brought from memory into an accumulator register.","[""LOAD"",""LOOP"",""FETCH"",""JUMP""]",0
+"The portion of an instruction cycle where the instruction is sent from memory to the instruction register","[""LOAD"",""ACCUMULATE"",""FETCH"",""EXECUTE""]",2
+"An instruction that causes data in the accumulator to be moved to the memory or a peripheral register.","[""FETCH"",""STORE"",""LOOP"",""LOAD""]",1
+"This occurs when the result of an arithmetic operation is a more negative number than the output register can accommodate.","[""Error"",""Overflow"",""Underflow"",""Don\u2019t care""]",2
+"This occurs when the result of an arithmetic operation is a larger number than the output register can accommodate.","[""Overflow"",""Inflow"",""Underflow"",""Lock-ahead carry""]",0
+"A representation of numbers when negative numbers are obtained by complementing their positive equivalent and adding 1.","[""2\u2019s complement"",""Inversion"",""Signed numbers"",""Indeterminate""]",0
+"Which of the following is the language used in making an internet web page?","[""Highertext mark-up language"",""Hypertext mark-up language"",""Hightech mark-up language"",""Hypertext make-up language""]",1
+"A program which can be executed on several different computers to compare their speed and performance.","[""Compiler"",""Assembler"",""Diagnostic program"",""Benchmark""]",3
+"A single word memory location used to temporarily hold data during program execution.","[""Accumulator"",""Register"",""Buffer"",""Stack""]",1
+"Refer to the debugging method in which the program is executed one instruction at a time and the register contents can be examined after each step?","[""Text editing"",""Syntax analyzing"",""Trace"",""Semantic tracing""]",2
+"In a computer system, it is a unit of hardware where the control keys are located.","[""CPU"",""Keyboard"",""I\/O section"",""Console""]",3
+"If a certain circuit acts as AND gate when used with positive logic (H = 1, L = 0), what function will it perform when used with negative logic (H = 0, L = 1).","[""OR"",""AND"",""NAND"",""NOR""]",0
+"TTL, DTL and ECL which are frequently used to refer to certain “families” of digital integrated circuits, are actually names of","[""alternatives to positive and negative logic"",""varieties of positive and negative logic"",""companies that originated the families"",""general varieties of electronic circuits used as logic gates, from which, in essence, the building blocks in each series are constructed.""]",3
+"In the data sheet of a digital building block, operating speed is typically expressed in terms of","[""capacitance C"",""transition frequency"",""propagation delay times for both possible output transitions"",""miles per hour or centimeters per second""]",2
+"The fan out capability of a digital building block depends on the current capability of its output and the current requirement of each input driven by that output, and maybe defined as the","[""number of inputs that one output can transmit to"",""number of other inputs that can transmit to one input"",""maximum power dissipation that the unit can stand"",""amount of cooling required""]",0
+"Noise margin, which is one indication of how likely it is that information communicated between digital building blocks will be incorrect due to noise, depends on","[""output current capabilities and input current requirements"",""output power and required input power for the two logic states"",""the \u201csafety margin\u201d between the output voltage produced by the transmitting block and input voltage required by the receiving block for each of the two logic state."",""the \u201csafety margin\u201d between the noise level and the noise figure.""]",2
+"Typical propagation delay range for modern digital integrated circuits is","[""1 to 100 milliseconds"",""1 to 100 microseconds"",""1 to 100 nanoseconds"",""1 to 100 picoseconds""]",2
+"The most commonly used IC package for digital integrated circuits is the","[""CMOS pack"",""DIP ceramic"",""DIP plastic"",""Flat pack""]",2
+"A multiwire connection between digital circuits is usually called a","[""ribbon"",""bus"",""wire wrap"",""multiplexed line""]",1
+"Which of the following is a form of De Morgan’s theorem?","[""A + B = (AB)\u2019"",""AB = (A + B)\u2019"",""(A + B)\u2019 = A\u2019 \u00b7 B\u2019"",""A\u00b7B = A\u2019 \u00b7 B\u2019""]",2
+"“Limbo” state of a flip-flop occurs when","[""both outputs are low"",""both outputs are high"",""both output are the same"",""the outputs are inverse""]",2
+"A logic circuit that is triggered by a clock signal is","[""sequential"",""synchronous"",""asynchronous"",""pulsed""]",1
+"Another name for a decade counter","[""frequency divider"",""ripple shift counter"",""BCD counter"",""Binary counter""]",2
+"Which of the items below can perform parallel-to-serial data conversion?","[""Shift register"",""Binary counter"",""Multiplexer"",""Decoder""]",0
+"Which of the following does not form DACs?","[""Counter"",""Resistor network"",""Current switches"",""Reference""]",0
+"What digits are used in the binary number system?","[""0 and 1"",""high and low"",""true and false"",""all of the choices""]",0
+"How many bits are in a byte?","[""8"",""4"",""2"",""16""]",0
+"What binary number follows 1110?","[""1010"",""0111"",""1111"",""1000""]",2
+"What capital letter corresponds to 1000101 in the ASCII code?","[""A"",""C"",""D"",""E""]",3
+"What is the binary ASCII code for a question mark?","[""0111110"",""0111111"",""0111000"",""0100011""]",1
+"In the 7400 Family of TTL Devices, Quad 2-input NAND gates has a device number equivalent to","[""7400"",""7402"",""7432"",""7486""]",0
+"Quad 2-input XOR gates in the 7400 Family of TTL devices has a device number equivalent to","[""7402"",""7486"",""7408"",""7404""]",1
+"A JK flip-flop will operate in the toggle mode when","[""J = 0, K = 0"",""J = 1, K = 0"",""J = 1, K = 1"",""J = 0, K = 1""]",2
+"A digital circuit test equipment which is a troubleshooting tool that generates a short-duration pulse when activated manually, usually by pressing the button is the __________.","[""logic probe"",""VOM"",""logic clip"",""logic pulser""]",3
+"An RS flip-flop will not change in state when","[""R = 0, S = 0"",""R = 1, S = 0"",""R = 0, S = 1"",""R =1, S = 1""]",0
+"A T flip-flop can be derived by","[""connecting the two inputs of the JK flip-flop together"",""by inverting the inputs of a JK flip-flop"",""connecting the RS flip-flop\u2019s input to ground"",""securing an integrated circuit with three inputs""]",0
+"The number of digits used by a number system.","[""Base"",""Radix"",""2n"",""n""]",1
+"What is the condition of the flip-flop when Q = 0 and Q = 1?","[""Reset"",""Set"",""Undetermined"",""Preset""]",0
+"How many logic gates are in an SSI chip?","[""Less than 12 gates"",""Between 12 to 99 gates"",""Anywhere from 100 to 9999 gates"",""10,000 or more""]",0
+"How many logic gates are in an MSI chip?","[""Less than 12 gates"",""Between 12 to 99 gates"",""Anywhere from 100 to 9999 gates"",""10,000 or more""]",1
+"How many logic gates are in a VLSI chip?","[""Less than 12 gates"",""Between 12 to 99 gates"",""Anywhere from 100 to 9999 gates"",""10,000 or more""]",3
+"Which of the following items below is not a part of the hardware organization in a computer?","[""Architecture"",""Implementation"",""Hardware realization"",""Assembler""]",3
+"It consists of the instructions and data that the computer hardware manipulates to perform useful work.","[""Software"",""Program"",""File"",""Data""]",0
+"The data manipulated by a program is called _________ depending on its nature and extent.","[""data base"",""file"",""input"",""all of the choices""]",3
+"The most primitive instructions that can be given to a computer are those interpreted directly by the hardware in __________ form.","[""assembly language"",""machine language"",""high-level language"",""simulator""]",1
+"It represents machine instructions by mnemonic names and allows memory addresses and other constants to be represented by symbols rather than bit strings.","[""Assembler"",""Machine language"",""Assembly language"",""Interpreter""]",2
+"Text editors and formatters belong to the area of computing known as ________.","[""software"",""word processing"",""compilers"",""assemblers""]",1
+"The processor or central processing unit is","[""the heart of the computer"",""employed RISC"",""communicates with the user"",""supports floating point numbers""]",0
+"Processors with more than two registers for arithmetic and logical operations are classified as","[""specific registered processors"",""general register processors"",""accumulator based"",""serial register processor""]",1
+"Which of the following is a non-volatile device?","[""ROM"",""RAM"",""PLA"",""PLD""]",0
+"With a ________, a processor can store data at any address and read back the stored information at any time.","[""RWM"",""ROM"",""PLA"",""PROM""]",0
+"The system program used to translate directly an assembly language to machine language is called","[""assembler"",""compiler"",""text editor"",""debugger""]",0
+"A command to an ADC to start conversion","[""SOC"",""EOC"",""PAC"",""EAR""]",0
+"Speeds of modems are generally classified by the number of _________ they can transmit.","[""cycles per second"",""bits per second"",""frequency per second"",""all of the choices""]",1
+"High speed modems transmit between","[""300 and 2400 bps."",""2400 and 9600 bps"",""between 2400 and 9600 bps"",""between 300 and 2400 bps""]",2
+"Low speed modems method of modulation is usually","[""phase-shift modulation"",""dibit modulation"",""frequency shift keying"",""amplitude modulation""]",2
+"Low speed modems generally handle data rates between","[""3000 and 9000 bps"",""300 and 2400 bps"",""2400 and 9600 bps"",""100 and 2400 bps""]",1
+"The most important memory element which is made of an assembly of logic gates is called","[""latch"",""bistable multivibrator"",""flip-flop"",""all of the choices""]",2
+"What is the normal resting state of the SET and CLEAR inputs in a flip-flop","[""Low, high"",""High, low"",""High, high"",""Low, low""]",0
+"What will be the states of Q and Q’ after a flip-flop has been cleared?","[""Q = 1, Q\u2019 = 0"",""Q = 0, Q\u2019 = 1"",""Q = 0, Q\u2019 = 0"",""Q = 1. Q\u2019 = 1""]",1
+"When power is first applied to any flip-flop circuit, it is impossible to predict the initial state of Q and Q’. What could be done to ensure that NAND latch always started off in the Q = 1 state?","[""apply a momentary HIGH to PRESET input"",""apply a momentary LOW to SET input"",""apply a momentary LOW to CLEAR input"",""apply a momentary HIGH to CLEAR input""]",1
+"When a flip-flop is set, what are the states of Q and Q’?","[""Q = 1, Q\u2019 = 0"",""Q = 0, Q\u2019 = 1"",""Q = 0, Q\u2019 = 0"",""Q = 1, Q\u2019 = 1""]",0
+"What two types of inputs that a clocked flip-flop has?","[""synchronous control inputs and clock input"",""Asynchronous control inputs and clock input"",""Pulsed control inputs and clock input"",""all of the choices""]",0
+"The flip-flop can change only when the appropriate clock transition occurs. It is a condition called","[""edge triggered"",""latching"",""clocking"",""pulsing""]",0
+"It is the required interval immediately following the active edge of the clock signal during which the control inputs must be held stable.","[""Hold time"",""Pulsing time"",""Set up time"",""All the time""]",2
+"It is the required interval immediately following the active edge held of clocks during which the control inputs must be held.","[""Set up time"",""Hold time"",""Pulsing time"",""Propagation time""]",1
+"What JK input condition will always set Q upon the occurrence of the active clock transition?","[""J = 0, K = 0"",""J = 1, K = 0"",""J = 0, K = 1"",""J = 1, K = 1""]",1
+"How does the operation of asynchronous input differ from that of a synchronous input?","[""it works independently of the clock input"",""it is very dependent on the clock transition"",""it is mutually the same in function"",""Not determined by ordinary operation""]",0
+"The triangle inside the rectangle which is part of the IEEE/ANSI symbol at clock input","[""indicates the function of those inputs that are common to more than one circuit in the chip"",""indicates triggering on a NGT"",""indicates edge-triggered operation"",""all of the choices""]",2
+"Which type of flip-flop is best suited for synchronous transfer because it requires the fewest interconnections from one flip-flop to the other?","[""JK"",""T"",""RS"",""D""]",3
+"The fastest method for transferring data from one register to another is the","[""serial transfer"",""parallel transfer"",""hybrid transfer"",""FIFO""]",1
+"What is the major advantage of serial transfer over parallel transfer?","[""large interconnections between gates"",""one at a time transmission"",""fewer interconnections between registers"",""speed""]",2
+"A 20 KHz clock signal is applied to a JK flip-flop when J = 1, K = 1. What is the frequency of the flip-flop output waveform?","[""20 KHz"",""10 KHz"",""40 KHz"",""5 KHz""]",1
+"How many flip-flops are required for a counter that will count 0 to 255?","[""2"",""4"",""16"",""8""]",3
+"It converts a non-electrical physical quantity to an electrical quantity.","[""Converter"",""Inverter"",""Transducer"",""Compiler""]",2
+"What does a computer do with the data it receives from an ADC?","[""Stores the data"",""Performs calculation"",""Processes the data"",""All of the choices""]",3
+"An actuator in the DAC","[""performs conversion of digital data to its analog representation"",""controls a physical variable according to an electrical input signal"",""converts a non-electrical physical quantity to an electrical quantity"",""performs calculation""]",1
+"The maximum deviation of DAC output from its ideal value, expressed as percentage of full scale.","[""Full scale error"",""Deviation ratio"",""Percentage error"",""None of the choices""]",0
+"The time it takes for the DAC output to settle to within ½ step size of its full scale value when the digital input changes from zero to full scale.","[""Settling time"",""Set-up time"",""Hold time"",""Full scale time""]",0
+"Why are voltage DAC’s generally slower than current DAC’s?","[""Because of the response time of the op-amp current-to-voltage converter"",""Because of its internal construction"",""Because voltage DAC\u2019s have many heat losses"",""None of the choices""]",0
+"What is the function of the comparator in the ADC?","[""Tells control logic when the DAC output exceeds the analog input"",""Compares two parameters only"",""Addition and multiplication"",""Arithmetic operation""]",0
+"Meaning of checksum in ROM’s","[""It is a code placed in the last one or two ROM locations that represents the sum of the expected ROM data from all other locations."",""Used as a means to test for leakage in one or more ROM locations"",""prevents decoding glitches"",""regulates ROM""]",0
+"What is meant by interfacing in a computer system?","[""Synchronization of data information operation in a computer"",""Synchronization of digital information transmission between computer and external I\/O devices"",""Connection of computers"",""Finding the fault in a network""]",1
+"Which of the items below is not one of the three major sections of an MPU?","[""Timing and control"",""ALU"",""Register"",""Inversion""]",3
+"What is an operand address?","[""The binary code that represents the operation to be performed by the CPU"",""The address of the data to be operated as the CPU executes the instruction called for by the opcode"",""A short abbreviation for the operation"",""All of the choices""]",1
+"What device puts data on the data bus during a write operation?","[""ALU"",""CPU"",""Keyboard"",""Accumulator""]",1
+"Instruction mnemonic means","[""a short abbreviation for the operation"",""a binary code that represents the operation to be performed by the CPU"",""technical term sometimes added to an IC\u2019s description"",""representation of a quantity that varies in discrete steps""]",0
+"Arrival of a clock signal at the clock inputs of different flip-flops at different times as a result of propagation delays.","[""Clock transition"",""Buffer address"",""Clock skew"",""None of the choices""]",2
+"A circuit made up of combinations of logic gates, with no feedback from output to input.","[""Sequential logic circuit"",""Combinational logic circuit"",""Clocked circuits"",""Asynchronous circuit""]",1
+"A logic circuit that depends on the status of its selected inputs will channel its data input to one of several data outputs.","[""MUX"",""DMUX"",""RAM"",""ROM""]",1
+"Add (74)<sub>8</sub> with (1.1)<sub>2</sub>","[""(700)<sub>10<\/sub>"",""(70.5)<sub>8<\/sub>"",""(10101.01)<sub>.2<\/sub>"",""(75.4)<sub>8<\/sub>""]",3
+"An analog memory output circuit used to eliminate aperture error is called a","[""MUX"",""DMUX"",""Track\/store amplifier"",""Flip-flop""]",2
+"Which of the following is not a dynamic test instrument?","[""Logic probe"",""Oscilloscope"",""Logic analyzer"",""Logic monitor""]",3
+"A translated program in machine language is called","[""a source program"",""an object program"",""machine program"",""users program""]",1
+"Perform binary subtraction to 6 ¼ and 4 ½ would result to","[""1001. 01"",""1.11"",""10. 11"",""1.00""]",1
+"Built a computer in 1946 at the Institute of Advance Study (IAS), Princeton, USA, that uses binary numbers and stores information.","[""Vannevar Bush"",""John Van Neumann"",""John Atannasoff"",""Clifford Berry""]",1
+"An electronic device design to accept data performs prescribed computational and logical operations at high speed and output the results of this operation.","[""Compiler"",""Simulator"",""Computer"",""Digital machine""]",2
+"First commercial computer introduce in 1953 that uses valves.","[""IBM-1400"",""UNIVAC"",""IBM-701"",""ENIAC""]",1
+"The first electronic computer and was completed in 1946.","[""ENIAC"",""UNIVAC"",""EDVAC"",""Whirlwind I""]",0
+"ENIAC was developed at","[""University of Pennsylvania"",""Massachusetts Institute of Technology"",""Cambridge University"",""Bell Laboratories""]",0
+"Who constructed ENIAC and UNIVAC?","[""William Oughtred"",""Presper Eckert and John W. Mauchly"",""John von Neumann"",""William Oughtred and Jon von Neumann""]",1
+"ENIAC consist of how many vacuum tubes?","[""1,500 tubes"",""3,575 tubes"",""13,575 tubes"",""18,000 tubes""]",3
+"ENIAC could perform _________ additions or up to _________ multiplications per second.","[""1,000 \/ 100"",""1,500 \/ 150"",""3,000 \/ 300"",""5,000 \/ 500""]",3
+"Whirlwind I, develop at Massachusetts Institute of Technology is capable of _________ operations per second.","[""1,000"",""5,000"",""10,000"",""20,000""]",3
+"Refers to the increased use of data conversion circuits as a result of increased application.","[""Op Amps"",""Linear circuit"",""Computers"",""Digital equipment""]",2
+"What is a group of circuits that provides timing and signals to all operations in the computer?","[""Output unit"",""Memory unit"",""Control unit"",""Input unit""]",2
+"Refers to the part of computer that performs mathematical operations.","[""CPU"",""Flip-flop"",""Assembly language"",""ALU""]",3
+"What does ALU which carries arithmetic and logic operations process?","[""Binary coded decimal"",""Hexadecimal numbers"",""Octal numbers"",""Binary numbers""]",3
+"What is the smallest part of a computer language?","[""binary"",""byte"",""bit"",""word""]",2
+"A digital word consisting of only four bits is called a","[""dibit"",""quad"",""pixel"",""nibble""]",3
+"Electronics methodology in solving application problems using circuits, in which there are only two possible voltage levels.","[""digital electronics"",""switching techniques"",""state diagramming"",""bistable electronics""]",0
+"In digital electronics, there are mainly two possible voltage levels and these make _______ number system to be useful in its analysis.","[""binary"",""octal"",""hexadecimal"",""all of the above""]",0
+"1 and 0 in binary number system are used to represent the two different voltage levels or logic levels in digital circuits. However, in most applications, a long string of 1’s and 0’s occur, and makes the data presentation “nasty”. To condense this long string of 1’s and 0’s, the ___________ number system is (are) also used.","[""octal"",""decimal"",""hexadecimal"",""all of the above""]",3
+"How many symbols are used in octal digital number system?","[""16"",""4"",""8"",""2""]",2
+"How many symbols does hexadecimal digital number system used?","[""16"",""4"",""8"",""32""]",0
+"What is the equivalent of decimal number 11 in binary?","[""1101"",""1110"",""1111"",""1011""]",3
+"Which of the following is not used in hexadecimal digital symbols?","[""A"",""C"",""H"",""F""]",2
+"What is the equivalent of decimal 7 in octal?","[""21"",""49"",""7"",""14""]",2
+"The decimal 36020 is equivalent to hexadecimal ___________.","[""8CB4"",""88BC"",""8BC8"",""884C""]",0
+"What is the equivalent of decimal 14 in binary?","[""1110"",""1011"",""1101"",""1111""]",0
+"The code 1011 in BCD is","[""24"",""Letter A"",""11"",""Invalid""]",3
+"Conversion from binary to octal number system needs a grouping of bits by","[""Two"",""Three"",""Four"",""Five""]",1
+"Convert the given binary number 1010011.01 to octal system.","[""511.1"",""511.2"",""123.1"",""123.2""]",3
+"What is the hexadecimal equivalent of the binary number 1010011.01?","[""53.4"",""53.1"",""A6.1"",""A6.4""]",0
+"The most practical way of converting hexadecimal numbers to binary is to give each number its _________ equivalent bits.","[""Two"",""Three"",""Four"",""Five""]",2
+"The binary equivalent of the hexadecimal number ECE.5","[""1110 1100 1110.0101"",""1110 1100 1110.101"",""1101 1100 1101.101"",""1101 1100 1101.0101""]",0
+"Convert (1111 1111 1111 1111)2 to decimal number.","[""32 767"",""32 768"",""65 535"",""65 536""]",2
+"Find the sum of binary number 1010 and 0011.","[""1021"",""1101"",""1011"",""1111""]",1
+"Get the sum of (110.1101)2 and (11.01)<sub>2</sub>.","[""1010.0101"",""1010.0001"",""1101.0101"",""0111.1010""]",1
+"What is the difference between the given binary numbers, 110.1101 and 11.01?","[""110.0000"",""111.1010"",""11.1010"",""11.1001""]",3
+"Find the radix-minus one complement of (110.1101)<sub>2</sub>.","[""111.0010"",""010.0011"",""1.001"",""001.0010""]",3
+"Give the true complements of (1101.1100)<sub>2</sub>.","[""0010.0011"",""10.0011"",""10.01"",""0010.0100""]",3
+"Mathematics used in expressing, analyzing, and designing of digital electronic circuits.","[""Boolean algebra"",""Numerical methods"",""Statistical approach"",""Logical mathematics""]",0
+"Method(s) used in simplifying Boolean algebra.","[""Karnaugh map"",""Map-entered variable technique"",""Quine-McCluskey tabular method"",""All of the above""]",3
+"Karnaugh map is the most commonly used method in simplifying Boolean expression or logical functions. In this method only 1’s and 0’s are entered into the table, while ________ includes variables into the table.","[""Boolean algebra"",""Map-entered variable technique"",""Superposition method"",""Quine-McCluskey tabular method""]",1
+"What level is used to represent logic 1 in a negative logic circuit?","[""negative transition level"",""low level"",""positive transition level"",""high level""]",1
+"What level is used to represent logic “0” in a negative logic circuit?","[""high level"",""low level"",""negative transition level"",""positive transition level""]",0
+"_________ is a gate which has two or more low inputs signals to get a low output.","[""AND"",""Inverter"",""OR"",""NAND""]",2
+"What is the logic circuit having two or more inputs but only output, with high output of any or all inputs are high, with low output only if all inputs are low?","[""AND gate"",""OR gate"",""NOR gate"",""NAND gate""]",1
+"A logic gate whose output is HIGH when a single HIGH at its input is present.","[""OR gate"",""NOR gate"",""AND gate"",""NAND gate""]",0
+"An output of logic zero can be generated by what logic gate(s) if all inputs are zero?","[""OR gate"",""AND gate"",""NOR gate"",""NAND gate""]",0
+"Logic gate that generates an output of logic zero if and only if all inputs are zero.","[""OR gate"",""AND gate"",""NOR gate"",""NAND gate""]",0
+"A solid state device which only gives a “1” output if all inputs are also “1” is called","[""an AND gate"",""a NAND gate"",""a NOR gate"",""an OR gate""]",0
+"A solid state logical device which only gives a “1” output if all inputs are “0” is called a _________ gate.","[""NOT"",""NOR"",""NAND"",""OR""]",1
+"To cause a three-state buffer to output 0-1 levels, the following must be true:","[""The output enable must be false"",""The output enable must be true"",""The information must have been stored in the buffer"",""The signal OE must be at logic 1""]",3
+"The rapidly flashing logic probe tip tells you that the logic node being probe","[""Has rapidly changing logic activity"",""Is struck"",""Is at an illegal logic level"",""Has an unstable logic activity""]",0
+"______________ is a single bit comparator.","[""Wired OR"",""Exclusive OR"",""NOR gate"",""Exclusive NOR""]",3
+"_____________ refers to the class of logic circuit containing flip-flops.","[""Combinational"",""Sequential"",""Linear"",""Feedback""]",1
+"What is the counter that follows the binary sequence?","[""Binary counter"",""Simplex counter"",""Shift counter"",""Decimal counter""]",0
+"What logic circuit is analogous to a single pole mechanical selector switch?","[""Decoder"",""Encoder"",""Multiplexer"",""Exclusive OR""]",2
+"An encoder is an MSI (medium-scale-integrated) circuit that","[""Provides an output code that corresponds to which of a set of input line is true"",""Provides a storage of a certain number of binary bits"",""Selects a given output based on binary input code"",""Provides for delivering one of two or more inputs to an output""]",0
+"_____________ is called the time sharing of one line with multiplex signals.","[""Simultaneous transmission"",""Bi-directional"",""Relay"",""Multiplexing""]",3
+"Data selector is also called","[""Encoder"",""Decoder"",""Multiplexer"",""Demultiplexer""]",2
+"_____________ refers to a function of a decade counter digital IC.","[""Provides one output pulse for every 10 inputs pulses"",""Adding two decimal numbers"",""Producing 10 output pulses for every 1 pulse"",""Decoding a decimal number for display on seven-segment""]",0
+"___________ refers to BCD counter:","[""Decade counter"",""Shift register"",""Frequency divider"",""Binary counter""]",0
+"In a system with MOS devices, the main bus loading factor is likely to be","[""Resistive"",""Current"",""Capacitive"",""Static charge""]",2
+"When a logic circuit rejects an unwanted signal, this is termed as ___________.","[""Logic levels"",""Noise margin"",""Power consumption"",""Propagation delay""]",1
+"Speed of a logic circuit is normally expressed as _________.","[""Logic levels"",""Speed immunity"",""Propagation delay"",""Power consumption""]",2
+"What is a multi-wire connection between digital circuits?","[""Bus"",""Wire wrap"",""Multiplexed cable"",""Cable ribbon""]",0
+"What is the process used to describe analog-to-digital conversion?","[""Binarize"",""Linearize"",""Digitize"",""Analogize""]",2
+"What is the process of converting multiple analog input signals sequentially to digital output?","[""Time division multiplexing"",""Analog to digital conversion"",""Space division multiplexing"",""Pulse code modulation""]",0
+"What do you call a circuit that changes pure binary code into ASCII?","[""Decoder"",""Encoder"",""Demultiplexer"",""Code converter""]",3
+"The output pulses of the logic pulser _________.","[""Can damage logic circuits"",""Are too many for the logic probe to respond to"",""Can only force high nodes to low"",""Can be used to overdrive logic nodes high or low""]",3
+"Circuits used to implement Boolean expression or equations.","[""Logic gates\/circuits"",""Digital circuits"",""Binary circuits"",""All of the above""]",3
+"Logic gate whose output is HIGH when one or all of its inputs is LOW.","[""OR gate"",""NOR gate"",""AND gate"",""NAND gate""]",3
+"What logic gate that generates an output of logic zero (LOW) only when all its inputs are logic one (HIGH)?","[""OR gate"",""NOR gate"",""AND gate"",""NAND gate""]",3
+"Only when all inputs are LOW thus, this logic gate produces an output of HIGH.","[""NOR gate"",""NAND gate"",""AND gate"",""NOR and NAND""]",0
+"A logic gate whose output is logic zero every time one of its inputs goes to logic one.","[""NOR gate"",""NAND gate"",""XOR gate"",""A and C""]",0
+"Gate with HIGH output level every time one of its inputs goes LOW.","[""NOR gate"",""NAND gate"",""XNOR gate"",""B and C""]",1
+"What logic gate that gives an output of logic one if there is an odd number of 1’s at the input?","[""NOR gate"",""NAND gate"",""XOR gate"",""XNOR gate""]",2
+"Logic gate that gives a HIGH output when the input has an even number of 1’s.","[""NOR"",""NAND"",""XOR"",""XNOR""]",3
+"A circuit that converts the input logic level to its complement.","[""Inverter"",""NOR gate with all inputs tied"",""NAND gate with all inputs tied"",""All of the above""]",3
+"If the fan out of a logic gate is not enough, a/an ___________ should be used.","[""Inverter"",""Amplifier"",""Buffer"",""Isolator""]",2
+"Is considered as a controlled inverter.","[""XOR"",""NOR"",""NAND"",""AND""]",0
+"A logic gate that can be wired to function like any other gate.","[""International gate"",""Flexible gate"",""Variable gate"",""Universal gate""]",3
+"Known as universal gates.","[""OR and AND"",""AND and NAND"",""OR and NOR"",""NOR and NAND""]",3
+"How many NAND-gates are needed to have an AND function?","[""2"",""3"",""4"",""5""]",0
+"The number of NAND-gates needed to form an OT-gate.","[""2"",""3"",""4"",""5""]",1
+"OR function can be achieved by suing how many NOR gates?","[""2"",""3"",""4"",""5""]",0
+"Which of the following is the probable output if all inputs of a TTL gate are binary 1?","[""Determinable"",""Binary 0"",""Binary 1"",""Indeterminate""]",1
+"Logic devices are broadly divided or categorized into two families, bipolar and MOS. What are the examples of bipolar?","[""RTL and DTL"",""IIL and ECL"",""TTL and HLDTL"",""All of the above""]",3
+"CMOS, NMOS, and PMOS belong to MOS family, what is (are) the significance of these devices?","[""They have lower power dissipation than bipolar devices"",""They are generally slower than bipolar devices"",""They are most sensitive to electrostatic"",""All of the above""]",3
+"Refers to the ability of logic circuit it withstand noise superimposed on its input signal.","[""LOW noise immunity"",""HIGH noise immunity"",""Noise immunity"",""Noise figure""]",2
+"The number of logic gates of the same family that can be connected to the input of a particular gate without degrading the circuit performance.","[""Fan-in"",""Fan-out"",""Input-drive"",""Input noise immunity""]",0
+"Refers to the number of logic gate of the same family that can be driven by a single output of a particular logic gate.","[""Output drive"",""Output noise margin"",""Fan-in"",""Fan-out""]",3
+"A bipolar logic family that uses resistors as its input circuit.","[""RTL"",""DTL"",""ECL"",""TTL""]",0
+"Logic family that uses diodes and transistors as its circuit elements. This logic family is more resistant to noise than RTL.","[""DTL"",""TTL"",""ECL"",""I2L or IIL""]",0
+"A logic circuit family with a supply voltage of 25 V, and are generally used in industry where machinery causes electrical noise and large power line transients to occur.","[""HLDTL"",""74HXX"",""NMOS"",""CMOS""]",0
+"A variation of transistor-transistor-logic (TTL) wherein transistor’s base and collector junctions are clamped with a Schottky diode.","[""ECL"",""STTL"",""I2L"",""CML""]",1
+"In a transistor-transistor logic (TTL), if the base collector junction of a transistor is clamped with a Schottky diode it becomes Schottky TTL. What is the significance of having this diode?","[""It increases the switching speed"",""It decreases the power dissipation"",""It increases the noise margin"",""It increases the fan-out""]",0
+"Which of the bipolar logic circuits is the fastest?","[""TTL"",""STTL"",""SCTL"",""ECL""]",3
+"Of all bipolar logic families, TTL is widely used. What do you think is (are) the reason(s) why?","[""Its speed is just enough for most applications"",""Its power consumption\/dissipation is manageable"",""It has a good noise immunity"",""All of the above""]",3
+"Of the MOS logic family, which is the fastest?","[""PMOS"",""NMOS"",""CMOS"",""VMOS""]",2
+"PMOS are generally supplied with a voltage up to","[""5.5 V"",""12 V"",""15 V"",""24 V""]",3
+"CMOS are normally supplied a voltage up to what value?","[""5.5 V"",""12 V"",""15 V"",""24 V""]",2
+"PMOS and CMOS have normally different supply requirements. However, both can be operated from the same power supply provided it should be up to the CMOS limitation (15 V). CMOS output can drive directly PMOS inputs, but not PMOS’s output to CMOS’s input. How do you interface PMOS to CMOS?","[""By providing a pull-down resistor at the interconnection (PMOS output to CMOS input)"",""By providing a pull-up resistor at the interface"",""By inserting a series limiting resistor between PMOS output and CMOS input"",""By interfacing through an open-collector transistor configuration""]",0
+"NMOS can be interfaced to CMOS by providing a","[""Pull-up resistor"",""Pull-down resistor"",""Limiting resistor"",""Coupling capacitor""]",0
+"A digital IC whose output transistor has no internal pull-up resistor.","[""Open-collector configuration"",""Open-emitter configuration"",""Totem-pole output"",""Tri-sate output""]",0
+"In digital ICs, such as buffers and registers, what output configuration is used if they are intended for “busing”?","[""Totem-pole"",""Tri-state output"",""Complementary"",""Open-collector""]",1
+"The output configuration of most CMOS ICs.","[""Totem-pole"",""Open-source"",""Darlington"",""Complementary""]",3
+"In TTL ICs, which input configurations gives a high-input impedance at both logic states (HIGH and LOW state)?","[""MET"",""Input with kicker transistor"",""Diode cluster input"",""Substrate PNP input""]",3
+"What is the purpose of the internal clamping diodes at the input of a logic circuit?","[""To minimize negative ringing effects"",""To minimize positive ringing effects"",""To regulate the input signal"",""To protect reverse-polarity connection""]",0
+"In TTL ICs with more than one gate available, sometimes not all gates are used. How ill you handle these unused gates?","[""Force the output to go LOW"",""Force the output to go HIGH"",""Provide pull-down resistors to all inputs"",""Provide all inputs with pull-up resistors""]",1
+"How ill you handle unused inputs in a logic gate/ logic IC?","[""Leave them floating"",""Pull them down"",""Pull them up"",""Pull them down or up, depending on circuit function""]",3
+"What is the memory element used in clocked sequential logic circuit?","[""Gates"",""Flip-flop"",""Static-RAM"",""Read-only memory""]",1
+"A static memory will store information","[""As long as power is applied to the memory"",""Even when power is not applied to the memory"",""As long as power is applied and the memory is refreshed periodically"",""When power is applied at regular intervals""]",1
+"What is the reason why more cells can be stored in a given area with dynamic cells?","[""They consume less power"",""They are similar"",""They are larger"",""They travel faster""]",1
+"A ______________ is a solid state memory device, which depends on the magnetic polarization of domains, usually in a garnet type material.","[""Magnetic disk"",""Magnetic core"",""Magnetic bubble"",""Magnetic drum""]",2
+"______________ are non-semiconductor devices still used in digital memories.","[""Gates"",""Flip-flops"",""Relay"",""Magnetic cores""]",3
+"The density of data recorded on magnetic tape is measured in","[""Bit stuffing rate"",""Bit error rate"",""Bits per inch"",""Bits per second""]",2
+"A memory circuit that has 9 address inputs has how many storage locations?","[""1024"",""256"",""512"",""Not determined by sets of input""]",2
+"Clock periods are measured from ___________.","[""The high level to the low level"",""The low level to the high level"",""Similar points on the clock waveform"",""The clock pulse at 50% of its low or high levels""]",2
+"Determine which item is not a storage device.","[""Card readers"",""CD-ROM"",""Diskettes"",""Magnetic tape""]",0
+"What is the function of flip-flop as logic element?","[""Stores binary data"",""Generates clock signal"",""Relay data"",""Makes decision""]",0
+"_____________ is not a type of flip-flop.","[""RS"",""Latch"",""D"",""Register""]",3
+"What is the higher voltage level in digital gates and flip-flop circuits?","[""Yes or One"",""One or Zero"",""Zero or No"",""Yes or No""]",0
+"_____________ is a byte data stored in a memory location.","[""8 bits"",""Character"",""4 bits"",""Memory word""]",3
+"_____________ is called retrieving data from memory.","[""Accessing"",""Getting"",""Encoding"",""Reading""]",0
+"____________ can erase EPROMS.","[""Applying a 21-volt pulse"",""Applying ultraviolet rays"",""Turning off the power"",""Blowing fuse""]",1
+"___________ is a segment register which normalcy access variables in the program.","[""Extra"",""Stack"",""Data"",""Code""]",1
+"____________ is a storage device used to accommodate a difference in rate of flow of data or time of occurrence of events when transmitting from one device to another.","[""Accumulator"",""Buffer"",""Modem"",""Register""]",1
+"_____________ is a device that stay on once triggered and store one or two conditions as a digital circuit.","[""Gate"",""Latch"",""Integrator"",""Oscillator""]",1
+"The typical number of bits per dynamic memory location is","[""1"",""8"",""2"",""16""]",0
+"______________ is an output applied to Read Only Memory (ROM).","[""Multiplexer"",""Address"",""Input code"",""Data""]",1
+"____________ is a kind of memory where only manufacture can store program and has s group of memory locations each permanently storing a word.","[""ROM"",""SOS memory"",""RAM"",""Hard memory""]",0
+"In shift registers made up of several flip-flops, the clock signal indicates ________.","[""A bit of information stored in flip-flop"",""Information of time"",""What time is it"",""When to shift a bit of data from input of the flip-flop to the output""]",3
+"What do you call the duration within it takes to read the content of a memory location after it has been addressed?","[""Execution time"",""Data rate"",""Cycle time"",""Access time""]",3
+"A static memory generally contains","[""Row and column decoders"",""No decoders"",""Row decoders"",""Column decoders""]",0
+"___________ is called a memory device which holds fixed set of data in a circuit.","[""RAM"",""Register"",""Logic"",""ROM""]",3
+"An interval required to address and read out memory word.","[""Propagation delay"",""Pulse duration"",""Setting time"",""Access time""]",3
+"___________ refers to a circuit that stores pulses and produces an output pulse when specified numbers of pulses are stored.","[""Counter"",""Register"",""Flip-flop"",""Buffer""]",0
+"A dynamic memory will store information","[""As long as power is applied to the memory"",""As long as power is applied and the memory is refreshed periodically"",""Even when power is not applied to the memory"",""When power is applied at regular interval""]",1
+"Several gates combined to form the basic memory element.","[""Multivibrator"",""Register"",""ROM"",""Flip-flop""]",3
+"An RS flip-flop constructed from NOR-gates would have an undefined output when the inputs R/S combinations are","[""LOW \/ LOW"",""LOW \/ HIGH"",""HIGH \/ LOW"",""HIGH \/ HIGH""]",3
+"When a flip-flop is constructed from two NAND-gates, its output will be undefined if the R/S inputs are","[""LOW \/ LOW"",""LOW \/ HIGH"",""HIGH \/ LOW"",""HIGH \/ HIGH""]",0
+"A flip-flop whose output is always the same as its input. This is sometimes used as delay element.","[""RS flip-flop"",""D flip-flop"",""T flip-flop"",""JK flip-flop""]",1
+"Flip-flop that changes state every time the input is triggered.","[""RS flip-flop"",""Master slave flip-flop"",""T flip-flop"",""JK flip-flop""]",2
+"Flip-flop arrangement, such that the first receives its input on the positive edge of a clock pulse, and the other receives its input from the output of the first during the negative edge of the same pulse.","[""Clocked RS flip-flop"",""Clocked JK flip-flop"",""Cascaded flip-flop"",""Master\/slave flip-flop""]",3
+"Combination of flip-flop, arranged so that they can be triggered at the same time.","[""Clocked flip-flop"",""Delayed flip-flop"",""Sequential flip-flop"",""Asynchronous flip-flop""]",0
+"A flip-flop without an undefined output state condition whatever the input combination is","[""JK flip-flop"",""T flip-flop"",""D flip-flop"",""All of the above""]",3
+"Sequential access digital memory uses what storage circuit?","[""Parallel register"",""Shift register"",""Dynamic RAM"",""EEPROM""]",1
+"Memory whose contents are lost when, electrical power is removed.","[""Nonvolatile"",""Temporary"",""Dynamic"",""Volatile""]",3
+"One of the following can program PROMs.","[""Biasing bipolar transistor"",""Blowing fuse"",""Effusing input"",""Charging a gate""]",1
+"Type of memory wherein the data are permanently stored. Usually the storing of data is done during manufacturing of the component.","[""ROM"",""PROM"",""EPROM"",""EEPROM""]",0
+"A semiconductor memory device in which data can be stored after fabrications.","[""PROM"",""EPROM"",""EEPROM"",""All of the above""]",3
+"A type of ROM that allows data to be written into the device by a programmer. After it has been programmed it cannot be reprogrammed again.","[""PROM"",""EPROM"",""EEPROM"",""A and B above""]",0
+"What memory device that can be programmed, and reprogrammed after the old programs are erased usually by an ultraviolet light?","[""EEPROM"",""EPROM"",""RPROM"",""B and C""]",3
+"A variation of PROM, wherein its stored data can be erased by electrical signal instead of ultraviolet light.","[""EEPROM"",""Dynamic ROM"",""RAM"",""EEPROM and dynamic RAM""]",0
+"A nonvolatile memory","[""ROM"",""PROM and RPROM"",""EPROM and EEPROM"",""All are correct""]",3
+"What is the time interval to undertake a refresh operation in a typical dynamic RAM?","[""2 ms"",""200 ms"",""50 microsec."",""22 microsec.""]",0
+"Semiconductor-based, volatile data storage device that can be written and read randomly.","[""RAM"",""PROM"",""EPROM"",""EEPROM""]",0
+"Random access memory that needs recharging of capacitors.","[""SRAM"",""DRAM"",""Dynamic storage"",""A and B""]",1
+"Dynamic RAM (DRAM) uses capacitor as its data storage element, while static RAM (SRAM) uses what?","[""Inductor"",""Magnet"",""Register"",""Flip-flop""]",3
+"Type of memory that is formed by a series of magnetic bubbles at the substrate.","[""Magnetic disk"",""Bubble sort"",""Bubble chart"",""Bubble memory""]",3
+"Non-semiconductor digital memory device.","[""Magnetic core"",""Magnetic domain"",""Saturable core"",""Ferromagnetic domain""]",0
+"A hardware used to program a PROM.","[""Microcomputer"",""Data loader"",""Encoder"",""PROM programmer""]",3
+"Computer hardware device constructed to perform shifting of its contained data.","[""Parallel register"",""Serial to parallel register"",""Shift register"",""ALU""]",2
+"Register wherein data can be serially inputted, while the output can be retrieved in parallel manner.","[""Serial to parallel register"",""Parallel storage"",""Parallel to serial register"",""Serial register""]",0
+"Digital device similar to that of a ROM and whose internal connections of logic arrays can be programmed by passing high current through fusible links.","[""PLA"",""PAL"",""APL"",""A and B""]",3
+"What is the difference between a read only memory (ROM) and a programmable logic array (PLA)?","[""All input combinations of a ROM produce an output, while in a PLA, some input combinations do not affect the output."",""Only the OR-functions in a ROM are programmable, whereas in a PLA, both OR and AND-functions are programmable."",""In ROM, all the possible states must be programmed, while not all for a PLA."",""All of the above""]",3
+"The difference between a programmable logic array (PLA) and a programmable array logic (PAL) is that,","[""With PLA, only OR-gates are programmable, whereas both OR and AND gates are programmable in PAL"",""With PLA, both OR and AND-gates are programmable, while in PAL only OR gate is programmable"",""With PLA, both OR and AND-gates are programmable, while in PAL, only AND gate is programmable"",""Only AND-gate is programmable with PLA, whereas both OR and AND-gates are programmable for PAL""]",2
+"A circuit used for selecting a single output from multiple inputs.","[""Universal logic module (ULM)"",""Demultiplexer"",""Tri-state"",""Logic array""]",0
+"Another name for universal logic module (ULM)","[""Multiplexer"",""Decoder"",""Coder"",""Shift register""]",0
+"A device/circuit used to separate two or more signals from one line.","[""Decoder"",""Demodulation"",""Demodifier"",""Demultiplexer""]",3
+"An electronic counter in which bistable units are cascaded to form a loop.","[""Ring counter"",""Twisted ring counter"",""UP\/DOWN counter"",""Bistable counter""]",0
+"What is formed when the complemented output of the last stage of a shift register is fed back to the input of the first stage?","[""Ring counter"",""Twisted ring counter"",""Decade counter"",""UP\/DOWN counter""]",1
+"A digital circuit that produces logic 1 output pulse for every 10 input pulses.","[""Decade scaler"",""Divider"",""Chopper"",""Multiplexer""]",0
+"Binary codes are converted into ASCII by what circuit?","[""Decoder"",""Demultiplexer"",""Degenerator"",""Code converter""]",3
+"The technical term used when signals are converted from analog-to-digital.","[""Digitize"",""Quantize"",""Coded"",""All of the above""]",0
+"________________ is a sequence of instructions that tells the computer machine on how available data shall be processed.","[""Program"",""RAM"",""Command"",""Flowchart""]",0
+"Diagram showing procedures that are followed, and actions taken is called","[""Functional block diagram"",""Circuit diagram"",""Flow chart"",""Schematic diagram""]",2
+"What is the medium of communication with a computer where programs are written in mnemonics?","[""Assembly language"",""High level language"",""Machine language"",""Low-level language""]",2
+"A _________ a program which converts instruction written in a source language into machine code, which can be read and acted upon by the computer.","[""Source code"",""Assembler"",""Application software"",""Compiler""]",1
+"A detailed step by step set of direction telling a computer exactly how to proceed to solve a specific problem or process as specific task.","[""Sequence"",""Flow chart"",""Computer program"",""Process""]",2
+"machine language of a computer?","[""Compiler"",""Assembler"",""Monitor program"",""Interpreter""]",0
+"___________ is a software that converts a high level language program into machine or assembly language program.","[""ALU"",""Cross-assembler"",""Compiler"",""CPU""]",2
+"The purpose of the fetch cycle in a computer is to ____________.","[""Obtain instruction"",""Obtain input data"",""Obtain memory data"",""Implement a specific operation""]",0
+"_____________ refers to a program that translates and then immediately executes statements in a high level language.","[""Interpreter"",""Synchronous"",""Interface"",""Operating system""]",0
+"A _____________ is an instruction in a source language that is to be replaced by a defined sequence of instructions in the same source language.","[""Statement"",""Source code"",""Mnemonic"",""Macro-instruction""]",3
+"The smallest computer in terms of physical size","[""Microcomputer"",""Minicomputer"",""Mainframe"",""Host computer""]",0
+"A logic/digital circuit that generates an output code for every input signal.","[""Enhancer"",""Compressor"",""Encoder"",""Decoder""]",2
+"What code that gives each digit of a decimal number with a corresponding binary equivalent?","[""Binary code"",""Gray code"",""ASCII"",""Binary coded decimal""]",3
+"Which of the code below is considered as minimum-change code?","[""Gray code"",""ASCII"",""BCD"",""ARINC""]",0
+"A 7-bit alphanumeric code that is widely used","[""Gray code"",""ASCII"",""BCD"",""ARINC""]",1
+"The op-code of a computer instruction","[""Mnemonic"",""Bionic"",""Operand"",""Program""]",0
+"An instruction that causes the program to go another task.","[""FLIP"",""SUB"",""JUMP"",""MOVE""]",2
+"An instruction that can move data from memory to the accumulator.","[""FETCH"",""MOVE"",""ACC"",""LOAD""]",3
+"An instruction tat moves data from accumulator to the memory","[""FETCH"",""MOVE"",""STORE"",""LOAD""]",2

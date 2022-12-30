@@ -1,0 +1,12 @@
+question,A,B,C,D,E,answer,explanation
+"<p>If the drain, source, and channel of a MOSFET are all a <i>p</i>-type material, and it operates in both modes, this is an <i>n</i>-channel D-MOSFET.</p>",True,False,,,,B,
+<p>A practical CE amplifier has the input on the base and the output taken off the emitter.</p>,True,False,,,,B,
+"<p><p><img src=""/_files/images/basic-electronics/basics/tfq17_1007_1.gif""/></p>
+<p>The maximum peak-to-peak output voltage in the given circuit is 15 V.</p></p>",True,False,,,,B,
+<p>Base currents are usually small because of the physical construction of the thin and lightly doped base.</p>,True,False,,,,A,
+<p>The <b><i>beta</i></b> of a BJT is the ratio of collector current to emitter current.</p>,True,False,,,,B,
+<p>A certain amplifier has a voltage gain of 210. That gain expressed in decibels is 46.4 dB.</p>,True,False,,,,A,
+<p>The voltage measured from the collector to the emitter is the sum of the voltage base-emitter plus the voltage collector-base.</p>,True,False,,,,A,
+<p>A decrease in base current of a CE amplifier causes the voltage measured between the emitter and the collector to increase.</p>,True,False,,,,A,
+"<p>In an <i>n</i>-type JFET, current will flow when a positive voltage is applied to the drain and a negative voltage is applied to the source.</p>",True,False,,,,A,
+<p>An essential requirement of a feedback oscillator is a phase shift around the feedback loop of 360°.</p>,True,False,,,,A,

@@ -1,0 +1,10 @@
+question,A,B,C,D,E,answer,explanation
+<p>Typical isolation amplifiers use optical coupling.</p>,True,False,,,,B,
+<p>OTA stands for Operational Transistor Amplifier.</p>,True,False,,,,B,
+<p>An isolation amplifier provides ac isolation between input and output.</p>,True,False,,,,B,
+<p>The main purpose of an instrumentation amplifier is to amplify small signals riding on large common-mode voltages.</p>,True,False,,,,A,
+<p>One of the principal areas of application for an isolation amplifier is power plant instrumentation.</p>,True,False,,,,A,
+<p>Isolation amps are named as such because they are sealed for protection from outside environmental damage.</p>,True,False,,,,B,
+"<p>To construct an instrumentation amplifier, two op-amps and seven resistors are needed.</p>",True,False,,,,B,
+<p>Clampers are often called peak detectors.</p>,True,False,,,,B,
+<p>An OTA is primarily a current-to-voltage amplifier.</p>,True,False,,,,B,

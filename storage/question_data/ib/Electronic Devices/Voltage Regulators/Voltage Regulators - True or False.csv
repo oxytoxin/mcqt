@@ -1,0 +1,11 @@
+question,A,B,C,D,E,answer,explanation
+"<p>A pass transistor may be used in a series regulator, as the current-carrying device.</p>",True,False,,,,B,
+"<p>For an IC regulator, the input voltage must be at least 2 V above the regulated output voltage.</p>",True,False,,,,A,
+<p>A switching regulator can be configured as a step-up or a step-down voltage regulator.</p>,True,False,,,,A,
+<p>IC voltage regulators are sometimes called three-terminal regulators.</p>,True,False,,,,A,
+"<p>Under no-load, a shunt regulator has minimum current through the control element.</p>",True,False,,,,B,
+"<p>A basic voltage regulator consists largely of a reference source, an error detector, and a control device.</p>",True,False,,,,A,
+<p>Switching regulators are not very efficient.</p>,True,False,,,,B,
+<p>Load regulation is the percentage change in line voltage for a change in load voltage.</p>,True,False,,,,B,
+<p>A three-terminal regulator can be used with an external pass transistor to increase the total load current available.</p>,True,False,,,,A,
+<p>Line regulation is the percentage change in output voltage for a given change in input line current.</p>,True,False,,,,B,

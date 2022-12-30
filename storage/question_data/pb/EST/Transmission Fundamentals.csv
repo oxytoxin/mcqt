@@ -1,0 +1,518 @@
+﻿question,choices,answer
+"When load impedance equals to Zo of the line, it means that the load _____ all the power.","[""reflects"",""absorbs"",""attenuates"",""radiates""]",1
+"impedance matching ratio of a coax balun.","[""1:4"",""4:1"",""2:1"",""3:2""]",1
+"Which stands for dB relative level?","[""dBrn"",""dBa"",""dBr"",""dBx""]",2
+"Standard test tone used for audio measurement.","[""800 Hz"",""300 Hz"",""100 Hz"",""1000 Hz""]",3
+"When VSWR is equal to zero, this means","[""that no power is applied"",""that the load is purely resistive"",""that the load is a pure reactance"",""that the load is opened""]",0
+"_______ is the ratio of reflected voltage to the forward travelling voltage.","[""SWR"",""VSWR"",""Reflection coefficient"",""ISWR""]",2
+"Transmission line must be matched to the load to ______.","[""transfer maximum voltage to the load"",""transfer maximum power to the load"",""reduce the load current"",""transfer maximum current to the load""]",1
+"Which indicate the relative energy loss in a capacitor?","[""Quality factor"",""Reactive factor"",""Dissipation factor"",""Power factor""]",2
+"What is the standard test tone?","[""0 dB"",""0 dBW"",""0 dBm"",""0 dBrn""]",2
+"The energy that neither radiated into space nor completely transmitted.","[""Reflected waves"",""Captured waves"",""Incident waves"",""Standing waves""]",3
+"Micron is equal to _______ meter.","[""10^-10"",""10^-9"",""10^-6"",""10^-3""]",2
+"1 Angstrom (A) is equal to _______.","[""10^-3 micron"",""10^-10 m"",""10^-6 micron"",""10^-6 m""]",1
+"Why is it impossible to use a waveguide at low radio frequencies?","[""Because of the size of the waveguide"",""Due to severe attenuation"",""Due to too much radiation"",""All of these""]",0
+"________ is the transmission and reception of information.","[""Modulation"",""Communications"",""Radiation"",""Emission""]",1
+"What is the loss of the circuit in dB if the power ration of output to input is 0.01?","[""20"",""-20"",""40"",""-40""]",0
+"Transmission lines are either balanced or unbalanced with respect to","[""Negative terminal"",""Reference"",""Ground"",""Positive terminal""]",2
+"The standing wave ratio is equal to _______ if the load is properly matched with the transmission line.","[""Infinity"",""0"",""-1"",""1""]",3
+"________ is the advantage of the balanced transmission line compared to unbalanced line.","[""Low attenuation"",""Easy installation"",""Low radiation loss"",""Tensile strength""]",0
+"_______ is the method of determining the bandwidth of any processing system.","[""Fourier series"",""Spectral analysis"",""Frequency analysis"",""Bandwidth analysis""]",1
+"What causes the attenuation present in a waveguide?","[""The air dielectric filling the guide"",""The coating of silver inside"",""Losses in the conducting walls of the guide"",""Radiation loss""]",2
+"A device that converts a balanced line to an unbalanced line of a transmission line.","[""Hybrid"",""Stub"",""Directional coupler"",""Balun""]",3
+"What is the approximate line impedance of a parallel-strip line spaced 1 cm apart with the length of 50 cm?","[""10 ohms"",""15 ohms"",""18 ohms"",""23 ohms""]",0
+"What is the average power rating of RG-58 C/u?","[""25 W"",""50 W"",""75 W"",""200 W""]",1
+"A coaxial cable used for high temperatures.","[""RG-58C"",""RG-11A"",""RG-213"",""RG-211""]",3
+"If you have available number of power amplifiers with a gain of 100 each, how many such amplifiers do you need to cascade to give an overall gain of 60dB?","[""2"",""3"",""4"",""5""]",1
+"You are measuring noise in a voice channel at a -4 dB test point level, the meter reads -73 dBm, convert the reading into dBrnCO.","[""12"",""16"",""18"",""21""]",3
+"The velocity factor for a transmission line","[""depends on the dielectric constant of the material used"",""increases the velocity along the transmission line"",""is governed by the skin effect"",""is higher for a solid dielectric than for air""]",0
+"Impedance inversion can be obtained by","[""a short-circuited stub"",""an open-circuited stub"",""a quarter-wave line"",""a half-wave line""]",2
+"Transmission lines when connected to antennas have","[""capacitive load"",""resistive load whose resistance is greater than the characteristic impedance of the line"",""resistive load whose resistance is less than the characteristic impedance of the line"",""resistive load at the resonant frequency""]",3
+"One of the following is not a bounded media.","[""Coaxial line"",""Two-wire line"",""Waveguide"",""Ocean""]",3
+"The impedance measured at the input of the transmission line when its length is infinite.","[""Input impedance"",""Open circuit impedance"",""Characteristic impedance"",""Short circuit impedance""]",2
+"The following are considered primary line constants except","[""conductance"",""resistance"",""capacitance"",""complex propagation constant""]",3
+"The dielectric constants of materials commonly used in transmission lines range from about","[""1.2 to 2.8"",""2.8 to 3.5"",""3.5 to 5.2"",""1.0 to 1.2""]",0
+"Typically, the velocity factor (VF) of the materials used in transmission lines range from","[""0.6 to 0.9"",""0.1 to 0.5"",""1.0 to 0.9"",""0.6 to 0.8""]",0
+"For an air dielectric two-wire line, the minimum characteristic impedance value is","[""95 ohms"",""85 ohms"",""90 ohms"",""88 ohms""]",1
+"When a quarter-wave section transmission line is terminated by a short circuit and is connected to an RF source at the other end, its input impedance is","[""inductive"",""capacitive"",""resistive"",""equivalent to a parallel resonant LC circuit""]",3
+"A transmitter operating at 30 MHz with 4 W output is connected via 10 m of RG-8A/u cable to an antenna that has an input resistance of 300 ohms. Find the reflection coefficient.","[""0.71"",""0.77"",""0.97"",""0.76""]",0
+"A quarter wave transformer is connected to a parallel wire line in order to match the line to a load of 1000 ohms. The transformer has a characteristic impedance of 316.23 ohms. The distance between centers is 4 inches. What is the percentage reduction in the diameter of the line?","[""85%"",""83%"",""86%"",""90%""]",1
+"The concept used to make one Smith chart universal is called","[""ionization"",""normalization"",""rationalization"",""termination""]",1
+"What are the basic elements of communications system?","[""Source, transmission channel, transmitter"",""Transmitter, receiver, transmission channel"",""Information, transmission channel, receiver"",""Sender and receiver""]",1
+"________ is the transmission of printed material over telephone lines.","[""Internet"",""Data communication"",""Telegraphy"",""Facsimile""]",3
+"________ is a continuous tone generated by the combination of two frequencies of 350 Hz and 440 Hz used in telephone sets.","[""DC tone"",""Ringing tone"",""Dial tone"",""Call waiting tone""]",3
+"________ are unidirectional amplifiers having 20-25 decibel gain that are placed about 75 km apart used to compensate for losses along the telephone line.","[""VF repeaters"",""Loading coils"",""Loop extenders"",""Echo suppressors""]",0
+"________ is a component in the telephone set that has the primary function of interfacing the handset to the local loop.","[""Resistor"",""Capacitor"",""Varistor"",""Induction coil""]",3
+"Pulse dialing has ________ rate.","[""20 pulses\/min"",""10 pulses\/min"",""10 pulses\/sec"",""80 pulses\/sec""]",2
+"________ is a telephone wire that connects two central offices.","[""2-wire circuit"",""Trunk line"",""Leased line"",""Private line""]",1
+"The central switching office coordinating element for all cell sites that has cellular processor and a cellular switch. It interfaces with telephone company zone offices, control call processing and handle billing activities.","[""MTSO"",""Cell site"",""PTSN"",""Trunk line""]",0
+"________ in a cellular system performs radio-related functions for cellular site.","[""Switching system"",""Base station"",""Operation and support system"",""Mobile station""]",1
+"A technology used to increase the capacity of a mobile phone system.","[""Frequency re-use"",""Cell splitting"",""TDM"",""FDM""]",0
+"In a transmission line, if the SWR or maximum current to a minimum current ratio of 2:1, the ratio of the maximum voltage to the minimum voltage is","[""1:4"",""4:1"",""1:2"",""2:1""]",3
+"Transmission lines are either balanced or unbalanced with respect to","[""Negative terminal"",""Input"",""Ground"",""Positive terminal""]",2
+"The load is properly matched with the transmission line if the standing wave ratio is equal to","[""50"",""10"",""5"",""1""]",3
+"The radiation resistance of a quarter wave antenna is","[""49 ohms"",""288 ohms"",""72 ohms"",""144 ohms""]",2
+"A radio transmission line of 500 ohms impedance is to be connected to an antenna having an impedance of 200 ohms. What is the impedance of a quarter wave matching line?","[""300"",""316"",""316.5"",""361""]",1
+"The VSWR for a line terminated in its Zo is","[""0"",""1"",""1.5"",""Infinity""]",1
+"Which of the following is used to measure SWR?","[""Multimeter"",""Reflectometer"",""Spectrum analyzer"",""Oscilloscope""]",1
+"A 75 – j50 ohm load is connected to a coaxial transmission line of Zo = 75 ohms at 10 GHz. The best method of matching consists in connecting","[""A short circuited stub at the load"",""A capacitance at some specific distance from the load"",""An inductance at the load"",""A short-circuited stub at some specific distance from the load""]",3
+"For a two-wire line, Zo is higher when","[""The wire size is small with respect to the spacing of the conductors"",""The spacing is varied in accordance with the frequency"",""The D:d ratio is smaller"",""The wire is large with respect to the spacing of the conductors""]",0
+"A resultant wave due to the combination of incident and reflected wave","[""Electromagnetic wave"",""Sine wave"",""Standing wave"",""Current""]",2
+"For transmission line load matching over a range of frequencies, it is best to use a","[""Balun"",""Broadband directional coupler"",""Double stub"",""Single stub""]",2
+"If the load impedance matches the characteristic impedance of the line, there are _____ standing waves.","[""More"",""Less"",""No"",""Ten(10)""]",2
+"VSWR stands for","[""Voltage sending wave ratio"",""Voltage receiving wave ratio"",""Very small wave radiation"",""Voltage standing wave ratio""]",3
+"Reflections on a transmission line can occur when","[""Impedance of the source and load are matched"",""Impedance of the source and the load are mismatched"",""Resonance conditions are obtained"",""Power transfer between source and load is maximum""]",1
+"A transmission line with characteristic impedance (Zo) of 300 ohms is terminated in a resistance load (RI). If by measurement, the minimum and maximum voltage through the load are 12 and 20 micro volts, respectively, what is the SWR?","[""1.67"",""0.6"",""6.7"",""3.67""]",0
+"A measure of the mismatched between line and load impedance is called as","[""Reflection coefficient"",""Standing wave ratio"",""Loss"",""Standing waves""]",1
+"Transmission lines when connected to antenna have","[""Capacitive load"",""Resistive load whose resistance is less than characteristic impedance"",""Resistive load at the resonant frequency"",""Resistive load whose resistance is greater than the characteristic impedance of the line""]",2
+"At matched condition, SWR is equal to","[""Zero"",""One"",""100"",""Infinite""]",1
+"An HF transmission line has a characteristic impedance of 600 ohms and is terminated by an antenna. The SWR along the line when the antenna impedance is 500 ohms is","[""1.2:1"",""1:2.1"",""2:1"",""1:2""]",0
+"A characteristic of an infinite transmission line is that","[""The impedance in equals impedance out"",""It carries waves at the velocity of light"",""It can be connected to mismatched loads"",""The impedance varies with the length of the line""]",0
+"A quarter wave transmission line shorted at the end:","[""Has the characteristics of parallel tuned circuit"",""Has the characteristics of a series tuned circuit"",""Has a minimum current at the end"",""Reflects a low impedance to the supply""]",0
+"The outer conductor of a coaxial transmission line is usually grounded at the:","[""Input and output"",""Output only"",""Input only"",""Point of infinite resistance""]",0
+"A certain feedline has a high SWR. It can be caused by:","[""Matching the load to the line"",""Use of non-resonant line"",""An impedance mismatched"",""Excessive transmitter output""]",2
+"If the input impedance of an antenna is 300 ohms and it is fed with a 600 ohm balanced transmission line, the SWR on the line is","[""4"",""3"",""2"",""0.5""]",2
+"A radio transmission line of 300 ohms impedance to be connected to an antenna having an input impedance of 150 ohms. The impedance if a quarter wave matching line is ___ ohms","[""212"",""450"",""600"",""150""]",0
+"The ratio of the reflected voltage to the incident voltage on the transmission line is termed as","[""Standing waves"",""Standing wave ratio"",""Loss"",""Reflection coefficient""]",3
+"Indicate the three types of transmission line energy losses","[""Radiation, I^2R and dielectric Heating"",""Conductor heating, dielectric heating and radiation resistance"",""I2R, RL and temperature"",""Dielectric separation insulation breakdown and radiation""]",0
+"Termination means","[""Load connected to the output end of a transmission line"",""Result of disconnecting a line from a transmitter"",""Looking back impedance of a line with no load"",""Result of cutting both ends of a conductor""]",0
+"When transmission line uses ground return, it is called a/n _____ line.","[""Ungrounded"",""Unbalanced"",""Grounded"",""Balanced""]",1
+"Permeability is the measure of superiority of a material over a vacuum as a path of magnetic lines of force. The permeability of free space is equal to _____ henry/meter","[""1.257 x 10^-6"",""1.527 x 10^-6"",""7.251 x 10^-6"",""5.217\u00d710^-6""]",0
+"The most commonly used transmission line is a","[""Coax"",""Single line"",""Three-wire line"",""Two-wire balanced line""]",3
+"The characteristic impedance of a transmission line does not depend upon its","[""Length"",""Conductor diameter"",""Conductor spacing"",""Thickness of armor""]",3
+"What is the impedance of a balance 4-wire with a diameter of 0.25 cm and spaced 2.5 cm apart using an insulator with a dielectric constant of 2.56?","[""100 ohms"",""65 ohms"",""75 ohms"",""50 ohms""]",0
+"It is required to match a 73-ohm antenna to a 600 ohm polyethylene coaxial feeder line, with a velocity factor of 0.66 by means of a quarter wave matching a transformer. At a frequency of 150 MHz, the impedance of the matching section is____ ohms.","[""150.28"",""310.5"",""209.28"",""450.82""]",2
+"If the terminating impedance is exactly equal to the characteristic impedance of the transmission line, the return loss is____","[""Zero"",""Infinity"",""One"",""Negative""]",0
+"The characteristic impedance of a transmission line is the impedance measured at the ____ when its length is infinite.","[""Shorted end of the line"",""Midsection"",""Input"",""Output""]",2
+"The characteristic impedance of a transmission line is 70 ohms and has a load of 35 ohms. The SWR and reflection coefficient are _____ and _____ respectively","[""1 and 0.333"",""1 and 0.666"",""2 and 0.666"",""2 and 0.333""]",3
+"It is required to match a 200 ohm load to a 300 ohm transmission line to reduce the SWR and attain resonance. A quarter wave transformer used, directly connected to the load has a Zo of ____ ohms.","[""245"",""425"",""524"",""254""]",0
+"What quarter wave transformer will match a 100 ohm-line to an antenna whose value is 175 ohms?","[""150 ohms"",""137.5 ohms"",""132.29 ohms"",""16.58 ohms""]",2
+"The mismatch between antenna and transmission line impedance cannot be corrected by","[""Adjusting antenna length"",""Using an LC network"",""Using a balun"",""Adjusting the length of the transmission line""]",1
+"A pattern of voltage and current variation along a transmission line not terminated in its characteristic impedance is called","[""An electric field"",""Radio waves"",""Standing waves"",""Magnetic field""]",2
+"The most desirable value of SWR on a transmission line is","[""0"",""1"",""2"",""Infinity""]",1
+"In transmission lines, the most desirable reflection coefficient is","[""Zero"",""0.5"",""1"",""Infinity""]",0
+"At very high frequencies, transmission lines are used as _____.","[""Tuned circuits"",""Antennas"",""Insulators"",""Resistors""]",0
+"What is the reflection coefficient of a 100 ohm characteristic impedance line and a 300 ohm load?","[""0.25"",""0.3"",""0.5"",""0.75""]",2
+"The minimum voltage along a transmission line is 260 volts, while the maximum is 390 volts. The SWR is","[""0.67"",""1.0"",""1.2"",""1.5""]",3
+"A single conductor running from the transmitter to the antenna","[""RG-8\/U"",""Single line wire"",""Twin-lead"",""Microstrip""]",1
+"What characteristic impedance is needed to match a 50-ohm line to a 300 ohm-load?","[""221 ohms"",""122 ohms"",""212 ohms"",""112 ohms""]",1
+"Indicate the false statement. The SWR on a transmission line is infinity; the line is terminated in","[""Short circuit"",""A complex impedance"",""An open circuit"",""A pure reactance""]",1
+"The velocity factor of a transmission line","[""Depends on the dielectric constant of the material used"",""Increases the velocity along the transmission line"",""Is governed by the skin effect"",""Is higher for a solid dielectric than for air""]",0
+"What is the characteristic impedance of a single wire with diameter d = 0.25 mm placed at the center between grounded parallel planes separated by 1 mm apart. The wire is held by a material with a velocity factor of 0.75","[""85 ohms"",""63 ohms"",""50 ohms"",""75 ohms""]",3
+"Coaxial lines are used on those system operating ________.","[""Above 10 GHz"",""At 300 MHz"",""Above 10 KHz"",""Below 2 GHz""]",3
+"Referred to the dielectric constant of a transmission line material","[""Inductance and capacitance"",""Velocity factor"",""Characteristic impedance"",""Propagation velocity""]",1
+"The main advantage of the two-hole directional coupler is","[""Low directional coupling"",""Poor directivity"",""High SWR"",""Narrow bandwidth""]",3
+"To couple a coaxial line to a parallel-wire line, it is best to use a","[""Slotted line"",""Balun"",""Directional coupler"",""Quarter-wave transformer""]",1
+"What is the meaning of the term velocity factor of a transmission line?","[""The index of shielding for coaxial cable"",""The velocity of the wave on the transmission line multiplied by the velocity of light in a vacuum"",""The ratio of the characteristic impedance of the line to the terminating impedance"",""The velocity of the wave on the transmission line divided by the velocity of light in a vacuum""]",1
+"A transmission line consisting of two conductors that have equal resistance per unit length.","[""Unbalance line"",""Open-wire line"",""Balanced line"",""Coaxial line""]",2
+"Which if the following is not a common transmission line impedance?","[""50 \u03a9"",""75 \u03a9"",""120 \u03a9"",""300 \u03a9""]",2
+"Which of the following determines the characteristics of a transmission line?","[""Inductance"",""Capacitance"",""Physical dimensions"",""Length""]",2
+"In the study of transmission cable, twin lead is also referred to as a ______ .","[""Twisted pair"",""Double cable"",""Ribbon cable"",""Open pair""]",2
+"A 50 Ω coax is connected to a 73 Ω the SWR is","[""0.685"",""1"",""1.46"",""2.92""]",2
+"A ratio expressing the percentage of incident voltage reflected on a transmission line is known as the","[""Velocity factor"",""Standing-wave ratio"",""Reflection coefficient"",""Line efficient""]",2
+"Three feet is one wavelength at a frequency of","[""100 MHz"",""164 MHz"",""300 MHz"",""328 MHz""]",3
+"An open quarter-wave line at the operating frequency acts like a(n)","[""Series resonant circuit"",""Parallel resonant circuit"",""Capacitor"",""Inductor""]",0
+"A shorted half-wave line at the operating frequency acts like a(n)","[""Capacitor"",""Inductor"",""Series resonant circuit"",""Parallel resonant circuit""]",2
+"At UHF and microwave frequencies, transmission lines are commonly used as","[""Antenna"",""Coupler"",""Resonant circuit"",""Transformer""]",2
+"The transmission medium subjects the transmitted signal to be","[""Modulated"",""Amplified"",""Attenuated"",""Boosted""]",2
+"Transmission line is a two-wire cable that connects the transmitter to the antenna or the antenna to the receiver. The purpose of the transmission line is to","[""Amplify the RF signal"",""Modulate the signal"",""Carry the RF energy for the desired distance"",""All of the above""]",2
+"These conductors are uniformly spaced by insulators. They have low losses at low medium frequencies and are economical to construct and maintained","[""Coaxial cables"",""Open-wire transmission lines"",""Optical cables"",""Waveguides""]",1
+"To prevent radiation losses and interference from external sources, the inner conductor of this transmission line is completely enclosed with a metal sheath or braid","[""Coaxial cable"",""Open-wire transmission lines"",""Optical cables"",""Waveguides""]",0
+"The term “balanced line” means that","[""Both conductors carry currents that flow in opposite directions"",""Conductors present equal capacitance to ground"",""One conductor is connected to ground"",""Both A and B""]",3
+"The characteristic impedance of a transmission line is determined by:","[""Its operating frequency"",""Its length"",""Its physical size and arrangement"",""The signal applied at the input terminal""]",2
+"The disturbance parameters of the transmission line are: the series resistance; the series inductance; the shunt capacitance and the shunt conductance. What parameter was determined due to dielectric losses?","[""Series resistance"",""Series inductance"",""Shunt capacitance"",""Shunt conductance""]",3
+"Shunt capacitance was determined due to:","[""Conductors were closed to each other"",""The length and diameter of the conductors"",""Dielectric loses"",""Flux linkages""]",0
+"Series resistances was determined due to:","[""Conductors were closed to each other"",""The length and diameter of the conductors"",""Dielectric losses"",""Flux linkages""]",1
+"At radio frequencies was determined due to:","[""Characteristic"",""Inductive reactance is much larger than the shunt conductance"",""Capacitive reactance is much larger than the shunt conductance"",""Both b and c""]",3
+"Determine the characteristic impedance of a transmission line which has a capacitance of 30 pF/m and an inductance of 75 nH/m","[""5 \u03a9"",""50 \u03a9"",""500 \u03a9"",""5 K \u03a9""]",1
+"If a charge in the dielectric material decreases the capacitance, the characteristic impedance is","[""Kept constant"",""Decreased"",""Increased"",""Halved""]",2
+"________ is the Out-of-Band signaling between Toll Central Offices (Bell System Standard).","[""3, 825 Hz"",""3, 700 Hz"",""2, 600 Hz"",""800 Hz""]",1
+"In a telephone system, the customer’s telephone directory numbering is from 000 to 999, what is the capacity of a telephone system numbering from 000 to 999?","[""100 lines"",""1000 lines"",""10, 000 lines"",""100, 000 lines""]",1
+"If the SWR is infinite, what type of load transmission line has?","[""Purely reactive"",""Purely resistive"",""Purely capacitive"",""Purely inductive""]",0
+"Not more than _______ digits make up an international telephone number as recommended by CCITT REC. E. 161.","[""8"",""10"",""11"",""12""]",3
+"One (1) Erlang is equal to _______.","[""360 CCS"",""36 CCS"",""3.6 CCS"",""100 CCS""]",1
+"Standard tariff for flat rate telephone service beyond the normal flat rate in that area.","[""WATS"",""OTLP"",""TIP"",""DTWX""]",0
+"The standard analog telephone channel bandwidth.","[""300 \u2013 3400 Hz"",""1200 Hz"",""200 \u2013 3200 Hz"",""300 \u2013 3000 Hz""]",0
+"Type of switching in which a pair of wire from the telephone set terminates in a jack and the switch is supervised by an operator.","[""Crossbar switching"",""Manual switching"",""Electronic switching"",""Step-by-step switching""]",1
+"Every time when the telephone is idle, the handset is in the _______ state.","[""On-hook"",""Off-hook"",""Busy"",""Spare""]",0
+"_______ is a component in the telephone set that has the primary function of compensating for the local loop length.","[""Resistor"",""Varistor"",""Capacitor"",""Induction coil""]",1
+"What kind of receiver is used in conventional telephone handset?","[""Carbon"",""Electromagnetic"",""Ceramic"",""Capacitor""]",1
+"A voice-grade circuit using the PTN ha an ideal passband of","[""0 to 4 Hz"",""0 to 4 MHz"",""0 to 4 kHz"",""0 to 4 GHz""]",2
+"________ is the minimum-quality circuit available using the PTN.","[""Basic voice grade (VG)"",""Basic voice channel (VC)"",""Basic voice band (VB)"",""Basic telephone channel""]",0
+"Direct distance dialing (DDD) network is called","[""Private-line network"",""PT network"",""Dial-up network"",""Trunk network""]",2
+"What is the advantage of sidetone?","[""Transmission efficiency is increased"",""Speaker increases his voice resulting in a strengthened signal"",""No dissipation of energy in the balancing network"",""Assure the customer that the telephone is working""]",3
+"________ is a special service circuit connecting two private branch exchanges (PBX).","[""Phantom line"",""Tie trunk"",""Tandem trunk"",""Private line""]",1
+"The published rates, regulation, and descriptions governing the provision of communications service for public use.","[""Toll rate"",""Tariff"",""Bulk billing"",""Detailed billing""]",1
+"What is the power loss of a telephone hybrid?","[""1 dB"",""2 dB"",""3 dB"",""6 dB""]",2
+"Telephone channel has a band-pass characteristic occupying the frequency range of _______.","[""300 \u2013 400 Hz"",""300 \u2013 3400 Hz"",""300 \u2013 3000 Hz"",""300 \u2013 2700 Hz""]",1
+"The first Strowger step-by-step switch was used in _______.","[""1875"",""1890"",""1897"",""1913""]",2
+"What is the phase delay of an 800 Hz voice signal if the phase shift is 15 degrees?","[""52 \u03bcsec"",""1.25 \u03bcsec"",""83.33 \u03bcsec"",""26 \u03bcsec""]",0
+"What is the CCITT recommendation for a preparation of loss plan, a variable loss plans and a fixed loss plan?","[""G.133"",""G.141"",""G.132"",""G.122""]",3
+"What is the diameter of a copper wire to be used in a 16 km loop with a dc loop resistance of 100 ohms/km?","[""0.838 mm"",""0.465 mm"",""1.626 mm"",""2.159 mm""]",1
+"What kind of cell is appropriate for load management, fast moving mobiles and low-usage areas?","[""Pico cells"",""Micro cells"",""Nano cells"",""Umbrella cells""]",3
+"In cellular networks, standard base station antennas are placed by _______.","[""adaptive array"",""flat plate antenna"",""dipole array"",""focused antenna""]",0
+"What is the basis of the first generation wireless local loop?","[""Digital cellular technology"",""Analogue cellular technology"",""PSTN"",""AMPS technology""]",1
+"When the calling party hears a “busy” tone on his telephone, the call is considered","[""lost"",""disconnected"",""completed"",""incomplete""]",2
+"Short-circuited stubs are preferred to open circuited stubs because the latter are","[""more difficult to make and connect"",""made of a transmission line with a different characteristic impedance"",""liable to radiate"",""incapable of giving a full range of reactances""]",2
+"What is the ratio of the reflected voltage to the incident voltage?","[""VSWR"",""ISWR"",""SWR"",""Coefficient of reflection""]",3
+"One method of determining antenna impedance.","[""Sub matching"",""Trial and error"",""Smith chart"",""Quarter-wave matching""]",3
+"________ is a single conductor running from the transmitter to the antenna.","[""Single-wire line"",""Microstrip"",""Twin-lead"",""Coaxial line""]",0
+"Coaxial cable impedance is typically _______.","[""150 to 300 ohms"",""50 to 75 ohms"",""30 to 45 ohms"",""300 to 600 ohms""]",1
+"Waveguide becomes compulsory above what frequencies?","[""Above 3 GHz"",""Above 10 kHz"",""At 300 MHz"",""Above 10 GHz""]",0
+"Nominal voice channel bandwidth is _______.","[""20 to 30 kHz"",""0 to 3 kHz"",""4 kHz"",""55 kHz above""]",2
+"Echo suppressors are used on all communications system when the round trip propagation time exceeds _______.","[""50 ms"",""30 ms"",""100 ms"",""1 ms""]",0
+"A radio transmission line of 300 ohms impedance is to be connected to an antenna having an input impedance of 150 ohms. What is the impedance of a quarter-wave matching line?","[""212 ohms"",""250 ohms"",""200 ohms"",""150 ohms""]",0
+"Quarter-wavelength line is used as _______.","[""impedance transformer"",""lecher line"",""transmission line"",""harmonic suppressor""]",0
+"The transmission lines which can convey electromagnetic waves only in higher modes is usually called","[""coaxial cable"",""waveguide"",""power lines"",""twisted wire of telephone line""]",1
+"Why is nitrogen gas sometimes used in waveguide?","[""To increase the distributed capacitance"",""To keep the waveguide dry"",""To reduce the skin effect at the walls of the guide"",""To raise the guide\u2019s wave impedance""]",1
+"The apparent speed of propagation along a waveguide based on the distance between wavefronts along the walls of the guide is called","[""group velocity"",""phase velocity"",""normal velocity"",""abnormal velocity""]",1
+"How do you couple in and out of a waveguide?","[""Wrap a coil of wire around one end of the waveguide"",""Insertion of an E-probe into the waveguide"",""Insertion of an H-loop into the waveguide"",""Both B and C""]",3
+"A rectangular waveguide is operating in the dominant TE10 mode. The associated flux lines are established","[""transversely across the narrow dimension of the waveguide"",""transversely across the wide dimension of the waveguide"",""in the metal walls parallel to the direction of propagation"",""in the metal walls perpendicular to the direction of propagation""]",0
+"For dominant mode of a rectangular waveguide, the distance between two instantaneous consecutive positions of maximum field intensity (in a direction parallel to the walls of the waveguide) is referred to as half of the","[""free-space wavelength"",""cutoff wavelength in the wide dimension"",""guide wavelength"",""group wavelength""]",2
+"The guide wavelength, in a rectangular waveguide is","[""equal to the free-space wavelength at the cutoff frequency"",""equal to the free-space wavelength for the same signal frequency"",""less than the free-space wavelength at the cut-off frequency"",""greater than the free-space wavelength at the same signal frequency""]",3
+"Using the TE10 mode, microwave power can only be transmitted in free rectangular guide provided","[""the wider dimension is less than one-half of the wavelength in free space"",""the narrow dimension is less than one-quarter of the wavelength in free space"",""the wide dimension is greater than one-half of the guide wavelength"",""the wide dimension is greater than one-half of the wavelength in free space""]",3
+"If the signal frequency applied to a rectangular guide is increased and the dominant mode is employed","[""the free space wavelength is increased"",""the phase velocity increased"",""the guide wavelength is increased"",""the group velocity, Vg, is increased""]",3
+"If a 6 GHz signal is applied to a rectangular waveguide and the reflection angle is 20o, what is the value of the guide wavelength?","[""6.10 cm"",""5.32 cm"",""4.78 cm"",""5.00 cm""]",1
+"The inner dimensions of a rectangular wavelength are 1.75 cm by 3.5 cm. The cutoff wavelength for the dominant mode is","[""1.75 cm"",""3.5 cm"",""7.0 cm"",""0.4375 cm""]",2
+"A signal whose wavelength is 3.5 cm is being propagated along a guide whose inner dimensions are 2 cm by 4 cm. What is the value of the guide wavelength?","[""3.12 cm"",""3.89 cm"",""3.57 cm"",""6.30 cm""]",1
+"If a rectangular waveguide is to be excited in the dominant mode, the E-probe should be inserted","[""at the sealed end"",""at a distance of one quarter \u2013wavelength from the sealed end"",""at a distance of one-half wavelength from the sealed end"",""at a distance of three-quarters of a wavelength from the sealed end""]",1
+"A quarter-wave line is connected to an RF generator and is shorted out at the far end. What is the input impedance to the line generator?","[""A low value of resistance"",""A high value of resistance"",""A capacitive resistance which is equal in the value to the line\u2019s surge impedance"",""An inductive resistance which is equal to the value to the line\u2019s surge impedance""]",1
+"If the SWR on a transmission line has a high value, the reason could be","[""an impedance mismatch between the line and the load"",""that the line is non-resonant"",""a reflection coefficient of zero at the load"",""that the load is matched to the line""]",0
+"If a quarter-wave transmission line is shorted at one end","[""there is minimum current at the shorted end"",""the line behaves as a parallel-tuned circuit in relation to the generator"",""the line behaves as a series-tuned circuit in relation to the generator"",""there is a minimum voltage at the shorted end""]",1
+"A 50-ohm transmission line is feeding an antenna which represents a 50 ohm resistive load. To shorten the line, the length must be","[""any convenient value"",""an odd multiple of three quarters of a wavelength"",""an odd multiple of half a wavelength"",""an even multiple of a quarter of a wavelength""]",0
+"The outer conductor of the coaxial cable is usually grounded","[""at the beginning and at the end of the cable"",""only at the beginning of the cable and only at the end of the cable"",""only at the end of the cable"",""at the middle of the cable""]",0
+"A feature of an infinite transmission line is that","[""its input impedance at the generator is equal to the line\u2019s surge impedance"",""its phase velocity is greater than the velocity of light"",""no RF current will be drawn from the generator"",""the impedance varies at different positions on the line""]",0
+"When the surge impedance of a line is matched to a load, the line will","[""transfer maximum current to the load"",""transfer maximum voltage to the load"",""transfer maximum power to the load"",""have a VSWR equal to zero""]",2
+"A lossless line is terminated by a resistive load which is not equal to the surge impedance. If the value of the reflection coefficient is 0.5, the VSWR is","[""2"",""3"",""4"",""15""]",1
+"Ratio of the mismatch between the antenna and the transmitter power.","[""Standing wave pattern"",""Reflection coefficient"",""SWR"",""Index of refraction""]",2
+"Emission designation for a facsimile.","[""H3E and A4E"",""R3E and A4E"",""F4E and J3E"",""F3C and A3E""]",3
+"Commonly used telephone wire.","[""AWG #19"",""AWG #18"",""AWG #30"",""AWG #33""]",0
+"What is the distance traveled by a wave in the time of one cycle?","[""Frequency"",""Hop"",""Wavelength"",""Crest""]",2
+"The velocity factor is inversely proportional with respect to the _______.","[""square of the dielectric constant"",""square root of the dielectric constant"",""dielectric current"",""square root of refractive index""]",1
+"________ is a hollow structure that has no center conductor but allows waves to propagate down its length.","[""Waveguide"",""Hybrid"",""Pipe"",""Directional coupler""]",0
+"To connect a coaxial line to a parallel wire line, _______ is used.","[""hybrid circuit"",""balun"",""directional coupler"",""quarter-wave transformer matching circuit""]",1
+"What length for which the input power has been halved for a transmission line with an attenuation of 6 dB/km?","[""1.5 km"",""0.5 km"",""63 km"",""2 km""]",1
+"Ina waveguide, _______ is a specific configuration of electric and magnetic fields that allows a wave to propagate.","[""set-up"",""coupler"",""channel"",""mode""]",3
+"A rectangular waveguide has dimensions of 3 cm x 5 cm. What is the dominant mode cut-off frequency?","[""2 GHz"",""3 GHz"",""2.5 GHz"",""3.5 GHZ""]",1
+"________ are transmission lines which can convey electromagnetic waves only in higher order modes?","[""Coaxial cables"",""Twisted pairs of telephone wire"",""Power cables"",""Waveguides""]",3
+"The amount of uncertainty in a system of symbols is also called","[""bandwidth"",""loss"",""entropy"",""quantum""]",2
+"The twists in twisted wire pairs","[""reduced electromagnetic interference"",""occur at a 30-degree angle"",""eliminate loading"",""were removed due to cost""]",0
+"An example of a bounded medium is","[""coaxial cable"",""waveguide"",""fiber-optic cable"",""all of the above""]",3
+"Loading means the addition of","[""resistor"",""capacitor"",""bullet"",""inductance""]",3
+"What is the most commonly used transmission line for high frequency application?","[""Two-wire balance line"",""Single wire"",""Three-wire line"",""Coaxial""]",3
+"The characteristic impedance of a transmission line does not depend upon its","[""length"",""conductor diameter"",""conductor spacing"",""dielectric material""]",0
+"One of the following is not a common transmission line impedance.","[""50 ohms"",""75 ohms"",""120 ohms"",""300 ohms""]",2
+"The mismatch between antenna and transmission line impedance cannot be corrected for by","[""using LC matching network"",""adjusting antenna length"",""using a balun"",""adjusting the length of transmission line""]",3
+"________ is a pattern of voltage and current variations along a transmission line not terminated in its characteristic impedance.","[""An electric field"",""Radio waves"",""Standing waves"",""A magnetic field""]",2
+"Which is the desirable SWR on a transmission line?","[""0"",""1"",""2"",""Infinity""]",1
+"A 50ohm coax is connected to a 73-ohm antenna. What is the SWR?","[""0.685"",""1"",""1.46"",""2.92""]",2
+"What is the most desirable reflection coefficient?","[""0"",""0.5"",""1"",""Infinity""]",0
+"What is the ratio expressing the percentage of incident voltage reflected on a transmission line?","[""Velocity factor"",""Standing-wave ratio"",""Reflection coefficient"",""Line efficiency""]",2
+"The minimum voltage along a transmission line is 260 V, while the maximum is 390 V, the SWR is","[""0.67"",""1.0"",""1.2"",""1.5""]",3
+"One meter is one wavelength at a frequency of","[""150 MHz"",""164 MHz"",""300 MHz"",""328 MHz""]",2
+"At very high frequencies, transmission lines act as","[""Tuned circuits"",""Antennas"",""Insulators"",""Resistors""]",1
+"A shorted quarter-wave line at the operating frequency acts like a/an","[""Capacitor"",""Inductor"",""Series resonant circuit"",""Parallel resonant circuit""]",3
+"A shorted half-wave line at the operating frequency acts like a/an","[""Capacitor"",""Inductor"",""Series resonant circuit"",""Parallel resonant circuit""]",2
+"A medium least susceptible to noise?","[""Shielded pair"",""Twisted pair"",""Fiber-optic"",""Coaxial""]",3
+"A medium most widely used in LANs?","[""Parallel-wire line"",""Twisted pair"",""Fiber-optic cable"",""Coaxial""]",1
+"The most commonly used transmission line in television system.","[""Parallel-wire line"",""Coaxial cable"",""Waveguide"",""Open-wire ceramic supports""]",1
+"The impedance of a TV transmission line depends on several factors. Which is not one of those factors?","[""Diameter"",""Length of the wire"",""Dielectric material"",""Separation between conductors""]",1
+"DC blocks are used in coaxial transmission line for the purpose of","[""passing DC while blocking AC"",""passing AC voltage but prevent DC"",""preventing AC voltage from reaching the pre-amplifier"",""preventing AC power supply voltage from being shorted by a balun or band splitter""]",3
+"_______ is a type of interference caused by off-air TV channels 2 and 4, plus a satellite dish operating on channel 3.","[""Adjacent channel interference"",""Ghost"",""Co-channel interference"",""Crosstalk""]",0
+"Dithering (in TVRO communication) is a process of","[""Reducing the effect of noise on the TVRO video signal"",""Centering the video fine tuning on TVRO channels"",""Moving the feedhorn rotor to the precise angle"",""Moving the actuator exactly onto the desired satellite beam""]",0
+"A network that has an input of 75dB and an output of 35dB. The loss of the network is","[""-40 db"",""40 db"",""40 dBm"",""-4 dBm""]",1
+"Important useful quantities describing waveforms.","[""Time and frequency"",""Voltage and current"",""Frequency and voltage"",""Power and frequency""]",2
+"Halving the power means","[""6-dB gain"",""3-dB loss"",""3-dB gain"",""6-dB loss""]",1
+"A signal is amplified 100 times in power. The dB gain is","[""20 dB"",""119 dB"",""15 dB"",""25 dB""]",0
+"Which of the following is used to measure SWR?","[""Spectrum analyzer"",""Reflectometer"",""Oscilloscope"",""Multimeter""]",1
+"214-056 twin lead which is commonly used for TV lead-in has a characteristic impedance of","[""52 ohms"",""75 ohms"",""600 ohms"",""300 ohms""]",3
+"What is the characteristic impedance of a transmission line which is to act as a quarter wave matching transformer between a 175 ohms transmission line and 600 ohms load?","[""300.04 ohms"",""324.04 ohms"",""310.04 ohms"",""320.04 ohms""]",1
+"What is the EIRP in dBW of a 50 dB antenna connected to a transmitter with an output of 10kW through a transmission line with loss of 5 dB?","[""85 dBW"",""955 dBW"",""90 dBW"",""80 dBW""]",0
+"A coaxial cable is a good example of a/an","[""Unbounded medium"",""Transmission channel"",""Non-metallic medium"",""Bounded medium""]",3
+"If a quarter wave transformer is required to match a 180 ohm load to a transmission line with and impedance of 300 ohms, what should be the characteristic impedance of the matching transformer? Assume that the matching transformer is to be connected directly to the load.","[""180 ohms"",""232 ohms"",""300 ohms"",""480 ohms""]",1
+"A transmitter of 100W RF power output, 100% modulated is operating on a frequency of 169 MHz. The antenna transmission line consists of a 50 ohms coaxial cable 150 ft long. The coaxial inner conductor outer diameter is 0.162 in. determine the outside diameter of the outer conductor if the outer conductor has a thickness of 0.05 in (assume K = 1).","[""1.0 in"",""0.9 in"",""0.7 in"",""0.5 in""]",3
+"In the preceding problem , calculate the line current.","[""1.7 A"",""1.3 A"",""1.5 A"",""1.0 A""]",0
+"Determine also the total attenuation of the line in the preceding problem.","[""2.0 dB"",""1.5 dB"",""2.5 dB"",""1.0 dB""]",1
+"What is the maximum subscriber loop length, in ft, of a telephone system if the signaling resistance is 1800 ohms using a telephone cable pair of gauge #26 with loop resistance of 83.5 ohms per 100 ft. Assume the telephone set resistance is equal to 200 ohms.","[""15,161.7 feet"",""19,161 feet"",""15,300 feet"",""20,000 feet""]",1
+"If the same subscriber loop above limits the voice attenuation to a maximum of 6 dB, what is the maximum allowable subscriber loop length, in feet, using the same gauge #26 telephone wire? Assume a 2.7 dB loss per mile.","[""20,000 ft"",""13,900 ft"",""15,280 ft"",""11,733 ft""]",3
+"The input is 0.1 W and the network gain is 13 dB, the output is","[""2.0 W"",""2.5 W"",""1.5 W"",""1.8 W""]",0
+"Known as one-tenth of a neper.","[""dB"",""dBm"",""dBp"",""dNp""]",3
+"the input impedance of a quarter wave short-circuited transmission line at its resonant frequency is","[""0 ohms"",""Infinite or an open circuit"",""Ohm"",""70 ohms""]",1
+"The ratio of the largest rms value to the smallest rms value of the voltage in the line is called","[""SWR"",""ISWR"",""VSWR"",""Coefficient of reflection""]",2
+"An open-wire, two-wire transmission line is to be connected to a dipole antenna through a quarter-wave matching stub. At a frequency of 10 MHz, compute the length of the dipole","[""20 meters"",""7.5 meters"",""15 meters"",""25 meters""]",2
+"From the preceding problem, compute also the length of the quarter wave stub.","[""15 meters"",""7.5 meters"",""20 meters"",""25 meters""]",1
+"To find the characteristic impedance of a coaxial cable, measurements are made with (a) the far end open circuited and (b) far end short circuited, the corresponding readings being a) Ro=3 ohms and Xc=55 ohms, capacitive b) RS = 10 ohms and XL = 90 ohms, inductive. What is the characteristic impedance Zo of the line?","[""75.7 \u2013 j2.0 ohms"",""70.7 + j1.19 ohms"",""87.5 \u2013 j5 ohms"",""70.7 \u2013 j1.97 ohms""]",3
+"A TV antenna receives a signal measured at 200 mV and is immediately amplified by a preamplifier with a 15 dB gain. This amplified signal then passes through a coaxial cable with 3 dB loss, what is the resulting input to the TV set, in dBmV?","[""1.98"",""13.98"",""-1.98"",""-13.98""]",2
+"The characteristic impedance of a transmission line does not depend upon its___________.","[""Conductor spacing"",""Conductor diameter"",""Length"",""Conductor radius""]",2
+"What does a power difference of –3 dB mean?","[""A loss of one third of the power"",""A loss of one half of the power"",""A loss of three watts of power"",""No significant change""]",1
+"Which of the following is an advantage of the balance transmission line?","[""Easy installation"",""Outer shield eliminates radiation losses"",""Low attenuation"",""None of these""]",2
+"Waveguides are used mainly for microwave transmission because","[""They are bulky at lower frequencies"",""Losses are heavy at lower frequencies"",""They depend on straight line propagation"",""No generators are powerful enough to excite them""]",3
+"The input is 1W and the network loss is 27 dB, the output is","[""1 mW"",""3 mW"",""2 mW"",""4 mW""]",2
+"A combiner has two inputs +30 dBm and +30 dBm, what is the resultant output?","[""+36 dBm"",""+30 dBm"",""+60 dBm"",""+33 dBm""]",3
+"The ratio of the smallest to the largest rms current value is called","[""SWR"",""VSWR"",""ISWR"",""Coefficient of reflection""]",2
+"If the ratio of the maximum current to minimum current in a transmission line is 2:1 then the ratio of the maximum voltage to minimum voltage is","[""4:1"",""1:2"",""1:4"",""2:1""]",3
+"Two wires of 600 ohms characteristic impedance is to be constructed out of a number 12 wire (81 mils). Find the attenuation of the line at 0.6 GHz per 100 feet length","[""0.05 dB"",""0.55 dB"",""0.44 dB"",""0.35 dB""]",2
+"In the preceding problem, determine the spacing between wires from center to center.","[""6 in"",""4 in"",""5 in"",""3 in""]",0
+"A lossless transmission line has a shunt capacitance of 100 nF/m and a series inductance of 4 mH/m. What is the characteristic impedance?","[""500 ohms"",""400ohms"",""300 ohms"",""200 ohms""]",3
+"A ten times power change in transmission system is equivalent to","[""10 dBm"",""1 dB"",""20 dB"",""100 dB""]",1
+"A type of transmission line employed where balanced properties are required.","[""Balun"",""Parallel-wire line"",""Coaxial line"",""Quarterwave line""]",1
+"What is the characteristic impedance of a transmission line which has a capacitance of 40 nF/ft and an inductance of 0.5 mH/ft","[""111.8 ohms"",""110.8 ohms"",""112.8 ohms"",""109.8 ohms""]",0
+"The input power to a loss-free cable is 5 W. If the reflected power is 7dB down on the incident power, the output power to the load is","[""4 W"",""5 W"",""6 W"",""7 W""]",0
+"To be properly matched the ratio of a maximum voltage along a transmission line should be equal to","[""1"",""10"",""50"",""2""]",0
+"A coaxial line with an outer diameter of 6mm has a 50 ohms characteristic impedance. If the dielectric constant of the insulation is 1.60., calculate the inner diameter.","[""2.09 cm"",""2.09 in"",""2.09 mm"",""2.09 m""]",2
+"If an amplifier has equal input and out impedance, what voltage ratio does the gain of 50 dB represent?","[""316.2"",""325.2"",""320.1"",""315.0""]",0
+"What is the inductance per foot of a cable that has a capacitance of 50 pF/ft and a characteristic impedance of 60 ohms?","[""0.167uH\/ft"",""0.178 uH\/ft"",""0.19 uH\/ft"",""0.18 uH\/ft""]",3
+"The ratio between the energy absorbed by a surface to the total energy received by the surface.","[""Reflection coefficient"",""Absorption coefficient"",""Linear coefficient"",""Thermal coefficient""]",1
+"When the diameter of the conductors of a wire transmission line is held constant, the effect of decreasing the distance between the conductors is","[""Increase the surge impedance"",""Increase the radiation resistance"",""Decrease the SWR"",""Decrease the impedance""]",3
+"The higher the gauge number if a conductor","[""The bigger the diameter"",""The higher the resistance or the smaller the diameter"",""The higher the resistance"",""None of the above""]",1
+"A short length transmission line used to reduce/eliminate standing waves in the main transmission line.","[""Stub"",""Balun"",""\u03bb\/4 transformer"",""slot""]",2
+"ratio of reflected power to incident power?","[""Incidence"",""Reflectance"",""Reflection index"",""None of these""]",1
+"A quarter wave transformer is used to match a 600 ohms lad antenna to a ling of 52 ohms impedance, the characteristic impedance of the matching transformer is","[""200 ohms"",""150 ohms"",""176 ohms"",""300 ohms""]",2
+"What is the capacitance of 55 miles #44 copper wire spaced 18 inches? From wire tables, #44 wire has a radius to 0.10215 in.","[""0.476 uF"",""0.476 nF"",""0.476 pF"",""0.476 fF""]",0
+"A two-transmission line consists of No. 12 wire AWG (81mils). The distance between wire centers is 10 inches. What is the characteristic impedance of the line?","[""650 ohms"",""300 ohms"",""600 ohms"",""660 ohms""]",3
+"In the preceding problem, what is the attenuation in dB per 100 ft of the line for a frequency of 4 MHz?","[""0.05"",""0.03"",""0.04"",""0.06""]",1
+"What is the SWR when a transmission line is terminated in a short circuit?","[""Zero"",""One"",""Infinite"",""indeterminate""]",2
+"If the return loss is 20 dB, find the present reflected power.","[""1%"",""10%"",""5%"",""20%""]",0
+"Convert “ten times bigger” to the equivalent numerical dB","[""20 dB"",""15 dB"",""5 dB"",""10 dB""]",3
+"Convert “one-half as large” to equivalent numerical dB","[""3 dB"",""-3 dB"",""2 dB"",""-2 dB""]",1
+"Special semiconductor diode use for electronically adjustable attenuation","[""Ideal diode"",""PIN diode"",""Zener diode"",""Tunel diode""]",1
+"A 50 ohm line is probed and found to have a SWR of 2.6, what are the two possible quarter wave transformers sizes that may be used to match the load to the line of the transformer are properly positioned.","[""22 ohm, 82 ohm"",""31 ohm, 80.5 ohm"",""26.2 ohm, 12.71 ohm"",""12.32 ohm, 26.7 ohm""]",1
+"A balanced load of 900 ohm pure resistance is fed through a balanced 600 ohm transmission line which is 90 electrical degree long. The balanced 600 ohm transmission line is in turn fed from a 50 ohm coaxial line by means of a half-wave balancing section. What is the standing wave ratio on the 600 ohm line?","[""1.0"",""2.5"",""1.5"",""2.0""]",2
+"Given cascaded circuit; first stage is a filter circuit with insertion loss of 3 dB, followed by an amplifier with a gain of 10 dB and followed by cable having an insertion loss of 1 dB. If the input power of the filter circuit is 1 mW, find the total insertion loss.","[""6 dBm"",""5 dBm"",""7 dBm"",""2 dBm""]",0
+"For a short circuited line or open circuited line, the standing wave ratio value is always _____.","[""Unity"",""Infinity"",""Zero"",""Cannot be determined""]",1
+"If the voltage reading at a particular section of a transmission line is maximum, the current reading should be:","[""Maximum"",""Minimum"",""Average"",""Zero""]",1
+"If five signals entered to an X-device at 3 dBm each, find the output power in dBm.","[""12 dBm"",""11 dBm"",""10 dBm"",""8 dBm""]",2
+"Given incident power of 0.4 mW and insertion loss of 3 dB, find the transmitted power.","[""0.2 mW"",""0.3 mW"",""0.4 mW"",""0.5 mW""]",0
+"The reflected voltage and reflected current along the transmission line are always:","[""180\u00b0 out of phase"",""In phase"",""Same value"",""90\u00b0 in phase""]",0
+"If the direction of the reflection coefficient is 90°, the nature of the lien is,","[""Resistive"",""Purely inductive"",""Purely capacitive"",""None of these""]",1
+"What are the three types of microwave transmission line?","[""Coaxial cable, open wire line, waveguide"",""Coaxial cable, stripline, waveguide"",""Open-wire line, waveguide, coaxial line"",""None of these""]",1
+"If the incident power is -27 dBm and insertion loss of 20 dB, find for the transmitted power.","[""12 dBm"",""7 dBm"",""2 dBm"",""0 dBm""]",1
+"Energy applied to a transmission line may become dissipated before reaching the load.","[""Radiation"",""Conductor heating"",""Dielectric heating"",""All of the above""]",3
+"The velocity of light is very nearly 3 x 10^8 m/s in a vacuum and ___ in all other media.","[""Higher"",""Slower"",""Same"",""All of these""]",1
+"At a point exactly a quarter-wavelength from the load, the current is ______.","[""180 degrees in of phase"",""180 degrees out of phase"",""Permanently zero"",""None of these""]",2
+"Is a piece of transmission line which is normally short-circuited at the far end.","[""Terminator"",""Stub"",""Quarter wave transformer"",""None of these""]",1
+"For high frequencies, the best dielectric may be_______.","[""Polyethylene"",""Polyethylene foam"",""Teflon"",""None of these""]",2
+"Characteristic impedance are sometimes called _______.","[""Ohmic resistance"",""Surge impedance"",""Wave impedance"",""None of these""]",1
+"A transmission line is connected to a mismatched load. Calculate the VSWR in dB if the reflection coefficient is 0.25","[""2.6 dB"",""1.67 dB"",""4.3 dB"",""3.6 dB""]",2
+"Is a power tool for the RF design","[""Calculator"",""Graphical solution"",""Smith chart"",""None of these""]",2
+"When will the system encounter a tremendous increase of interference.","[""When return loss is 0 dB"",""When the incident power is higher than the reflected"",""When the transmission line used is coaxial cable"",""None of these""]",0
+"In a two-stage amplifier, amplifier 1 has a noise figure of 3 dB and a gain of 20 dB. The second amplifier has a noise figure of 6 dB. Find the total noise figure.","[""3.1 dB"",""4.2 dB"",""2.6 dB"",""2.27 dB""]",0
+"If the return loss is 13 dB, find the equivalent SWR.","[""1.6"",""3.2"",""1.56"",""2.6""]",2
+"Which of the following will you choose in order to minimize mismatch?","[""SWR = 1.4"",""T1 = 0.81"",""Return loss = 20 dB"",""None of these""]",1
+"If the equipment has input power of 33 dBm, what is the gain of the resulting output power is 10 dBm.","[""-26 dBm"",""-23 dBm"",""-33 dBm"",""33 dBm""]",1
+"A stripline transmission line is built on a 4 mm thick printed wiring board that has a relative dielectric constant of 5.5. Calculate the characteristics impedance of the width of the strip is 2 mm.","[""256 ohms"",""321 ohms"",""126 ohms"",""425.35 ohms""]",1
+"A 50 ohms transmission line is connected to a 30 ohm resistive load. Calculate reflection coefficient.","[""0.35"",""0.25"",""0.10"",""0.15""]",1
+"The term _________ implies a sine wave of constant amplitude, phase and frequency.","[""Steady state"",""State of constant"",""State of calamity"",""Constant sine wave""]",0
+"Is defined as the ratio of the reflected signal to the incident signal.","[""VSWR"",""SWR"",""Reflection coefficient"",""None of these""]",2
+"It is a measure of one way loss of power in a transmission line due to reflection from the load.","[""Return loss"",""Transmission loss"",""Propagation loss"",""None of these""]",1
+"If the velocity factor is equal to 0.66, the speed of light will be_____.","[""Increase"",""Decrease"",""Same"",""None of these""]",1
+"In 1939, _________ published a graphical device for solving transmission line design.","[""Phillip A. Smith"",""Phillip R. Smith"",""Phillip H. Smith"",""Phillip S. Smith""]",2
+"In order to make the smith chart universal, the impedances along the pure resistance line are _________.","[""Normal"",""Normalized"",""Open circuit"",""Short circuit""]",1
+"Calculate the gain off an amplifier with an input power 10 kW and an output power of 200 kW.","[""15 dB"",""13 dB"",""20 dB"",""10 dB""]",1
+"A perfect termination for a transmission line.","[""Receiving end"",""Load"",""Antenna"",""Terminal end""]",1
+"It can be measured, and includes losses due to reflection and absorption inside the component","[""Fading"",""Attenuation"",""Insertion loss"",""Return loss""]",2
+"A component that samples the microwave signal traveling in one direction down a transmission line","[""Isolator"",""Directional coupler"",""Combiner"",""attenuator""]",1
+"A transmission line having air dielectric is operated at a frequency of 110 MHz. What is the phase shift constant of the line is degrees per inch?","[""2.56"",""3.35"",""4.6"",""1.25""]",1
+"Consider the three networks in series, the first is an attenuator with a 12 dB loss, the second network is an amplifier with 35 dB gain, and the third has an insertion loss of 10 dB. The input of the first network is 4 mW; what is the output of the third network in watts?","[""0.798 W"",""0.00798 W"",""0.0798 W"",""798 W""]",2
+"Is a power level related to 1 mW.","[""dB"",""dBm"",""dBM"",""dBW""]",1
+"A transmission unit used in a number of Northern European countries as an alternative to the decibel is ________.","[""Attenuation"",""Loss"",""Neper"",""dB loss""]",2
+"Adding two +30 dBm will produce how much dBm at the output.","[""60 dBm"",""15 dBm"",""23 dBm"",""33 dBm""]",3
+"Determines how the voltage or current decreases with distance","[""Phase-shift coefficient"",""Attenuation coefficient"",""Propagation coefficient"",""Numerical coefficient""]",1
+"Determines the phase angle of the voltage or current variation with distance","[""Phase-shift coefficient"",""Attenuation coefficient"",""Propagation coefficient"",""Numerical coefficient""]",0
+"Determines variation of voltage or current with distance along transmission line","[""Phase-shift coefficient"",""Attenuation coefficient"",""Propagation coefficient"",""Numerical coefficient""]",2
+"The R, L, G, and C in the transmission line are called________.","[""Passive elements"",""Active elements"",""Line primary constant"",""Reactances""]",2
+"There is an improper impedance match between a 30 W transmitter and the antenna and 5 W is reflected. How much power is actually transmitted?","[""35 W"",""25 W"",""30 W"",""20 W""]",2
+"What is the actual length in feet of a one quarter-wavelength of a coax with a velocity factor of 0.69 at 40 MHz?","[""6.15"",""4.244"",""5.904"",""16.974""]",1
+"A quarter-wave line is connected to an RF generator and is shorted out at the far end. What is the input impedance to the line at the generator?","[""A low value of resistance"",""A high value of resistance"",""A capacitive reactance which is equal in value to the line\u2019s surge impedance"",""A value of resistance equal to the characteristic impedance of the line""]",1
+"A coaxial cable has a capacitance of 90 pF/m and a characteristic impedance of 75 ohms. Find the inductance of a 2 m length.","[""1.013 uH"",""450 nH"",""506.25 nH"",""225 nH""]",0
+"If the SWR on a transmission line has high value, the reason could be","[""An impedance mismatch between the line and the load"",""That the line is nonresonant"",""A reflection coefficient of zero at the load"",""A high degree of attenuation between the load and the position where the SWR is measured""]",0
+"Calculate the velocity factor of a coaxial cable used as a transmission line with the characteristic impedance of 50 ohms; capacitance is 40 pF/m and an inductance equal to 50 microH/m.","[""0.7450"",""0.7504"",""0.0745"",""0.0475""]",2
+"If a quarter-wave transmission line is shorted at one end","[""There is minimum current at the shorted end"",""The line behaves as a parallel-tuned circuit in relation to the generator"",""The line behaves as a series tuned circuit in relation to the generator"",""There is a maximum voltage at the shorted end""]",1
+"What is the velocity factor for a cable with a Teflon dielectric (relative permittivity = 2.1)?","[""0.69"",""0.476"",""2.1"",""1.449""]",0
+"A 50-ohm transmission line is feeding an antenna which represents a 50-ohm resistive load. To shorten the line, the length must be","[""Any convenient value"",""An odd-multiple of three-quarters of a wavelength"",""An even multiple of a quarter of a wavelength"",""An odd multiple of an eight of a wavelength""]",0
+"A feature of an infinite transmission line is that","[""Its input impedance at the generator is equal to the line\u2019s surge impedance"",""Its phase velocity is greater than the velocity of light"",""The impedance varies at different positions on the line"",""The input impedance is equivalent to a short circuit""]",0
+"The outer conductor of the coaxial cable is usually grounded","[""At the beginning and at the end of the cable"",""Only at the beginning of the cable"",""Only at the end of the cable"",""The outer conductor must never be grounded""]",0
+"What is the impedance of a balance 4-wire with a diameter of 0.25 cm and spaced 2.5 cm apart using an insulator with a dielectric constant of 2.56?","[""100 ohms"",""160.5 ohms"",""88.93 ohms"",""25.8 ohms""]",0
+"An attenuator has a loss of 26 dB. If a power of 3 W is applied to the attenuator, find the output power.","[""1.65 watts"",""7.54 milliwatts"",""1194 watts"",""5.459 watts""]",1
+"When surge impedance of a line is matched to a load, the line will","[""Transfer maximum current to the load"",""Transfer maximum voltage to the load"",""Transfer maximum power to the load"",""Have a VSWR equal to zero""]",2
+"A lossless line is terminated by a resistive load which is not equal to the surge impedance. If the value of the reflection coefficient is 0.5, the VSWR is","[""2"",""3"",""1.5"",""5""]",1
+"The best insulation at UHF is","[""Black rubber"",""Bakelite"",""Paper"",""Mica""]",3
+"Neglecting line losses, the RMS voltage along an RF transmission line having no standing waves","[""Is equal to the impedance"",""Is one-half of the surge impedance"",""Is the product of the surge impedance and the lien current"",""Varies sinusoidally along the line""]",2
+"What length of standard RG-8/U coaxial cable would be required to obtain a 30 degree-phase shift at 250 MHz?","[""0.792 m"",""0.99 m"",""0.066 m"",""0.124 m""]",2
+"Nitrogen is placed in transmission lines to","[""Improve the skin-effect of microwaves"",""Reduce arcing in the line"",""Reduce the standing wave ratio of the line"",""Prevent moisture from entering the line""]",3
+"Referred to the fundamental frequency, a shorted stub line attached to the transmission line to absorb even harmonics could have a wavelength of","[""1.41 wavelength"",""\u00bd wavelength"",""\u00bc wavelength"",""1\/6 wavelength""]",2
+"Nitrogen gas in concentric RF transmission lines is used to","[""Keep moisture out"",""Prevent oxidation"",""Act as insulator"",""Both A and B""]",3
+"If a transmission line has a power loss of 6 dB per 100 feet, what is the power at the feed point to the antenna at the end of a 200 foot-transmission line fed by a 100 watt transmitter?","[""70 watts"",""50 watts"",""25 watts"",""6 watts""]",3
+"Two adjacent minima on a slotted line are 20 cm apart. Find the wavelength assuming a velocity factor of 95 %.","[""38 m"",""43.7 m"",""46 cm"",""40 cm""]",1
+"What would be the approximate series impedance of a quarter-wave matching line used to match a 600 ohm-feed to 70 ohm-antenna?","[""205 ohms"",""210 ohms"",""25.88 ohms"",""102.5 ohms""]",0
+"Which of the following represents the best SWR?","[""1:1"",""1:2"",""1:15"",""2:1""]",0
+"An optical domain reflectometer display shows a discontinuity 1.4 microseconds from the start. If the line has a velocity factor of 0.92, how far is the fault from the reflectometer?","[""168 m"",""193.2 m"",""210 m"",""386 m""]",1
+"A high SWR creates losses in a transmission line. A high standing wave ratio might be caused by","[""Improper turns ratio between primary and secondary in the plate tank transformer"",""Screen grid current flow"",""An antenna electrically too long for its frequency"",""An impedance mismatch""]",3
+"A properly connected transmission line","[""Is grounded at the transmitter end"",""Is cut to a harmonic of the carrier frequency"",""Is cut to an even harmonic of the carrier frequency"",""Has a standing wave ratio as near as 1:1 as possible""]",3
+"If a ¾ wavelength transmission is shorted at one end, the impedance at the open will be","[""Zero"",""Infinite"",""Decreased"",""Increased""]",1
+"The characteristic impedance of a transmission line does not depend upon its","[""Length"",""Conductor diameter"",""Conductor spacing"",""None of the above""]",0
+"Which of the following is not a common transmission line impedance?","[""50 ohms"",""75 ohms"",""120 ohms"",""300 ohms""]",2
+"A ratio expressing the percentage of incident voltage reflected on a transmission line is known as the","[""Velocity factor"",""Standing wave ratio"",""Reflection coefficient"",""Line efficiency""]",2
+"A series tuned circuit operating at a frequency of 1 GHz is to be constructed from a shorted section of Teflon-dielectric coaxial cable. What length should be used? ( relative dielectric = 2.1)","[""0.325 m"",""0.10 m"",""0.217 m"",""0.143 m""]",1
+"A 75 ohm line is terminated in a 30 ohm resistance. Find the SWR.","[""0.6"",""0.429"",""2.5"",""0.4""]",2
+"A generator sends 50 mW down a 50 ohm line. The generator is matched to the line but the load is not. If the coefficient of reflection is 0.6, how much power is reflected?","[""18 mW"",""20 mW"",""30 mW"",""32 mW""]",0
+"At very high frequencies, transmission lines are used as","[""Tuned circuits"",""Antennas"",""Insulators"",""Resistors""]",0
+"Transmission line shielding is grounded","[""At the input only"",""At both the input and output"",""At the output only"",""If the antenna is a Marconi design""]",1
+"A shorted quarter-wave line at the operating frequency acts like a(an)","[""Series resonant circuit"",""Parallel resonant circuit"",""Capacitor"",""Inductor""]",1
+"A transmitter is required to deliver 100 W to an antenna through 5 m of coaxial cable with a loss of 3 dB / 100 m. What must be the output power of the transmitter, assuming the line is matched?","[""136 W"",""153 W"",""151 W"",""116.815 W""]",0
+"A generator sends 50 mW down a 50 ohm line. The generator is matched to the line but the load is not. If the coefficient of reflection is 0.25, how much power is dissipated in the load?","[""46.9 mW"",""37.5 mW"",""3.125 mW"",""12.5 mW""]",0
+"Determine the Q of an antenna if it has a bandwidth of 0.06 MHz and is cut to a frequency of 30 MHz.","[""50"",""100"",""150"",""250""]",0
+"The main disadvantage of the two-hole directional coupler is","[""Low directional coupling"",""Poor directivity"",""High SWR"",""Narrow bandwidth""]",3
+"A shorted half-wave line at the operating frequency acts like a(an)","[""Capacitor"",""Inductor"",""Series resonant circuit"",""Parallel resonant circuit""]",2
+"A load impedance of 100 + j25 ohms is normalized on a 100 ohm-line. The normalized value is","[""2 + j0.5 ohms"",""0.25 \u2013 j1 ohms"",""0.94 \u2013 j24 ohms"",""1 + 0.25 ohms""]",3
+"A pattern of voltage and current variations along a transmission line not terminated in its characteristic impedance is called","[""Electric field"",""Radio waves"",""Standing waves"",""Magnetic field""]",2
+"A 75-j50 ohms is connected to a coaxial transmission line of ZO = 75 ohms, at 10 GHz. The best method of matching consists in connecting","[""A short-circuited stub at the load"",""An inductance at the load"",""A capacitance at some specific distance from the load"",""A short-circuited stub at some specific distance from the load""]",3
+"Calculate the impedance seen looking into a 75 ohm line 1 m long terminated in a load impedance of 100 ohms, if the line has a velocity factor 0f 0.8 and operates at a frequency of 30 MHz.","[""72 \u2013 j21 ohms"",""75 \u2013 j25 ohms"",""40 \u2013 j30 ohms"",""50 \u2013 j25 ohms""]",0
+"The velocity factor of a transmission line","[""Depends on the dielectric of the material used"",""Increases the velocity along the transmission line"",""Is governed by the skin effect"",""Is higher for a solid dielectric than for air""]",0
+"A transmitter supplies 50 W to a load through a line with an SWR of 4:1. Find the power absorbed by the load.","[""44.4 W"",""5.6 W"",""32 W"",""18 W""]",2
+"The conductive connections between elements which carry signals.","[""Load"",""Antenna"",""Frequency allocations"",""Transmission Lines""]",3
+"Calculate the characteristic impedance for a line that exhibits an inductance of 4 nH/m and 1.5 pF/m","[""36.6 ohms"",""51.6 ohms"",""22 ohms"",""24.5 ohms""]",1
+"Category of media which are wireless","[""Guided"",""Balanced"",""Unguided"",""Unbalanced""]",2
+"It is a medium or any physical facility used to propagate electromagnetic signals between two locations in a communications system.","[""Transmission medium"",""Channel allocation"",""Frequency allocation"",""Any of these""]",0
+"It is a metallic conductor system used to transfer electrical energy from one point to another using electrical current flow.","[""Transmitter"",""Multiplexers"",""Receiver"",""Transmission line""]",3
+"A kind of wave where the displacement is in the direction of propagation.","[""Transverse"",""Longitudinal"",""Reverse"",""Perpendicular""]",1
+"Calculate the capacitance per meter of a 50-ohm load cable that has an inductance of 55 nH/m.","[""13 pF"",""18 pF"",""20 pF"",""22 pF""]",3
+"The desirable SWR on a transmission line is","[""0"",""1"",""2"",""Infinity""]",1
+"A kind of wave where the direction is displacement is perpendicular to the direction of propagation.","[""Transverse"",""Longitudinal"",""Reverse"",""Perpendicular""]",0
+"A short-circuited half-wavelength line acts like a","[""Parallel resonant circuit"",""Series Resonant Circuit"",""Oscillator"",""LC circuit""]",1
+"Electromagnetic waves that travel along a transmission line from the source to the load.","[""Reverse waves"",""Transverse waves"",""Incident waves"",""Longitudinal waves""]",2
+"Electromagnetic waves that travel from the load back toward the source.","[""Incident waves"",""Transverse waves"",""Forward waves"",""Reflected waves""]",3
+"Sound travels approximately","[""2200 feet per second"",""1100 feet per second"",""550 feet per second"",""600 feet per second""]",1
+"Determine the surge impedance for a parallel wire, air dielectric with a ratio of the spacing between conductors and the diameter of 3.","[""250 ohms"",""210 ohms"",""180 ohms"",""215 ohms""]",3
+"The rate at which the periodic wave repeats","[""Wavelength"",""Amplitude"",""Period"",""Frequency""]",3
+"The distance of one cycle occurring in space","[""Wavelength"",""Amplitudes"",""Period"",""Frequency""]",0
+"Classification of transmission line where both conductors carry current; one conductor carries the signal, the other conductor is the return path","[""Differential transmission lines"",""Unbalanced lines"",""Coaxial cables"",""Balun""]",0
+"A shorted half-wave line at the operating frequency acts like","[""Capacitor"",""Inductor"",""Series resonant circuit"",""Parallel resonant circuit""]",2
+"What is the characteristic impedance of a coaxial line, air dielectric with a ratio of the diameter of the outer and inner conductor equal to 1.5?","[""24.3 ohms"",""25.6 ohms"",""13.2 ohms"",""18 ohms""]",0
+"Currents that flow in opposite direction in a balanced wire pair is called","[""Longitudinal currents"",""Reverse circuit currents"",""Transverse circuit currents"",""Metallic circuit currents""]",3
+"Currents that flow in same direction in a balanced wire pair is called","[""Longitudinal currents"",""Reverse circuit currents"",""Transverse circuit currents"",""In-phase currents""]",0
+"A circuit device used to connect a balanced transmission line to an unbalanced load","[""Slotted lines"",""Stub"",""Balun"",""Quarterwave lines""]",2
+"The most common type of balun used in relatively high frequency","[""Narrowband"",""Choke"",""Sleeve"",""All of these""]",3
+"A pattern of voltage and current variations along the transmission line not terminated in its characteristic impedance is called","[""An electric fluid"",""Radio waves"",""Standing waves"",""A magnetic field""]",2
+"A type of parallel-conductor transmission lines consists of simply of two parallel wires, closely-spaced and separated by air.","[""Twisted pair"",""Open-wire lines"",""Coaxial cables"",""Twin pair""]",1
+"A type of parallel-conductor transmission lines which is essentially the same as open-wire transmission line except that the spacers between the conductors are replaced with a continuous solid dielectric that ensures uniform spacing along the entire cable","[""Twisted pair"",""Open-wire lines"",""Coaxial cables"",""Twin lead""]",3
+"What is the range of size of wires of a twisted pair?","[""AWG 16 to AWG 26"",""AWG 14 to AWG 25"",""AWG 10 to AWG 20"",""AWG 12 to AWG 28""]",0
+"What is the characteristic impedance of a coaxial line, polyethylene dielectric with the ratio of the diameter of the outer and the inner conductor of 2.5?","[""43.5 ohms"",""23.4 ohms"",""36.2 ohms"",""29.8 ohms""]",2
+"In AWG, the higher the wire gauge ______","[""The higher the diameter and the lower the resistance"",""The smaller the diameter and the higher the resistance"",""The smaller the diameter and the higher the conductance"",""The larger the diameter and the higher the resistance""]",1
+"Type of twisted pair wire cable that consists of two copper wires where each wire is separately encapsulated in PVC insulation.","[""Shielded twisted pair"",""Twin lead"",""Unshielded twisted pair"",""Open wire frame""]",2
+"A shorted quarter-wave line at the operating frequency acts like","[""Series resonant circuit"",""Parallel resonant circuit"",""Capacitor"",""Inductor""]",1
+"The minimum number of twist for UTP is","[""Two twist per foot"",""Two twist per meter"",""Three twist per foot"",""Three twist per meter""]",0
+"A delay line using RG-8A/U cable is to exhibit a 5-ns delay. Calculate the required length of the cable.","[""4.57 ft."",""1.23 ft."",""6.2 ft."",""3.4 ft.""]",3
+"An open-circuited quarter-wavelength line acts like a","[""Parallel resonant circuit"",""Series resonant circuit"",""Oscillator"",""LC circuit""]",1
+"Level for category of UTP cable which is suitable only for voice grade telephone signals and very low-speed data applications","[""Level 1 or Cat 1"",""Level 3 or Cat 3"",""Level 2 or Cat 2"",""Cat 4""]",0
+"An antenna is being fed by a properly terminated two-wire transmission line. The current in the line at the input end is 3 A. The surge impedance of the line is 500 ohms. How much power is being supplied to the line?","[""3.1 kW"",""2.5 kW"",""1.6 kW"",""4.5 kW""]",3
+"Level or Category of UTP cable which was developed for IEEE 802.5 token ring local area networks operating at a transmission rates of 4Mbps","[""Level 1 or Cat 1"",""Level 3 or Cat 3"",""Level 2 or Cat 2"",""Cat 4""]",2
+"If the period of one complete cycle of a radio wave is 0.000001 s, what is the wavelength?","[""300 m"",""200 m"",""100 m"",""400 m""]",0
+"If the two towers of a 950-kHz antenna are separated by 120 electrical degrees, what is the tower separation in feet?","[""231 ft."",""235 ft."",""176 ft."",""345 ft.""]",3
+"Category of UTP used for virtually any voice or data transmission rate up to 16 Mbps, has a minimum of 3 turns per inch.","[""Category 5e"",""Category 4"",""Category 5"",""Category 3""]",3
+"The mismatch between the antenna and transmission line impedances cannot be corrected for by","[""Using an LC matching network"",""Adjusting antenna length"",""Using a balun"",""Adjusting the length of transmission line""]",3
+"Category of UTP that was designed for data transmission rates up to 20 Mbps","[""Category 5e"",""Category 4"",""Category 5"",""Category 3""]",1
+"Variation of CAT5 cables that are intended for data transmission rates up to 250 Mbps","[""Category 5e"",""Category 2"",""Category 6"",""Category 3""]",0
+"A type of twisted-pair wherein its wires and dielectric are enclosed in a conductive metal sleeve called a foil.","[""STP"",""Twin lead"",""UTP"",""Unshielded Twin lead""]",0
+"It is the name given to the area between the ceiling and the roof in a single-story building or between the ceiling and the floor of the next higher level in a multistory building.","[""Attic"",""Rooftop"",""Plenum"",""Ceiling""]",2
+"It consists of center conductor surrounded by dielectric material, then a concentric shielding, and an environmental protection outer jacket.","[""Twisted pair"",""Coaxial cable"",""Twin lead"",""Open wire""]",1
+"In a transmission line, it refers to the woven stranded mesh or braid that surround some types of coaxial cables","[""Grounding"",""Shielding"",""Degaussing"",""Any of these""]",1
+"A coaxial cable with one layer of foil insulation and one layer of braided shielding.","[""Backup shielding"",""Temporary shielding"",""Dual shielding"",""Interference shielding""]",2
+"At very high frequencies, transmission lines are used as","[""Tuned circuits"",""Antennas"",""Insulators"",""Resistors""]",0
+"A type of coaxial cable that has a tubular outer conductor surrounds the center conductor coaxially and the insulating material is air.","[""Gas-filled coaxial cable"",""Rigid air coaxial cable"",""Solid coaxial cable"",""Flexible cable""]",1
+"If the length of an open-circuited stub is less than quarter-wavelength but greater than 0, the stub behaves as","[""Inductor"",""Capacitor"",""Resistor"",""Complex""]",1
+"Type of coaxial cable where the outer conductor is braided, flexible, and coaxial to the center conductor.","[""Gas-filled coaxial cable"",""Rigid air coaxial cable"",""Solid flexible coaxial cable"",""Flexible cable""]",2
+"A 50-ohm coax is connected to a 73-ohm antenna. The SWR is","[""0.685"",""1"",""1.46"",""2.92""]",2
+"Defined as the impedance seen looking at an infinitely long line or the impedance seen looking into a finite length of the line that is terminated in a purely resistive load with the resistance equal to the characteristic impedance of the line.","[""Input impedance"",""Surge impedance"",""Output impedance"",""Circuit impedance""]",1
+"Determine the characteristic impedance for an air dielectric two-wire parallel transmission line with a D/r ratio of 12.22","[""150 ohms"",""120 ohms"",""75 ohms"",""300 ohms""]",3
+"Determine the characteristic impedance for an RG-59A coaxial cable with the following specifications: d = 0.025 inches, D = 0.15 inches, and dielectric constant of 2.23","[""120 ohms"",""72 ohms"",""150 ohms"",""75 ohms""]",1
+"Determine the characteristic impedance for an RG-59A coaxial cable with the following specifications: L=0.118 uH/ft and C = 21 pF/ft","[""150 ohms"",""72 ohms"",""75 ohms"",""100 ohms""]",2
+"It is used to express the attenuation or signal loss and the phase shift per unit length of the transmission line.","[""Propagation coefficient"",""Propagation constant"",""Propagation factor"",""Any of these""]",3
+"For matched condition, what is the relationship of load and characteristic impedance?","[""Greater than"",""Less than"",""Equal"",""Impossible to say""]",2
+"It is defined simply as the ratio of the actual velocity of propagation of an electromagnetic wave through a given medium to the velocity of propagation through a vacuum or free space.","[""Velocity factor"",""Velocity propagation"",""Index of refraction"",""Phase delay""]",0
+"It is simply the permittivity of the material","[""Permittivity"",""Insulation constant"",""Dielectric constant"",""Resistivity""]",2
+"For a given length of RG 8A/U coaxial cable with distributed capacitance of 96.6 pF/m, a distributed inductance of 241.56 nH/m, and a relative dielectric constant of 2.3, determine the velocity of propagation.","[""1.07 x 10^8 m\/s"",""2.3 x 10^7 m\/s"",""3.28 x 10^8 m\/s"",""2.07 x 10^8 m\/s""]",3
+"For a given length of RG 8A/U coaxial cable with distributed capacitance of 96.6 pF/m, a distributed inductance of 241.56 nH/m, and a relative dielectric constant of 2.3, determine the velocity factor","[""1.2"",""0.66"",""0.7"",""0.5""]",1
+"If the length of an open-circuited stub is greater than quarter-wavelength but less than half-wavelength, the stub behaves as","[""Inductor"",""Capacitor"",""Resistor"",""Complex""]",0
+"Delay line is a function of what two parameters?","[""Resistance and capacitance"",""Resistance and susceptance"",""Inductance and resistance"",""Inductance and capacitance""]",3
+"How is the time delay calculated in a coaxial cables with a dielectric constant of 0.66?","[""0.56 sec"",""0.67 sec"",""0.45 sec"",""1.2 sec""]",1
+"Three feet is one wavelength at a frequency of","[""100 MHz"",""164 MHz"",""300 MHz"",""328 MHz""]",3
+"When current flows through a conductor, the loss introduced as a function of resistance and current is called _______.","[""Inductance loss"",""Conductor loss"",""Voltage loss"",""Skin effect""]",1
+"The ratio of the AC resistance and the DC resistance.","[""Impedance ratio"",""Susceptance ratio"",""Resistance ratio"",""Conductance ratio""]",2
+"The difference in potential between two conductors of a metallic transmission line causes ______.","[""Conductor loss"",""Dielectric heating"",""Radiation loss"",""Corona""]",1
+"If the length of a short-circuited stub is greater than quarter-wavelength but less than half-wavelength, the stub behaves as","[""Inductor"",""Capacitor"",""Resistor"",""Complex""]",1
+"If the separation between the conductors in a metallic transmission line is an appreciable fraction of a wavelength, the electrostatic and electromagnetic fields that surround the conductor cause the line to act as if it were an antenna and transfer energy to any nearby material. This energy radiated is called ______.","[""Radiation loss"",""Power loss"",""Coupling loss"",""Corona""]",0
+"The minimum voltage along a transmission line is 260 V, while the maximum is 390 V. The SWR is","[""0.67"",""1.0"",""1.2"",""1.5""]",3
+"It occurs whenever a connection is made to or from a transmission line or when two sections of transmission line are connected together.","[""Power loss"",""Coupling loss"",""Radiation loss"",""Resistance loss""]",1
+"Which of the following is not a common transmission line impedance?","[""50 ohms"",""75 ohms"",""120 ohms"",""300 ohms""]",2
+"It is a luminous discharge that occurs between the two conductors of a transmission line when the difference in potential between them exceeds the breakdown voltage of a dielectric insulator.","[""Resistance loss"",""Corona"",""Radiation loss"",""Power loss""]",1
+"Voltage that propagates down the load.","[""Reflected voltage"",""Standing wave ratio"",""Incident voltage"",""Reflection voltage""]",2
+"Voltage that propagates from the load towards the source.","[""Reflected voltage"",""Standing wave ratio"",""Reflection coefficient"",""Incident voltage""]",0
+"A transmission line with no reflected power.","[""Flat"",""Resistive"",""Non resonant line"",""Any of these""]",3
+"It is a vector quantity that represents the ratio of reflected voltage to incident voltage or the reflected current and the incident current","[""Reflection coefficient"",""Reactive load diagram"",""Standing wave ratio"",""Traveling waves""]",0
+"With a mismatched line, two electromagnetic waves traveling in opposite direction, present on the line on the same time.","[""Standing wave ratio"",""Reflection coefficient"",""Standing waves"",""Traveling waves""]",3
+"The two traveling waves sets up an interference pattern called _______.","[""Standing wave ratio"",""Reflection coefficient"",""Standing waves"",""Traveling waves""]",2
+"It is defined as the ratio of the maximum voltage to the minimum voltage or the maximum current to the minimum current of a standing wave in a transmission line.","[""Standing wave ratio"",""Normalized impedance"",""Reflection coefficient"",""Any of these""]",0
+"For a transmission line with an incident voltage of 5 V and a reflected voltage of 3 V, determine the reflection coefficient.","[""0.4"",""0.6"",""0.5"",""0.7""]",1
+"A ratio expressing the percentage of incident voltage reflected on a transmission line is known as the","[""Velocity factor"",""Standing wave ratio"",""Reflection coefficient"",""Line efficiency""]",2
+"There is an impedance inversion in every ______.","[""Half wavelength"",""Quarter wavelength"",""Full wavelength"",""Three-eights of a wavelength""]",1
+"The characteristic impedance of a transmission line does not depend upon its","[""Length"",""Conductor diameter"",""Conductor spacing"",""None of these""]",0
+"______ are used to match transmission lines to purely resistive loads whose resistance is not equal to the characteristic impedance of the line.","[""Stub"",""Slotted lines"",""Quarter-wavelength transformer"",""Short circuited lines""]",2
+"To match a transmission line with a reactive load _______.","[""Use stub matching"",""Use a slotted line"",""Used a Q-section"",""Use an open circuited lines""]",0
+"A technique that can be used to locate an impairment in metallic cable.","[""TDR"",""Wattmeter"",""Voltmeter"",""SWR meter""]",0
+"A pulse is transmitted down a cable that has a velocity of propagation of 0.8c. The reflected signal is received 1us later. How far down the cable is the impairment?","[""240 m"",""15 m"",""60 m"",""120 m""]",3
+"Using TDR, a transmission line impairment is located 3000 m from the source. For a velocity propagation of 0.9c, determine the time elapsed from the beginning of the pulse to the reception of the echo","[""11.11 \u00b5s"",""10.12 \u00b5s"",""22.22 \u00b5s"",""21.14 \u00b5s""]",2
+"A flat conductor separated from a ground plane by an insulating dielectric material.","[""Stripline"",""Waveguide"",""Microstrip"",""Coaxial cable""]",2
+"A flat conductor sandwich between two ground planes.","[""Stripline"",""Waveguide"",""Microstrip"",""Coaxial cable""]",0
+"Indicate the false statement. The SWR on a transmission line is infinity; the line is terminated in","[""A short circuit"",""A complex impedance"",""An open circuit"",""A pure reactance""]",1
+"The most commonly used transmission line is a","[""Two-wire balance line"",""Singe wire"",""Three-wire line"",""Coax""]",3
+"A short-circuited half-wavelength line acts like a","[""Parallel resonant circuit"",""Series resonant circuit"",""Oscillator"",""LC circuit""]",1
+"The velocity factor of a transmission line","[""Depends on the dielectric constant of the material used"",""Increases in velocity along the transmission line"",""Is governed by the skin effect"",""Is higher for a solid dielectric than for air.""]",0
+"Impedance inversion may be obtained with","[""A short-circuited stub"",""An open-circuited stub"",""A quarter-wave line"",""A half-wave line""]",2
+"The most desirable reflection coefficient is","[""0"",""0.5"",""1"",""Infinity""]",0
+"Short circuited stubs are preferred to open-circuited stub because the latter are","[""More difficult to make and connect"",""Made of a transmission line with different characteristic impedance"",""Liable to radiate"",""Incapable of giving a full range of reactance""]",2
+"For transmission-line load matching over a range of frequencies, it is best to use a","[""Balun"",""Broadband directional coupler"",""Double stub"",""Single stub of adjustable position""]",2
+"The main disadvantage of the two-hole directional coupler is","[""Low directional coupling"",""Poor directivity"",""High SWR"",""Narrow bandwidth""]",3
+"To couple a coaxial line to a parallel-wire line, it is best to use a","[""Slotted line"",""Balun"",""Directional coupler"",""Quarter-wave transformer""]",1
+"A short-circuited quarter-wavelength line acts like a","[""Parallel resonant circuit"",""Series resonant circuit"",""Oscillator"",""LC circuit""]",0
+"If the length of a short-circuited stub is less than a quarter-wavelength but greater than 0, the stub behaves as","[""Inductor"",""Capacitor"",""Resistor"",""Complex""]",0
+"The depth of penetration of current density resulting from skin effect","[""Skin depth"",""Wire depth"",""Line depth"",""Medium depth""]",0
+"Transmission line must be matched to the load to","[""Transfer maximum voltage to the load"",""Transfer maximum current to the load"",""Reduce the load current"",""Transfer maximum power to the load""]",3
+"Referred to the dielectric constant of a transmission line material","[""Inductance and capacitance"",""Velocity factor"",""Characteristic impedance"",""Propagation velocity""]",0
+"A transmission line containing of two conductors that have equal resistance per unit length","[""Unbalanced line"",""Open-wire line"",""Balanced line"",""Coaxial cable""]",2
+"Which of the following determines the characteristics of a transmission line?","[""Inductance"",""Capacitance"",""Physical dimension"",""Length""]",2
+"Category of UTP that was designed for data transmission rates up to 20 Mbps","[""Category 5e"",""Category 4"",""Category 5"",""Category 3""]",1
+"Level 2 or category 2 UTP cables comply with IBM’s _______ specification.","[""Type 1"",""Type 3"",""Type 2"",""Type 4""]",1
+"Level 3 or Category 3 UTP cables should have at least ____ twist per inch.","[""1"",""2"",""3"",""4""]",2
+"Which of the following is NOT a color code for Category 5 UTP?","[""Blue\/white stripe and blue"",""Orange\/white stripe and orange"",""Red\/white stripe and red"",""Brown\/white stripe and brown""]",2
+"Shielded-screen twisted-pair cable or SSTP is also known as ________.","[""Cat 5e"",""Cat 7"",""Cat 6"",""Cat 8""]",1
+"An open-circuited transmission line quarter wavelength long is equivalent to","[""Parallel resonant circuit"",""Series resonant circuit"",""Inductive"",""Capacitive""]",1
+"A short-circuited transmission line more than quarter-wavelength long but shorter than half wavelength is equivalent to _______.","[""Series resonant circuit"",""Inductive"",""Capacitive"",""Parallel resonant circuit""]",2
+"A short-circuited transmission line less than quarter-wavelength long.","[""Inductive"",""Capacitive"",""Parallel resonant circuit"",""Series resonant circuit""]",0
+"The quarter-wavelength transformer line acts as a transformer with a 1:1 turns ratio when the load resistance is with what relationship with the characteristic impedance of the quarter-wavelength transformer?","[""Equal"",""Less than"",""Greater than"",""None of these""]",0
+"The characteristic impedance of a microstrip is equal to _____ ohms.","[""50 to 200"",""25 to 50"",""100 to 200"",""50 to 75""]",0
+"The quarter-wavelength transformer line acts as a step down transformer when the load resistance is with what relationship with the characteristic impedance of the quarter-wavelength transformer?","[""Equal"",""Less than"",""Greater than"",""None of these""]",2
+"The typical value of the velocity factor of an open-wire transmission line is","[""0.8"",""0.7"",""0.6"",""0.9""]",0
+"If a transmission line is not terminated in its characteristic impedance, _______ will develop along the line.","[""Traveling waves"",""Standing waves"",""Surge impedance"",""Infinite impedance""]",1
+"If a load and a line have mismatched impedances, power not absorbed by the load will be _____.","[""Absorbed"",""Rejected"",""Reflected"",""Removed""]",2
+"Two wire line is usually operated in the:","[""Balanced mode"",""Unbalanced mode"",""High frequency"",""None of these""]",0
+"When the load impedance doesn’t not match the line impedance, part of the energy in the incident wave is ________ at the load.","[""Forwarded"",""Reflected"",""Same"",""None of these""]",1
+"In practice, the transmission lines are almost connected to antennas that have a _____.","[""Resistive load whose resistance is greater than the characteristic impedance of the line"",""Resistive load whose resistance is less than the characteristic impedance of the line"",""Resistive load at the resonant frequency"",""Capacitive load""]",1
+"When the transmission line is matched to the load, it","[""Transfers maximum current to the load"",""Transfers maximum voltage to the load"",""Transfers maximum power to the load"",""Reduces the load current""]",2
+"Conventional transmission media include","[""Twisted cable pair"",""Waveguide"",""Fiber optic cable"",""All of these""]",3
+"To couple a coaxial line to a parallel wire line, it is best to use a _____","[""Slotted line"",""Directional coupler"",""Balun"",""All of these""]",2
+"Impedance inversion may be obtained with","[""An open circuited stub"",""A short circuited stub"",""A quarterwave line"",""A half-wave line""]",2
+"To be properly matched, the ratio of maximum to minimum voltage along a transmission line should be equal to","[""50"",""10"",""2"",""1""]",3
+"When ZL ≠ Zo, the power sent down the line toward the load is called the","[""The incident power"",""The reflected power"",""The power dissipation"",""The carrier power""]",0
+"For transmission line load matching over a range of frequencies, it is best to use a","[""Balun"",""Broadband directional coupler"",""Double stub"",""Single adjustable stub""]",2
+"A short section of a transmission line, open or shorted that is used to match the impedance of the line to that of an antenna or transmitter.","[""Slotted line"",""Stub"",""Wavetrap"",""Lecher wire""]",1
+"The property of a material that determines how much electrostatic energy can be stored per unit volume when voltage is applied","[""Permeability"",""Magnetic effect"",""Capacitance"",""Permittivity""]",3
+"The value of the total opposition of the transmission media to the flow of electromagnetic field energy is called","[""Characteristic impedance"",""Velocity factor"",""Standing waves"",""Reflected waves""]",0
+"When mismatch is great, this power actually cause damage to the transmitter or the line itself.","[""The incident power"",""The reflected power"",""The power dissipation"",""The carrier power""]",1
+"What is the velocity factor for non-foam dielectric 50 or 75 ohm flexile coaxial cable such as RG 8, 11, 58 and 59?","[""270"",""0.10"",""0.66"",""0.30""]",2
+"The measure of the superiority of a material over a vacuum as a path for magnetic lines of force is","[""Permittivity"",""Permeability"",""Conductivity"",""Resistivity""]",1
+"The number of standing waves on the wire is equal to the length of the wire divided by a half wavelength. The principle which allows antennas to operate at different frequencies which are integral multiples of the fundamental frequency is called_______.","[""Harmonic operation"",""Decimonic operation"",""Electromagnetic reverberation"",""Asynchronous operation""]",0
+"A coax line has an attenuation of 2.4 dB per 100 ft. the attenuation for 2.75 ft. is _____ dB.","[""2.4"",""4.8"",""3.3"",""6.6""]",3
+"When a quarter wave stub is used to match a 600 ohm antenna to a line of 52 ohms, the impedance of the matching stub must be ____ ohms.","[""176"",""200"",""150"",""300""]",0
+"The characteristic impedance of a transmission line is determined by","[""Its length"",""Its height above ground"",""Its physical construction"",""The operating frequency""]",0
+"When the diameter of two conductors of a two-wire transmission line is held constant, the effect of decreasing the distance between the conductors is to","[""Decrease the impedance"",""Increase the surge impedance"",""Increase the radiation resistance"",""Decrease SWR""]",0

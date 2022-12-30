@@ -1,0 +1,720 @@
+﻿question,choices,answer
+"Before starting any installation work, alteration, repair or extension on any electrical system, what type of permit is needed?","[""Building permit"",""Working permit"",""Electrical Permit"",""Mayor\u2019s permit""]",2
+"The Philippine Electrical Code (PEC) is intended for ______ applications by government bodies exercising legal jurisdiction over electrical installation.","[""Advisory"",""Optional"",""Mandatory"",""All of these""]",2
+"Equipment for installation in hazardous locations must be tested and approved for use according to the classification of the hazards involved. These are divided into _____ groups.","[""4"",""3"",""7"",""6""]",1
+"Individual branch circuits using type FCC (flat conductor cable) shall have ratings not exceeding ____.","[""20 A"",""30 A"",""15 A"",""40 A""]",1
+"Which of the following conductors is applicable for underground service entrance conductors?","[""type THWN"",""type UF"",""type MI"",""type USE""]",3
+"If there are three wires of 150 mm<sup>2</sup> connected to one terminal entering a cabinet or a switchboard, the bending space at each terminal shall NOT be less than ____, provided the conductors do not enter or leave the enclosure through the wall opposite its terminals.","[""200 mm"",""300 mm"",""400 mm"",""250 mm""]",3
+"A clearance of not less than ____ shall be secured between bare current carrying metal parts and any metal surface of an auxiliary gutter.","[""26 mm"",""24 mm"",""13 mm"",""12 mm""]",0
+"No box shall have an internal depth of less than ____.","[""15 mm"",""10 mm"",""12 mm"",""14 mm""]",2
+"Which of the following electrical conductor has the highest resistance?","[""3.5 mm<sup>2<\/sup>"",""8.0 mm<sup>2<\/sup>"",""2.0 mm<sup>2<\/sup>"",""5.5 mm<sup>2<\/sup>""]",2
+"A device or equipment which is suspended from overhead either by means of a flexible cord carrying the current, or otherwise.","[""Rosette"",""Pendant"",""Fixture"",""Air terminal""]",1
+"In the schedule of loads for motor circuits, which of the following is NOT included?","[""Type of motor"",""Motor\u2019s manufacturer"",""Motor as numbered or identified in the power layout"",""Number of phase""]",1
+"What is the allowable ampacity of THW insulated copper conductor with an area of 8.0 mm2 and exposed to an ambient temperature of 30°C?","[""45 A"",""20 A"",""30 A"",""60 A""]",0
+"For the two conductors inside the conduit, the ampacity of the conductors shall be derated to what percent?","[""90%"",""80%"",""70%"",""none of these""]",3
+"Electrical equipment may be best mounted on a concrete wall using one of the following. Which one of this?","[""Wooden plug"",""Expansion bolt"",""Load plug"",""Plastic plug""]",1
+"What is the neutral load of a range that has a demand load of 10.4 kW?","[""7.28 kW"",""13 kW"",""13 kW"",""10.4 kW""]",0
+"If the project is expensive and requires more time for checking and for computations of fees, the issuance of the electrical permit need to be issued immediately. However, the delay shall not be longer than how man y working days?","[""7"",""6"",""5"",""8""]",2
+"Splices in ground conductors shall be as few as practicable and shall be attached so as to withstand a pull test of _____.","[""900 Newton"",""880 Newton"",""800 Newton"",""890 Newton""]",3
+"Locations which are hazardous because of the presence of combustible dust.","[""Class I"",""Class II"",""Class III"",""Class IV""]",1
+"For an ambient temperature of 30°C, a THW insulated copper conductor with a cross sectional area of 3.5 mm<sup>2</sup> and buried underground has the following ampacity. Which one is correct?","[""20 A"",""40 A"",""15 A"",""30 A""]",3
+"All extended parts located within ______ of the lighting protection system shall be bonded thereto.","[""1,500 mm"",""1,600 mm"",""1,800 mm"",""2,000 mm""]",2
+"Operation at substantially constant load for an indefinitely long time.","[""Periodic duty"",""Intermittent duty"",""Continuous duty"",""Short time duty""]",2
+"Transformer exceeding 112.5 kVA, shall not be located within ____ from combustible materials of the building.","[""400 mm"",""300 mm"",""200 mm"",""500 mm""]",1
+"Electrodes of iron or steel shall be at least _____ in thickness.","[""6.2 mm"",""5.8 mm"",""6.0 mm"",""6.4 mm""]",3
+"The frame of the vehicle-mounted generator shall be permitted to serve as the grounding electrode for a system supplied by a generator located on the vehicle under which of the following conditions?","[""The vehicle of the generator is bonded to the vehicle frame"",""The generator supplies only equipment located on the vehicle"",""The non-current carrying metal parts of equipment and the equipment grounding conductor terminals of the receptacles are bonded to the generator frame."",""All of these.""]",3
+"The minimum insulation level for the neutral conductors of a solidly grounded system shall be ______.","[""600 V"",""300 V"",""500 V"",""1,000 V""]",0
+"The following copper conductors have the same cross sectional area but are made up of different number of strands. Which one has the least resistance to AC current?","[""19-strand conductor"",""Single solid conductor"",""7-strand conductor"",""37-strand conductor""]",1
+"Advisory rules in the Code are characterized by the use of word ____.","[""will"",""would"",""shall"",""should""]",3
+"A device capable to drawing lightning discharge to it in preference to vulnerable parts of the protected area.","[""Ground terminal"",""Lightning trap"",""Ground mat"",""Air terminal""]",3
+"Conductors normally used to carry current shall be of ______ unless otherwise provided in the PEC.","[""aluminum"",""copper"",""copper clad aluminum"",""all of these""]",1
+"Light fixtures suspended from the ceiling by chains should be wired so that the","[""chain is grounded"",""wires help support the fixture"",""wires will not touch the chains"",""wires do not support the fixture""]",3
+"An appliance, which is fastened or otherwise, secured at a specific location.","[""Permanent appliance"",""Stationary appliance"",""Portable appliance"",""Fixed appliance""]",3
+"Which one is a standard rating of an inverse time CB?","[""140 A"",""130 A"",""120 A"",""110 A""]",3
+"Aerial cable under non-metallic extensions shall have a clearance of not less than ____ from steel structure members or other conductive materials.","[""60 mm"",""30 mm"",""50 mm"",""40 mm""]",2
+"Above ground tanks containing liquids at atmospheric pressure are considered to be protected against lightning if the following requirements are meet. Which one is NOT included?","[""The metal roof shall have a minimum thickness of 4.8 mm"",""The roof shall be welded, bolted or riveted to the shell"",""All pipes entering the tank shall be metallically connected to the tank at the point of entrance"",""None of these""]",3
+"According to the Republic Act No. 184, a licensed Master Electrician may operate and tend generator rated up to a certain voltage. What is the voltage?","[""440 V"",""750 V"",""220 V"",""460 V""]",1
+"A heavy duty lamp holder shall have a rating no less than ______.","[""450 W"",""500 W"",""600 W"",""660 W""]",3
+"In rigid metal conduit wiring, conduits shall be supported at least every","[""2,500 mm"",""3,500 mm"",""3,000 mm"",""2,000 mm""]",2
+"Conductors used in open wiring method within ______ from the floor shall be considered exposed to physical damage.","[""3,000 mm"",""2,500 mm"",""2,000 mm"",""1,800 mm""]",2
+"Heating elements of cables shall be separated at least ____ from the edge of outlet boxes and junction boxes.","[""200 mm"",""100 mm"",""150 mm"",""300 mm""]",0
+"Auxiliary gutters shall not contain more than ____ current carrying conductors at any cross section.","[""38"",""32"",""30"",""24""]",2
+"Circuits rated from 201 to 400 A requires a minimum insulation resistance of","[""25,000 ohms"",""50,000 ohms"",""100,000 ohms"",""12,500 ohms""]",0
+"No over-current device shall be connected in series with any conductor that is","[""stranded"",""current carrying"",""closed"",""intentionally grounded""]",3
+"Which of the following size of single-phase transformer is NOT standard?","[""30 kVA"",""37 \u00bd kVA"",""75 kVA"",""20 kVA""]",0
+"For the purpose of lightning protection, a high rise building is a building with a height over ____.","[""23 m"",""50 m"",""20 m"",""15 m""]",0
+"Branch circuits are classified according to the maximum ______.","[""voltage across it"",""load being served"",""power consumed"",""setting off the over-current device""]",3
+"Cable tray shall NOT be used in","[""hoistways"",""dry locations"",""industrial establishment"",""all of these""]",0
+"What type of electrical conductors has a trade name “moisture resistant thermoplastic“?","[""TW"",""THW"",""THWN"",""All of these""]",0
+"A device used for the purpose of minimizing irregularities in the flow of welding currents.","[""Rheostat box"",""Grounding transformer"",""Reactor"",""None of these""]",2
+"For all land-based electrical installation under the scope of the Philippine Electrical Code, where should an electrical permit be filed?","[""Department of Energy"",""Office of the City\/Provincial Engineer"",""Office of the Mayor"",""Local Building Office""]",3
+"Rigid non-metallic conduit approved for direct burial without concrete encasement shall have a minimum burial of _____.","[""500 mm"",""400 mm"",""460 mm"",""440 mm""]",2
+"All metal parts associated with the hot tub shall be bonded using copper bonding jumper, insulated, covered, or bare, not smaller than _____.","[""5.5 mm<sup>2<\/sup>"",""8.0 mm<sup>2<\/sup>"",""14.0 mm<sup>2<\/sup>"",""3.5 mm<sup>2<\/sup>""]",1
+"All lighting fixtures, submersible pumps and other submersible equipment used in fountains shall operate at _____ or less between conductors.","[""230 V"",""300 V"",""250 V"",""500 V""]",2
+"The ground counterpoise when installed in earth shall be placed _____ above all cable in a trench.","[""75 mm"",""100 mm"",""80 mm"",""50 mm""]",0
+"Type FCC cable shall NOT be used in any of the following EXCEPT","[""outdoors"",""indoors"",""wet locations"",""hazardous locations""]",1
+"The ampacity of the conductors and the rating or setting of over-current devices in a circuit of a solar photovoltaic system shall NOT be less than _____ of the computed current.","[""100 %"",""115 %"",""125%"",""130%""]",2
+"For signalling circuits NOT exceeding _____ volts, the current required shall not exceed one ampere.","[""24"",""12"",""30"",""40""]",0
+"The grounding electrode shall be _____.","[""the nearest available effectively grounded structural metal member of the structure"",""the nearest available effectively grounded metal water pipe"",""the nearest concrete encased electrode"",""any of these""]",3
+"Non-metallic boxes not over _____ cu. cm shall be permitted only on non-metallic wiring method.","[""1,725"",""1,520"",""1,700"",""1,640""]",3
+"The equipment bonding jumper (the connection between the equipment grounding conductor and the grounding impedance) shall be _____.","[""an unspliced conductor run"",""a spliced conductor run"",""either A or B"",""neither A or B""]",0
+"According to its make, conduits maybe classified as","[""rigid metal"",""rigid non-metal"",""flexible metal"",""all of these""]",3
+"In no case shall the grounding conductor be smaller than _____ copper.","[""5.5 mm\u00b2"",""8.0 mm\u00b2"",""3.5 mm<sup>2<\/sup>"",""2.0 mm<sup>2<\/sup>""]",1
+"Hazardous location in which flammable gases or vapors are present in the air in quantities sufficient to produce explosives or ignitable mixtures.","[""Class IV"",""Class III"",""Class II"",""Class I""]",3
+"The system neutral conductor shall NOT be connected to ground, EXCEPT through the neutral ____.","[""grounding impedance"",""grounding electrode"",""grounding transformer"",""derived from other system""]",0
+"In damp or wet locations, cabinets and cutout boxes of the surface type shall be mounted with at least _____ air space between the enclosures and the wall.","[""6.0 mm"",""6.4 mm"",""7.0 mm"",""7.5 mm""]",1
+"The minimum diameter of a solid air terminal under class I material requirements shall be ____ for copper ____ for aluminum.","[""9.5 mm, 12.7 mm"",""12.7 mm, 9.5 mm"",""8.0 mm, 12.5 mm"",""12.5 mm, 8.0 mm""]",0
+"Circuits with a nominal voltage of 600V or less in a rigid metal conduit or intermediate metal conduit and placed in a trench below a 50 mm thick concrete or equivalent shall maintain a minimum cover distance of______.","[""150 mm"",""250 mm"",""460 mm"",""300 mm""]",0
+"Vertical clearances of all service drop conductors above roofs shall NOT be less than one of the following values.","[""2000 mm"",""2750 mm"",""3000 mm"",""2500 mm""]",3
+"The lighting or conductor ground terminal shall extend vertically NOT less than ______ into the earth.","[""2000 mm"",""3000 mm"",""4000 mm"",""2500 mm""]",1
+"The circuit supplying an auto-transformer type dimmer shall NOT exceed ______ the between conductors.","[""240 V"",""250 V"",""230 V"",""200 V""]",2
+"A spark occurring between nearby metallic objects or from such objects to the lighting protection system or to ground.","[""Flashover"",""Side flash"",""Spark over"",""Discharge""]",1
+"Covers for boxes shall be permanently marked. The marking shall be on the outside of the box using the block type letters at least ______ in height.","[""10 mm"",""12 mm"",""15 mm"",""20 mm""]",1
+"When wiring a raceway at least a certain length of free conductors shall be left at each outlet. What is the minimum length?","[""75 mm"",""100 mm"",""150 mm"",""200 mm""]",2
+"Where a rigid metal conduit is used, there shall NOT be more than the equivalent of ____ quarter bends between pull points.","[""three"",""four"",""five"",""two""]",1
+"There shall be at least _____ down conductor(s) on a heavy-duty smoke or vent stacks.","[""one"",""two"",""three"",""four""]",1
+"If the setting of the over current device in a circuit ahead of the equipment is 60A, the minimum equipment grounding conductor using copper shall be _____.","[""5.5 mm\u00b2"",""3.5 mm\u00b2"",""2.0 mm<sup>2<\/sup>"",""8.0 mm\u00b2""]",0
+"An exposed wiring support system using a messenger wire to support insulated conductors.","[""Metal clad cable wiring"",""Concealed knob and tube wiring"",""Messenger cable wiring"",""Messenger supported wiring""]",3
+"Air terminal shall be within ____ of outermost projection of roof edge.","[""700 mm"",""760 mm"",""800 mm"",""600 mm""]",3
+"In replacing a busted fuse which of the following is important?","[""same size and type"",""same size but different rating"",""same type but different rating"",""different size and type""]",0
+"Which of the following wires has 75-ohm impedance?","[""Foam-filled twin lead"",""Coaxial"",""Flat twin lead"",""None of these""]",1
+"Rigid metal conduit shall ship in standard lengths of ____.","[""3000 mm"",""6000 mm"",""4000 mm"",""5000 mm""]",0
+"The term given to an insulated standard wire","[""Durability"",""Cord"",""Length"",""Volume""]",1
+"Exposed non-current carrying metal parts of fixed equipment likely to become energized shall be grounded under the following conditions. Which one is NOT included?","[""where located in wet or damp locations"",""where in electrical contact with wooden floor"",""where in a classified hazardous locations"",""where supplied with a metal raceway or other wiring methods""]",1
+"Electrical equipment except x-ray tube inside anesthetizing room shall be located at least ____ above the floor.","[""2000 mm"",""2500 mm"",""2400 mm"",""2300 mm""]",2
+"Where the distance requirement in making holes cannot be maintained, the cable or raceway shall be protected from penetration by screws or nails by a steel plate or bushing at least ____ thick and of approved length and a width to cover the area of the wiring.","[""2.0 mm"",""1.5 mm"",""1.8 mm"",""1.6 mm""]",3
+"The entire area of the aircraft hangar, including any adjacent communication areas not suitably cut-off from the hangar shall be classified as hazardous up to a level of ____ above the floor.","[""400 mm"",""460 mm"",""500 mm"",""480 mm""]",1
+"In which method of starting a motor is the starting current a minimum?","[""star-delta"",""starter-rotor starter"",""direct on line"",""autotransformer""]",0
+"All switches and circuit breakers used as switches shall be so installed that the center of the grip of the operating handle when in its highest position shall NOT be more than ____ above the floor or working flat form.","[""2000 mm"",""1800 mm"",""1500 mm"",""2100 mm""]",0
+"For straight pulls, the length of the pull box shall NOT be less than ____ times the outside diameter of the largest non-shielded conductor or cable.","[""42"",""48"",""32"",""30""]",2
+"Aluminum electrode ____ permitted to be used.","[""shall not be"",""shall be"",""either A or B"",""neither A or B""]",0
+"Electrical non-metallic tubing shall be clearly and durably marked at least every","[""2000 mm"",""1000 mm"",""3000 mm"",""1500 mm""]",2
+"Which of the following sizes of fuse NOT standard?","[""80 A"",""45 A"",""125 A"",""75 A""]",3
+"The Philippine Electrical Code, Part 1 does not cover wiring of equipment installed within or to or from one of the following. Which one is this?","[""Trailers"",""Mobile homes"",""Water crafts"",""Airplanes""]",3
+"The smallest electrical trade size of intermediate metal conduit.","[""15 mm"",""20 mm"",""12 mm"",""25 mm""]",0
+"The use of electrical metallic tubing shall be permitted for_____.","[""exposed works C. both A and B"",""concealed works"",""both A and B"",""neither A or B""]",2
+"The zone of protection of an overhead ground wire is conventionally taken as a","[""cone"",""cylinder"",""triangular prism"",""all of these""]",2
+"The minimum spacing between bare metal parts of opposite polarity where mounted on the same surface shall be ____ for voltages rated not over 250V nominal.","[""26 mm"",""32 mm"",""30 mm"",""28 mm""]",1
+"The maximum electrical trade size of flexible metallic tubing shall be ____.","[""15 mm"",""20 mm"",""32 mm"",""100 mm""]",1
+"A protected device for limiting surge voltage by discharging or by passing surge current.","[""Arrester"",""Circuit breaker"",""Lighting rod"",""Thermocouple""]",0
+"Plug fuses and fuse holders shall NOT be installed or such in circuit’s exceeding ____ between conductors.","[""200 V"",""250 V"",""230 V"",""150 V""]",1
+"The standard length of rigid metal conduit is","[""30 feet"",""10 feet"",""8 feet"",""20 feet""]",1
+"For warehouse, the feeder demand load for the general lighting and small appliance load for the first 12,500VA or less is 100%, while the remainder over 12,500VA is charged at ____.","[""40%"",""60%"",""70%"",""50%""]",2
+"Liquid tight flexible non-metallic conduit shall NOT be used in lengths longer than","[""1,500 mm"",""1,800 mm"",""2,000 mm"",""2,500 mm""]",1
+"Line and ground connecting conductors to surge arresters shall NOT be smaller than ______ copper or ______ aluminum.","[""2.0 mm\u00b2, 2.0 mm\u00b2"",""3.5 mm\u00b2, 2.0 mm\u00b2"",""3.5 mm<sup>2<\/sup>, 3.5 mm<sup>2<\/sup>"",""2.0 mm\u00b2, 3.5 mm\u00b2""]",3
+"Electrical metallic tubing shall be securely fastened in place at least every______.","[""2,000 mm"",""1,800 mm"",""3,000 mm"",""1,500 mm""]",2
+"For the purpose of lighting protection, class I ordinary building is one that is at less than_____ in height.","[""20 m"",""22 m"",""24 m"",""23 m""]",3
+"For dwelling units, the demand factor for the first 3000 voltamperes of load is","[""95%"",""85%"",""100%"",""80%""]",2
+"Ventilating pipes for motors, generators or other rotating electric machinery or for enclosures for electric equipment shall be of metal NOT less than _____ in thickness.","[""0.50 mm"",""0.45 mm"",""0.40 mm"",""0.60 mm""]",0
+"Direct burial cables or conductors with nominal voltage of 600V or less and passes under streets, hi-way, roads, alleys, driveways and parking lots shall have a minimum cover distance of ____.","[""500 mm"",""600 mm"",""460 mm"",""550 mm""]",1
+"A factor assembly of parallel conductors formed integrally with an insulating _____ material web specifically designed for field installation in metal surface raceway.","[""type FC"",""type MI"",""type TC"",""type FCC""]",0
+"Snap switches shall not be grouped or ganged in enclosures unless they can be so arranged that the voltage between adjacent switches does not exceed ____.","[""250 V"",""300 V"",""150 V"",""100 V""]",1
+"Wiring located above heated ceilings shall be spaced not less than ____ above the heated ceiling and shall be considered as operating at an ambient of 50°C.","[""100 mm"",""50 mm"",""75 mm"",""40 mm""]",1
+"Are rectangular sheet metal enclosures equipped with removable covers providing access to conductors inside","[""Metal clad cable"",""Multiple cable conductors"",""Busways"",""Wireways""]",3
+"Each unit length of heating cable shall have a permanent legible marking of each non-heating lead located within ____ of the terminal end.","[""75 mm"",""70 mm"",""80 mm"",""85 mm""]",0
+"Metal faceplates of receptacles shall be of ferrous metal not less than ____ in thickness or of non-ferrous metal not less than ____ in thickness.","[""0.76 mm, 1.0 mm"",""0.76 mm, 1.2 mm"",""0.64 mm, 1.0 mm"",""0.64 mm, 1.2 mm""]",0
+"Surface mounted incandescent fixture shall be permitted to be installed in clothes closets provided there is a minimum clearance of _____ between the fixture and the nearest point of the storage area.","[""150 mm"",""200 mm"",""250 mm"",""300 mm""]",3
+"Thermal insulation shall not be installed within _____ of the recessed fixture enclosure.","[""40 mm"",""35 mm"",""38 mm"",""42 mm""]",2
+"Lighting track load shall NOT be installed where less than _____ above the finished floor EXCEPT where protected from physical damage.","[""1,800 mm"",""1,500 mm"",""2,000 mm"",""1,000 mm""]",1
+"Where circuit breakers are used to protect the primary side of a transformer over 600 V nominal, their continuous current rating shall NOT exceed _____ of the rated primary current.","[""250%"",""300%"",""175%"",""200%""]",1
+"The lowest standard size of disconnect is ______.","[""20 A"",""30 A"",""60 A"",""15 A""]",1
+"The primary winding of the step down transformer shall be protected on the primary side by an overcurrent device rated NOT more than a certain percentage of the primary current. Which is this percentage?","[""110%"",""125%"",""80%"",""150%""]",1
+"For a two wire FCC cable system with grounding, the grounding conductor shall be _____ conductor.","[""the middle"",""the rightmost"",""the rightmost"",""any of these""]",0
+"Where passing through wood cross members in plastered partitions, conductors in concealed knob and tube wiring shall be protected by insulating tubes extending NOT less than _____ beyond the wood member.","[""80 mm"",""70 mm"",""76 mm"",""64 mm""]",2
+"Branch circuit conductors supplying a single motor shall have an ampacity NOT less than _____ percent of the motor full load current rating.","[""115"",""120"",""125"",""130""]",2
+"In indoor wet locations, the entire wiring system including all boxes, fittings, control boards and panelboards shall be installed on walls with a minimum clearance. What is the clearance?","[""10 mm"",""5 mm"",""20 mm"",""15 mm""]",0
+"Type NM cable shall NOT be installed ______.","[""where exposed to corrosive material"",""where embedded in concrete"",""in a shallow chase in masonry, concrete or adobe"",""all of these""]",3
+"Dry type transformers installed indoors and rated 112.5 kVA or less shall have a separation of at least ____ from combustible material.","[""500 mm"",""400 mm"",""300 mm"",""200 mm""]",2
+"A factory assembly of two or more insulated conductors in an extruded core of moisture resistant, flame retardant, non-metallic material covered with an overlapping spiral metal tape and wire shield and sunlight resistant nonmetallic material.","[""type SNM cable"",""type NM cable"",""type SE cable"",""type AC cable""]",0
+"To cut rigid metal conduits, an electrician should do one of the following. Which one is this?","[""Order it cut to size from the supplier"",""Use a three-wheel pipe cutter"",""Use a cold chisel and ream the ends"",""Use a hack saw and ream the ends""]",3
+"Where the overload relay selected using the factor 125 % is not sufficient to start the motor or to carry the load, the multiplying factor shall be increased but shall NOT exceed _____ percent.","[""130"",""140"",""150"",""125""]",1
+"Where the protection of a motor-compressor load is not sufficient for the start current of the motor, the rating or setting shall be increased but not more than ____ of its rated load current.","[""200%"",""225%"",""250%"",""275%""]",1
+"An insulator designed to electrically insulate the end of a type FCC cable.","[""Spool insulator"",""Bonding insulator"",""Insulating end"",""Cable connector""]",2
+"Consists of three or more flat copper conductor placed edge to edge separated and enclosed within an insulating assembly","[""Armored cable"",""Flat cable assemblies"",""Sheathed cable"",""Flat conductor cable""]",3
+"Lampholders installed in wet or damp locations shall be of the ____ type.","[""heavy-duty"",""waterproof"",""weatherproof"",""all of these""]",2
+"The single phase conductors supplying the less phase than converter shall have an ampacity NOT ____times the full current rating of the motor or load being served.","[""2.50"",""1.25"",""2.16"",""1.75""]",2
+"An assembly of the two insulated conductors within a nonmetallic jacket or an extruded thermoplastic covering.","[""Shielded non-metallic sheathed cable"",""Non-metallic sheathed cable"",""Non-metallic extension"",""None of these""]",2
+"Dry type transformers rated over ____ volts, shall be installed in vaults.","[""25,000"",""10,000"",""35,000"",""50,000""]",2
+"In walls or ceilings of concrete tile, or other noncombustible materials, boxes and fittings shall be installed that the front edge of the box or fitting will NOT set back of the finished surface more than_____.","[""5.0 mm"",""6.4 mm"",""6.2 mm"",""7.6 mm""]",1
+"A type of cable which is a single or multi conductor solid dielectric insulated cable rated 2001 volts or higher.","[""MC"",""MV"",""FCC"",""AC""]",1
+"In selecting the maximum setting of an instantaneous trip CB to be used to protect all AC motors from short circuit, a multiplying factor of ____ shall be used.","[""250%"",""300%"",""150%"",""700%""]",3
+"The paper spacer thickness if type IGS cable having a conductor size of 125 mm2 to 500 mm2 shall be______.","[""1.20 mm"",""1.02 mm"",""0.92 mm"",""1.12 mm""]",1
+"What is the maximum number of overcurrent devices of a lighting and appliance panel board that shall be installed in a cabinet?","[""36 devices"",""24 devices"",""48 devices"",""52 devices""]",2
+"Intermediate metal conduit shall be firmly fastened within _____ of each outlet box junction box, cabinet or fitting.","[""750 mm"",""1000 mm"",""800 mm"",""900 mm""]",3
+"Resistance type heating elements in electric space heating equipment shall be protected at NOT more than ____.","[""50 A"",""30 A"",""40 A"",""60 A""]",3
+"Heavy-duty lighting track is a lighting track identified for use exceeding ____.","[""15 A"",""20 A"",""30 A"",""10 A""]",1
+"For three-phase motors supply by any 3-phase system, the number of overload units required shall be ____.","[""three, one in each phase"",""two, in any two of each phase"",""one, in any one phase"",""none of these""]",0
+"As compared with solid wires, stranded wires of the same cross sectional area have the following advantage EXCEPT one. Which one is this?","[""It is larger in overall diameter"",""It is easier to skin off the insulation"",""It is better for high voltage"",""It has a higher current rating""]",1
+"Each length of the rigid metal conduit shall be clearly and durably identified in every ______ as required.","[""3,000 mm"",""2,000 mm"",""4,000 mm"",""1,000 mm""]",0
+"Flexible metal conduit shall be supported within ____ on each side of every outlet box, junction box, cabinet or fitting.","[""300 mm"",""200 mm"",""460 mm"",""150 mm""]",0
+"The maximum electrical trade size of electrical metallic tubing shall be_____.","[""125 mm"",""150 mm"",""100 mm"",""200 mm""]",2
+"For installations of 2.0 mm<sup>2</sup> conductors in 600-v circuits, what is the minimum insulation resistance allowed by the Philippine Electrical Code?","[""1,000,000 \u03a9"",""750,000 \u03a9"",""250,000 \u03a9"",""500,000 \u03a9""]",3
+"Askarel insulated transformers installed indoors and rated over ____ kVA shall be furnished with a pressure relief vent.","[""37.5"",""25"",""50"",""15""]",1
+"In straight pulls, the length of the pull box shall not be less than _____ times the trade diameter of the largest raceway.","[""8"",""6"",""10"",""5""]",0
+"Busways shall be securely supported at intervals NOT exceeding ____ unless otherwise designed and marked.","[""1,000 mm"",""2,000 mm"",""2,500 mm"",""1,500 mm""]",3
+"The smallest electrical trade size of a liquidtight flexible non-metallic conduit shall be.","[""15 mm"",""12 mm"",""20 mm"",""25 mm""]",2
+"Boxes intended to enclose flush devices shall have an internal depth of NOT less than ____.","[""24 mm"",""20 mm"",""16 mm"",""28 mm""]",0
+"A branch circuit supplying a fixed storage type water heater having a capacity of 450 liters or less shall have a rating not less than _____ of the nameplate rating of the water heater.","[""100%"",""115%"",""120%"",""125%""]",3
+"Defined as the shortest distance measured between a point on the top surface of any direct buried conductor, cable, conduit and the top surface of finish grade.","[""Trench"",""Cover"",""Tray"",""Duct""]",1
+"A wall screen or fence less than ____ in height shall NOT be considered as a preventing access unless it has other features that provide a degree of isolation equivalent to the height of the fence in question.","[""2,000 mm"",""2,500 mm"",""3,000 mm"",""1,500 mm""]",1
+"Branch circuit conductors supplying a single phase motor shall have an ampacity NOT exceeding","[""100%"",""125%"",""200%"",""115%""]",1
+"Pits within ____ horizontally from the flammable vapor source, shall be considered a hazardous location under Class I, Division I location","[""6,000 mm"",""5,000 mm"",""7,600 mm"",""4,600 mm""]",2
+"Type TW conductor is a ____ type.","[""moisture and heat resistant"",""moisture and heat resistant thermoplastic"",""moisture resistant and thermoplastic"",""heat resistant and thermoplastic""]",2
+"The current in amperes a conductor can carry continuously under the conditions of use without exceeding its temperature rating","[""Ampacity"",""Capacitivity"",""Rating"",""Amperage""]",0
+"Flat conductor cables maybe installed in any of the following location EXCEPT one. Which one is this?","[""On hard concrete flooring"",""In wet locations"",""For branch circuits"",""In damp locations""]",1
+"Operation of loads and intervals of time both of which maybe subject to wide","[""Periodic duty"",""Intermittent duty"",""Continuous duty"",""Varying duty""]",3
+"For equipment rated 1200 A and over 1,900 mm wide containing overcurrent devices and control devices at least one entrance of NOT less than ____ wide and ____ high shall be provided at each end.","[""600 mm, 2,000 mm"",""600 mm, 2,500 mm"",""80 mm, 2,000 mm"",""800 mm, 2,500 mm""]",0
+"Batteries and direct current circuits shall be physically separated by at least a ___ gap or other approved means from circuits of a different power source.","[""12 mm"",""15 mm"",""20 mm"",""10 mm""]",0
+"Where contactors are used as the disconnecting means for fuses an individually externally operable switch, such as tumbler switch for the control of each contractor shall be located at a distance of not more than ____ from the contactor.","[""1,500 mm"",""1,800 mm"",""2,000 mm"",""2,400 mm""]",1
+"No electrical installation, alteration and or addition shall be connected or reconnected to any power supply or any other source of electrical energy without","[""an electrical permit"",""an application for inspection"",""certificate of payment"",""certificate of final inspection""]",3
+"Four (4) 3-phase motor are supplied by one common feeder cable. The full load current ratings of the motors are 10 A, 20 A, 30 A, and 40 A. What should be the minimum ampacity of the feeder cable?","[""110 A"",""125 A"",""150 A"",""100 A""]",0
+"Thermal barrier shall be required if the space between the resistors and reactors and any combustible material is less than ____.","[""600 mm"",""400 mm"",""500 mm"",""300 mm""]",3
+"The ampacity of conductors that connect a capacitor to the terminals of a motor circuit conductor shall not be less than ____ the ampacity of the motor circuit conductors and in no case less than 135% of the rated capacitor current.","[""one-third"",""one-fourth"",""one-half"",""one-fifth""]",0
+"The load for each ungrounded feeder and services conductor supplying 5 to 8 receptacles that supply shore power for boats shall be calculated as ____ of the sum of the rating of the receptacles.","[""80%"",""70%"",""90%"",""60%""]",2
+"A device actuated by the operation of some devices with which it is directly associated to govern succeeding operations of some or allied devices","[""Selsyn"",""Automatic"",""Interlock"",""Relay""]",2
+"The underground service conductors between the street main, including any risers at pole or other structure or from transformers and the first point of connection to the services entrance conductors.","[""Service drop"",""Service cable"",""Service lateral"",""None of these""]",2
+"For 101 A to 200 A circuits, the minimum insulation required shall be____","[""50,000 ohms"",""100,000 ohms"",""250,000 ohms"",""75,000 ohms""]",0
+"Which of the following is NOT a standard kVA rating of a single-phase transformer?","[""175"",""150"",""167"",""100""]",0
+"For voltage above 600 V, the minimum insulation resistance shall be ____","[""1,500,000 ohms per kilovolt rating"",""500,000 ohms per kilovolt rating"",""1,000,000 ohms per kilovolt rating"",""2,000,000 ohms per kilovolt rating""]",2
+"The rating of any cord and plug connected utilization equipment shall NOT exceed ____ of the branch circuit rating.","[""100%"",""80%"",""125%"",""90%""]",1
+"If there will six or more 2-wire branch circuits, the service disconnecting means shall NOT be smaller than ____.","[""100 A"",""90 A"",""60 A"",""30 A""]",0
+"For direct current motors, the multiplying factor to be used in selecting the size of overcurrent device using an inverse time CB shall be____ percent of its full load current.","[""125"",""150"",""175"",""200""]",1
+"Specifications written on the plans or submitted on separate standard size sheets shall show_____.","[""types of writing, i.e. service entrance, branch circuit, feeders, etc."",""nature of electrical services, i.e. no. of phase, voltage, frequency, etc."",""special equipment5 to be installed indicating ratings"",""all of these""]",3
+"An appliance which is fixed in one place to another in normal use","[""Fixed appliance"",""Stationary appliance"",""Portable appliance"",""None of these""]",1
+"In starting a large DC motor, a starter is primarily used in order to","[""save electrical power"",""limit the starting current"",""add more power"",""reduce the voltage drop""]",1
+"Hazardous locations in which easily ignitable fibers are stored and handled.","[""Class III, Division 2"",""Class III, Division 1"",""Class II, Division 2"",""Class II, Division 1""]",0
+"In commercial garages, repair and storage areas, the entire area up to a level of ____ above the floor shall be considered to be Class I, Division 2 hazardous location","[""400 mm"",""500 mm"",""460 mm"",""450 mm""]",2
+"Conductors passing over roof surface, a vertical clearance of ____ shall be maintained.","[""2,500 mm"",""1,500 mm"",""2,000 mm"",""3,000 mm""]",0
+"What is the minimum vertical clearance for service drop conductors (not over 600 volts) above finished grade or sidewalks accessible only to pedestrians?","[""3100 mm"",""3700 mm"",""4600 mm"",""5500 mm""]",0
+"Busways shall be permitted to be installed behind panels if means of access are provided and if the conditions below are met. One of them is NOT valid. Which one is this?","[""No over current are installed on the busway other than for an individual fixture"",""The busway is so installed that the joints between sections and fitting are accessible for maintenance purposes"",""The busway is open and of the ventilator type"",""The space behind the panels is not for air handling purposes""]",2
+"The OCPD for resistance welders shall NOT exceed _____ of the conductor’s ampacity supplying the circuit.","[""200%"",""250%"",""300%"",""400%""]",2
+"For installations to supply only limited load of a single branch circuit, the service disconnecting means shall have a rating of NOT less than _____.","[""20 A"",""30 A"",""40 A"",""15 A""]",3
+"Metal clad cable (MC) can be used in systems of 600 V or ____.","[""less"",""more"",""both A and B"",""neither A and B""]",1
+"Open conductors passing over residential driveways and those commercial areas not subject to truck traffic where the voltage exceeds 300 V to ground shall have a vertical clearance of ____.","[""3,700 mm"",""4,600 mm"",""3,100 mm"",""5,500 mm""]",1
+"MC cable insulation have a maximum operating temperature of not less than ____.","[""75\u00b0C"",""80\u00b0C"",""90\u00b0C"",""60\u00b0C""]",2
+"The ampacity of conductors in non-metallic sheathed cable shall be used at ____.","[""75\u00b0C"",""60\u00b0C"",""90\u00b0C"",""80\u00b0C""]",1
+"What is the radius of a solid round conductor, which id the nearest equivalent of a stranded conductor whose total area is exactly 8.0 mm²?","[""1.597 mm"",""1.596 mm"",""3.191 mm"",""3.192 mm""]",2
+"For high impedance grounding, the system _____ conductor shall not be connected to the ground EXCEPT through the grounding impedance.","[""line"",""neutral"",""both A and B"",""neither A and B""]",1
+"The load for household electric clothes dryer in dwelling is the larger of the nameplate or ____ VA.","[""4,000"",""5,000"",""6,000"",""8,000""]",1
+"Each lighting and appliance branch circuit panel board shall be protected individually on the supply side by not mare than two main CBs or two sets of fuses having a combined rating not ____ than that of the panel board.","[""less"",""greater"",""both A and B"",""neither A and B""]",1
+"The long time rating for x-ray equipment is based on an operating time of ____ minutes or longer.","[""five"",""eight"",""six"",""ten""]",0
+"For circuits supplying loads consisting of motor operated utilization equipment that is fastened in place and that has a motor larger than 0.125 hp in combination with other loads, the total computed load shall be on ____ percent of the largest motor load plus the sum of the other loads.","[""100"",""125"",""150"",""130""]",1
+"Exposed AC cable shall closely follow the ____ of the building.","[""finish"",""studs"",""both A and B"",""neither A and B""]",0
+"A three- phase general purpose squirrel cage motor draws a full load current of 40 A. What id the maximum size of time delay fuses that may be used for short circuit protection?","[""120 A"",""80 A"",""40 A"",""100 A""]",1
+"A 5.5 mm² TW copper has a conductor ampacity of ____.","[""30 A"",""40 A"",""20 A"",""50 A""]",0
+"The branch circuit load for continuous duty receptacles shall be calculated at ____ VA per receptacle.","[""150"",""175"",""180"",""200""]",2
+"Ground rod clamps shall be secured with at least ____ bolt(s) or cap screws","[""one"",""two"",""three"",""four""]",1
+"Over current protection devices in emergency system shall _____.","[""be coordinated"",""clear in steps"",""not trip the main device"",""all of these""]",3
+"The underground service conductors between the street main, including any risers at the pole or other structure or from transformer and the first point of connection to the service entrance of the conductors in a terminal box. The point of connection is considered to be the point of entrance of the service conductors into the building.","[""Service entry"",""Service raceway"",""Service lateral"",""Service drop""]",2
+"Down conductors on a heavy duty smoke or vent stacks shall be protected from physical damage of NOT less than ____ above finish grade.","[""2,000 mm"",""2,300 mm"",""2,500 mm"",""2,400 mm""]",3
+"The PEC permits ____ 90° bends in a single conduit run","[""one"",""two"",""three"",""four""]",3
+"A warning sign shall be posted where ____ voltage is available in service equipment.","[""high"",""low"",""both A and B"",""neither A and B""]",0
+"Circuits with a nominal voltage of 600 V or less in rigid metal or non-metallic conduit and placed under a minimum of 100 mm thick concrete exterior stab with no vehicular traffic shall have cover distance of ____.","[""200 mm"",""300 mm"",""400 mm"",""100 mm""]",3
+"Conductors supplying a group of motor-generator arc welders are sized at ____of the third largest welder plus the percentage of the other welders.","[""65%"",""85%"",""70%"",""75%""]",1
+"Which of the following statements on winding in commercial garages and shops is NOT correct?","[""The ground conductor shall be connected to the ground terminal of the utilization equipment"",""Receptacles, attachment plugs and similar devices shall be of the polarized type"",""Lamps and lamp holders for fixed lighting that are located above vehicles shall be installed not lower than 2,500 mm"",""Battery chargers and batteries being charged shall not be located in location classified as hazardous""]",2
+"Conductors may travel horizontally through ____ sections of switchboards if isolated from busbars by a barrier.","[""horizontal"",""vertical"",""both A and B"",""neither A or B""]",1
+"There shall be no more than ______ disconnects per service grouped in any location.","[""four"",""five"",""six"",""three""]",2
+"When a circuit breaker handles are operated vertically rather than horizontally, the “up” position of the handle shall be the ___ position.","[""off"",""on"",""neutral"",""any of these""]",1
+"AC equipment on board watercraft shall operate satisfactorily at the following voltage limitations. Which one is correct?","[""Minus 5% to plus 10%"",""Minus 6% to plus 10%"",""Minus 10% to plus 6%"",""Minus 10% to plus 10%""]",0
+"Emergency power panel conductors supplying a building are tapped on ____.","[""The line side of the service"",""Any subfed panel"",""Any circuit breaker main"",""Any feeder circuit""]",0
+"Where buildings exceed three stories or 15 meters in height, overhead lines shall be arranged, where practicable, so that a clear space of at least ____ wide will be left to facilitate title raising of ladders when necessary for fire fighting.","[""2,000 mm"",""1,800 mm"",""1,900 mm"",""1,500 mm""]",2
+"For the purpose of lighting protection, a smoke or vent stack is classified as heavy duty if the cross sectional area of the flue is greater than ____ square meter and the height is greater than 23 meters.","[""0.50"",""0.32"",""0.42"",""0.27""]",1
+"Voltage drop shall be considered to service laterals run at _____ distance.","[""short"",""long"",""both A and B"",""neither A and B""]",1
+"Conductors used in lightning protection system shall have no bend forming an included angle of less than ______.","[""60\u00b0"",""75\u00b0"",""50\u00b0"",""90\u00b0""]",3
+"Control conductors used for load management can be routed with the service entrance conductors in the same _______.","[""raceway"",""cable"",""either A or B"",""neither A or B""]",2
+"A lighting fixture shall be wired with a flexible lighting cord with a cross sectional area of NOT less than a certain minimum area. Which is this?","[""0.75 mm<sup>2<\/sup>"",""0.50 mm<sup>2<\/sup>"",""2.00 mm<sup>2<\/sup>"",""1.25 mm<sup>2<\/sup>""]",0
+"Service conductors shall not be run in such a manner as to block _____ to buildings.","[""openings"",""driveways"",""both A and B"",""neither A and B""]",0
+"Continuous duty loads shall be figured at ____ percent for branch circuits.","[""100"",""115"",""120"",""125""]",3
+"Enclosures for over-current devices in damp or wet locations shall be identified for use in such locations and shall be mounted so there is at least _____ air space between the enclosure and the wall.","[""10 mm"",""12 mm"",""15 mm"",""20 mm""]",0
+"What type letter for conductors has a trade name “moisture and heat resistant rubber”?","[""RH"",""RHW"",""XHHW"",""THW""]",1
+"Grounding conductor installed over lightning cables for the purpose of interconnecting the system ground electrodes and providing lightning protection for the cables.","[""Anchor"",""Counterpoise"",""Elevation rod"",""Air terminal""]",1
+"The surge arrester for services less than 1,000 volts connected by copper conductor to grounding electrode conductor or the equivalent grounding terminal shall NOT be smaller than _____.","[""8.0 mm<sup>2<\/sup>"",""3.5 mm<sup>2<\/sup>"",""5.5 mm<sup>2<\/sup>"",""2.0 mm<sup>2<\/sup>""]",3
+"The OCPD for arc welders with transformers shall NOT exceed _____ percent of the primary full load current.","[""200"",""300"",""250"",""400""]",0
+"On circuits of less than 1000V, the rating of the surge arrester shall be ___ the maximum continuous phase to ground power frequency voltage available at the point of application.","[""equal to or greater than"",""not less than"",""not less than 125%"",""none of these""]",0
+"The long time rating used to select OCPDs to protect circuits to x-ray equipment shall be _____.","[""125%"",""150%"",""175%"",""100%""]",3
+"A 3.5 mm<sup>2</sup> TW copper conductor has an ampacity equal to ____.","[""20 A"",""15 A"",""30 A"",""12 A""]",0
+"Which of the following statements on lighting fixtures NOT correct?","[""Outdoor lighting fixtures and associated equipment shall be permitted to be supported by trees"",""Metal fixtures and enclosures rated at 250 V and installed up in the ceiling shall be grounded."",""Stranded conductors shall be used in wiring a fixture supporting chain and other movable flexible parts."",""Fixtures and lighting equipment operating at over 250 V shall be grounded""]",3
+"Conductors from the service point to the service disconnecting means are considered service____.","[""subpanels"",""conductors"",""both A and B"",""neither A and B""]",1
+"Connection or fittings shall not connect grounding electrode conductors to equipment by means of _______.","[""solder"",""lugs"",""pressure connectors"",""clamps""]",0
+"Each length of non-metallic conduit shall be clearly and durably marked at least every ______ as required.","[""3,000 mm"",""2,000 mm"",""4,000 mm"",""5,000 mm""]",0
+"Doors leading into a transformer vault shall be kept locked and access allowed only to ______.","[""the owner"",""qualified person"",""general public"",""any person working in the building""]",1
+"Resistors and reactors shall not be installed in close proximity to combustible materials such that it constitutes a fire hazard. What minimum clearance is required by the Code?","[""250 mm"",""300 mm"",""400 mm"",""100 mm""]",1
+"The ground conductor shall be equal to the largest ____ conductor.","[""bonding"",""phase"",""ungrounded service"",""equipment""]",1
+"Completely enclosed, ventilated transformers equipped with a 80C rise insulation may be installed in a room ____.","[""with concrete walls"",""designed as a vault"",""of fire resistant construction"",""built with tile blocks""]",2
+"In a switchboard there shall be an air space of at least _____ between the energized metal part and the door or the cabinet.","[""30 mm"",""20 mm"",""15 mm"",""25 mm""]",3
+"Electrical metallic tubing shall be securely fastened in place within ____ of each outlet box, junction box, cabinet or fitting.","[""300 mm"",""600 mm"",""900 mm"",""800 mm""]",2
+"Lead-in antenna conductors for television or radio equipment shall be securely _____ to antennas.","[""attached"",""fastened"",""both A and B"",""neither A or B""]",2
+"What is the metric size equivalent of 1,000 MCM?","[""250 mm<sup>2<\/sup>"",""500 mm<sup>2<\/sup>"",""750 mm<sup>2<\/sup>"",""1,000 mm<sup>2<\/sup>""]",2
+"Antenna conductors for television equipment shall be installed so they will not ____ under open electric light or power conductors where possible.","[""parallel"",""cross"",""both A and B"",""neither A or B""]",1
+"For churches, the general lighting load shall be computed at ____.","[""8 VA\/m<sup>2<\/sup>"",""16 VA\/m<sup>2<\/sup>"",""12 VA\/m<sup>2<\/sup>"",""24 VA\/m<sup>2<\/sup>""]",0
+"Surface metallic raceway shall NOT be used where the voltage is ____ volts or more between conductors unless the metal has a thickness of not less than one mm.","[""300 mm"",""250 mm"",""150 mm"",""400 mm""]",0
+"Electric discharge lighting shall be connected by flexible cord if the cord is visible for _____ percent of its entire length.","[""50"",""80"",""90"",""100""]",3
+"What is the latest edition of the Philippine Electrical Code, Part 2?","[""1994"",""1990"",""1992"",""1988""]",3
+"All circuit conductors between the service equipment or the generator switchboard of an isolate plant, and the final branch circuit over current device.","[""Service"",""Feeder"",""Branch Circuit"",""All of these""]",1
+"A disruptive discharge through insulation.","[""Breakdown"",""Surge"",""Overload"",""Fault""]",0
+"Insulators used to support wires under cross arms are","[""pin"",""spool"",""suspension"",""strain""]",2
+"A pliable corrugated raceway of circular cross-section with integral or associated couplings, connectors and fittings for the installation of electric conductors.","[""Electrical metallic tubing"",""Rigid non-metallic conduit"",""Electrical non-metallic tubing"",""Rigid metal conduit""]",2
+"The scope of the PEC covers all electrical conductors including optical fiber cable and equipment installed within or to or from any of the following premises, which one is NOT included?","[""Aircraft"",""Motor vehicles"",""Railway rolling stocks"",""All of these""]",3
+"The maximum size of liquid tight flexible metal conduit shall be ____ trade size.","[""50 mm"",""125 mm"",""150 mm"",""100 mm""]",3
+"Transformers that are installed in unsupervised locations and rated over 600 V are protected by fuses on the primary side cannot exceed ____ percent of the primary full load current.","[""150"",""300"",""200"",""250""]",1
+"Each length of intermediate metal conduit shall be clearly and durably identified at ____ intervals with the letters “IMC”.","[""760 mm"",""600 mm"",""900 mm"",""1,000 mm""]",0
+"What is the maximum rating of a molded case circuit breaker to protect a 10 hp squirrel cage induction motor rated at 230 volts, 3-phase, 60 Hz with a full load rating of 28 A?","[""30 A"",""50 A"",""70 A"",""100 A""]",2
+"The sum of all contained conductors of an auxiliary gutter at any cross section shall NOT exceed ____ of the interior cross sectional area of the said gutter.","[""10%"",""15%"",""20%"",""25%""]",1
+"Fluorescent lighting fixtures installed in _____ ceilings shall be attached to the framing of the ceiling by clips, screws, or rivets.","[""rocked"",""suspended"",""both A and B"",""neither A or B""]",1
+"In rigid metal wiring conduit, conduits shall be supported at least every","[""2,000 mm"",""2,500 mm"",""3,500 mm"",""3,000 mm""]",3
+"Direct burial cables or conductors with a nominal voltage of 600 V or less and passes under airport runways including adjacent areas where trespassing is prohibited, shall have a minimum cover distance of _____.","[""460 mm"",""500 mm"",""600 mm"",""300 mm""]",0
+"If the voltage level is from 250 to 600 V, the air space between the wall, door or gutter partition of any cabinet shall be at least _____.","[""24 mm"",""22 mm"",""28 mm"",""26 mm""]",3
+"For motors with a marked service factor not less than 1.15, the multiplying factor to be used in determining for size of overload protection shall be _____.","[""110%"",""115%"",""120%"",""125%""]",3
+"For a motor starter to be in sight of the controlled motor, it must NOT be more than _____ meters away.","[""20"",""10"",""25"",""15""]",3
+"Pipelines with impedance heating shall NOT operate at greater than _____ AC.","[""30 V"",""24 V"",""50 V"",""100 V""]",0
+"The area within _____ horizontally from an aircraft power plant shall be classified hazardous under Class I, Division 2 Location.","[""1,200 mm"",""1,500 mm"",""1,800 mm"",""2,000 mm""]",1
+"Fixture chains shall be wired with ____ wire from the outlet box connections to the sockets of the fixture .","[""solid"",""stranded"",""either A or B"",""neither A or B""]",1
+"Metal faceplates for flush mounted snap switches shall be of ferrous metal NOT less than _____ in thickness.","[""0.6 mm"",""0.7 mm"",""0.8 mm"",""0.9 mm""]",2
+"Flexible metallic tubing smaller than _____ electrical trade size shall NOT be used.","[""20 mm"",""15 mm"",""12 mm"",""32 mm""]",1
+"The sum of the cross sectional areas of all contained conductors at any cross section of the wireway shall NOT exceed _____ percent of the interior cross sectional area of the wireway.","[""30"",""40"",""50"",""20""]",2
+"Where nails or screws are likely to penetrate non-metallic sheathed cable or electrical non- metal tubing, a steel sleeve or steel clip NOT less than _____ in thickness shall be used to protect the cable or tubing.","[""1.6 mm"",""1.5 mm"",""2.0 mm"",""1.8 mm""]",0
+"An auxiliary gutter shall NOT extend a greater distance than _____ beyond the equipment, which it supplements.","[""8,500 mm"",""8,900 mm"",""9,100 mm"",""none of these""]",2
+"A clearance of NOT less than ____ shall be provided from recessed fixtures and their trims, ventilating openings and other such openings in room surfaces.","[""100 mm"",""70 mm"",""50 mm"",""30 mm""]",2
+"Storage batteries in solar photovoltaic systems for dwellings shall have cells operating at less than _____.","[""50 V"",""30 V"",""24 V"",""12 V""]",0
+"The minimum spacing between the bottom of enclosure and the insulated busbars, their supports and other obstructions shall be _____.","[""200 mm"",""210 mm"",""215 mm"",""205 mm""]",3
+"Consist of a group of wire twisted to form a metallic string.","[""Duplex wire"",""Loomex wire"",""Solid wire"",""Stranded wire""]",3
+"Service drop conductors passing through sidewalk accessible only to pedestrians where the voltage is limited to 300 V to ground shall maintain a vertical clearance of NOT less than _____ at the electric service entrance to buildings.","[""3,700 mm"",""3,100 mm"",""4,600 mm"",""5,500 mm""]",1
+"Secondaries of transformers supplying voltage for impedance heating of vessels are computed at NOT less than _____ percent of the heating load.","[""150"",""100"",""125"",""130""]",1
+"The ampacity of supply branch circuit conductors supplying diagnostic equipment and the current rating of the overcurrent protective devices shall NOT be less than _____ percent of the momentary rating or _____ percent of the long time rating which ever is larger.","[""50, 100"",""60, 125"",""60, 100"",""50, 125""]",0
+"In dwelling units and guestrooms of hotels, motels and similar occupancies, the voltage shall NOT exceed _____ volts nominal between conductors that supply the terminals of medium base screw shell lamp holders.","[""250"",""230"",""300"",""150""]",0
+"The grounding electrode for grounding communications systems may be connected to the nearest accessible location on any of the following EXCEPT one. Which on is this?","[""Buried interior PVC water piping system"",""Grounding electrode conductor"",""Building structure of a concrete building"",""Grounding terminal of service equipment if provided by the utility company""]",0
+"Transformers used to step down voltage for general use are classified as _____ systems.","[""separately derived"",""classified"",""direct"",""emergency""]",0
+"For a portable motor rated at _____ horsepower or less, the controller shall be permitted to be an attachment plug and receptacle.","[""0.25"",""0.33"",""0.125"",""none of these""]",1
+"Hazardous locations in which combustible dust is in the air under normal operating conditions in quantities sufficient to produce explosive or ignitable mixtures.","[""Class II, Division 1"",""Class II, Division 2"",""Class III, Division 1"",""Class III, Division 2""]",0
+"A fixture requiring supply wire rated higher than 90°C shall be so marked in letters _____ high prominently displayed on the fixture.","[""6.0 mm"",""10 mm"",""6.4 mm"",""8.4 mm""]",2
+"Rosettes for exposed wiring shall be provided with bases that shall be high enough to keep the wires and terminals at least _____ from the surface wired over.","[""10 mm"",""12 mm"",""13 mm"",""15 mm""]",2
+"Branch lighting circuits shall be protected by over-current devices not rated more than _____.","[""40 A"",""20 A"",""30 A"",""50 A""]",1
+"Solar photovoltaic systems in a one- family dwelling units with circuits rated over _____ to ground while energized shall NOT be accessible to other than qualified persons.","[""50 V"",""150 V"",""100 V"",""none of these""]",1
+"Where liquidtight flexible metal conduit is installed as a fixed raceway, it shall be secured at intervals NOT exceeding _____.","[""1,500 mm"",""1,250 mm"",""1,400 mm"",""1,300 mm""]",3
+"An approved assembly of insulted conductors with fittings and conductor terminations in a completely enclosed ventilated protective metal housing.","[""Cable tray"",""Cablebus"",""Gutter"",""Busway""]",1
+"The inner strand of ACSR is made of","[""Brass"",""Steel"",""Copper"",""Lead""]",1
+"The continuous load supplied by a branch circuit shall NOT exceed the branch circuit rating by more than _____ percent.","[""50"",""60"",""80"",""90""]",2
+"A cable provided with a wrapping or metal usually steel wires or tapes, primarily for the purpose of mechanical protection.","[""metal clad cable"",""metallic sheathed cable"",""armored cable"",""flat conductor cable""]",2
+"In all cases where there are energized parts on the front of the switch boards or motor control centers, the working space in front of such equipment shall NOT be less than minimum distance. What is this distance?","[""2,000 mm"",""500 mm"",""1,500 mm"",""1,000 mm""]",3
+"Border lights shall be installed around stages in theaters on circuits rated at _____ less.","[""20 A"",""15 A"",""30 A"",""10 A""]",0
+"Wirings allowed to be installed outside buildings are enumerated below EXCEPT one. Which one is this?","[""type MC cable"",""flat conductor cable"",""rigid metal conduit"",""open wires on insulators""]",1
+"Conductors supplying a heating unit shall be calculated at ____ percent times the heating load plus the blower motor.","[""110"",""100"",""130"",""125""]",3
+"Masts separate from the structure to be protected shall be a minimum of _____ from the protected structure.","[""1,800 mm"",""2,000 mm"",""1,900 mm"",""1,500 mm""]",0
+"Lighting track conductors shall be a minimum of _____ or equal and shall be copper.","[""2.0 mm<sup>2<\/sup>"",""5.5 mm<sup>2<\/sup>"",""1.25 mm<sup>2<\/sup>"",""3.5 mm<sup>2<\/sup>""]",3
+"The walls and roofs of transformer vaults shall be constructed of materials that have adequate structural strength for the condition with a minimum fire resistance of _____ hours.","[""1.5"",""2.0"",""2.5"",""3.0""]",3
+"In order to protect a personnel and prevent shock, the equipment should be connected good earth ground through the","[""conduit pipe"",""hot water pipe"",""cold water pipe"",""rigid conduit pipe""]",2
+"When computing the service load with the standard method, more than three fixed appliances are computed with a demand factor of _____ of the nameplate rating.","[""80%"",""65%"",""70%"",""75%""]",3
+"When computing the service load with the standard method, a 2 kW electric space heating unit is computed at _____ percent.","[""80"",""100"",""90"",""125""]",1
+"Where knobs are used, conductors shall be securely tied there to by _____ wires having insulation equivalent to that of the conductors.","[""tie"",""bonding"",""guy"",""splicing""]",0
+"A photovoltaic power source having one conductor of a 2-wire system over _____ volts shall be solidly grounded.","[""100"",""150"",""50"",""200""]",1
+"The Code requires that all energized part of electrical equipment operating at _____ or more shall be guarded against accidental contacts by approved enclosures. What is this voltage?","[""24 volts"",""110 volts"",""230 volts"",""50 volts""]",3
+"What is the minimum size of the aluminum or copper clad aluminum conductors, used as service entrance conductors?","[""8.0 mm<sup>2<\/sup>"",""5.5 mm<sup>2<\/sup>"",""14.0 mm<sup>2<\/sup>"",""3.5 mm<sup>2<\/sup>""]",0
+"When removing insulation from the wire before making the splice, care should be taken to avoid nicking the wire (slightly cutting the wire) because of one of the following. Which one of this?","[""the wire might break"",""the ampacity will be reduced"",""the wire tinning (protective coating) will be injured"",""the resistance will increase""]",0
+"The unit lighting for a dwelling unit expressed in watts per square meter shall be","[""8 watts"",""40 watts"",""24 watts"",""16 watts""]",2
+"Wires and cables used in dry and wet locations for over 2000 volts insulation and ozone resistant with moisture and heat resistance rubber and has a maximum operating temperature of 90°C is _____ type.","[""MI"",""RHW"",""THW"",""THHN""]",0
+"In dwelling units, when the actual number of receptacle outlet is not known, an additional load of ____ volt-ampere per square meter shall be included.","[""10"",""4"",""8"",""6""]",2
+"Conductors of AC and DC rated up to 600 V nominal shall be permitted to occupy the same equipment wiring enclosure, cable tray or raceway (pipes). Is this being allowed under Section 5.1.1.3 (c) (1) Art 5.1?","[""Installation is correct"",""False"",""True"",""Acceptable""]",2
+"The point of attachment of the service drop conductors to a building or other structure shall NOT be less than ____ above finished grade.","[""3100 mm"",""2800 mm"",""3000 mm"",""3500 mm""]",0
+"Which type of temperature detector is used in motor windings?","[""Capacitance"",""Resistance"",""Inductance"",""Reluctance""]",1
+"If there will be 6 or more 2- wire branch circuits for a one family dwelling unit, how much is the minimum service entrance capacity required?","[""60 A"",""100 A"",""90 A"",""120 A""]",1
+"Determine the minimum appliance and laundry load required for a dwelling unit.","[""4000 volt-amperes"",""1500 volt-amperes"",""3000 volt-amperes"",""2000 volt-amperes""]",2
+"Underground communication conductors in a raceway, handhole or manhole containing electric light and power conductors, shall be in a section ____ from such conductors by means of a separator (brick, concrete or tile) under Art 10.1.3.2 (a).","[""combined"",""separated"",""included"",""inside""]",2
+"Which of the raceway methods is NOT allowed to be used in a hazardous location?","[""Rigid metal conduit"",""Liquid-tight flexible metal conduit"",""Rigid non-metallic conduit"",""None of these""]",2
+"Where raceways are exposed to widely different temperatures they shall be _____.","[""grounded"",""sealed"",""isolated"",""bonded""]",1
+"Art 1. 10.2 of PEC 1 requires working spaces for equipment operating 600 V, nominal or less to ground. This is required for live parts on the other side, like concrete, brick or tile walls and shall be considered as grounded. What is this minimum distance for Condition 2?","[""1300 mm"",""1400 mm"",""1200 mm"",""1100 mm""]",3
+"Where galvanized steel conduit is used, the primary purpose of the galvanizing is to","[""retard rusting"",""provide good electrical contact for grounding"",""increase mechanical strength"",""provide a good surface foe painting""]",0
+"A protective device for assembly as an integral part of a motor or motor compressor and which when properly applied, protects the motor against dangerous overheating due to overload and failure to start.","[""Fault current"",""Ground fault"",""Thermal heat"",""Thermal protector""]",3
+"Underfloor raceways may be occupied up to _______ percent of the area.","[""55"",""38"",""40"",""30""]",2
+"This type of loads will NOT require Electrical Permits nor Certificate of Inspection. Which one is this?","[""Fixed water heater"",""Fixed electric range"",""Window type room air-conditioner"",""Potable appliances rated not more than 1200 volt-amperes""]",3
+"The electrical drawing of single family shall show the following. EXCEPT one","[""Floor plan"",""Computation of illumination"",""Local Plan"",""One-line diagram""]",1
+"Where extensive metal in or on buildings may become energizer and is subject to personal contact ____ will provide additional safety.","[""Bonding"",""Suitable ground detectors"",""Suitable arresters"",""Adequate bonding and grounding""]",3
+"The computed load for the branch circuit installed to supply exterior signs and outline lighting shall be computed at a minimum of ______ volt-amperes.","[""1,200"",""1,500"",""1,800"",""1,000""]",0
+"Non-metallic boxes shall be permitted only with ______.","[""concealed knob and tube wiring"",""non-metallic sheathed cable"",""open wiring on insulators"",""all of these""]",3
+"A building or other structure serve shall be supplied by only one service drop EXCEPT for","[""multiple occupancy building"",""fire pumps"",""emergency electrical system"",""all of these""]",3
+"Air terminals exceeding 600 mm in height shall be supported at a point NOT less ______ of its height.","[""three-fourths"",""two-fifth"",""one-half"",""one-third""]",2
+"This type of cable is a fabricated assembly of insulated conductors enclosed in a flexible metal sheath.","[""Ground wire"",""Integrated gas spacer cable"",""Medium voltage cable"",""Armored cable""]",3
+"The following are common splicing rules EXPECT one. Which one is this?","[""A splice must provide a path for the current to pass through"",""A joint must be mechanically as strong as the wire itself"",""All splices must be mechanically and electrically secured by means of solder"",""Wires of the same should be spliced together in line""]",3
+"Service entrance cables shall be supported by straps or other approved means within _______ of every service head","[""300 mm"",""500 mm"",""600 mm"",""400 mm""]",0
+"A point in a wiring system at which current is taken to be used in some equipment","[""Grounded"",""Conductor"",""Service entrance"",""Outlet""]",3
+"The clearance from the top of a switchboard to a ceiling which is combustible shall NOT be less than_________.","[""1,000 mm"",""800 mm"",""900 mm"",""1,250 mm""]",0
+"In concealed knob and tube wiring, the clearance to be maintained between conductors is","[""55 mm"",""45 mm"",""76 mm"",""50 mm""]",2
+"What is the total number of mechanical degrees that a PVC conduit run maybe bent between pull points (pull boxes, junction boxes or utility boxes)?","[""360 degrees"",""180 degrees"",""120 degrees"",""270 degrees""]",0
+"The sum of the cross sectional area of all conductors in a wireway must not exceed ____ percent of the cross-sectional area of the wireway.","[""15"",""20"",""10"",""25""]",1
+"A lighting fixture shall be wired with a flexible lighting cord with a cross section area of NOT less","[""0.75 mm<sup>2<\/sup>"",""2.00 mm<sup>2<\/sup>"",""0.50 mm<sup>2<\/sup>"",""1.25 mm<sup>2<\/sup>""]",0
+"Flexible metal conduits must not be used in","[""wet locations"",""hoistways"",""storage battery rooms"",""all of these""]",3
+"What is the maximum operating temperature of type THWN conductor?","[""75\u00b0C"",""60\u00b0C"",""90\u00b0C"",""110\u00b0C""]",0
+"A conductor encircling a building and interconnecting all ground terminals?","[""Bonding"",""Interlink"",""Air terminal"",""Counterpoise""]",3
+"The use of surface nonmetallic raceway may NOT be used in the following locations EXCEPT one. Which one is this?","[""In dry locations"",""Where subject to severe physical damage"",""Where the voltage is over 300 V"",""Where concealed""]",0
+"For installation consisting of not more than two 2-wire branch circuits, the service disconnecting mains shall be rated NOT less than what rating?","[""20 A"",""40 A"",""30 A"",""50 A""]",2
+"For a dwelling unit having a floor area not more than 50 square meters shall be permitted to have a single 20-A, 2- wire branch circuit provided the total load shall NOT exceed how many volt-amperes?","[""3,680"",""3,860"",""3,080"",""3,068""]",0
+"Flat conductor cable (FCC) system shall NOT be used in the locations enumerated below EXCEPT one. Which one is this?","[""Locations where subject to corrosive vapors"",""Damp locations"",""Residential buildings"",""Outdoors""]",1
+"A run conduit between outlets, between fittings, between outlet and fitting shall not contain more than the equivalent of _________ quarterbends.","[""2"",""4"",""3"",""5""]",1
+"Transformers that contain liquid that will burn shall be installed only in approved vaults and shall also comply with the following conditions EXCEPT one. Which one is this?","[""Ample ventilation\u2019s shall be provided for the continuous"",""Vent openings shall lead to a safe location outside the building"",""All vent ducts and openings shall be of sufficient areas to reliable explosion pressures within the vault"",""There shall be a robust door between the vault and any non-hazardous location""]",3
+"To provide for small appliance in a dwelling unit, the feeder should be computed at","[""2,400 watts"",""3,000 watts"",""1,500 watts"",""3,600 watts""]",2
+"Cables operated at over ______ shall be shielded.","[""2,000 V"",""1,000 V"",""3,000 V"",""none of these""]",0
+"The nearest ground terminal shall NOT less than______ from the foundation wall.","[""760 mm"",""800 mm"",""550 mm"",""600 mm""]",3
+"The circuit conductors between the service entrance equipment or isolated generating plant and the branch circuit overload device or devices.","[""overcurrent protector"",""feeder"",""motor controller"",""disconnecting switch""]",1
+"Conductors shall be securely attached to the buildings using fasteners. Fasteners shall be spaced NOT more than","[""760 mm"",""600 mm"",""880 mm"",""900 mm""]",3
+"The minimum diameter of air terminal used at the top of a heavy duty smoke or vent stacks shall be ____, exclusive of the corrosion protection.","[""10 mm"",""15 mm"",""13 mm"",""20 mm""]",1
+"______ are used on conduits and are located inside and outside of the box.","[""Couplings"",""Bushings"",""Locknuts"",""Washers""]",2
+"No parts of cord connected fixtures, hanging fixtures or pendants shall be located within a zone measured ______ horizontally from a bathtub rim.","[""900 mm"",""1,000 mm"",""800 mm"",""700 mm""]",0
+"Busbars shall be copper having a minimum conductivity of ______.","[""100%"",""96%"",""98%"",""97%""]",3
+"What is the temperature rating of THW insulation?","[""60\u00b0C"",""85\u00b0C"",""75\u00b0C"",""90\u00b0C""]",2
+"Individual open conductors and cables other than service cables shall NOT be installed within______ of every grade level.","[""3,100 mm"",""2,500 mm"",""3,700 mm"",""3,000 mm""]",0
+"An insulated grounded conductor of 14 mm2 or smaller shall be identified by a continuous ____ outer finish along its entire length.","[""green"",""black"",""green with yellow stripes"",""white or natural gray""]",3
+"Messenger support wiring is permitted only in ______ establishments where maintenance personnel service the system.","[""industrial"",""commercial"",""both A and B"",""neither A or B""]",0
+"In damp or wet locations, boxes and fittings should be properly placed or insulated to prevent","[""dust from entering the box or fitting"",""water from entering the box or fitting"",""wiring exposure"",""grounding""]",1
+"Equipment having an open circuit voltage exceeding ____ shall NOT be installed in dwelling occupancies.","[""500 V"",""300 V"",""250 V"",""230 V""]",1
+"Connected knob and tube wiring conductors shall be rigidly supported on knobs not more than a certain minimum distance apart. What is this distance?","[""2,000 mm"",""1,500 mm"",""1,300 mm"",""2,500 mm""]",2
+"Which of the following materials is used to support the conductor in the open wiring method?","[""insulated wire stoppers"",""insulated nails"",""rosettes"",""split knobs""]",3
+"The minimum size of type IGS cable shall be","[""100 mm<sup>2<\/sup>"",""125 mm<sup>2 <\/sup>"",""150 mm<sup>2<\/sup>"",""200 mm<sup>2<\/sup>""]",1
+"Watercraft’s switchboards shall be provided with a clear working space of at least ____ at the front.","[""1,500 mm"",""1,200 mm"",""1,600 mm"",""1,000 mm""]",3
+"For grounding electrode to which portable or mobile equipment system neutral impedance is connected, shall be isolated from the ground by at least a certain distance from any other system or equipment grounding electrode. What is this distance?","[""4,000 mm"",""6,000 mm"",""5,000 mm"",""3,000 mm""]",1
+"Which of the following metals is the best conductor of electricity?","[""Steel"",""Iron"",""Aluminum"",""Copper""]",3
+"Incandescent lamp fixtures shall be marked to indicate the allowable wattage of lamps. The markings shall be permanently installed in letters at least ______ high.","[""6.0 mm"",""6.4 mm"",""6.3 mm"",""6.5 mm""]",1
+"If the duty cycle of a motor-generator arc welder is 100%, the supply conductors shall NOT be less than______ of its rated primary nameplate current.","[""115%"",""125%"",""100%"",""130%""]",2
+"Most wires used in residential house wiring are usually insulated by","[""Asbestos"",""Cotton"",""Thermoplastic"",""Varnished cambric""]",2
+"Open wiring on insulators shall be permitted for wiring systems of ____ or less.","[""150 V"",""240 V"",""300 V"",""600 V""]",3
+"The branch circuit conductors that supply one or more units of data processing systems shall have an ampacity not less than ____ percent of the total connected load.","[""150"",""100"",""125"",""200""]",2
+"Communication cable and wires shall have a voltage rating NOT less than _____.","[""400 volts"",""300 volts"",""600 volts"",""250 volts""]",1
+"A 15-A or a 20-A branch circuit shall be permitted to supply lighting units and other utilization devices. The rating of any one cord and plug connected appliance shall NOT exceed a certain percentage of the branch circuit rating. What is this percentage?","[""80%"",""90%"",""70%"",""60%""]",0
+"The bonding conductor used in agricultural buildings shall be copper, insulated, covered or bare, NOT smaller than ______.","[""8.0 mm\u00b2"",""5.5 mm\u00b2"",""14.0 mm<sup>2<\/sup>"",""3.5 mm\u00b2""]",0
+"In any watercraft, the motor circuit shall have an ampacity of NOT less than ____ of the motors full load current rating.","[""125%"",""100%"",""115%"",""130%""]",1
+"The largest size of electric metallic tubing is","[""75 mm"",""125 mm"",""150 mm"",""100 mm""]",3
+"The overload relay used to protect each motor compressor set shall be selected to trip at NOT more than ____ of the motor-compressor rated load current.","[""125%"",""130%"",""150%"",""140%""]",3
+"Lamp protection shall be provided by elevation of at least ______ meters from the normal working surface.","[""2"",""1"",""2.5"",""3""]",0
+"Type UF cables shall NOT be used ______.","[""as branch circuits"",""as service entrance"",""as direct burial to earth"",""all of these""]",1
+"Where “U” pulls are made on the pull box, the distance between each raceway entry inside the box and the opposite wall of the box shall NOT be less than ____ times the trade diameter of the largest raceway in a row.","[""8"",""7"",""6"",""5""]",2
+"Reference ambient temperature for explosion proof electrical equipment shall be ____ degree Celsius.","[""30"",""40"",""50"",""60""]",2
+"Welding process wherein coalescene is produced by heating with an electric arc with or without the application of pressure and with or without the use of filler metal.","[""Resistance welding"",""Spot welding"",""Arc welding"",""All of these""]",2
+"The use of underground feeder cables may NOT be used in the following conditions EXCEPT one. Which one is this?","[""Embedded in concrete"",""Hazardous location"",""Direct burial"",""Theaters""]",2
+"Face plates of insulating materials shall be noncombustible and less than ____ in thickness.","[""2.5 mm"",""1.5 mm"",""2.0 mm"",""3.0 mm""]",0
+"Conductors supplying two or more motors shall have an ampacity equal to the sum of the FLA rating of all motors plus ____ of the highest motor FLA in the group.","[""30%"",""15%"",""20%"",""25%""]",3
+"Which of the following colors identifies the grounded conductor of a branch circuit?","[""Green"",""Black"",""White"",""Blue""]",2
+"An enclosure of porcelain or other insulating materials fitting with terminals and intended for connecting the flexible chord carrying a pendant to the permanent wiring.","[""Rosette"",""Raceway"",""Cable bus"",""None of these""]",0
+"Receptacles installed for the attachment of portable cords shall be rates at NOT lest than ____ 250 V.","[""20 A"",""30 A"",""10 A"",""15 A""]",3
+"Motors with marked service factor of less than 1.15 shall have an overload protection equal to ____ percent of the motor’s FLA.","[""100"",""125"",""120"",""115""]",3
+"Cables and cords supplied through plugging boxes shall be of","[""aluminum"",""copper"",""aluminum or copper"",""copper-clad aluminum""]",1
+"Overcurrent devices shall be located where they will","[""not be exposed to physical damage."",""Overcurrent devices shall be readily accessible."",""Overcurrent devices maybe located inside clothes closets"",""In a multi-family dwelling, each occupant shall have ready access to all over-current device protecting his occupancy.""]",2
+"A conductor or group of conductors, in switch-gear assemblies which serves as a common connection for two or more circuits.","[""Bus"",""Lug"",""Cut-out"",""Terminal Block""]",0
+"The ampacity of capacitor circuit conductors shall not be less than ____ of the rated current of the capacitor.","[""125%"",""115%"",""135%"",""150%""]",2
+"The alternate or Back-up source of power in a hospital shall have a capacity to sustain its connected loads for a minimum of ______.","[""1.5 hours"",""2.0 hours"",""1.0 hours"",""2.5 hours""]",0
+"Cable trays shall NOT be used in ______.","[""hoistways"",""industrial establishments"",""dry locations"",""all of these""]",0
+"The load for the required branch circuit installed for the supply of exterior signs or outline lighting shall be computed at a minimum of ____ volt-amperes.","[""1,000"",""1,200"",""1,500"",""1,600""]",1
+"The usual function of a disconnect switches in high voltage circuits is to","[""isolate from energized buses, equipment which are not in service"",""open or close the circuit under load"",""open the circuit in the event of an overload"",""maintain continuity of service""]",0
+"Pendant conductors where not cabled and longer than a certain length shall be twisted. What length is this?","[""1,000 mm"",""900 mm"",""600 mm"",""800 mm""]",1
+"The ampacity of the phase conductors from the generator terminals to the first over current device shall NOT be less than ____ percent of the nameplate current rating of the generator.","[""125"",""110"",""115"",""120""]",2
+"What is the maximum number of conductors permitted in a wireway at any cross-section, signal circuit or starter-control wires are not included?","[""30 conductors"",""50 conductors"",""40 conductors"",""25 conductors""]",0
+"Each motor shall be provided with how many disconnects?","[""Two"",""Any number (optional requirement)"",""Only one"",""Not required by the PEC""]",2
+"Energized parts of a generator operated at more then ______ volts to ground shall NOT be exposed to accidental contact where accessible t0 unqualified persons.","[""50"",""30"",""48"",""60""]",0
+"A hoisting and lowering mechanism equipped with a car or platform which moves in guides in a substantially vertical direction and which serves two or more floors of a building or structure.","[""Dumbwaiter"",""Escalator"",""Elevator"",""All of these""]",2
+"An assembly of a flexible cord with an attachment plugs on one end and a cord connector on the other.","[""Extension cord"",""Fixture cord"",""Appliance cord"",""None of these""]",0
+"Any box not over _____cm³ in size, intended for mounting in closed building construction shall; be affixed with anchors or clamps as to provide a rigid and secure installation.","[""1,540"",""1,760"",""1,800"",""1,640""]",3
+"In battery rooms with alkaline batteries, the shelves shall be lined with steel sheet NOT less than _____ thick.","[""70 mm"",""60 mm"",""65 mm"",""75 mm""]",3
+"A disruptive discharge around or over the surface of a solid or liquid insulator.","[""Sparkover"",""Corona"",""Flashover"",""Skin effect""]",2
+"Emergency lighting of ____ lux shall be provided in exit paths from all areas of attended stations.","[""10"",""20"",""30"",""15""]",0
+"An overheated cord often indicates","[""defective cord"",""corroded terminals"",""corroded terminals and detective cord"",""none of these""]",2
+"Individual arrester grounding conductors shall be no smaller than ____ copper.","[""8.0 mm\u00b2"",""14 mm\u00b2"",""5.5 mm\u00b2"",""none of these""]",1
+"A generic term for an artificial source of light.","[""Lumen"",""Lux"",""Candle"",""Lamp""]",3
+"Cable bus shall securely supported at intervals NOT exceeding","[""3,600 mm"",""3,000 mm"",""3,800 mm"",""4,000 mm""]",0
+"Snap switched used with open wiring on insulators shall be mounted on insulating material that separates the conductors at least ____ from the surface wired over.","[""12 mm"",""10 mm"",""11 mm"",""13 mm""]",3
+"The usual nameplate data on DC motors include the following EXCEPT one. Which one is this?","[""Manufacturers name"",""Rated frequency"",""Rated voltage"",""Rated speed""]",1
+"Vertical runs of wireways shall be securely supported at intervals NOT exceeding ____.","[""4,000 mm"",""2,400 mm"",""3,600 mm"",""4,500 mm""]",3
+"Size 0.75 mm² fixture wire has an ampacity of","[""6 A"",""10 A"",""4 A"",""8 A""]",0
+"Type MI cable shall NOT be used ____.","[""in dry, wet or continuously moist locations"",""where exposed to destructive corrosive locations"",""for services, and feeders"",""all of these""]",1
+"Each receptacle for DC plugging boxes shall be rated at NOT less than _____.","[""20 A"",""30 A"",""15 A"",""40 A""]",1
+"Insulated ground conductor of 14 mm² or smaller shall be identifies by a continuous while outers along its entire length or another color which is","[""green"",""natural gray"",""striped green"",""striped white""]",1
+"Metal covers for boxes shall be lined firmly attached insulating material not less than ____ in thickness.","[""0.80 mm"",""0.50 mm"",""0.75 mm"",""0.64 mm""]",0
+"Electrical non-metallic tubing shall NOT be used where the voltage is over","[""500 V"",""230 V"",""300 V"",""600 V""]",3
+"The system neutral conductor shall not be connected to ground EXCEPT","[""when the generator frame is not grounded"",""through the grounding impedance"",""through a grounding transformer"",""when a ground fault is very common""]",1
+"When thermal overload relay are used for the protection of a three-phase induction motor, their primary purpose is to protect the motor in case of","[""short circuit between lines"",""reversal of phase sequence"",""high voltage"",""sustained overload""]",3
+"In type AC cable, all bends shall be made so that the cable will not be damage and the radius of the curve of the inner edge of any bend shall NOT be less than ______ times the diameter.","[""4"",""5"",""6"",""3""]",1
+"Non-metallic sheathed cable shall be supported within from every cabinet, box or fitting","[""150 mm"",""200 mm"",""250 mm"",""300 mm""]",3
+"What is the nominal supply voltage specified by the Philippine Electrical Code for residential homes?","[""225 volts AC"",""230 volts AC"",""240 volts AC"",""220 volts AC""]",1
+"Messenger supported wiring shall NOT be used in ______.","[""hoistways"",""multi-conductor underground feeder"",""metal clad cable"",""all of these""]",0
+"Temporary electrical power and lighting installations shall be permitted for a period not to exceed _____ for Christmas decorative lighting, carnivals and similar purposes.","[""100 days"",""120 days"",""90 days"",""60 days""]",2
+"Which of the following conductors is NOT applicable on wet locations?","[""Type THHN"",""Type THW"",""Type RHW"",""Type THWN""]",0
+"A surge of unidirectional polarity.","[""Skin effect"",""Corona"",""Flashover"",""Impulse""]",3
+"For each small appliance branch circuit, the feeder load shall be ______ per 20 A circuit.","[""1,000 VA"",""1,200 VA"",""1,500 VA"",""1,800 VA""]",2
+"The electrical plans for residential house include the following items EXCEPT one. Which one is this?","[""Substation plan"",""Location plan"",""Floor plan showing location of service"",""Layout of wiring plan for general lighting and receptacle outlets""]",0
+"Tools and portable hand lamps likely to be used in wet and conductive locations shall not be required to be grounded where supplied through an isolating transformer with an ungrounded secondary of not more than","[""100 V"",""150 V"",""50 V"",""none of these""]",2
+"The minimum size of branch circuit capacity to supply laundry receptacle outlets shall be _____.","[""20 A"",""15 A"",""25 A"",""30 A""]",0
+"Conductors in open wiring on insulators shall be rigidly supported within _____ from a tap or splice.","[""200 mm"",""100 mm"",""250 mm"",""150 mm""]",3
+"Main and equipment bonding jumper shall of _____.","[""copper"",""aluminum"",""both A and B"",""neither A or B""]",0
+"The minimum insulation level for neutral conductors of solidly grounded system shall be ______.","[""500 V"",""300 V"",""600 V"",""750 V""]",2
+"For class II lighting materials, the minimum diameter of a solid copper air terminal shall be _____.","[""15.9 mm"",""12.7 mm"",""10.5 mm"",""9.5 mm""]",1
+"Connection between conductive or inductive metal object in an element of a lightning protection system to accomplish electrical continuity","[""Connectors"",""Interlink"",""Counterpoise"",""Bonding""]",3
+"The grounding electrode conductor shall be ______.","[""copper"",""copper-clad-aluminum"",""aluminum"",""all of these""]",3
+"Mats of insulating rubber or other suitable floor insulation shall be provided for the operator where the voltage to ground exceeds","[""150 V"",""100 V"",""250 V"",""none of these""]",0
+"How many 20 A branch circuit shall be provided for all receptacle outlets for the small appliance load?","[""One or more"",""At least two"",""Only one"",""None of these""]",0
+"For a one family dwelling unit having an initial load of 10 kVA or more, the minimum service entrance capacity shall be ______.","[""100 A"",""90 A"",""60 A"",""30 A""]",2
+"Flexible cords used in locations where there is a lot of flying flint or fibers shall comply with following EXCEPT one. Which one is this?","[""It shall be approved for use in locations which are vapor-filled"",""It shall contain in addition to the conductors, a grounding conductor"",""It shall be of type approved for extra hard usage"",""It shall be provided with suitable seal to prevent the entrance of dust""]",2
+"A point at which the load of a given area is assumed to be concentrated.","[""Switchboard"",""Outlet"",""Panel board"",""Load center""]",3
+"The workspace about electrical equipment shall be adequate to permit at least ____ degree opening of doors or hinged panels.","[""90"",""45"",""60"",""75""]",0
+"The multiplying factor for determining the size of branch circuit protection for non-time delay fuse is","[""300%"",""175%"",""250%"",""150%""]",0
+"For banks, the general lighting load shall be computed at _____ per square meters of the floor area.","[""24"",""20"",""30"",""28""]",3
+"In dwelling units, the computed lighting and small appliance load above 120,000 volt-amperes shall be computed at what demand?","[""35%"",""25%"",""45%"",""20%""]",1
+"Which of the following statements is NOT one of the primary objectives of the Philippine Electrical Code?","[""To establish electrical work standards"",""To establish basic materials qualities"",""To ensure safety in using electricity"",""None of these""]",3
+"The Code has been approved and adopted by the Board, PRC. What does the acronym PRC stands for?","[""Philippine Registration Commission"",""Professional Regulation Commission"",""Philippine Regulation Commission"",""Professional Registration Commission""]",1
+"Are sheet metal troughs with hinged or removable covers for housing and protecting electric wires and cables and which conductors are laid in place after this object has been installed as a complete system.","[""Wireways"",""Busways"",""Cable trays"",""Non-metallic extensions""]",0
+"Portable appliances equipped with proper cord and plug caps and NOT more than _____ maybe installed without an electrical permit.","[""1,200 VA"",""1,500 VA"",""1,000 VA"",""1,800 VA""]",0
+"Which of the following is not a standard content of an electrical plan?","[""Location plan"",""Legend and general notes"",""Schedule of maintenance"",""Specifications""]",2
+"When installing cables or raceway type wiring method parallel to the framing members such as joists, rafters, or studs, the cable or raceway shall be installed and supported so that the nearest outside surface of the cable or raceway is NOT less than a certain distance from the nearest edge of the framing member. What is this distance?","[""20 mm"",""30 mm"",""10 mm"",""50 mm""]",3
+"Which of the following is NOT a standard ampere rating of a fuse?","[""60 A"",""125 A"",""45 A"",""55 A""]",3
+"Cabinet and cutout boxes shall have an air space of at least ______ between any energized metal parts of enclosed fuses and the door.","[""20 mm"",""13 mm"",""25 mm"",""15 mm""]",2
+"Auxiliary gutter shall be supported throughout it entire length at intervals _____.","[""1,500 mm"",""1,800 mm"",""1,200 mm"",""1,600 mm""]",0
+"A lighting and appliance branch circuit panel board is one having more than ____ percent of its over-current device rated 30-A or less.","[""10"",""12"",""15"",""16""]",0
+"Open wiring on insulators shall be permitted on systems of up to","[""600 V"",""500 V"",""230 V"",""300 V""]",0
+"Conductors in concealed knob and tube wiring shall maintain a clearance of NOT less than _____ between conductors.","[""64 mm"",""50 mm"",""76 mm"",""100 mm""]",2
+"The minimum size of wire used in electrical wiring is the former number 14 AWG. Under the metric system shown in the PEC, the diameter is","[""2.0 mm"",""3.2 mm"",""1.6 mm"",""2.6 mm""]",2
+"Non-metallic sheathed cable shall be secured in place at intervals NOT exceeding _____.","[""1,300 mm"",""1,200 mm"",""1,500 mm"",""1,800 mm""]",0
+"Motor A has a full load current of 8 A and motor B, 10 A. What is the ampacity of the feeder conductor supplying these two motors?","[""9 A"",""20.5 A"",""18 A"",""24.2 A""]",1
+"The bending radius of type SNM cable shall NOT be less than _____ times the diameter of the cable.","[""3"",""4"",""5"",""6""]",2
+"Flexible metallic tubing shall NOT be used in lengths longer than","[""2,000 mm"",""1,800 mm"",""1,900 mm"",""none of these""]",1
+"Size 1.25 mm<sup>2</sup> fixture wire has an ampacity of ______.","[""10 A"",""8 A"",""12 A"",""9 A""]",1
+"Each transformer up to 600 V nominal shall be protected by an individual over-current device on the primary side at not more than a certain percentage of the rated primary current of the transformer. What is this maximum percentage?","[""110%"",""125%"",""100%"",""140%""]",1
+"Outdoor lighting fixtures and associated equipment ____ permitted to be supported by trees.","[""shall be"",""shall not be"",""either A or B"",""none of these (not specified in the PEC)""]",0
+"Rosettes shall be rated at 660 W, 250 V with a maximum current rating of","[""6 A"",""10 A"",""4 A"",""12 A""]",0
+"Conductors supplying one or more motor-compressors with or without additional loads shall have an ampacity not less than the sum of the rated load plus ____ percent of the highest motor-compressors rating in the group.","[""30"",""25"",""20"",""15""]",1
+"Capacitors containing more than ____ liters of flammable liquid shall be encased in vaults or outdoor fenced enclosures.","[""10"",""12"",""9"",""11""]",3
+"Writings methods/materials allowed by the code for gasoline stations include all the ff. EXCEPT on. Which one is this?","[""Type MI cable with approved terminal fitting"",""Threaded steel intermediate conduit"",""Rigid non-metallic conduit"",""Threaded rigid metal conduit""]",2
+"A main bonding jumper shall be a","[""bus"",""screw"",""wire"",""any of these""]",3
+"What does the symbol consisting of rectangular with solid shading indicate?","[""Fuse cut- out"",""Telephone exchange"",""Safety switch"",""Lighting panel board""]",3
+"The ampacity of conductors supplying therapeutic equipment shall NOT. Be less than ____ of the current rating of the equipment","[""125%"",""115%"",""130%"",""100%""]",3
+"For 800 A circuits, the min. insulation resistance shall be","[""12,000 ohms"",""6,000 ohms"",""5,000 ohms"",""8,000 ohms""]",2
+"Branch circuits shall be classified according to the maximum permitted","[""kW rating"",""voltage rating"",""ampere rating"",""all of these""]",2
+"Medium voltage shall be permitted for installation on the following EXCEPT one. Which one is this?","[""Where installed in cable trays"",""Where exposed to direct sunlight"",""Power system up to 35,000 volts in dry locations"",""Power systems up to 35,000 volts in wet locations""]",1
+"Each autotransformer up to 600 V shall be protected by an individual overcurrent device rated not more than ____ percent of its rated full load current.","[""125"",""150"",""175"",""300""]",0
+"Each of the three 3.5 mm² TW conductors are in a conduit has an ampacity of 20 A. If there will be six of them in the conduit, what will be the ampacity of each conductor?","[""12 A"",""20 A"",""16 A"",""15 A""]",2
+"Branch circuit conductors supplying a single motorcompressor shall have an ampacity not less than ____ of either the motor-compressor rated load or the branch circuit selection current, whichever is larger.","[""100%"",""125%"",""115%"",""130%""]",1
+"What size of branch circuit is required to supply a fixed lighting load of 21.5 A used of continuous duty?","[""30 A"",""20 A"",""40 A"",""25 A""]",0
+"Potential transformers installed indoors or enclosed shall be protected with ____ fuses.","[""Primary"",""Secondary"",""neither A or B"",""both A and B""]",0
+"Which of the ff. is NOT a standard size of disconnect?","[""30 A"",""60 A"",""50 A"",""100 A""]",2
+"A disconnecting means shall be provided in each ungrounded conductor for ach capacitor bank and shall NOT be less than ____ percent of the rated current of the capacitor.","[""125"",""115"",""150"",""135""]",3
+"If a 460-V switch board has exposed parts one side and grounded parts or concrete on the opposite side, what working clearance between the two sides is permitted by the Code?","[""500 mm"",""1,900 mm"",""1,500 mm"",""1,100 mm""]",3
+"Cells in rubber or composition containers shall require no additional insulating supports where the total nominal voltage of all cells in series does NOT exceed a certain level of voltage. What is this level?","[""100 V"",""150 V"",""200 V"",""300 V""]",1
+"What is the maximum load of a 15 A circuit breaker protecting that supplies a continuous load?","[""15 A"",""20 A"",""12 A"",""None of these""]",2
+"Aircraft energizers shall be the so designed and mounted that all electric and fixed wiring shall be at least above floor level.","[""460 mm"",""500 mm"",""640 mm"",""400 mm""]",0
+"Each patient bed location where in patient care is provided at least ____ branch circuit(s).","[""One"",""Two"",""Three"",""Four""]",1
+"Generators compartments shall be lined with galvanized steel, not less than ____ thick.","[""0.40 mm"",""0.50 mm"",""0.30 mm"",""0.60 mm""]",0
+"For a rigid steel conduit of trade diameter 50 mm, the field bend shall be so made that the radius of the inner edge shall not be less than a certain radius of conductors without lead sheathed. What is this radius?","[""450 mm"",""250 mm"",""300 mm"",""375 mm""]",2
+"For all deck or floor plans, the standard scale to be use is","[""1:1000"",""1:10"",""1:100"",""None of these""]",2
+"In locations where flammable anesthetics are employed, the entire area shall be considered hazardous location which shall extend upward to a level ____ above the floor.","[""1,000 mm"",""1,300mm"",""1,800 mm"",""1,500 mm""]",3
+"As rule branch circuits shall NOT be supplied by","[""an autotransformer"",""a generator"",""a transformer"",""a motor generator set""]",0
+"Is a multi-contact switch, which fixes the operation sequence of the major device during starting and stopping or during other sequential switching operations","[""Motor operation sequence switch"",""Manual transfer switch"",""Position Switch"",""Field circuit sequence switch""]",0
+"Circuits from portable switchboards directly supplying equipment containing incandescent lamps of not over 300 W shall be protected by over current device having a setting device","[""15 A"",""20 A"",""30 A"",""40 A""]",1
+"The electrical code requires that electrical plans and drawings shall be drawn on sheets of the ff. standard size. Which one is NOT considered standard?","[""600 mm x 900 mm"",""217 mm x 279 mm"",""760 mm x 100 mm"",""500 mm x 760 mm""]",1
+"Disruptive discharges between electrodes of a measuring gap.","[""Lighting"",""Flashover"",""Surge"",""Spark over""]",3
+"The chassis-grounding terminal of the battery shall be bonded of the vehicle chassis with a copper conductor of ____ size or its equivalent.","[""5.5 mm\u00b2"",""3.5 mm\u00b2"",""8.0 mm\u00b2"",""2.0 mm\u00b2""]",2
+"The length of the cord from the case of attachment plug cap to the point where the enters the mobile home shall NOT be less than","[""5 m"",""10 m"",""8 m"",""6 m""]",3
+"Non-metallic sheathed cables shall be supported within of a non-metallic outlet box without cables lamps","[""200 mm"",""150 mm"",""180 mm"",""220 mm""]",0
+"A test lamp using and ordinary bulb is use to test one of the following. Which one is this?","[""Overload"",""DC or AC check"",""Polarity check"",""Ground check""]",3
+"Air conditioning load has a demand load of","[""80%"",""100%"",""125%"",""150%""]",1
+"How many sets of the complete electrical plans and specifications singed and sealed by a PEE shall be submitted as one of the requirements in filling for an electrical permit?","[""5"",""4"",""3"",""None of these""]",0
+"If there will be six or more 2-wire branch circuits for a one family dwelling unit the minimum service entrance capacity shall be","[""60 A"",""100 A"",""90 A"",""120 A""]",1
+"A unit of an electrical system which is intended to carry but not utilize electric energy.","[""Wire"",""Device"",""Outlet"",""Utilization equipment""]",1
+"Service entrance cables shall be supported at intervals NOT exceeding.","[""900 mm"",""800 mm"",""760 mm"",""1000 mm""]",2
+"An over current device with a circuit opening fusible part that is heated and severed by the passage of over current through it.","[""Overload relay"",""Fuse"",""Thermocouple"",""Magnetic contactor""]",1
+"What is the maximum size of lighting load that can be connected to a 20-A single phase branch circuit supplying a fixed appliance load of 7 A?","[""10 A"",""16 A"",""12 A"",""8 A""]",0
+"If an electrician does not understand the instruction that were given by the supervisor which of the ff. is the best for him to do?","[""He asks that the instruction be repeated and clarified"",""He does the job the way he thinks best"",""He work out the solution to the problem himself"",""He gets one of the other electricians to do the job""]",0
+"The branch circuit load for dying equipment is the larger of either the VA rating of the nameplate or","[""5,000 VA"",""6,000 VA"",""4,000 VA"",""3,000 VA""]",0
+"For hallways ____ or more in length at least one receptacle outlet shall be installed.","[""2,000 mm"",""4,000 mm"",""5,000 mm"",""3,000 mm""]",3
+"The minimum headroom of working space about service equipment switchboard, panel board, etc. shall be","[""1,800 mm"",""2,000 mm"",""1,700 mm"",""1,900 mm""]",3
+"The equipment-grounded conductor of a branch circuit shall be identified by a continuous ____ color.","[""White"",""Yellow"",""Green"",""Gray""]",2
+"The sum of the continuous ratings of the load consuming apparatus connected to the system or any part thereof.","[""Peak load"",""Connected load"",""Average load"",""Continuous load""]",1
+"An outlet box should be fastened to a concrete wall by the use of","[""Wood plug and nail"",""Toggle bolts"",""Porcelain insert and screw"",""Expansions bolts""]",3
+"A ___ branch circuit shall be permitted to supply fixed lighting units with heavy duty lamp holders.","[""40 A"",""20 A"",""50 A"",""30 A""]",3
+"The path to ground from circuits equipment and metal enclosures for conductors shall","[""have capacity to conduct safely any fault current"",""have sufficiently low impedance"",""be permanent and continuous"",""all of these""]",3
+"Where the voltage between conductors does not exceed 300 V and the roof has a slope of not less than 100 mm in 300 mm, the clearance can be reduced to","[""500 mm"",""800 mm"",""1000 mm"",""900 mm""]",2
+"The uses of non-metallic extensions are NOT allowed in all but one of the following. Which one is this?","[""As an aerial cable"",""Where exposed to corrosive vapors"",""Where subject to corrosive vapors"",""Through floors or partitions""]",2
+"What is the minimum horizontal clearance for open conductors from windows, doors, porches, fire escapes or similar location?","[""1800 mm"",""1500 mm"",""1200 mm"",""1000 mm""]",3
+"What is the maximum allowed temperature of type TW conductors?","[""75\u00b0C"",""50\u00b0C"",""60\u00b0C"",""90\u00b0C""]",2
+"Concealed knob and tube wiring conductors shall be rigidly supported on knobs not more than a certain minimum distance apart. What is this distance?","[""2,000 mm"",""1,500 mm"",""1,300 mm"",""2,500 mm""]",2
+"In the installation of power resistors, a thermal barrier shall be required if the space between the resistors and any combustible material is less than ______ mm. What is this minimum clearance?","[""150 mm"",""300 mm"",""200 mm"",""250 mm""]",1
+"In estimating the loading of a branch circuit, what loading shall be used for each receptacle?","[""160 volt-ampere"",""120 volt-ampere"",""180 volt-ampere"",""150 volt-ampere""]",2
+"Where the conduits enter a switchboard at the bottom, a sufficient space shall be provided to permit installation of the conductors in the enclosure. The minimum spacing between the bottom of the enclosure and the non-insulated bus bar shall be ________.","[""155 mm"",""300 mm"",""255 mm"",""200 mm""]",2
+"What is the minimum vertical, horizontal or diagonal clearance for open conductors from signs, chimneys, radio and televisions, antennas, tanks, or other non-building structure?","[""1000 mm"",""1500 mm"",""1800 mm"",""1200 mm""]",0
+"Contact device installed at the outlet for the connection of a single attachment plug.","[""Junction box"",""Reactor"",""Rosette"",""Receptacle""]",3
+"With respect to the safety value of the insulation on electrical maintenance tools, it can be said properly that","[""the insulation provides very little protection"",""its value is mainly to the untrained electrical helper"",""the insulation should not be used as the only protective measure"",""it adequately insures the safety of the user""]",2
+"For the range of 8.75 kW or more in rating, the minimum branch circuit rating shall be","[""30 A"",""40 A"",""50 A"",""60 A""]",1
+"Service heads and goosenecks in service entrance cable shall be ____ point of attachment of the service drop to the building.","[""above the"",""below the"",""at the center of the"",""at the back of the""]",0
+"A disruptive discharge around or over the surface of a solid or liquid insulator.","[""Flashover"",""Sparkover"",""Corona"",""Surge""]",0
+"The minimum size of service lateral conductors using copper wires shall be _____.","[""5.5 mm<sup>2<\/sup>"",""3.5 mm<sup>2 <\/sup>"",""8.0 mm<sup>2<\/sup>"",""2.0 mm<sup>2<\/sup>""]",0
+"Plug fuses shall not be installed in circuits exceeding ____ between conductors.","[""125 V"",""250 V"",""300 V"",""150 V""]",1
+"A continuous electrical load is one where the maximum current is expected to continue for a minimum duration of time. What is this minimum duration of time?","[""1 hour"",""4 hour"",""3 hour"",""2 hour""]",2
+"Direct buried conductors and cables emerging from the ground shall be protected by enclosures or raceways extending from the minimum cover distance required to a point ____ above finished grade.","[""2,000 mm"",""2,500 mm"",""2,400 mm"",""3,000 mm""]",2
+"For installations to supply only limited loads of a single branch circuit, service entrance conductors shall NOT be smaller than ____ hard drawn copper.","[""3.5 mm<sup>2<\/sup>"",""8.0 mm<sup>2 <\/sup>"",""5.5 mm<sup>2<\/sup>"",""14.0 mm<sup>2<\/sup>""]",0
+"The upper most portion of a lightning protection system.","[""Surge Arrester"",""Lightning rod"",""Ground terminal"",""Air terminal""]",3
+"Where no standard electrical equipment of the exact size or rating required is available, ____ maybe used.","[""the next lower standard size"",""the next larger standard size"",""any size available"",""none of these""]",1
+"The minimum size of service drop copper conductors allowed by the Philippine Electrical Code is one of the following. Which is the size?","[""3.5 mm<sup>2<\/sup>"",""5.5 mm<sup>2 <\/sup>"",""2.0 mm<sup>2<\/sup>"",""8.0 mm<sup>2<\/sup>""]",3
+"Entrances to rooms and other guarded locations containing exposed energized parts shall be marked with a ______.","[""welcome sign"",""no entry sign"",""warning sign"",""all of these""]",2
+"Appliance outlets installed in a dwelling unit for specific appliances, such as laundry equipment, shall be installed within ____ of the intended location of the appliance.","[""1,800 mm"",""1,500 mm"",""2,000 mm"",""1,000 mm""]",0
+"What is the maximum permitted load of a 20-A branch circuit?","[""20 A"",""15 A"",""12 A"",""16 A""]",3
+"For warehouses or storage, a general lighting load of _____ shall never be used.","[""2 VA\/m<sup>2<\/sup>"",""4 VA\/m<sup>2<\/sup>"",""8 VA\/m<sup>2<\/sup>"",""10 VA\/m<sup>2<\/sup>""]",0
+"Outlets for heavy-duty lamp holders shall be rated ______.","[""500 VA"",""600 VA"",""660 VA"",""550 VA""]",1
+"When fastening an outlet to a brick wall, the electrician should use no one of the following. Which one is this?","[""Expansion bolts"",""Toggle bolts"",""Temporary nail"",""Wooden plug and nail""]",0
+"A portion of a lightning protection system extending into the earth.","[""Air terminal"",""Counterpoise"",""Surge Arrester"",""Ground terminal""]",3
+"Open conductors passing over public streets, alleys, roads, parking areas subject to truck traffic shall maintain a vertical height _____ from finished grade.","[""3,700 mm"",""4,600 mm"",""5,500 mm"",""3,100 mm""]",2
+"Using copper, the minimum size of service entrance conductors shall be _____.","[""14.0 mm<sup>2<\/sup>"",""8.0 mm<sup>2 <\/sup>"",""5.5 mm<sup>2<\/sup>"",""3.5 mm<sup>2<\/sup>""]",1
+"When testing the insulation integrity of a new or old electrical wiring installation circuit of 5.5 mm2 conductors, the Code specifies a minimum insulation resistance of what value?","[""1,000,000 ohms"",""250,000 ohms"",""500,00 ohms"",""100,00 ohms""]",1
+"What test is usually made on cables after installation?","[""Copper loss test"",""No-load test"",""Insulation resistance test"",""Ampacity test""]",2
+"For four to six conductors in a conduit, the derating factor for the conductor ampacity is ____.","[""70%"",""90%"",""80%"",""60%""]",2
+"When soldering two copper surfaces together, they should be kept clean while heating by","[""applying the solder quickly"",""not admitting the open flame to touch the copper surfaces"",""frequently rubbing the tip with emery cloth"",""the use of flux""]",3
+"Circuit of a voltage of 600 V or less in a rigid metal conduit or in a rigid metal conduit or in rigid non-metallic conduit approved for direct burial and placed under driveway and parking areas of a one or two family dwelling units, shall have minimum cover distance of ____.","[""300 mm"",""150 mm"",""460 mm"",""600 mm""]",2
+"Plate electrodes of non ferrous metal shall be at least ____ in thickness.","[""1.2 mm"",""1.4 mm"",""1.5 mm"",""1.8 mm""]",2
+"Conductors are selected at not less than ____ of nameplate rating of the water heater.","[""125%"",""100%"",""120%"",""130%""]",0
+"The Philippine Electrical Code requires at no electrical installation, alteration or addition shall be connected or reconnected to any electrical power supply without _____.","[""payments of application fees"",""a certificate of inspection"",""an electrical permit"",""a certificate of completion""]",1
+"Neutral current up to _____ is computed at 100%.","[""100 A"",""150 A"",""200 A"",""300 A""]",2
+"In the general layout of motors and power outlets not exceeding a total of ____ maybe including in the lighting layout provided such inclusion will not make the reading, interpretation and or checking of the said plan difficult.","[""8"",""10"",""12"",""6""]",1
+"Direct grade level access is defined as being located not more than ____ above grade level and being readily accessible.","[""2,000 mm"",""1,500 mm"",""1,800 mm"",""2,500 mm""]",0
+"For the armories and auditorium, the general lighting load shall be ____ VA/m².","[""8"",""12"",""10"",""16""]",0
+"Before the ammeter is disconnected from an energized current transformer circuit, one of the procedures should be followed. Which is the one?","[""Primary winding should be shorted"",""Secondary winding should be shorted"",""Secondary winding should be opened"",""Primary winding should be opened""]",3
+"Power conductors on the poles, below communication conductors shall maintain a spacing distance of _____.","[""760 mm"",""600 mm"",""800 mm"",""540 mm""]",0
+"It is the intent of the PEC that factory-installed internal wiring or the construction of the equipment need not be inspected at the time of installation of the equipment EXCEPT","[""to test for continuity"",""to test for durability"",""to detect alternator or damages"",""all of these""]",2
+"The standard conductor sizes shall be expressed in","[""mils"",""circular mils"",""square millimeters"",""American wire gauge""]",2
+"Mandatory rules of the PEC are characterized by the use of the word ____.","[""shall"",""should"",""both A and B"",""neither A and B""]",0
+"Where the neutral is NOT available, the grounding impedance shall be installed between the _____.","[""grounding electrode and any of the current carrying conductor"",""grounding electrode and any neutral derived from grounding transformer"",""grounding electrode and the system neutral of other station"",""all of these""]",1
+"The voltage developed between the portable or mobile equipment frame and ground by the flow of maximum ground fault current shall NOT exceed ____.","[""100 V"",""50 V"",""150 V"",""30 V""]",0
+"A single electrode consisting of a rod, pipe or plate shall have resistance to ground of _____ or less.","[""20 ohms"",""15 ohms"",""25 ohms"",""30 ohms""]",2
+"Where more than one electrode is used, each electrode of one grounding system shall NOT be less than _____ from any other electrodes of another grounding system.","[""1,800 mm"",""2,000 mm"",""2,400 mm"",""1,900 mm""]",3
+"Who shall make the final decision in the implementation of controversial provisions of the Philippine Electrical code?","[""IIEE Board of Governors"",""Board of Electrical Engineering"",""Building Official"",""IIEE Code Committee""]",1
+"For equipment protected by a 20-A over current device, the minimum size of the equipment grounding conductor using copper shall be _____.","[""2.0 mm\u00b2"",""3.5 mm\u00b2"",""1.25 mm<sup>2<\/sup>"",""5.5 mm\u00b2""]",1
+"The height of the air terminals shall be such as to bring the tip not less than ____ above the object to be protected for 6,000-mm maximum intervals.","[""250 mm"",""254 mm"",""300 mm"",""150 mm""]",1
+"The minimum clearance between the overhead ground wires and the highest protection on the protected structure shall be _____.","[""1,600 mm"",""1,500 mm"",""1,800 mm"",""1,700 mm""]",2
+"Which of the following conductors is applicable only on dry locations?","[""type THW"",""type THWN"",""type RH"",""None of these""]",2
+"Enclosures for over current devices shall be mounted in _____ position.","[""horizontal"",""vertical"",""diagonal"",""any of these""]",1
+"What is the minimum depth of clear working space in front of a switchboard rated at 4,160 volts, where there are exposed energized parts on both sides of the workspace?","[""1,000 mm"",""1,900 mm"",""1,600 mm"",""2,000 mm""]",1
+"A 2.0mm² TW copper conductors has an ampacity equal to______.","[""20 A"",""10 A"",""15 A"",""25 A""]",2
+"Circuits with voltage of 600 V or less in a rigid non-metallic conduit approved for direct burial without concrete encasement and placed in trench below a 50 mm thick concrete or equivalent shall have a minimum cover distance of _____.","[""300 mm"",""400 mm"",""460 mm"",""200 mm""]",0
+"A single enclosed raceway for conductors or cables.","[""Box"",""Duct"",""Cabinet"",""Gutter""]",1
+"Which of the following statement is NOT correct?","[""The use of inductive ballast for fluorescent lamps is usually because it is the most efficient."",""Lighting fixtures having exposed ballast shall be so installed that they will not be in contact with combustible materials."",""Ballast which incorporates an auto-transformer to raise the voltage to more than 300 V shall be supplied only by a supply system which is grounded."",""A receptacle outlet installed outdoors shall be located so that water accumulation is not likely to touch the outlet cover or plate.""]",0
+"Conductor crossings of more than ____ type FCC cable runs shall not be permitted.","[""two"",""three"",""four"",""five""]",0
+"A generator set used for standby power systems shall have a time delay feature permitting a ____ minute setting to avoid retransfer in case of short time reestablishment of the normal source.","[""10"",""8"",""12"",""15""]",3
+"Rigid metal conduit shall be firmly fastened within ____ of each outlet box.","[""800 mm"",""900 mm"",""760 mm"",""600 mm""]",1
+"Type TW conductors have a minimum operating temperature of _____.","[""75\u00b0C"",""50\u00b0C"",""60\u00b0C"",""90\u00b0C""]",2
+"Type UF cable shall be permitted for use ______.","[""underground including direct burial to earth"",""underground but concealed with a rigid metal conduit"",""underground but not direct burial to earth"",""none of these""]",0
+"Enclosures of metal foe electrodes of electric discharge tubing’s shall NOT be less than ______ thick sheet metal.","[""0.40 mm"",""0.35 mm"",""0.45 mm"",""0.50 mm""]",3
+"A general-purpose single-phase motor rated 0.5 hp has a current rating of 5 A. What should be the setting of the overload relay that is installed to protect the motor? Assume the service factor of the motor to be 1.0.","[""5.75 A"",""5.5 A"",""5.0 A"",""6.25 A""]",0
+"The grounded conductor of type FC (flat conductor) cable shall be identified by means of a distinctive and durable white or ____ marking.","[""green"",""natural gray"",""brown"",""yellow stripe""]",1
+"For multiple motors on a single crane or hoist, the minimum circuit ampacity of the power conductor shall be the nameplate full load ampere raring of the largest motor for any single crane motion, plus ____ percent of the nameplate full load ampere rating of the next largest motor.","[""25%"",""30%"",""40%"",""50%""]",3
+"Individuality covered or insulated grounding conductors shall have a continuous outer finish that is either green, or green with one more ______ stripes.","[""white"",""gray"",""yellow"",""violet""]",2
+"Intermediate metal conduit shall be shipped in standard lengths of ______.","[""5,000 mm"",""4,000 mm"",""2,000 mm"",""3,000 mm""]",3
+"The smallest copper conductor of type MC cable shall be ______.","[""2.0 mm\u00b2"",""1.25 mm\u00b2"",""0.75 mm<sup>2<\/sup>"",""3.5 mm\u00b2""]",2
+"If a bare live conductor is touched accidentally, the severity of the electric shock is determined primarily by","[""the size of the conductor"",""the type of the power supply, whether AC or DC"",""the contact resistance between the bare wire and the person at the point of contact"",""the current flowing in the conductor""]",2
+"Smallest electrical trade size for flexible metal conduit.","[""15 mm"",""20 mm"",""25 mm"",""10 mm""]",0
+"As applied to circuit breaker, a term indicating there is purposely introduced a delay in the tripping action of the CB.","[""Delay-on"",""Adjustable trip"",""Inverse time"",""Delay-off""]",2
+"A factory assembly of one or more conductors each individually insulated and enclosed in a loose fit nonmetallic flexible conduit as an integrated gas spacer.","[""type MC"",""type NMC"",""type FCC"",""type IGS""]",3
+"Hazardous locations are classified by the Philippine Electrical Code in how many classes?","[""Two classes"",""Four classes"",""Three classes"",""One class""]",2
+"The branch of circuit conductors supplying one or more units of data processing system shall have an ampacity NOT less than ____ of the total connected load.","[""110%"",""125%"",""100%"",""115%""]",1
+"The main disconnecting means for all electric driven irrigation machines shall be visible and NOT more than ____ from the machine.","[""10 m"",""15 m"",""12 m"",""8 m""]",1
+"A factory assembly of two or more insulated conductors having an outer sheath of moisture resistant flame-retardant, non-metallic material.","[""Non-metallic sheathed cable"",""Mineral insulated cable"",""Armored cable"",""Medium voltage cable""]",0
+"The bottom of sign and outline lighting enclosures shall NOT be less than _____ above areas accessible to vehicles.","[""5,000 m"",""4,800 m"",""4,700 m"",""4,900 m""]",3
+"Which is the most important thing to do when a person has been shocked by electricity?","[""Separate the victim from the electric wire as soon as possible making sure that you do not become another victim"",""Call for competent help"",""Apply resuscitation"",""Disconnect the switch""]",0
+"As applied to lighting protection, an attachment to secure the conductor to the structure or building.","[""Bonder"",""Stapler"",""Support"",""Fastener""]",3
+"In a watercraft, when the source of electric power is a generator, it shall be automatically started and connected to the emergency switchboard within ____ seconds of loss of the main source of electrical power.","[""40"",""50"",""25"",""45""]",3
+"Generator neutral maybe connected in common, provided that the third harmonic content of the waveform of each generator does NOT exceed _____.","[""3%"",""4%"",""5%"",""6%""]",2
+"As a general rule, equipment rated 1,000A or more and measuring more than 1,900 mm wide, containing over current devices, shall have an entrance at both ends of the switchboard room. The width and height of each entrance shall be NOT less than the following dimensions. Which one is correct?","[""800 mm wide x 2,000 mm high"",""600 mm wide x 2,000 mm high"",""600 mm wide x 2,200 mm high"",""800 mm wide x 2,200 mm high""]",1
+"Type AC cable shall be secured by approved staples, straps hangers or similar fittings within _____ from every outlet box, junction box, cabinet or fitting.","[""200 mm"",""150 mm"",""400 mm"",""300 mm""]",3
+"Maximum electric trade size of liquid tight flexible metal conduit.","[""125 mm"",""150 mm"",""100 mm"",""200 mm""]",2
+"Communication conductors shall be separated at least _____ from conductors of any electric light or power circuits.","[""50 mm"",""40 mm"",""60 mm"",""75 mm""]",0
+"Receptacles used in circuits operating at less than 50 V shall have an ampere rating of not less than _____.","[""20 A"",""10 A"",""15 A"",""5 A""]",2
+"Each resistance welder shall have an over current device rated set not more than ______ percent of the conductor rating.","[""300"",""250"",""175"",""150""]",0
+"To support conduit on a hollow block wall, use one of the following methods. Which one is this?","[""Machine screw"",""Lag screw"",""Toggle bolt"",""Through bolt""]",2
+"Circuit containing electric discharge lighting transformers exclusively shall NOT be rated in excess of ______.","[""20 A"",""30 A"",""15 A"",""40 A""]",1
+"Conductors external to motors and control in cranes and hoist shall NOT be smaller than _____.","[""2.0 mm\u00b2"",""1.25 mm\u00b2"",""3.5 mm<sup>2<\/sup>"",""0.75 mm\u00b2""]",1
+"For three crane supplied by a common conductor system, a demand factor of ______ percent shall be used.","[""90%"",""91%"",""92%"",""88%""]",1
+"Intermediate metal conduit shall be supported at least every ______.","[""2,500 mm"",""2,000 mm"",""1,800 mm"",""3,000 mm""]",2
+"An over current device rated or set at NOT more than _____ percent of the conductor rating shall protect conductors that supply one or more motor generator arc welders.","[""300"",""200"",""150"",""125""]",1
+"Type MI cables shall permitted for ______.","[""branch circuits"",""feeder circuits"",""services"",""all of these""]",3
+"Conductors in open wiring on insulators shall be supported at intervals NOT exceeding _____.","[""1,200 mm"",""1,500 mm"",""1,300 mm"",""1,400 mm""]",2
+"A hoisting and lowering mechanism equipment with a car which moves in guides in a substantially vertical direction, the floor area of which does not exceed 0.85 m² and which is used exclusively for carrying materials.","[""Elevator"",""Stairway chair lifts"",""Dumbwaiter"",""None of these""]",2
+"Which of the motor starters does not stress the motor winding severely?","[""Across the line starter"",""Wye- delta starter"",""Soft-start starter"",""Transformer-type starter""]",0
+"The demand factor for two elevators on a single feeder shall be _____.","[""95%"",""96%"",""94%"",""97%""]",0
+"Concealed knob and tube wiring shall NOT be used in","[""theaters"",""motion picture studios"",""commercial garage"",""all of these""]",3
+"In the banks and office buildings, a unit load of ____ VA per square meters shall be included for the general purpose receptacle outlets when the actual number of outlets is unknown.","[""6"",""8"",""10"",""12""]",1
+"Type AC cable shall be permitted in one of the following. Which one is it?","[""for branch circuits"",""for feeders"",""in cable trays where identified for such usage"",""all of these""]",3
+"Interlocked type armored cable or corrugated sheath cables shall have a bending radius of NOT less than ____ times the external diameter of the metallic sheath.","[""7"",""10"",""12"",""5""]",0
+"The use of rigid metal conduits shall be permitted under all atmospheric conditions subject of the following conditions EXCEPT one. Which one is this?","[""Aluminum fittings and enclosures shall be permitted to be used with rigid steel conduits."",""Ferrous metal conduits shall be permitted to be installed in concrete."",""Conduits shall be permitted to be used in sand fill which is subject to permanent moisture."",""Where the ferrous raceways are protected solely by enamel, the use is permitted only indoors.""]",2
+"The radius of the inner edge of any bend for type MI cables shall NOT be less than ____ times the diameter of the cable.","[""5"",""6"",""7"",""8""]",0
+"The rating the branch circuit using flat cable assemblies shall NOT exceed ____.","[""40 A"",""30 A"",""20 A"",""10 A""]",1
+"Where receptacles are connected to a 20-A branch circuit, the maximum allowable cord and plug connected to load shall not be more than","[""30 A"",""24 A"",""16 A"",""20 A""]",1
+"At least how many receptacle outlet(s) shall be installed in the bathroom?","[""One"",""Two"",""Three"",""None of these (Not specified in the PEC)""]",0
+"Rigid metal conduit shall be supported at least every______.","[""2,000 mm"",""2,500 mm"",""3,000 mm"",""1,500 mm""]",2
+"What is the maximum allowable voltage drop from the distribution panel to the farthest load?","[""10%"",""5%"",""3%"",""2%""]",1
+"An exposed wiring method using cleats, knobs, tubes and flexible tubing for the protection and support of single insulated conductor run in or on building or not concealed by the building structure.","[""Open wiring on insulators"",""Concealed knob and tube wiring"",""Armored cable wiring"",""Metal clad cable wiring""]",0
+"Conductors in concealed knob and tube wiring shall maintain a clearance of NOT less than ____ between the conductor and the surface over which it passes.","[""30 mm"",""25 mm"",""28 mm"",""26 mm""]",3
+"General purpose and appliance branch circuits using type FCC cable shall have ratings NOT exceeding ______.","[""20 A"",""15 A"",""30 A"",""40 A""]",0
+"A unit or assembly of units or sections and associated fittings, forming a rigid structural system used to support cables.","[""Cable tray"",""Cable bus"",""Wire way"",""Bus way""]",0
+"Over-current in transformers affect all of the following EXCEPT","[""breather effectiveness"",""mechanical stresses"",""life insulation"",""rise in temperature""]",0
+"The rating of the branch circuit serving a continuous load shall NOT exceed ____ percent of the continuous load.","[""100"",""130"",""125"",""115""]",2
+"One or more non-metallic surface extensions shall be permitted to be run in any direction from an existing outlet, but NOT on the floor or within ____ from the floor.","[""50 mm"",""100 mm"",""75 mm"",""25 mm""]",0
+"Where a conduit enters a box, fitting or other enclosure, a ____ shall be provided to protect the wire from abrasion.","[""lock nut"",""fuse"",""fastener"",""bushing""]",3
+"Bonding jumpers which connect communications cable grounding conductions and the grounding electrode of the building shall NOT be smaller than what copper size?","[""5.5 mm<sup>2<\/sup>"",""8.0 mm<sup>2<\/sup>"",""14.0 mm<sup>2<\/sup>"",""3.5 mm<sup>2<\/sup>""]",2
+"In hospitals, the general lighting load required shall be _____.","[""24 VA\/m<sup>2<\/sup>"",""12 VA\/m<sup>2<\/sup>"",""16 VA\/m<sup>2<\/sup>"",""28 VA\/m<sup>2<\/sup>""]",2
+"Each plate electrode shall expose NOT less than ____ of surface to exterior soil.","[""one-fifth square meter"",""one-fourth square meter"",""one-third square meter"",""one-half square meter""]",0
+"Non-metallic sheathed cable shall NOT have a bending radius less than _____ times the diameter of the cable.","[""8"",""7"",""5"",""6""]",2
+"Conductors after the final over-current device and before the load served.","[""Branch circuit conductors"",""Service conductors"",""Feeder conductors"",""None of these""]",0
+"In every drawing, the title block shall be a standard st rip, which shall contain the name of the project, owner, title of the sheet, scale used, name and signature of the PEE. How wide is this strip?","[""35 mm"",""30 mm"",""40 mm"",""45 mm""]",2
+"Intermittent operation in which the load conditions is regularly recurrent.","[""Varying duty"",""Intermittent duty"",""Periodic duty"",""Short time duty""]",2
+"A factory assembly of two or more insulated conductors with or without associated bare or covered grounding conductor under a non-metallic sheath, approved for installation in cable trays or in raceways.","[""type NM"",""type FCC"",""type TC"",""type USE""]",2
+"Rod electrodes of steel or iron shall be at least ____ in diameter.","[""10 mm"",""12 mm"",""14 mm"",""16 mm""]",3
+"The minimum size of conductors to be used for lighting purposes is","[""1.5 mm<sup>2<\/sup>"",""1.75 mm<sup>2<\/sup>"",""1.25 mm<sup>2<\/sup>"",""2.0 mm<sup>2<\/sup>""]",3
+"Conductors on poles shall have a separation of NOT less than _____ where not placed on racks or brackets.","[""300 mm"",""250 mm"",""400 mm"",""150 mm""]",0
+"Type FCC cable shall be permitted for the following applications EXCEPT one. Which one is this?","[""for branch circuits"",""for service entrance"",""in damp locations"",""in heated floors""]",1
+"Non-metallic surface extensions shall be secured in place by approved means at intervals NOT exceeding ____.","[""100 mm"",""500 mm"",""300 mm"",""200 mm""]",3
+"Any unguarded metal sheathed service cable, service conduits, metal fixtures and similar non-current carrying parts, if located in urban districts and where liable to be charged to more than a certain voltage to ground shall be isolated or guarded so as not to be exposed to accidental contact by unauthorized persons. What is this voltage?","[""1000 V"",""500 V"",""150 V"",""300 V""]",3
+"Auxiliary gutters may enclose conductors or busbars but shall NOT enclose which of the following?","[""Switches"",""Over-current devices"",""Appliances"",""All of these""]",3
+"Republic act which is known as the “New Electrical Engineering Law”.","[""RA 7902"",""RA 7290"",""RA 7920"",""RA 7209""]",2
+"Where an intermediate metal conduit is used, there shall not be more than the equivalent of ____ quarter bends between pull points.","[""3"",""4"",""5"",""6""]",1
+"Underground cable feeder and branch circuit cables shall be permitted for use in any of the following applications EXCEPT one. Which one is this?","[""Where embedded in poured concrete"",""For interior wiring"",""For direct burial"",""Where used in corrosive locations""]",1
+"Rigid metal conduits smaller than _____ electrical trade size shall NOT be used.","[""15 mm"",""20 mm"",""12 mm"",""16 mm""]",0
+"Flexible metal conduit shall be secured by an approved means at intervals NOT exceeding _____.","[""1200 mm"",""1300 mm"",""1500 mm"",""1400 mm""]",1
+"Which of the following premises wiring installations is NOT covered in the scope of the Philippine Electrical Code?","[""Parking lots"",""Dockyards"",""Quarries and mines"",""Motor vehicles""]",3
+"Service entrance conductors passing over roots shall have a clearance over the roof which they pass of","[""1000 mm"",""2000 mm"",""1500 mm"",""2500 mm""]",3
+"The conductors including splices and taps shall NOT fill the wireway to more than ____ percent of its area at that point.","[""65"",""70"",""75"",""80""]",2
+"Liquid-tight metal conduit smaller than ____ electrical trade size shall NOT be used.","[""20 mm"",""15 mm"",""12 mm"",""none of these""]",1
+"Service drop conductors passing over residential property and driveways and those commercial areas not subject to truck traffic shall have a vertical clearance of ____.","[""4600 mm"",""5500 mm"",""3700 mm"",""4800 mm""]",0
+"The equipment bonding jumper shall be permitted to be installed inside or outside of a raceway or enclosures where installed on the outside, the length of the equipment bonding jumper shall NOT exceed ____.","[""2000 mm"",""1500 mm"",""1800 mm"",""1200 mm""]",2
+"An electrician should consider all electrical equipment live unless he definitely knows that they are not. The main reason of this practice is to avoid.","[""personal injury"",""energizing the wrong circuit"",""de-energizing the wrong circuit"",""unnecessary work""]",0
+"Electrical floor assemblies shall NOT be installed _____.","[""where subject to corroded vapors"",""outdoors"",""in wet or damp locations"",""all of these""]",3
+"In cases where there are energized parts normally exposed on the front of switchboards or motor control centers, the working space in front shall NOT be less than _____.","[""1000 mm"",""1500 mm"",""2000 mm"",""1800 mm""]",0
+"Cabinet and cutout boxes shall have an air space of at least ____ between the base of the device and the wall of any metal cabinet or cutout box in which the device is mounted.","[""1.5 mm"",""1.8 mm"",""2.0 mm"",""2.4 mm""]",2
+"Service conductors in cable shall NOT be smaller than ______.","[""5.5 mm<sup>2<\/sup>"",""3.5 mm<sup>2<\/sup>"",""8.0 mm<sup>2<\/sup>"",""14.0 mm<sup>2<\/sup>""]",0
+"For non-dwelling receptacles loads, the demand factor for the first 10 kVA or less shall be","[""60%"",""70%"",""80%"",""100%""]",3
+"In each conduit run entering an enclosure for switches, circuit breakers, relays and others that may produce high temperatures, seals on the conduit shall be installed within the certain length before entering the enclosure. What is this length?","[""900 mm"",""750 mm"",""250 mm"",""460 mm""]",3
+"The ampacity of the conductors can be derated at most, _____ times(s).","[""two"",""one"",""three"",""four""]",2
+"In the schedule of loads for lighting, which of the following contents is NOT necessary?","[""Protective device rating"",""Panel as numbered in the feeder diagram"",""Number of lighting outlets per circuit"",""Frequency rating""]",3
+"If potential exceeding _____ are employed, a permanent warning sign shall be displayed.","[""600 V"",""500 V"",""300 V"",""1,000 V""]",0
+"Communication conductors shall NOT be smaller than _____.","[""2.0 mm<sup>2<\/sup>"",""3.5 mm<sup>2<\/sup>"",""1.25 mm<sup>2<\/sup>"",""5.5 mm<sup>2<\/sup>""]",0
+"Receptacle and attachment plugs shall be permitted to be of lower ampere rating than the branch circuit but NOT less than ____ percent of the fixture full load current.","[""100"",""125"",""115"",""130""]",1
+"A wye-delta starter for a single voltage three phase squirrel cage induction motor would require the connection of a certain number of wires from the motor. How many wires would be needed?","[""3 wires"",""9 wires"",""6 wires"",""12 wires""]",2
+"At least how many receptacle outlet(s) shall be installed outdoors for a one family dwelling unit?","[""One"",""Two"",""Three"",""None of these""]",0
+"What is the maximum permitted load of a 15 A branch circuit?","[""10 A"",""15 A"",""12 A"",""8 A""]",2
+"Where a feeder supplies continuous load or any combination of continuous and non-continuous load. The rating of the overcurrent device shall NOT be less than the non-continuous load plus _____ of the continuous load.","[""125%"",""110%"",""150%"",""175%""]",0
+"Faceplates of insulting material shall not be combustible and NOT less than _____ in thickness.","[""2.0 mm"",""2.3 mm"",""3.0 mm"",""2.5 mm""]",1
+"For raceway 20 mm trade size or larger containing conductors 22 mm<sup>2</sup> or larger, the minimum length of the box in straight pulls shall NOT be less than _____ times the trade diameter of the largest raceway.","[""8"",""10"",""6"",""12""]",0
+"Type MC cable shall NOT be used _____.","[""where exposed to corrosive materials"",""as direct burial to earth"",""where exposed to cinder fills"",""all of these""]",3
+"Using aluminum or copper clad aluminum conductors, the minimum size of service entrance conductors shall be _____.","[""8.0 mm<sup>2<\/sup>"",""14.0 mm<sup>2<\/sup>"",""5.5 mm<sup>2<\/sup>"",""3.5 mm<sup>2<\/sup>""]",1
+"Ground counterpoise conductor shall be soft copper wire NOT smaller than","[""5.5 mm<sup>2<\/sup>"",""3.5 mm<sup>2<\/sup>"",""2.0 mm<sup>2<\/sup>"",""8.0 mm<sup>2<\/sup>""]",3
+"The disconnecting means for motor circuits rated up to 600 volts, shall have an ampere rating of at least _____ percent of the full load current of the motor.","[""200"",""115"",""150"",""125""]",1
+"How many amperes will a 100 circuit breaker hold before tripping open the circuit? (Use rule of thumb).","[""200 A"",""500 A"",""400 A"",""300 A""]",3
+"A device for transferring one or more load conductor connections from one power source to another.","[""Disconnecting switch"",""Master switch"",""Isolating switch"",""Transfer switch""]",3
+"For an AC transformer and DC rectifier are welder having a time rating of one hour, the supply conductors shall NOT be less than _____ percent of its rated primary nameplate current.","[""90"",""80"",""75"",""85""]",2
+"Refers to the power plant mounted on wheels as used in the railroad transportation industry.","[""Electric locomotive"",""Electric train"",""LRT"",""None of these""]",0
+"If the terminal of the equipment grounding conductor is not visible, the conductor entrance hole shall be marked with the word _____.","[""green"",""white"",""gray"",""black""]",0
+"Type NMC (non-metallic sheathed cable) shall have an outer covering which have the following characteristics. Which one is NOT included?","[""flame retardant"",""moisture resistant"",""corrosion resistant"",""none of these""]",3
+"Power and control tray cables (type TC) maybe used under one of the following conditions. Which one is this?","[""Where exposed to physical damage"",""Where installed as open cable on brackets"",""Where installed in industrial establishment where a registered master electrician will service the installation"",""Where direct buried underground""]",2
+"Where rear access is required to work on de-energized parts on the back of the enclosed equipment, a minimum working space of horizontally shall be provided.","[""1,000 mm"",""900 mm"",""800 mm"",""600 mm""]",2
+"A one family dwelling unit shall have a disconnecting means of at least _____ where the initial computed load is 10 kVA or more.","[""60 A"",""90 A"",""100 A"",""30 A""]",0
+"Large batteries are those connected to a charging device with an output of more than _____.","[""1.0 kW"",""1.5 kW"",""2.0 kW"",""2.5 kW""]",2
+"Which component of a DC motor is used to control the speed?","[""Carbon brush assembly"",""Armature winding"",""Commutator"",""Field winding""]",3
+"Switches used in watercrafts, shall be capable of breaking and making safely a load current equal to _____ of their rated current at the rated voltage.","[""100%"",""130%"",""125%"",""150%""]",3
+"A wiring method using knobs, tubes and flexible nonmetallic tubing for the protection and support and single insulated conductors concealed in hollow spaces of walls and ceilings of buildings.","[""Open wiring on insulators"",""Open wiring with knobs, tubes, etc."",""Concealed knob and tube wiring"",""Knob and tube wiring""]",2
+"The ampacity of the branch circuit conductors and the rating or setting of over-current protective devices supplying fixed electric space heating equipment consisting of resistance elements with or without a motor shall NOT be less than _____ of the total load of the motors and the heaters.","[""125%"",""130%"",""115%"",""None of these""]",0
+"A repulsion motor equipped with one of the following. Which one of this?","[""A set of slip rings"",""A commutator"",""Both commutator and slip ring"",""Neither a commutator nor a slip ring""]",2
+"Communication conductors shall have a vertical clearance of NOT less than _____ from all points of roofs above, which they pass.","[""2,500 mm"",""2,000 mm"",""2,400 mm"",""2,200 mm""]",2
+"A luminous discharge due to ionization of the air surrounding a conductor caused by a voltage gradient exceeding a certain critical value.","[""Corona"",""Skin effect"",""Johnson\u2019s effect"",""Surge""]",0
+"Branch circuit that supplies a number of outlets for lighting and appliance.","[""Multi-purpose branch circuit"",""Special branch circuit"",""Individual branch circuit"",""General purpose branch circuit""]",3
+"The minimum number of branch circuits shall be determined from the _____.","[""total computed load and the size of disconnected needed"",""total computed load and the rating of the circuits used"",""size or rating of the circuits by the PEC"",""minimum number required by the PEC""]",1
+"The insulated conductor of type TC (cable tray) cable shall be in sizes _____ through _____ copper.","[""0.75 mm<sup>2<\/sup>, 500 mm<sup>2<\/sup>"",""0.75 mm<sup>2<\/sup>, 300 mm<sup>2<\/sup>"",""1.25 mm<sup>2<\/sup> 500 mm<sup>2<\/sup>"",""1.25 mm<sup>2<\/sup>, 300 mm<sup>2<\/sup>""]",0
+"A motor-generator arc welder has a 70 % duty cycle, the supply conductors shall NOT be less than _____ of its rated primary nameplate current.","[""86%"",""80%"",""84%"",""88%""]",0

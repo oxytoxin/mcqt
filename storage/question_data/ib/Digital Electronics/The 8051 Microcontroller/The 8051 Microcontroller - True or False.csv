@@ -1,0 +1,11 @@
+question,A,B,C,D,E,answer,explanation
+<p>Analog output current must be converted into a usable voltage. To perform this current-to-voltage conversion a 700 op amp may be used.</p>,True,False,,,,A,
+<p>A Celsius thermometer is an application for the 8051 microcontroller.</p>,True,False,,,,A,
+<p>The RST pin requires a HIGH to reset the 8051 microcontroller.</p>,True,False,,,,A,
+<p>A microcontroller is called a computer on a chip.</p>,True,False,,,,A,
+<p>In an 8051 program DA A adjusts the value in the accumulator resulting from an addition into two BCDs.</p>,True,False,,,,A,
+<p>Different instruction sets must make up for the various members of the 8051 family.</p>,True,False,,,,B,
+<p>The ADC 0804 is an analog-to-digital converter that provides 8-bit output resolution that can be directly interfaced to a microcontroller.</p>,True,False,,,,A,
+<p>Writing counter/loop programs is much more difficult with the introduction of the DJNA and the CJNE instructions.</p>,True,False,,,,B,
+<p>The 8051 is a 40-pin IC. Twenty-two pins are needed for the four I/O ports.</p>,True,False,,,,B,
+<p>Up to 65K of code memory and 65K of data memory can be added to any of the 8051 family members.</p>,True,False,,,,B,

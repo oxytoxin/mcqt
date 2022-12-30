@@ -1,0 +1,85 @@
+question,A,B,C,D,E,answer,explanation
+"<p>This is an example of the output swing for a class ________ amplifier. <p> <img src=""/_files/images/electronic-devices-and-circuit-theory/mcq12_01000.gif""/></p></p>",A,B,AB,C,D,B,
+"<p>Calculate V<sub>B2</sub>.
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq9_1015_1.jpeg""/></p>",0 V,0.7 V,9.3 V,10.7 V,,C,
+"<p>Class B operation is provided when the dc bias leaves the transistor biased just off, the transistor turning on when the ac signal is applied.</p>",True,False,,,,A,
+<p>The main features of a large-signal amplifier is the circuit's ________.</p>,power efficiency,maximum power limitations,impedance matching to the output device,All of the above,,D,
+<p>The principal advantage(s) of BJTs over MOSFETs is (are) that</p>,voltage drop across the transistor is important.,they are not as prone to ESD.,both of the above,none of the above,,C,
+"<p>A silicon power transistor is operated with a heat sink (<img src=""/_files/images/electronic-devices-and-circuit-theory/theta.gif""/> <sub>SA</sub> = 1.5ºC/W). The transistor, rated at 150 W (25ºC), has <img src=""/_files/images/electronic-devices-and-circuit-theory/theta.gif""/><sub>JC</sub> = 0.5º C/W, and the mounting insulation has <img src=""/_files/images/electronic-devices-and-circuit-theory/theta.gif""/><sub>CS</sub> = 0.6 ºC/W. What is the maximum power that can be dissipated if the ambient temperature is 50ºC and T<sub>Jmax</sub> = 200 ºC?</p>",61.5 W,60.0 W,57.7 W,55.5 W,,C,
+"<p>Refer to this figure. The dc voltage on the collector, V<sub>C</sub>, is
+
+<br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq7_1010_1.jpeg""/><br/></p>",5.4 V.,6.6 V.,12 V.,0 V.,,A,
+<p>What is the ratio of the secondary voltage to the primary voltage with the turn ratio in the windings?</p>,N<sub>2</sub>/N<sub>1</sub>,(N<sub>1</sub>/N<sub>2</sub>)<sup>2</sup>,(N<sub>1</sub>/N<sub>2</sub>)<sup>1/3</sup>,N<sub>1</sub> × N<sub>2</sub>,,A,
+<p>Class ________ amplifiers are normally operated in a push-pull configuration in order to produce an output that is a replica of the input.</p>,A,B,C,AB,,D,
+"<p>You find that there is an input signal on the base of Q<sub>1</sub> and Q<sub>2</sub>. However, there is no output signal. You then measure the dc voltages on Q<sub>2</sub> and find them to be all 0 V. The possible trouble might be
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq9_1015_1.jpeg""/></p>",C<sub>3</sub> is shorted.,C<sub>1</sub> is open.,R<sub>L</sub> is shorted.,V<sub>CC</sub> is 0 V.,,D,
+<p>Which type of power amplifier is biased for operation at less than 180º of the cycle?</p>,Class A,Class B or AB,Class C,Class D,,C,
+<p>Class AB operation is ________ operation.</p>,similar to class A,similar to class B,similar to class C,None of the above,,D,
+<p>The principal advantage(s) of MOSFETs over BJTs is (are)</p>,their biasing networks are simpler.,their drive requirements are simpler.,they can be connected in parallel for added drive capability.,all of the above,,D,
+<p>Which of the following instruments allows more precise measurement of the harmonic components of a distorted signal?</p>,Digital multimeter,Spectrum analyzer,Oscilloscope,Wave analyzer,,D,
+"<p>In class B operation, at what fraction of V<sub>CC</sub> should the level of V<sub>L</sub>(p) be to achieve the maximum power dissipated by the output transistor?</p>",0.5,0.636,0.707,1,,B,
+<p>What is the maximum temperature rating for silicon power transistors?</p>,50º to 80º,100º to 110º,150º to 200º,250º to 300º,,C,
+<p>What is the maximum efficiency of a class A circuit with a direct or series-fed load connection?</p>,90%,78.5%,50%,25%,,D,
+"<p>You have an oscilloscope across R<sub>L</sub> and it shows a zero signal voltage. The problem might be that
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq9_1015_1.jpeg""/></p>",C<sub>3</sub> is open.,BE<sub>1</sub> is open.,BE<sub>2</sub> is open.,R<sub>1</sub> is open.,,A,
+<p>Which class of amplifier operates in the linear region for only a small part of the input cycle?</p>,A,B,C,AB,,C,
+<p>The Q-point is at cutoff for class ________ operation.</p>,A,B,C,AB,,B,
+<p>Determine what maximum dissipation will be allowed for a 70-W silicon transistor (rated at 25ºC) if derating is required above 25ºC by a derating factor of 0.6 W/ºC at a case temperature of 100º.</p>,25 W,30 W,35 W,40 W,,A,
+<p>How many transistors must be used in a class B power amplifier to obtain the output for the full cycle of the signal?</p>,0,1,2,3,,C,
+"<p>What transformer turns ratio is required to match an 8-<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/> speaker load so that the effective load resistance seen at the primary is 12.8 k<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>?</p>",20:1,40:1,50:1,60:1,,B,
+<p>Which of the following is (are) power amplifiers?</p>,Class A,Class B or AB,Class C or D,All of the above,,D,
+"<p>Refer to the figure. The maximum efficiency of this amplifier is
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq9_1012_1.jpeg""/></p>",about 25%.,about 78%.,about 70%.,about 100%.,,B,
+<p>Quiescent power is the power dissipation of a transistor</p>,with no signal input.,with no load.,under full load.,along the dc load line.,,A,
+<p>Which of the power amplifiers is not intended primarily for large-signal or power amplification?</p>,Class A,Class B or AB,Class C,Class D,,C,
+"<p>Refer to this figure. This amplifier is operating as a ________ amplifier.
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq9_1012_1.jpeg""/></p>",class A,class B,class AB,class C,,C,
+<p>By how much does the output signal vary for a class AB power amplifier?</p>,360º,180º,Between 180º and 360º,Less than 180º,,C,
+<p>Which type of amplifier uses pulse (digital) signals in its operation?</p>,Class A,Class B or AB,Class C,Class D,,D,
+<p>Which of the push-pull amplifiers is presently the most popular form of the class B power amplifier?</p>,Quasi-complementary,Transformer-coupled,Complementary-symmetry,None of the above,,A,
+"<p>Refer to this figure. The approximate voltages on the base, collector, and emitter, respectively, are
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq9_1012_1.jpeg""/></p>","0.7 V, 6.8 V, 0 V.","0 V, 0 V, 0 V.","0.7 V, 15 V, 0 V.","0.7 V, 0 V, 15 V.",,C,
+<p>Calculate the harmonic distortion component for an output signal having a fundamental amplitude of 3 V and a second harmonic amplitude of 0.25 V.</p>,3.83%,38.3%,83.3%,8.33%,,D,
+<p>Which amplifier is commonly used as a frequency multiplier?</p>,class A,class B,class C,all of the above,,C,
+"<p>You find that there is no output signal. You measure the dc voltage of Q<sub>1</sub> emitter and find it equal to 0 V. The trouble might be
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq9_1015_1.jpeg""/></p>",D<sub>1</sub> is shorted.,D<sub>2</sub> is shorted.,R<sub>1</sub> is open.,"no trouble, everything is normal.",,C,
+<p>A class B amplifier operates in the linear region for</p>,slightly more than 180° of the input cycle.,360° of the input cycle.,slightly less than 180° of the input cycle.,much less than 180° of the input cycle.,,C,
+<p>Which of the following instruments displays the harmonics of a distorted signal?</p>,Digital multimeter,Spectrum analyzer,Oscilloscope,Wave analyzer,,B,
+<p>Calculate the efficiency of a transformer-coupled class A amplifier for a supply of 15 V and an output of V(p) = 10 V.</p>,25%,33.3%,50%,78.5%,,B,
+<p>________ amplifiers primarily provide sufficient power to an output load to drive a speaker from a few watts to tens of watts.</p>,Small-signal,Power,None of the above,,,B,
+<p>You have an application for a power amplifier to operate on FM radio frequencies. The most likely choice would be a ________ amplifier.</p>,class A,class B,class C,class AB,,C,
+<p>Which of the following describe(s) a power amplifier?</p>,It can handle large power.,It can handle large current.,It does not provide much voltage gain.,All of the above,,D,
+"<p>Categorize the power efficiency of each class of amplifier, from worst to best.</p>","A, B, AB, D","A, AB, D, B","A, AB, B, D",,,C,
+<p>Which operation class is generally used in radio or communications?</p>,A,B,AB,C,D,D,
+"<p>In a class AB amplifier, if the V<sub>BE</sub> drops are not matched to the diode drops or if the diodes are not in thermal equilibrium with the transistors, this can result in</p>",a current mirror.,diode separation.,crossover distortion.,thermal runaway.,,D,
+<p>The least efficient amplifier among all classes is</p>,class B.,class A.,class AB.,class C.,,B,
+"<p>In practice, the efficiency of a capacitively coupled class A amplifier is about ________%.</p>",25,40,70,10,,D,
+"<p>This is an example of the output swing for a class ________ amplifier. <p> <img src=""/_files/images/electronic-devices-and-circuit-theory/mcq12_00900.gif""/></p></p>",A,B,AB,C,D,A,
+"<p>For BJT power transistors, the collector terminal is always connected to the transistor's case</p>",for easy circuit connection.,to prevent shorts.,because the collector terminal is the critical terminal for heat dissipation.,because the collector terminal is located nearest the case.,,C,
+<p>A class A amplifier has a voltage gain of 30 and a current gain of 25. What is the power gain?</p>,30,25,1.2,750,,D,
+<p>Which of the following transistors has been quite popular as the driver device for class D amplification?</p>,BJT,FET,UJT,MOSFET,,D,
+"<p>A class A amplifier with R<sub>C</sub> = 3.3 k<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/> and R<sub>E</sub> = 1.2 k<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/> has a V<sub>CC</sub> = 20 V. Find I<sub>C(sat)</sub>.</p>",4.4 mA,6.1 mA,16.7 mA,20 mA,,A,
+<p>Which of the following is (are) the disadvantage(s) of a class B complementary-symmetry circuit?</p>,It needs two separate voltage sources.,There is crossover distortion in the output signal.,It does not provide exact switching of one transistor off and the other on at the zero-voltage condition.,All of the above,,D,
+<p>Which of the power amplifiers has the lowest overall efficiency?</p>,Class A,Class B or AB,Class C,Class D,,A,
+"<p>Calculate the efficiency of a class B amplifier for a supply voltage of V<sub>CC</sub> = 20 V with peak output voltage of V<sub>L</sub>(p) = 18 V. Assume R<sub>L</sub> = 16<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/><align=absmiddle>.</align=absmiddle></p>",78.54%,75%,70.69%,50%,,C,
+"<p>You find that this amplifier only shows the negative alternation at the output. The possible trouble might be that
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq9_1015_1.jpeg""/></p>",C<sub>3</sub> is shorted.,BE<sub>1</sub> is open.,BE<sub>2</sub> is open.,R<sub>1</sub> is open.,,B,
+<p>The maximum efficiency of a class B amplifier is ________ percent.</p>,50,25,70,79,,D,
+"<p>Calculate the effective resistance seen looking into the primary of a 20:1 transformer connected to an 8-<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/> load.</p>","3.2 k<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>","3.0 k<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>","2.8 k<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>","1.8 k<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>",,A,
+<p>The maximum efficiency of a transformer-coupled class A amplifier is ________.</p>,25%,50%,78.5%,63.6%,,B,
+<p>A class ________ amplifier is biased slightly above cutoff and operates in the linear region for slightly more than 180º of the input cycle.</p>,A,B,C,AB,,D,
+<p>The class ________ amplifier is biased below cutoff.</p>,A,AB,B,C,,D,
+<p><i>n</i>MOS and <i>p</i>MOS transistors can be used for class B.</p>,True,False,,,,A,
+"<p>Determine V<sub>B1</sub>.
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq9_1015_1.jpeg""/></p>",0 V,0.7 V,9.3 V,10.7 V,,D,
+<p>A class C amplifier has a tank circuit in the output. The amplifier is conducting only 28°. The output voltage is</p>,0 V.,a dc value equal to V<sub>CC</sub>.,a sine wave.,a square wave with a frequency determined by the tank.,,C,
+<p>What is the maximum efficiency of a class B circuit?</p>,90%,78.5%,50%,25%,,B,

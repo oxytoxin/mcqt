@@ -1,0 +1,351 @@
+﻿question,choices,answer
+"It is made up of two different metals joined at one end to produce a small voltage at a given temperature.","[""RTD"",""Thermistor"",""Thermocouples"",""Thermometer""]",2
+"What diode is used in seven-segment displays?","[""zener"",""LED"",""laser"",""Schottky""]",1
+"What is one of the most widely used sensing elements particularly for pressure ranges higher than 2 MPa?","[""Bellows"",""Bourdon tube"",""Capsule"",""Straight tube""]",1
+"What is also known as photodiffusion effect?","[""Dember effect"",""Skin effect"",""Destriau effect"",""Night effect""]",0
+"Sound waves emitted are in the range of","[""2-13 MHz"",""2-13 KHz"",""2-15 MHz"",""2-15 KHz""]",0
+"Which of the choices below is another name for a photoconductive cell?","[""Varicap"",""Varistor"",""Photoresistive device"",""Photodiode""]",2
+"Optocoupler is otherwise known as","[""Laser"",""Photodiodes"",""Optoisolator"",""Photoconductive cell""]",2
+"An LED and phototransistor is equivalent to a/an","[""Thermocouple"",""FET"",""Optocoupler"",""Regulator""]",2
+"What is the maximum current (rms) rating for commercially available LASCRs today?","[""3 A"",""15 A"",""15 A"",""25 A""]",0
+"It is also known as a solid state lamp which utilizes the fall of an electron from the conduction level to the valence level to develop an energy release in the form of heat or light.","[""LCD"",""PUT"",""Photodiode"",""Photoconductive cell""]",1
+"The specially designed semi-conductor diodes used as fast counters in electronic circuits are","[""Light emitting diodes"",""Photo diodes"",""Photo voltaic cell"",""Solar cells""]",1
+"Converts electrical power into visible light.","[""cathode ray tube"",""fluorescent lamp"",""photocell"",""antenna""]",1
+"Basic heat sensor","[""thermostat"",""radiator"",""thermistor"",""terminator""]",2
+"The common material of light dependent resistor (LDR) is","[""nickel cadmium"",""silicon"",""tungsten"",""Cadmium Sulphide""]",3
+"What is the effect of light in a photodiode?","[""Reverse current"",""Limits flow of current"",""Forwards current"",""Renders unstable current""]",0
+"The value of Planck’s constant","[""6.36 x 10<sup>-34<\/sup> J"",""3.66 x 10<sup>-34<\/sup> J"",""3.63 x 10<sup>-34<\/sup> J"",""6.63 x 10<sup>-34<\/sup> J""]",3
+"Light dependent resistor is type of","[""photo-voltaic device"",""photo-emissive device"",""photo-resistive device"",""photo-conductive device""]",3
+"In a forward-biased photo diode with increase in incident light intensity, the diode current:","[""Increases"",""Remains constant"",""Decreases"",""None of these""]",0
+"What happens to the photoconductive material when light strikes on it?","[""The conductivity of the material decreases"",""Nothing important happens"",""The conductivity of the material stays the same"",""The conductivity of the material increases""]",3
+"What is a typical light-to-dark resistance ratio for photocell?","[""1:1000"",""1:2000"",""1:10000"",""1:20000""]",0
+"Provides an analog output signal which id proportional to the variation in acoustic pressure acting upon a flexible diaphragm.","[""microphone"",""transducer"",""speaker"",""none of these""]",0
+"It is used for position measurements","[""Ultrasonic sensors"",""Photogates"",""proximity sensor"",""magnetic sensor""]",0
+"Which of the following photocell is most sensitive to?","[""Radio waves"",""Sound waves"",""Light waves"",""Heat waves""]",2
+"An opto-isolator contains _______.","[""an infrared LED"",""a photodetector"",""both an infrared LED and a photodetector"",""None of these""]",2
+"The span of input physical signals that may be converted to electrical signal by the sensor.","[""dynamic range"",""static range"",""signal span"",""life span""]",0
+"A measure of the ability of an LED to produce the desired number of lumens generated per applied watt of electrical energy.","[""Luminous intensity"",""Luminous efficiency"",""Luminous efficacy"",""Luminous ability""]",2
+"Optocoupler is otherwise known as","[""Laser"",""Photodiodes"",""Optoisolator"",""Photoconductive cell""]",2
+"The _________ as fundamental particle is considered as a bundle of radiant energy or light, the amount energy being related to the frequency.","[""Protons"",""LED"",""Photons"",""Comet""]",2
+"What is also known as photodiffusion effect?","[""Dember effect"",""Skin effect"",""Destriau effect"",""Night effect""]",0
+"Those substances which change their electrical resistance when illuminated by light are known as","[""photoconductive"",""photo emissive"",""photo voltaic"",""photomultiplier""]",0
+"What sensor provides a dc voltage approximately 1 V at 10 mW?","[""Diode sensor"",""Thermocouple sensor"",""Thermal sensor"",""Thermistor sensor""]",0
+"The minimum detectable signal fluctuation.","[""resolution"",""bias"",""degree"",""scale""]",0
+"Potentiometers are examples of","[""Passive transducers"",""Electromechanical transducers"",""Electromagnetic transducers"",""Active transducers""]",1
+"The most widely used light source in fiber-optic systems is the","[""gallium arsenide LED"",""incandescent lamp"",""indium phosphide LED"",""injection laser""]",3
+"The especially designed semiconductor diodes used as indicator lamps in electronic circuits are","[""switch"",""light emitting diode"",""photo diode"",""Solar cells""]",1
+"Photoconductive effect means.","[""The decreased conductivity of an illuminated semiconductor junction"",""The increased conductivity of an illuminated semiconductor junction"",""The conversion of photonic energy to electromagnetic energy"",""The conversion of an electromagnetic energy to photonic energy""]",1
+"Which of the following light sources cannot be used in fiber-optic systems?","[""semiconductor laser"",""gallium arsenide LED"",""incandescent lamp"",""indium phosphide LED""]",2
+"Simple sensors that work by using a circuit.","[""light sensor"",""shaft encoder"",""switch"",""sound sensor""]",2
+"Simply provide an on off output to indicate whether or not the target is present in front of the probe.","[""proximity switch"",""sensor"",""on-off switch"",""switch""]",0
+"A photodiode which conducts current only when forward biased and is exposed to light.","[""LAD"",""LED"",""PIN"",""Photoconductor""]",0
+"What semiconductor device produces electrical energy when exposed to light?","[""Photoelectronic cell"",""Photovoltaic cell"",""Photoelectric cell"",""Optoelectronic device""]",1
+"What is the most commonly used color of an LED?","[""Orange"",""Blue"",""Red"",""Green""]",2
+"The isolation resistance between the input and output of an optocoupler is","[""low"",""very low"",""high"",""very high""]",3
+"Measures apparent brightness (power multiplied by the human eye’s sensitivity).","[""lumen"",""intensity"",""lux"",""none of these""]",2
+"A laser diode normally emits","[""coherent light."",""monochromatic light."",""coherent and monochromatic light."",""neither coherent nor monochromatic light.""]",0
+"The ratio between the small change in electrical signal to a small change in physical signal.","[""accuracy"",""linearity"",""sensitivity"",""resolution""]",2
+"Discovered piezoelectric effect in quartz crystal.","[""Marie Currie"",""Pierre Currie"",""Michael Faraday"",""Nikola Tesla""]",1
+"An LED and phototransistor is equivalent to a/an","[""Thermocouple"",""FET"",""Optocoupler"",""Regulator""]",2
+"Control system that maintains a speed voltage, or other variable within specified limits of a preset level.","[""Controller"",""Regulator"",""Sensor"",""Computer""]",1
+"When an SCR is combined to a switch, it is considered as a ________ switch.","[""bidirectional"",""mechanical"",""unidirectional"",""omnidirectional""]",2
+"The p-type emitter of a UJT is ________ doped","[""lightly"",""moderately"",""heavily"",""not<b><\/b>""]",2
+"An SCR is a ___________ triggered device.","[""current"",""power<b><\/b>"",""voltage"",""noise""]",0
+"Anode current in a thyristor is made up of:","[""Electrons only"",""Electrons or holes"",""Electrons and holes"",""Holes only<b><\/b>""]",2
+"Once a DIAC is conducting, the only way to turn it off is with:","[""a positive gate voltage"",""a negative gate voltage"",""low-current dropout"",""breakover<b><\/b>""]",2
+"The V-I characteristics for a triac in the first and third quadrants are essentially identical to those of ________ in the quotation.","[""SCR"",""UJT"",""Transistor"",""SCS""]",0
+"To turn off the SCR, which of the following is done?","[""Reduce gate voltage to zero"",""Reverse bias the gate"",""Reduce anode voltage to zero"",""Reduce cathode voltage to zero""]",2
+"Your boss has asked you to recommend a thyristor that will enable you to <i>turn it on with a pulse</i> and also <i>turn it off with a pulse</i>. Which of the following should you recommend?","[""an SCR"",""an SCS"",""a PUT"",""a triac""]",1
+"The current from that semiconductor device when it is reversed biased.","[""maximum forward current"",""maximum forward gate current"",""holding current"",""leakage current""]",3
+"What is the range of the turn-on times in high-power SCR devices?","[""30 \u00b5s to 100 \u00b5s"",""10 \u00b5s to 25 \u00b5s"",""5 \u00b5s to 8 \u00b5s"",""1 \u00b5s to 5 \u00b5s""]",0
+"You need to design a relaxation oscillator circuit. The most likely device to use might be","[""an SCR."",""a UJT."",""a triac."",""a 4-layer diode.""]",1
+"The ___________ can be externally programmed to turn on at a desired anode-to-gate voltage level.","[""UJT"",""PUT"",""SCR"",""SCS""]",1
+"It is the minimum current which must pass through a circuit in order for it to remain in the ‘ON’ state.","[""leakage current"",""ac current"",""holding current"",""switching current<b><\/b>""]",2
+"What is that value of current below which the SCR switches from the conduction state to the forward blocking region under stated conditions?","[""Holding current"",""Forward current <b><\/b>"",""Reverse current"",""Trigger current""]",0
+"A diac is turned on by","[""breakover voltage"",""gate current<b><\/b>"",""gate voltage"",""anode current""]",0
+"You have a light-dimmer circuit using an SCR. In testing the circuit, you find that IG = 0 mA and the light is still on. You conclude that the trouble might be one of the following:","[""the SCR is open."",""the switch is faulty."",""the gate circuit is shorted."",""this is normal; nothing is wrong.""]",3
+"Which equation defines the intrinsic standoff ratio (η) of UJTs?","[""RB1 \/ (RB1 + RB2)"",""(RB1 + RB2) \/ RB1<b><\/b>"",""(RB1 + RB2) \/ RB2"",""RB1 + RB2""]",0
+"The voltage across an SCR when it is turned on is about","[""0.5 V"",""0.1 V"",""1 V"",""5 V""]",2
+"The typical turn-off time of an SCR is about","[""20 to 40 \u03bcs"",""5 to 40 \u03bcs"",""1 to 5 \u03bcs"",""15 to 25 \u03bcs""]",1
+"Which of the following devices has the smallest turn-off time?","[""SCR"",""GTO"",""SCS"",""LASCR""]",1
+"A triac is equivalent to two SCRs","[""in parallel"",""in inverse-parallel"",""in series"",""in inverse-series""]",1
+"It is the phase angle relative to the power line at which point the gate is fired to commit the anode to conduct to the cathode","[""right angle"",""reverse angle"",""conduction angle"",""firing angle<b><\/b>""]",2
+"It is the total resistance of the silicon bar from one end to another with emitter terminal open.","[""gate resistance"",""base resistance"",""emitter resistance"",""interbase resistance""]",3
+"Holding current of a thyristor is:","[""Less than latching current"",""More than latching current"",""Equal to latching current"",""Zero""]",1
+"An SCR is a solid state equivalent of which tube?","[""Triode"",""Gas-filled triode"",""Pentode"",""Tetrode""]",1
+"What is the typical turn-on time of an SCR?","[""1 \u03bcs"",""5 \u03bcs"",""10 \u03bcs"",""3 \u03bcs""]",0
+"An SCR is a solid state equivalent of which tube?","[""Triode"",""Gas-filled triode"",""Pentode"",""Tetrode""]",1
+"When the temperature increases, the inter-base resistance of a UJT","[""Remains unchanged"",""Increases"",""Decreases"",""is zero""]",1
+"When checking a good SCR or TRIAC with an ohmmeter it will:","[""show high resistance in both directions"",""show low resistance with positive on anode and negative on cathode, and high resistance when reversed"",""show high resistance with negative on anode and positive on cathode, and low resistance when reversed"",""show low resistance in both directions""]",0
+"The UJT may be used as","[""an amplifier"",""a rectifier"",""a sawtooth generator"",""a multivibrator""]",2
+"A resistor connected across the gate and cathode of an SCR in a circuit increases its","[""<i>dv\/dt<\/i> rating"",""Holding current"",""Noise Immunity"",""Turn-off time""]",2
+"AC power in a load can be controlled by connecting","[""two SCRs in series"",""two SCRs in parallel"",""two SCRs in parallel opposition"",""two SCRs in series opposition""]",2
+"An SCR combines the feature of","[""a rectifier and resistance"",""a rectifier and capacitor"",""a rectifier and transistor"",""a rectifier and inductor""]",0
+"The three terminals of a triac are","[""drain, source, gate"",""two main terminals and a gate terminal"",""cathode, anode and gate"",""anode, source, gate""]",1
+"A triac can pass a portion of __________ half cycle through the load","[""only positive"",""only negative"",""both positive and negative"",""neither positive nor negative""]",2
+"When the SCR is OFF, the current in the circuit is","[""exactly zero"",""large leakage current"",""small leakage current"",""thermal current<b><\/b>""]",2
+"What is a three terminal device used to control large current to a load?","[""SCR"",""SCS"",""GTO"",""Thyristor""]",0
+"What Greek word which means “switch”?","[""Ristor"",""Trans"",""Thy"",""Thyristor<b><\/b>""]",2
+"The ____________ can conduct current in either direction and is turned on when a breakover voltage is exceeded.","[""SCR"",""Diac"",""SCS"",""Triac""]",1
+"A resistor connected across the gate and cathode of an SCR increases its:","[""Turn off time"",""Holding current"",""Noise immunity"",""dv\/dt rating<b><\/b>""]",1
+"Like an SCR, it is also a four layer device but with a gate connected to the N-region adjacent to the anode.","[""TRIAC"",""PUT"",""DIAC"",""SCS""]",1
+"An SCR is made of silicon and not germanium because silicon.","[""is inexpensive"",""has low leakage current"",""is mechanically strong"",""is tetravalent""]",1
+"The triac is fundamentally a/an ____________ with a gate terminal for controlling the turn-on conditions of the bilateral device in either direction.","[""SCR"",""Quadric"",""Shockley Diode"",""Diac""]",3
+"An opto-isolator contains ___________.","[""an infrared LED"",""a photodetector"",""both an infrared LED and a photodetector"",""None of the above""]",2
+"Which of the following devices is unquestionably of the greatest interest today?","[""SCR"",""GTO"",""LASCR"",""SCS""]",0
+"In a UJT maximum value of charging resistance is associated with:","[""Peak point"",""Valley point<b><\/b>"",""Any point between peak and valley point"",""After the valley point""]",0
+"When the firing angle of SCR is increased, its output","[""decreases"",""increases"",""remains unchanged"",""doubles""]",0
+"What are the primary methods of controlling electrical power?","[""by using manual switches and rheostats"",""by using variable reactance and transformers"",""by using electronic switches, such as diodes, transistors thyratrons, and thyristors"",""all of the above""]",3
+"Common method(s) of controlling electrical power with reactance","[""switching a tapped inductor"",""using a saturable reactor"",""by a matching transformer"",""A and B above""]",3
+"A reactive device used in controlling electrical power by using two windings on a common iron core. The control winding is supplied with small dc-current which causes the reactance of large ac-winding to change accordingly.","[""tapped inductor"",""saturable reactor"",""auto transformer"",""LVDT""]",1
+"A saturable reactor with regenerative feedback.","[""tapped inductor"",""auto transformer"",""LVDT"",""magnetic amplifier""]",3
+"Thyratrons in industrial electronics refers to ____________.","[""a gas-filled diode"",""a vacuum tube"",""gas-filled triode"",""an electron triode""]",2
+"An electronic switch that has the highest single-device current capacity and can withstand overloads better.","[""Thyristors"",""ignitrons"",""SCR"",""triac""]",1
+"A semiconductor, electronic switch that has the highest single-device current rating","[""thyristor"",""triac"",""SCR"",""Quadric""]",2
+"The purpose of installing thyrectors across the incoming power lines to the speed control system is to ___________.","[""cause the motor to caution"",""protect drive circuits from high voltage transient surges"",""increase the counter emf"",""allow the field winding current to continue flowing""]",1
+"Semiconductor devices equivalent to thyratrons are generally called","[""thyrector"",""thyristor"",""diac"",""ignitron""]",1
+"Using electronic devices as switches, what is(are) the general methods of controlling electrical power?","[""phase control"",""zero-voltage switching"",""static switching"",""all of the above""]",3
+"Which power control switching method that greatly generates RFI or EMI and is therefore limited to low-frequency applications?","[""phase control"",""zero-voltage switching"",""inverter control"",""static switching""]",0
+"One of the electronic semiconductor devices known as diac, function as","[""four terminal multi-directional switch"",""two terminal bi-directional switch"",""two terminal unidirectional switch"",""three terminal bi-directional switch""]",1
+"Which of the trigger diodes has the highest holding voltage?","[""bidirectional-trigger diac"",""bidirectional-diode-thyristor diac"",""Shockley diode"",""thyrector""]",0
+"General term of electronic devices used to control or trigger large-power switching devices.","[""thyristor"",""thyrector"",""break-over devices"",""triggering devices""]",2
+"A break-over device that is basically a diode.","[""thyristor"",""thyrector"",""thyratron"",""triggering diode""]",3
+"A four-element solid state device that combi9nes the characteristics of both diodes and transistors","[""varactor"",""zener diode"",""tunnel diode"",""SCR""]",3
+"The most popular thyristor used in electrical power controllers","[""SCR"",""triac"",""SCS"",""PUT""]",0
+"Find the two stable operating conditions of an SCR.","[""Conducting and non-conducting"",""Oscillating and quiescent"",""NPN conduction and PNP conduction"",""Forward conducting and reverse conducting""]",0
+"How do you stop conduction during which SCR is also conducting?","[""remove voltage gate"",""increase cathode voltage"",""interrupt anode current"",""reduce gate current""]",2
+"How do we turn “ON” or trigger an SCR?","[""by making the gate (G) positive with respect to its cathode (K)"",""by making the gate (G) positive with respect to its anode (A)"",""by making the cathode more positive with respect to the anode"",""A and C above""]",0
+"What is true about SCRs after they are being switched “ON”?","[""The anode (A) to cathode (K) continues to conduct even if the gate triggering voltage is removed."",""The gate (G) must be provided with the required holding current to continue its conduction."",""A small holding voltage at the gate is required for a continuous conduction."",""B and C above""]",0
+"The voltage across the anode (A) and cathode (K) terminals of an SCR when conducting.","[""holding voltage"",""breakdown voltage"",""breakback voltage"",""trigger voltage""]",0
+"The minimum amount of current needed for an SCR to conduct continuously.","[""holding current"",""triggering current"",""threshold current"",""average sustaining current""]",0
+"What is(are) the condition(s) in triggering SCR?","[""The gate voltage must be equal to or greater than the triggering voltage."",""The gate current must be equal to or greater than the triggering current."",""The anode (A) must be positive with respect to the cathode."",""all of the above""]",3
+"The voltage decreased across the anode (A) and cathode (K) of an SCR from non-conducting state to conducting state.","[""holding voltage"",""forward breakdown voltage"",""triggering voltage"",""breakback voltage""]",3
+"An SCR rated 10 A is used as the controlling switch in a circuit powered by 50Vdc. When the SCR fires ON, its anode (A) to cathode (K) voltage was observed to be 2 V. Calculate the breakback voltage of the SCR.","[""25 Vdc"",""32 Vdc"",""41 Vdc"",""48 Vdc""]",3
+"The needed voltage at the gate of an SCR before it conducts.","[""minimum-gate trigger voltage"",""maximum-gate trigger voltage"",""minimum-gate peak-inverse voltage"",""maximum-gate peak-inverse voltage""]",0
+"What is(are) the gate limitation(s) of SCRs and triacs?","[""maximum-gate power dissipation"",""maximum-gate peak-inverse voltage"",""maximum-gate trigger current and voltage"",""all of the above""]",3
+"How can we extend the rating of SCRs?","[""by external cooling"",""by external circuitry"",""by connecting them in series\/parallel"",""all of the above""]",3
+"Use of heat sinks, forced air, and water cooling are examples of external cooling in SCRs and other devices. Which of these is the only recommended to be used for the largest power dissipating device?","[""metal heat sinks"",""forced air"",""water cooling"",""A and B above""]",2
+"How can we increase the forward-voltage blocking capability of SCRs?","[""by connecting them in series"",""by connecting them in parallel"",""by cascading them"",""by connecting back to back in parallel""]",0
+"In connecting two SCRs in series, during “OFF” state, the voltage source must be properly shared between them, but due to devices’ differences, there might be unequal voltages across each SCR. How do we equalize these voltages?","[""by installing a snubber circuit"",""by adding a gate-to-cathode resistor"",""by shunting a capacitor across the anode (A) and cathode (K) of each SCR"",""by using a blocking-equalizing resistor""]",3
+"What is true regarding blocking-equalizing resistors in SCRs connected in series?","[""Blocking-equalizing resistors are shunted across each SCR."",""The value of these resistors is about 10% of the value of the blocking resistance of the SCR it is shunted with."",""These resistors increases the leakage current towards the load."",""All of the above""]",3
+"A circuit used for voltage equalization during ON-OFF switching action of SCRs in series.","[""snubber circuit"",""crow-bar"",""clipper"",""clamper""]",0
+"When a high current is needed, SCRs are connected in parallel. The problem with paralleled SCRs is, when they are not perfectly matched, one will conduct first before the other and carries the full-load current that is for sure greater than its maximum rating. To avoid this situation, both SCRs should be turned ON at the same time. How can we do this?","[""by using high triggering gate voltage"",""by using a gate-triggering transformer"",""by using reactors"",""all of the above are possible""]",3
+"In controlling electrical power using phase control method with SCR/triac being the active device, what do we call the period of the cycle before the device switches to conduction?","[""trigger time"",""trigger delay time"",""firing frequency"",""firing delay angle""]",3
+"How many times per second does an SCR is turned ON and OFF when it is operated in a full-wave phase control at a line frequency of 60 Hz?","[""30 times"",""60 times (HV)"",""90 times"",""120 times (FW)""]",3
+"A three terminal device that behaves roughly like SCR, except that it can conduct current in either direction when at ON.","[""thyristor"",""SUS"",""SBS"",""GTO""]",2
+"What is the difference between a triac and a silicon bilateral switch (SBS)?","[""An SBS is usually used as breakover device, while a triac is a load controlling device."",""An SBS is for low voltage applications, while a triac is generally for high voltage applications."",""An SBS has better and stable symmetrical-firing voltage than a triac."",""all of the above""]",3
+"A triac can be triggered ON by the application of a","[""positive voltage at the gate with respect to MT1"",""negative voltage at the gate with respect to MT1"",""positive or negative gate voltage with respect to MT2"",""all of the above are correct""]",3
+"Which are the three terminals of a TRIAC?","[""Gate, anode 1 and anode 2"",""Gate, source and sink"",""Base, emitter and collector"",""Emitter, base 1 and base 2""]",0
+"What are the three terminals of a triac?","[""anode 1 (A1), anode 2 (A2) and gate (G)"",""mainterminal 1 (MT1), mainterminal 2 (MT2), and gate (G)"",""anode (A), cathode (K) and gate (G)"",""both A and B are acceptable""]",3
+"A silicon bilateral switch may be considered as s small power triac, and has three terminals namely,","[""anode 1 (A1), anode 2 (A2) and gate (G)"",""mainterminal 1 (MT1), mainterminal 2 (MT2), and gate (G)"",""anode (A), cathode (K) and gate (G)"",""both A and B are acceptable""]",3
+,"[""UJT"",""GTO"",""SBS"",""SUS""]",3
+"Silicon unilateral switches (SUSs) generally have a breakover voltage of 8 V, however, this value can be altered by normally connecting a zener diode. How is the diode installed?","[""across the gate (G) and cathode (K) terminals, with the diode\u2019s anode at the gate"",""anode to anode, cathode to cathode"",""diode\u2019s cathode to SUS\u2019s anode and diode\u2019s anode to SUS\u2019s cathode"",""diode\u2019s cathode to SUS\u2019s gate and diode\u2019s anode to SUS\u2019s cathode""]",3
+"A silicon unilateral switch (SUS) has a forward breakover voltage of 8 V. a zener diode is connected between its gate and cathode terminals with the diode’s cathode at SUS’s gate. If the zener voltage is 3.9 V, what is the new forward breakover voltage of the device?","[""0.49 V"",""2.05 V"",""4.50 V"",""11.9 V""]",2
+"Thyristor whose characteristic curve closely resembles that of SCR’s and SUS’s, except that its forward breakover voltage (+VBO) is not alterable, for the device has no gate terminal.","[""diac"",""thyrector"",""UJT"",""Shockley diode""]",3
+"What will happen to the forward breakdown or breakover voltage of SCRs and triacs if the gate current is increased?","[""will decrease"",""will also increase"",""will not change"",""will either increase or decrease, it depends on their current coefficient""]",0
+"A UJT or unijunction transistor is a three terminal breakover-type switching device. Its three terminals are called base 1, base 2, and emitter. Though this is a transistor and has base and emitter terminals, this operates very different from a BJT and is not used as a linear amplifier. Its applications are for","[""timers and oscillators"",""signal generators"",""triggering control for SCRs and triacs"",""all of the above""]",3
+"For a unijunction transistor (UJT) to witch ON","[""the base 1 voltage should be greater than the peak voltage"",""the base 2 voltage should be greater than the peak voltage"",""the emitter voltage should be greater than the peak voltage"",""the voltage between the emitter and base 1 should be greater than the peak voltage when emitter being more positive""]",3
+"Semiconductor devices with inherent ON-OFF behavior and has no linear operating regions are called thryistors. Examples are SCRs, triacs, SUSs, SBSs, Shockley diodes, diacs, PUTs, and SCSs. In selecting thyristors for a particular application, which of the statement below is generally desirable?","[""thyristors with high current and voltage ratings"",""thyristors with high holding current\/voltage"",""faster thyristors"",""thyristors with high breakback-voltage""]",3
+"Why does thyristors with high breakback voltage desirable?","[""it dissipates less power"",""it generates less heat"",""it is more efficient"",""all of the above""]",3
+"Portion in the welding process interval during which the welding current is flowing is called ____________.","[""cool sub-interval"",""released interval"",""squeeze interval"",""heat sub-interval""]",3
+"In automatic welding system, basically there are how many intervals?","[""2"",""5"",""10"",""15""]",1
+"In automatic welding what do you call the first interval wherein the material to be welded are held together?","[""squeeze interval"",""weld interval"",""hold interval"",""standby interval""]",0
+"After the squeeze interval, what comes next in an automatic welding system?","[""squeeze interval"",""weld interval"",""hold interval"",""standby interval""]",1
+"During the welding or weld interval, when a welding current is flowing the system is said to be at","[""weld interval"",""cool subinterval"",""heat subinterval"",""hold interval""]",2
+"The portion of the weld interval during which the current is absent","[""cool subinterval"",""heat subinterval"",""hold interval"",""standby interval""]",0
+"After the welding interval, it goes to _________ interval wherein the electrode pressure is maintained on the metal surfaces.","[""cool subinterval"",""heat subinterval"",""hold interval"",""standby interval""]",2
+"Next to hold interval is __________ interval in automatic welding system.","[""squeeze"",""cool"",""standby"",""release""]",3
+"After the release interval in automatic welding, the system will go to","[""cool interval"",""squeeze interval"",""standby interval"",""hold interval""]",2
+"Refers to the system that has no feedback and is not self correcting","[""Close-loop system"",""Coal slurry system"",""Feed forward control system"",""Open-loop system""]",3
+"The system is ____________ if a position servo system does not respond to small changes in the input.","[""under stabilized"",""underdamped"",""stabilized"",""overdamped""]",3
+"What is the purpose of using a differential synchro instead of a regular synchro?","[""Handles more signals only"",""Performs addition and subtraction function only"",""Differential synchros can handle more signals and also performs addition and subtraction function"",""Handles two signals only""]",2
+"Industrial circuit or system that is not self-correcting","[""open-loop"",""closed-loop"",""system with feed back"",""non-servo""]",0
+"What do you call a circuit or system that is self-correcting?","[""open-loop"",""closed-loop"",""system without feed back"",""servo""]",1
+"Open-loop in control system means:","[""it has no feedback"",""it is not self-correcting"",""it is not self-regulating"",""all are correct""]",3
+"In control system, closed-loop means:","[""it has feedback"",""it is self-correcting"",""it is self-regulating"",""all are correct""]",3
+"When a closed-loop system is used to maintain physical position it is referred as","[""gyro system"",""feedback system"",""servo system"",""differential system""]",2
+"In closed-loop system, what do you call the difference in the measured value and the set value or desired value?","[""error"",""differential voltage"",""potential difference"",""threshold""]",0
+"Error signal in closed-system is also known as","[""difference signal"",""deviation"",""system deviation"",""all are correct""]",3
+"In a closed-loop control system, when the error signal is zero the system is at","[""null"",""saturation"",""cut-off"",""halt""]",0
+"The small error signal or system deviation where the system cannot correct anymore","[""threshold"",""holding"",""offset"",""bias""]",2
+"A good closed-loop control system has the following characteristics","[""with very small offset signal or voltage"",""quick response"",""highly stable"",""all are correct""]",3
+"In control system, the manner in which the controller reacts to an error is termed as","[""mode of operation"",""type of operation"",""mode of control"",""reaction style""]",2
+"What are the general basic modes of control in control system?","[""On-Off"",""Proportional"",""Proportional plus integral"",""Proportional plus derivative""]",3
+"Mode of control wherein the controller has only two operating states. This mode is also known as bang-bang control.","[""On-Off"",""Proportional"",""Proportional plus integral"",""Proportional plus derivative""]",0
+"____________ is a mode of control wherein the controller has a continuous range of possible position, not just two as in bang-bang control.","[""On-Off"",""Proportional"",""Proportional plus integral"",""Proportional plus derivative""]",1
+"Proportional mode of control wherein the controller is not only considering the magnitude of the error signal but as well as the time that is has persisted.","[""On-Off"",""Proportional"",""Proportional plus integral *"",""Proportional plus derivative""]",2
+"Proportional mode of control wherein the controller is not only considering the magnitude of the error signal but as well as its rate of change.","[""Proportional"",""Proportional plus integral"",""Proportional plus derivative *"",""Proportional plus integral plus derivative""]",2
+"What is (are) being considered in Proportional plus Integral plus Derivative (PID) mode of control?","[""error signal magnitude"",""error signal period of occurrence"",""error signal rate of change"",""all are considered *""]",3
+"If On-Off mode of control is the simplest, what is its opposite or the most complex?","[""Proportional"",""Proportional plus integral"",""Proportional plus derivative"",""Proportional plus integral plus derivative *""]",3
+"The __________ are two of the most common mechanical configuration of industrial robots.","[""Spherical and pneumatic"",""Articulated arm and cylindrical *"",""Spherical and hydraulic"",""Jointed-arm and electric""]",1
+"One advantage of hydraulic actuator in industrial robots include _____________.","[""great force capability handling heavy loads *"",""lower operating cost than the other type"",""low initial cost than the other type"",""clean-no oil leaks""]",0
+"____________ includes tow of the actuator type used in industrial robots.","[""Pneumatic and Jointed-arm"",""Hydraulic and Pneumatic"",""Electric and Spherical"",""Hydraulic and Cylindrical""]",1
+"weak signal.","[""hydraulic"",""electro"",""synchro"",""servo""]",3
+"A programmable, multifunction manipulator designed to move materials, parts, tools or specific devices.","[""Industrial robot"",""Android"",""Actuator"",""End effector""]",0
+"The technology for automations","[""avionics"",""cryogenics"",""cryotronics"",""robotics""]",3
+"What is(are) the common mechanical configurations for industrial robots?","[""articulated-arm or jointed-arm"",""spherical configuration"",""cylindrical configuration"",""all of these""]",3
+"The number of axis a robot is free to move is called","[""freedom axis"",""degrees of freedom"",""movement degrees"",""mechanical axis""]",1
+"Actuators used in industrial robots","[""electric motors"",""fluid motors"",""fluid cylinders"",""all of these are correct""]",3
+"Which of the actuators that has the greatest force capability?","[""electric"",""hydraulic fluid"",""pneumatic"",""magnetic""]",1
+"Actuator that requires the highest initial cost:","[""electric"",""hydraulic"",""pneumatic"",""magnetic""]",1
+"Robot actuator that has the highest operating cost:","[""electric"",""hydraulic"",""pneumatic"",""magnetic""]",1
+"The most messy robot actuator:","[""electric"",""hydraulic"",""pneumatic"",""magnetic""]",1
+"Advantages of electric actuators:","[""Lower initial cost than either hydraulic or pneumatic"",""Much lower operating cost than hydraulic"",""Accurate positioning and good velocity control"",""All of these are correct""]",3
+"Advantages of pneumatic actuators:","[""lower initial and operating cost than hydraulic actuators"",""Clean, no oil leaks"",""Quick response"",""All are correct""]",3
+"Advantages of hydraulic actuators","[""Great holding strength when stopped"",""Accurate positioning and good velocity control"",""Intrinsically safe in flammable environment such as painting"",""All of these are correct""]",3
+"Disadvantages of pneumatic actuators:","[""Weak force capability"",""Not so much holding strength when stopped as compared to hydraulic system"",""Accurate positioning and velocity control is impossible"",""All of these are correct""]",3
+"Disadvantages of electric actuators in industrial robots:","[""Less force capability as compared to hydraulic system"",""Very little holding strength when stopped which causes a heavy load to sag"",""Usually requires mechanical brakes"",""All are correct""]",3
+"A robot software or program that produces only two-position motion for a given robot axis.","[""positive-stop"",""point-to-point"",""continuous-path"",""hard interrupt""]",0
+"A robot program that has the ability to move a robot to any position within the range but without specific path.","[""positive-stop program"",""point-to-point program"",""continuous path program"",""compound program""]",1
+"A robot program that has the ability to move a robot to any position within the range with specific path.","[""positive-stop program"",""point-to-point program"",""continuous path program"",""compound program""]",2
+"When a robot moves on several axis at the same time, it is to have","[""intrinsic motion"",""extrinsic motion"",""compound motion"",""universal motion""]",2
+"In robotics, SCARA means:","[""Selective Compliant Articulated Robot Arm"",""Selective Compliant Assembly Robot Arm"",""Selective Computer-Actuated Robot Arm"",""A and B are correct""]",3
+"SCARA Robots has how many axis of motion?","[""2"",""4"",""6"",""8""]",1
+"SCARA Robots are designed for what applications?","[""Machining"",""Welding"",""Assembling"",""Handling heavy loads""]",2
+"Why is SCARA Robot attractive in industry?","[""because it is relatively cheaper"",""because it can carry very heavy loads"",""because it has unlimited movement"",""all of the above""]",0
+"Inductive sensors are also known as______sensor.","[""eddy voltage"",""pierre current"",""eddy current"",""pierre voltage""]",2
+"The development of a DC voltage between two regions of a photoconductive semiconductor when one of the regions is illuminated by diffusion of an optically generated hole and electron pairs away from the illuminated region.","[""Destriau effect"",""Isotope effect"",""Dember effect"",""Hawks effect""]",2
+"What is the other term for thermoelectric effect?","[""Seebeck effect"",""Hall effect"",""Photoelectric effect"",""Thermal effect""]",0
+"The fastest and most sensitive photodiode available is the","[""avalanche photodiode"",""PIN diode"",""photo-Darlington"",""germanium photodiode""]",0
+"A transduction principle used primarily in optical sensors.","[""Photoconductive transduction"",""Photovoltaic transduction"",""Electromagnetic transduction"",""Piezoelectric transduction""]",1
+"Which of the following transducer is preferred for measurement involving sound?","[""piezoelectric pickup"",""thermocouple"",""photo-emessive cell"",""all of these""]",0
+"Germanium photodiodes have dark currents typically of the order of _______mA.","[""10"",""15"",""20"",""25""]",0
+"Process in industrial electronics where electrons are emitted from the surface of certain metals when expose to the light is called","[""photonics"",""photosensitive"",""phoovoltaic"",""photoemission""]",3
+"What type of bias is required for an LED to produce luminescence?","[""Reverse bias"",""Forward bias"",""Zero bias"",""Inductive bias""]",1
+"An SCR whose state is controlled by the light falling upon a silicon semiconductor layer of the device.","[""SCS"",""GTO"",""Thyristor"",""LASCR""]",3
+"It is used to measure along one axis and is insensitive to orthogonal directions","[""Tachometer"",""Potentiometer"",""Accelerometers"",""Speedometer""]",2
+"The value of dark-current of a photoconductive cell is","[""negligibly small"",""very high"",""zero"",""high""]",0
+"What are the solid state gallium arsenide devices that emit beam of radiant flux when forward biased?","[""LEDs"",""Photoconductive cells"",""IR emitters"",""Photodiodes""]",2
+"What device measures humidity directly with a single sensing element?","[""UJT"",""Tachometer"",""Venturi meter"",""Hydrometer""]",0
+"It is used in counting applications","[""Ultrasonic sensors"",""Photogates"",""proximity sensor"",""magnetic sensor""]",1
+"The smallest change it can detect in the quantity that it is measuring.","[""sensitivity"",""resolution"",""precision"",""range""]",1
+"The major advantage of a phototransistor as compared to a photodiode is its","[""Response to higher frequencies"",""AC operation"",""Increased sensitivity"",""Durability""]",2
+"What is the typical operating current of an LED?","[""50 mA"",""10 mA"",""20 mA"",""5 mA""]",1
+"Temperature range of RTD thermistor","[""-45\u00b0C \u2013 150\u00b0C"",""-65\u00b0C \u2013 170\u00b0C"",""-25\u00b0C \u2013 120\u00b0C"",""-85\u00b0C \u2013 190\u00b0C""]",0
+"Converts pressure changes into electrical form.","[""piezoelectric crystal"",""microphone"",""speaker"",""tactile transducer""]",0
+"LEDs are made out of","[""silicon."",""germanium."",""gallium."",""silicon and germanium, but not gallium.""]",2
+"What is the normal operating voltage and current for a light-emitting diode?","[""60 volts and 20 mA"",""5 volts and 50 mA"",""1.7 volts and 20 mA"",""0.7 volts and 60 mA""]",2
+"A law states that there is a transition temperature at which ferromagnetic materials exhibit paramagnetic behavior.","[""Curie-Weiss Law"",""Amperes\u2019s Law"",""Faraday\u2019s Law of Induction"",""Ohm\u2019s Law""]",0
+"What is the typical power range of thermocouple sensors","[""0.1 mW to 100 W"",""0.1 \u00b5W to 100 mW"",""0.1 nW to 100 \u00b5W"",""0.1 pW to 100 nW""]",1
+"The minimum magnitude of input signal required to produce a specified output signal having a specified signal-to-noise ratio.","[""sensitivity"",""precision"",""accuracy"",""resolution""]",0
+"What sensor provides a change of resistance with typical power range of 1µW to 10mW and with maximum frequency greater than 100GHz?","[""Thermal converter"",""Diode sensor"",""Thermocouple sensor"",""Thermistor sensor""]",3
+"In a phototransistor, base current is","[""set by bias voltage"",""directly proportional to light"",""inversely proportional to light"",""not a factor""]",1
+"The average energy of an atom at room temperature.","[""6.3 x 10<sup>-21<\/sup> J"",""3.6 x 10<sup>-21<\/sup> J"",""6.3 x 10<sup>-22<\/sup> J"",""3.6 x 10<sup>-22<\/sup> J""]",0
+"The process of emitting photons from a semiconductive material is called","[""photoluminescence."",""gallium arsenide."",""electroluminescence."",""gallium phosphide.""]",2
+"Discovered piezoelectric effect in quartz crystal.","[""Marie Currie"",""Pierre Currie"",""Michael Faraday"",""Nikola Tesla""]",1
+"A displacement sensor that can be angular or linear.","[""ammeter"",""voltmeter"",""multimeter"",""potentiometer""]",3
+"A measure of how straight the line is when the target position is plotted against the driver’s output.","[""proportionality"",""equation of a line"",""exponentially"",""linearity""]",3
+"What is the approximate voltage drop of LED?","[""0.3 V"",""0.7 V"",""1.5 V"",""3.8 V""]",2
+"What semiconductor material is used in the construction of LED?","[""Silicon"",""Germanium"",""Gallium"",""Gallium arsenide""]",3
+"When light strikes certain semiconductor materials, the resistance of the material decreases","[""lightning effect"",""Photoconductive Effect"",""faraday effect"",""Currie effect""]",1
+"A coil resist a change in magnetic field by generating an opposing voltage/current","[""Curie-Weiss Law"",""Amperes\u2019s Law"",""Faraday\u2019s Law of Induction"",""Lenz Law""]",2
+"The basic principle of optoelectronic device is","[""to free electrons from matter"",""to provide electrons to matter"",""interaction of photon with matter"",""bombarding of electrons on matter""]",0
+"A ________ is a light-sensitive device whose number of free electrons generated is proportional to the intensity of the incident light.","[""Varicap"",""Photodiode"",""Schottky diode"",""LED""]",1
+". What diode gives off light when energized?","[""Photodiode"",""LED"",""Photoconductive cell"",""Tunnel diode""]",1
+"The final result of the accumulated error sources that exist in any measurement system.","[""sensitivity"",""efficiency"",""accuracy"",""precision""]",2
+"Characterizes the degree of mutual agreement among a series of individual measurements.","[""sensitivity"",""accuracy"",""precision"",""resolution""]",2
+"The elastic scattering of photons by electron. Since the total energy and total momentum are conserved in the collisions, the wavelength of the scattered radiation is changed by an amount that depends on the angle of scattering, and part of the photon energy is transferred to electrons. This effect is called","[""Compton effect"",""Hall effect"",""Malter effect"",""Thomson effect""]",0
+"An artificial olfaction device with an array of chemical gas sensors, a sampling system, and a system with a pattern-classification algorithm used for analysis of gases, vapors, or odors.","[""e-nose"",""scent sensor"",""multi-gas sensor"",""aroma sensor""]",0
+"A transduction principle used primarily in optical sensors.","[""Photoconductive transduction"",""Photovoltaic transduction"",""Electromagnetic transduction"",""Piezoelectric transduction""]",1
+"The electric charge of a single electron","[""-1.6 x 10<sup>-17<\/sup>"",""-6.1 x 10<sup>-19<\/sup>"",""-1.6 x 10<sup>-19<\/sup>"",""-6.1 x 10<sup>-17<\/sup>""]",2
+"An LED is forward-biased. The diode should be on, but no light is showing. A possible trouble might be","[""the diode is open."",""the series resistor is too small."",""none. The diode should be off if forward-biased."",""the power supply voltage is too high.""]",0
+"Temperature range of RTD","[""-166\u00b0C \u2013 452\u00b0C"",""-176\u00b0C \u2013 462\u00b0C"",""-186\u00b0C \u2013 472\u00b0C"",""-196\u00b0C \u2013 482\u00b0C""]",3
+"A law states that a current carrying conductor in a magnetic field experiences a force","[""Amperes\u2019s Law"",""Lenz Law"",""Faraday\u2019s Law"",""Curie-Weiss Law""]",0
+"Measure of closeness on reading a measurement to a standard value","[""accuracy"",""precision"",""sensitivity"",""resolution""]",0
+"Evaluate the integral of dx / (x + 2) from -6 to -10.","[""21\/2"",""1\/2"",""ln 3"",""ln 2""]",3
+"Integrate xcos (2x<sup>2</sup> + 7) dx.","[""(1\/4)sin (2x<sup>2<\/sup> + 7) + C"",""(1\/4)cos (2x<sup>2<\/sup> + 7) + C"",""((sin \u03b8) \/ 4(x<sup>2<\/sup> + 7)) + C"",""sin (2x<sup>2<\/sup> + 7) + C""]",0
+"Integrate: (7x<sup>3</sup> + 4x<sup>2</sup>) dx","[""(7x<sup>3<\/sup>\/3) + (4x<sup>2<\/sup>\/2) + C"",""(7x<sup>4<\/sup>\/4) + (4x<sup>2<\/sup>\/5) + C"",""(7x<sup>4<\/sup>\/4) + (4x<sup>3<\/sup>\/3) + C"",""7x<sup>4<\/sup> + (4x<sup>2<\/sup>\/2) + C""]",2
+"What is the integral of sin<sup>5</sup> x cos<sup>3</sup> x dx if the lower limit is zero and the upper limit is π/2?","[""0.0203"",""0.0307"",""0.0417"",""0.0543""]",2
+"What is the integral of sin<sup>5</sup> x dx if the lower limit is 0 and the upper limit is π/2?","[""0.233"",""0.333"",""0.433"",""0.533""]",3
+"Find the integral of 12 sin<sup>5</sup> x cos<sup>5</sup> x dx if the lower limit is 0 and the upper limit is π/2.","[""0.2"",""0.333"",""0.433"",""0.533""]",0
+"Evaluate the integral of sin<sup>6</sup> x dx from 0 to π/2.","[""\u03c0\/32"",""2\u03c0\/17"",""3\u03c0\/32"",""5\u03c0\/32""]",3
+"Evaluate the integral of x(x – 5)<sup>12</sup> dx from 5 to 6.","[""0.456"",""0.556"",""0.656"",""0.756""]",0
+"Evaluate the integral of ((x dx) / (x + 1)<sup>8</sup>) from 0 to 1.","[""0.011"",""0.022"",""0.033"",""0.044""]",1
+"Evaluate the integral of (cos 3A)<sup>8</sup> dA from 0 to π/6.","[""27\u03c0\/363"",""35\u03c0\/768"",""23\u03c0\/765"",""12\u03c0\/81""]",1
+"Integrate (1 / (3x + 4)) with respect to x and evaluate the result from x = 0 and x = 2.","[""0.278"",""0.336"",""0.252"",""0.305""]",3
+"Evaluate the integral of cos<sup>2</sup> ydy.","[""(y\/2) + (sin 2y\/4) + C"",""y + 2cos y + C"",""(y\/4) + (sin 2y\/4) + C"",""y + sin 2y + C""]",0
+"Integrate the square root of (1 – cos x) dx.","[""-2\u221a2 cos (x\/2) + C"",""-2\u221a2 cos x + C"",""2\u221a2 cos (x\/2) + C"",""2\u221a2 cos x + C""]",0
+"Evaluate the integral of cos x dx limits from π/4 to π/2.","[""0.423"",""0.293"",""0.923"",""0.329""]",1
+"Evaluate the integral of ln x dx, the limit are 1 and e.","[""0"",""1"",""2"",""3""]",1
+"Evaluate the integral of (2log<sub>10</sub> e dx) / x from 1 to 10.","[""2.0"",""49.7"",""3.0"",""5.12""]",0
+"What is the integral of cos 2x e<sup>sin 2x</sup> dx?","[""(e<sup>sin 2x<\/sup> \/ 2) + C"",""\u2013( e<sup>sin 2x<\/sup> \/ 2) + C"",""\u2013 e<sup>sin 2x<\/sup> + C"",""e<sup>sin 2x<\/sup> + C""]",0
+"The integral of cos x with respect to x is","[""sin x + C"",""sec x + C"",""\u2013sin x + C"",""csc x + C""]",0
+"Find the integral of [(e<sup>x</sup> – 1) / (e<sup>x</sup> + 1)] dx","[""ln (e<sup>x<\/sup> \u2013 1)<sup>2<\/sup> + x + C"",""ln (e<sup>x<\/sup> + 1) \u2013 x + C"",""ln (e<sup>x<\/sup> \u2013 1) + x + C"",""ln (e<sup>x<\/sup> + 1)<sup>2<\/sup> \u2013 x + C""]",3
+"Evaluate the double integral of <i>r sin u dr du</i>, the limits of r is 0 and cos u and the limit of u are 0 and pi.","[""1"",""1\/2"",""0"",""1\/3""]",3
+"Evaluate the integral of (3x<sup>2</sup> + 9y<sup>2</sup>) dx dy if the interior limits has an upper limit of y and a lower limit of 0, and whose outer limit has an upper limit of 2 and a lower limit of 0.","[""10"",""20"",""30"",""40""]",3
+"Find the area of the region bounded by y<sup>2</sup> = 8x and y = 2x.","[""1.22 sq. units"",""1.33 sq. units"",""1.44 sq. units"",""1.55 sq. units""]",1
+"What is the area bounded by the curve x<sup>2</sup> = -9y and the line y + 1 = 0?","[""3 sq. units"",""4 sq. units"",""5 sq. units"",""6 sq. units""]",1
+"What is the area (in square units) bounded by the curve y<sup>2</sup> = x and the line x – 4 = 0?","[""30\/3 sq. units"",""31\/3 sq. units"",""32\/3 sq. units"",""29\/3 sq. units""]",2
+"Find the area bounded by the curve y = x<sup>2</sup> + 2 and the lines x = 0 and y = 0 and x = 4.","[""88\/3 sq. units"",""64\/3 sq. units"",""54\/3 sq. units"",""64\/5 sq. units""]",0
+"Find the area bounded by the parabolas y = 6x – x<sup>2</sup> and y = x<sup>2</sup> – 2x. Note. The parabolas intersect at points (0, 0) and (4, 8).","[""44\/3 sq. units"",""64\/3 sq. units"",""74\/3 sq. units"",""54\/3 sq. units""]",1
+"Find the area bounded by the parabola x<sup>2</sup> = 4y and y = 4.","[""21.33 sq. units"",""33.21 sq. units"",""31.32 sq. units"",""13.23 sq. units""]",0
+"Find the area bounded by the line x – 2y + 10 = 0, the x-axis, the y-axis and x = 10.","[""75 sq. units"",""50 sq. units"",""100 sq. units"",""25 sq. units""]",0
+"What is the area (in square units) bounded by the curve y<sup>2</sup> = 4x and x<sup>2</sup> = 4y?","[""5.33 sq. units"",""6.67 sq. units"",""7.33 sq. units"",""8.67 sq. units""]",0
+"Find the area enclosed by the curve x<sup>2</sup> + 8y + 16 = 0, the x-axis, the y-axis and the line x – 0.","[""7.67 sq. units"",""8.67 sq. units"",""9.67 sq. units"",""10.67 sq. units""]",3
+"What is the area bounded by the curve y = x<sup>3</sup>, the x-axis, and the line x = -2 and x = 1?","[""4.25 sq. units"",""2.45 sq. units"",""5.24 sq. units"",""5.42 sq. units""]",0
+"Find the area in the first quadrant bounded by the parabola y<sup>2</sup> = 4x, x = 1, and x = 3.","[""9.555 sq. units"",""9.955 sq. units"",""5.955 sq. units"",""5.595 sq. units""]",3
+"Find the area (in sq. units) bounded by the parabolas x<sup>2</sup> – 2y = 0 and x<sup>2</sup> + 2y – 8 = 0.","[""11.77 sq. units"",""4.7 sq. units"",""9.7 sq. units"",""10.7 sq. units""]",3
+"What is the area between y = 0, y = 3x<sup>2</sup>, x = 0, x – 2?","[""8 sq. units"",""24 sq. units"",""12 sq. units"",""6 sq. units""]",0
+"What is the area bounded by the curve y<sup>2</sup> = x and the line x – 4 = 0?","[""11 sq. units"",""31\/3 sq. units"",""10 sq. units"",""32\/3 sq. units""]",3
+"Find the area of the curve r<sup>2</sup> = a<sup>2</sup>cos 2θ.","[""a sq. units"",""2<sup>2<\/sup> sq. units"",""a<sup>2<\/sup> sq. units"",""a<sup>3<\/sup> sq. units""]",2
+"Locate the centroid of the plane area bounded by y = x<sup>2</sup> and y = x.","[""0.4 from the x-axis and 0.5 from the y-axis"",""0.5 from the x-axis and 0.4 from the y-axis"",""0.5 from the x-axis and 0.5 from the y-axis"",""0.4 from the x-axis and 0.4 from the y-axis""]",1
+"Find the coordinates of the centroid of the plane area bounded by the parabola y = 4 – x<sup>2</sup> and the x-axis.","[""(0, 1)"",""(0, 1.6)"",""(0, 2)"",""(1, 0)""]",1
+"Locate the centroid of the plane area bounded by the equation y<sup>2</sup> = 4x, x = 1 and the x-axis on the first quadrant.","[""(3\/4, 3\/5)"",""(3\/5, 3\/4)"",""(2\/3, 3\/5)"",""(3\/5, 2\/3)""]",1
+"Find the length of the arc of the parabola x<sup>2</sup> = 4y from x = -2 to x = 2.","[""4.2 units"",""4.6 units"",""4.9 units"",""5.2 units""]",1
+"Find the surface area (in square units) generated by rotating the parabola arc y = x<sup>2</sup> about the x-axis from x = 0 to x = 1.","[""5.33"",""4.98"",""5.73"",""4.73""]",0
+"The area enclosed by the ellipse (x<sup>2</sup>/9) + (y<sup>2</sup>/4) = 1 is revolved about the line x = 3. What is the volume generated?","[""355.3 cubic units"",""360.1 cubic units"",""370.3 cubic units"",""365.1 cubic units""]",0
+"The area in the second quadrant of the circle x<sup>2</sup> + y<sup>2</sup> = 36 is revolved about line y + 10 = 0. What is the volume generated?","[""2218.33 cubic units"",""2228.83 cubic units"",""2233.43 cubic units"",""2208.53 cubic units""]",1
+"The area bounded by the curve y<sup>2</sup> = 12x and the line x = 3 is revolved about the line x = 3. What is the volume generated?","[""179 cubic units"",""181 cubic units"",""183 cubic units"",""185 cubic units""]",1
+"Given the area in the first quadrant bounded by x<sup>2</sup> = 8y, the line y – 2 = 0 and the y-axis. What is the volume generated when the area is revolved about the line y – 2 = 0?","[""28.41 cubic units"",""27.32 cubic units"",""25.83 cubic units"",""26.81 cubic units""]",3
+"Find the volume (in cubic units) generated by rotating a circle x<sup>2</sup> + y<sup>2</sup> + 6x + 4y + 12 = 0 about the y-axis.","[""39.48 cubic units"",""47.23 cubic units"",""59.22 cubic units"",""62.11 cubic units""]",2
+"Given the area in the first quadrant by x<sup>2</sup> = 8y, the line x = 4 and the x-axis. What is the volume generated by revolving this area about the y-axis.","[""53.26 cubic units"",""52.26 cubic units"",""51.26 cubic units"",""50.26 cubic units""]",3
+"Find the moment of inertia with respect to x-axis of the area bounded by the parabola y<sup>2</sup> = 4x and the line x = 1.","[""2.03"",""2.13"",""2.33"",""2.53""]",1
+"Find the length of the curve r = 4Sin θ from θ = 0° to θ = 90° and also the total length of curve.","[""\u03c0 ; 2\u03c0"",""2\u03c0 ; 4\u03c0"",""3\u03c0 ; 6\u03c0"",""4\u03c0 ; 8\u03c0""]",1
+"Find the length of the curve r = a (1 – Cosθ) from θ = 0° to θ = π and also the total length of the curve.","[""2a ; 4a"",""3a ; 6a"",""4a ; 8a"",""5a ; 9a""]",2
+"Find the total length of the curve r = a Cosθ.","[""\u03c0a"",""2\u03c0a"",""1.5\u03c0av"",""0.67\u03c0a""]",0
+"Find the length of the curve having a parametric equations of x = a Cos3θ, y = a Sin<sup>2</sup>θ from θ = 0° to θ = 2π.","[""5a"",""6a"",""7a"",""8a""]",1
+"Find the centroid of the area bounded by the curve y = 4 – x<sup>2</sup>, the line x = 1 and the coordinate axes.","[""(0.24, 1.57)"",""(1.22, 0.46)<b><i> <\/i><\/b>"",""(0.48, 1.85)"",""(2.16, 0.53)""]",2
+"Find the centroid of the area under y = 4 – x<sup>2</sup> in the first quadrant.","[""(0.75, 1.6)"",""(1.6, 0.95)<b><i> <\/i><\/b>"",""(0.74, 1.97)"",""(3.16, 2.53)""]",0
+"Find the centroid of the area in first quadrant bounded by the curve y<sup>2</sup> = 4ax and the latus rectum.","[""(0.6a, 0.75a)"",""(1.23a, 0.95a)<b><i> <\/i><\/b>"",""(0.94a, 2.97a)"",""(1.16a, 0.53a)""]",0
+"A triangular section has coordinates of A(2, 2), B(11, 2), and C(5, 8). Find the coordinates of the centroid of the triangular section.","[""(7, 4)"",""(6, 4)"",""(8, 4)"",""(9, 4)""]",1
+"The following cross section has the following given coordinates. Compute for the centroid of the given cross section. A(2, 2), B(5, 8), C(7, 2), D(2, 0), and E(7, 0).","[""(4.6, 3.4)"",""(4.8, 2.9)<b><i> <\/i><\/b>"",""(5.2, 3.8)"",""(5.3, 4.1)""]",0
+"Sections ABCD is a quadrilateral having the given coordinates A(2, 3), B(8, 9), C(11, 3), and D(11, 0). Compute for the coordinates of the centroid of the quadrilateral.","[""(5.32, 3)"",""(6.23, 4)<b><i> <\/i><\/b>"",""(7.33, 4)"",""(8.21, 3)""]",2
+"A cross section consists of a triangle and a semi circle with AC as its diameter. If the coordinates of A(2, 6), B(11, 9), and C(14, 6). Compute for the coordinates of the centroid of the cross section.","[""(4.6, 3.4)"",""(4.8, 2.9)<b><i> <\/i><\/b>"",""(5.2, 3.8)"",""(5.3, 4.1)""]",0
+"A 5 m x 5 cm is cut from a corner of 20 cm x 30 cm cardboard. Find the centroid from the longest side.","[""10.99 m"",""11.42 m<b><i> <\/i><\/b>"",""10.33 m"",""12.42 m""]",2
+"Locate the centroid of the area bounded by the parabola y<sup>2</sup> = 4x, the line y = 4 and the y-axis.","[""(0.4, 3)"",""(0.6, 3)"",""(1.2, 3)"",""(1.33, 3)""]",2
+"Find the centroid of the area bounded by the curve x<sup>2</sup> = –(y – 4), the x-axis and the y-axis on the first quadrant.","[""(0.25, 1.8)"",""(1.25, 1.4)<b><i> <\/i><\/b>"",""(1.75, 1.2)"",""(0.75, 1.6)""]",3
+"Locate the centroid of the area bounded by the curve y<sup>2</sup> = -1.5(x – 6), the x-axis and the y-axis on the first quadrant.","[""(2.2, 1.38)"",""(2.4, 1.13)"",""(2.8, 0.63)"",""(2.6, 0.88)<b><i> <\/i><\/b>""]",1
+"Locate the centroid of the area bounded by the curve 5y<sup>2</sup> = 16x and y<sup>2</sup> = 8x – 24 on the first quadrant.","[""(2.20, 1.51)"",""(1.50, 0.25)<b><i> <\/i><\/b>"",""(2.78, 1.39)"",""(1.64, 0.26)""]",0
+"Locate the centroid of the area bounded by the parabolas x<sup>2</sup> = 8y and x<sup>2</sup> = 16(y – 2) in the first quadrant.","[""(3.25, 1.2)"",""(2.12, 1.6)"",""(2.67, 2.0)"",""(2.00, 2.8)""]",1
+"Given the area in the first quadrant bounded by x<sup>2</sup> = 8y, the line y – 2 = 0 and the y-axis. What is the volume generated when revolved about the line y – 2 = 0?","[""53.31 m<sup>3<\/sup>"",""45.87 m<sup>3<\/sup><b><i> <\/i><\/b>"",""26.81 m<sup>3<\/sup>"",""33.98 m<sup>3<\/sup>""]",2
+"Given the area in the first quadrant bounded by x<sup>2</sup> = 8y, the line x = 4 and the x-axis. What is the volume generated by revolving this area about the y-axis?","[""78.987 m<sup>3<\/sup>"",""50.265 m<sup>3<\/sup>"",""61.253 m<sup>3<\/sup>"",""82.285 m<sup>3<\/sup>""]",1
+"Given the area in the first quadrant bounded by x<sup>2</sup> = 8y, the line y – 2 = 0 and the y-axis. What is the volume generated when this area is revolved about the x-axis.","[""20.32 m<sup>3<\/sup>"",""34.45 m<sup>3<\/sup><b><i> <\/i><\/b>"",""40.21 m<sup>3<\/sup>"",""45.56 m<sup>3<\/sup>""]",2
+"Find the volume formed by revolving the hyperbola xy = 6 from x = 2 to x = 4 about the x-axis.","[""23.23 m<sup>3<\/sup>"",""25.53 m<sup>3<\/sup><b><i> <\/i><\/b>"",""28.27 m<sup>3<\/sup>"",""30.43 m<sup>3<\/sup>""]",2
+"The region in the first quadrant under the curve y = Sinh x from x = 0 to x = 1 is revolved about the x-axis. Compute the volume of solid generated.","[""1.278 m<sup>3<\/sup>"",""2.123 m<sup>3<\/sup><b><i> <\/i><\/b>"",""3.156 m<sup>3<\/sup>"",""1.849 m<sup>3<\/sup>""]",0
+"A square hole of side 2 cm is chiseled perpendicular to the side of a cylindrical post of radius 2 cm. If the axis of the hole is going to be along the diameter of the circular section of the post, find the volume cutoff.","[""15.3 m<sup>3<\/sup>"",""23.8 m<sup>3<\/sup>"",""43.7 m<sup>3<\/sup>"",""16.4 m<sup>3<\/sup>""]",0
+"Find the volume common to the cylinders x<sup>2</sup> + y<sup>2</sup> = 9 and y<sup>2</sup> + z<sup>2</sup> = 9.","[""241 m<sup>3<\/sup>"",""533 m<sup>3<\/sup>"",""424 m<sup>3<\/sup>"",""144 m<sup>3<\/sup>""]",3
+"Given is the area in the first quadrant bounded by x<sup>2</sup> = 8y, the line, the line x = 4 and the x-axis. What is the volume generated by revolving this area about the y-axis.","[""50.26 m<sup>3<\/sup>"",""52.26 m<sup>3<\/sup>"",""53.26 m<sup>3<\/sup>"",""51.26 m<sup>3<\/sup>""]",0
+"The area bounded by the curve y<sup>2</sup> = 12x and the line x = 3 is revolved about the line x = 3. What is the volume generated?","[""185"",""187"",""181"",""183""]",2
+"The area in the second quadrant of the circle x<sup>2</sup> + y<sup>2</sup> = 36 is revolved about the line y + 10 = 0. What is the volume generated?","[""2128.63"",""2228.83"",""2233.43"",""2208.53""]",1
+"The area enclosed by the ellipse 0.11x<sup>2</sup> + 0.25y<sup>2</sup> = 1 is revolved about the line x = 3, what is the volume generated?","[""370.3"",""360.1"",""355.3"",""365.1""]",2
+"Find the volume of the solid formed if we rotate the ellipse 0.11x<sup>2</sup> + 0.25y<sup>2</sup> = 1 about the line 4x + 3y = 20.","[""40 \u03c0 2m<sup>3<\/sup>"",""45\u03c02m<sup>3<\/sup>"",""48 \u03c0 2m<sup>3<\/sup>"",""53 \u03c0 2m<sup>3<\/sup>""]",2
+"The area on the first and second quadrant of the circle x<sup><i>2 </i></sup>+ y<sup><i>2 </i></sup>= 36 is revolved about the line x = 6. What is the volume generated?","[""2131.83"",""2242.46"",""2421.36"",""2342.38""]",0
+"The area on the first quadrant of the circle x<sup><i>2 </i></sup>+ y<sup><i>2 </i></sup>= 25 is revolved about the line x = 5. What is the volume generated?","[""355.31"",""365.44"",""368.33"",""370.32""]",0
+"The area of the second and third quadrant of the circle x<sup><i>2 </i></sup>+ y<sup><i>2 </i></sup>= 36 is revolved about the line x = 4. What is the volume generated?","[""2320.30<b><i> <\/i><\/b>"",""2545.34"",""2327.25"",""2520.40""]",2
+"The area on the first quadrant of the circle x<sup><i>2 </i></sup>+ y<sup><i>2 </i></sup>= 36 is revolved about the line y + 10 = 0. What is the volume generated?","[""3924.60<b><i> <\/i><\/b>"",""2229.54"",""2593.45"",""2696.50""]",1
+"The area enclosed by the ellipse 0.0625x<sup><i>2 </i></sup>+ 0.1111y<sup><i>2 </i></sup>= 1 on the first and 2nd quadrant, is revolved about the x-axis. What is the volume generated?","[""151.40<b><i> <\/i><\/b>"",""155.39"",""156.30"",""150.41""]",3
+"The area enclosed by the curve 9x<sup><i>2 </i></sup>+ 16y<sup><i>2 </i></sup>= 144 on the first quadrant, is revolved about the y-axis. What is the volume generated?","[""98.60"",""200.98"",""100.67"",""54.80""]",2
+"Find the volume of an ellipsoid having the equation 0.04x<sup>2</sup> + 0.0625y<sup>2</sup> + 0.25z<sup>2</sup> = 1.","[""167.55"",""178.40"",""171.30"",""210.20""]",0
+"Find the volume of a spheroid having equation 0.04x<sup>2</sup> + 0.111y<sup>2</sup> + 0.111z<sup>2</sup> = 1.","[""178.90"",""184.45"",""188.50"",""213.45""]",2
+"The region in the first quadrant which is bounded by the curve y<sup>2</sup> = 4x, and the lines x = 4 and y = 0, is revolved about the x-axis. Locate the centroid of the resulting solid revolution.","[""2.667"",""2.333"",""1.111"",""1.667""]",0
+"The region in the first quadrant, which is bounded by the curve x<sup>2</sup> = 4y, the line x = 4, is revolved about the line x = 4. Locate the centroid of the resulting solid revolution.","[""0.6"",""0.5"",""1.0"",""0.8""]",3
+"The area bounded by the curve x<sup>3</sup> = y, the line y = 8 and the y-axis, is to be revolved about the y-axis. Determine the centroid of the volume generated.","[""4"",""5"",""6"",""7""]",1
+"The area bounded by the curve y = x<sup>3</sup> and the x-axis. Determine the centroid of the volume generated.","[""2.25"",""1.75"",""1.25"",""0.75""]",1
+"Find the moment of inertia of the area bounded by the curve x<sup>2</sup> = 4y, the line y = 1 and the y-axis on the first quadrant with respect to x-axis.","[""1.2<b><i> <\/i><\/b>"",""3.5"",""0.57"",""1.14""]",2
+"Find the moment of inertia of the area bounded by the curve x<sup>2</sup> = 4y, the line y = 1 and the y-axis on the first axis with respect to y axis.","[""6.33"",""1.07"",""0.87"",""0.94""]",1
+"Find the moment of inertia of the area bounded by the curve x<sup>2</sup> = 8y, the line x = 4, and the x-axis on the first quadrant with respect to x-axis.","[""1.52"",""2.61"",""1.98"",""2.36""]",0
+"Find the moment of inertia of the area bounded by the curve x<sup>2</sup> = 8y, the line x = 4, and the x-axis on the first quadrant with respect to y-axis.","[""21.8"",""25.6"",""31.6"",""36.4""]",1
+") Find the moment of inertia of the area bounded by the curve y<sup>2</sup> = 4x, the line x = 1, and the x-axis on the first quadrant with respect to x-axis.","[""1.067"",""1.142"",""1.861"",""1.232""]",0
+"Find the moment of inertia of the area bounded by the curve y2 = 4x, the line x = 1, and the x-axis on the first quadrant with respect to y-axis.","[""0.436"",""0.682"",""0.571"",""0.716""]",2
+"Find the moment of inertia of the area bounded by the curve y<sup>2</sup> = 4x, the line y = 2, and the y-axis on the first quadrant with respect to y-axis.","[""0.064"",""0.076"",""0.088"",""0.095""]",3
+"Find the moment of inertia with respect to x-axis of the area bounded by the parabola y<sup>2</sup> = 4x, the line x = 1.","[""2.13"",""2.35"",""2.68"",""2.56""]",1

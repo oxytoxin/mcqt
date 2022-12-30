@@ -1,0 +1,393 @@
+﻿question,choices,answer
+"Which of the following is the main function of a battery?","[""To provide a source of steady DC voltage to fixed polarity"",""To provide a source of steady dc voltage of variable polarity"",""To provide a source of variable dc voltage of fixed polarity"",""To provide a source of variable dc voltage of variable polarity""]",0
+"Volt is a unit of ____________.","[""electromotive force"",""energy"",""force"",""magneto motive force""]",0
+"A transformer will work on","[""ac only"",""ac as well as dc"",""dc only"",""pulsating dc""]",0
+"In a chemical cell current is the movement of","[""positive and negative ions"",""positive charges"",""positive ions only"",""negative ions only""]",0
+"What is the nominal output of an automotive battery having six lead acid cells in series?","[""12 V"",""24 V"",""6 V"",""3 V""]",0
+"The speed of a dc motor is","[""directly proportional to flux per pole"",""inversely proportional to flux per pole"",""inversely proportional to applied voltage"",""inversely proportional to armature current""]",1
+"Low speed alternators are driven by","[""hydraulic turbines"",""steam turbines"",""steam engines"",""diesel engines""]",0
+"High speed alternators are driven by","[""diesel engine"",""steam turbines"",""hydraulic turbines"",""diesel engine""]",1
+"The common 9v flat battery for transistor radio has _____________ cells connected in series","[""12"",""3"",""6"",""9""]",2
+"For the same rating, the size of low speed alternator is ____________ that of high speed alternator","[""about the same as"",""less than"",""more than"",""twice""]",2
+"Which of the following is not a secondary cell?","[""Silver-zinc"",""Nickel-iron"",""Silver-oxide"",""Lead-acid""]",2
+"Which of the following is not a primary cell?","[""Carbon-zinc"",""Zinc-chloride"",""Edison cell"",""Mercuric oxide""]",2
+"The brush voltage drop in a dc machine is about","[""0.1 V"",""2 V"",""10 V"",""20 V""]",1
+"Carbon brushes are used in a dc machine because","[""carbon lubricates and polishes the commutator"",""contact resistance is decreased"",""carbon is cheap"",""carbon is abundant""]",0
+"Considered as the main types of battery","[""Lithium cell and alkaline"",""Carbon-zinc dry cell and lead sulphuric wet cell"",""Leclanche cell and carbon zinc"",""Voltaic cell and lithium cell""]",1
+"Which of the following is the main function of a dc motor?","[""to generate power"",""to change mechanical energy to electrical energy"",""to change electrical energy to mechanical energy"",""to change chemical energy to mechanical energy""]",2
+"Which motor has the best speed regulation?","[""Series"",""Shunt"",""Commutatively compounded"",""Differentially compounded""]",2
+"A method of converting chemical energy into electric energy by dissolving two different conducting materials in an electrolyte","[""Battery"",""Cell"",""Voltaic cell"",""Charging""]",2
+"A commutatively compounded motor does not run at dangerous speed at light loads because of the presence of","[""shunt winding"",""interpoles"",""series"",""compensating windings""]",0
+"DC shunt motors are used in those applications where ___________ is required","[""high starting torque"",""high no load speed"",""practically constant speed"",""variable speed""]",2
+"Galvanic cell is the other name of","[""voltaic cell"",""primary cell"",""secondary cell"",""solar cell""]",0
+"For the same rating _____________ motor has the highest staring torque","[""shunt"",""differentially compounded"",""commutatively compound"",""series""]",3
+"The voltage regulation of an alternator with a power factor of 0.8 lagging is ____________ at unity power factor","[""greater than"",""the same as"",""smaller than"",""100%""]",0
+"Which is the most suitable for punch presses?","[""shunt motor"",""differentially compounded motor"",""series motor"",""commutatively compounded motor""]",3
+"In a vacuum cleaner, ___________ motor is generally used","[""shunt"",""series"",""commutatively compounded"",""differentially compounded""]",1
+"A type of secondary cell that can be recharged but with an electrolyte that cannot be refilled","[""Sealed rechargeable cell"",""Sealed secondary cell"",""Leclanche cell"",""Alkaline cell""]",0
+"Silver cadmium is secondary cell with a nominal open circuit voltage of","[""1.1 V"",""1.2 V"",""1.5 V"",""1.35 V""]",0
+"Which is a variable speed motor?","[""series"",""commutatively compounded"",""shunt"",""differentially compounded""]",0
+"The most commonly used method of speed control of a dc motor is by varying","[""voltage applied to the motor"",""field strength"",""effective number of conductors in series"",""armature circuit resistance""]",1
+"What gives the relative activity in forming ion charges for some of the chemical elements?","[""Electrochemical series"",""Electrical series"",""Electromotive series"",""Both A and C above""]",3
+"The ac armature winding of an alternator is","[""always star connected"",""star delta connected"",""generally delta connected"",""pi connected""]",0
+"The air gap in an alternator is __________ in an induction machine","[""much shorter than"",""about the same as"",""much longer than"",""one-half than""]",2
+"Nickel-iron cells is a secondary cell with a nominal open- circuit voltage output of 1.2 and is otherwise known as","[""Leclanche cell"",""Galvanic cell"",""Voltaic cell"",""Edison cell""]",3
+"A dc series motor is most suitable for","[""cranes"",""lathes"",""pump"",""punch presses""]",0
+"Which of the most suitable motor fro elevator","[""Series"",""Differentially compounded"",""Shunt"",""Commutatively compounded""]",3
+"The voltage output of a cell depends on","[""its elements"",""electromotive series"",""its electrodes"",""electrochemical series""]",0
+"The alternators driven by ____________ do not have a tendency to hunt","[""diesel engines"",""steam engines"",""water turbines"",""prime movers""]",1
+"Damper windings are used in alternators to","[""prevent hunting"",""achieve synchronism"",""reduce wind age losses"",""reduce eddy current loss""]",0
+"Leclanche cell is the other name of","[""lead acid cell"",""zinc chloride"",""carbon zinc cell"",""mercuric cell""]",2
+"the primary leakage flux links","[""primary winding only"",""secondary winding only"",""both primary and secondary windings"",""neither primary nor secondary windings""]",0
+"Overheating of a dc motor is often due to","[""insufficient end play"",""overloads"",""loose parts"",""rough commutator""]",1
+"A small 9V battery might be used to provide power to","[""an electric stove"",""an electronic calculator"",""a personal computer"",""a radio transmitter""]",1
+"The frequency of the system with which several alternators are parallel can be increased by simultaneously __________ of all generators","[""increasing the field excitation"",""decreasing the field excitation"",""increasing the speed of prime movers"",""decreasing the speed of prime movers""]",2
+"A transformer is an efficient device because it","[""is a static device"",""uses capacitive coupling"",""uses inductive coupling"",""uses electric coupling""]",0
+"The amount of back emf of shunt motor will increase when","[""the load is increased"",""the field is strengthen"",""the field is weakened"",""the load is decreased""]",1
+"Three cells connected in series from a","[""battery"",""voltage divider"",""voltage multiplier"",""hybrid""]",0
+"What can be found in a transformer with open-circuit test?","[""Copper losses"",""Turns ratio"",""Total equivalent resistance"",""Total equivalent leakage resistance""]",1
+"Transformers having ratings less than 5kva are generally","[""oil cooled"",""water cooled"",""natural air cooled"",""self cooled""]",2
+"An example of rechargeable dc source is an/a","[""lithium battery"",""photovoltaic cell"",""optoisolator"",""lead acid battery""]",3
+"The rating of an alternator is expressed in","[""kW"",""kVA"",""HP"",""KVAR""]",1
+"Cumulatively compounded motors are used in applications where ____________ is required","[""variable speed"",""poor speed regulation"",""sudden heavy loads for a short duration"",""constant speed""]",2
+"Which motor never use belt connected loads?","[""Series"",""Commulatively compounded"",""Shunt"",""Differentially compounded""]",0
+"A standalone solar power system","[""relies on the electric utility at night"",""uses solar panels and batteries"",""requires the use of dry cells"",""need a full wave rectifier""]",1
+"A transformer will have zero efficiency at","[""full load"",""half full load"",""no load"",""twice the load""]",2
+"The efficiency of a transformer will be at maximum when","[""leakage reactance of the two windings are equal"",""resistance of the two windings are equal"",""copper loss is equal to constant loss"",""copper loss is zero""]",2
+"The armature winding of a dc Machine is ____________ winding","[""an open circuit"",""a closed circuit"",""partly open circuit and partly closed circuit"",""lap""]",1
+"The speed at which a 6 pole alternator should be drive to generate 50 cycles per second is","[""1500 rpm"",""500 rpm"",""1000 rpm"",""1200 rpm""]",2
+"A 12 V battery is rated at 48 ah. If it must deliver an average of 2.0 A, how long will the battery last before it needs recharging","[""48 hrs"",""4 hrs"",""96 hrs"",""24 hrs""]",3
+"Connecting batteries of equal voltage in parallel","[""multiplies the voltage available"",""increases the internal resistance"",""reduces the power available"",""multiplies the current available""]",3
+"A storage battery in which the electrodes are grids of lead containing lead oxides that changes in composition during charging and discharging and the electrolyte is dilute sulfuric acid","[""Leclanche battery"",""Nickel cadmium battery"",""Lead acid battery"",""Faure storage battery""]",2
+"The common dry cell, which is a primary cell having a carbon positive electrode and a zinc negative electrode in an electrolyte of sal ammoniac and a depolarizer","[""Leclanche cell"",""Faure storage cell"",""Lead acid cell"",""Lithium cell""]",0
+"The maximum flux produced in the core of a transformer is","[""directly proportional to supply frequency"",""inversely proportional to supply frequency"",""inversely proportional to primary voltage"",""inversely proportional to secondary voltage""]",1
+"A transformer is so designed that primary and secondary windings have","[""loose magnetic coupling"",""tight magnetic coupling"",""critical magnetic coupling"",""good electric coupling""]",1
+"Four carbon zinc cell in series will provide about","[""2 Vdc"",""6 Vdc"",""9 Vdc"",""8 Vdc""]",1
+"What refers to a method in which the charger and the battery are always connected to each other for supplying current to the load","[""Continuous charging"",""Float charging"",""Infinite charging"",""On line charging""]",1
+"A series motor designed to operate on dc or ac","[""Shunt motor"",""Series motor"",""Universal motor"",""Compound motor""]",2
+"Combination of ac motor, dc generator, and exciter to provide adjustable voltage dc power to a dc motor.","[""Ward-Leonard system"",""Half wave SCR adjustable voltage supply"",""Compound motor"",""Universal motor""]",0
+"A motor takes a large current at starting because","[""the armature resistance is high"",""back emf is low"",""back emf is high"",""shunt field is producing weak field""]",1
+"A series motor will over speed when","[""the load is increased"",""the armature circuit is open"",""the field id opened"",""load is removed""]",3
+"When the load on an alternator is increased, the terminal voltage increases if the load power factor is","[""unity"",""leading"",""lagging"",""zero""]",1
+"The efficiency of the turbo-alternator _____________ with increase in speed","[""decreases"",""remains the same"",""increases"",""becomes 100%""]",2
+"What is the output of a lead acid cell?","[""2.1 V"",""1.5 V"",""1.35 V"",""1.25 V""]",0
+"One of the following is a false statement","[""storage cell has a reversible chemical reaction"",""carbon zinc cell has unlimited shelf life"",""lead acid cell is rechargeable"",""primary cell is not rechargeable""]",1
+"In an alternator, the effect of armature reaction is minimum at power factor of","[""0.866 lagging"",""0.5 lagging"",""0.866 leading"",""Unity""]",3
+"For given number of poles (2) and armature conductors, a lap winding will carry ___________ a wave winding","[""more current than"",""same current as"",""less current than"",""half the current than""]",0
+"An 8 pole duplex lap winding will have ____________ parallel paths","[""8"",""32"",""4"",""16""]",3
+"To increase the voltage output, cells are connected in","[""parallel"",""series-parallel"",""parallel-series"",""series""]",3
+"To increase current capacity, cells are connected in","[""parallel"",""series"",""series- parallel"",""parallel- series""]",0
+"Two things which are same for primary and secondary of transformer are","[""ampere turns and voltage per turn"",""resistance and leakage reactance"",""current and inducted voltage"",""number of turns and power""]",0
+"A transformer operates poorly at very low frequencies because","[""permeability of core is increased"",""magnetizing current is abnormally high"",""primary reactance is too much"",""permeability core is reduced""]",1
+"In an auto transformer, the primary and secondary are ___________ coupled","[""only magnetically"",""magnetically as well as electrically"",""only electrically"",""directly""]",1
+"A storage battery in which the plates consist if lead antimony supporting grids covered with a lead oxide paste immersed in weak sulfuric acid","[""Leclanche cell"",""primary battery"",""secondary battery"",""Faure storage battery""]",3
+"Which of the following is a dry storage cell?","[""Leclanche cell"",""Edison cell"",""Mercury cell"",""Nickel cadmium cell""]",3
+"The field structure of a dc machine uses","[""Salient pole arrangement"",""Non salient pole arrangement"",""Silicon steel"",""Cast steel""]",0
+"Small Dc machines generally have __________ poles","[""4"",""2"",""6"",""8""]",1
+"The armature of a dc machine is laminated in order to reduce","[""Eddy current loss"",""Copper loss"",""Hysteresis loss"",""Frictional loss""]",0
+"To produce an output of 7.5v, how many carbon zinc cells are connected in series?","[""4"",""5"",""6"",""3""]",1
+"The demand for a large increase in torque of a dc series motor is met by a","[""large decrease in current"",""large increase in speed"",""large decrease in speed"",""small decrease in speed""]",2
+"As the load increases a, ____________ motor will speed up","[""series"",""commutatively compounded"",""shunt"",""differentially compounded""]",3
+"The flux in the core of a single phase transformer is","[""purely alternating one"",""purely rotating one"",""partly alternating and partly rotating"",""constant""]",0
+"When the primary of a transformer is connected to a dc supply","[""a primary draw small current"",""primary leakage reactance is increased"",""core losses are increased"",""primary may burned out""]",3
+"a constant voltage source has","[""High internal resistance"",""minimum efficiency"",""minimum current capacity"",""low internal resistance""]",3
+"If the excitation of an alternator operating in parallel with other alternators is increased above the normal value excitation of excitation its","[""power factor becomes more lagging"",""output current decreases"",""power factor becomes more leading"",""output kw decreases""]",0
+"This synchronous reactance of an alternator is generally ____________ armature resistance","[""5 times smaller than"",""10 \u2013 100 times greater than"",""5 times greater than"",""10 times smaller than""]",1
+"DC series motors are used in those applications where ____________ required","[""high starting torque"",""low no load speed"",""constant speed"",""variable speed""]",0
+"A dc motor is still used in industrial applications because it","[""is cheap"",""provides fine speed control"",""is simple in construction"",""has no replacement""]",1
+"The stator of n alternator is wound for ____________ on the rotor","[""a more number of poles than"",""the same number of poles as"",""less number of poles than"",""twice the number of poles""]",1
+"Why are carbon brushes preferable compared to copper brushes?","[""they have longer life"",""they have lower resistance"",""they are cheaper"",""they reduce sparking""]",3
+"A 4 pole dc machine has magnetic circuits","[""2"",""4"",""8"",""6""]",1
+"The current in armature conductors of a dc machine is","[""pure dc"",""ac"",""pulsating dc"",""pure dc plus pulsating dc""]",1
+"The ac armature winding of an alternator operates at __________ the field of winding","[""the same voltage as"",""much higher voltage than"",""much lesser voltage than"",""half the voltage than""]",1
+"Why are the field poles and the armature of a dc machine laminated?","[""to reduce the weight of the machine"",""to reduce eddy current"",""to decrease the speed"",""to reduce armature reaction""]",1
+"The back emf or counter emf in a dc motor","[""opposes the applied voltage"",""aids the armature current"",""aids the supplied voltage"",""opposes the armature current""]",0
+"The synchronous reactance of an alternator is due to","[""leakage flux"",""armature reaction"",""dc field excitation"",""hysteresis loss""]",1
+"Back emf in a dc motor is maximum at","[""no load"",""half full load"",""full load"",""three fourth full load""]",0
+"The mechanical power developed in a dc motor is maximum when back emf is equal to _____ the applied voltage","[""twice"",""one third"",""one half"",""one fourth""]",2
+"The core type transformer is generally suitable for","[""high voltage and small output"",""low voltage and high output"",""high voltage and high output"",""low voltage and low output""]",0
+"The transformer that should never have the secondary open circuited when primary is energized is","[""power transformer"",""auto transformer"",""voltage transformer"",""current transformer""]",3
+"The field winding of an armature is _________ excited","[""dc"",""ac"",""both ac and dc"",""battery""]",0
+"The salient pole construction for field structure of an alternator is generally used for _________ machine","[""2 pole"",""8 pole"",""4 pole"",""6 pole""]",1
+"When the speed of a dc motor increases, its armature current","[""increases"",""remains the same"",""decreases"",""becomes infinite""]",2
+"The frequency of emf generated in an 8 pole alternator at 900 rpm is","[""50 hz"",""120 hz"",""60 hz"",""240 hz""]",2
+"In case if a 4 pole machine, 1 mechanical degree corresponds to ________ electrical degree","[""2"",""8"",""4"",""6""]",0
+"The torque developed by a dc motor is directly proportional to","[""flux per pole x armature current"",""armature resistance x applied voltage"",""armature resistance x armature current"",""flux per pole x applied voltage""]",0
+"AC machine in which the torque is produced by the interaction of currents in the stator and currents induced in the motor by transformer action","[""squirrel cage motor"",""stepper motor"",""synchronous motor"",""induction motor""]",3
+"Machine in which torque is produced by the interaction of ac current in the stator and dc currents in the rotor turning synchronism","[""synchronous motor"",""induction motor"",""squirrel cage motor"",""stepper motor""]",0
+"The main drawback of a dc shunt generator is that","[""terminal voltage drops considerably with load"",""shunt field circuit has high resistance"",""generated voltage is small"",""it is expensive""]",0
+"DC machines which are subjected to abrupt changes of load are provided with","[""interpole windings"",""compensating winding"",""equalizers"",""copper brushes""]",1
+"The shaft torque in a dc motor is less than total armature torque because of _________ in the motor","[""copper losses"",""iron and friction losses"",""field losses"",""hysteresis loss""]",1
+"Armature reaction in a dc motor is increased","[""When the armature current increases"",""when the armature current decreases"",""when the field current increases"",""by interpole""]",0
+"An ideal transformer is one which","[""has no losses and leakage reactance"",""does not work"",""has the same number of primary and secondary turns"",""has the same primary and secondary voltage""]",0
+"If a power transformer is operated at very high frequencies then","[""primary reactance is too much increased"",""primary will draw large power"",""core losses will be excessive"",""core loss is negligible""]",2
+"With respect to the direction of rotation, interpoles on a dc motor must have the same polarity as the main poles","[""ahead of them"",""in parallel with them"",""behind them"",""beside them""]",2
+"The open circuit test on a transformer is always made on","[""low voltage winding"",""high voltage winding"",""either low or high voltage"",""neither low or high voltage""]",0
+"In the short circuit test in a transformer, __________ winding is generally short circuited","[""high voltage"",""low voltage"",""either low or high voltage"",""neither low nor high voltage""]",1
+"In a dc motor, the brushes are shifted from the mechanical neutral panel in a direction opposite to the rotation to","[""decreased speed"",""reduced sparking"",""increase speed"",""produce flat characteristics""]",1
+"The number of cycles generated in a 6 pole alternator in one revolution is","[""3"",""5"",""6"",""2""]",0
+"If the lagging load power factor of an alternator is decreased, the demagnetizing effect of the armature reaction","[""remains the same"",""is increased"",""is decreased"",""becomes infinite""]",1
+"In a very large dc motor with severe heavy duty, armature reaction effects are corrected by","[""using interpole only"",""using compensatory windings in addition to interpoles"",""shifting the brush position"",""fixing the brush position""]",1
+"The amount of copper in the primary is _________ that of the secondary","[""about the same as"",""smaller than"",""greater than"",""twice""]",0
+"The open circuit test on a transformer gives","[""copper losses"",""iron losses"",""friction losses"",""total losses""]",1
+"The speed of a __________ motor is practically constant","[""commutatively compounded"",""differentially compounded"",""series"",""shunt""]",3
+"The running speed of a dc series motor is basically determined by","[""field excitation"",""armature resistance"",""load"",""applied voltage""]",2
+"If the excitation of an alternator operating in parallel with other alternators is decreased, its","[""power factor becomes more leading"",""output kW will change"",""power factor becomes more lagging"",""power factor becomes unity""]",0
+"The distribution of load between two alternators operating in parallel can be changed by changing","[""phase sequence"",""field excitation of alternators"",""driving torques of prime movers"",""current direction""]",2
+"After a shunt motor is up to speed the speed may be increased considerably by","[""increasing field circuit resistance"",""decreasing field circuit resistance"",""increasing the armature circuit resistance"",""reducing the load""]",1
+"When the secondary of a transformer is short circuited, the primary inductance","[""is decreased"",""remains the same"",""is increased"",""becomes zero""]",0
+"For the same rating __________ motor has the least starting torque","[""commulatively compounded"",""shunt"",""series"",""differentially compounded""]",1
+"The deciding factor in the selection of a dc motor for a particular application is its _____ characteristics","[""speed torque"",""torque armature current"",""speed armature current"",""speed""]",0
+"The rotor of a turbo alternator is made cylindrical in order to reduce","[""eddy current loss"",""wind age loss"",""hysteresis loss"",""copper loss""]",1
+"The disadvantage of a short pitched coil is that","[""harmonics are introduced"",""waveform becomes non-sinusoidal"",""voltage round the coil is reduced"",""voltage round coil is increases""]",2
+"The demand for a large increase in torque of a dc shunt motor is met by a","[""large decreased in speed"",""large increased in current"",""large increased in speed"",""small increased in current""]",1
+"For 20% increase in current, the motor that will give the greatest increase in torque is _________ motor","[""shunt"",""series"",""differentially compounded"",""commulatively compounded""]",1
+"What cell is used to detect infrared radiation, either its generated voltage or its change of résistance may be used as a measure of the intensity of the radiation?","[""lead sulfide cell"",""Faure storage cell"",""infrared cell"",""Leclanche cell""]",0
+"A galvanic cell resulting from difference in potential between adjacent on the surface of a metal immersed in an electrolyte","[""NiCd cell"",""lead acid cell"",""local cell"",""lithium cell""]",2
+"Which motor is used to start heavy loads?","[""series"",""differentially compounded"",""shunt"",""commulatively compounded""]",0
+"When load is removed, the motor that will run at the highest speed is the _________ motor","[""shunt"",""commulatively compounded"",""series"",""differentially compounded""]",2
+"If a transformer core has air gaps then","[""reluctance of magnetic path is decreased"",""hysteresis loss is decreased"",""magnetizing current is greatly increased"",""eddy current is increased""]",2
+"The effect of leakage flux in a transformer is to","[""increase copper losses"",""decrease copper losses"",""cause voltage drop in the windings"",""reduce eddy current losses""]",2
+"The iron losses in a dc motor depend upon","[""flux only"",""speed only"",""both flux and speed"",""temperature""]",2
+"The greatest percentage of power loss in a dc motor is due to","[""wind age loss"",""core loss"",""copper loss"",""friction loss""]",2
+"Excessive sparking at the brushes may caused due to","[""dirt on the commutator"",""misalignment of machine"",""loose coupling"",""worn bearings""]",0
+"The temperature rise of a transformer is directly proportional to","[""apparent power"",""leakage reactance"",""reactive power"",""true power""]",0
+"A graphical relation between the generated emf and the field current of a machine","[""current generation curve"",""voltage generation curve"",""voltage current curve"",""magnetization curve""]",3
+"Majority of alternators in use have","[""revolving ac armature winding"",""stationary field type construction"",""revolving field type construction"",""stationary ac armature winding""]",2
+"The stator of an alternator is identical to that of a","[""dc generator"",""1 phase induction motor"",""3 phase induction motor"",""Rosenberg generator""]",2
+"Excessive motor vibration is caused by","[""too much brush tension"",""open armature coil"",""worn bearings"",""bent shaft""]",2
+"Hot bearings of a dc motor may be caused by","[""poor ventilation"",""loose coupling"",""incorrect voltage"",""lack of dirty lubricant""]",3
+"Intermittent sparking at the brushes of dc motor may be caused due to","[""an open armature coil"",""loose coupling"",""intermittent load"",""incorrect voltage""]",0
+"When the load on a transformer is increased, the eddy current loss","[""is decreased"",""remains the same"",""is increased"",""becomes zero""]",1
+"The yoke of a dc machine is made of","[""silicon steel"",""aluminum"",""soft iron"",""cast steel""]",0
+"The armature of a dc machine is made of","[""silicon steel"",""cast steel"",""wrought iron"",""soft iron""]",2
+"The voltage per turn of the primary of a transformer is _________ the voltage per turn of the secondary","[""more than"",""the same as"",""less than"",""twice""]",1
+"The winding of the transformer with greater number of turns will be","[""high voltage winding"",""low voltage winding"",""either high or low voltage winding"",""high power""]",0
+"The coupling field between electrical and the mechanical systems of a dc machine is","[""electric field"",""both electric and magnetic fields"",""magnetic field"",""electromagnetic field""]",2
+"The real working Part of a dc machine is the","[""commutator"",""armature winding"",""field winding"",""stator""]",1
+"Which DC machines are the most common?","[""2 pole"",""6 pole"",""4 pole"",""8 pole""]",2
+"The core type transformer provides","[""much longer magnetic pattern"",""lesser average length per turn"",""shorter magnetic path"",""longer magnetic path""]",2
+"A machine with field excitation by both shunt and series windings","[""complex machine"",""compound machine"",""universal machine"",""shunt\/ series machine""]",1
+"The armature winding of a dc machine is placed on the rotor to","[""save iron"",""facilitate commutation"",""reduce losses"",""reduce armature reaction""]",1
+"The yoke of a dc machine carries _____ poke flux","[""one third of"",""two times of"",""one half of"",""one fourth of""]",2
+"The greatest eddy current loss occurs in the __________ of a dc machine","[""field poles"",""commutating process"",""yoke"",""armature""]",3
+"The commutator pitch for a simplex lap winding is equal to","[""number of poles of the machines"",""1"",""poles pairs"",""2""]",1
+"In a simplex wave winding, the number of parallel paths is equal to","[""number of poles in the machine"",""2"",""number of pair poles"",""1""]",1
+"In a practical transformer, copper losses account for how many percent of the total losses?","[""75%"",""25%"",""85%"",""95%""]",2
+"By laminating the core of a transformer, __________ decreases","[""leakage reactance"",""eddy current loss"",""hysteresis loss"",""copper loss""]",1
+"The number of parallel paths in a simplex lap winding is equal to","[""2"",""number of poles"",""number of pair poles"",""1""]",1
+"In a dc machine the number of commutator segments is equal to","[""number of conductors"",""number of coils"",""twice the number of poles"",""twice the number of coils""]",1
+"A dc compound generator having full load terminal voltage equal to the no load generator voltage is called __________ generator","[""under compounded"",""flat compounded"",""over compounded"",""un compounded""]",1
+"The terminal voltage of a __________ generator vary widely with changes in load current","[""series"",""flat compounded"",""shunt"",""over compounded""]",0
+"The nature of armature winding of a dc machine is decided by","[""front pitch"",""back pitch"",""commutator path"",""number of coils""]",2
+"The voltage regulation of an alternator is larger than of a dc generator because of","[""large armature resistance"",""large leakage reactance"",""complex effects of armature reaction"",""small armature resistance""]",2
+"High voltage dc machines use what winding?","[""Lap"",""wave"",""either lap or wave"",""open circuit""]",1
+"In a lap winding, the number of the brushes required is equal to","[""number of poles"",""commutator pitch"",""number of pairs of poles"",""number of coils""]",0
+"What is the approximate efficiency of large transformer?","[""65%"",""80%"",""50%"",""95%""]",3
+"In a wave winding, the commutator pitch is approximately equal to","[""pole pitch"",""thrice the pole pitch"",""twice the pole pitch"",""half the pole pitch""]",2
+"A triplex wave winding will have _________ parallel paths","[""6"",""4"",""2"",""8""]",0
+"For a given dc generator, the generated voltage depends upon","[""flux only"",""both speed and flux"",""speed only"",""armature rotation""]",1
+"For the same rating, a dc machine has _________ an ac machine","[""the same weight as"",""less weight than"",""more weight than"",""half the weight than""]",2
+"Difference between the speed of a rotating magnetic field and the associated rotor","[""split"",""salient pole"",""slip"",""pull out torque""]",2
+"The field winding of a dc shunt machine usually carries ___________ of the rated current of the machine","[""2% to 5%"",""more than 20%"",""15% to 20%"",""less than 0.5%""]",0
+"A separately excited dc generator is not used because","[""it is costly"",""a separate dc source is required for field circuit"",""voltage drops considerably with load"",""it is bulky""]",1
+"The effect of armature reaction is to","[""decreased the total flux"",""make the air gap flux uniform"",""increase the total flux"",""make the flux constant""]",0
+"In a dc generator armature reaction __________ pole tip","[""weakens the flux at the trailing"",""weakens the flux at the leading"",""strengthens the flux at the leading"",""strengthens the flux at the trailing""]",1
+"The greatest percentage of the heat loss in a dc machine is due to","[""eddy current loss"",""copper loss"",""hysteresis loss"",""frictional loss""]",1
+"The size of a dc generator can be reduced by using","[""lap winding"",""high resistance winding material"",""iron commutator"",""magnetic material of high permeability""]",3
+"A device that is capable of converting chemical energy into electrical energy","[""generator"",""battery"",""converter"",""cell""]",3
+"A secondary cell whose active positive plate consists of nickel hydroxide, and active negative-plate material is powdered iron oxide mixed with cadmium. Its typical output when fully charged is VO = 1.2 V","[""Leclanche cell"",""dry cell"",""Edison cell"",""lead-acid cell""]",2
+"If a cell can be charged after it is depleted, it is considered as","[""a secondary cell"",""a storage cell"",""an accumulator"",""all of the above""]",3
+"What type of cell that cannot be recharged which cannot restore chemical reaction?","[""nickel-cadmium cell"",""secondary cell"",""primary cell"",""lead-acid wet cell""]",2
+"A cell whose chemical reaction is not reversible","[""primary cell"",""secondary cell"",""rechargeable cell"",""solar cell""]",0
+"A voltage source in a single container made from one or more cells combines in series, parallel, or series-parallel.","[""photoelectric"",""thermocouple"",""battery"",""piezo-electric""]",2
+"A battery means","[""cells connected in series"",""cells connected in parallel"",""cells connected in series-parallel"",""all of the above""]",3
+"A battery is used to","[""supply a steady dc voltage"",""supply an unstable dc voltage"",""supply an ac voltage"",""supply an ac\/dc voltage""]",0
+"In a dry cell, what will happen to the internal resistance as it aged?","[""decreases"",""increases"",""remains constant"",""decreases or increases, depends on the chemical composition""]",1
+"The maximum current a cell can deliver through a 0.01 ohm load during testing","[""flash current"",""surge current"",""ideal current"",""full-load current""]",0
+"In batteries, the material used to insulate the positive plates from negative plates are technically called","[""insulator"",""break-point"",""coupler"",""separator""]",3
+"How long will a battery need to operate a 240 Watts equipment, whose capacity is 100 Ah and 24 volts rating?","[""5 hrs"",""10 hrs"",""1 hr"",""0.10 hr""]",1
+"A battery is rated 20 A-hr and is delivering a current of 2 A. How long does it last?","[""1 hr"",""5 hrs"",""8 hrs"",""10 hrs""]",3
+"A primary cell with carbon and zinc as its positive and negative electrodes respectively, and an electrolyte of either a gel or paste. This is commonly known as dry cell.","[""Leclanche cell"",""Edison cell"",""storage cell"",""solar cell""]",0
+"Find the output of a four (4) lead acid cells.","[""3.2 V"",""8.4 V"",""5.8 V"",""12 V""]",1
+"Silver-cadmium cell has a nominal open-circuit voltage of","[""1.05 V"",""1.5 V"",""2.1 V"",""2.2 V""]",0
+"Output of six carbon-zinc cells connected in series","[""3 V"",""6 V"",""6.6 V"",""9 V""]",3
+"The flat 9-V battery, has how many cells in series?","[""3"",""4"",""6"",""9""]",2
+"Output of automotive battery with six lead-acid cells in series","[""6 V"",""12 V"",""24 V"",""48 V""]",1
+"Substance, which generates a voltage when exposed to light.","[""generating substance"",""photovoltaic material"",""thermoelectric generator"",""hydroelectric generator""]",1
+"A cell whose voltage is generated as a function of light","[""photovoltaic cell"",""thermoelectric cell"",""photodiode"",""LED""]",0
+"Substance used in photovoltaic cells","[""Silicon"",""Selenium"",""Germanium"",""All of these""]",3
+"A junction between two conductors that exhibits electrical characteristics under condition of changing temperature","[""pn junction"",""photojunction"",""thermoelectric junction"",""hydroelectric junction""]",2
+"Electricity that is generated due to heat, as in thermocouple.","[""thermodynamics"",""thermojunction"",""electric heater"",""thermoelectricity""]",3
+"The source of mechanical power to turn the rotors of alternators, large and small, A.C. and D.C.","[""prime contactor"",""primer"",""prime mover"",""prime user""]",2
+"Electrical machines refer to machines that convert ________.","[""mechanical to electrical energy"",""electrical to mechanical energy"",""electrical energy of one form to electrical energy of another form"",""all of the above""]",3
+"Electrical machines that convert mechanical energy to electrical energy.","[""generators"",""motors"",""cycloconverters"",""frequency converters""]",0
+"Electrical machine that converts ac voltage to dc voltage, or vice versa.","[""generator"",""motor"",""rotary converter"",""frequency converter""]",2
+"Electrical machine that changes ac voltage at one frequency to another ac voltage at another frequency.","[""generator"",""motor"",""rotary converter"",""frequency converter""]",3
+"It consist of a single coil rotated in a magnetic field and produces an A.C. voltage.","[""field winding"",""armature"",""commutator"",""elementary generator""]",3
+"Generation of voltage in a generator can only happen when?","[""there is a rotary conductor"",""there is a magnetic field in a conductor"",""there is a relative motion between conducting wires and magnetic lines of force"",""there is a relative motion between a conductor and electric field""]",2
+"Two essential parts in rotating generators","[""electro\/permanent magnets and armature winding"",""electromagnets or permanent magnets and commutator"",""commutator and armature winding"",""brushes and commutator""]",0
+"In electrical machines, what do you call the set of conductors wound on laminated cores of good magnetic permeability?","[""armature core"",""armature winding"",""rotary winding"",""rotary core""]",1
+"In dc generator, what converts the alternating emf to DC?","[""armature"",""commutator"",""diode"",""alternator""]",1
+"Generally, in dc generators","[""The armature winding is rotated with respect to a stationary magnetic field produced by electromagnets or permanent magnets."",""The electromagnets or permanent magnets (magnetic fields) are rotated with respect to the stationary armature winding."",""Current is sent into the armature winding; or the armature winding is usually placed in a stationary laminated iron core and the rotating element may or may not be a set of magnet poles, it depends on the type of motor."",""The armature winding is supplied with current; or the armature is placed inside a set of radially supported magnetic poles.""]",0
+"In electrical machines, what type of voltage is generated at the armature winding?","[""dc"",""pulsating dc"",""ac"",""ac or dc depending on the type of machine""]",2
+"Generally in ac generators","[""The armature winding is rotated by a stationary magnetic field produced by electromagnets or permanent magnets."",""Current is sent into the armature winding; or the armature winding is usually placed in a stationary laminated iron core and the rotating element may or may not be a set of magnet poles, it depends on the type of motor."",""The electromagnets or permanent magnets (magnetic fields) are rotated with respect to the stationary armature winding."",""The armature winding is supplied with current; or the armature is placed inside a set of radially supported magnetic poles.""]",2
+"A dc generator whose excitation is produced by a winding connected to its own positive and negative terminals.","[""series generator"",""separately excited shunt generator"",""self-excited shunt generator"",""compound generator""]",2
+"What is true about field poles in electric machines?","[""there are always even number of them (exist by pair)"",""there are always an odd number of them"",""there are an even or an odd number of them"",""none of the above""]",0
+"In a compound generator, which field winding usually, has a lower resistance?","[""series field winding"",""shunt field winding"",""armature winding"",""excitation winding""]",0
+"Which winding in a dc-compound generator that is relatively made of fine wires?","[""armature winding"",""excitation winding"",""shunt field winding"",""series field winding""]",2
+"What important characteristic you should consider in choosing a dc-generator?","[""voltage capacity"",""current capacity"",""voltage vs. load"",""power rating""]",2
+"What is the purpose of laminating the field poles and armature of a dc machine?","[""to reduce eddy current"",""to avoid contaminants"",""to provide isolation"",""to beautify the machine""]",0
+"An alternator with a lagging power factor of 0.8 will have a ________ voltage regulation at unity power factor.","[""0%"",""less than"",""greater than"",""100%""]",2
+"With alternators connected in parallel, the frequency of the system can be changed by","[""increasing the field excitation"",""decreasing the field excitation"",""changing the rpm of the prime movers"",""synchronizing the prime movers""]",2
+"With alternators connected in parallel, the voltage of the system can be changed by","[""changing the field excitation"",""increasing the speed of the prime movers"",""changing the rpm of the prime movers"",""synchronizing the prime movers""]",0
+"If an ac generator is to be driven from prime mover having variable speed, such as aircraft engine, a ________ must be used.","[""constant speed drive (CSD)"",""regulator"",""conditioner"",""peak limited""]",0
+"Find the frequency in kilocycles per second in the armature of a 10 pole, 1,200 rpm generator.","[""100"",""1000"",""10"",""0.1""]",3
+"What should be the speed of a 6-pole ac generator in order to have a frequency of 50 Hz?","[""100 rpm"",""500 rpm"",""1000 rpm"",""1500 rpm""]",2
+"Calculate the voltage regulation of a generator having a no-load voltage of 220 V and a full load voltage of 180 V.","[""18%"",""22%"",""28%"",""32%""]",1
+"Usually used to drive low-speed alternators","[""diesel engines"",""jet propulsion engines"",""steam turbines"",""hydraulic turbines""]",3
+"Is usually used to drive high-speed alternators","[""diesel engines"",""pneumatic engines"",""steam turbines"",""hydraulic turbines""]",2
+"Which statement is true regarding alternators?","[""high-speed alternators are smaller than low-speed"",""low-speed alternators are smaller than high-speed"",""high-power alternators are smaller than low-power"",""high-voltage alternators are smaller than low-voltage""]",0
+"For what reason, why carbon brushes are widely used dc machines?","[""it is abundant"",""it is cheap"",""it has a high voltage drop"",""it lubricates and polishes the contacts""]",3
+"Alternators have less chance to hunt if driven by","[""steam turbines"",""hydroturbines"",""diesel turbines"",""nuclear reactor""]",0
+"In alternators, what is the purpose of damper windings?","[""it prevents over speeding"",""it maintain constant speed"",""it prevents hunting"",""it protects overloading""]",2
+"What term applies to the use of two or more generators to supply a common load?","[""on-line operation"",""series operation"",""cascaded operation"",""parallel operation""]",3
+"In paralleling ac generators, ________ is very important.","[""voltage level"",""current level"",""phase angle"",""internal resistance""]",2
+"Description used for generators trying to self-adjust its parameters before paralleling with on line generators.","[""synchronizing"",""sequencing"",""jogging"",""alighning""]",2
+"In changing power from one generator to another, what do you call the operational sequence wherein the incoming generator is connected first before removing the existing generator?","[""No Break Power Transfer (NBPT)"",""UPS"",""LIFO"",""Standby Power transfer""]",0
+"What do you mean by break power transfer?","[""The incoming generator will be connected first to the bus bar before disconnecting the existing generator."",""The present on-line generator will be disconnected first before connecting the incoming generator."",""The incoming generator will only be connected to the bus bar when the bus bar breaks."",""The present on-line generator will be disconnected first and then reconnected together with the incoming generator.""]",1
+"How alternators rated?","[""in Watts"",""in kW"",""in kVar"",""in kVA""]",3
+"In electrical power distribution, what do you call the first distribution line from the main generating station?","[""main transmission lines"",""primary distribution lines"",""sub transmission lines"",""secondary distribution lines""]",0
+"The lines which carry the energy from the transformer to a customer’s services are called ________.","[""main transmission lines"",""primary distribution lines"",""sub transmission lines"",""secondary distribution lines""]",3
+"In electrical power Generating/distribution Company, which do you think is their highest expenses?","[""generation of power"",""distribution of power to the consumers"",""power transmission"",""substations""]",1
+"In electrical power distributions, what insulator is generally used?","[""rubber"",""wood"",""plastic"",""porcelain""]",3
+"Electrical machines refer to machines that convert ________.","[""mechanical to electrical energy"",""electrical to mechanical energy"",""electrical energy of one form to electrical energy of another form"",""all of the above""]",3
+"Electrical machines that convert electrical energy to mechanical energy.","[""generators"",""motors"",""rotary converters"",""frequency converters""]",1
+"Synchronous type of ac-motor,","[""uses a dc-generator to supply dc-excitation to the rotating field"",""uses pulsating dc"",""uses alternator"",""has an ac or dc depending on the type of machine""]",0
+"Generally in dc motors","[""the armature winding is rotated by a stationary magnetic field produced by electromagnets or permanent magnets."",""current is sent into the armature winding; or the armature winding is usually placed in a stationary laminated iron core and the rotating element may or may not be a set of magnet poles, it depends on the type of motor."",""the electromagnets or permanent magnets (magnetic fields) are rotated with respect to the stationary armature winding."",""the armature winding is supplied with current; or the armature is placed inside a set of radially supported magnetic poles.""]",3
+"In ac motors, generally","[""current is sent into the armature winding; or the armature winding is usually placed in a stationary laminated iron core and the rotating element may or may not be a set of magnet poles, it depends on the type of motor."",""the armature winding is supplied with current; or the armature is placed inside a set of radially supported magnetic poles."",""the armature winding is rotated by a stationary magnetic field produced by electromagnets or permanent magnets."",""the electromagnets or permanent magnets (magnetic fields) are rotated with respect to the stationary armature winding.""]",0
+"Among the dc motors, which produces the highest torque?","[""series"",""shunt"",""compound"",""differentially compounded""]",0
+"Dc motor that has the most stable speed.","[""differentially compounded"",""compound"",""shunt"",""series""]",2
+"In dc motors, when does severe arcing happens?","[""during starting"",""during rated speed"",""during speed fluctuation"",""during shutdown""]",0
+"What is the primary reason why carbon brushes are preferred over copper brushes in dc motors?","[""they have low loss"",""they are more strong"",""they produce less arcing"",""all of the above""]",2
+"In dc motors, the emf developed which opposes to the supplied voltage.","[""residual emf"",""induced emf"",""coercive emf"",""counter emf or back emf""]",3
+"To minimize arcing during starting of dc motors, a resistance should be added to limit the current in the ________.","[""series field winding"",""shunt field winding"",""armature winding"",""all of these""]",2
+"Which dc motors whose speed is greatly affected by a change in load? It will even run away if the load is removed.","[""series"",""shunt"",""cumulatively compounded"",""differentially compounded""]",0
+"Motors whose speed can be easily controlled.","[""dc motors"",""ac motors"",""ac &amp; dc motors"",""ac or dc motors""]",0
+"When a dc motor has no load, what will happen to the back emf?","[""reduces"",""increases"",""becomes maximum"",""becomes zero""]",2
+"When can we get a maximum mechanical power from a dc motor?","[""Eb = 0"",""Eb = \u00bdV"",""Eb = 1V"",""Eb = 2V""]",1
+"The torque of a dc motor is","[""directly proportional to the field strength"",""inversely proportional to the field strength"",""directly proportional to the armature current"",""A and C are correct""]",3
+"One causes why the shaft torque is less than the developed armature torque of a dc motor.","[""eddy current"",""field loss"",""brushes loss"",""friction loss""]",3
+"For heavy-duty dc motor, how does the effect of armature reaction be corrected?","[""using interpoles &amp; brush shifting"",""using interpoles"",""using compensatory winding"",""B &amp; C are correct""]",3
+"Considered as a variable speed motor","[""compounded"",""differentially compounded"",""shunt"",""series""]",3
+"What is the most common method used in varying the speed of a dc motor?","[""by varying the supply voltage"",""by changing the effective number of conductors in series"",""by varying the armature resistance"",""by varying the field strength""]",3
+"The running speed of a dc series motor is greatly affected by what factor?","[""field excitation"",""load"",""armature resistance"",""supply voltage""]",1
+"In choosing a motor for a particular application, what characteristic you should consider?","[""speed-torque"",""speed-armature current"",""speed efficiency"",""speed power""]",0
+"What will happen to the dc shunt motor if the load torque greatly increases?","[""the speed will decrease"",""there will be a great increase in current"",""the speed almost remains constant"",""B and C are correct""]",3
+"What will happen to a dc series motor when its load is removed?","[""the motor will stop"",""the motor speed remains the same"",""the torque remains the same"",""the motor will overspeed""]",3
+"A motor whose speed increases as the load is increased.","[""series dc"",""dc shunt"",""cumulatively compounded"",""differentially compounded""]",3
+"Factor(s) that affect iron losses in a dc motor.","[""flux"",""speed"",""armature resistance and flux"",""A and B are correct""]",3
+"One advantage of a cumulatively compounded motor is that it does not run widely at light loads, this feature is due to","[""shunt winding"",""brake winding"",""series winding"",""clutch winding""]",0
+"In applications where an almost constant speed is required, a _______ motor is a good choice.","[""dc shunt"",""dc series"",""cumulatively compounded"",""differentially compounded""]",0
+"In applications where a high torque is needed during starting a _______ motor is preferred.","[""dc shunt"",""dc series"",""differentially compounded"",""cumulatively compounded""]",1
+"In applications where sudden heavy loads happen for short duration, a _______ motor is the best choice.","[""dc shunt"",""dc series"",""cumulatively compounded"",""differentially compounded""]",2
+"In motors of the same rating, which has the least starting torque?","[""dc shunt"",""dc series"",""differentially compounded"",""cumulatively compounded""]",0
+"Factor(s) that affect friction and winding loses in dc motors.","[""speed"",""armature current"",""interpoles"",""armature resistance""]",0
+"Dirt on the commutator may produce","[""isolation"",""excessive sparking"",""power loss"",""lower torque""]",1
+"Motor vibrations are usually caused by","[""loose coupling"",""dirt on the commutator"",""much brush tension"",""worn bearings""]",3
+"When a motor is overloaded, it will usually","[""slow down"",""speed up"",""vibrate"",""overheat""]",3
+"Which motor that produces the highest increase in torque considering the same increase in current?","[""dc shunt"",""dc series"",""differentially compounded"",""cumulatively compounded""]",1
+"When an armature opens in dc motor, it may cause","[""intermittent sparking"",""an increase in speed"",""the motor to slow down"",""the motor to stop rotating""]",0
+"Why do motors take large current during starting?","[""the armature resistance is still low"",""the field produced is still weak"",""it has to break the momentum"",""there\u2019s still a low back emf""]",3
+"In dc motors, the speed will","[""increase with an increase in field strength"",""decrease with an increase in field strength"",""decrease as the supply voltage is increased"",""B and C are correct""]",1
+"When armature current is increased in a dc motor, its armature reaction will","[""also increase"",""decrease"",""increase exponentially"",""decrease exponentially""]",0
+"Why does in dc motor, brushes are positioned such that they will be with the direction of the rotation?","[""to reduce sparking"",""to last long"",""to have less loss"",""all of the above""]",0
+"Motors are used to convert electrical energy to mechanical energy. What type of motor that is best suited for heavy-load application?","[""dc series motors"",""dc compound motors"",""single phase motors"",""polyphase motors""]",3
+"DC shunt motor speed can be controlled electronically by using a _______ in series with the armature winding.","[""thyrector"",""potentiometer"",""rheostat"",""thyristor""]",3
+"Which thyristor is commonly used is motor speed control?","[""triac"",""diac"",""SCR"",""SUS""]",2
+"In controlling motor speed, the SCRs controls the","[""number of pulses"",""phase angle"",""firing angle"",""any of these""]",2
+"How do you reverse the rotation of a dc shunt motor?","[""By reversing the direction of the field current, leaving the armature current the same."",""By reversing the direction of the armature current, leaving the field current the same."",""By reversing both field and armature current"",""Either A or B""]",3
+"In motor speed control, what is responsible for SCR firing?","[""trigger circuit"",""threshold circuit"",""reference circuit"",""holding circuit""]",0
+"A circuit that converts ac-voltage to dc-voltage","[""rectifier"",""inverter"",""dc-converter"",""ac-converter""]",0
+"Conversion from dc-voltage to another dc-voltage requires a","[""inverter"",""cycloconverter"",""dc-converter"",""ac-converter""]",2
+"A converter that changes ac-voltage to another ac-voltage level.","[""inverter"",""cycloconverter"",""dc-converter"",""ac-converter""]",3
+"What converter must be used if one wished to change dc-voltage into ac-voltage?","[""inverter"",""cycloconverter"",""dc-converter"",""ac-converter""]",0
+"A converter that changes ac-voltage frequency from one to another.","[""inverter"",""cycloconverter"",""dc-converter"",""ac-converter""]",1
+"In electronic converters, what signal is mostly used to trigger the active device?","[""sine-wave"",""square-wave"",""triangular-wave"",""sawtooth-wave""]",1
+"A transformer consist of the following:","[""An inductance and resistance"",""A parallel resonant circuit"",""A capacitor and an inductor"",""Two coils wound on a common core""]",3
+"Transformer is considered by many as an efficient device due to the fact that","[""it uses an inductive coupling"",""it is magnetically coupled"",""it is a static device"",""it is electrically coupled""]",2
+"With transformer, what is measured when performing open-circuit test?","[""turns ratio"",""copper loss"",""leakage reactance"",""turns impedance""]",1
+"Open-circuit test with transformers is always done on what winding?","[""low-voltage"",""high-voltage"",""primary"",""secondary""]",0
+"Short-circuit test with transformers is always done on what winding?","[""low-voltage"",""high-voltage"",""primary"",""secondary""]",0
+"When the transformer secondary winding is short-circuited, its primary inductance will","[""become zero"",""decrease"",""increase"",""not be affected""]",2
+"Cooling system for transformers with ratings less than 5 kVA","[""forced-air cooling"",""oil-cooling"",""natural air cooling"",""water cooling""]",2
+"For transformers, zero efficiency happens when it has","[""no-load"",""1\/2 of full-load"",""2\/3 of full-load"",""full-load""]",0
+"For transformers, maximum efficiency happens when","[""copper loss is zero"",""copper loss is equal to constant loss"",""the primary and secondary windings are equal"",""the leakage reactances of both windings are equal""]",1
+"In constructing transformers, the primary and secondary windings should have","[""good electrical coupling"",""loose magnetic coupling"",""tight magnetic coupling"",""best inductive coupling""]",2
+"What are the two parameters in transformers that are the same in both primary and secondary?","[""power and voltage"",""power and current"",""power and impedance"",""voltage per turn and ampere-turns""]",3
+"In transformers, the amount of copper used in the primary is","[""less than that of the secondary"",""greater than that of secondary"",""exactly twice that of secondary"",""almost equal as that of secondary""]",3
+"At very low frequencies, transformers woks poorly because","[""its magnetizing current will be very high"",""its core permeability will be greatly increased"",""its core permeability will be greatly reduced"",""its impedance will increase""]",0
+"What will happen if a power transformer is to be operated at a very high frequency?","[""it will have a very high core loss"",""its impedance will decrease"",""its core permeability will be greatly increased"",""its core permeability will be greatly reduced""]",0
+"How are the primary and secondary coupled in autotransformers?","[""electrically"",""magnetically"",""electrically and magnetically"",""capacitively""]",2
+"In a single-phase transformer, the core flux is","[""constant"",""pulsating"",""alternating"",""alternating and sometimes stable""]",2
+"What do you think will happen to a transformer when its primary is connected to a DC supply?","[""It will become more efficient"",""It will become less efficient"",""It will have good regulation"",""It might burn out""]",3
+"Generally, in what application you consider the use of core-type transformers?","[""low voltage and low current"",""low voltage and high current"",""high voltage and low current"",""high voltage and high current""]",2
+"In ________ transformers, when its primary is energized the secondary should never be open-circuited.","[""power"",""voltage"",""current"",""matching""]",2
+"Considered as an ideal transformer","[""the one with no losses and leakage reactance"",""the one with 100% regulation"",""the one with zero efficiency"",""the one with equal primary and secondary""]",0
+"What is the effect of air gaps at the transformer core?","[""Its reluctance is decreased"",""It increases eddy current"",""It decreases hysteresis loss"",""It increases magnetizing current""]",3
+"________ currents are wasteful currents which flows in cores of transformers and produces heat.","[""Residual"",""Eddy"",""Sneak"",""Magnetizing""]",1
+"What will happen to the eddy current loss in transformers when the load is increased?","[""will also increase"",""will decrease"",""will become infinite"",""nothing will happen""]",3
+"Leakage flux in transformers will cause","[""copper loss to increase"",""copper loss to decrease"",""eddy current to decrease"",""voltage drop in the windings""]",3
+"The increase in temperature in a transformer is mainly due to","[""true power"",""reactive power"",""apparent power"",""virtual power""]",2
+"In transformers, the voltage per turn at the primary is ________ the secondary.","[""less than that of"",""greater than that of"",""a factor of"",""the same as""]",3
+"In transformer windings, the more number of turns","[""the higher is the voltage"",""the lower is the voltage"",""the lower is the impedance"",""the higher is the current""]",0
+"What is true about core-type transformers?","[""It has a shorter magnetic path"",""It has a longer magnetic path"",""It has a very long magnetic path"",""It has an infinite magnetic path""]",0
+"What is the purpose of laminating the core of a transformer?","[""to decrease eddy current loss"",""to increase eddy current loss"",""to decrease copper loss"",""to decrease hysteresis loss""]",0
+"Large transformers have approximately an efficiency of","[""25%"",""45%"",""75%"",""95%""]",3
+"The loss in a transformer due to the changing field is called","[""leakage"",""hysteresis loss"",""eddy loss"",""keeper""]",1
+"The ratio of the amount of magnetic flux linking a secondary coil compared to the flux generated by the primary coil:","[""coupling factor"",""mutual coupling"",""coefficient of coupling"",""hysteresis factor""]",2
+"Mutual inductance between two coils can be decreased by","[""moving the coils apart"",""inserting an iron core"",""moving the coils close"",""reducing the reluctance""]",0
+"An advantage of full-wave rectifier over half-wave rectifier.","[""Each diode can cool-off during half of each input cycle"",""The ripple frequency is lower"",""The tube will conduct during both halves of the input cycle"",""Output voltage is lower with more ripple""]",2
+"One of the following items below is not one of the main components of an alternating current power supply.","[""Power transformer"",""Voltage regulator"",""Rectifier"",""Filter""]",2
+"Most electronic devices/circuits require dc-voltage to operate. A battery is a good power source, however, its operating time is limited. The use of battery also proves to be expensive. A more practical alternative is to use the household main supply, and since this is an ac-voltage, it must be converted to a dc-voltage. The circuit that converts this ac-voltage to a dc-voltage is called","[""rectifier"",""clamper"",""filter"",""regulator""]",0
+"A rectifier that uses either the positive or negative portion only of the main ac-supply","[""half-wave"",""full-wave"",""full-wave bridge"",""all of the above""]",0
+"For a half-wave rectifier, the average output voltage is _______ of the maximum ac voltage.","[""31.8%"",""45%"",""63.6%"",""90%""]",0
+"Percent ripple of a half-wave rectifier.","[""24%"",""48%"",""63.6%"",""121%""]",3
+"Calculate the dc-voltage at the output of a half-wave rectifier with a 12Vrms input.","[""2.7 V"",""3.8 V"",""4.5 V"",""5.4 V""]",3
+"To double the capability of the half-wave rectifier, a __________ must be used.","[""full-wave rectifier"",""full-wave bridge"",""dual-supply"",""A or B is correct""]",3
+"Full-wave rectifier defers from full-wave bridge in what aspect?","[""full-wave uses two diodes, while four for full-wave bridge"",""diode\u2019s PIV in full-wave is twice that of full-wave bridge"",""full-wave generates less heat than full-wave bridge"",""all of the above""]",3
+"Common to both full-wave and full-wave bridge rectifiers","[""dc-voltage"",""ripple factor"",""ripple frequency and percent ripple"",""all are correct""]",3
+"Find direct current voltage from a full-wave rectifier with 120 V peak rectified voltage.","[""60 V"",""7.639 V"",""76.39 V"",""6.0 V""]",2
+"The dc-voltage of a full-wave bridge rectifier.","[""0.318 Vmax"",""0.45 Vmax"",""0.636 Vmax"",""0.90 Vmax""]",2
+"Relate the magnitude of the dc-output voltage to the ac input rms voltage of a full-wave rectifier.","[""VDC = 0.318 Vrms"",""VDC = 0.45 Vrms"",""VDC = 0.636 Vrms"",""VDC = 0.90 Vrms""]",3
+"Determine the dc-voltage of a full-wave bridge rectifier when the input ac-voltage is 24 Vrms.","[""7.63 V"",""10.8 V"",""15.3 V"",""21.6 V""]",3
+"Ripple factor of a full-wave rectifier.","[""0.318"",""0.48"",""0.9"",""1.21""]",1
+"To improve the dc output voltage of a power supply, a __________.","[""shunt resistor may be installed"",""limiting resistor may be installed"",""feedback element may be installed"",""filter capacitor may be installed""]",3
+"Factor(s) that can reduce the ripple voltage of a power supply.","[""filter capacitance"",""reduction of load current"",""increase in input frequency"",""all of the above""]",3
+"Making the filter capacitor large in a power supply results to","[""an increase of the ripple voltage"",""an increase of the dc-voltage"",""a decrease of the ripple frequency"",""A and B above""]",1
+"Find the ripple factor (kr) of a sinusoidal signal with peak ripple of 4 volts on an average of 30.","[""0.094"",""0.013"",""0.130"",""0.94""]",0
+"Calculate the peak-to-peak ripple voltage of a 20 V full-wave power supply with a filter capacitor C = 220 µF when delivering a load current of 50 mA.","[""2.0 Vpp"",""3.79 Vpp"",""5.67 Vpp"",""7.9 Vpp""]",0
+"In capacitor-filtered power supply, what will happen to the ripple voltage if the load is disconnected?","[""increases"",""becomes infinite"",""becomes unpredictable"",""drops to zero""]",3
+"For a power supply with a peak-to-peak ripple voltage of 5 Vpp, determine its rms ripple.","[""1.44 Vrms"",""1.77 Vrms"",""2.88 Vrms"",""3.54 Vrms""]",1
+"A 20-Vdc power supply was found to have a ripple voltage of 2 Vrms when supplying 1.5 amps load. Calculate its percent ripple.","[""7.5 %"",""10.0 %"",""12.5 %"",""15.0 %""]",1
+"Which power supply filter gives the smallest ripple voltage?","[""capacitor filter"",""RC-filter"",""LC-filter"",""multi-section LC-filter""]",3
+"Ripple voltage in power supplies causes unwanted effects on the load it is supplying, i.e. a hum in audio amplifiers. To minimize this effect several filtering techniques are used, however, ripple still exists. What is a better alternative to reduce further the ripples?","[""truncation"",""clipping"",""clamping"",""regulation""]",3
+"A voltage regulator connected in parallel with the load.","[""series regulator"",""parallel regulator"",""shunt regulator"",""switching regulator""]",2
+"Which regulator is the most efficient?","[""series"",""shunt"",""switching"",""modulating""]",1
+"Voltage reference element in most voltage regulators","[""diac"",""thyrector"",""zener diode"",""transistor""]",2
+"In voltage regulators, what do you call the element/device that controls the amount of current/voltage/power?","[""sampling circuit"",""comparator"",""limiter"",""control element""]",3
+"The element/device used as a comparator in most voltage regulators.","[""zener diode"",""BJT"",""IGBT"",""op-amp""]",3
+"Sampling circuit used in most voltage regulators.","[""voltage divider network"",""bleeder network"",""crowbar"",""bootstrap circuit""]",0
+"Most voltage regulators used __________ as their control element.","[""BJT"",""SBS"",""UJT"",""JFET""]",0
+"The most efficient voltage regulator and is therefore used in high-current high-voltage applications.","[""series regulators"",""shunt regulators"",""hybrid regulators"",""switching regulators""]",3
+"A 12 VDC power supply is regulated using 7805 IC and is used in TTL circuits that require a 0.2 amps current. Determine the dropout voltage of the system.","[""4 V"",""5 V"",""6 V"",""7 V""]",3
+"A load draws 1 A current from a 10-V regulated power supply. Calculate the power dissipated by the regulator if it has an input voltage of 16 V.","[""6 Watts"",""10 Watts"",""12 Watts"",""16 Watts""]",0
+"Three-terminal fixed positive voltage regulators commonly used in industry.","[""78XX series"",""79XX series"",""723 IC regulator"",""317 regulator""]",0
+"What is the regulated output voltage of a 7924 regulator?","[""+ 4 V"",""\u2013 4 V"",""+ 24 V"",""\u2013 24 V""]",3
+"A three-terminal variable positive voltage regulator","[""317"",""337"",""723"",""741""]",0
+"What three-terminal IC regulator that has a variable negative voltage output?","[""317"",""337"",""723"",""741""]",1
+"In a three-terminal adjustable positive voltage regulator (317), what is the band-gap voltage between the output terminal and adjustment terminal?","[""1.25 V"",""2.5 V"",""3.25 V"",""4.125 V""]",0
+"Typical ripple rejection of most three-terminal voltage regulators","[""0.1 %"",""0.8 %"",""1.2 %"",""2.0 %""]",0
+"The three-terminal voltage regulators, such as the 78XX series has a typical current rating of 1.5 amperes. If a high current is required, say 30 amperes, how will you make modifications from this regulator in order to provide the required current?","[""by cascading them"",""by the use of a crowbar circuit"",""by connecting them in parallel"",""by the use of external pass transistor""]",3
+"What is the simplest way of protecting power supplies from reverse-polarity/reverse-current flow?","[""by a forward-biased diode"",""by a reverse-biased diode"",""by a crowbar circuit"",""by a snubber circuit""]",1
+"A crowbar circuit is used","[""to monitor the output current of a power supply and automatically shuts down the system when an overload occur."",""to monitor the temperature of a power supply and switches the cooling fan when a threshold temperature is reached."",""as voltage reference in regulated power supplies."",""as an over-voltage protection in power supplies.""]",3

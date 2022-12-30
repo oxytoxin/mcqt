@@ -1,0 +1,7 @@
+question,A,B,C,D,E,answer,explanation
+<p>Which type of PLD should be used to program basic logic functions?</p>,PLA,PAL,CPLD,SLD,,B,
+<p>The content of a simple programmable logic device (PLD) consists of:</p>,fuse-link arrays,thousands of basic logic gates,advanced sequential logic functions,thousands of basic logic gates and advanced sequential logic functions,,D,
+<p>Once a PAL has been programmed:</p>,it cannot be reprogrammed.,its outputs are only active HIGHs,its outputs are only active LOWs,its logic capacity is lost,,A,
+<p>The complex programmable logic device (CPLD) contains several PLD blocks and:</p>,field-programmable switches,AND/OR arrays,a global interconnection matrix,a language compiler,,C,
+"<p>PLAs, CPLDs, and FPGAs are all which type of device?</p>",SLD,PLD,EPROM,SRAM,,B,
+<p>The difference between a PLA and a PAL is:</p>,"the PLA has a programmable OR plane and a programmable AND plane, while the PAL only has a programmable AND plane","the PAL has a programmable OR plane and a programmable AND plane, while the PLA only has a programmable AND plane",the PAL has more possible product terms than the PLA,PALs and PLAs are the same thing.,,A,

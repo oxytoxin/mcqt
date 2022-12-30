@@ -1,0 +1,344 @@
+﻿question,choices,answer
+"Which of the following is the first commercial satellite?","[""Early Bird"",""Telstar"",""Explorer"",""Courier""]",1
+"What is the first passive satellite transponder?","[""Sun"",""Early Bird"",""Score"",""Moon""]",1
+"The first satellite to receive and transmit simultaneously","[""Intelsat I"",""Agila I"",""Syncorn I"",""Telstar I""]",3
+"A helical antenna is used for satellite tracking because of","[""circular polarization"",""maneuverability"",""beamwidth"",""gain""]",0
+"Repeaters inside communications satellites are known as","[""Trancievers"",""Transponders"",""Transducers"",""TWT""]",1
+"Considered as the unsolved problem in satellite system","[""Coverage"",""Cost"",""Access"",""Privacy""]",3
+"___________ is a satellite that rotates around the earth in a low-altitude elliptical or circular pattern.","[""Geosynchronous satellite"",""Nonsynchronous satellite"",""Prograde satellite"",""Retrograde satellite""]",1
+"Is the geographical representation of a satellite antenna radiation pattern","[""Footprint"",""Spot"",""Earth"",""Region""]",0
+"The smallest beam of a satellite antenna radiation pattern","[""Zone beam"",""Hemispheric beam"",""Spot beam"",""Global beam""]",2
+"A satellite beam that covers almost 42.4% of the earths surface.","[""Zone beam"",""Hemispheric beam"",""Spot beam"",""Global beam""]",3
+"What is the frequency range of C-band?","[""8.5 to 12.5 GHz"",""3.4 to 6.425 GHz"",""12.95 to 14.95 GHz"",""27.5 to 31 GHz""]",1
+"A satellite signal transmitted from a satellite transponder to earth’s station.","[""Uplink"",""Downlink"",""Terrestrial"",""Earthbound""]",1
+"Collects very weak signals from a broadcast satellite","[""Helical antenna"",""Satellite dish"",""LNA"",""TWT""]",1
+"What is a device that detects both vertically and horizontally polarized signals simultaneously?","[""Orthomode transducer"",""Crystal detector"",""Optoisolator"",""Isomode detector""]",0
+"_________ detects the satellite signal relayed from the feed and converts it to an electric current, amplifies and lower its frequency.","[""Horn antenna"",""LNA"",""Satellite receiver"",""Satellite dish""]",1
+"Is a loss of power of a satellite downlink signal due to earth’s atmosphere.","[""Atmospheric loss"",""Path loss"",""Radiation loss"",""RFI""]",1
+"What height must a satellite be placed above the surface of the earth in order for its rotation to be equal to earth’s rotation?","[""26,426.4 miles"",""27,426.4 miles"",""23,426.4 miles"",""22,426.4 miles""]",3
+"Point on the satellite obits closest to the earth.","[""Apogee"",""Perigee"",""Prograde"",""Zenith""]",1
+"The earth area covered by a satellite radio beam.","[""Beamwidth"",""Bandwidth"",""Footprint"",""Zone""]",2
+"What is the local oscillator (mixer) frequency of the satellite with an uplink frequency in GHz band?","[""3500 MHz"",""4500 MHz"",""2225 MHz"",""2555 MHz""]",2
+"What kind of battery panels are used in some advance satellites","[""Germanium based panels"",""Silicon based panel"",""Galium Phosphate solar panel array"",""Galium Arsenide solar panel array""]",3
+"Satellite engine uses","[""jet propulsion"",""ion propulsion system"",""liquid fuel"",""solar jet""]",1
+"A satellite batter has more power but lighter.","[""Lithium"",""Leclanche"",""Hydrogen"",""Magnesium""]",0
+"What kind of battery used by older satellites?","[""Lithium"",""Leclanche"",""Hydrogen"",""Magnesium""]",2
+"VSAT was made available in","[""1979"",""1981"",""1983"",""1977""]",0
+"What band does VSAT first operate?","[""L-band"",""X-band"",""C-band"",""Ku-band""]",2
+"The first Philippine Mabuhay satellite has how many channels?","[""30"",""24"",""48"",""50""]",0
+"The first Philippine Agila I will have how many transponders.","[""36"",""48"",""24"",""12""]",0
+"How may satellite orbital slots are requested by the Philippine Government from ITU?","[""2"",""4"",""6"",""8""]",2
+"The location of AsiaSat I.","[""105.5\u02da East"",""151.5\u02da East"",""115.5\u02da East"",""170.5\u02da East""]",0
+"AsiaSat I covers how many countries in Asia?","[""38"",""10"",""28"",""15""]",0
+"The owner of AsiaSat 2 is","[""Asia Satellite Telecommunications Company (ASTC)"",""Japan Satellite System (JSAT)"",""China Great Wall Industry Corporation"",""Singapore Satellite Commission""]",2
+"What is the approximate path loss from satellite-to-earth station?","[""100 dB"",""150 dB"",""175 dB"",""200 dB""]",3
+"INTELSAT stands for","[""Intel Satellite"",""International Telephone Satellite"",""International Telecommunications Satellite"",""International Satellite""]",2
+"The frequency of Ku band for satellite communications.","[""6\/4 GHz"",""14\/11 GHz"",""12\/14 GHz"",""4\/8 GHz""]",1
+"A satellite cross-link means","[""Earth-to-satellite link"",""Satellite-to-earth link"",""Satellite-to-satellite link"",""None of these""]",2
+"Earth station uses what type of antenna","[""Despun antenna"",""Helical antenna"",""Toroidal antenna"",""Cassegrain antenna""]",3
+"What is the delay time for satellite transmission from earth transmitter to earth receiver?","[""0.5 s"",""1.0 s"",""5 ms"",""0.25 ms""]",0
+"The bandwidth of C-band satellite frequency band in U.S.","[""500 GHz"",""1000 GHz"",""1000 MHz"",""500 MHz""]",3
+"The most common device used as an LNA is","[""zener diode"",""tunnel diode"",""IMPATT"",""Shockley diode""]",1
+"The radiation patterns of earth coverage antennas have a beamwidth of approximately","[""21\u02da"",""5\u02da"",""17\u02da"",""35\u02da""]",2
+"A mobile satellite array has usually how many elements?","[""6"",""88"",""12"",""14""]",3
+"In a typical mobile satellite array antenna if three elements are activated, how many elements are deactivated?","[""3"",""11"",""5"",""9""]",1
+"What circuit is responsible in activating and deactivating adjacent antenna elements in a mobile satellite array?","[""Radial divider"",""Divider\/combiner"",""Radial combiner"",""Radial multiplexer""]",0
+"Most mobile satellite array uses ___________ in transforming 50 to 150 Ω impedance.","[""stub"",""balun"",""quarter-wavelength transformer"",""microstrip tapers.""]",2
+"The switching from one element to the other element in a typical mobile satellite array.","[""Series"",""Radial"",""Matrix"",""Shunt""]",3
+"A method of multiple accessing where a given RF channel bandwidth is divided inot smaller frequency band.","[""CDMA"",""ANIK-D"",""TDMA"",""FDMA""]",3
+"What is the delay time for satellite transmissions from earth transmitter to earth receiver?","[""0.5 s"",""1s"",""5 ms"",""0.25 s""]",0
+"As the height of a satellite orbit gets lower, the speed of the satellite _________.","[""increases"",""decreases"",""remains the same"",""None of the above""]",0
+"The key electronic component in a communications satellite is the","[""telemetry equipment"",""on-board computer"",""command and control system"",""transponder""]",3
+"A circular orbit around the equator with a 24-h period is called a/an","[""elliptical orbit"",""geostationary orbit"",""polar orbit"",""transfer orbit""]",1
+"A satellite stay in orbit because the following two factors are balanced","[""Satellite weight and speed"",""Gravitational force and centrifugal force"",""Centripetal force and speed"",""Satellite weight and the pull of the moon and sun""]",1
+"What is the height of a satellite in a synchronous equatorial orbit?","[""42000 mi"",""6800 mi"",""22,300 mi"",""35,860 mi""]",2
+"Most satellites operate in which frequency band?","[""30 to 300 MHz"",""300 MHz to 3 GHz"",""3 GHz to 30 GHz"",""Above 300 GHz""]",2
+"The main power sources for a satellite are","[""batteries"",""solar cells"",""fuel cells"",""thermoelectric generators""]",1
+"The maximum height of an elliptical orbit is called the","[""Perigee"",""Apex"",""Zenith"",""Apogee""]",3
+"Batteries are used to power all satellite subsystems","[""at all times"",""only during emergencies"",""during eclipse periods"",""to give the solar arrays a rest""]",2
+"The satellite subsystem that monitors and controls the satellite is the","[""propulsion subsystem"",""power subsystem"",""communications subsystem"",""telemetry, tracking, and command subsystem""]",3
+"What is the basic technique used to stabilize a satellite?","[""Gravity-forward motion balance"",""Spin"",""Thruster control"",""Solar panel orientation""]",1
+"The jet thrusters are usually fired to","[""maintain altitude"",""put the satellite into the transfer orbit"",""inject the satellite in the geosynchronous orbit"",""bring the satellite back to earth.""]",0
+"Most commercial satellite activity occurs in which band(s)?","[""L"",""C and Ku"",""X"",""S and P""]",1
+"How can multiple earth stations share a satellite on the same frequencies?","[""Frequency reuse"",""Multiplexing"",""Mixing"",""Frequency hopping""]",0
+"What is the typical bandwidth of a satellite band?","[""36 MHz"",""40 MHz"",""70 MHz"",""500 MHz""]",3
+"Which of the following is not usually a part of a transponder are defined by the","[""LNA"",""Mixer"",""Modulator"",""HPA""]",2
+"The satellite communications channels in a transponder are defined by the","[""LNA"",""bandpass filter"",""mixer"",""input signals""]",1
+"The HPAs in most satellite are","[""TWTs"",""Klystrons"",""Vacuum tubes"",""Magnetrons""]",0
+"The physical location of a satellite is determined by its","[""distance from the earth"",""latitude and longitude"",""reference to the stars"",""position relative to the sun""]",1
+"The receive GCE system in an earth station performs what function(s)?","[""Modulation and multiplexing"",""Up conversion"",""Demodulation and demultiplexing"",""Down conversion""]",2
+"Which of the following types of HPA is not used in earth stations?","[""TWT"",""Transistor"",""Klystron"",""Magnetron""]",3
+"What is the common up-converter and down-converter IF?","[""36 MHz"",""40 MHz"",""70 MHz"",""500 MHz""]",2
+"What type of modulation is used on voice and video signals?","[""AM"",""FM"",""SSB"",""QPSK""]",1
+"What modulation is normally used with digital data?","[""AM"",""FM"",""SSB"",""QPSK""]",3
+"Which of the following is not a typical output from a GPS receiver?","[""Latitude"",""Speed"",""Altitude"",""Longitude""]",1
+"The total space loss of transmission and reception for two ground stations with uplink frequency 8GHz and a downlink of 6 GHz with angle of elevations of 3˚ and 7˚ A respectively is","[""403 dB"",""100 dB"",""20 dB"",""215 dB""]",0
+"The maximum propagation delay of a geostationary satellite is","[""278 ms"",""239 ms"",""300 ms"",""250 ms""]",0
+"The total propagation delay time from transmission to reception of signals from a ground transmitter to ground receiver with angle of elevation at 10 degrees respectively is","[""273 ms"",""239 ms"",""275 ms"",""260 ms""]",0
+"A satellite which simply reflects the signal without further amplification","[""Passive satellite"",""Active satellite"",""Geostationary satellite"",""Domestic satellite""]",0
+"Essentially a satellite ___________ is a radio repeater in the sky","[""transponder"",""comparator"",""duplexer"",""billboard""]",0
+"Satellite the orbits in a circular pattern with an angular velocity equal to that of the earth","[""Geostationary"",""Early Bird I"",""Syncorn I"",""Stationary satellite""]",0
+"Satellite that provide services within a single country","[""Domsat"",""Comsat"",""Regional"",""Global""]",0
+"The round-trip propagation delay between two earth stations through a geosynchronous satellite is","[""600 to 700 ms"",""300 to 400 ms"",""500 to 600 ms"",""400 to 500 ms""]",2
+"The signal path from earth station satellite","[""Downlink signal"",""Reflected signal"",""Incident signal"",""Uplink signal""]",3
+"Designed to receive a signal from a transmitting station on the ground and retransmit it to a receiving station located elsewhere","[""Repeater"",""Communication satellite"",""Relay station"",""Transponder""]",1
+"The signal path from satellite to earth-based receiver.","[""Incident signal"",""Uplink signal"",""Downlink signal"",""Reflected signal""]",2
+"A satellite position is measured by its __________ angle with respect to the horizon.","[""azimuth"",""depression"",""elevation"",""critical""]",2
+"The ________ angle measures the satellite position clockwise from the direction of true north.","[""azimuth"",""elevation"",""depression"",""critical""]",0
+"incidentally propose the geostationary scheme or orbit of the satellite in 1940s","[""Stephen Gray"",""Carl Friedrich Gauss"",""Samuel Morse"",""Arthur Clarke""]",3
+"When the satellite are spaced 4˚ of the 360˚ complete circle, how many parking spaces or orbit slots are available?","[""95"",""85"",""90"",""80""]",2
+"The control routine necessary to keep the satellite in position is referred to as","[""station keeping"",""station tracking"",""station monitoring"",""station maintaining""]",0
+"Refers to the satellite orientation with respect to the earth","[""Satellite location"",""Satellite altitude"",""Satellite position"",""Satellite orbit""]",1
+"The first intelsat satellite that was launched in 1965 was named","[""Courier"",""Echo"",""Telstar I"",""Early Bird I""]",3
+"The first satellite launched for a geosynchronous orbit but unfortunately lost during orbit injection","[""Telstar I"",""Syncom I"",""Sputnik I"",""Early Bird I""]",1
+"When the elevation angle of a geostationary satellite is 23˚ and the transmitting frequency is 3840 MHz, what is the free space loss in dB?","[""150 dB"",""200 dB"",""196 dB"",""100 dB""]",2
+"What is the propagation delay when a signal is transmitter by an earth station to a geosynchronous satellite about 38,500 km above earth’s equator and then received by the same earth station?","[""128 msec"",""256 msec"",""300 msec"",""400 msec""]",1
+"What is the free space attenuation of a satellite communications system operating at 36,000 km above the earth at 5.0 GHz?","[""138 dB"",""202 dB"",""142 dB"",""198 dB""]",3
+"Which of the following is the most common application of satellite?","[""Surveillance"",""Military application"",""Communications"",""Newscasting""]",2
+"Descending pass for a satellite means a pass from","[""North to South"",""South to North"",""East to West"",""West to East""]",0
+"Geostationary stationary satellites are located ___________ with respect to the equator.","[""0\u02da longitude"",""0\u02da latitude"",""90\u02da latitude"",""45\u02da latitude""]",1
+"It is a position and timing service that is available to all GPS users on a continuous, worldwide basis with no direct charge.","[""PPI"",""PPS"",""SPS"",""SSP""]",2
+"The geometric shape of a non-circular orbit of a satellite is ____.","[""Ellipse"",""Parabolic"",""Hyperbolic"",""Paraboloid""]",0
+"The circuit that provides channelization in a transponder is the","[""Mixer"",""Local oscillator"",""Bandpass filter"",""HPA""]",2
+"The three axes referred to the three-axis attitude stabilization are; except","[""Pitch"",""Yaw"",""Roll"",""Speed""]",3
+"A ground station is operating to a geostationary satellite at a 5 degrees angle of elevation. Calculate the round-trip time between ground station to satellites in a geostationary orbit.","[""456.45 ms"",""275.58 ms"",""137.79 ms"",""126.89 ms""]",1
+"The escape velocity of the earth is approximately","[""30,000 km\/hr"",""25,000 mi\/hr"",""35,000 m\/s"",""25,000 km\/hr""]",1
+"A satellite radio repeater is called ____.","[""Repeater"",""Transponder"",""Satellite"",""Mixer""]",1
+"Calculate the angle of declination for an antenna using a polar mount at a latitude of 45 degrees.","[""3.2 degrees"",""1.3 degrees"",""4.2 degrees"",""6.81 degrees""]",3
+"The time transfer accuracy used with reference to the Universal Transmitter Mercator Grid is ____.","[""UTC"",""UTMG"",""GMT"",""UTM""]",0
+"It is caused by the inertia of the satellite balanced by the earth’s gravitational pull.","[""Centrifugal force"",""Centripetal force"",""Speed"",""Earth\u2019s rotation""]",1
+"In satellites, it includes control mechanism that support the payload operation.","[""Bus"",""Payload"",""Ground segment"",""Space segment""]",0
+"A satellite transmitter operates at a 4 GHz with a transmitter power of 7W and an antenna gain of 40 dBi. The receiver has antenna gain of 30 dBi, and the path length is 40,000 km. calculate the signal strength at the receiver.","[""-88 dBm"",""-98 dBm"",""-77 dBm"",""-79.8 dBm""]",0
+"The satellite subsystem that monitors and controls the satellite is the","[""Propulsion system"",""Power subsystem"",""Communications subsystem"",""Telemetry, tracking, and command subsystems""]",3
+"Standard positioning service has time transfer accuracy to Universal Transfer Mercator Grid within ____.","[""140 nanoseconds"",""340 nanoseconds"",""230 nanoseconds"",""530 nanoseconds""]",1
+"A satellite remains in orbit because the centrifugal force caused by its rotation around the Earth is counterbalanced by Earth’s ____.","[""Centripetal force"",""Inertia"",""Gravitational pull"",""Speed""]",2
+"A TVRO installation for use with C-band satellite (download frequency at 4 GHz), has a diameter of about 3.5 meters and an efficiency of 60%. Calculate the gain.","[""41 dB"",""19 dB"",""29 dB"",""9 dB""]",0
+"Which of the following is not a typical output from the GPS receiver?","[""Latitude"",""Speed"",""Altitude"",""Longitude""]",1
+"The law that states that a satellite will orbit a primary body following an elliptical path.","[""1st law of Kepler"",""2nd law of Kepler"",""3rd law of Kepler"",""4th law of Kepler""]",0
+"Telephone communication takes place between two earth stations via a satellite that is 40,000 km from each station. Suppose Bill, at station 1, asks a question and Sharon, at station 2, answers immediately, as soon as she hears the question. How much time elapses between the end of Bill’s question and the beginning of Sharon’s reply, as heard by Bill?","[""0.26 sec"",""3.2 sec"",""0.52 sec"",""1.6 sec""]",2
+"In GPS, it is accomplished by manipulating navigation message orbit data (epsilon) and/or the satellite clock frequency (dither).","[""Selective availability"",""Reverse error notification"",""Forward error notification"",""Two dimensional reporting""]",0
+"The modulation normally used with digital data is","[""AM"",""FM"",""SSB"",""QPSK""]",3
+"Kepler’s 2nd law is known as","[""Law of gravity"",""Law of areas"",""Newton\u2019s law of motion"",""Harmonic law""]",1
+"A receiving antenna with a gain of 40 dB looks at a sky with a noise temperature of 15K. the loss between the antenna and the LNA input, due to the feedhorn is 0.4 dB, and the LNA has a noise temperature of 40K. Calculate the G/T?","[""13.4 dB"",""39 dB"",""20.6 dB"",""11.2 dB""]",2
+"The operational satellites of Navstar GPS are revolving around Earth in ____ orbital planes.","[""4"",""3"",""5"",""6""]",3
+"Kepler’s 3rd law is also known as","[""Law of gravity"",""Law of areas"",""Newton\u2019s law of motion"",""Harmonic law""]",3
+"The basic technique used to stabilize a satellite is","[""Gravity-forward motion balance"",""Spin"",""Thruster control"",""Solar panel orientation""]",1
+"Calculate the length of the path to a geostationary satellite from an earth station where the angle of elevation is 30 degrees.","[""55 x 10^3 km"",""13 x 10^3 km"",""23 x 10^3 km"",""39 x 10^3 km""]",3
+"Navstar GPS is a ____.","[""LEO"",""MEO"",""HEO"",""GEO""]",1
+"The satellite is orbiting in the same direction as the Earth’s rotation and at angular velocity greater than that of the Earth.","[""Retrograde"",""Synchronous"",""Posigrade"",""Asynchronous""]",2
+"Find the orbital period of the satellite in a circular orbit 500 km above the Earth’s surface","[""1.6 hrs"",""3.2 hrs"",""2.4 hrs"",""6.4 hrs""]",0
+"Satellite orbiting in the opposite direction as the Earth’s rotation and at angular velocity less than that of the Earth","[""Asynchronous"",""Synchronous"",""Posigrade"",""Retrograde""]",3
+"A transponder that demodulates the baseband signals and then demodulates a carrier is known as ____ transponder.","[""Single-conversion"",""Double-conversion"",""Regenerative"",""Degenerative""]",2
+"Low Earth Orbit (LEO) satellite orbits around the earth at a height of approximately ____.","[""3000 miles"",""1000 miles"",""575 miles"",""370 miles""]",3
+"Power amplification in a transponder is usually provided by","[""klystron"",""TWT"",""Transistor"",""Magnetron""]",1
+"Which of the following clocks is developed for Galileo satellite?","[""Cesium Atomic Frequency Standard"",""Rubidium Atomic Frequency Standard"",""Ruby Atomic Frequency Standard"",""Hydrogen Frequency Standard""]",1
+"Master control station of GPS is located in ____.","[""Colorado"",""California"",""Alaska"",""New York""]",0
+"Medium Earth Orbit (MEO) satellite orbits around the earth at a height approximately ____.","[""3,000 miles to 6,000 miles"",""4,000 miles to 8,000 miles"",""6,000 miles to 12,000 miles"",""8,000 miles to 10,000 miles""]",2
+"A satellite stays in orbit because the following two factors are balanced","[""Satellite weight and speed"",""Gravitational pull and inertia"",""Centripetal force and speed"",""Satellite weight and the pull of the moon and sun""]",1
+"A ____ circuit in the transponder performs the frequency conversion.","[""HPA"",""Mixer"",""Local oscillator"",""LPA""]",1
+"Geosynchronous satellites are high-altitude earth-orbit satellites with heights about ____.","[""22,300 miles"",""21,000 miles"",""8,000 miles"",""10,400 miles""]",0
+"The input circuit to a transponder is the ____.","[""BPF"",""HPA"",""LPA"",""Any of these""]",2
+"The access scheme used by GPS","[""FDMA"",""OFDMA"",""TDMA"",""CDMA""]",3
+"The point in an orbit which is located farthest from earth","[""Perigee"",""Apogee"",""Line of apsides"",""Point of shoot""]",1
+"Using very narrow beamwidth antennas to isolate signals on the same frequency is known as ____.","[""Spatial isolation"",""Footprint"",""Frequency reuse"",""Boresight""]",0
+"The point in an orbit which is located closest to Earth","[""Point of shoot"",""Apogee"",""Line of apsides"",""Perigee""]",3
+"The most popular satellite frequency range is 4 to 6 GHz and is called the ____ band.","[""C"",""L"",""Ka"",""Ku""]",0
+"All satellites rotate around the earth in an orbit that forms a plane that passes through the center of gravity of earth called ____.","[""Focus"",""Geocenter"",""Orbit"",""Center""]",1
+"In satellite communications, the type of modulation used in voice and video signals is","[""AM"",""FM"",""SSB"",""QPSK""]",1
+"In satellite communications, type of orbit which is virtually all orbits except those travel directly above the equator or directly over the North or the South poles.","[""Equatorial orbit"",""Polar orbit"",""Geosynchronous orbit"",""Inclined orbit""]",3
+"It is the angle between the earth’s equatorial plane and the orbital plane of the satellite measured counterclockwise.","[""Angle of elevation"",""Angle of azimuth"",""Angle of inclination"",""Angle of tetrahedron""]",2
+"Which of the following types of HPA is not used in earth stations?","[""TWT"",""Klystron"",""Transistors"",""Magnetron""]",3
+"Galileo satellite’s mass is ____.","[""880 kg"",""675 kg"",""900 kg"",""540 kg""]",1
+"The point where a polar or inclined orbit crosses the equatorial plane traveling from north to south","[""Ascending node"",""Line of nodes"",""Descending node"",""Diagonal nodes""]",2
+"The receive GCE system in an earth station performs what function/s","[""Modulation and multiplexing"",""Up conversion"",""Demodulation and demultiplexing"",""Down conversion""]",2
+"The term generally associated with the table showing the position of a heavenly body on the number of dates in a regular sequence.","[""Astronomical almanac"",""Smith"",""Ephemeris"",""Space reporting""]",2
+"The point where a polar or inclined orbit crosses the equatorial plane traveling from south to north.","[""Ascending node"",""Descending node"",""Diagonal node"",""Inclined node""]",0
+"The line joining the ascending and descending node is called ____.","[""Line of apsides"",""Line of nodes"",""Line of shoot"",""Any of these""]",1
+"When the satellite rotates in an orbit directly above the equator, usually in circular pattern. This type of orbit is called ____.","[""Polar orbit"",""Synchronous orbit"",""Geosynchronous satellite"",""Equatorial orbit""]",3
+"The Navstar GPS satellite system was declared fully operational as of ____.","[""April 17, 1995"",""April 24, 1995"",""April 27, 1995"",""April 10, 1995""]",2
+"The HPAs in most satellites are","[""TWTs"",""Vacuum tubes"",""Klystrons"",""Magnetrons""]",0
+"The physical location of a satellite is determined by its","[""Distance from the earth"",""Latitude and longitude"",""Reference to the stars"",""Position relative to the sun""]",1
+"When the satellite rotates in a path that takes it over the north and south poles in an orbit perpendicular to the equatorial plane. This type of orbit is called ____.","[""Inclined orbit"",""Polar orbit"",""Geosynchronous orbit"",""Diagonal orbit""]",1
+"The azimuth angles and the angle of elevation is collectively known as ____.","[""Antennas look angles"",""Antennas see angles"",""Antennas keep angles"",""Antennas satellite angles""]",0
+"The point on the surface of the Earth directly below the satellite.","[""Satellite point"",""Latitude"",""Longitude"",""Subsatellite point""]",3
+"It is the vertical angle formed between the direction of travel of an electromagnetic wave radiated from an earth station antenna pointing directly toward a satellite and the horizontal plane.","[""Angle of depression"",""Angle of inclination"",""Angle of elevation"",""Angle of azimuth""]",2
+"The unique number used to encrypt the signal from that of the GPS satellite.","[""SV"",""UV"",""PRN"",""ESN""]",2
+"The minimum acceptable angle of elevation","[""6 degrees"",""4 degrees"",""5 degrees"",""7 degrees""]",2
+"It is the horizontal angular distance from a reference direction either the southern or northern most point of the horizon.","[""Angle of elevation"",""Latitude"",""Longitude"",""Azimuth""]",3
+"It is defined as the horizontal pointing angle of an earth station antenna.","[""Angle of inclination"",""Azimuth angle"",""Latitude"",""Longitude""]",1
+"Determines the farthest satellite away that can be seen looking east or west of the earth station’s longitude","[""Radio horizon"",""Optical horizon"",""Terrestrial limits"",""Limits of visibility""]",3
+"The spatial separation of a satellite is between ____.","[""3 to 6 degrees"",""1 to 2 degrees"",""5 to 8 degrees"",""8 to 16 degrees""]",0
+"The geographical representation of a satellite antenna’s radiation pattern is called a ____.","[""Field intensity"",""Footprint"",""Radiation propagation"",""Polarization""]",1
+"The GPS satellite identification which is assigned according to the order of the vehicle’s launch.","[""SV"",""EV"",""PRN"",""ESN""]",0
+"The smallest beam of a satellite that concentrates their power to very small geographical areas.","[""Hemispherical beam"",""Global beam"",""Spot beam"",""Any of these""]",2
+"Satellite’s radiation pattern that typically target up to 20% of the Earth’s surface.","[""Hemispherical beam"",""Global beam"",""Spot beam"",""Any of these""]",0
+"The key electronic component in a communications satellite is the","[""Telemetry"",""Command and Control system"",""On-board computer"",""Transponder""]",3
+"The radiation pattern that has a satellite’s antenna beamwidth of 17 degrees and are capable of covering approximately 42% of the earth’s surface.","[""Hemispherical beam"",""Earth beam"",""Spot beam"",""Any of these""]",1
+"The first active satellite","[""Moon"",""Sputnik I"",""Score"",""Echo""]",1
+"Sputnik I transmitted telemetry information for","[""1 week"",""21 days"",""15 days"",""30 days""]",1
+"The US counterpart of Sputnik I","[""Syncom"",""Telstar"",""Echo"",""Explorer I""]",3
+"Explorer I lasted for ____.","[""5 months"",""6 months"",""12 months"",""2 months""]",0
+"Navstar GPS satellite grouping that can operate continuously for 180 days between uploads from the ground.","[""Block III"",""Block IIa"",""Block II"",""Block IIR""]",1
+"It was the first artificial satellite used for relaying terrestrial communications","[""Score"",""Explorer I"",""Sputnik I"",""Syncom I""]",0
+"Which of the following satellite rebroadcast President Eisenhower’s 1958 Christmas message?","[""Telstar I"",""Telstar II"",""Echo"",""Score""]",3
+"The satellite or space segment of Navstar GPS is consist of ____ operational satellites.","[""30"",""24"",""14"",""20""]",1
+"It was the first satellite to accomplish transatlantic transmission.","[""Courier"",""Echo"",""Telstar"",""Syncom""]",1
+"It is the first transponder-type satellite","[""Telstar I"",""Sputnik I"",""Syncom"",""Courier""]",3
+"The first active satellite to simultaneously receive and transmit radio signals.","[""Telstar I"",""Telstar II"",""Intelsat"",""Syncom""]",0
+"The satellite communications channel in a transponder are defined by the","[""LNA"",""Bandpass filter"",""Mixer"",""Input signals""]",1
+"The satellite that was damaged by radiation from a newly discovered Van Allen Belts and consequently lasted for two weeks.","[""Telstar I"",""Telstar II"",""Intelsat"",""Syncom""]",0
+"As the height of a satellite orbit gets lower, the speed of the satellite","[""Increases"",""Decreases"",""Remains the same"",""None of the above""]",0
+"The satellite that was lost in space in its first attempt to place it in a geosynchronous orbit.","[""Syncom I"",""Telstar I"",""Telstar II"",""Courier""]",0
+"Intelsat I which was the first commercial telecommunications satellite is called ____.","[""Domsat"",""Molniya"",""Early bird"",""Courier""]",2
+"Block II Navstar GPS satellites can operate for approximately ____ between the receiving updates and corrections from the control segment of the system.","[""5.5 days"",""3.5 days"",""6 days"",""7 days""]",1
+"The angle of inclination of a satellite in polar orbit is nearly ____.","[""45 degrees"",""90 degrees"",""30 degrees"",""60 degrees""]",1
+"It is the time it takes earth to rotate back to the same constellation","[""Revolution"",""Rotation"",""Sidereal period"",""Year""]",2
+"Satellites with orbital pattern like Molniya are sometimes classified as","[""LEO"",""MEO"",""GEO"",""HEO""]",3
+"The process of maneuvering a satellite within a preassigned window is called","[""Satellite keeping"",""Station controlling"",""Station keeping"",""Satellite controlling""]",2
+"Galileo Satellites has a lifespan of _______.","[""greater than 12 years"",""greater than 15 years"",""greater than 20 years"",""greater than 25 years""]",0
+"The height of a satellite in a synchronous equatorial orbit is","[""100 mi"",""6800 mi"",""22,300 mi"",""35,860 mi""]",2
+"An orbit that is 36,000 km away from the geocenter of the earth is called","[""Geosynchronous orbit"",""Clarke orbit"",""Clarke belt"",""Any of these""]",3
+"The main function of a communications satellite is as","[""Repeater"",""Reflector"",""Beacon"",""Observation platform""]",0
+"Navstar GPS grouping intended to be used only for self testing.","[""Block I"",""Block III"",""Block II"",""Block IIR""]",0
+"It is the direction of maximum gain of the earth station antenna","[""Footprint"",""Boresight"",""Angle of elevation"",""Angle of azimuth""]",1
+"A circular orbit around the equator with 24-h period is called","[""Elliptical orbit"",""Geostationary orbit"",""Polar orbit"",""Transfer orbit""]",1
+"A classification of satellite that uses the angular momentum of its spinning body to provide roll and yaw stabilization.","[""Roll stabilizer satellite"",""Yaw stabilizer satellite"",""Spinner stabilizer satellite"",""Three-axis stabilizer satellite""]",2
+"Most satellites operate in which frequency band?","[""30 to 300 MHz"",""300 MHz to 3 GHz"",""3 to 30 GHz"",""Above 300 GHz""]",2
+"The method of assigning adjacent channels different electromagnetic polarization is called","[""Frequency reuse"",""Polarization"",""Multi-accessing"",""Interference""]",0
+"It implies that more than one user has an access to one or more radio channels","[""Co-channel interference"",""Satellite multi-accessing"",""Frequency reuse"",""Diversity""]",1
+"The main power sources for a satellite are","[""Batteries"",""Solar cells"",""Fuel cells"",""Thermoelectric generators""]",1
+"A type of satellite’s multiple-accessing method that allows all users continuous and equal access of the entire transponder bandwidth by assigning carrier frequencies on a temporary basis using statistical assignment process.","[""TDMA"",""FDMA"",""DAMA"",""CDMA""]",2
+"Batteries are used to power all satellite subsystems","[""All the time"",""Only during emergencies"",""During eclipse periods"",""To give the solar arrays a rest""]",2
+"The highly accurate timing clocks onboard the GPS satellite.","[""Plutonium clocks"",""Cesium atomic clocks"",""Hydrogen clocks"",""Fossil clocks""]",1
+"It is defined as the art or science of plotting, ascertaining, or directing the course of movement.","[""Ranging"",""Detection"",""Navigation"",""Driving""]",2
+"Galileo satellite system is positioned in _______.","[""5 circular orbits"",""3 circular orbits"",""2 circular orbits"",""6 circular orbits""]",1
+"The maximum height of an elliptical orbit is called the","[""Perigee"",""Apex"",""Zenith"",""Apogee""]",3
+"The most ancient and rudimentary method of navigation is ______.","[""Wandering"",""Celestial navigation"",""Piloting"",""Radio navigation""]",0
+"The jet thrusters are usually fired to","[""Main attitude"",""Put the satellite into transfer orbit"",""Inject the satellite into the geosynchronous orbit"",""Bring the satellite back to earth""]",0
+"A method of navigation where direction and distance are determined from precisely timed sightings of celestial bodies, including the stars and the moon.","[""Electronic navigation"",""Heavenly navigation"",""Radio navigation"",""Celestial navigation""]",3
+"Navstar satellite takes approximately ____ hours to orbit Earth.","[""20"",""6"",""12"",""18""]",2
+"A method of navigation where it fixes a position or direction with respect to familiar, significant landmarks such as railroad tracks, water towers, barns, mountain peaks and bodies or water.","[""Dead reckoning"",""Radio navigation"",""Wandering"",""Piloting""]",3
+"How can multiple earth stations share a satellite on the same frequencies?","[""Frequency reuse"",""Multiplexing"",""Mixing"",""They can\u2019t""]",0
+"A navigation technique that determines position by extrapolating a series of measured velocity increments.","[""Piloting"",""Wandering"",""Radio navigation"",""Dead reckoning""]",3
+"A geostationary satellite","[""Is motionless in space (except for its gain)"",""Is not really stationary at all, but orbits the Earth within a 24-hr period"",""Appears stationary over the Earth\u2019s magnetic pole"",""Is located at a height of 35,800 km to ensure global coverage""]",1
+"The average elevation of Navstar GPS satellite is ____ statue miles above the Earth.","[""6724"",""7689"",""5978"",""9476""]",3
+"Most commercial satellite activity occurs in which band(s)","[""L"",""C and Ku"",""X"",""S and P""]",1
+"Indicate the correct statement regarding satellite communications","[""If two earth stations do not face a common satellite, they should communicate via a double-satellite hop."",""Satellites are allocated so that it is impossible for two earth stations not to face the same satellite."",""Collocated earth stations are used for frequency diversity."",""Satellite earth station must have as many receive chains as there are carriers transmitted to it.""]",3
+"Satellite used for intercontinental communications are known as","[""Comsat"",""Domsat"",""Marisat"",""Intelsat""]",3
+"Identical telephone numbers in different parts of the country are distinguished by their","[""Language digits"",""Access digits"",""Area codes"",""Central office codes""]",2
+"The GPS satellites has an angle of elevation at the ascending node of ____ with respect to the equatorial plane.","[""30 degrees"",""55 degrees"",""50 degrees"",""45 degrees""]",1
+"Telephone traffic is measured","[""With echo cancellers"",""By the relative congestion"",""In terms of the grade of service"",""In erlangs""]",3
+"Indicate which of the following is not a submarine cable","[""TAT-7"",""INTELSAT V"",""ATLANTIS"",""CANTAT 2""]",1
+"The typical bandwidth of a satellite band is","[""36 MHz"",""40 MHz"",""70 MHz"",""500 MHz""]",3
+"The operational satellites of Navstar GPS are revolving around Earth in orbital planes are approximately ____ degrees apart with ____ satellites in each plane.","[""60, 4"",""30, 5"",""50, 5"",""40, 3""]",0
+"Indicate which of the following is an American domsat system","[""INTELSAT"",""TELSTAR"",""COMSAT"",""INMARSAT""]",1
+"Which of the following is not usually a part of a transponder?","[""LNA"",""Mixer"",""Modulator"",""HPA""]",2
+"Who is the oldest man in space?","[""John Glenn"",""Neil Armstrong"",""Yuri Gagarin"",""Edwin Aldrin""]",0
+"It refers to the satellite orientation with respect to the earth.","[""Satellite\u2019s attitude"",""Satellite position"",""Satellite location"",""Satellite orbit""]",0
+"Precise positioning service has time transfer accuracy to UTC within","[""100 nanoseconds"",""300 nanoseconds"",""200 nanoseconds"",""400 nanoseconds""]",2
+"The fully deployed Galileo satellite system consists of ____ satellites.","[""27 operational + 3 active spares"",""26 operational + 4 active spares"",""28 operational + 2 active spares"",""25 operational + 5 active spares""]",0
+"Galileo satellite is ____.","[""Medium Earth Orbit (MEO)"",""Low Earth Orbit (LEO)"",""Geosynchronous Earth Orbit (GEO)"",""Highly Elliptical Orbit (HEO)""]",0
+"Galileo satellites are at circular planes at ____ altitude above Earth.","[""23,500 mi"",""36,500 km"",""35,800 mi"",""23,222 km""]",3
+"Galileo satellites are inclined at the orbital planes of ____ with reference to the equatorial plane.","[""64 degrees"",""17 degrees"",""56 degrees"",""34 degrees""]",2
+"Which of the following refers to a delayed repeater satellite?","[""A satellite capable of receiving, amplifying, and retransmitting information to and from earth stations."",""A bent-pipe or a reflector which bounces a signal from one place to another."",""A satellite which receives transmissions from earth stations, stored them on magnetic tape, and rebroadcast them to ground stations farther along in its orbit."",""All of these""]",2
+"Satellite orbiting in the same direction as earth’s rotation and at an angular velocity greater than the earth is called prograde orbit; and a satellite orbiting which is in the opposite direction as Earth’s rotation or in the same direction but at an angular velocity less than that of Earth is known as","[""Haley\u2019s orbit"",""Elliptical orbit"",""Equatorial orbit"",""Retrograde orbit""]",3
+"Are satellites that orbit in a circular pattern with an angular velocity equal to that of earth.","[""Geostationary or geosynchronous satellite"",""Nonsynchronous satellite"",""Orbital satellites"",""B or C is correct""]",0
+"What do you call of a satellite used to provide satellite services within a single country?","[""Orbital satellite"",""Geostationary satellite"",""Nonsynchronous satellite"",""Domestic satellite or domsat""]",3
+"The FDMA technique wherein voice band channels are assigned on “as needed” basis.","[""PAMA"",""DAMA"",""SSMA"",""CDMA""]",1
+"A form of CDMA where a digital code is used to continually change the frequency of the carrier.","[""Spread Spectrum"",""Frequency Hopping"",""Store and Forward"",""SPADE""]",1
+"The satellite frequency reuse method which sends different information signals using vertical or horizontal electromagnetic polarization.","[""Multiple coverage areas"",""Dual polarization"",""Spatial separation"",""Spread spectrum""]",1
+"A satellite communication link between Pinugay Earth Station, Philippines and Mt. Fucino Earth Station, Italy is to be established. If the assigned uplink frequency at Pinugay Earth Station is 6175 MHz, what is the downlink frequency at Mt. Fucino Earth Station, in MHz?","[""4545"",""3950"",""3789"",""4200""]",1
+"A satellite equipped with electronic devices to receive, amplify, convert and retransmit signals.","[""Passive"",""Active"",""Uplink"",""Downlink""]",1
+"“The orbit of any planet is an ellipse with the sun at one focus”. This is","[""Kepler\u2019s First Law"",""Kepler\u2019s Second Law"",""Kepler\u2019s Third Law"",""Law of Universal Gravitation""]",0
+"The point in an satellite orbit which is farthest away from the earth","[""Perigee"",""Apogee"",""Azimuth"",""Ascending node""]",1
+"The first active satellite which transmitted telemetry information","[""Telstar 1"",""Aguila II"",""Palapa A 1"",""Sputnik""]",3
+"The portion of the satellite communication link involving the transmission of traffic from ground station to satellite.","[""Uplink"",""Lowlink"",""Paylink"",""Bus transmission""]",0
+"It is spacecraft places in orbit around the earth carrying on-board microwave receiving and transmitting equipment.","[""Communication satellite"",""Terrestrial link"",""Transponder"",""Microwave repeater""]",0
+"Satellite position has an/a ___________ angle with respect to the horizon.","[""Azimuth"",""Depression"",""Elevation"",""Critical""]",2
+"A satellite that revolves from North to South.","[""Equatorial"",""Polar"",""Orbital"",""Inclined""]",1
+"The Kepler’s Law which is also known as the Law of Areas.","[""First Law"",""Second Law"",""Third Law"",""None of the above""]",1
+"The satellite multiple access technique which uses the spread spectrum technology is","[""FDMA"",""TDMA"",""CDMA"",""DAMA""]",2
+"The point where the orbit crosses the equatorial plane going from South to North.","[""Ascending Node"",""Descending Node"",""Apogee"",""Perigee""]",0
+"The footprint which covers approximately one-third of the earth’s surface using a 17 degree beamwidth.","[""Spot coverage"",""Zonal coverage"",""Earth coverage"",""Regional coverage""]",2
+"An earth station transmits signal to a satellite 38,500 km., directly overhead it. What is the propagation delay when the signal is received back at the same earth station, in milliseconds.","[""257"",""200"",""285"",""185""]",0
+"When a satellite orbits in the opposite direction as the earth’s rotation with an angular velocity less than that of the earth.","[""Bus transmission"",""Payload"",""Prograde"",""Retrograde""]",1
+"The actual user information conveyed through the satellite system.","[""Bus transmission"",""Payload"",""Prograde"",""Retrograde""]",1
+"The spatial separation between geosynchronous satellites","[""1 \u2013 3 degrees"",""3 \u2013 6 degrees"",""6 \u2013 8 degrees"",""8 \u2013 10 degrees""]",1
+"_______________ detects the satellite signal relayed from the feed and converts it to an electric current, amplifies and lower its frequency.","[""Feedhorn"",""Satellite dish"",""Satellite receiver"",""LNB""]",3
+"What kind of battery panels are used in some advance satellites?","[""Gallium Arsenide solar panel"",""Silicon based panels"",""Germanium based panels"",""Gallium Phosphate solar panel""]",0
+"Footprint refers to coverage area in the globe","[""Satellite radiation polarization"",""Satellite navigation"",""Satellite radiation pattern"",""Satellite coverage""]",2
+"Satellite system or part of a satellite system, consisting of only one satellite and the operating earth station.","[""Satellite system"",""Satellite network"",""Space system"",""Multi-satellite link""]",1
+"Known to be the first satellite capable to receive and transmit simultaneously.","[""Syscom I"",""Echo I"",""Telstar I"",""Score""]",2
+"A satellite receives an uplink frequency of ____________ MHz from a ground station of 3700 MHz.","[""8150 MHz"",""1475 MHz"",""2225 MHz"",""5925 MHz""]",3
+"What band does VSAT first operate?","[""X-band"",""C-band"",""Ku-band"",""L-band""]",1
+"Satellite engine use","[""Liquid fuel"",""Jet propulsion"",""Ion propulsion system"",""Solar jet""]",2
+"The first passive satellite transponder","[""Early bird"",""Score"",""Moon"",""Sputnik""]",2
+"Satellite used for intercontinental communications are known as","[""Comsat"",""Domsat"",""Marisat"",""Intelsat""]",3
+"AsiaSat 1 covers how many countries in Asia?","[""38"",""40"",""44"",""42""]",0
+"An area on the surface of the earth within which the boresight of the steerable satellite beam intended to be pointed.","[""Equivalent boresight area"",""Contour boresight area"",""Coordination boresight area"",""Effective boresight area""]",3
+"Refers to the man-made body sent into continuous orbit around the earth, which provides propagation paths for radio waves between terrestrial transmitters and receivers.","[""Rocket"",""Allotter relay"",""Space shuttle"",""Communication satellite""]",3
+"What is the basic function of a communications satellite?","[""To act as a receiving antenna for broadcast FM"",""To compensate for the antenna limitations"",""To eliminate aerodynamic drag"",""To acts as receiving antenna for broadcast AM""]",1
+"Typical round-trip distance and transmission time for a satellite relay","[""About 300 ms and 90,000 km, respectively"",""90,000 km and about 300 ms, respectively"",""90,000 mi and about 100 ms, respectively"",""90,000 mi and 300 ms, respectively""]",1
+"The figure of a satellite defines in orbit","[""Circle"",""Elliptical"",""Parabolic"",""Hyperbolic""]",1
+"Considered as the corrupting influence(s) in the satellite movement.","[""Gravitational pill between the earth and the orbiting satellite"",""Atmospheric drag on the satellite"",""Orbital ellipse"",""All of these""]",3
+"The orbit of communications satellites id defined by the angle with respect to the earth equator, which is the 0o plane. What is (are) the basic orbital angle(s)?","[""Polar"",""Inclined"",""Equatorial"",""All of the above""]",3
+"How do we measure the position of a satellite?","[""By its elevation angle with respect to the horizon"",""By its azimuth angle measured clockwise from the direction of true north"",""Through the line of apsides"",""A and B are correct""]",3
+"Which of the following cause(s) the satellite’s orbital distortions?","[""Sun"",""Earth"",""Moon"",""All of the above""]",3
+"What is the approximate service life of communications satellites?","[""3 years only"",""5 to 20 years"",""20 to 60 years"",""100 years""]",1
+"Representing application of the extraordinary advances technology of satellites to solve the problem of accurate, reliable, 26 hr/day navigation.","[""Global Positioning System (GPS)"",""Navigation System using Timing and Ranging (NAVSTAR)"",""LORAN"",""A and B are correct""]",3
+"A system based on the accurate knowledge by the vessel of the position of each of four satellites, as calculated by the time with respect to the user.","[""GPS"",""A or D"",""LORAN"",""NAVSTAR""]",0
+"Segment(s) of a complete GPS system is(are)","[""Control segment"",""Space segment"",""User segment"",""All of these""]",3
+"Its function assures the overall system performance and accuracy","[""Control segment"",""Space segment"",""User segment"",""All of these""]",0
+"The user segment is used to received signals for the GPS system from the four satellites, compute the time differences, and determine position, while space segment’s function is(are)","[""To received signals for the GPS system from the four satellites, compute the distance differences, and determine position"",""To transmit time codes and orbital position information to the users"",""To assure the overall performance and accuracy"",""All of the above""]",1
+"How do you describe the complete signal path of the satellite communications operation?","[""Begins at a ground station, proceeds to an uplink, then to a downlink, and ends at a receiving ground station."",""From the satellite, to a downlink, then to a ground station."",""Begins at a ground station, proceeds to an uplink, to the satellite itself, to a downlink, and ends at a receiving ground station"",""All of these""]",2
+"What is a passive satellite?","[""A satellite capable of receiving, amplifying, and retransmitting information to and from earth stations."",""A bent-pipe or a reflector which bounces a signal from one place to another."",""A satellite which receives transmissions from earth stations, stored them on magnetic tape, and rebroadcast them to ground stations farther along in its orbit."",""A or C""]",1
+"How does communication between satellite be achieved","[""Using satellite cross-links"",""Intersatellite links (ISLs)"",""Through is ground stations"",""A or B is correct""]",3
+"Which of the following parameters (height of the satellite from earth, travel time, rotation period, and the satellite’s line of sight) refer to low-altitude satellite?","[""19,000 \u2013 25,000 mi; 6,879 mi\/hr; 24 hr; and 24-h availability time, respectively"",""6,000 \u2013 12,000 mi; 12,189 mi\/hr; 5 \u2013 12 hr; and 2- 4 hr per orbit, respectively"",""100 \u2013 300 mi; 17,500 mi\/hr; 1 \u00bd hr, and \u00bc or less per orbit, respective"",""50 \u2013 95 mi; 25,600 mi\/hr, \u00bd hr; and 1\/8 or less per orbit, respectively""]",2
+"There are two primary classifications of communications satellite; one uses the angular momentum of its spinning body to provide roll and yaw relative to earth’s surface while an internal subsystem provides roll and yaw stabilization. What are they?","[""gyroscopic satellites"",""delayed repeater satellites"",""passive and active satellites"",""spinners and three-axis stabilizer satellites""]",3
+"How do radiation patterns or beams from a satellite antenna categorized?","[""Spot"",""Earth"",""Zonal"",""All of these""]",3
+"A ____________ satellite with an orbital period of one sidereal day or nominally, 24 h","[""Bent-pipe satellite"",""Processing satellite"",""Geostationary satellite"",""ANIK-D communications satellite""]",2
+"19,000 – 25,000 mi height; 6, 879 mi/hr travel time; 24-hr rotation; and 24-hr availability time belong to what satellite?","[""Low-altitude satellites (circular orbit)"",""Medium-altitude satellites (elliptical orbit)"",""High-altitude satellites (geosynchronous orbit)"",""GLONASS""]",2
+"An orbit when the satellite rotates in a path above the equator.","[""Polar orbit"",""Inclines orbit"",""Equatorial orbit"",""Geosynchronous orbit""]",2
+"Orbiting satellite system in Russia which means “lightning” or “news flash”, used for television broadcasting. It uses a highly inclined elliptical orbit with apogee at about 40,000 km and perigee at about 1,000 km.","[""Molniya system"",""Molnya system"",""Molnia system"",""All are correct""]",3
+"Polar and inclined orbits refer to what?","[""Any other orbital path, and rotation above the equator, respectively"",""Any other orbital path, and rotation that takes over the north and south poles, respectively"",""Rotation that takes over the north and south poles, and any other orbital path, respectively"",""Rotation above the equator, and rotation that takes over the north and south poles, respectively""]",2
+"____________ means the farthest distance from earth a satellite orbit reaches while ____________ is the minimum distance.","[""Apogee and perigee, respectively"",""Perigee and apogee, respectively"",""A and B are the same"",""None of these""]",0
+"Refers to the line joining the perigee and apogee through the center of the earth","[""Line of sight"",""Line of nodes"",""Equatorial nelt"",""Line of apsides""]",3
+"The point where the orbit crosses the equatorial plane going from north to south; and the point where the orbit crosses the equatorial plane going from south to north refer to","[""Ascending node"",""Descending node"",""Ascending node and descending node, respectively"",""Descending node and ascending node, respectively""]",3
+"What is the line joining the ascending and descending nodes through the center of the earth?","[""Line of apsides"",""Line of nodes"",""Line of shoot"",""Line of sight""]",1
+"Refers to the horizontal pointing of an antenna.","[""Look angle"",""Elevation"",""Azimuth"",""Spot""]",2
+"What is meant by the angle of elevation?","[""The angle formed between the direction of travel of a wave radiated from an earth station antenna and the horizontal."",""The horizontal pointing of an antenna"",""The angle subtended at the earth station antenna between the satellite and the horizontal"",""A or C is right""]",3
+"The range of frequencies used by communications satellites?","[""From 1 GHz up to 3 GHz"",""From 1 GHz up to 30 GHz"",""From 30 GHz up to 300 GHz"",""From 300 GHz up to 350 GHz""]",1
+"Otherwise considered as radio repeater in the sky.","[""Transponder"",""Satellite"",""Sputnik"",""Courier""]",0
+"How does interference between uplink and downlink signals be prevented?","[""By using different ground stations"",""By using different satellites"",""By using different carrier frequencies"",""All of these""]",2
+"An electronic system called transponder of the communications satellite is used","[""For frequency translations"",""To retransmit signals"",""To receive signals"",""All of the above""]",3
+"What do you call of the signal path from the transmitter to satellite and from the satellite to earth-based receiver?","[""Downlink and uplink, respectively"",""Downlink"",""Uplink and downlink, respectively"",""Uplink""]",2
+"Why is it that the uplink is always higher in frequency than the downlink?","[""Because the uplink suffers greater spreading or free-space loss of frequency than its lower counterpart"",""Since an earth station aims upward with well-controlled antenna sidelobes"",""A and B are correct"",""None of these""]",2
+"What is frequency hopping?","[""A form of CDMA where a digital code is used to continually change the frequency of the carrier"",""Available bandwidth is partitioned into smaller frequency bands and the total transmission time is subdivided into smaller time slots"",""Each earth stations within a CDMA network is assigned a different frequency hopping pattern in which each transmitter hops or switched from one frequency band to the next according to their assigned pattern"",""All of these""]",3
+"What is meant by satellite footprint?","[""Is the earth area that the satellite can receive from or transmit to"",""Is the function of both the satellite orbit and height, and the type of antenna the satellite uses."",""The geographical representation of the satellite antenna\u2019s radiation pattern."",""All of the above""]",3
+"What (is)are the advantage(s) using 1-GHz and higher frequencies?","[""Large amount of information can be sent due to large available bandwidth"",""Propagation characteristics are very consistent"",""Signal wavelengths are shorter"",""All of these are correct""]",3
+"What is meant by link budget?","[""The sum of all the signal gains and losses along the way."",""The difference of the signal gains and losses along the way"",""Identifies the system parameters and is used to determine the projected C\/N and Eb\/No ratios at both the satellite and earth stations receivers for a given modulation scheme and desired Pq."",""A or C is right""]",3
+"How can satellite maintains its desired orbit consistently?","[""Using small on-board rocket trusters"",""Through using guidance system"",""By telemetry channel"",""All of these""]",0
+"A satellite consists of any subsystem functions incorporated into a single system. What is the subsystem responsible for providing the primary dc power and the regulated, secondary supply voltages for the satellite circuits?","[""Communication channel subsystem"",""Telemetry subsystem"",""Power subsystem"",""Antennas""]",2
+"How do communications satellites powered?","[""By a bank of batteries whose charge is maintained by an array of solar cells"",""Liquid fuel"",""Nuclear"",""AC power""]",0
+"_____________ is the total power consumption for the satellite operation?","[""About 10 W"",""About 150 W"",""About 2000 W"",""About 25000 W""]",1
+"As the height of a satellite orbits gets lower, the speed of the satellite","[""Increases"",""Decreases"",""Remains the same"",""None of the above""]",0
+"The main function of a communications satellite is the","[""Repeater"",""Reflector"",""Beacon"",""Observation platform""]",0
+"The key electronic component in a communications satellite is the","[""Telemetry"",""On-board computer"",""Command and control system"",""Transponder""]",3
+"A circular orbit around the equator with a 24-h period is called a(n)","[""Elliptical orbit"",""Geostationary orbit"",""Polar orbit"",""Transfer obit""]",1
+"A satellite stays in orbit because the following two factors are balanced.","[""Satellite weight and speed"",""Gravitational pull and inertia"",""Centripetal force and speed"",""Satellite weight and the pull of the moon and sun""]",1
+"The height of a satellite in a synchronous equatorial orbit is","[""100 mi"",""6800 mi"",""22,300 mi"",""35, 860 mi""]",2
+"Most satellites operate in which frequency band?","[""30 to 300 MHz"",""300 MHz to 3 GHz"",""3 GHz to 30 GHz"",""Above 300 GHz""]",2
+"The main power sources for a satellite are","[""Batteries"",""Solar cells"",""Fuel cells"",""Thermoelectric generators""]",1
+"The maximum height of an elliptical orbit is called the","[""Perigee"",""Apex"",""Zenith"",""Apogee""]",3
+"Batteries are used to power all satellite subsystems","[""At all times"",""Only during emergencies"",""During eclipse periods"",""To give the solar arrays a rest""]",2
+"The satellite subsystems that monitors and controls the satellite is the","[""Propulsion subsystem"",""Power subsystem"",""Communications subsystem"",""Telemetry, tracking, and command subsystem""]",3
+"The basic technique used to stabilized a satellite is","[""Gravity-forward motion balance"",""Spin"",""Thrusters control"",""Solar panel orientation""]",1
+"The jet thrusters are usually fired to","[""Maintain altitude"",""Put the satellite into the transfer orbit"",""Inject the satellite into the geosynchronous orbit"",""Bring the satellite back to the earth""]",0
+"Most commercial satellite activity occurs in which band(s)?","[""L"",""C and Ku"",""X"",""S and P""]",1
+"How can multiple earth stations share a satellite on the same frequencies?","[""Frequency reuse"",""Multiplexing"",""Mixing"",""They can\u2019t""]",0
+"The typical bandwidth of a satellite band is","[""36 MHz"",""40 MHz"",""70 MHz"",""500 MHz""]",3
+"Which of the following is not usually a part of a transponder?","[""LNA"",""Mixer"",""Modulator"",""HPA""]",2
+"What is the first passive satellite transponder?","[""Sun"",""Early Bird"",""Score"",""Moon""]",1
+"What is the height of a satellite in a synchronous equatorial orbit?","[""42000 mi"",""6800 mi"",""22,300 mi"",""35,860 mi""]",2
+"It is caused by the inertia of the satellite balanced by the earth’s gravitational pull.","[""Centrifugal force"",""Centripetal force"",""Speed"",""Earth\u2019s rotation""]",1
+"The first active satellite","[""Moon"",""Sputnik I"",""Score"",""Echo""]",1

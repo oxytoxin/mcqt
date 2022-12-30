@@ -1,0 +1,11 @@
+question,A,B,C,D,E,answer,explanation
+<p>A register in the microprocessor that keeps track of the answer or results of any arithmetic or logic operation is the _________.</p>,stack pointer,program counter,instruction pointer,accumulator,,D,
+<p>The __________ program is used to convert mnemonic code to machine code.</p>,debug,C++,fortran,assembler,,D,
+<p>A(n) ________________ is the time it takes a microprocessor to fetch and execute a complete instruction.</p>,instruction cycle,machine cycle,timing cycle,write cycle,,A,
+"<p>The ________ is the ""brains"" of every microcomputer.</p>",ROM,ALU,CPU,MPU,,C,
+<p>The circuits in the 8085 that provide the arithmetic and logic functions are called the __________.</p>,CPU,ALU,I/O,bus decoder,,B,
+"<p>Since microprocessor CPUs do not understand mnemonics as they are, they have to be converted into __________.</p>",hexadecimal machine code,high-level language,assembly language,hexadecimal machine code and assembly language,,A,
+<p>A program that contains nothing but strings of zeros and ones is called a(n) ________.</p>,machine language program,assembly language program,interpreted program,binary language program,,A,
+<p>The register in the 8085 microprocessor that is used to keep track of the memory address of the next opcode to be run in the program is the ________.</p>,stack pointer,program counter,instruction pointer,accumulator,,B,
+<p>All computer programs for a machine are called ________.</p>,software,firmware,hardware,none of the above,,A,
+<p>The first part of a machine language instruction that specifies the operation to be performed is called a(n) __________.</p>,mnemonic,opcode,interrupt,instruction cycle,,B,

@@ -1,0 +1,11 @@
+question,A,B,C,D,E,answer,explanation
+<p>A reverse-biased silicon diode has about 0.7 V across it.</p>,True,False,,,,B,
+<p>An atom is the smallest particle of an element that retains the characteristics of that element.</p>,True,False,,,,A,
+<p>An intrinsic semiconductor is neither a good conductor nor a good insulator.</p>,True,False,,,,A,
+<p>The ideal model of a diode is a switch.</p>,True,False,,,,A,
+<p>A pn structure is called a diode.</p>,True,False,,,,A,
+<p>Forward bias is the condition that allows current through a pn junction.</p>,True,False,,,,A,
+<p>An intrinsic crystal is one that contains a small amount of impurities.</p>,True,False,,,,B,
+<p>N-type semiconductor material has very few free electrons.</p>,True,False,,,,B,
+<p>The silicon material used in semiconductors is extremely pure with no additives.</p>,True,False,,,,B,
+<p>The movement of free electrons in a semiconductor material is termed electron voltage.</p>,True,False,,,,B,

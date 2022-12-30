@@ -1,0 +1,11 @@
+question,A,B,C,D,E,answer,explanation
+<p>Digital signal processors must be programmed to perform specific tasks.</p>,True,False,,,,A,
+<p>The flash method of analog-to-digital conversion uses comparators that compare reference voltages with the analog input voltage.</p>,True,False,,,,A,
+<p>Offset is the characteristic of a DAC defined by the absence of any incorrect step reversals.</p>,True,False,,,,B,
+<p>Digital filtering is faster than analog filtering.</p>,True,False,,,,B,
+<p>Successive-approximation is perhaps the most widely used method of A/D conversion.</p>,True,False,,,,A,
+<p>Digital signal processing must be at least half as fast as the incoming signal to be processed.</p>,True,False,,,,B,
+<p>The flash converter is the fastest analog-to-digital conversion method.</p>,True,False,,,,A,
+<p>The ADC0804 is an example of a successive-approximation ADC.</p>,True,False,,,,A,
+<p>Incorrect codes are a form of output error for a DAC.</p>,True,False,,,,B,
+"<p>In a binary-weighted-input digital-to-analog converter, the values of the input resistors are chosen to be proportional to the binary weights of the corresponding input bits.</p>",True,False,,,,A,

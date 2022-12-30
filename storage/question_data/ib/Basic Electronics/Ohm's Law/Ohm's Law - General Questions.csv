@@ -1,0 +1,24 @@
+question,A,B,C,D,E,answer,explanation
+"<p>""Half-splitting"" is</p>",a means for nuclear fuel cells to produce electricity,a means of isolating a problem in a circuit,a means for reducing a high ac voltage to a low dc voltage,a means of limiting current in a circuit,,B,
+<p>If doubling the voltage across a resistor doubles the current through the resistor then</p>,the resistor value decreased,the resistor value did not change,the resistor value increased,it is impossible to determine the change in the resistor value,,B,
+"<p>If the voltage across a fixed value of resistance is increased five times, what does the current do?</p>",It increases by a factor of five.,It decreases by a factor of five.,It stays the same.,Not enough information,,A,
+"<p>If the resistance in a circuit with constant voltage increases, the current will</p>",increase,decrease,stay the same,Not enough information,,B,
+"<p><p><img src=""/_files/images/basic-electronics/basics/mcq3_1007_1a.gif""/></p> <p>What is the power in the given circuit?</p></p>",3.6 W,35 W,175 W,245 W,,B,
+<p>What is the kilowatt-hour consumption of a 40 W lamp if it remains on for 1750 h?</p>,43.75,70,"43,750","70,000",,B," (1,750 x 40)/1000 = 70 kilowatt-hour. "
+<p>A damaged resistor</p>,may appear burned,may have an increased resistance value,may be checked with an ohmmeter,All of the above,,D,
+<p>Power supplies differ from batteries in that</p>,power supply output voltages are ac and not dc,power supply voltages are not stable,power supplies are low-current devices,None of the above,,D,
+"<p><p><img src=""/_files/images/basic-electronics/basics/mcq3_1005_1.gif""/></p> <p>What is the resistor value in the given circuit?</p></p>","200 <img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/>","1 k<img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/>","2 k<img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/>","4 k<img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/>",,C,
+<p>If voltage across a resistance doubles</p>,the current is halved,the resistance doubles,the current is unchanged,none of the above,,D,
+"<p><p><img src=""/_files/images/basic-electronics/basics/mcq3_1007_1b.gif""/></p>
+<p>What is the power in the given circuit?</p></p>",32 W,80 W,500 W,16 kW,,A,
+<p>Ohm's law describes the mathematical relationship between</p>,"ohms, kilohms, and megohms",resistor size and resistor value,"resistance, voltage, and current",none of the above,,C,
+<p>Energy is defined as the ability to</p>,produce heat,produce light,produce sound,All of the above,,D,
+"<p>What electromotive force would cause 20 A of current to flow through a 500 <img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/> resistor?</p>",0.04 V,2.5 V,25.0 V,"10,000 V",,D,
+<p>The rate at which work is performed is called</p>,current,energy,power,voltage,,C,
+<p>A battery's capacity to deliver power is measured in</p>,kWh,Ah,Wh,Vh,,B,
+<p>Power supplies are regulated to prevent the output voltage from changing due to changes in the</p>,line voltage,supply load,frequency,both line voltage and supply load,,D,
+"<p><p><img src=""/_files/images/basic-electronics/basics/mcq3_1007_1c.gif""/></p>
+<p>What is the power in the given circuit?</p></p>",3.92 kW,280 W,28.6 W,9.8 W,,D,
+<p>If current through a resistance is halved</p>,the resistance is halved,the voltage is halved,the voltage doubles,none of the above,,B,
+<p>Ohm's law is a relationship between</p>,"voltage, current, and time","power, current, and resistance","resistance, time, and current","voltage, current, and resistance",,D,
+"<p><p><img src=""/_files/images/basic-electronics/basics/mcq3_1004_1.gif""/></p> <p>If the voltage in the given circuit was cut in half, what would the current equal?</p></p>",10 mA,30 mA,60 mA,90 mA,,B,

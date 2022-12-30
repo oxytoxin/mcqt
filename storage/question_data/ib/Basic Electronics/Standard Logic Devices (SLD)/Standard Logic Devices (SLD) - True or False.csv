@@ -1,0 +1,13 @@
+question,A,B,C,D,E,answer,explanation
+<p>ECL gates are noted for their high frequency capability and small output voltage swing.</p>,True,False,,,,A,
+<p>Delay times and current/voltage values remain constant regardless of temperature or other operating conditions for robust circuits like TTL.</p>,True,False,,,,B,
+<p>5400 TTL series logic chips are made to military specifications.</p>,True,False,,,,A,
+<p>Totem pole output circuits can change states faster than open-collector output circuits.</p>,True,False,,,,A,
+<p>The term buffer/driver signifies the ability to provide low output currents to drive light loads.</p>,True,False,,,,B,
+<p>NMOS devices use MOSFETs to implement the full range of logic gates using the universal NAND gate.</p>,True,False,,,,B,
+<p>Schottky TTL logic gates overcome the problem of saturation delay time.</p>,True,False,,,,A,
+"<p>A three-state output TTL can have three possible outputs: LOW, HIGH, or FLOATING.</p>",True,False,,,,B,
+<p>The TTL HIGH level source current is higher than the LOW level sinking current.</p>,True,False,,,,B,
+<p>Integrated-injection logic offers high component density and is easier to fabricate than TTL.</p>,True,False,,,,A,
+<p>CMOS circuits consume less power than TTL circuits.</p>,True,False,,,,A,
+"<p>Due to the extremely low power requirements of CMOS logic circuits, any number of CMOS and TTL gates can be interconnected.</p>",True,False,,,,B,

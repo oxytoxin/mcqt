@@ -1,0 +1,11 @@
+question,A,B,C,D,E,answer,explanation
+<p>Collector-feedback bias provides very poor stability with negative feedback from collector to base.</p>,True,False,,,,B,
+<p>A transistor is operating in a linear fashion at saturation.</p>,True,False,,,,B,
+<p>Base biasing is common in relay driver circuits.</p>,True,False,,,,A,
+"<p>The formula <img src=""/_files/images/electronic-devices-and-circuit-theory/beta.gif""/><sub>DC</sub> = I<sub>B</sub>/I<sub>C</sub> is correct.</p>",True,False,,,,B,
+"<p>The base bias circuit arrangement provides poor stability because its Q-point varies widely with <img src=""/_files/images/electronic-devices-and-circuit-theory/beta.gif""/><sub>DC</sub>.</p>",True,False,,,,A,
+<p>A pnp transistor requires the same bias polarities as the npn transistor.</p>,True,False,,,,B,
+<p>The purpose of biasing is to establish a proper Q-point.</p>,True,False,,,,A,
+<p>The base bias circuit is not beta-dependent.</p>,True,False,,,,B,
+<p>Collector-feedback bias is another name for base bias.</p>,True,False,,,,B,
+"<p>The input resistance at the base of a transistor is R<sub>IN</sub> <img src=""/_files/images/electronic-devices-and-circuit-theory/approxequal.gif""/> <img src=""/_files/images/electronic-devices-and-circuit-theory/beta.gif""/><sub>DC</sub>I<sub>B</sub>R<sub>E</sub>.</p>",True,False,,,,B,

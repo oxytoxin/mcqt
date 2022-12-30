@@ -1,0 +1,62 @@
+question,A,B,C,D,E,answer,explanation
+"<p>Which of the following services use TCP? 
+<ol class=""networking-ol-123""><li>  DHCP
+</li><li>  SMTP
+</li><li>  HTTP
+</li><li>  TFTP
+</li><li>  FTP
+</li></ol></p>",1 and 2,"2, 3 and 5","1, 2 and 4","1, 3 and 4",,B," SMTP, HTTP and FTP use TCP. "
+<p>What layer in the TCP/IP stack is equivalent to the Transport layer of the OSI model?</p>,Application,Host-to-Host,Internet,Network Access,,B," The four layers of the TCP/IP stack (also called the DoD model) are Application/Process, Host-to-Host, Internet, and Network Access. The Host-to-Host layer is equivalent to the Transport layer of the OSI model. "
+"<p>Which of the following describe the DHCP Discover message?
+<ol class=""networking-ol-123""><li>  It uses <i class=""networking-code"">FF:FF:FF:FF:FF:FF</i> as a layer 2 broadcast.
+</li><li>  It uses UDP as the Transport layer protocol.
+</li><li>  It uses TCP as the Transport layer protocol.
+</li><li>  It does not use a layer 2 destination address.
+</li></ol></p>",1 only,1 and 2,3 and 4,4 only,,B," A client that sends out a DHCP Discover message in order to receive an IP address sends out a broadcast at both layer 2 and layer 3. The layer 2 broadcast is all Fs in hex, or <i class=""networking-code"">FF:FF:FF:FF:FF:FF</i>. The layer 3 broadcast is <i class=""networking-code"">255.255.255.255</i>, which means all networks and all hosts. DHCP is connectionless, which means it uses User Datagram Protocol (UDP) at the Transport layer, also called the Host-to-Host layer. "
+"<p>You want to implement a mechanism that automates the IP configuration, including IP address, subnet mask, default gateway, and DNS information. Which protocol will you use to accomplish this?</p>",SMTP,SNMP,DHCP,ARP,,C," Dynamic Host Configuration Protocol (DHCP) is used to provide IP information to hosts on your network. DHCP can provide a lot of information, but the most common is IP address, subnet mask, default gateway, and DNS information. "
+<p>Which of the following is private IP address?</p>,12.0.0.1,168.172.19.39,172.15.14.36,192.168.24.43,,D," Class A private address range is 10.0.0.0 through 10.255.255.255. Class B private address range is 172.16.0.0 through 172.31.255.255, and Class C private address range is 192.168.0.0 through 192.168.255.255. "
+<p>Which of the following allows a router to respond to an ARP request that is intended for a remote host?</p>,Gateway DP,Reverse ARP (RARP),Proxy ARP,Inverse ARP (IARP),,C, Proxy ARP can help machines on a subnet reach remote subnets without configuring routing or a default gateway. 
+<p>The DoD model (also called the TCP/IP stack) has four layers. Which layer of the DoD model is equivalent to the Network layer of the OSI model?</p>,Application,Host-to-Host,Internet,Network Access,,C," The four layers of the DoD model are Application/Process, Host-to-Host, Internet, and Network Access. The Internet layer is equivalent to the Network layer of the OSI model. "
+"<p>Which of the following services use UDP?
+<ol class=""networking-ol-123""><li>  DHCP
+</li><li>  SMTP
+</li><li>  SNMP
+</li><li>  FTP
+</li><li>  HTTP
+</li><li>  TFTP
+</li></ol></p>","1, 3 and 6",2 and 4,"1, 2 and 4",All of the above,,A," DHCP, SNMP, and TFTP use UDP. "
+<p>Which class of IP address provides a maximum of only 254 host addresses per network ID?</p>,Class A,Class B,Class C,Class D,,C, A Class C network address has only 8 bits for defining hosts: 2<sup>8</sup> - 2 = 254. 
+"<p>If you use either Telnet or FTP, which is the highest layer you are using to transmit data?</p>",Application,Presentation,Session,Transport,,A," Both FTP and Telnet use TCP at the Transport layer; however, they both are Application layer protocols, so the Application layer is the best answer. "
+<p>Which of the following is the decimal and hexadecimal equivalents of the binary number 10011101?</p>,"155, 0x9B","157, 0x9D","159, 0x9F","185, 0xB9",,B," <p>To turn a binary number into decimal, you just have to add the values of each bit that is a 1. The values of 10011101 are 128, 16, 8, 4, and 1. 128 + 16 + 8 + 4 + 1 = 157.</p>
+<p>Hexadecimal is a base-16 number system. The values of hexadecimal are 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F-16 characters total, from which to create all the numbers you'll ever need. So, if 1001 in binary is 9, then the hexadecimal equivalent is 9. Since we then have 1101, which is 13 in binary, the hexadecimal answer is D and the complete hexadecimal answer is 0x9D.</p> "
+"<p>Which statements are true regarding ICMP packets?
+<ol class=""networking-ol-123""><li>  They acknowledge receipt of a TCP segment.
+</li><li>  They guarantee datagram delivery.
+</li><li>  They can provide hosts with information about network problems.
+</li><li>  They are encapsulated within IP datagrams.
+</li></ol></p>",1 only,2 and 3,3 and 4,"2, 3 and 4",,C," Internet Control Message Protocol (ICMP) is used to send error messages through the network, but they do not work alone. Every segment or ICMP payload must be encapsulated within an IP datagram (or packet). "
+"<p>Which of the following are layers in the TCP/IP model?
+<ol class=""networking-ol-123""><li>  Application
+</li><li>  Session
+</li><li>  Transport
+</li><li>  Internet
+</li><li>  Data Link
+</li><li>  Physical
+</li></ol></p>",1 and 2,"1, 3 and 4","2, 3 and 5","3, 4 and 5",,B," This seems like a hard question at first because it doesn't make sense. The listed answers are from the OSI model and the question asked about the TCP/IP protocol stack (DoD model). However, let's just look for what is wrong. First, the Session layer is not in the TCP/IP model; neither are the Data Link and Physical layers. This leaves us with the Transport layer (Host-to-Host in the DoD model), Internet layer (Network layer in the OSI), and Application layer (Application/Process in the DoD). "
+<p>Which layer 4 protocol is used for a Telnet connection?</p>,IP,TCP,TCP/IP,UDP,,B," Although Telnet does use TCP and IP (TCP/IP), the question specifically asks about layer 4, and IP works at layer 3. Telnet uses TCP at layer 4. "
+"<p>Which statements are true regarding ICMP packets?
+<ol class=""networking-ol-123""><li>  ICMP guarantees datagram delivery.
+</li><li>  ICMP can provide hosts with information about network problems.
+</li><li>  ICMP is encapsulated within IP datagrams.
+</li><li>  ICMP is encapsulated within UDP datagrams.
+</li></ol></p>",1 only,2 and 3,1 and 4,All of the above,,B," ICMP is used for diagnostics and destination unreachable messages. ICMP is encapsulated within IP datagrams, and because it is used for diagnostics, it will provide hosts with information about network problems. "
+"<p>Which of the following are TCP/IP protocols used at the Application layer of the OSI model? 
+<ol class=""networking-ol-123""><li>  IP
+</li><li>  TCP
+</li><li>  Telnet
+</li><li>  FTP
+</li><li>  TFTP
+</li></ol></p>",1 and 3,"1, 3 and 5","3, 4 and 5",All of the above,,C," Telnet, File Transfer Protocol (FTP), and Trivial FTP (TFTP) are all Application layer protocols. IP is a Network layer protocol. Transmission Control Protocol (TCP) is a Transport layer protocol. "
+<p>What protocol is used to find the hardware address of a local device?</p>,RARP,ARP,IP,ICMP,,B, Address Resolution Protocol (ARP) is used to find the hardware address from a known IP address. 
+<p>Which of the following protocols uses both TCP and UDP?</p>,FTP,SMTP,Telnet,DNS,,D, DNS uses TCP for zone exchanges between servers and UDP when a client is trying to resolve a hostname to an IP address. 
+<p>What is the address range of a Class B network address in binary?</p>,"<i class=""networking-code"">01xxxxxx</i>","<i class=""networking-code"">0xxxxxxx</i>","<i class=""networking-code"">10xxxxxx</i>","<i class=""networking-code"">110xxxxx</i>",,C," The range of a Class B network address is <i class=""networking-code"">128-191</i>. This makes our binary range <i class=""networking-code"">10xxxxxx</i>. "

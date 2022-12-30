@@ -1,0 +1,30 @@
+question,A,B,C,D,E,answer,explanation
+"<p><p><img src=""/_files/images/basic-electronics/basics/tfq6_1006_1.gif""/></p>
+<p>In the given circuit, the <i><b>Thevenin voltage</b></i> equals 6 V.</p></p>",True,False,,,,A,
+"<p>The voltage across R3 is 20 volts.<br/><br/><img alt=""tfq5_1004_1.gif"" src=""/_files/images/basic-electronics/complete/tfq5_1004_1.gif""/></p>",True,False,,,,B,
+"<p>The voltage across R1 is 175 volts.<br/><br/><img alt=""tfq5_1007_1.gif"" src=""/_files/images/basic-electronics/complete/tfq5_1007_1.gif""/></p>",True,False,,,,A,
+"<p><p><img src=""/_files/images/basic-electronics/basics/tfq6_1006_1.gif""/></p>
+<p>In the given circuit, the <i><b>Thevenin resistance</b></i> equals 800 <img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/>.</p></p>",True,False,,,,B,
+"<p>The voltmeter will read 18 volts.<br/><br/><img alt=""tfq5_1011_1.gif"" src=""/_files/images/basic-electronics/complete/tfq5_1011_1.gif""/></p>",True,False,,,,A,
+<p>Bleeder current is the total current left after the total divider current is subtracted from the total current into the circuit.</p>,True,False,,,,B,
+"<p>When analyzing series–parallel circuit currents, you should start with the current in the branch farthest from the source.</p>",True,False,,,,B,
+"<p>The power dissipated by R4 is 211 mW.<br/><br/><img alt=""tfq5_1009_1.gif"" src=""/_files/images/basic-electronics/complete/tfq5_1009_1.gif""/></p>",True,False,,,,A,
+"<p>The total resistance in the circuit is 1.6 k<img align=""absmiddle"" src=""/_files/images/basic-electronics/complete/omega.gif""/>.<br/><br/><img alt=""tfq5_1003_1.gif"" src=""/_files/images/basic-electronics/complete/tfq5_1003_1.gif""/></p>",True,False,,,,A,
+"<p>The current through R1 is 17 mA.<br/><br/><img alt=""tfq5_1005_1.gif"" src=""/_files/images/basic-electronics/complete/tfq5_1005_1.gif""/></p>",True,False,,,,A,
+"<p>If the output voltage of a certain loaded voltage divider is 12 V, the output voltage might decrease when the load is removed.</p>",True,False,,,,B,
+"<p><p><img src=""/_files/images/basic-electronics/basics/tfq6_1005_1.gif""/></p>
+<p>If the <i><b>Wheatstone bridge</b></i> is balanced in the given circuit, the voltage between points A and B (<i>V</i><sub>AB</sub>) equals the source voltage (<i>V</i><sub>S</sub>).</p></p>",True,False,,,,B,
+"<p>The current through R6 is 8.5 mA.<br/><br/><img alt=""tfq5_1008_1.gif"" src=""/_files/images/basic-electronics/complete/tfq5_1008_1.gif""/></p>",True,False,,,,B,
+<p>Observed voltages not being shared identify components in parallel in a series–parallel circuit.</p>,True,False,,,,B,
+"<p>R2 is open.<br/><br/><img alt=""tfq5_1012_1.gif"" src=""/_files/images/basic-electronics/complete/tfq5_1012_1.gif""/></p>",True,False,,,,B,
+"<p>The total power is 10 watts.<br/><br/><img alt=""tfq5_1006_1.gif"" src=""/_files/images/basic-electronics/complete/tfq5_1006_1.gif""/></p>",True,False,,,,B,
+"<p><p><img src=""/_files/images/basic-electronics/basics/tfq6_1010_1.gif""/></p>
+<p>The total resistance in the given circuit can be found using the formula:</p>
+<p><i>R</i><sub>T</sub> = <i>R</i><sub>1</sub> + <i>R</i><sub>2</sub> || <i>R</i><sub>3</sub> || <i>R</i><sub>4</sub>.</p></p>",True,False,,,,A,
+"<p>When a load resistance is connected to the output of a voltage divider circuit, the source current increases.</p>",True,False,,,,A,
+<p>Opens and shorts are typical problems that occur in electric circuits.</p>,True,False,,,,A,
+<p>A <i><b>Wheatstone bridge</b></i> may be used to determine the value of an unknown resistance.</p>,True,False,,,,A,
+"<p>The voltage out when a 10 k<img align=""absmiddle"" src=""/_files/images/basic-electronics/complete/omega.gif""/> load is connected is 5.7 volts.<br/><br/><img alt=""tfq5_1010_1.gif"" src=""/_files/images/basic-electronics/complete/tfq5_1010_1.gif""/></p>",True,False,,,,A,
+"<p>When resistors burn out, they usually short.</p>",True,False,,,,B,
+"<p>Attaching a 6 k<img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/> load to a voltage divider will cause a smaller decrease in the output voltage than will attaching a 5 k<img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/> load.</p>",True,False,,,,A,
+<p>A loaded voltage divider is a common application of a series-parallel circuit.</p>,True,False,,,,A,

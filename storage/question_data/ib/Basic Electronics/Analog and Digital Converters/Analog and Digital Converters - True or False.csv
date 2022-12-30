@@ -1,0 +1,11 @@
+question,A,B,C,D,E,answer,explanation
+<p>A sample-and-hold circuit samples an analog value and holds it long enough for the analog-to-digital conversion to occur.</p>,True,False,,,,A,
+<p>Incorrect codes are a form of output error for a digital-to-analog converter (DAC).</p>,True,False,,,,B,
+"<p>If we double the number of bits in our digital representation of a number from 4 to 8 bits, we double the relative accuracy of the conversion from digital to analog.</p>",True,False,,,,B,
+<p>The flash method of analog-to-digital conversion (ADC) uses comparators that compare reference voltages with the analog input voltage.</p>,True,False,,,,A,
+<p>A digital-to-analog converter (DAC) is said to be nonmonotonic if the magnitude of the output voltage increases every time the input code increases.</p>,True,False,,,,B,
+<p>The relative accuracy of a digital-to-analog converter (DAC) is determined by settling time.</p>,True,False,,,,B,
+<p>The key advantage of the successive approximation  analog-to-digital converter (ADC) is its conversion speed.</p>,True,False,,,,A,
+<p>One way to determine the resolution of a digital-to-analog converter (DAC) is to compare the ratio of one step voltage to the maximum output voltage.</p>,True,False,,,,A,
+"<p>In a binary-weighted digital-to-analog converter (DAC), the values of the input resistors are chosen to be proportional to the binary weights of the corresponding input bits.</p>",True,False,,,,B,
+<p>An 8-bit digital-to-analog converter (DAC) has a resolution of 0.125 V.</p>,True,False,,,,B,

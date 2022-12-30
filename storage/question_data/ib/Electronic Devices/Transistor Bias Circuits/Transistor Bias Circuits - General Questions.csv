@@ -1,0 +1,56 @@
+question,A,B,C,D,E,answer,explanation
+<p>Clipping is the result of</p>,the input signal being too large.,the transistor being driven into saturation.,the transistor being driven into cutoff.,all of the above,,D,
+<p>Which transistor bias circuit arrangement provides good stability using negative feedback from collector to base?</p>,base bias,collector-feedback bias,voltage-divider bias,emitter bias,,B,
+"<p>Refer to the given figure. The most probable cause of trouble, if any, from these voltage measurements is
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq5_1015_1d.jpeg""/></p>",the base-emitter junction is open.,R<sub>E</sub> is open.,a short from collector to emitter.,no problems.,,A,
+"<p>Refer to the given figure. The most probable cause of trouble, if any, from these voltage measurements is
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq5_1015_1b.jpeg""/></p>",the base-emitter junction is open.,R<sub>E</sub> is open.,a short from collector to emitter.,no problems.,,D,
+<p>What is the dc input resistance at the base of a BJT?</p>,"<img src=""/_files/images/electronic-devices-and-circuit-theory/beta.gif""/><sub>DC</sub>R<sub>C</sub>","<img src=""/_files/images/electronic-devices-and-circuit-theory/beta.gif""/><sub>DC</sub>·(<img src=""/_files/images/electronic-devices-and-circuit-theory/mca5_1023b.jpeg""/>)","<img src=""/_files/images/electronic-devices-and-circuit-theory/beta.gif""/><sub>DC</sub>·r<sub>e</sub>′","<img src=""/_files/images/electronic-devices-and-circuit-theory/beta.gif""/><sub>DC</sub>R<sub>E</sub>",,D,
+<p>Which transistor bias circuit provides good Q-point stability with a single-polarity supply voltage?</p>,base bias,collector-feedback bias,voltage-divider bias,emitter bias,,C,
+"<p>Refer to this figure. In the voltage-divider biased npn transistor circuit, if R<sub>2</sub> opens, the transistor is
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq5_1028_1.jpeg""/></p>",saturated.,cutoff.,nonconducting.,,,A,
+"<p>Ideally, for linear operation, a transistor should be biased so that the Q-point is</p>",near saturation.,near cutoff.,where I<sub>C</sub> is maximum.,halfway between cutoff and saturation.,,D,
+<p>The most stable biasing technique used is the</p>,voltage-divider bias.,base bias.,emitter bias.,collector bias.,,A,
+"<p>Refer to this figure. The value of I<sub>B</sub> is
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq5_1008_1.jpeg""/></p>","53 <img src=""/_files/images/electronic-devices-and-circuit-theory/mu.gif""/>A.","50 <img src=""/_files/images/electronic-devices-and-circuit-theory/mu.gif""/>A.",50 mA.,53 mA.,,B,
+"<p>What is the Q-point for a fixed-bias transistor with I<sub>B</sub> = 75 <img src=""/_files/images/electronic-devices-and-circuit-theory/mu.gif""/>A, <img src=""/_files/images/electronic-devices-and-circuit-theory/beta.gif""/><sub>DC</sub> = 100, V<sub>CC</sub> = 20 V, and R<sub>C</sub> = 1.5 k<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>?</p>",V<sub>C</sub> = 0 V,V<sub>C</sub> = 20 V,V<sub>C</sub> = 8.75 V,V<sub>C</sub> = 11.25 V,,C,
+<p>Emitter bias requires</p>,only a positive supply voltage.,only a negative supply voltage.,no supply voltage.,both positive and negative supply voltages.,,D,
+"<p>Refer to this figure. The value of <img src=""/_files/images/electronic-devices-and-circuit-theory/beta.gif""/><sub>DC</sub> is
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq5_1008_1.jpeg""/></p>",5.3.,53.,94.,100.,,D,
+"<p>Refer to this figure. Assume that I<sub>C</sub> <img src=""/_files/images/electronic-devices-and-circuit-theory/approxequal.gif""/> I<sub>E</sub>. Find V<sub>E</sub>.
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq5_1011_1.jpeg""/></p>",5 V,10 V,15 V,2.5 V,,D,
+"<p>Refer to this figure. In the voltage-divider biased npn transistor circuit, if R<sub>C</sub> opens, the transistor is
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq5_1028_1.jpeg""/></p>",saturated.,cutoff.,nonconducting.,,,C,
+"<p>Which transistor bias circuit arrangement has poor stability because its Q-point varies widely with <img src=""/_files/images/electronic-devices-and-circuit-theory/beta.gif""/><sub>DC</sub>?</p>",base bias,collector-feedback bias,voltage-divider bias,emitter bias,,A,
+<p>What is the most common bias circuit?</p>,base,collector,emitter,voltage-divider,,D,
+"<p>Refer to the given figure. The most probable cause of trouble, if any, from these voltage measurements would be
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq5_1015_1a.jpeg""/></p>",the base-emitter junction is open.,R<sub>E</sub> is open.,a short from collector to emitter.,no problems.,,B,
+"<p>Refer to this figure. Determine I<sub>C</sub>.
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq5_1011_1.jpeg""/></p>","5 <img src=""/_files/images/electronic-devices-and-circuit-theory/mu.gif""/>A",5 mA,0 mA,10 mA,,B,
+"<p>At saturation the value of V<sub>CE</sub> is nearly ________, and I<sub>C</sub> = ________.</p>","zero, zero","V<sub>CC</sub>, I<sub>C(sat)</sub>","zero, I<sub>(sat)</sub>","V<sub>CC</sub>, zero",,C,
+"<p>Voltage-divider bias has a relatively stable Q-point, as does</p>",base bias.,collector-feedback bias.,both of the above,none of the above,,B,
+"<p>Refer to this figure. Assume I<sub>C</sub> <img src=""/_files/images/electronic-devices-and-circuit-theory/approxequal.gif""/> I<sub>E</sub>. Determine the value of R<sub>C</sub> that will allow V<sub>CE</sub> to equal 10 V.
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq5_1011_1.jpeg""/></p>","1 k<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>","1.5 k<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>","2 k<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>","2.5 k<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>",,B,
+<p>The linear (active) operating region of a transistor lies along the load line below ________ and above ________.</p>,"cutoff, saturation","saturation, cutoff",,,,B,
+<p>The input resistance of the base of a voltage-divider biased transistor can be neglected</p>,at all times.,only if the base current is much smaller than the current through R<sub>2</sub> (the lower bias resistor).,at no time.,only if the base current is much larger than the current through R<sub>2</sub> (the lower bias resistor).,,B,
+"<p>Refer to this figure. The value of I<sub>C</sub> is
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq5_1008_1.jpeg""/></p>","10 <img src=""/_files/images/electronic-devices-and-circuit-theory/mu.gif""/>A.",10 mA.,5 mA.,50 mA.,,C,
+"<p>Which transistor bias circuit arrangement provides good Q-point stability, but requires both positive and negative supply voltages?</p>",base bias,collector-feedback bias,voltage-divider bias,emitter bias,,D,
+"<p>Refer to this figure. Calculate the current I<sub>2</sub>.
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq5_1011_1.jpeg""/></p>",32 mA,3.2 mA,"168 <img src=""/_files/images/electronic-devices-and-circuit-theory/mu.gif""/>A","320 <img src=""/_files/images/electronic-devices-and-circuit-theory/mu.gif""/>A",,D,
+"<p>Refer to this figure. In the voltage-divider biased npn transistor circuit, if R<sub>1</sub> opens, the transistor is
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq5_1028_1.jpeg""/></p>",saturated.,cutoff.,nonconducting.,,,B,
+"<p>Changes in <img src=""/_files/images/electronic-devices-and-circuit-theory/beta.gif""/><sub>DC</sub> result in changes in</p>",I<sub>C</sub>.,V<sub>CE</sub>.,the Q-point.,all of the above,,D,

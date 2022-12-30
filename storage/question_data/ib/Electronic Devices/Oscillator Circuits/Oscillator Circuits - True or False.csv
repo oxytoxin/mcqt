@@ -1,0 +1,11 @@
+question,A,B,C,D,E,answer,explanation
+<p>The feedback network in a Colpitts oscillator contains two series capacitors and a parallel inductor.</p>,True,False,,,,A,
+<p>The positive feedback voltage in an oscillator has no net phase shift.</p>,True,False,,,,A,
+<p>Crystal oscillators are inherently unstable.</p>,True,False,,,,B,
+"<p>For a Wien-bridge oscillator, resonance occurs when V<sub>out</sub>/V<sub>in</sub> = 1.</p>",True,False,,,,B,
+<p>LC feedback elements are normally used in oscillators for frequencies greater than 1 MHz.</p>,True,False,,,,A,
+<p>The frequency in a VCO can be varied with a DC voltage.</p>,True,False,,,,A,
+<p>Oscillators operate on negative feedback.</p>,True,False,,,,B,
+<p>The start-up gain of an oscillator must be greater than 1.</p>,True,False,,,,A,
+<p>The feedback signal in a Hartley oscillator is derived from an inductive voltage in the tank circuit.</p>,True,False,,,,A,
+"<p>In the astable mode, a 555 timer is connected as a free-running relaxation oscillator.</p>",True,False,,,,A,

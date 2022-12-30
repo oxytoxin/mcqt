@@ -1,0 +1,14 @@
+question,A,B,C,D,E,answer,explanation
+<p>One revolution of a conductor through the magnetic field of a basic generator will produce two complete sine waves.</p>,True,False,,,,B,
+<p>A sine wave's peak-to-peak voltage value is always twice its peak voltage value.</p>,True,False,,,,A,
+"<p>If a wave has frequency of 2 Hz, it has a period of ?</p>",1s,1/2 s,2.5s,2s,,B," <p>Period is usually 1/Frequency</p>
+<p>So, Period =  1/2s.</p> "
+<p>90° equals 1.57 radians.</p>,True,False,,,,A,
+<p>A 1 Hz sine wave has a period of 1 s.</p>,True,False,,,,A,
+<p>The instantaneous voltage at 120° on a 5 V peak sine wave equals about –4.33 V.</p>,True,False,,,,B,
+<p>A sine wave has only one positive maximum point during a cycle.</p>,True,False,,,,A,
+<p>The sine of a given angle is equal to the ratio of the hypotenuse to the opposite side.</p>,True,False,,,,B,
+"<p>The square, rectangular, and sawtooth waveforms are nonsymmetrical.</p>",True,False,,,,B,
+"<p>10,000 cycles will occur in 5 s if a sine wave's frequency equals 2 kHz.</p>",True,False,,,,A,
+"<p>If you increase the rotational speed of the conductor in a basic generator, the frequency of the resulting sine wave voltage will increase.</p>",True,False,,,,A,
+<p>The rms voltage value is a measure of a sine wave's heating effect.</p>,True,False,,,,A,

@@ -1,0 +1,207 @@
+question,A,B,C,D,E,answer,explanation
+"<p>In the following non planar graph number of independent loop equations are<br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-01-1.png""/></p>",8,12,7,5,,D," <p>Number of independent loop equations are given by, </p>
+<p><i>L = B - N</i> + 1</p>
+<p>where <i>L</i> : No. of loop equations</p>
+<p><i>B</i> : No. of branches = 12</p>
+<p><i>N</i> : No. of nodes = 8</p>
+<p><i>L</i> = 12 - 8 + 1 = 5.</p> "
+"<p>A transmission line has a characteristic impedance of 50 Ω and a resistance of 0.1 Ω/m, if the line is distortion less, the attenuation constant (in Np/m) is</p>",500,5,0.014,0.002,,D," <p>Distortion less <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/7-08-23.png""/></p>
+<p><span class=""symbol"">a</span> = <span class=""root"">RG</span> and Z<sub>0</sub> = <span class=""root"">RG</span> → <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/7-08-23-1.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/7-08-23-2.png""/>.</p> "
+"<p>A certain 8 bit uniform quantization PCM system can accommodate a signal ranging from - 1 V to + V. The rms value of the signal is <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/11-02-17.png""/>V . The signal to quantization noise ratio is:</p>",30 dB,46.91 dB,40 dB,49.92 dB,,D," <p>(SNR)<sub>dB</sub> = 1.76 + 6.02<i>n</i></p>
+<p><i>n</i> = 8</p>
+<p>Thus (SNR)<sub>dB</sub> = 1.76 + 6.02 x 8 = 49.92 dB.</p> "
+"<p>A rectangular waveguide, in dominant TE mode, has dimensions 10 <i>cm</i> x 15 <i>cm</i>. The cut off frequency is</p>",10 GH<i>z</i>,1 GH<i>z</i>,15 GH<i>z</i>,25 GH<i>z</i>,,B," <p>For TE<sub>10</sub> mode </p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-767-73-1.png""/></p> "
+<p>A radar receiver has a noise figure of 10 dB at 300 K having a bandwidth of 2.5 MHz. The minimum power it can receive is</p>,3.45 x 10<sup>-15</sup> W,1.38 x 10<sup>-15</sup> W,7.5 x 10<sup>-15</sup> W,93.15 x 10<sup>-15</sup> W,,D, <p>P<i><sub>m</sub></i> = <i>k</i>T<sub>0</sub>Δ<i><sub>f</sub></i>(F - 1) = 93.15 x 10<sup>-15</sup> W.</p> 
+"<p>In the circuit shown, in switch S is open for a long time and is closed at <i>t</i> = 0. The current <i>i</i>(<i>t</i>) for <i>t</i> ≥ 0<sup>+</sup> is<br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/7-04-32.png""/></p>",<i>i</i>(<i>t</i>) = 0.5 - 0.125<i>e</i><sup>-1000<i>t</i></sup> A,<i>i</i>(<i>t</i>) = 1.5 - 0.125<i>e</i><sup>-1000<i>t</i></sup> A,<i>i</i>(<i>t</i>) = 0.5 - 0.5<i>e</i><sup>-1000<i>t</i></sup> A,<i>i</i>(<i>t</i>) = 0.375<i>e</i><sup>-1000<i>t</i></sup> A,,A," <p><i>i</i>(<i>f</i>) = 0.5, <i>i</i>(<i>i</i>) = 0.75</p>
+<p><i>i</i>(<i>t</i>) = V<sub><i>r</i></sub> + (<i>i<sub>i</sub></i> - <i>i<sub>j</sub></i>)<i>e</i><sup>-1/<span class=""symbol"">p</span></sup> = 0.5 - 0.125<i>e</i><sup>-1000<i>t</i></sup> .</p> "
+<p>In a semiconductor material. The hole concentration is found to be 2 x 2.5 x 10<sup>15</sup> <i>cm</i><sup>-3</sup>. If mobility of carriers is 0.13 <i>m</i><sup>2</sup>/ <i>v-s</i>. Then find the current density if electric field intensity is 3.62 x 10<sup>-19</sup></p>,7.6237 x 10<sup>-4</sup> A/<i>cm</i><sup>2</sup>,7.6237 x 10<sup>-5</sup> A/<i>cm</i><sup>2</sup>,7.6237 x 10<sup>-3</sup> A/<i>cm</i><sup>2</sup>,none of these,,A," <p>Current density J = σE </p>
+<p>Where σ = conductivity </p>
+<p>Given -&gt; μ = 0.13 <i>m</i><sup>2</sup>/<i>v-s</i> = 0.13 x 10<sup>4</sup> <i>cm</i><sup>2</sup>/V <i>sec</i> </p>
+<p>P = 2.25 x 10<sup>15</sup>/<i>cm</i><sup>3</sup> </p>
+<p>We have, <b>∴</b> <i>n<sub>i</sub></i> = 1.5 x 10<sup>10</sup> </p>
+<p>Also n.p. =<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-799-89-4.png""/> </p>
+<p><b>∴</b> <i>n</i> = <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-799-89-4.png""/>/<i>p</i> </p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-799-89-1.png""/> </p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-799-89-2.png""/> </p>
+<p>= (1.6 x 10<sup>-19</sup> x 0.13 x 10<sup>4</sup> x 2.25 x 10<sup>15</sup>) x<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-799-89-3.png""/> </p>
+<p>= (0.468) (4.5 x 10<sup>15</sup>) </p>
+<p>σ = 2.106 x 10<sup>15</sup> μ/<i>cm</i> </p>
+<p>J = σE </p>
+<p><b>∴</b> Current density = 2.106 x 10<sup>15</sup> x 3.620 x 10<sup>-19</sup> </p>
+<p>= 7.6237 x 10<sup>-4</sup> A/<i>m</i><sup>2</sup>.</p> "
+"<p>Consider the system <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/6-02-18.png""/> with <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/6-02-18-1.png""/> and <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/6-02-18-2.png""/>where <i>p</i> and <i>q</i> are arbitrary real numbers. Which of the following statements about the controllability of the system is true?</p>",The system is completely state controllable for any non zero values <i>p</i> and <i>q</i>,Only <i>p</i> = 0 and <i>q</i> = 0 result in controllability,The system is uncontrollable for all values of <i>p</i> and <i>q</i>,We cannot conclude about controllability from the given data,,C, <p>Use the condition of controllability.</p> 
+"<p>A MOSFET has a threshold voltage of 1 V and oxide thickness of 500 x 10<sup>-8</sup> [ε<sub><i>r</i></sub> = 3.9; ε<sub>0</sub> = 8.85 x 10<sup>-14</sup> F/cm, <i>q</i> = 1.6 x 10<sup>-19</sup> <i>c</i>]. The region under the gate is ion implanted for threshold voltage tailoring. The base and type of impant required to shift threshold voltage to - 1 V are __________ .</p>","8.6 x 10<sup>11</sup>/<i>cm</i><sup>2</sup>, <i>p</i>-type","8.6 x 10<sup>11</sup>/<i>cm</i><sup>2</sup>, <i>n</i>-type","0.86 x 10<sup>9</sup>/<i>cm</i><sup>2</sup>, <i>p</i>-type","1.02 x 10<sup>12</sup>/<i>cm</i><sup>2</sup>, <i>n</i>-type",,A," <p>V<sub>T(<i>new</i>)</sub> = V<sub>T(<i>odd</i>)</sub> +<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-796-57-1.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-796-57-2.png""/> </p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-796-57-3.png""/>= 6.903 x 10<sup>-8</sup> </p>
+<p><b>∴</b> <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-796-57-4.png""/> </p>
+<p><b>∴</b> <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-796-57-5.png""/> </p>
+<p><i>f</i><sub>B</sub> = - 8.6 x 10<sup>11</sup> </p>
+<p>The threshold voltage is always negative for <i>p</i>-channel and hence implant is of <i>p</i>-type.</p> "
+"<p>What is the propagation constant for air filled wave guide with dimensions <i>a</i> = 1.59"" and <i>b</i> = 0.795"" at 4.95 GHz?</p>",0.6698,0.7698,0.503,0.6598,,A," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/12-05-37.png""/></p>
+<p>Here, <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/12-05-37-1.png""/></p>
+<p><i>a</i> = 1.59'' = 40.386 mm = 4.04 cm</p>
+<p><b>∴</b> <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/12-05-37-2.png""/>.</p> "
+"<p>Radiation resistance of an antenna is 54 Ω and loss resistance is 6 Ω. If antenna has power gain of 10, then directivity is:</p>",9,11.11,data not sufficient,10,,B," <p>Efficiency of antenna <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/1-750-18-1.png""/>
+</p>
+<p>Power gain = 10
+</p>
+<p>Thus directivity <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/1-750-18-2.png""/>.</p> "
+"<p>If the power spectral density of stationary random process is a sine-squared function of frequency, the shape of its autocorrelation is</p>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/6-02-12-1.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/6-02-12-2.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/6-02-12-3.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/6-02-12-4.png""/>",,B," <p>Since autocorrelation function and power spectral density bears a Fourier transform relation, then since required in frequency domain will five rectangular convolutions in time domain thus it is triangular function.</p> "
+"<p>The inverse of given Laplace transform is<br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/3-03-32.png""/><br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/3-03-32-1.png""/></p>",sin <i>t</i>,cos <i>t</i>,<i>e</i><i><sup>t</sup></i>,<i>e</i><sup>2<i>t</i></sup>,,B," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/3-09-32.png""/></p>
+<p><i>s</i> = <i>x</i><sup>2</sup> - <i>e</i><i><sup>x</sup></i></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/3-09-32-1.png""/></p>
+<p><i>x</i>(<i>t</i>) = cos <i>t</i>.</p> "
+"<p>Consider the amplitude modulated (AM) signal <i>A<sub>c</sub></i> cos ω<i><sub>c</sub>t</i> + 2 cos ω<sub><i>m</i></sub><i>t</i> cos ω<i><sub>c</sub>t</i> For demodulating the signal using envelope detector, the minimum value of A<sub>c</sub> should be</p>",2,1,0.5,0,,A," <p>A<sub>C</sub> cos ω<sub><i>c</i></sub><i>t</i> + 2 cos ω<i><sub>m</sub>t</i> cos ω<sub><i>c</i></sub><i>t</i></p>
+<p>A<sub>C</sub> cosω<sub><i>c</i></sub><i>t</i><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/5-11-20.png""/></p>
+<p>for envelope detection μ &lt; 1 ⇒ <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/5-11-20-1.png""/> &lt; 1 ⇒ A<sub><i>c</i></sub> should be at least-2.</p> "
+"<p>In a 4 bit weighted resistor D/A converter, the resistor value corresponding to LSB is 32 kΩ. The resistor value corresponding to MSB will be</p>",32 KΩ,16 KΩ,8 KΩ,4 KΩ,,D," <p>2<sup><i>n</i> - 1</sup> R = 32 K&amp;Omeg</p>
+<p><i>n</i> = 4</p>
+<p>⇒ 8R = 32</p>
+<p>R = 4 KΩ.</p> "
+"<p>Find <i>'X'</i> in the circuit below :<br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/14-02-20.png""/><br/><i>f</i><sub>1</sub>(A, B, C, D) = Σ(6, 7, 13, 14);<br/><i>f</i><sub>2</sub>(A, B, C, D) = Σ(3, 6, 7);<br/><i>f</i><sub>3</sub>(A, B, C, D) = Σ(5, 6, 7, 14, 15)</p>","<span class=""symbol"">p</span>(0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 15)",0,Σ(14),1,,C," <p><i>f</i><sub>1</sub>(A, B, C, D) = ∑(6, 7, 13, 14)</p>
+<p><i>f</i><sub>2</sub>(A, B, C, D) = ∑(3, 6, 7)</p>
+<p><i>f</i><sub>1</sub> ⊕ <i>f</i><sub>2</sub> = ∑(3, 13, 14)</p>
+<p><i>f</i><sub>3</sub> x (<i>f</i><sub>1</sub> ⊕ <i>f</i><sub>2</sub>) = ∑(14) = <i>y</i></p>
+<p>X = <i>f</i><sub>1</sub> x <i>y</i> ⇒ ∑14.</p> "
+"<p>Suppose that the modulating signal is <i>m</i>(<i>t</i>) = 2cos (2<span class=""symbol"">p</span><i>f<sub>m</sub>t</i>) and the carrier signal is <i>x</i><sub>C</sub>(<i>t</i>) = A<sub>C</sub> cos(2<span class=""symbol"">p</span><i>f<sub>c</sub>t</i>), which one of the following is a conventional AM signal without over modulation?</p>","<i>x</i>(<i>t</i>) = <i>A<sub>c</sub>m</i>(<i>t</i>)cos(2<span class=""symbol"">p</span><i>f<sub>c</sub>t</i>)","<i>x</i>(<i>t</i>) = A<sub><i>c</i></sub> [1 + <i>m</i>(<i>t</i>)]cos (2<span class=""symbol"">p</span><i>f<sub>c</sub>t</i>)","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/7-03-20-3.png""/>","<i>x</i>(<i>t</i>) = A<sub><i>c</i></sub>cos(2<span class=""symbol"">p</span><i>f<sub>m</sub>t</i>)cos(2<span class=""symbol"">p</span><i>f<sub>c</sub>t</i>) + A<sub><i>c</i></sub>sin(2<span class=""symbol"">p</span><i>f<sub>m</sub>t</i>)sin(2<span class=""symbol"">p</span><i>f<sub>c</sub>t</i>)",,C," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/7-08-20.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/7-08-20-1.png""/></p>
+<p>(C) is without over modulation.</p> "
+"<p>What are the values of E<sub>max</sub> and E<sub>min</sub> displayed on the oscilloscope, when a 1 kV <i>P</i>-<i>P</i> carries is modulated to 50%?</p>","2 kV, 0.5 kV","1 kV, 0.5 kV","0.75 kV, 0.25 kV","0.5 kV, 1.5 kV",,C," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/3-10-45-1.png""/></p>
+<p>E<sub>max</sub> - E<sub>min</sub> = 0.5 x 1 kV = 0.5 kV</p>
+<p>2E<sub>max</sub> = 1.5 kVi, E<sub>max</sub> = 0.75 kV</p>
+<p>E<sub>min</sub> = 0.25 kV.</p> "
+"<p>Consider the common emitter amplifier shown below with the following circuit parameters: β = 100, <i>g<sub>m</sub></i> = 0.3861 A/V, <i>r</i><sub>0</sub> = ∞ <i>r<sub>p</sub></i> = 259 Ω, R<sub>s</sub> = 1 kΩ, R<sub>B</sub> = 93 kΩ, R<sub>C</sub> = 250 Ω, R<sub>L</sub> = 1 kW, C<sub>1</sub> = ∞ and C<sub>2</sub> = 4.7mF.<br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/7-06-48.png""/><br/>The resistance seen by the source V<i>s</i> is</p>",258 Ω,1258 Ω,93 kΩ,∞,,B," <p>Z<sub><i>s</i></sub> = R<sub><i>s</i></sub> + (R<sub>B</sub> || B<i>r</i><sub>s</sub>)</p>
+<p><i>r<sub>c</sub></i> = 2.475 = 1.258 kV</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/7-09-48.png""/></p> "
+<p>As the temperature increases the mobility of electrons __________ .</p>,decreases because the number of carries increases with increased collisions,increases because the number of carries decreases with decreased collisions,remains same,none of the above,,A," <p>Mobility of electrons <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/3-07-5.png""/></p>
+<p><i>m</i> = 2.5 for electrons and 2.7 for holes in Si.</p> "
+"<p>Consider the following <ol style=""list-style-type: decimal; padding-bottom:10px;""><li style=""padding-top:10px;"">Maximum energy of electrons liberated photoelectrically is independent of light intensity</li><li style=""padding-top:10px;"">Maximum energy of electrons liberated photoelectrically varies nonlinearly with frequency of incident light.</li></ol></p>",(1) is true and (2) is false,(1) and (2) both are true,(1) is false and (2) is true,(1) and (2) both are false,,A," <p>Statement (ii) is false because maximum energy of photons varies linearly with frequency of incident light. It can be shown as follows : </p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-762-24-1.png""/> </p>
+<p>F<sub>1</sub> &gt; F<sub>2</sub> &gt; F<sub>3</sub> </p>
+<p><i>j</i> = light intensity = constant </p>
+<p>Photocurrent V<sub><i>s</i></sub> Anode voltage with frequency and incident light as a parameter. </p>
+<p>The light intensity is constant.</p> "
+"<p>When phase-lag compensation is used in a system, then gain cross over frequency, bandwidth and undamped frequency are respectively</p>","Increased, Increased, Increased","Increased, Increased, Decreased","Increased, Decreased, Decreased","Decreased, Decreased, Decreased",,D, <p>Phase lag is delay between a correcting signal of control system and response to it.</p> 
+"<p>The equivalent form of the logical expression <span style=""text-decoration:overline;"">A</span>B<span style=""text-decoration:overline;"">C</span> + <span style=""text-decoration:overline;"">A</span> <span style=""text-decoration:overline;"">B</span>C + ABC + AB<span style=""text-decoration:overline;"">C</span> + A<span style=""text-decoration:overline;"">B</span> <span style=""text-decoration:overline;"">C</span> is</p>","<span style=""text-decoration:overline;"">C</span> + (A ⊕ B)","(<span style=""text-decoration:overline;"">A</span> + B + C)(A + <span style=""text-decoration:overline;"">B</span> + C)","(A + B + C)(<span style=""text-decoration:overline;"">A</span> + B + C)(A + <span style=""text-decoration:overline;"">B</span> + C)","(A + B + C)(<span style=""text-decoration:overline;"">A</span> + B + <span style=""text-decoration:overline;"">C</span>)(A + <span style=""text-decoration:overline;"">B</span> + <span style=""text-decoration:overline;"">C</span>)",,D," <p>This can be solve by using Boolean identity but using k map it will be more easy</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/14-04-3.png""/></p>
+<p>(A + B + C) (<span style=""text-decoration:overline;"">A</span> + B + <span style=""text-decoration:overline;"">C</span>) (A + <span style=""text-decoration:overline;"">B</span> + <span style=""text-decoration:overline;"">C</span>).</p> "
+<p>The gradient of any scalar field always yields __________ .</p>,a solenoidal field,a conservative field,an irrotational field,none of these,,B, <p>Dot product is conservative. Gradient is nothing but dot product.</p> 
+"<p>In a flash type ADC, employing 15 comparators resolution with 10 volts reference; is expected to be :</p>",0.625 V,0.656 V,0.525 V,insufficient data,,A," <p>Since number of comparators = 2<i><sup>n</sup></i> - 1 = 15; </p>
+<p>Then number of bits are '4'</p>
+<p>Resolution <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/3-12-68.png""/></p> "
+"<p>Consider the signal flow graph shown in figure below. The gain <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/16-02-8-.png""/> is :<br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/16-02-8.png""/></p>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/16-02-8-1.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/16-02-8-2.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/16-02-8-3.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/16-02-8-4.png""/>",,C," <p>P<sub>1</sub> = <i>abcd</i></p>
+<p>L<sub>1</sub> = <i>be</i>, L<sub>2</sub> = <i>cf</i>, L<sub>3</sub> = <i>dg</i></p>
+<p>Δ<sub>1</sub> = 1</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/16-05-8.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/16-05-8-1.png""/>.</p> "
+"<p>During transmission over a communicate channel, bit errors occur independently with probability <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/11-02-17.png""/>. If a block of 3 bits are transmitted, the probability of at most one bit error is equal to</p>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/11-03-40-1.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/11-03-40-2.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/11-03-40-3.png""/>",none,,D," <p>Probability of no-error + probability one error</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/11-04-40.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/11-04-40-1.png""/>.</p> "
+"<p>If <i>x</i><sub>1</sub>[<i>n</i>] <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-02-18.png""/> <i>x</i><sub>1</sub>(<i>z</i>) with ROC = R<sub>1</sub> and <i>x</i><sub>2</sub>[<i>n</i>] <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-02-18.png""/> <i>x</i><sub>2</sub>(<i>z</i>) with ROC = R<sub>2</sub> then ROC for <i>x</i><sub>1</sub>[<i>n</i>] + <i>x</i><sub>2</sub>[<i>n</i>] will be __________ (where R<sub><i>i</i></sub> → Region of convergence and <i>x</i><sub>1</sub>[<i>n</i>] and <i>x</i><sub>2</sub>[<i>n</i>] are causal).</p>",R<sub>1</sub> ∩ R<sub>2</sub>,R<sub>1</sub> ∪ R<sub>2</sub>,(R<sub>1</sub> ∪ R<sub>2</sub>) ∩ (R<sub>1</sub>),(R<sub>1</sub> ∩ R<sub>2</sub>) ∪ (R<sub>1</sub>),,A," <p>R<sub>1</sub> ∩ R<sub>2</sub>, Suppose R<sub>1</sub> for <i>x</i><sub>1</sub>(<i>n</i>) be</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-07-18.png""/></p>
+<p>Then ROC for <i>x</i><sub>1</sub>(<i>n</i>) + <i>x</i><sub>2</sub>(<i>n</i>) </p>
+<p>R<sub>1</sub> ∩ R<sub>2</sub> (R<sub>1</sub> &lt; R<sub>2</sub>)</p>
+<p>Then ROC for <i>x</i><sub>1</sub>(<i>n</i>) + <i>x</i><sub>2</sub>(<i>n</i>)</p>
+<p>R<sub>1</sub> ∩ R<sub>2</sub>(R<sub>1</sub> &lt; R<sub>2</sub>)</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-07-18-1.png""/></p> "
+"<p>Consider a unity feedback control system with open-loop transfer function <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/16-02-22.png""/> The steady state error of the system due to a unity step input is :</p>",zero,K,1/K,infinite,,A," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/16-06-22.png""/>.</p> "
+"<p>The analog signal given below is sampled at 1200 samples per second. <i>m(t)</i> = 2 sin 120 <span class=""symbol"">p</span><i>t</i> + 3 sin 240 <span class=""symbol"">p</span><i>t</i> + 4 sin 360 <span class=""symbol"">p</span><i>t</i> + 5 sin 480 <span class=""symbol"">p</span><i>t</i> + 6 sin 600 <span class=""symbol"">p</span><i>t</i> + 7 sin 720 <span class=""symbol"">p</span><i>t</i>. The folding (maximum) frequency is __________ .</p>",300 H<i>z</i>,360 H<i>z</i>,600 H<i>z</i>,480 H<i>z</i>,,C," <p>Folding frequency (max.) =<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-794-38-1.png""/> = 600 H<i>z</i>.</p> "
+"<p>If the system T.F. is <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-756-44-1.png""/> The differential equation representing the system is</p>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-756-44-2.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-756-44-3.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-756-44-4.png""/>",none of these,,C," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-764-44-7.png""/></p>
+<p>(<i>s</i><sup>3</sup> + 2<i>s</i><sup>2</sup> + 5<i>s</i> + 6)<i>y(s)</i> = (<i>s<sup>2</sup></i> + 4) x (<i>s</i>)</p>
+<p><i>s</i><sup>3</sup><i>y(s)</i> + 2<i>s</i><sup>2</sup><i>y(s)</i> + 5<i>sy(s)</i> + 6<i>y(s)</i> = <i>s</i><sup>2</sup> x (<i>s</i>) + 4 x (<i>s</i>) </p>
+<p>Replacing <i>s</i> by <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-763-35-1.png""/> and <i>y(s)</i> by <i>y(t)</i> and <i>x(s)</i> by <i>x(t)</i> we get </p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-764-44-1.png""/><i>y(t)</i> + 2<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-764-44-2.png""/><i>y(t)</i> + 5<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-763-35-1.png""/><i>y(t)</i> + 6<i>y(t)</i></p>
+<p> = <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-764-44-2.png""/><i>x(t)</i> + 4<i>x(t)</i> </p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-764-44-5.png""/> + 2<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-764-44-3.png""/> + 5<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-764-44-6.png""/> + 6 = <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-764-44-4.png""/> + 4<i>x</i> </p>
+<p>This is required differential equation.</p> "
+"<p>In the circuit below, delay of the EXOR and AND<br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-788-45-1.png""/><br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-788-45-2.png""/><br/>Logic gates are 20 μ<i>s</i> and 10 μ<i>s</i> respectively, then the wave <i>y</i><sup>'</sup> and <i>y</i> (with initial condition <i>y</i> = 1) will be :</p>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-788-45-3.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-788-45-4.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-788-45-5.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-788-45-6.png""/>",,B," <p>Since <i>y</i> is at logic '1' initially, <i>y</i>' must be at logic '1'. </p>
+<p>Also, one input of the EXOR gate is tied to zero therefore '<i>f</i>' will be directly transferred to the output. </p>
+<p>The logic gates will introduce gate delays which will lead to the answer .</p> "
+"<p>The antenna current of an AM transmitter is 8 A, when only the carrier is sent, but it increases to 8.93 A when the carrier is modulated by a single sine wave. Determine the antenna current when the percent of modulation changes to 0.8</p>",9.19 A,9.91 A,10.56 A,8.61 A,,A," <p>I<sub><i>c</i></sub> = 8 A </p>
+<p><i>m</i> = 0.8 </p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-797-73-1.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-797-73-2.png""/> </p>
+<p>= 8 x 1.149 = 9.19 A.</p> "
+<p>A noiseless 3 KH<i>z</i> channel can transmit binary at the rate __________ .</p>,12000 <i>bps</i>,10000 <i>bps</i>,6000 <i>bps</i>,3000 <i>bps</i>,,C," <p>Maximum data rate for noiseless channel is given by Nyquist Theorem </p>
+<p>= 2H <i>log</i><sub>2</sub> V <i>bits/sec</i> </p>
+<p>V - discrete levels (Here Binary i.e. 2) </p>
+<p>H - Bandwidth </p>
+<p><b>∴</b> Maximum data rate = 2H <i>log</i><sub>2</sub> V </p>
+<p>= 2(3 KH<i>z</i>) <i>log</i><sub>2</sub> 2 = 2 x 3 x 10<sup>3</sup> x 1 </p>
+<p>= 6 x 10<sup>3</sup> = 6000 <i>bps</i>.</p> "
+"<p>Find V<sub><i>x</i></sub> V<sub><i>y</i></sub> V<sub><i>z</i></sub><br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-01-3.png""/></p>",V<sub><i>x</i></sub> = -6 V<sub><i>y</i></sub> = 3 V<sub><i>z</i></sub> = -3,V<sub><i>x</i></sub> = -6 V<sub><i>y</i></sub> = -3 V<sub><i>z</i></sub> = 1,V<sub><i>x</i></sub> = 6 V<sub><i>y</i></sub> = 3 V<sub><i>z</i></sub> = 3,V<sub><i>x</i></sub> = 6 V<sub><i>y</i></sub> = 1 V<sub><i>z</i></sub> = 3,,D," <p>Apply Mesh analysis</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-05-3.png""/></p>
+<p>Apply KVL to mesh 2</p>
+<p>-2 + V<sub><i>y</i></sub> + 1 = 0</p>
+<p><b>∴</b> V<sub><i>y</i></sub> = 1</p>
+<p>Apply KVL to mesh 1</p>
+<p><b>∴</b> -8 + V<sub><i>x</i></sub> + 2 = 0</p>
+<p><b>∴</b> V<sub><i>x</i></sub> = 6 V</p>
+<p>Apply KVL to mesh 3</p>
+<p>-1 + V<sub><i>z</i></sub> -2 = 0</p>
+<p><b>∴</b> V<sub><i>z</i></sub> = 3 V.</p> "
+"<p>If <i>x[n]</i> <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-02-17.png""/> then the sequence <i>x[n]</i> is</p>",non-periodic,periodic,depends on <i>n</i>,none of these,,A," <p>Consider <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-07-17.png""/></p>
+<p>Number of samples per period = 10<span class=""symbol"">p</span></p>
+<p>This is not a rational number. Hence signal is non periodic.</p> "
+"<p>The impulse response and the excitation function of a linear time invariant causal system are shown in figure (<i>a</i>) and (<i>b</i>) respectively. The output of the system at <i>t</i> = 2 sec is equal to<br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-04-43.png""/></p>",0,2,"<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-04-43-3.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-04-43-4.png""/>",,D," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-10-43.png""/></p>
+<p>The area of the shaded region </p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-10-43-1.png""/>.</p> "
+"<p>Consider a stable and causal system with impulse response <i>h(t)</i> and system function H(S). Suppose H(S) is rational, contains a pole at S = - 2, and does not have a zero at the origin. The location of all other poles and zero is unknown for each of the following statements. Let us determine whether statement is true or false. <ol style=""list-style-type: decimal; padding-bottom:10px;""><li style=""padding-top:10px;""><i>f[h(t) e<sup>-3t</sup>]</i> converges</li><li style=""padding-top:10px;""><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-757-59-1.png""/></li><li style=""padding-top:10px;""><i>h(t)</i> has finite duration</li><li style=""padding-top:10px;"">H(<i>s</i>) = H(- <i>s</i>)</li></ol> Choose correct option.</p>","1 - True, 2 - False, 3 - True, 4 - False","1 - False, 2 - False, 3 - False, 4 - True","1 - False, 2 - False, 3 - False, 4 - False","1 - True, 2 - can't say, 3 - True, 4 - can't say",,C," <p>Statement 1 is false, since <i>f{h(t)e<sup>3t</sup>}</i> corresponds to the value of the Laplace transform of <i>h(t)</i> at <i>s</i> = 3. </p>
+<p>If this converges, it implies that <i>s</i> = - 3 is in the ROC. </p>
+<p>A casual and stable system must always have its ROC to the right of all its poles. However, <i>s</i> = - 3 is not to the right of the pole at <i>s</i> = - 2. </p>
+<p>Statement 2 is false, because it is equivalent to stating that H(0) = 0. This contradicts the fact that <i>H(s)</i> does not have a zero at the origin. </p>
+<p>Statement 3 is false. If <i>h(t)</i> is of finite duration, then if its Laplace transform has any points in its ROC, ROC must be the entire <i>s</i>-plane. </p>
+<p>However, this is not consistent with H(<i>s</i>) having a pole at <i>s</i> = - 2. </p>
+<p>Statement 4 is false. If it were true, then H(<i>s</i>) has a pole at <i>s</i> = - 2, it must also have a pole at <i>s</i> = 2. </p>
+<p>This is inconsistent with the fact that all the poles of a causal and stable system must be in the left half of the <i>s</i>-plane.</p> "
+<p>The specific gravity of tungsten is 13.8 and its atomic weight is 184.0 Assume that there are two free elements per atom. Then the Fermi level or characteristic energy for the crystal in <i>e</i>V will be</p>,8.95 <i>e</i>V,-8.95 <i>e</i>V,7.326 <i>e</i>V,-7.326 <i>e</i>V,,C," <p>A quantity of any substance equal to its molecular weight in grams is a mole of that substance contains the same number of molecules as one mole of any other substance. This Avogadro's number and equals 6.02 x 10<sup>23</sup> molecules per mole. Thus</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-798-82-1.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-798-82-2.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-798-82-3.png""/> </p>
+<p>= 9.03 x 10<sup>28</sup> electrons/<i>m<sup>3</sup></i></p>
+<p>Since for tungsten the atomic and the molecular weights are the same. Therefore for tungsten </p>
+<p>E<sub>F</sub> = 3.64 x 10<sup>-19</sup>(η)<sup>2/3</sup> </p>
+<p>= 3.64 x 10<sup>- 19</sup>(9.03 x 10<sup>28</sup>)<sup>2/3</sup> </p>
+<p>E<sub>F</sub> = 7.326 <i>e</i>V.</p> "
+<p>An air-filled rectangular waveguide has dimensions 8<i>cm</i> x 10<i>cm </i>. The phase velocity of guided wave at frequency of 3 GH<i>z</i> for TE<sub>10</sub> mode is</p>,1.5 x 10<sup>8</sup> <i>m/s</i>,5.5 x 10<sup>8</sup> <i>m/s</i>,3.46 x 10<sup>8</sup> <i>m/s</i>,0.18 x 10<sup>7</sup> <i>m/s</i>,,C," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-797-68-1.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-797-68-2.png""/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-797-68-3.png""/> </p>
+<p><b>∴</b> V<sub>P</sub> = 3.46 x 10<sup>8</sup> <i>m/s</i>.</p> "
+"<p>For <span class=""symbol"">a</span> = - 1, find the value of V<sub>2</sub><br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-787-34-1.png""/></p>",∞,0,V<sub>1</sub>,none of the above,,B," <p>V<sub>1</sub> = <i>i</i><sub>1</sub>R<sub>1</sub> + <i>i</i><sub>2</sub>R<sub>2</sub> </p>
+<p><i>i</i><sub>1</sub> + <span class=""symbol"">a</span><i>i</i><sub>1</sub> = <i>i</i><sub>2</sub> </p>
+<p>V<sub>2</sub> = <i>i</i><sub>2</sub>R<sub>2</sub></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-794-34-1.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-794-34-2.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-794-34-3.png""/> </p>
+<p>Putting <span class=""symbol"">a</span> = - 1 </p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-794-34-4.png""/> = 0 V.</p> "
+"<p>A unity-feedback control system has the open loop transfer function <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/16-02-19.png""/>. If the input system is a unit ramp, the steady state error will be</p>",0,0.5,2,infinity,,C," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/16-06-19.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/16-06-19-1.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/16-06-19-2.png""/>.</p> "
+"<p>For a given voltage, four heating coils will produce maximum heat when connected</p>",all in parallel,all in series,with two parallel pairs in series,one pair in parallel with the other two in series,,A," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-792-16-1.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-792-16-2.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-792-16-3.png""/>.</p> "
+<p>Denominator polynomial of a transfer function of certain network is: <br/><i>s</i><sup>3</sup> + <i>s</i><sup>2</sup> + 2<i>s</i> + 24 <br/>Then the network is:</p>,stable,oscillatory,unstable,depends on numerator polynomial,,C," <p>Routh array
+</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/1-750-5-1.png""/>
+</p>
+<p>There is negative number present in first column. Thus network is unstable.</p> "
+<p>A TV picture is to be transmitted over a channel of 6 MH<i>z</i> bandwidth at a 35 dB S/N ratio. The capacity of the channel is</p>,50 M<i>bps</i>,100 M<i>bps</i>,36 M<i>bps</i>,72 M<i>bps</i>,,D," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-769-87-1.png""/></p>
+<p>W = B = Bandwidth</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-769-87-2.png""/></p>
+<p>C = 6 x 10<sup>6</sup> x 12 = 72 M<i>bps</i>.</p> "
+<p>The ratio of the diffusion coefficient in a semiconductor has the units</p>,V<sup>-1</sup>,em.V<sup>-1</sup>,V.cm<sup>-1</sup>,V.<i>s</i>,,A," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/6-07-15.png""/>.</p> "
+<p>Consider the probability density <i>f(x)</i> = <i>ae</i><sup>-<i>b</i>|<i>x</i>|</sup> where <i>x</i> is a random variable whose allowable values range from <i>x</i> = - ∞ to <i>x</i> = + ∞. P(1 ≤ <i>x</i> ≤ 2)</p>,"<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/11-02-29-1.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/11-02-29-2.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/11-02-29-3.png""/>",(<i>e<sup>-b</sup></i> - <i>e<sup>-2b</sup></i>),,C," <p>P(<i>x</i>) = <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/11-04-29.png""/> <i>ae<sup>-b|x|</sup>d<sub>x</sub></i></p>
+<p>to get <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/11-04-29-1.png""/> apply <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/11-04-29-2.png""/><i>ae<sup>bx</sup>dx</i> + <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/11-04-29-3.png""/><i>ae<sup>-bx</sup>d<sub>x</sub></i>, </p>
+<p>we get <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/11-04-29-4.png""/> = <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/11-04-29-4.png""/>.</p> "
+"<p>The amplitude of a pair of composite sinusoidal signal<i> y</i>(<i>n</i>) = <i>x</i><sub>1</sub>(<i>n</i>) + <i>x</i><sub>2</sub>(<i>n</i>) with <i>x</i><sub>1</sub>(<i>n</i>) = sin (5<span class=""symbol"">p</span><i>n</i>) <i>x</i><sub>2</sub>(<i>n</i>) = <span class=""root"">3</span> sin (5<span class=""symbol"">p</span><i>n</i>) is __________ .</p>",2,3,4,1,,A," <p>Amplitude = <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-761-10-1.png""/>.</p> "
+"<p>The amplifier circuit shown below uses a silicon transistor. The capacitors C<sub>c</sub> and C<sub>E</sub> can be assumed to be short at signal frequency and the effect of output resistance <i>r</i><sub>0</sub> can be ignored. If C<sub>E</sub> is disconnected from the circuit, which one of the following statements is TRUE?<br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/7-02-9.png""/></p>",The input resistance R<sub><i>i</i></sub> increases and the magnitude of voltage gain A<sub>v</sub> decreases,The input resistance R<sub><i>i</i></sub> decreases and the magnitude of voltage gain A<sub>v</sub> decreases,Both input resistance R<sub><i>i</i></sub> and the magnitude of voltage gain A<sub>v</sub> decrease,Both input resistance R<sub><i>i</i></sub> and the magnitude of voltage gain A<sub>v</sub> increase,,A," <p>Given circuit after removing C<sub>E</sub> will behave as current-series feedback. </p>
+<p>Overall voltage gain will decrease as feedback signal comes into picture and since it is current-series feedback, input impedance increases.</p> "
+"<p>A <i>n</i>-channel JFET has I<sub>DSS</sub> = 2 <i>m</i>A, Gate to source voltage V<sub>GS</sub> = - 2 V and trans-conductance is 0.5 <i>m</i>W then pinch-off voltage is __________ .</p>",- 2 V,2 V,- 4 V,4 V,,C," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-797-74-1.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-797-74-2.png""/> </p>
+<p><b>∴</b> <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-797-74-3.png""/> </p>
+<p><b>∴</b> <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-797-74-4.png""/> = - 8V<sub>P</sub> - 16 </p>
+<p><b>∴</b> <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-797-74-4.png""/> + 8V<sub>P</sub> + 16 = 0 </p>
+<p><b>∴</b> (V<sub>P</sub> + 4)<sup>2</sup> = 0 </p>
+<p><b>∴</b> V<sub>P</sub> = -4 V.</p> "

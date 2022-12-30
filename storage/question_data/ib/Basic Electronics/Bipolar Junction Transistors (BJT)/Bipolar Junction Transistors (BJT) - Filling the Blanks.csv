@@ -1,0 +1,9 @@
+question,A,B,C,D,E,answer,explanation
+<p>The input resistance of the base of an emitter-follower is usually _________.</p>,very low,very high,shorted to ground,open,,B,
+<p>The phase difference between the input and output ac voltage signals of a common-emitter amplifier is __________.</p>,0º,90º,180º,360º,,C,
+<p>Base bias provides _________.</p>,a very stable Q point,a very unstable Q point,no current gain,zero current in the base and collector circuits,,B,
+<p>V<sub>CE</sub> approximately equals ________ when a transistor switch is cut off.</p>,V<sub>CC</sub>,V<sub>B</sub>,0.2 V,0.7 V,,A,
+"<p>The input resistance, R<sub>in</sub> of a common-collector  amplifier, consists of  ____________.</p>",R<sub>in</sub> = R<sub>E</sub> × AC Current Gain,"<img align=""absmiddle"" alt=""fba12_1009b1.gif"" src=""/_files/images/basic-electronics/complete/fba12_1009b1.gif""/>","R<sub>in</sub> = R<sub>E</sub> × <img align=""absmiddle"" alt=""alpha.gif"" src=""/_files/images/basic-electronics/complete/alpha.gif""/>",none of the above,,A,
+"<p>The signal voltage gain of an amplifier, A<sub>V</sub>, is defined as __________.</p>","<img align=""absmiddle"" alt=""fba12_1005a1.gif"" src=""/_files/images/basic-electronics/complete/fba12_1005a1.gif""/>",A<sub>V</sub> = I<sub>C</sub> x R<sub>C</sub>,"<img align=""absmiddle"" alt=""fba12_1005c1.gif"" src=""/_files/images/basic-electronics/complete/fba12_1005c1.gif""/>","<img align=""absmiddle"" alt=""fba12_1005d1.gif"" src=""/_files/images/basic-electronics/complete/fba12_1005d1.gif""/>",,A,
+<p>V<sub>CE</sub> approximately equals ________ when a transistor switch is in saturation.</p>,V<sub>C</sub>,V<sub>B</sub>,0.3 V,0.7 V,,C,
+<p>An emitter-follower has a voltage gain that is __________.</p>,much less than one,approximately equal to one,greater than one,zero,,B,

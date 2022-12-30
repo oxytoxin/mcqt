@@ -1,0 +1,11 @@
+question,A,B,C,D,E,answer,explanation
+"<p>Signed binary numbers have one bit that represents the sign, with the remaining bits representing the magnitude.</p>",True,False,,,,A,
+<p>The operands in a subtraction operation are the subend and the minuend.</p>,True,False,,,,B,
+"<p>A technique to speed parallel addition by eliminating the delay caused by the carry bit propagation is called 
+fast carry, or look-ahead carry.</p>",True,False,,,,A,
+<p>End around carry is an operation in 1's complement subtraction where a 1 is added to the sum of the 1's complement of both numbers.</p>,True,False,,,,B,
+<p>The operands in an addition operation consist of the augend and the addend.</p>,True,False,,,,A,
+"<p>A full adder adds three bits, a half adder adds 1-1/2 bits.</p>",True,False,,,,B,
+<p>Using the two's complement number system we can add numbers with like signs and obtain the correct result.</p>,True,False,,,,B,
+<p>Two half adders can be combined to form a full adder with no additional gates.</p>,True,False,,,,B,
+"<p>If you borrow from a position that contains a 0, you must borrow from the more significant bit that contains a 1. All 0s up to that point become 1s, and the digit last borrowed from becomes a 0.</p>",True,False,,,,A,

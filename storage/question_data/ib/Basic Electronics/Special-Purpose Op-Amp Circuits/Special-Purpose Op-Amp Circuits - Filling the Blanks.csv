@@ -1,0 +1,12 @@
+question,A,B,C,D,E,answer,explanation
+<p>The basic instrumentation amplifier has ________ input(s).</p>,1,2,capacitive,resistive,,B,
+<p>A Schmitt trigger has _________.</p>,no trigger points,one trigger point,two trigger points,three trigger points,,D,
+<p>A Schmitt trigger is a comparator with _______.</p>,modulation,a closed-loop gain less than one,hysteresis,a high threshold value,,C,
+<p>The precision rectifier circuit is designed to _________.</p>,rectify waveforms with very large voltage swings,rectify waveforms with very small voltage swings,rectify precision waveforms,amplify and rectify waveforms,,B,
+<p>A(n) ________ amplifier is used if the application requires a high sensitivity to low-level signals and protection from high-voltage associated circuits.</p>,basic instrumentation,operational transconductance,log/antilog amplifier,isolation,,D,
+"<p>The gain of an OTA is the ratio of the output current to the input voltage, and is measured in _____________.</p>",amps,volts,siemens,no units,,C,
+"<p>An instrumentation amplifier has extremely high ________, good ________, and high ________.</p>","input impedance, common-mode rejection, gain","noise factor, grounding, power","working voltages, current capacity, output impedance","output gain, output loading, power",,A,
+<p>The external resistor of a typical instrumentation amplifier is used to set the ________.</p>,impedance,rejection ratio,gain,isolation,,C,
+"<p>If an operational transconductance amplifier (OTA) is used as an amplitude modulator, the voltage gain is varied by applying a _________ voltage to the ______ input.</p>","demodulation, bias","modulation, bias","bias, modulation","low-frequency, bias",,B,
+<p>The ________ amplifier is ideal for amplitude modulation since its gain is current-controlled.</p>,log,operational transconductance,isolation,Schmitt,,B,
+<p>A voltage-to-current converter is used in applications where it's necessary to have an output load current that is controlled by _________.</p>,input frequency,output resistance,input voltage,input resistance,,C,

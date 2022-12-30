@@ -1,0 +1,11 @@
+question,A,B,C,D,E,answer,explanation
+<p>It takes two memory locations (16 bits each) to store an address in the 8085 system.</p>,True,False,,,,B,
+<p>A compiler is a translation program that converts high-level instructions into a set of binary instructions (machine code) for execution.</p>,True,False,,,,A,
+<p>The control bus and memories share a bidirectional bus in a typical microprocessor system.</p>,True,False,,,,B,
+<p>The language understood by the microprocessor is called assembly language.</p>,True,False,,,,B,
+<p>A machine cycle is the time it takes a microprocessor to fetch and execute a complete instruction.</p>,True,False,,,,B,
+<p>An address bus is also called a unidirectional bus.</p>,True,False,,,,A,
+<p>A coprocessor is a microprocessor designed with a limited instruction set optimized to perform arithmetic operations very quickly.</p>,True,False,,,,B,
+"<p>To keep the number of IC pins to a minimum, the 8085 uses a multiplexed bus.</p>",True,False,,,,A,
+<p>Machine language is independent of the type of microprocessor in a computer system.</p>,True,False,,,,A,
+<p>A mnemonic is an English-like instruction that is converted by an assembler into a machine code for use by a processor.</p>,True,False,,,,A,

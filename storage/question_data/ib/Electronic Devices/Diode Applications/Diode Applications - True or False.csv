@@ -1,0 +1,11 @@
+question,A,B,C,D,E,answer,explanation
+"<p>Voltage multipliers take a dc input voltage, and provide a dc output voltage at a multiple of the input.</p>",True,False,,,,B,
+"<p>For a given input frequency, a half-wave rectifier is easier to filter than a full-wave rectifier.</p>",True,False,,,,B,
+<p>Ripple voltage is caused by the charging and discharging of the filter capacitor.</p>,True,False,,,,A,
+"<p>For greatest reliability, and longest life, diodes should be operated at their maximum ratings.</p>",True,False,,,,B,
+<p>A diode conducts current when reverse-biased and blocks current when forward-biased.</p>,True,False,,,,B,
+<p>A single diode in a half-wave rectifier conducts for 180° of the input cycle.</p>,True,False,,,,A,
+<p>Diode limiters add a dc level to an ac signal.</p>,True,False,,,,B,
+"<p>In a diode clamper, the capacitor retains a charge approximately equal to the peak value of the input.</p>",True,False,,,,A,
+<p>V<sub>RRM</sub> is the same as PIV rating.</p>,True,False,,,,A,
+<p>The output voltage of a center-tapped full-wave rectifier equals the secondary output voltage.</p>,True,False,,,,B,

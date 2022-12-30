@@ -1,0 +1,6 @@
+question,A,B,C,D,E,answer,explanation
+"<p>Each ""1"" entry in a K-map square represents ______________.</p>",a HIGH output on the truth table for all input combinations,a LOW output for all possible HIGH input conditions,a DON'T CARE condition for all possible input truth table combinations,a HIGH for each input truth table condition that produces a HIGH output,,D,
+<p>One reason for using the sum-of-products form is that it can be implemented using all ______ gates without much alteration.</p>,AND,NAND,OR,NOR,,B,
+"<p>When grouping cells within a K-map, the cells must be combined in groups of ________.</p>",2s,"1, 2, 4, 8, etc.",4s,3s,,B,
+<p>The application of Boolean algebra to the solution of digital logic circuits was first explored by ________ of ________.</p>,"Claude Shannon, MIT","George Boole, MIT","George Boole, Stanford","Claude Shannon, IBM",,A,
+<p>A Karnaugh map will ____________________.</p>,eliminate the need for tedious Boolean expressions,allow any circuit to be implemented with just AND and OR gates,produce the simplest sum-of-products expression,give an overall picture of how the signals flow through the logic circuit,,C,

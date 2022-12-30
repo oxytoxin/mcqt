@@ -1,0 +1,49 @@
+question,A,B,C,D,E,answer,explanation
+<p>Digital systems have ________.</p>,one state,two states,three states,four states,,B,
+"<p><p>The systems shown in the given figure transfer data ________.</p>
+<p><img align=""abs middle"" src=""/_files/images/digital-electronics/digital-systems/fbq1_1015_1.gif""/></p></p>",serially,sequentially,in parallel,both serially and sequentially,,D,
+<p>Digital systems are called ________.</p>,binary systems,logic systems,numbering systems,ADC systems,,B,
+<p>1/4 as a binary number would be ________.</p>,0.01,0.11,0.10,0.00,,A,
+<p>The invalid range for an input to TTL logic is from ________.</p>,0 to 0.8 V,1.2 to 1.6 V,0.8 to 2.0 V,2.0 to 5.0 V,,C,
+"<p>In a typical digital system, Logic 0 is 0V–0.8V, and Logic 1 is ________.</p>",2–5V,2.5–5V,3.0–5.5V,3.5–5.5V,,A,
+"<p>Once a signal is digitized, the information it contains does not ________ as it is processed.</p>",complain,stiffen,compress,deteriorate,,D,
+<p>The rise-time of a pulse is normally measured between the ________.</p>,0 and 100% level,10% and 90% level,30% and 70% level,50% level on the leading edge to the 50% level on the trailing edge,,B,
+<p>A logic circuit that can store one bit of information is a ________.</p>,flip-flop,counter,gate,code converter,,A,
+<p>The horizontal axis of an oscilloscope is normally calibrated in units of ________.</p>,voltage,current,time,frequency,,C,
+"<p><p>The combination of waveforms consisting of the given figures 1 and 2 is generally referred to as ________.</p>
+<p><img src=""/_files/images/digital-electronics/digital-systems/fbq1_1018_1.gif""/></p></p>",simultaneous waveforms,a timing diagram,two-phase waveforms,pulse waveforms,,B,
+<p>The digit that changes most often when counting is called the ________.</p>,LSB,LL Bean,LED,LCD,,A,
+<p>Memory devices that use electronic latching circuits are called ________.</p>,RAM,flip-flops,magnetic tape,DRAM,,B,
+"<p>A microprocessor that performs only specific, dedicated tasks is also called a ________.</p>",microcontroller,calculator,laptop microrocmputer,workstation processor,,A,
+<p>The decimal system is composed of ________ symbols.</p>,2,8,10,16,,C,
+<p>The manner in which a digital circuit responds to an input is the circuit's ________.</p>,logic,wiring,inputs,outputs,,A,
+"<p><p>The given figure is most likely a ________.</p>
+<p><img src=""/_files/images/digital-electronics/digital-systems/fbq1_1021_1.gif""/></p></p>",register,decoder,counter,multiplexer,,A,
+<p>A(n)________ is not a functional unit of a computer.</p>,input unit,memory unit,modem,control unit,,C,
+<p>The duty cycle of a square wave is ________.</p>,10%,25%,50%,100%,,C,
+"<p>If a HIGH logic level is assigned a binary zero (0), and a low level is assigned a binary one (1), the logic is called ________.</p>",negative logic,positive logic,invalid logic,assertion-level logic,,A,
+"<p><p>The quantity represented by #1 in the given figure is ________.</p>
+<p><img src=""/_files/images/digital-electronics/digital-systems/fbq1_1008_1.gif""/></p></p>",<i>V</i><sub>H(max)</sub>,<i>V</i><sub>L(min)</sub>,<i>V</i><sub>H(min)</sub>,<i>V</i><sub>L(max)</sub>,,D,
+<p>A binary number can be converted to be viewed on a 7-segment display by a(n) ________.</p>,decoder,encoder,multiplexer,magnitude comparator,,A,
+<p>The CPU contains all the circuitry for ________.</p>,storing data,keeping track of time,fetching and interpreting instructions,Internet operations,,C,
+<p>Demultiplexing is a logic function that ________.</p>,determines which of several inputs is the greatest,switches logic from one input to any of several output lines,switches logic from several inputs onto one output line,converts a code from one form to another,,B,
+<p>In ________ the quantities are not represented by continuously variable indicators.</p>,analog representation,digital representation,signal representation,computer representation,,B,
+"<p>A continually variable, proportional indicator is a(n) ________ representation.</p>",decimal,digital,unconstitutional,analog,,D,
+<p>The control and arithmetic/logic units are often considered as one unit called the ________.</p>,central processing unit,inputs and outputs,microcomputer,arithmetic/logic unit,,A,
+<p>A microcontroller would not be used in a(n) ________.</p>,VCR,automobile ignition system,antilock brakes,grandfather clock,,D,
+<p>________ is the highest-value seven-bit binary number.</p>,128,127,126,125,,B,
+"<p><p>The systems shown in the given figure communicate using ________.</p>
+<p><img align=""abs middle"" src=""/_files/images/digital-electronics/digital-systems/fbq1_1017_1.gif""/></p></p>",parallel data,serial data,serial-parallel data,both parallel and serial data,,A,
+<p>The set of instructions for a computer is called a(n) ________.</p>,program,input,output,control unit,,A,
+<p>The controls on an oscilloscope that will help obtain a stable display are in the ________.</p>,vertical section,horizontal section,trigger section,display section,,C,
+"<p><p>The value of the data shown in the given figure is ________.</p>
+<p><img align=""abs middle"" src=""/_files/images/digital-electronics/digital-systems/fbq1_1015_1.gif""/></p></p>",between 0 and 1,1011001,5,1001101,,B,
+"<p>To determine which of two binary numbers is larger, you could use a(n) ________.</p>",register,adder,encoder,magnitude comparator,,D,
+"<p>In ________ transmission, a single conductor is used.</p>",digital,automatic,serial,binary,,C,
+"<p><p>In a negative logic system, the area represented by #3 in the given figure would be the ________ level.</p>
+<p><img src=""/_files/images/digital-electronics/digital-systems/fbq1_1008_1.gif""/></p></p>",HIGH,LOW,off,uncertain,,A,
+"<p><p>The area represented by #4 in the given figure is the ________ level.</p>
+<p><img src=""/_files/images/digital-electronics/digital-systems/fbq1_1008_1.gif""/></p></p>",HIGH,LOW,off,unacceptable,,D,
+<p>Other ________ are often used to interpret or represent binary quantities for the convenience of the people who work with and use these digital systems.</p>,analog systems,digital systems,number systems,binary systems,,C,
+"<p>In a positive logic system, the HIGH level is usually represented by ________.</p>",0 V,+1 V,+5 V,+9 V,,C,
+<p>A set of instructions for a computer is called a(n) ________.</p>,instruction manual,logic unit,program,diagram,,C,

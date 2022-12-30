@@ -1,0 +1,212 @@
+question,A,B,C,D,E,answer,explanation
+<p>The velocity factor of a transmission line depends on</p>,temperature,skin effect,relative permittivity of dielectric,none of the above,,C, <p>∈<i><sub>r</sub></i> of a dielectric changes with humidity.</p> 
+<p>A loss less line of characteristic impedance Z<sub>0</sub> is terminated in pure reactance of -<i>j</i><i>Z</i><sub>0</sub> value. VSWR is</p>,10,2,1,infinity,,D," <p>A pure reactance does not absorb any power.</p>
+<p>Therefore VSWR is infinite because |<span class=""symbol"">r</span><i><sub>v</sub></i>| = 1.</p> "
+<p>In a klystron amplifier the input cavity is called</p>,buncher,catcher,Pierce gun,collector,,A," <p>A Klystron is a vacuum tube used for generation/amplification of microwaves. </p>
+<p>An electron beam is produced by oxide coated indirectly heated cathode and is focussed and accelerated by focussing electrode. </p>
+<p>This beam is transmitted through a glass tube. The input cavity where the beam enters the glass tube is called buncher. </p>
+<p>As electrons move ahead they see an accelerating field for half cycle and retarding field for the other half cycle. </p>
+<p>Therefore, some electrons are accelerated and some are retarded. This process is called velocity modulation. </p>
+<p>The velocity modulation causes bunching of electrons. This bunching effect converts velocity modulation into density modulation of beam. </p>
+<p>The input is fed at buncher cavity and output is taken at catcher cavity. </p>
+<p>In a two cavity klystron only buncher and catcher cavity are used. In multi cavity klystron one or more intermediate cavities are also used. </p>
+<p>The features of a multicavity klystron are :</p>
+<p>1. Frequency range - 0.25 GHz to 100 GHz</p>
+<p>2. Power output - 10 kW to several hundred kW</p>
+<p>3. Power gain - 60 dB (nominal value)</p>
+<p>4. Efficiency - about 40%.</p>
+<p>A multicavity klystron is used in UHF TV transmitters, Radar transmitter and satellite communication.</p> "
+<p>In a circular waveguide the dominant mode is</p>,TE<sub>01</sub>,TE<sub>11</sub>,TE<sub>20</sub>,TE<sub>21</sub>,,B," <p>Some applications require dual polarization capability. Circular waveguide has this capability. </p>
+<p>These analysis uses cylindrical coordinates. </p>
+<p>In circular waveguide TE<sub>11</sub> mode has the lowest cut off frequency and is the dominant mode. </p>
+<p>If D is diameter of waveguide</p>
+<p>λ<i><sub>c</sub></i> = 1.706 D for TE<sub>11</sub> mode</p>
+<p>λ<i><sub>c</sub></i> = 1.029 D for TE<sub>21</sub> mode</p>
+<p>λ<i><sub>c</sub></i> = 0.82 D for TE<sub>01</sub> mode</p>
+<p>λ<i><sub>c</sub></i> = 1.306 D for TM<sub>01</sub> mode.</p> "
+<p>The reflection coefficient on a line is 0.2 ∠45°. The SWR is</p>,0.8,1.1,1.2,1.5,,D," <p><img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/28-149.png""/></p> "
+<p>Microwave resonators are used in</p>,microwave oscillators,microwave narrow band amplifier,microwave frequency metres,all of the above,,D, <p>They are used in all the devices.</p> 
+<p><p><b>Assertion (A):</b>  TWT uses a focussing mechanism to prevent the electron beam from spreading.</p><p><b>Reason (R):</b> In a TWT the electron beam has to travel a much longer distance than in klystron.</p></p>,Both A and R are correct and R is correct explanation of A,Both A and R are correct but R is not correct explanation of A,A is correct but R is wrong,A is wrong but R is correct,,A," <p>In a klystron the resonant structure limits the bandwidth. </p>
+<p>A TWT is a broadband device. Its main components are electron gun (to produce the electron beam) and a structure supporting the slow electromagnetic wave. </p>
+<p>The velocity of wave propagation along the helix structure is less than velocity of light. </p>
+<p>The beam and wave travel along the structure at the same speed. </p>
+<p>Thus interaction occurs between beam and wave and the beam delivers energy to the RF wave. </p>
+<p>Therefore the signal gets strengthened and amplified output is delivered at the other end of tube. </p>
+<p>The main features of TWT are :</p>
+<p>1. Frequency range - 0.5 GHz to 90 GHz</p>
+<p>2. Power output - 5 mW at low frequencies(less than 20 GHz) 250 kW (continuous wave) at 3 GHz 10 MW (pulsed) at 3 GHz</p>
+<p>3. Efficiency - about 5 to 20%</p>
+<p>4. Noise - about 5 dB for low power TWT 25 dB for high power TWT </p>
+<p>TWT is used as RF amplifier in broadband microwave receivers, repeater amplifier in broad band communication systems, communication satellites etc.</p> "
+<p>In a TWT the amplitude of resultant wave travelling down the helix</p>,increases exponentially,increases linearly,decreases exponentially,is almost constant,,A," <p>In a klystron the resonant structure limits the bandwidth. </p>
+<p>A TWT is a broadband device. Its main components are electron gun (to produce the electron beam) and a structure supporting the slow electromagnetic wave. </p>
+<p>The velocity of wave propagation along the helix structure is less than velocity of light. </p>
+<p>The beam and wave travel along the structure at the same speed. </p>
+<p>Thus interaction occurs between beam and wave and the beam delivers energy to the RF wave. </p>
+<p>Therefore the signal gets strengthened and amplified output is delivered at the other end of tube. </p>
+<p>The main features of TWT are :</p>
+<p>1. Frequency range - 0.5 GHz to 90 GHz</p>
+<p>2. Power output - 5 mW at low frequencies(less than 20 GHz) 250 kW (continuous wave) at 3 GHz 10 MW (pulsed) at 3 GHz</p>
+<p>3. Efficiency - about 5 to 20%</p>
+<p>4. Noise - about 5 dB for low power TWT 25 dB for high power TWT </p>
+<p>TWT is used as RF amplifier in broadband microwave receivers, repeater amplifier in broad band communication systems, communication satellites etc.</p> "
+<p>Which of the following is not a travelling wave?</p>,<i>e</i> = E<i><sub>m</sub></i> sin (β<i>x</i> - ω<i>t</i>),<i>e</i> = E<i><sub>m</sub></i> cos (β<i>x</i> - ω<i>t</i>),<i>e</i> = E<i><sub>m</sub></i> sin (ω<i>t</i> - β<i>x</i>),<i>e</i> = E<i><sub>m</sub></i> sin (β<i>x</i>),,D, <p>In a travelling wave both <i>x</i> and <i>t</i> increase simultaneously so that a constant phase point moves in the direction of positive (or negative) <i>x</i>.</p> 
+<p>Both Impatt and Trapatt devices use avalanche effect</p>,True,False,,,,A," <p>An Impatt diode has <i>n</i><sup>+</sup> - <i>p</i> - <i>i</i> - <i>p</i> <sup>+</sup> structure and is used with reverse bias. </p>
+<p>It exhibits negative resistance and operates on the principle of avalanche breakdown. </p>
+<p>Impatt diode circuits are classified as broadly tunable circuit, low Q circuit and high Q circuit. </p>
+<p>The impedance of Impatt diode is a few ohms. The word Impatt stands for Impact Avalanche Transit Time diode. </p>
+<p>The features of Impatt diode oscillator are : frequency 1 to 300 GHz, Power output (0.5 W to 5 W for single diode circuit and upto 40 W for combination of several diodes), efficiency about 20%. </p>
+<p>Its applications include police radar systems, low power microwave transmitter etc.</p>
+<p>Avalanche diode can also be operated in large signal high efficiency mode called Trapped Avalanche Transit Time mode. </p>
+<p>The Trapatt oscillations depend on the delay in the current caused by avalanche process. </p>
+<p>The avalanche delay makes it possible to increase the diode voltage well above the breakdown voltage. </p>
+<p>Therefore a very rapid multiplication of charge carriers occurs. A Trapatt diode is also a negative resistance device. </p>
+<p>The features of Trapatt diode oscillator are : Frequency 3 to 50 GHz, Power output 1-3 W, efficiency about 25%. </p>
+<p>Its applications are low power doppler radar, microwave beacon landing system etc.</p> "
+<p>In a directional coupler</p>,isolation (dB) equals coupling plus directivity,coupling (dB) equals isolation plus directivity,directivity (dB) equals isolation plus coupling,isolation (dB) equals (coupling) (directivity),,A, <p>Isolation equals coupling plus directivity.</p> 
+"<p>As the frequency is increased, the charging MVAR in a cable</p>",decreases,increases,remain the same,decreases or remains the scheme,,B, <p>Charging current and MVAR are proportional to frequency.</p> 
+<p>Loss angle of a good quality cable is about</p>,1°,30°,70°,90°,,A," <p>For ideal dielectric loss angle is zero. For good quality cables, loss angle is very small, about 1° only.</p> "
+"<p>In a three cavity klystron amplifier, the oscillations are excited in</p>",input cavity,output cavity,intermediate cavity,both (a) and (b),,C," <p>A Klystron is a vacuum tube used for generation/amplification of microwaves. </p>
+<p>An electron beam is produced by oxide coated indirectly heated cathode and is focussed and accelerated by focussing electrode. </p>
+<p>This beam is transmitted through a glass tube. The input cavity where the beam enters the glass tube is called buncher. </p>
+<p>As electrons move ahead they see an accelerating field for half cycle and retarding field for the other half cycle. </p>
+<p>Therefore, some electrons are accelerated and some are retarded. This process is called velocity modulation. </p>
+<p>The velocity modulation causes bunching of electrons. This bunching effect converts velocity modulation into density modulation of beam. </p>
+<p>The input is fed at buncher cavity and output is taken at catcher cavity. </p>
+<p>In a two cavity klystron only buncher and catcher cavity are used. In multi cavity klystron one or more intermediate cavities are also used. </p>
+<p>The features of a multicavity klystron are :</p>
+<p>1. Frequency range - 0.25 GHz to 100 GHz</p>
+<p>2. Power output - 10 kW to several hundred kW</p>
+<p>3. Power gain - 60 dB (nominal value)</p>
+<p>4. Efficiency - about 40%.</p>
+<p>A multicavity klystron is used in UHF TV transmitters, Radar transmitter and satellite communication.</p> "
+"<p>In the given figure reflection coefficient at load is<br/><img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/18-193.png""/></p>",0.6,- 0.6,0.4,- 0.4,,B," <p><img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/29-193.png""/></p> "
+<p>Which of the following lines is non-radiating?</p>,Open two wire,Coaxial,Both,None of the above,,B, <p>Since fields are confirmed within a coaxial cable it is non-radiating.</p> 
+<p><p><b>Assertion (A):</b>  The impedance of a matched load is equal to characteristic impedance of line.</p><p><b>Reason (R):</b> A matched termination absorbs all the power incident on it.</p></p>,Both A and R are correct and R is correct explanation of A,Both A and R are correct but R is not correct explanation of A,A is correct but R is wrong,A is wrong but R is correct,,A, <p>Matched load means no reflections.</p> 
+<p>Skin effect is more pronounced at high frequencies.</p>,True,False,,,,A, <p>Skin effect increases as frequency increases.</p> 
+<p><p><b>Assertion (A):</b>  The phenomenon of differential mobility is called transferred electron effect.</p><p><b>Reason (R):</b> GaAs exhibits transferred electron effect.</p></p>,Both A and R are correct and R is correct explanation of A,Both A and R are correct but R is not correct explanation of A,A is correct but R is wrong,A is wrong but R is correct,,B," <p>A Gunn diode uses GaAs which has a negative differential mobility, <i>i</i>.<i>e</i>., a decrease in carrier velocity with increase in electric field. </p>
+<p>This effects is called transferred electron effect. The impedance of a Gunn diode is tens of ohms.</p>
+<p>A Gunn diode oscillator has a resonant cavity, an arrangement to couple Gunn diode to cavity, biasing arrangement for Gunn diode and arrangement to couple RF power to load.</p>
+<p>Applications of Gunn diode oscillator include continuous wave radar, pulsed radar and microwave receivers.</p> "
+<p>Which of the following devices uses a helix?</p>,Klystron amplifier,Klystron oscillator,TWT,Both (a) and (b),,C," <p>In a klystron the resonant structure limits the bandwidth. </p>
+<p>A TWT is a broadband device. Its main components are electron gun (to produce the electron beam) and a structure supporting the slow electromagnetic wave. </p>
+<p>The velocity of wave propagation along the helix structure is less than velocity of light. </p>
+<p>The beam and wave travel along the structure at the same speed. </p>
+<p>Thus interaction occurs between beam and wave and the beam delivers energy to the RF wave. </p>
+<p>Therefore the signal gets strengthened and amplified output is delivered at the other end of tube. </p>
+<p>The main features of TWT are :</p>
+<p>1. Frequency range - 0.5 GHz to 90 GHz</p>
+<p>2. Power output - 5 mW at low frequencies(less than 20 GHz) 250 kW (continuous wave) at 3 GHz 10 MW (pulsed) at 3 GHz</p>
+<p>3. Efficiency - about 5 to 20%</p>
+<p>4. Noise - about 5 dB for low power TWT 25 dB for high power TWT </p>
+<p>TWT is used as RF amplifier in broadband microwave receivers, repeater amplifier in broad band communication systems, communication satellites etc.</p> "
+<p>Which of the following parameters is negligible in transmission lines?</p>,R,L,C,G,,D, <p>Shunt conductance can be neglected in most of calculations.</p> 
+<p>The width of a radio beam from a 1 m diameter parabolic antenna at 10 GHz is about</p>,100°,50°,5°,1°,,C," <p><img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/28-57.png""/>.</p> "
+<p>The diagram to show distance time history of electrons in klystron amplifier is called</p>,apple gate diagram,asynchronous diagram,bunching diagram,velocity modulation diagram,,A, <p>Applegate diagram is distance time plot.</p> 
+<p>Impedance level of Impatt diodes is generally lower than that of Gunn diodes</p>,True,False,,,,A," <p>An Impatt diode has <i>n</i><sup>+</sup> - <i>p</i> - <i>i</i> - <i>p</i> <sup>+</sup> structure and is used with reverse bias. </p>
+<p>It exhibits negative resistance and operates on the principle of avalanche breakdown. </p>
+<p>Impatt diode circuits are classified as broadly tunable circuit, low Q circuit and high Q circuit. </p>
+<p>The impedance of Impatt diode is a few ohms. The word Impatt stands for Impact Avalanche Transit Time diode. </p>
+<p>The features of Impatt diode oscillator are : frequency 1 to 300 GHz, Power output (0.5 W to 5 W for single diode circuit and upto 40 W for combination of several diodes), efficiency about 20%. </p>
+<p>Its applications include police radar systems, low power microwave transmitter etc.</p> "
+<p>A quarter wave line open circuited at far end behaves as</p>,inductance,L and C in parallel,capacitance,L and C in series,,D, <p>A quarter wave line o.c. at far end behaves as a series tuned circuit.</p> 
+"<p>A line has Z<sub>0</sub> = 300 ∠ 0° Ω. If <i>Z</i><sub>L</sub> = 150 ∠ 0° Ω, reflection coefficient is</p>",0.5,0.3333,-0.3333,-0.5,,C," <p>Reflection coefficient <img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/28-33.png""/></p> "
+<p><p><b>Assertion (A):</b>  A backward wave oscillator has an internal positive feedback.</p><p><b>Reason (R):</b> A positive feedback is necessary for sustained oscillations.</p></p>,Both A and R are correct and R is correct explanation of A,Both A and R are correct but R is not correct explanation of A,A is correct but R is wrong,A is wrong but R is correct,,B," <p>It is somewhat similar to TWT and can deliver microwave power over a wide frequency band. </p>
+<p>It has an electron gun and a helix structure. However the interaction between electron beam and RF wave is different than in TWT. </p>
+<p>The growing RF wave travels in opposite direction to the electron beam. </p>
+<p>The frequency of wave can be changed by changing the voltage which controls the beam velocity. </p>
+<p>Moreover the amplitude of oscillations can be decreased continuously to zero by changing the beam current. </p>
+<p>It features are:</p>
+<p>1. Frequency range - 1 GHz to 1000 GHz.</p>
+<p>2. Power output - 10 mV to 150 mW (continuous wave) 250kW (pulsed).</p>
+<p>It is used as signal source in transmitters and instruments.</p> "
+<p>In a microstrip transmission the signal can be easily redirected by changing the centre strip.</p>,True,False,,,,A," <p>A Microstrip line has a single dielectric substratc with ground plane on one side and a strip on the other face. </p>
+<p>Its special feature is easy access to top surface so that minor adjustments can be made after circuit fabrication. </p>
+<p>The high dielectric constant of the substrate reduces guide wavelength and circuit dimensions. </p>
+<p>A microstrip line is the most commomly used transmission structure for microwave integrated circuits.</p> "
+<p>The frequency of oscillation in a backward wave oscillator can be changed by</p>,varying the voltage which controls beam velocity,varying the beam current,both by varying the beam current and by light varying the voltage which controls beam velocity,changing the rate of thermionic emission,,A," <p>It is somewhat similar to TWT and can deliver microwave power over a wide frequency band. </p>
+<p>It has an electron gun and a helix structure. However the interaction between electron beam and RF wave is different than in TWT. </p>
+<p>The growing RF wave travels in opposite direction to the electron beam. </p>
+<p>The frequency of wave can be changed by changing the voltage which controls the beam velocity. </p>
+<p>Moreover the amplitude of oscillations can be decreased continuously to zero by changing the beam current. </p>
+<p>It features are:</p>
+<p>1. Frequency range - 1 GHz to 1000 GHz.</p>
+<p>2. Power output - 10 mV to 150 mW (continuous wave) 250kW (pulsed).</p>
+<p>It is used as signal source in transmitters and instruments.</p> "
+<p>A line has a phase constant of 29.8 rad/<i>m</i>. At 1000 MHz the wavelength is</p>,29.8 m,2.98 m,2.1 m,0.21 m,,D," <p><img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/29-205.png""/>.</p> "
+"<p>In the given figure the time taken by the wave to make one round trip is<br/><img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/18-193.png""/></p>",10 <i>ns</i>,20 <i>ns </i>,30 <i>ns</i>,40 <i>ns</i>,,D," <p><img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/29-196.png""/></p> "
+"<p>For a 50 Ω resistor for 3 GHz application, the stray capacitance should be less than</p>",1 μ<i>F</i>,1 <i>nF</i>,1 <i>p</i><i>F</i>,0.1 <i>pF</i>,,D," <p>X<sub>C</sub> should be at least ten times greater than R. Therefore for 50 Ω resistor at 3 GHz, C should be less than 0.1 pF.</p> "
+<p>In a travelling wave tube distributed interaction between an electron beam and a travelling wave takes place</p>,True,False,,,,A," <p>In a klystron the resonant structure limits the bandwidth. </p>
+<p>A TWT is a broadband device. Its main components are electron gun (to produce the electron beam) and a structure supporting the slow electromagnetic wave. </p>
+<p>The velocity of wave propagation along the helix structure is less than velocity of light. </p>
+<p>The beam and wave travel along the structure at the same speed. </p>
+<p>Thus interaction occurs between beam and wave and the beam delivers energy to the RF wave. </p>
+<p>Therefore the signal gets strengthened and amplified output is delivered at the other end of tube. </p>
+<p>The main features of TWT are :</p>
+<p>1. Frequency range - 0.5 GHz to 90 GHz</p>
+<p>2. Power output - 5 mW at low frequencies(less than 20 GHz) 250 kW (continuous wave) at 3 GHz 10 MW (pulsed) at 3 GHz</p>
+<p>3. Efficiency - about 5 to 20%</p>
+<p>4. Noise - about 5 dB for low power TWT 25 dB for high power TWT </p>
+<p>TWT is used as RF amplifier in broadband microwave receivers, repeater amplifier in broad band communication systems, communication satellites etc.</p> "
+<p>The fabrication of microstrip line is done by</p>,photo etching,printed circuit technique,oxidation,cladding,,B, <p>Printed circuit techniques is used for micro strip line.</p> 
+<p>The condition of minimum distortion in a transmission line is</p>,RL = 1,R = 0,"<img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/09-22-3.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/09-22-4.png""/>",,D," <p>The condition for minimum distortion is found by equating <img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/27-22-1.png""/>The result is <img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/27-22-2.png""/>.</p> "
+<p>The action of backward wave oscillator is similar to that of</p>,klystron amplifier,reflex klystron oscillator,TWT,magnetron,,C," <p>It is somewhat similar to TWT and can deliver microwave power over a wide frequency band. </p>
+<p>It has an electron gun and a helix structure. However the interaction between electron beam and RF wave is different than in TWT. </p>
+<p>The growing RF wave travels in opposite direction to the electron beam. </p>
+<p>The frequency of wave can be changed by changing the voltage which controls the beam velocity. </p>
+<p>Moreover the amplitude of oscillations can be decreased continuously to zero by changing the beam current. </p>
+<p>It features are:</p>
+<p>1. Frequency range - 1 GHz to 1000 GHz.</p>
+<p>2. Power output - 10 mV to 150 mW (continuous wave) 250kW (pulsed).</p>
+<p>It is used as signal source in transmitters and instruments.</p> "
+"<p>In the given figure the reflection coefficient at source end is<br/><img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/18-193.png""/></p>",1,-1,1/3,-1/3,,C," <p><img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/29-197.png""/>.</p> "
+"<p><p><b>Assertion (A):</b>  Artificial transmission lines are frequently used in laboratories.</p><p><b>Reason (R):</b> An artificial transmission line can be used to represent an actual line and can also be used as a delay circuit, as attenuator, as filter network etc.</p></p>",Both A and R are correct and R is correct explanation of A,Both A and R are correct but R is not correct explanation of A,A is correct but R is wrong,A is wrong but R is correct,,A, <p>Artificial transmission lines have many applications. One of the applications is to simulate an actual line in the laboratory.</p> 
+<p>In a backward wave oscillator the wave travelling along the line winds itself back and forth</p>,True,False,,,,A," <p>It is somewhat similar to TWT and can deliver microwave power over a wide frequency band. </p>
+<p>It has an electron gun and a helix structure. However the interaction between electron beam and RF wave is different than in TWT. </p>
+<p>The growing RF wave travels in opposite direction to the electron beam. </p>
+<p>The frequency of wave can be changed by changing the voltage which controls the beam velocity. </p>
+<p>Moreover the amplitude of oscillations can be decreased continuously to zero by changing the beam current. </p>
+<p>It features are:</p>
+<p>1. Frequency range - 1 GHz to 1000 GHz.</p>
+<p>2. Power output - 10 mV to 150 mW (continuous wave) 250kW (pulsed).</p>
+<p>It is used as signal source in transmitters and instruments.</p> "
+<p>A line is excited by a 100 V dc source. If reflection coefficients at both ends are 1 each then</p>,there will be no oscillations on line,there will be only 1 or 2 oscillations on line,there will be a finite number of oscillations on line,the oscillations will continue indefinitely,,D," <p>Because <span class=""symbol"">r</span><i><sub>v</sub></i> = 1 at each end, the line voltage will not reach a steady value and oscillations will continue indefinitely.</p> "
+<p><p><b>Assertion (A):</b>  A coaxial line is a non-radiating line.</p><p><b>Reason (R):</b> In a coaxial line the electric and magnetic fields are confined to the region between the concentric conductors.</p></p>,Both A and R are correct and R is correct explanation of A,Both A and R are correct but R is not correct explanation of A,A is correct but R is wrong,A is wrong but R is correct,,A," <p>Since the fields are confined, there is no radiation.</p> "
+<p>Reflex klystron oscillator is essentially a low power device</p>,True,False,,,,A," <p>It uses a single cavity resonator for generating microwave oscillations. </p>
+<p>Its parts are electron gun, resonator, repeller and output coupling.</p>
+<p>It operates on the principle of positive feed back. </p>
+<p>The repeller electrode is at negative potential and sends the partially bunched electron beam back to resonator cavity. </p>
+<p>This positive feedback supports oscillations. Its feature are: </p>
+<p>1. Frequency range - 2 to 100 GHz</p>
+<p>2. Power output - 10 MW to about 2 W</p>
+<p>3. Efficiency - 10 - 20 %</p>
+<p>Its applications include radar receivers, local oscillator in microwave devices, oscillator for microwave measurements in laboratories etc.</p> "
+"<p>A 10 km long line has a characteristic impedance of 400 ohms. If line length is 100 km, the characteristic impedance is</p>",4000 Ω,400 Ω,40 Ω,4 Ω,,B," <p><img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/27-12.png""/> and is independent of line length.</p> "
+"<p>A matched generator (Z<sub>g</sub> = Z<sub>0</sub>) with 1 Ω available. If all ports are matched, the power delivered at ports 1, 2, 3 respectively are</p>","0.5 W, 0.5 W, 0 W","0 W, 0 W, 1 W",0.33 W each,"0 W, 0.25 W, 0.25 W",,A," <p>Since all ports matched, input SWR = 1. No power is reflected and P<i><sub>in</sub></i> = P<sub>4</sub> = 1 W. </p>
+<p>This power splits between ports 1 and 2. Therefore P<sub>1</sub> = P<sub>2</sub> = 0.5 Ω, P<sub>3</sub> = 0.</p> "
+<p>Which TM mode in rectangular waveguide has lowest cutoff frequency?</p>,TM<sub>11</sub>,TM<sub>01</sub>,TM<sub>10</sub>,TM<sub>21</sub>,,A," <p>H<i><sub>z</sub></i> = 0</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/28-115-1.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/28-115-2.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/28-115-3.png""/></p>
+<p>E<i><sub>x</sub></i> = ± Z<sub>TM</sub> H<i><sub>y</sub></i></p>
+<p>E<i><sub>y</sub></i> = ± Z<sub>TM</sub> H<i><sub>x</sub></i></p>
+<p>where E<sub>0</sub> is the amplitude of the wave.</p>
+<p>The expressions for β, λ<i><sub>c</sub></i>, <i>f<sub>c</sub></i>, λ<i><sub>g</sub></i>, <span class=""symbol"">a</span> are the same as for TE waves.</p>
+<p>For TM wave the lowest cut off frequency in rectangular wave guide is for TM<sub>11</sub> mode. </p>
+<p>If <img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/28-115-4.png""/>, the cutoff frequency for TM<sub>11</sub> mode is about 12% more than that for TE<sub>20</sub> mode.</p> "
+<p>A resistive microwave load with Z<sub>L</sub> = 150 Ω is connected to 50 Ω coaxial line. SWR is</p>,more than 3,less than 3,equal to 3,either (a) or (c),,C," <p><img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/29-230.png""/></p> "
+<p>Which of the following devices uses a slow wave structure?</p>,Klystron two cavity amplifier,Klystron multicavity amplifier,Reflex klystron oscillator,TWT,,D," <p>In a klystron the resonant structure limits the bandwidth. </p>
+<p>A TWT is a broadband device. Its main components are electron gun (to produce the electron beam) and a structure supporting the slow electromagnetic wave. </p>
+<p>The velocity of wave propagation along the helix structure is less than velocity of light. </p>
+<p>The beam and wave travel along the structure at the same speed. </p>
+<p>Thus interaction occurs between beam and wave and the beam delivers energy to the RF wave. </p>
+<p>Therefore the signal gets strengthened and amplified output is delivered at the other end of tube. </p>
+<p>The main features of TWT are :</p>
+<p>1. Frequency range - 0.5 GHz to 90 GHz</p>
+<p>2. Power output - 5 mW at low frequencies(less than 20 GHz) 250 kW (continuous wave) at 3 GHz 10 MW (pulsed) at 3 GHz</p>
+<p>3. Efficiency - about 5 to 20%</p>
+<p>4. Noise - about 5 dB for low power TWT 25 dB for high power TWT </p>
+<p>TWT is used as RF amplifier in broadband microwave receivers, repeater amplifier in broad band communication systems, communication satellites etc.</p> "
+<p>In a turnstile antenna two-half wave resonant wire radiators are placed at 90° to each other in the same plane and are excited</p>,in phase,in phase opposition,90° out of phase with each other,45° out of phase with each other,,C," <p>Since the two wire radiators are at 90° to each other, they have to be excited 90° out of phase with each other.</p> "
+<p>A waveguide section in a microwave circuit acts as</p>,LP filter,Bandpass filter,HP filter,Band stop filter,,C, <p>It allows high frequencies.</p> 
+"<p>In a klystron amplifier dc electron velocity is <i>v</i><sub>0</sub> and dc electron charge density is <span class=""symbol"">r</span><sub>0</sub> the dc beam current is</p>","<span class=""symbol"">r</span><sub>0</sub><i>v</i><sub>0</sub>","<span class=""symbol"">r</span><sub>0</sub><sup>/</sup><i>v</i><sub>0</sub>","<i>v</i><sub>0</sub><sup>/</sup><span class=""symbol"">r</span><sub>0</sub>","(<i>v</i><sub>0</sub><sup>/</sup><span class=""symbol"">r</span><sub>0</sub>)<sup>2</sup>",,A," <p><img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/30-297.png""/> = coulomb |sec|m<sup>2</sup> = current density.</p> "

@@ -1,0 +1,49 @@
+question,A,B,C,D,E,answer,explanation
+<p>Which of the following is true regarding VLANs?</p>,You must have at least two VLANs defined in every Cisco switched network.,"All VLANs are configured at the fastest switch and, by default, propagate this information to all other switches.",You should not have more than 10 switches in the same VTP domain.,VTP is used to send VLAN information to switches in a configured VTP domain.,,D, Switches do not propagate VLAN information by default; you must configure the VTP domain. VLAN Trunk Protocol (VTP) is used to propagate VLAN information across a trunked link. 
+<p>Which protocol reduces administrative overhead in a switched network by allowing the configuration of a new VLAN to be distributed to all the switches in a domain?</p>,STP,VTP,DHCP,ISL,,B," Virtual Trunk Protocol (VTP) is used to pass a VLAN database to any or all switches in the switched network. The three VTP modes are server, client, and transparent. "
+<p>Which of the following is true regarding VTP?</p>,All switches are VTP servers by default.,All switches are VTP transparent by default.,VTP is on by default with a domain name of Cisco on all Cisco switches.,All switches are VTP clients by default.,,A, All Cisco switches are VTP servers by default. No other VTP information is configured on a Cisco switch by default. You must set the VTP domain name on all switches to be the same domain name or they will not share the VTP database. 
+<p>Which of the following commands sets a trunk port on a 2960 switch?</p>,"<i class=""networking-code"">trunk on</i>","<i class=""networking-code"">trunk all</i>","<i class=""networking-code"">switchport trunk on</i>","<i class=""networking-code"">switchport mode trunk</i>",,D," To set a switch port to trunk mode, which allows all VLAN information to pass down the link, use the <i class=""networking-code"">switchport mode trunk</i> command. "
+<p>Which command will configure a switch port to use the IEEE standard method of inserting VLAN membership information into Ethernet frames?</p>,"Switch(config)# <i class=""networking-code"">switchport trunk encapsulation isl</i>","Switch(config)# <i class=""networking-code"">switchport trunk encapsulation ietf</i>","Switch(config)# <i class=""networking-code"">switchport trunk encapsulation dot1q</i>","Switch(config-if)# <i class=""networking-code"">switchport trunk encapsulation isl</i>","Switch(config-if)# <i class=""networking-code"">switchport trunk encapsulation dot1q</i>",E," If you are on a 2950 switch, then the interface command is just <i class=""networking-code"">switchport mode trunk</i>, since the 2950 can only run the IEEE 802.1Q version. However, a 3550 can run both ISL and 802.1Q, so you must use the encapsulation command. The argument to choose 802.1Q for a trunking protocol is <i class=""networking-code"">dot1q</i>. "
+"<p>When a new trunk link is configured on an IOS-based switch, which VLANs are allowed over the link?</p>","By default, all VLANs are allowed on the trunk.","No VLAN's are allowed, you must configure each VLAN by hand.",Only configured VLAN's are allowed on the link.,Only extended VLAN's are allowed by default.,,A," By default, all VLANs are allowed on the trunk link and you must remove by hand each VLAN that you don't want traversing the trunked link. "
+"<p>Which of the following modes are valid when a switch port is used as a VLAN trunk?
+<ol class=""networking-ol-123""><li>  Blocking
+</li><li>  Dynamic auto
+</li><li>  Dynamic desirable
+</li><li>  Nonegotiate
+</li><li>  Access
+</li><li>  Learning
+</li></ol></p>","1, 2 and 6","2, 3 and 4","4, 5 and 6","2, 4, and 5",,B," The valid modes of a VLAN trunk on a switch are dynamic auto, dynamic desirable, trunk (on), and nonegotiate. "
+"<p>To configure the VLAN trunking protocol to communicate VLAN information between two switches, what two requirements must be met?
+<ol class=""networking-ol-123""><li>  Each end of the trunk link must be set to the IEEE 802.1e encapsulation.
+</li><li>  The VTP management domain name of both switches must be set the same.
+</li><li>  All ports on both the switches must be set as access ports.
+</li><li>  One of the two switches must be configured as a VTP server.
+</li><li>  A rollover cable is required to connect the two switches together.
+</li><li>  A router must be used to forward VTP traffic between VLANs.
+</li></ol></p>","1, 2 and 4","3, 5 and 6",2 and 4,1 and 6,,C, You must have the same VTP domain name on all switches in order to share VLAN information between the switches. At least one of the switches must be a VTP server; the other switches should be set to VTP client. 
+<p>You want to improve network performance by increasing the bandwidth available to hosts and limit the size of the broadcast domains. Which of the following options will achieve this goal?</p>,Managed hubs,Bridges,Switches,Switches configured with VLANs,,D," By creating and implementing VLANs in your switched network, you can break up broadcast domains at layer 2. For hosts on different VLANs to communicate, you must have a router or layer 3 switch. "
+<p>Which switching technology reduces the size of a broadcast domain?</p>,ISL,802.1Q,VLANs,STP,,C, Virtual LANs break up broadcast domains in layer 2 switched internetworks. 
+"<p>Which of the following provide inter-switch VLAN communication?
+<ol class=""networking-ol-123""><li>  ISL
+</li><li>  VTP
+</li><li>  802.1Q
+</li><li>  802.3Z
+</li></ol></p>",2 only,1 and 3,2 and 4,"2, 3 and 4",,B, ISL is a Cisco-proprietary frame-tagging method. IEEE 802.1Q is the nonproprietary version of frame tagging. 
+"<p>A switch has been configured for three different VLANs: VLAN2, VLAN3, and VLAN4. A router has been added to provide communication between the VLANs. What type of interface is necessary on the router if only one connection is to be made between the router and the switch?</p>",10Mbps Ethernet,56Kbps Serial,100Mbps Ethernet,1Gbps Ethernet,,C," Although you can use either 100Mbps or 1Gbps Ethernet, the 100Mbps is necessary at a minimum and is the best answer to this question. You need to trunk the link from the switch to the router to make this connection work with inter-VLAN communication. "
+"<p>Which of the following are benefits of VLANs?
+<ol class=""networking-ol-123""><li>  They increase the size of collision domains.
+</li><li>  They allow logical grouping of users by function.
+</li><li>  They can enhance network security.
+</li><li>  They increase the size of broadcast domains while decreasing the number of collision domains.
+</li><li>  They simplify switch administration.
+</li><li>  They increase the number of broadcast domains while decreasing the size of the broadcast domains.
+</li></ol></p>",1 and 5,2 and 4,"1, 3 and 5","2, 3 and 6",,D," VLANs break up broadcast domains in a switched layer 2 network, which means smaller broadcast domains. They allow configuration by logical function instead of physical location and can create some security if configured correctly. "
+"<p>Which of the following protocols are used to configure trunking on a switch?
+<ol class=""networking-ol-123""><li>  VLAN Trunk Protocol
+</li><li>  VLAN
+</li><li>  802.1Q
+</li><li>  ISL
+</li></ol></p>",1 only,3 only,3 and 4,"1, 3 and 4",,C, Cisco has a proprietary trunking protocol called ISL. The IEEE version is 802.1Q. 
+<p>What VTP mode allows you to change VLAN information on the switch?</p>,Client,STP,Server,Transparent,,C, Only in server mode can you change VTP information on a switch. 
+"<p>You connect a host to a switch port, but the new host cannot log into the server that is plugged into the same switch. What could the problem be?</p>",The router is not configured for the new host.,The VTP configuration on the switch is not updated for the new host.,The host has an invalid MAC address.,The switch port the host is connected to is not configured to the correct VLAN membership.,,D," This question is a little vague, but the best answer is that the VLAN membership for the port is not configured. "
+<p>Which of the following is an IEEE standard for frame tagging?</p>,ISL,802.3Z,802.1Q,802.3U,,C, 802.1Q was created to allow trunked links between disparate switches. 

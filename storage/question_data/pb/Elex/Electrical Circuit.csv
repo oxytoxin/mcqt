@@ -1,0 +1,746 @@
+﻿question,choices,answer
+"Electron flow assumes charges flow from","[""Negative to positive"",""Negative to negative"",""Positive to negative"",""Positive to positive""]",0
+"Series resonance occurs when","[""XL = XC"",""XL = R"",""Z = R"",""Both A and C""]",3
+"The symbol Q refers to","[""Resonance quotient"",""Quality factor"",""Power quotient"",""Qualification test""]",1
+"The ratio of W/VA in an ac circuit means","[""Power factor"",""Reactive factor"",""Quality factor"",""Load factor""]",0
+"What is the reciprocal of quality factor?","[""Power factor"",""Reactive factor"",""Dissipation factor"",""1\/Q factor""]",2
+"In liquids and gases, ionization current results from a flow of","[""Positive or negative ions"",""Free electrons"",""Ions that are lighter in weight than electrons"",""Protons""]",1
+"VL = VC in a series RLC circuit when","[""The value of the impedance is minimum"",""The power factor is zero"",""The current leads the total voltage by 90\u02da"",""The total voltage is zero""]",0
+"At what frequency will an inductor of 5mH have the same reactance as a capacitor of 0.1 μF?","[""7.12 kHz"",""7.12 Hz"",""7.12 MHz"",""7.12 GHz""]",0
+"Property of an electric circuit that dissipates electric energy","[""Reactance"",""Impedance"",""Resistance"",""Conductance""]",2
+"What is the other name of relative permittivity?","[""Dielectric strength"",""Potential gradient"",""Breakdown voltage"",""Specific inductance capacity""]",3
+"In a series RLC circuit","[""The current lags VL by 90\u02da"",""The current leads VL by 90\u02da"",""XL leads Xc by 90\u02da"",""Z = jXL at resonance""]",0
+"Resistor with colored bands in the body","[""Wire-wound resistor"",""Carbon-composition resistor"",""Potentiometer"",""Rheostat""]",1
+"In a resonant circuit, if Q ≥ 10 resonant frequency __________ bandwidth.","[""Bisects"",""Exceeds"",""Is less than"",""Is equal to""]",0
+"Which of the following conditions is not true for a series RLC circuit at resonance?","[""Z = jXL"",""XL = XC"",""The power factor is one"",""The magnitude of Z is""]",0
+"The current is ____________ times the maximum current at half-power points of a resonance curve.","[""0.707"",""1.414"",""0.5"",""0.632""]",0
+"A gang capacitor is a variable capacitor in which capacitance is varied by changing the","[""Dielectric"",""Number of plates"",""Plate area"",""Distance between plates""]",2
+"In an ac circuit with inductive reactance, the","[""Phase angle of the circuit is always 45\u02da"",""Voltage across the inductance must be 90\u02da out-of-phase with the applied voltage"",""Current through the inductance lags its induced voltage by 90\u02da"",""Current through the inductance and voltage across it are180\u02da out-of-phase""]",2
+"If three 9 mH inductors are connected in parallel without mutual inductance then the total inductance is","[""3 mH"",""9 mH"",""27 mH"",""18 mH""]",0
+"What is the specific resistance of a pure germanium?","[""55 \u03a9-cm"",""55 \u03a9-m"",""55 \u03a9-mm"",""55 k\u03a9-m""]",0
+"Two capacitors of capacitance 9 μF and 18 μF in series will have a total capacitance of","[""27 \u03bcF"",""162 \u03bcF"",""6 \u03bcF"",""180 \u03bcF""]",2
+"In a series RLC circuit","[""Increasing the frequency decreases the resistance"",""Increasing the frequency increases the resistance"",""Both XL and XC change as frequency changes"",""Impedance will always decrease""]",2
+"A series RLC circuit has a __________ power factor at its half-power points","[""Unity"",""Leading"",""Lagging"",""Either B or C""]",3
+"Kirchhoff’s laws (KCL and KVL) are applicable to","[""DC circuits"",""AC circuits"",""DC as well as AC circuits"",""Passive networks alone""]",2
+"A tank circuit is a","[""Parallel LC circuit"",""Series LC circuit"",""A resonant circuit"",""A non-resonant circuit""]",0
+"A capacitive load always has a ________ power facto","[""Leading"",""Lagging"",""Zero"",""Unity""]",0
+"What is the temperature coefficient of the resistance Eureka?","[""Infinity"",""Negative"",""Almost zero"",""Positive""]",2
+"As applied to a series RLC circuit, bandwidth means","[""The frequency range for maximum power transfer"",""The difference between the highest and lowest frequencies of the oscillator"",""The separation of the half-power points"",""The frequency at which XL = XC""]",2
+"Which is considered as the effect of a dielectric material?","[""Increasing capacitance"",""Decreasing capacitance"",""Reducing the working voltage"",""Increasing the distance between the plates""]",0
+"The open-circuit voltage at the terminal of load RL is 60V. Under the condition of maximum power transfer, the load voltage will be","[""60 V"",""15 V"",""20 V"",""30 V""]",3
+"If a capacitor is rated for 200V dc, what is its effective ac working voltage?","[""50 V"",""100 V"",""200 V"",""400 V""]",2
+"If resonant frequency is 10 kHz and quality factor is 50, then","[""Bandwidth is 200 Hz"",""XL = is 50,000 \u03a9"",""R is 50 \u03a9"",""XC = is 50,000 \u03a9""]",0
+"Which statement is true?","[""A series resonant circuit is of high impedance"",""A parallel resonant circuit is of low impedance"",""A series resonant circuit is inductive if it operates at a frequency higher than the resonant frequency"",""A parallel resonant circuit is inductive if it operates at a frequency higher than the resonant frequency""]",2
+"What is considered as the most important value of a sine wave?","[""Effective value"",""Peak value"",""Average value"",""Instantaneous value""]",0
+"An ac series circuit is composed of a resistance of 20 Ω, inductive reactance of 40 Ω, and a capacitive reactance of 15 Ω. If a current of 1 ampere is flowing, what is the applied voltage","[""320 V"",""32 V"",""220 V"",""22 V""]",1
+"An intermittent and non-symmetrical alternating current like that obtained from the secondary winding of an induction coil","[""Faradic current"",""Transient ac current"",""Inductive current"",""Capacitive current""]",0
+"The value of temperature coefficient (α) is dependent upon","[""The nature of material and temperature"",""The length of material"",""The cross-sectional area of the material"",""The volume of the material""]",0
+"At what frequency will the current in a series RLC circuit reach its maximum value for an applied voltage of 15 V with R = 500 Ω, L = 100 μH and C = 0.001 μF?","[""503 kHz"",""403 kHz"",""603 kHz"",""303 kHz""]",0
+"If two equal resistances connected in series across a certain supply are now connected in parallel across the same supply, the power produced will be _________ that of series connection","[""One-half"",""One-fourth"",""Two times"",""Four times""]",3
+"The voltage lags the current by cycle in a","[""Purely resistive circuit"",""Purely inductive circuit"",""Purely capacitive circuit"",""Circuit containing resistance, capacitance and inductance""]",2
+"What is the half-power bandwidth of a parallel resonant circuit which has a resonant frequency of 3.6 MHz and Q of 218?","[""1.65 kHz"",""16.5 MHz"",""16.5 kHz"",""165 kHz""]",2
+"Which one of the following elements serves as a protection against overload?","[""Fuse"",""Switch"",""Resistor"",""Relay""]",0
+"Transient period is considered over after","[""5"",""1"",""100"",""6""]",0
+"What rating of a resistor determines its ability to absorb heat?","[""Wattage"",""Ohmic"",""Current"",""Voltage""]",0
+"An open inductor has","[""Zero resistance and infinite inductance"",""Infinite resistance and zero inductance"",""Infinite resistance and infinite inductance"",""Zero resistance and zero inductance""]",1
+"What is the reading of an ohmmeter for a shorted capacitor?","[""Zero"",""Infinity"",""k\u03a9"",""M\u03a9""]",0
+"What capacitance exists not through design but simply because two conducting surfaces are relatively close to each other?","[""Surge"",""Stray"",""Natural"",""Normal""]",1
+"The average value of a triangular or sawtooth wave is __________ times its peak value.","[""0.577"",""0.500"",""0.318"",""0.637""]",1
+"A series RLC circuit consists of a 10 Ω resistor in series with L = 10 μH, and C = 100 μF. Determine a new value of I, for which the resonant frequency is one –half the original value.","[""40 \u03bcH"",""40 mH"",""40 pH"",""40 nH""]",0
+"What is the peak factor of a triangular wave?","[""1.16"",""1.73"",""1.41"",""1.11""]",1
+"A current of 10 A and a pf of 0.8 lagging is taken from a single phase 250 V supply. The reactive power of the system is_______.","[""1500"",""2000"",""250"",""not""]",0
+"An R-L series ac circuit has 15 V across the resistor and 20 V across the inductor. The supply voltage is","[""35 V"",""5 V"",""25 V"",""175 V""]",2
+"The active and reactive powers of an inductive circuit are equal. The power factor of the circuit is","[""0.8 lagging"",""0.707 lagging"",""0.6 lagging"",""0.5 lagging""]",1
+"Determine the power angle in the series circuit which consists of R = 25 ohms, L = 0.2 H across a power supply of 200 V, 30 Hz.","[""36.4 degrees"",""52.4 degrees"",""46.4 degrees"",""56.4 degrees""]",3
+"An AC circuit has a resistance of 6 ohms, inductive reactance of 20 ohms, and capacitive reactance of 12 ohms. The circuit power will be","[""0.8 lagging"",""0.8 leading"",""0.6 lagging"",""0.6 leading""]",2
+"A 25 ohm resistor connected in series with a coil of 50 ohm resistance and 150 mH inductance. What is the pf of the circuit?","[""85%"",""80%"",""90%"",""75%""]",1
+"A current wave is represented by the equation i = 10 sin 251t. The average and RMS value of current are","[""7.07 A; 6.63A"",""6.36A; 7.07A"",""10A; 7.07A"",""6.36A; 10A""]",1
+"Calculate the susceptance in mho of a circuit consisting of resistor of 10 ohms in series with a conductor of 0.1 H, when the frequency is 50 Hz.","[""0.0303"",""0.0092"",""-0.029"",""32.95""]",2
+"An inductive circuit of resistance 16.5 ohms and inductive of 0.14 H takes a current of 25 A. If the frequency is 50 Hz, the supply voltage is","[""117.4 V"",""1174 V"",""1714 V"",""1471 V""]",1
+"The current taken by a circuit is 1.2 A when the applied potential difference is 250 V and the power taken is 135 W. The power factor is","[""0.35"",""0.45"",""0.55"",""0.65""]",1
+"A capacitor has a capacitance of 20 uF. The current supplied if it is placed across a 1100 V, 25 Hz supply.","[""3.554 A"",""6.91 A"",""3.45 A"",""9.61 A""]",1
+"The form factor of half wave rectified signal is equal to _________.","[""1.11"",""0.786"",""2.22"",""1.57""]",3
+"An impedance draws a current I = 10 cos(wt – 30) from the voltage V = 220sin(wt + 30). What is the impedance?","[""15.6 \u2013 j15.6"",""15.6 + j15.6"",""19.1- j11.1"",""11.0 + j19.1""]",2
+"The input of an a.c circuit having pf = 0.8 lagging is 20 KVA. The power drawn by the circuit is ________ Kw.","[""12"",""20"",""16"",""8""]",2
+"A capacitor connected to a 115 V, 25 Hz supply takes 5 A. What current will it take when the capacitance and frequency are doubled?","[""2 A"",""5 S"",""10 A"",""20 A""]",3
+"At what frequency will an inductor of 5mH have the same reactance as a capacitor of 0.1 µF?","[""7.12 kHz"",""7.12 Hz"",""7.12 MHz"",""7.12 Ghz""]",0
+"What capacitance must be placed in series with an inductance of 0.05H, so that when the frequency is 100 Hz, the impedance becomes equal to the ohmic resistance?","[""70.5 uF"",""50.7 uF"",""5.7 uF"",""7.05 uF""]",1
+"A 220 V, 60 Hz source is driving a series R<sub>L</sub> circuit. Determine the current in the circuit if R = 100 ohm X<sub>L</sub> = 100 ohm.","[""1.10 lagging"",""1.55 lagging"",""2.20 lagging"",""4.40 lagging""]",1
+"What is the resonant frequency of a circuit when an inductance of 1 uH and capacitance of 10 Picofarad are in series?","[""15.9 MHz"",""50.3 MHz"",""15.9 kHz"",""50.3 KHz""]",1
+"The __________ the Q of a circuit, the narrower the bandwidth.","[""Lower"",""Higher"",""Broader"",""Selective""]",1
+"A 5 microfarad capacitor is discharged suddenly through a coil having an inductance of 2 H and a resistance of 200 ohms. The capacitor is initially charge to a voltage of 10 volts. Find the additional resistance required just to be prevent oscillation.","[""1625 ohms"",""1065 ohms"",""1265 ohms"",""1025 ohms""]",1
+"The rate of rise of current through an inductive coil is maximum","[""after 1 time constant"",""at the start of current flow"",""near the final maximum value of current"",""at 63.2% of its maximum steady state value""]",3
+"A coil of 15 H inductance and 10 ohms resistance is suddenly connected to a 20 volts DC source by closing the switch. The value of current 2 seconds after the switch is closed is","[""1.74 A"",""1.47 A"",""1.17 A"",""1.71 A""]",1
+"A DC voltage of 80 volts is applied to a circuit containing a resistance of 80 ohms in series with an inductance of 20 Henry. Calculate the growth of current at the instant of completing the circuit.","[""4 A\/s"",""2 A\/s"",""\u00bd A\/s"",""\u00bc A\/s""]",0
+"A 200 volt DC supply is suddenly switched to a relay coil which has a time constant of 3 ms. If the current in the coil reaches 0.20 ampere after 3 ms determine the steady state value of the current.","[""0.361 A"",""0.163 A"",""0.316 A"",""0.631 A""]",2
+"A relay has a resistance of 300 ohms and is switched to a 100 V DC supply. If the current reaches 63.2% of its final value at 0.02 sec, determine the inductance of the circuit.","[""5 H"",""6 H"",""4 H"",""13 H""]",1
+"Energy stored by a coil is doubled when its current is increased by ________ percent.","[""100"",""141.4"",""50"",""25""]",1
+"A 60 volt potential difference is suddenly applied to a coil of inductive 60 mH and resistance 180 ohms. At what rate is it rising after 0.005 sec?","[""322 A\/sec"",""223 A\/sec"",""22.3 A\/sec"",""32.2 A\/sec""]",1
+"A voltage rise linearly form zero to 100 volts in 1 second, falls instantaneously to zero at t = 1 second and remains zero thereafter. This voltage is applied to an RL series circuit in which R = 5 ohms and L = 100 mH. What is the current when t = 0.50 second?","[""6.90 A"",""96 A"",""9.60 A"",""69 A""]",2
+"A capacitance of 10 microfarad is connected in series with a resistance of 8,000 ohms. If the combination is suddenly connected to a 100 V DC supply. Find the initial rate of rise in potential across the capacitor.","[""12500 V\/s"",""125 V\/s"",""1250 V\/s"",""12.50 V\/s""]",1
+"A 25 microfarad capacitor is connected in series with a 0.50 M-ohm resistor and a 120 volt storage battery. What is the potential difference in the capacitor 6 sec after the circuit is closed?","[""64 volts"",""46 volts"",""4.60 volts"",""6.40 volts""]",1
+"A capacitor of 2 microfarad with an initial charge q<sub>0</sub> is connected across the terminals of a 10 ohm resistor and the switch is closed at t = 0. Find q<sub>0</sub> (micro-coulomb) if the transient power in the resistor is known to be P<sub>R</sub> = 360<sup>e-10^(-5)t</sup>","[""1200"",""120"",""102"",""2100""]",1
+"The transient current in a loss-free L-C circuit when excited from an ac source is _________ a/an sine wave .","[""overdamped"",""undamped"",""underdamped"",""critically damped""]",1
+"A series RLC circuit with R = 5 ohms, L = 0.10 H, C= 500 microfarad has a constant voltage V = 10 volts applied at t = 0. Find the resulting transient current.","[""0.707e<sup>-50<\/sup>t sin 139t"",""0.272e<sup>-25<\/sup>t sin 278t"",""0.720e<sup>-25<\/sup>t sin 139t"",""none of these""]",2
+"A circuit consisting of 20 ohms resistor, 20 mH inductor and a 100 microfarad capacitor in series is connected to a 200 V DC supply. The capacitor is initially uncharged. Find the maximum instantaneous current.","[""6.45 A"",""7.45 A"",""8.45 A"",""9.45 A""]",0
+"A time of 10 ms is required for the current in an RL circuit to reach 90% of its final value. If R is 10 ohms, find the value of C to be inserted in series with the RL circuit so that the frequency of oscillation of the resulting current is 1000 cycles per second.","[""5.38 x 10<sup>-8<\/sup> Farad"",""5.83 x 10<sup>-7<\/sup> Farad"",""5.83 x 10<sup>-6<\/sup> Farad"",""5.83 x 10<sup>-5<\/sup> Farad""]",1
+"A series RLC circuit with R = 1 kΩ, L = 1 H and C = 6.25 μF is suddenly connected across a 24 V dc source. At t = 0, i= 0 and q = 0. Determine the current after 0.01 sec.","[""3.45 mA"",""4.61 mA"",""5.40 mA"",""5.05 mA""]",2
+"A series RLC circuit has R = 200 Ω, L = 0.1 H and a capacitor C = 10 μF. If a 100 V dc source is connected across the terminals of the series circuit at t = 0, determine the current after 1 millisecond. Assume zero initial conditions.","[""0.353 A"",""0.229 A"",""0.253 A"",""0.368 A""]",3
+"Double energy transient are produced in circuits consisting of","[""two or more resistors"",""resistance and inductance"",""resistance and capacitance"",""resistance, inductance and capacitance""]",3
+"A DC voltage source is connected across a series RLC circuit, under steady state conditions, the applied DC voltage drops entirely across the","[""R only"",""L only"",""C only"",""R &amp; L combinations""]",2
+"Consider a DC voltage source connected to a series RC circuit. When the steady state reaches, the ratio of energy stored in the capacitor to the total energy supplied by the voltage source is equal to","[""0.362"",""0.500"",""0.632"",""1.00""]",1
+"An inductor at t = 0 with initial current I0 acts as","[""short"",""open"",""current source"",""voltage source""]",2
+"An inductor L carries steady state current I0, suddenly at time t = 0 the inductor is removed from circuit and connected to a resistor R. The current through the inductor at time t is equal","[""I<sub>0<\/sub>e<sup>-Rt\/L<\/sup>"",""I<sub>0<\/sub> (1-e<sup>-Rt\/L<\/sup>)"",""I<sub>0<\/sub>e<sup>+Rt\/L<\/sup>"",""I<sub>0<\/sub> (1-e<sup>+Rt\/L<\/sup>)""]",0
+"Transient current in a circuit results from","[""voltage applied to the circuit"",""impedance of the circuit"",""changes in the stored energy in inductors and capacitors"",""resistance of the circuit""]",2
+"A two terminal black box contains a single element which can be R, L, C or M. As soon as the box is connected to a dc voltage source, a finite non-zero current is observed to flow through the element. The element is a/an","[""resistance"",""inductance"",""capacitance"",""Mutual inductance""]",1
+"In a circuit the voltage across an element is v(t) = 10 (t – 0.01)e<sup>-100t</sup> V. The circuit is","[""un-damped"",""under damped"",""critically damped"",""Over damped""]",2
+"A unit step voltage is applied at t = 0 to a series RL circuit with zero initial conditions","[""It is possible for the current to be oscillatory"",""The voltage across the resistor at t = 0+ is zero"",""The energy stored in the inductor in the steady state is zero"",""The resistor current eventually falls to zero""]",1
+"A 1 µF capacitor charged through a 2 kΩ resistor by a 10 V dc source. The initial growth of capacitor voltage will be at the rate","[""316 V\/ms."",""5.0 V\/ms"",""6.32 V\/ms"",""10.0 V\/ ms""]",1
+"A series R-C circuit has a capacitor with an initial voltage of 11 V. A 15 V dc source is now connected across the R-C circuit. The initial rate of change of capacitor voltage can be","[""15 \u03a7 0.368 \/ RC"",""15\u03a7 0.632 \/ RC"",""11\/RC"",""4\/RC""]",3
+"Determine the resistance of a busbar made of copper if the length is 10 meters long and the cross section is a 4 x 4 cm<sup>2</sup>. Use 1.7241 micro ohm-cm as the resistivity.","[""2.121 x 10<sup>-4<\/sup> \u03a9"",""4.312 x 10<sup>-4<\/sup> \u03a9"",""3.431 x 10<sup>-5<\/sup> \u03a9"",""1.078 x 10<sup>-4<\/sup> \u03a9""]",3
+"One turn of a copper bar is produced by cutting copper washer along a radius and spreading the ends. The washer is cut from soft drawn copper having a resistivity at 20°C of 1.732 x 10<sup>-6</sup> ohm-cm. The washer is 0.125 inch thick and has inside diameter and outside diameter of 1 inch and 9 inches respectively. Calculate the exact resistance between the two ends of the turn to direct current, taking into account the non-uniform current distribution. Assume the contact along the ends of the turn to be perfect over the entire cross section.","[""12.74 x 10<sup>-6<\/sup> \u03a9"",""15.53 x 10<sup>-6<\/sup> \u03a9"",""17.22 x 10<sup>-6<\/sup> \u03a9"",""14.83 x 10<sup>-6<\/sup> \u03a9""]",1
+"Determine the resistance of a conductor 0.10 m long, with a uniform diameter of 1.0 cm and having a resistivity which varies as a function of length L measured from the one end of the conductor according to ρ = 0.003 + 10<sup>-4</sup> L<sup>2</sup> ohm-cm.","[""0.0852 ohm"",""0.0915 ohm"",""0.0806 ohm"",""0.0902 ohm""]",2
+"A coil has 6,000 turns of wire and a resistance of 380 ohms. The coil is rewound with the same quantity (weight) of wire, but has 13,400 turns. How many ohms will the new coil have?","[""1895 ohms"",""1825 ohms"",""1792 ohms"",""1905 ohms""]",0
+"A copper wire of unknown length has a resistance of 0.80 ohm. By successive passes through drawing dies, the length of the wire is increased by 2 ½ times its original value. Assuming that resistivity remains unchanged during the drawing process, determine the new value of its resistance.","[""4 ohms"",""3 ohms"",""5 ohms"",""6 ohms""]",2
+"A one-meter rod of 2-cm diameter is drawn until its resistance is 100 times the initial resistance. Its length afterwards is?","[""10 m"",""100 m"",""12.5 m"",""5 m""]",0
+"A kilometer of wire having a diameter of 11.7 mm and a resistance of 0.031 ohm is drawn down so that its diameter is 5.0 mm. What does its resistance become?","[""0.85 ohm"",""0.78 ohm"",""0.93 ohm"",""0.81 ohm""]",2
+"A certain wire has a resistance R. The resistance of another wire identical with the first except for having twice its diameter is","[""4R"",""R\/2"",""2R"",""R\/4""]",3
+"What is the size in square millimeter (mm<sup>2</sup>) is the cable of 250 MCM size?","[""118.656 mm<sup>2<\/sup>"",""126.675 mm<sup>2 <\/sup>"",""112.565 mm<sup>2<\/sup>"",""132.348 mm<sup>2<\/sup>""]",1
+"The resistance of a copper wire at 30°C is 50 ohms. If the temperature coefficient of copper at 0°C is 0.00427, what is the resistance at 100°C?","[""72.26 ohms"",""54.25 ohms"",""63.24 ohms"",""58.15 ohms""]",2
+"The resistance of a wire is 126.48 Ω at 100°C and 100 Ω at 30°C. Determine the temperature coefficient of copper at 0°C.","[""0.00427\/\u00b0C"",""0.00615\/\u00b0C"",""0.0256\/\u00b0C"",""0.365\/\u00b0C""]",0
+"Two heating elements which is 500 ohms and 250 ohms are connected in series with temperature coefficients of 0.001 and 0.003 ohms per °C, respectively at 20°C. Calculate the effective temperature coefficient of the combination.","[""0.00215"",""0.00626"",""0.00712"",""0.00167""]",3
+"The insulation resistance of a kilometer of the cable having a diameter of 2 cm and an insulation thickness of 2 cm is 600 ohms. If the thickness of the insulation is increased to 3 cm, find the insulation resistance of the cable.","[""A, 725 ohms"",""850 ohms"",""757 ohms"",""828 ohms""]",2
+"It is required that a loading of 3 kW be maintained in a heating element at an initial temperature of 20°C, a voltage of 220 V is necessary for the purpose. After the element has settled down to steady state, it is found that a voltage of 240 volts is necessary to maintain the 3 kW loading. The element resistance temperature coefficient is 0.0006 per degree centigrade at 20°C. Calculate the final temperature of the heating element.","[""345.43\u00b0C"",""326.42\u00b0C"",""336.84\u00b0C"",""318.48\u00b0C""]",2
+"How long must a current of 5 A pass through a 10 ohm resistor until a charge of 12000 coulomb passes through?","[""1 min"",""2 min"",""3 min"",""4 min""]",3
+"What is the power required to transfer 97,000 coulombs of charge through a potential rise of 50 volts in one hour?","[""0.5 kW"",""0.9 kW"",""1.3 kW"",""2.8 kW""]",2
+"A round wire has 250 MCM. Find its diameter in inches.","[""\u00bd"",""\u00bc"",""0.16"",""0.08""]",0
+"In the American wire gauge, as the number of gauge increases, the diameter of wire ______________.","[""increases"",""decreases"",""does not change"",""become twice""]",1
+"In cgs system, what is the unit of emf where I is in abampere and P is in erg per second?","[""millivolt"",""kilovolt"",""abvolt"",""volt""]",2
+"One (1) kW is equal to __________ hp.","[""0.746"",""1.34"",""550"",""1.5""]",1
+"Two copper conductors have equal length. The cross-sectional area of one conductor is three times that of the other. If the resistance of the conductor having smaller cross-sectional area is 20 Ω, what is the resistance of the other?","[""20\/3 \u03a9"",""60 \u03a9"",""180 \u03a9"",""20\/9 \u03a9""]",0
+"A copper bar has a length of 20 ft., width of 4 inches and thickness of 0.5 inch. If the resistivity of copper is 10.37 Ω-CM/ft, what is the resistance of the bar?","[""81.4 \u03bc\u03a9"",""8.14 \u03bc\u03a9"",""814 \u03bc\u03a9"",""0.814 \u03bc\u03a9""]",0
+"The resistance of the field winding of a DC machine is 0.25 Ω at 25°C. When operating at full-load, the temperature of the winding is 75°C. The temperature coefficient of resistance of copper is 0.00427 per °C at 0°C. Find the resistance of the field winding at full-load.","[""0.298 \u03a9"",""0.315 \u03a9"",""0.512 \u03a9"",""0.271 \u03a9""]",0
+"A coil of copper has resistance of 5.46 Ω at 75°C. What will be its resistance at 25°C?","[""4.58 \u03a9"",""4.84 \u03a9"",""5.02 \u03a9"",""4.35 \u03a9""]",0
+"A certain generator generates 1,500,000 joules per minute. What is the output in kW?","[""50"",""500"",""25"",""125""]",2
+"________ is anything that has weight had occupies space. It may be solid, liquid or gas.","[""Amalgam"",""Alloy"",""Matter"",""Compound""]",2
+"It is defined as anything that occupies space and has weight.","[""atom"",""compound"",""molecule"",""matter""]",3
+"The lightest kind of atom or element","[""hydrogen"",""helium"",""titanium"",""oxygen""]",0
+"In order to have a good conductor material, such material shall have __________ valence electrons.","[""one"",""five"",""more than ten"",""twenty one""]",0
+"Electric power refers to _________.","[""volt ampere"",""watt second"",""volt coulomb"",""joule""]",0
+"What composes all matter whether a liquid, solid or gas?","[""electrons"",""atoms"",""protons"",""neutrons""]",1
+"What is a physical combination of compounds or elements NOT chemically combined that can be separated by physical means?","[""substance"",""atom"",""mixture"",""molecule""]",2
+"Determine the equivalent work of 166 watt-second.","[""10 joules"",""100 joules"",""16.6 joules"",""166 joules""]",1
+"One of the following is the best conductor of electricity.","[""Air"",""Copper"",""Carbon"",""Silicon""]",1
+"What is the basic unit for measuring current flow?","[""coulomb"",""ampere"",""volt"",""atomic weight""]",1
+"__________ has a unit of electron volt.","[""Energy"",""Potential difference"",""Current"",""Charge""]",0
+"The motion of charged particles especially colloidal particles through a relative stationary liquid under the influence of an applied electric provided.","[""hysteresis"",""electrolysis"",""electrophoresis"",""electro analysis""]",2
+"What is a symbol that represents a quantity or a single object?","[""unit"",""number"",""item"",""base""]",0
+"Determine which of the following has the least number of electrons found at the outer shell.","[""semi-insulator"",""insulator"",""semiconductor"",""conductor""]",3
+"The term describes a material whose resistance remains relatively constant with changes in temperature.","[""positive temperature coefficient"",""negative temperature coefficient"",""neutral temperature coefficient"",""zero temperature coefficient""]",3
+"Resulting effect when electron is made to move","[""dynamic electricity"",""static electricity"",""lines of force"",""magnetic lines""]",0
+"One of the following characteristics of a resistive material which do not change its resistive value with respect to time is its ___________.","[""fidelity"",""sensitivity"",""stability"",""selectivity""]",2
+"What do you call the element that conducts electricity very readily?","[""semi-conductors"",""conductors"",""insulators"",""dielectric""]",1
+"Which of the following material is referred to as a medium whereby electrons can move easily from atom to atom?","[""insulator"",""dielectric"",""mica"",""conductor""]",3
+"A chemical combination of elements can be separated by chemical means but not by physical means. It is created by chemically combining two or more elements.","[""molecules"",""compound"",""matter"",""mixture""]",1
+"A substance which cannot be reduced to a simpler substance by chemical means","[""atom"",""molecule"",""matter"",""element""]",3
+"Calculate the equivalent power in watt of 100 joules per second.","[""1.66 watts"",""100 watts"",""16.66 watts"",""1,000 watts""]",1
+"It is a neutral particle that has no electrical charge.","[""atom"",""proton"",""electron"",""neutron""]",3
+"Which material has more free electrons?","[""mica"",""insulator"",""conductor"",""dielectric""]",2
+"Represents the current flow produced by one volt working across one ohm of resistance.","[""resistance"",""ampere"",""voltage"",""electromotive force""]",1
+"When an atom gains an additional _________, it results to a negative ion.","[""atom"",""neutron"",""proton"",""electron""]",3
+"The definite discrete amount of energy required to move an electron from a lower shell to higher shell.","[""quantum"",""positive energy"",""negative energy"",""quanta""]",3
+"What will happen to an atom if an electron is either taken out or taken into the same atom?","[""becomes a negative ion"",""becomes an ion"",""becomes a positive ion"",""nothing will happen""]",1
+"The energy in an electron that is called the energy of motion","[""electromotive force"",""kinematics"",""kinetic energy"",""potential energy""]",2
+"Electric charge of neutron is the same as __________.","[""atom"",""electron"",""current"",""proton""]",0
+"Ion is _________.","[""free electron"",""nucleus without protons"",""proton"",""an atom with unbalanced charges""]",3
+"An insulating element or material has capability of _________.","[""storing voltage"",""preventing short circuit between two conducting wires"",""conducting large current"",""storing high current""]",1
+"What is the value of a resistor with colors from left: Orange, Blue, Gold and Silver?","[""34 ohms + \/-10%"",""36 ohms +\/-10%"",""3.4 ohms +\/-10%"",""3.6 0hms +\/-10%""]",3
+"A three-terminal resistor with one or more sliding contacts which functions as an adjustable voltage divider","[""Rheostat"",""Bleeder resistor"",""Potentiometer"",""Voltage divider""]",2
+"A resistor which is used to draw a fixed amount of current","[""potentiometer"",""bleeder resistor"",""fixed resistor"",""rheostat""]",1
+"Find the value of a resistor with the following color codes: Orange, Yellow, Red, Red","[""34 k ohms +\/-5%"",""3.4 ohms +\/-2%"",""3.4 k ohms +\/-10%"",""34 k ohms +\/-20%""]",1
+"Electric energy refers to _________.","[""Joules divided by time"",""Volt-ampere"",""Watt"",""Volt-coulomb""]",3
+"What is the resistance of an open fuse circuit?","[""at least 1000 ohms"",""infinity"",""zero"",""100 ohms at standard temperature""]",1
+"When should a fuse be replaced with a higher rated unit?","[""when the fuse of the original value is small in size"",""when the original is not available"",""never"",""if it blows""]",2
+"The ability to do work","[""energy"",""kinetic"",""potential"",""voltage""]",0
+"Which type of variable resistor should you use for controlling large amount of current?","[""Potentiometer"",""Adjustable wirewound"",""Variac"",""Rheostat""]",1
+"What does the fourth loop of an electronic resistor color code represent?","[""Multiplier"",""Temperature"",""First digit of the equivalent value"",""Tolerance""]",3
+"100 picofarads","[""100 nanofarad"",""1000 milli microfarad"",""10.0 picofarads"",""ECE Board Exam November 1995""]",1
+"How much is the resistance of a germanium slag 10 cm long and cross sectional area of 1 square cm?","[""55 k ohms"",""5.5 k ohms"",""550 k ohms"",""550 ohms""]",3
+"Carbon film resistor","[""Potentiometer"",""Adjustable resistor"",""Metal film resistor"",""ECE Board Exam April 2001""]",1
+"Determine the equivalent horse power of 2.611 kilowatts.","[""3.50 hp"",""2.50 hp"",""2.25 hp"",""1.50 hp""]",0
+"Find the lowest resistance value of the following resistors.","[""White, black, black"",""Violet, gray, yellow, silver"",""Red, black, gold"",""Gray, gray, black""]",2
+"If the bands on a resistor are yellow, violet, red and gold, what is the resistance value?","[""470 ohms 5%"",""470 ohms 10%"",""47000 ohms 5%"",""4700 ohms 5%""]",3
+"Rust in electrical (wire) connections will result to __________.","[""Conductance"",""Resistance"",""Voltage"",""Inductance""]",1
+"The area of a conductor whose diameter is 0.001 inch is equal to","[""One micron"",""One angstrom"",""One circular mil"",""One steradian""]",2
+"_____ is the term used to express the amount of electrical energy in an electrostatic field.","[""Joule"",""Coulomb"",""Volt"",""Watt""]",0
+"Which of the following statement is correct?","[""Potentiometer has two terminals"",""Transistor has two terminals"",""Typical power rating of a carbon-composition resistor ranged from 0.125 W to 2 W"",""Open resistor has small resistance""]",2
+"_______ is one factor that does not affect resistance.","[""Resistivity"",""Cross sectional area"",""Length"",""Mass""]",3
+"What is the value of a resistor having the following colored bands: Yellow-Gray-Red-Silver?","[""4800 ohms \u00b110%"",""480 ohms \u00b110%"",""3800 ohms \u00b11%"",""4.8 ohms \u00b11%""]",0
+"Find the value of resistor with the following color codes; Brown, White, Orange, Red","[""190 ohms 10%"",""19 k ohms 2%"",""1.9 k ohms 10%"",""19 k ohms 20%""]",3
+"Resistor with colored bands in the body","[""Adjustable resistor"",""Wire-wound resistor"",""Variable resistor"",""Carbon composition resistor""]",3
+"If the bands on a resistor are red, red, orange and silver, what is the resistance value?","[""220 ohms 5%"",""223 0hms 10%"",""22,000 ohms 10%"",""2200 ohms 20%""]",2
+"What does the second strip of an electronic resistor color code represent?","[""Tolerance"",""Second digit of the value"",""Temperature"",""Multiplier""]",1
+"The energy in an electron that is called the energy of position","[""Kinetic energy"",""Kinematics"",""Electromotive force"",""Potential energy""]",3
+"If an electronic resistor does not have the fourth color strip it means it has a tolerance of _________.","[""5%"",""20%"",""10%"",""1%""]",1
+"What happens to the resistance of a conductor wire when its temperature is lowered?","[""Decreased"",""Steady"",""Zero"",""Increased""]",0
+"Which of the following does not refer to electric energy?","[""Joule"",""Watt second"",""Volt coulomb"",""Volt ampere""]",3
+"Which of the following statement is incorrect?","[""open transistor has three (3) terminals"",""transistors have three (3) terminals"",""typical power rating of carbon-composition resistor ranged 0.001 W to 0.1 W"",""potentiometer has three (3) terminals""]",2
+"Term used in electronic measuring device when a metal increases resistance due to heat produced by current flowing through them.","[""positive resistance coefficient"",""positive temperature coefficient"",""negative temperature coefficient"",""negative resistance coefficient""]",1
+"A 1 km cable consists of 12 identical strands of aluminum each 3 mm in diameter. What is the resistance of the cable?","[""0.34 ohm"",""0.54 ohm"",""0.44 ohm"",""0.24 ohm""]",0
+"A piece of wire has a resistance of 0.5 ohm. The length is doubled and the area is increased four times. What is its resistance?","[""0.75 ohm"",""0.50 ohm"",""0.25 ohm"",""1 ohm""]",2
+"Copper wire of certain length and resistance is drawn out to four times its length without change in volume. What is the resistance of the bar?","[""unchanged"",""R\/16"",""16R"",""4R""]",2
+"Current is simply _________.","[""Flow of electrons"",""Flow of protons"",""Radiation"",""Emission""]",0
+"The resistance of a coil of wire is 1 kΩ at 20°C. If the coil is immersed into oil, the resistance falls to 880 Ω. If the wire has a temperature coefficient of 0.006 at 20°C, how much is the temperature of the liquid?","[""0\u00b0C"",""-20\u00b0C"",""17.6\u00b0C"",""none of these""]",0
+"The copper field coils of a motor was measured at 21°C and found to have a resistance of 68 Ω. After the motor has run for a given time, the resistance is found to be 96 Ω. What is the hot temperature of the winding?","[""106.36\u00b0C"",""166.30\u00b0C"",""103.66\u00b0C"",""none of these""]",3
+"A wire has a resistance of 30 Ω at 20°C. What will its resistance be at 60°C? Assume the temperature coefficient of resistance to be 0.000385 at 20°C.","[""34.26 \u03a9"",""36.42 \u03a9"",""32.46 \u03a9"",""none of these""]",3
+"Determine the length of a copper wire (ρ = 10.37 Ω-CM/ft) where diameter is 0.30 inch and resistance of 0.5 Ω at 20°C.","[""4,339 ft"",""5.225 ft"",""6,125 ft"",""none of these""]",0
+"An electric water heater has a rating of 1 kW, 230 V. The coil used as the heating element is 10 m long and has a resistivity of 1.724 x 10^-6 ohm-cm. Determine the required diameter of the wire in mils.","[""2.43 mils"",""2.52 mils"",""3.21 mils"",""1.35 mils""]",1
+"How many circular mils does a round copper rod of 0.25 inch diameter have?","[""196,000"",""62,500"",""1,963,500"",""49,000""]",1
+"A substance whose molecules consist of the same kind of atoms is called _________.","[""mixture"",""element"",""compound"",""none of these""]",1
+"The diameter of the atom is about ___________.","[""10^-10 m"",""10^-8 m"",""10^-2 m"",""10^-15 m""]",0
+"The number of compounds available in nature is ___________.","[""105"",""300"",""1000"",""unlimited""]",3
+"The mass of a proton is ___________ the mass of an electron.","[""equal to"",""less than"",""about 1837 times"",""200 times""]",2
+"The maximum number of electrons that can be accommodated in the last orbit is _________.","[""4"",""8"",""18"",""2""]",1
+"The electrons in the last orbit of an atom are called _________ electrons.","[""free"",""bound"",""valence"",""thermionic""]",2
+"If the number of valence electrons of an atom is less than 4, the substance is usually __________.","[""a conductor"",""an insulator"",""a semiconductor"",""none of these""]",0
+"If the number of valence electrons of an atom is more than 4, the substance is usually __________.","[""a semiconductor"",""a conductor"",""an insulator"",""none of these""]",2
+"If the number of valence electrons of an atom is exactly 4, the substance is usually _________.","[""a semiconductor"",""an insulator"",""a conductor"",""a semiconductor""]",0
+"The number of valence electrons of an atom is less than 4. The substance will be probably __________.","[""a metal"",""a non-metal"",""an insulator"",""a semiconductor""]",0
+"One coulomb of charge is equal to the charge on __________ electrons.","[""628 x 10^16"",""6.28 x 10^16"",""62.8 x 10^16"",""0.628 x 10^16""]",0
+"One cc of copper has about ___________ free electrons at room temperature.","[""200"",""20 x 10^10"",""8.5 x 10^22"",""3 x 10^5""]",2
+"Electric current in a wire is the flow of _________.","[""free electrons"",""bound electrons"",""valence electrons"",""atoms""]",0
+"EMF in a circuit is _________.","[""cause current to flow"",""maintains potential difference"",""increases the circuit resistance"",""none of these""]",1
+"EMF has the unit of _________.","[""power"",""energy"",""charge"",""none of these""]",1
+"Potential difference has the unit of _________ .","[""charge"",""power"",""energy"",""none of these""]",2
+"The resistance of a material is ________ its area of cross-section.","[""directly proportional to"",""inversely proportional to"",""independent of"",""none of these""]",1
+"If the length and area of cross-section of a wire are doubled up, then its resistance __________.","[""becomes four times"",""remains unchanged"",""becomes sixteen times"",""none of these""]",1
+"A length of wire has a resistance of 6 ohms. The resistance of a wire of the same material three times as long and twice the cross-sectional area will be ________.","[""36 ohms"",""12 ohms"",""9 ohms"",""1 ohm""]",2
+"The SI unit of specific resistance is _________.","[""mho"",""ohm-m"",""ohm-m^2"",""ohm-cm""]",1
+"The specific resistance of a conductor _________ with rise in temperature.","[""increases"",""decreases"",""remains unchanged"",""none of these""]",0
+"The SI unit of conductivity is ________.","[""ohm-m"",""ohm\/m"",""mho-m"",""mho\/m""]",3
+"The SI unit of conductance is _______.","[""mho"",""ohm"",""ohm-m"",""ohm-cm""]",0
+"The resistance of a material 2 m long and 2 m^2 in cross-sectional area is 1.6 x 10^-8 Ω. Its specific resistance will be __________.","[""3.2 x 10^-8 ohm-m"",""6.4 x 10^-8 ohm-m"",""1.6 x 10^-8 ohm-m"",""0.16 x 10^-8 ohm-m""]",2
+"Conductors have ________ temperature coefficient of resistance.","[""positive"",""negative"",""zero"",""none of these""]",0
+"Semiconductors have ________ temperature coefficient of resistance.","[""negative"",""positive"",""zero"",""none of these""]",0
+"The value of α (i.e. temperature coefficient of resistance) depends upon","[""length of the material"",""cross-sectional area of the material"",""volume of the material"",""nature of the material and temperature""]",3
+"The temperature coefficient of resistance of a conductor ________ with rise in temperature.","[""increases"",""decreases"",""remains unchanged"",""none of these""]",1
+"Insulators have _________ temperature coefficient of resistance.","[""zero"",""positive"",""negative"",""none of these""]",2
+"Eureka has _________ temperature coefficient of resistance.","[""positive"",""negative"",""almost zero"",""none of these""]",2
+"The value of α<sub>0</sub> of a conductor is 1/236 per °C. The value of α18 will be _________.","[""1\/218 per \u00b0C"",""1\/272 per \u00b0C"",""1\/254 per \u00b0C"",""none of these""]",2
+"The value of α<sub>50</sub> of a conductor is 1/230 per °C. The value of α<sub>0</sub> will be ________.","[""1\/180 per \u00b0C"",""1\/280 per \u00b0C"",""1\/250 per \u00b0C"",""none of these""]",0
+"A good electric conductor is one that","[""has low conductance"",""is always made of copper wire"",""produces a minimum voltage drop"",""has few free electrons""]",2
+"Two wires A and B have the same cross-section and are made of the same material, RA = 600 Ω and RB = 100 Ω. The number of times A is longer than B is","[""6"",""2"",""4"",""5""]",0
+"A coil has a resistance of 100 Ω at 90°C. At 100°C, its resistance is 101 Ω. The temperature coefficient of wire at 90°C is","[""0.01"",""0.1"",""0.0001"",""0.001""]",3
+"Which of the following material has nearly zero temperature-coefficient of resistance?","[""carbon"",""porcelain"",""copper"",""manganin""]",3
+"Which of the following material has a negative temperature coefficient of resistance?","[""brass"",""copper"",""aluminum"",""carbon""]",3
+"A cylindrical wire 1 m in length, has a resistance of 100. What would be the resistance of a wire made from the same material both the length and the cross-sectional area are doubled?","[""200"",""400"",""100"",""50""]",2
+"Carbon composition resistors are most popular because they","[""cost the least"",""are smaller"",""can withstand overload"",""do not produce electric noise""]",0
+"A unique feature of a wire-wound resistor is its","[""lower power rating"",""low cost"",""high stability"",""small size""]",2
+"A coil has a resistance of 100 ohms at 90°C. At 100°C, its resistance is 101 ohms. What is the temperature coefficient of the wire at 90°C?","[""0.01"",""0.1"",""0.0001"",""0.001""]",3
+"What is the unit for charge (Q)?","[""Farad"",""Joule"",""Siemens"",""Coulomb""]",3
+"Two (2) 115-V incandescent lamps A and B are connected in series across a 230-V source. If lamp A is rated 75 watts and lamp B is rated 50 watts, determine the current drawn by the series connection.","[""0.52 A"",""0.64 A"",""0.48 A"",""0.57 A""]",0
+"Three resistors of 10, 15 and 20 ohms each are connected in parallel. What is the equivalent resistance?","[""45 ohms"",""17.2 ohms"",""0.22 ohm"",""4.62 ohms""]",3
+"Three resistors of 10, 15 and 20 ohms each are connected in parallel. What is the total conductance?","[""0.217 siemens"",""3.41 siemens"",""4.52 siemens"",""0.562 siemens""]",0
+"A 5-ohm resistance is connected in parallel with a 10-ohm resistance. Another set, a 6-ohm and an 8-ohm resistances are also connected in parallel. The two sets are connected in series. What is the equivalent resistance?","[""6.76 ohm"",""9.25 ohm"",""14.4 ohms"",""21.2 ohms""]",0
+"Two resistances of 10 and 15 ohms each respectively are connected in parallel. The two are then connected in series with a 5-ohm resistance. What is the equivalent resistance?","[""11 ohms"",""12 ohms"",""10 ohms"",""9 ohms""]",0
+"A 10-ohm and a 20-ohm resistance are connected in parallel. Another resistance of 5-ohm is connected in series with the two. If the supply voltage is 48 volts, what is the current through the 10-ohm resistor?","[""3.21 A"",""2.74 A"",""4.02 A"",""5.72 A""]",1
+"Two resistances of 10 and 15 ohms, each respectively are connected in parallel. The two are then connected in series with a 5-ohm resistance. It is then connected across a 12-V battery, what are the current and power?","[""1.2 A, 17.28 W"",""0.96 A, 11.52 W"",""1.09 A, 13.1 W"",""1.5 A, 20.25 W""]",2
+"Three resistors 10-Ω, 15-Ω and 20-Ω are connected in series across a 48-V source. What is the voltage across the 15-Ω resistor?","[""20 V"",""16 V"",""24 V"",""12 V""]",1
+"Three resistors 10-Ω, 15-Ω and 20-Ω are connected in parallel. What is the total resistance?","[""3.56 \u03a9"",""4.62 \u03a9"",""0.217 \u03a9"",""45 \u03a9""]",1
+"Two 10-Ω resistances are connected in parallel. The two are then connected in series with a 5-Ω resistance. It is then connected across a 24-volt battery; find the voltage across the 5-Ω resistor.","[""12 volts"",""24 volts"",""9 volts"",""15 volts""]",0
+"A circuit consists of three resistors rated 3-Ω, 4-Ω and 5-Ω connected in parallel. If the circuit is connected to a battery which has an internal resistance of 0.2-Ω, what would be the current through the 4-Ω resistor?","[""2.04 A"",""4.8 A"",""2.4 A"",""3.0 A""]",3
+"How many abvolts in 1 volt?","[""10^8 abvolts"",""10^-8 abvolts"",""1 abvolt"",""10 abvolt""]",0
+"A total current of 60 A is divided among 3 parallel branches having resistances of 10 Ω, 6 Ω and 12 Ω, respectively. What is the current that flows through the branch with 10 Ω resistance?","[""17.1 A"",""28.6 A"",""14.3 A"",""42.9 A""]",0
+"Two 10-ohm parallel resistors are connected in series with a 5-ohm resistor. The combination is then connected across a 24 volts battery. Find the voltage drop across the 5-ohm resistor.","[""6 V"",""18 V"",""12 V"",""20 V""]",2
+"The theory of Ohm’s law is applied in a _________ circuit.","[""linear"",""exponential"",""trivalent"",""unilateral""]",0
+"Refers to the most important components in controlling flow of electrons","[""voltage, electromotive force and current"",""reactance, current and resistance"",""conductance, resistance and reactance"",""voltage, resistance and current""]",3
+"Which of the following is not a valid expression of ohm’s law?","[""E = IR"",""R = PI"",""R = E\/I"",""I = E\/R""]",1
+"A simple electronic equipment which takes a 2 amperes current from a power source has a total load resistance of 100 ohms. How much power does it use?","[""200 watts"",""100 watts"",""400 watts"",""50 watts""]",2
+"What do you expect when you use the two 20 kohms, 1 watt resistor in parallel instead of one 10 kohms, 1 watt?","[""Provide lighter current"",""Provide wider tolerance"",""Provide more power"",""Provide less power""]",2
+"The total resistance of a two similar wire conductors connected in parallel is __________","[""same resistance of one wire"",""double the resistance of one wire"",""one half the resistance of one wire"",""resistance of one wire multiplied by 4""]",2
+"When you increase the resistance in a circuit, the flow of electrons will __________.","[""be constant"",""flow faster"",""be stopped"",""be decreased""]",3
+"Which of the following allows more current if applied to the same voltage?","[""0.002 siemen"",""25 ohms"",""0.004 siemen"",""2.5 ohms""]",3
+"Ohm’s law refers to __________.","[""power is directly proportional to both voltage squared and the resistance"",""power is directly proportional to the resistance and inversely as the current squared"",""current varies directly as the voltage and inversely as the resistance"",""current is directly proportional to both voltage and resistance""]",2
+"A circuit which a break exists in the complete conduction pathway","[""Open circuit"",""Short circuit"",""Close circuit"",""Circuit""]",0
+"How much is the equivalent power in watts can a 3 horse power provide?","[""3000 watts"",""248.66 watts"",""1492 watts"",""2238 watts""]",3
+"The current needed to operate a soldering iron which has a rating of 600 watts at 110 volts is","[""18,200 A"",""0.182 A"",""66,000 A"",""5.455 A""]",3
+"Find the power across the resistor of 5 ohms delivered from a battery of an internal resistance of 3 ohms and a constant emf of 4 volts.","[""120 watts"",""100 watts"",""60 watts"",""1.25 watts""]",3
+"A series circuit in which desired portions of the source voltage may be tapped off for use equipment.","[""Voltage trap"",""Voltage selector"",""Voltage divider"",""Dividing network""]",2
+"An electronic device draws 300 watts from its 24 volt power source. Find effective resistance.","[""1.25 \u03a9"",""1.92 \u03a9"",""19.20 \u03a9"",""12.50 \u03a9""]",1
+"How much power does an electronic equipment consume, assuming a 5.50 amperes current flowing and a 120 volts power source?","[""125.5 watts"",""66 watts"",""660 watts"",""60 watts""]",2
+"What type of circuit whose parameters are constant which do not change with voltage or current?","[""Tuned circuit"",""Linear circuit"",""Reactive circuit"",""Lumped circuit""]",1
+"If three circuits, each with a value of 560 ohms are connected in parallel, what is the total resistance of the combination?","[""1680 ohms"",""560 ohms"",""18567 ohms"",""187 0hms""]",3
+"Other factors remaining constant, what would be the effect on the current flow in a given circuit if the applied potential were doubled?","[""It would double"",""It would increase 4 times"",""It would remain the same"",""It would be decrease by \u00bd""]",0
+"Find used power of a circuit whose power source supplies 20 volts and a load resistance of 200 ohms.","[""1 watt"",""4 kilowatts"",""10 watts"",""2 watts""]",3
+"When resistors are connected in series, what happens?","[""Nothing"",""The tolerance is decreased"",""The effective resistance is decreased"",""The effective resistance is increased""]",3
+"A condition in which the heat in of around the circuit increases beyond or to a higher than normal level.","[""Excessive heat condition"",""Open condition"",""Direct short"",""Grounded""]",0
+"A 33 kilo ohms resistor is connected in a series parallel combination made up of a 56 kilo ohm resistor and a 7.8 kilo ohm resistor. What is the total combined resistance of these three resistors?","[""39067 ohms"",""49069 ohms"",""63769 ohms"",""95800 ohms""]",0
+"If 3,300 ohms resistor and a 22,000 ohms resistor are connected in series, what is the total resistance?","[""18,700 ohms"",""25,300 ohms"",""5,500 ohms"",""2,870 ohms""]",1
+"A device that draws current","[""Source"",""No load"",""Load"",""Shunt""]",2
+"With the same voltage applied which of the following allows more current?","[""25 ohms"",""250 ohms"",""2.5 ohms"",""0.25 ohms""]",3
+"If 12 V are applied to a circuit that consumes 78 W, what is the current flow through the circuits?","[""6.5 A"",""936 A"",""0.15 A"",""9.36 A""]",0
+"Find the current that flows through the filament of a 400 watt flat iron connected to a 220 volt power line.","[""50 mA"",""500 mA"",""5 mA"",""5 A""]",1
+"Four equal resistances are connected in parallel across a certain supply producing P power. How much power will be produced if the resistances are now connected in series across the same supply?","[""16P"",""P\/16"",""4P"",""P\/4""]",1
+"A resistor R is connected across a 120 V supply. A voltmeter of 10,000 ohms resistance is connected between the center of the resistor and one side of the supply and reads 40 V. What is the value of the resistance R?","[""10,000 ohms"",""20,000 ohms"",""30,000 ohms"",""40,000 ohms""]",1
+"A 240 V motor requiring 2,000 W is located 1 km from a power source. What diameter of copper wire is to be used if the power loss is to be kept 5%?","[""0.49 cm"",""0.54 cm"",""0.39 cm"",""0.35 cm""]",1
+"Three resistors of 10, 12 and “x” ohms, respectively are connected in parallel across a constant current source of 8 A. Determine “x” if this resistor draws 2.5 A.","[""10 \u03a9"",""12 \u03a9"",""13 \u03a9"",""11 \u03a9""]",1
+"An arc lamp takes 10 A at 50 volts. A resistance R is to be place in series so that the lamp my burn correctly from a 110 V supply. Find the power wasted in this resistor.","[""800 watts"",""600 watts"",""700 watts"",""900 watts""]",1
+"A 20 Ω and 10 Ω resistors are connected in parallel and a 5 Ω resistor is connected in series with the parallel combination. The circuit is connected across a 48 V source with an internal resistance of 0.2. Calculate the current through the 5 Ω resistor.","[""5.57 amperes"",""4.04 amperes"",""3.58 amperes"",""7.63 amperes""]",1
+"A variable resistor R is connected in parallel with a fixed resistor of 1.25 ohms. The combination is then connected across a 12 V battery with internal resistance of 0.25 Ω. Solve for the maximum power that can delivered to R.","[""130.20 W"",""115.52 W"",""120.21 W"",""142.42 W""]",2
+"Ohm’s law is not applicable to","[""copper"",""silver"",""silicon carbide"",""aluminum""]",2
+"The practical unit of electrical energy is","[""watt"",""kilowatt"",""kilowatt-hour"",""megawatt""]",2
+"A 100 watt lamp working for 20 hours will consume ________ units.","[""200"",""20"",""2"",""5""]",2
+"The hot resistance of an incandescent lamp is about ________ its cold resistance.","[""10 times"",""2 times"",""100 times"",""50 times""]",0
+"A d.c. circuit usually has _________ as the load.","[""resistance"",""inductance"",""capacitance"",""both inductance and capacitance""]",0
+"The purpose of load in an electric circuit is to __________.","[""increase the circuit current"",""utilize electrical energy"",""decrease the circuit current"",""none of the above""]",1
+"Electrical appliances are not connected in series because __________","[""series circuit is complicated"",""appliances have different current rating"",""power loss is more"",""none of the above""]",1
+"Electrical appliances are connected in parallel because it _________","[""is a simple circuit"",""draws less current"",""results in reduce in power loss"",""makes the operation of appliances independent of each other""]",3
+"Inductance and capacitance are not relevant in a d.c. circuit because __________","[""frequency of d.c. is zero"",""it is a simple circuit"",""they do not exist in a d.c. circuit"",""none of the above""]",0
+"The hot resistance of a 100 watt, 250 V incandescent lamp would be","[""2.5 ohms"",""625 ohms"",""25 ohms"",""none of the above""]",1
+"When a number of resistances are connected in parallel, the total resistance is _______","[""less than the smaller resistance"",""greater than the smaller resistance"",""between the smaller and greatest resistance"",""none of the above""]",0
+"Two resistances of 6 ohms and 3 ohms are connected in parallel. The total resistance is ________","[""9 ohms"",""18 ohms"",""0.5 ohm"",""2 ohms""]",3
+"If 18 resistances, each of value 36 ohms, are connected in parallel, then the total resistance is _________","[""2 ohms"",""54 ohms"",""36 ohms"",""none of the above""]",0
+"Two incandescent lamps of 100 W, 200 V are in parallel across 200 V supply. The total resistance will be _______.","[""800 ohms"",""200 ohms"",""400 ohms"",""600 ohms""]",1
+"Two equal resistances are connected in series across a certain supply. If the resistances are now connected in parallel across the same supply, the power produced will be ________ that of series connection.","[""two times"",""four times"",""one-half"",""one-fourth""]",1
+"A 100-W, 110-V and a 50-W lamp are connected in series across a 220-V dc source. If the resistances of the two lamps are assumed to remain constant, the voltage across the 100-W lamp is ________ volt.","[""110"",""73.3"",""146.7"",""220""]",0
+"What do you call a resistor that does not obey Ohm’s Law?","[""Potentiometer"",""Carbon-Film Resistor"",""Wire-Wound Type"",""Non-linear Resistor""]",3
+"A 100 W, 110 V and 50 W, 110 V lamps are connected in series across a 220 V DC source. If the resistances of the two lamps are assumed to remain constant, the voltage across the 100 W lamp is _________ volt?","[""110 V"",""73.3 V"",""146.7 V"",""220 V""]",1
+"A potential divider of resistance of 50 ohms is connected across a 100 V DC source. A load resistance of 10 ohms is connected across a tap in the potential divider and the negative terminal of the source. If a current of 4 A flows towards the load, what is the current supplied by the source?","[""5.32 A"",""5.05 A"",""5.21 A"",""5.48 A""]",1
+"Two resistors A and B made of different materials have temperature coefficients of resistance at 20°C of 0.004 and 0.006 respectively. When connected across a voltage source at 20°C, they draw current equally. What percentage of the total current at 100°C does resistor A carry?","[""47.14%"",""52.86%"",""61.34%"",""38.66%""]",1
+"A conductor has a resistance of 7 ohms at 0C. At 20°C, the resistance has become 7.5 ohms. Calculate the temperature coefficient of the conductor at 20°C.","[""1\/300 \/\u00b0C"",""1\/400 \/\u00b0C"",""1\/500 \/\u00b0C"",""1\/600 \/\u00b0C""]",0
+"Which of the following is a non-linear element?","[""diode"",""heater coil"",""transistor"",""electric arc with unlike electrode""]",0
+"An electric kettle was marked 500 W, 230 V found to take 15 minutes to bring 1 kilogram of water at 15°C to boiling point. Determine the heat efficiency of the kettle.","[""79.1%"",""75.3%"",""72.4%"",""74.8%""]",0
+"A process equipment contains 100 gallons of water at 25°C. It is required to bring it to boiling in 10 minutes. The heat loss is estimated to be 5%. What is the kW rating of the heater?","[""125 kW"",""252 kW"",""50.5 kW"",""207 kW""]",3
+"A total of 0.8 kg of water at 20°C is placed in a 1-kW electric kettle. How long a time in minute is needed to raise the temperature of the water to 100°C?","[""4.46 min"",""5.32 min"",""5.34 min"",""4.56 min""]",0
+"How many calories does an electric heater of 100 watts generate per second?","[""10"",""1000"",""23.88"",""42.25""]",2
+"The electric energy required to raise the temperature of water in a pool is 1000 kWh. If the heat losses are 25%, the heating energy required will be ___________.","[""1111 kWh"",""1266 kWh"",""1750 kWh"",""1333 kWh""]",3
+"An electric heater carries 12 A at 110 V, is submerged in 22.5 lbs of water for 30 minutes. What will be the final temperature of the water if its initial temperature is 35°F?","[""135.43\u00b0F"",""125.42\u00b0F"",""133.56\u00b0F"",""128.33\u00b0F""]",0
+"In an electric heater the inlet temperature is 15°C. Water is flowing at the rate of 300 grams per minute. The voltmeter measuring voltage across the heating element reads 120 volts and an ammeter measuring current taken reads 10 amperes. When steady state is finally reached, what is the final reading of the outlet thermometer?","[""57.6\u00b0C"",""68.4\u00b0C"",""72.6\u00b0C"",""42.6\u00b0C""]",2
+"Four cubic meters of water is to be heated by means of four 1.5 kW, 230-V immersion heating elements. Assuming the efficiency of the heater as 90%, determine the time required in boiling the water if the initial temperature is 20°C and if all four elements are connected in parallel.","[""71 hrs"",""63 hrs"",""69 hrs"",""66 hrs""]",2
+"Four cubic meters of water is to be heated by means of four 1.5 kW, 230-V immersion heating elements. Assuming the efficiency of the heater as 90%, determine the time required in boiling the water if the initial temperature is 20°C and if the elements are connected two in series in parallel with two in series.","[""275.6 hrs"",""295.3 hrs"",""252.2 hrs"",""264.4 hrs""]",0
+"How many joules per second are then in 10 watts?","[""10"",""5"",""20"",""24.5""]",0
+"10^13 ergs/sec is equal to how many kilowatts?","[""1,000"",""250"",""100"",""10""]",0
+"What is 1 kW-hr in BTU?","[""4,186"",""3,413"",""746"",""1,000""]",1
+"What is the work in ergs needed to raise a 10 g weight 100 m up?","[""4.9 x 10^5"",""9.8 x 10^7"",""98 x 10^7"",""1.96 x 10^7""]",1
+"The quantity of heat required to raise the temperature of water by 1°C.","[""energy"",""specific heat"",""calorie"",""BTU""]",2
+"When heat is transferred into any other form of energy or when other forms of energy are converted into heat, the total amount of energy is constant. This is known as","[""First law of thermodynamics"",""Boyle\u2019s law"",""Specific heat"",""Isothermal expansion""]",0
+"What is 10^12 ergs/sec in kW?","[""100 kW"",""1,000 kW"",""10 kW"",""10,000 kW""]",0
+"An electric heater is used to heat up 600 grams of water. It takes 14 minutes to raise the temperature of water by 40°C. If the supply voltage is 220 volts,what is the power rating of the heater neglecting heat losses?","[""180 W"",""120 W"",""200 W"",""60 W""]",1
+"A 100 liter of water is heated from 20°C to 40°C. How many kWHR of electricity is needed assuming no heat loss?","[""4.2"",""2.3"",""5.6"",""3.7""]",1
+"Ten (10) kW is equal to __________ gram-cal/sec.","[""156"",""436"",""2,388"",""425""]",2
+"Two heaters A and B are in parallel across supply voltage V. Heater A produces 500 kcal in 20 minutes and B produces 1000 kcal in 10 minutes. The resistance of A is 10 ohms. What is the resistance of B, if the same heaters are connected in series voltage V?","[""4.5 ohms"",""2.5 ohms"",""4.5 ohms"",""0.14 ohm""]",1
+"In the SI system of units, the unit of force is","[""kg-wt"",""Newton"",""Joule"",""N-m""]",1
+"The basic unit of electric charge is","[""ampere-hour"",""watt-hour"",""coulomb"",""farad""]",2
+"The SI unit of energy is","[""Joule"",""kWh"",""kcal"",""m-kg""]",0
+"Two heating elements, each of 230-V, 3.5 kW rating are first joined in parallel and then in series to heat same amount of water through the same range of temperature. The ratio of the time taken in the two cases would be","[""1:2"",""2:1"",""1:4"",""4:1""]",2
+"If a 220 V heater is used on 110 V supply, heat produced by it will be _________ as much","[""one-half"",""twice"",""one-fourth"",""four times""]",2
+"For a given line voltage, four heating coils will produce maximum heat when connected","[""all in parallel"",""all in series"",""with two parallel pairs in series"",""one pair in parallel with the other two in series""]",0
+"The electric energy required to raise the temperature of a given amount of water is 1000 kWh. If heat losses are 25%, the total heating energy required is ____________ kWh.","[""1500"",""1250"",""1333"",""1000""]",2
+"One kWh of energy equals nearly","[""1000 W"",""860 kcal"",""4186 J"",""735.5 W""]",1
+"A force of 10,000 N accelerates a body to velocity 0.1 km/s. The power developed is __________ kW.","[""1,000,000"",""36,000"",""3600"",""1000""]",3
+"A 100 W light bulb burns on an average of 10 hours a day for one week. The weekly consumption of energy will be ______________ unit/s.","[""7"",""70"",""0.7"",""0.07""]",0
+"Two heaters, rated at 1000 W, 250 volts each, are connected in series across a 250 volt, 50 Hz A.C. mains. The total power drawn from the supply would be __________ watt.","[""1000"",""500"",""250"",""2000""]",1
+"One watt is equal to ___________.","[""4.19 cal\/sec"",""778 BTU\/sec"",""10^7 ergs\/sec"",""10^-7 ergs\/sec""]",2
+"The current in an electric lamp is 5 amperes. What quantity of electricity flows toward the filament in 6 minutes?","[""30 C"",""3600 C"",""72 C"",""1800 C""]",3
+"An electric heater is rated at 120 volts, 1000 watts and is used to boil water. Calculate the time in minutes to raise the temperature of 1 liter of water from 15°C to boiling. The heater has an over-all efficiency of 92%.","[""6.4 minutes"",""5.4 minutes"",""4.4 minutes"",""3.4 minutes""]",0
+"For a given line voltage, four heating coils will produce maximum heat when connected","[""all in parallel"",""all in series"",""with two parallel pairs in series"",""one pair in parallel with the other two in series""]",1
+"1000 kW is equal to how many is ergs/sec.","[""2 x 10^13"",""1 x 10^16"",""1 x 10^13"",""2 x 10^10""]",2
+"When current flows through heater coil, it glows but supply wiring does not glow because","[""supply wiring is covered with insulation wiring"",""current through supply line flows at slower speed"",""supply wires are made of superior material"",""resistance of heater coil is more than that of supply wire""]",3
+"A circuit consisting of three resistors rated: 10 ohms, 15 ohms and 20 ohms are connected in delta. What would be the resistance of the equivalent wye connected load?","[""0.30, 0.23 &amp; 0.15 ohm"",""3.0, 4.0 &amp; 5.0 ohms"",""3.33, 4.44 &amp; 6.66 ohms"",""5.77, 8.66 &amp; 11.55 ohms""]",2
+"The equivalent wye element of a 3 equal resistors each equal to R and connected in delta is","[""R"",""3R\/2"",""R\/3"",""3R""]",2
+"A Barangay power station supplies 60 kW to a load over 2,500 ft, 100 mm^2, two-conductor copper feeder, the resistance of which is 0.078 ohm per 1000 ft. The bus bar voltage is maintained constant at 600 V. Determine the load current.","[""105 A"",""108 A"",""110 A"",""102 A""]",1
+"An LRT car, 5 km distance from the Tayuman station, takes 100 A over a 100 mm hard drawn copper trolley wire having a resistance of 0.270 ohm per km. The rail and ground return has a resistance of 0.06 ohm per km. If the station voltage is 750 V, what is the voltage of the car?","[""585 V"",""590 V"",""595 V"",""580 V""]",0
+"The LRT trolley system 10 miles long is fed by two substations that generate 600 volts and 560 volts, respectively. The resistance of the trolley wire and rail return is 0.3 ohm per mile. If the car is located 4 miles from the 600 volt station draws 200 A from the line. How much is the current supplied by each station?","[""133.33 A, 66.67 A"",""123.67 A, 76.33 A"",""117.44 A, 82.56 A"",""125.54 A, 63.05 A""]",0
+"In Manila, the LRT runs between Gil Puyat Station and Tayuman Station, which is 4 km apart and maintains voltages of 420 volts and 410 volts respectively. The resistance of go and return is 0.05 ohm per km. The train draws a constant current of 300 A while in motion. What are the currents supplied by the two stations if the train is at the distance of minimum potential?","[""175 A, 125 A"",""183 A, 117 A"",""164 A, 136 A"",""172 A, 123 A""]",0
+"An LRT car, 5 km distance from the Tayuman station, takes 100 A over a 100 mm hard drawn copper trolley wire having a resistance of 0.270 ohm per km. The rail and ground return has a resistance of 0.06 ohm per km. If the station voltage is 750 V, what is the efficiency of transmission?","[""78%"",""81%"",""74%"",""79%""]",0
+"A barangay power station supplies 60 kW to a load over 2,500 ft of 0002-conductor copper feeder the resistance of which is 0.078 ohm per 1,000 ft. The bus bar voltage is maintained constant at 600 volts. Determine the maximum power which can be transmitted.","[""220.35 kW"",""230.77 kW"",""242.73 kW"",""223.94 kW""]",1
+"Twelve similar wires each of resistance 2 ohms are connected so as to form a cube. Find the resistance between the two diagonally opposite corners.","[""1.45 ohms"",""1.66 ohms"",""2.01 ohms"",""1.28 ohms""]",1
+"Twelve similar wires each of resistance 2 ohms are connected so as to form a cube. Find the resistance between the two corners of the same edge.","[""1.133 ohms"",""1.102 ohms"",""1.125 ohms"",""1.167 ohms""]",3
+"Twelve identical wires each of resistance 6 ohms are arranged to form the edge of a cube. A current of 40 mA is led into the cube at one corner and out at the other diagonally opposite corners. Calculate the potential difference developed between these corners.","[""0.20 V"",""0.28 V"",""0.22 V"",""0.24 V""]",0
+"In Kirchhoff’s current law, which terminal of a resistance element is assumed to be at a higher potential (more positive) than the other?","[""The terminal where the current exits the resistance elements"",""The terminal where the current enters the resistance elements"",""Either A or B can be arbitrarily selected"",""The terminal closest to the node being analyzed""]",1
+"According to Kichhoff’s current law, what is the algebraic sum of all currents entering and exiting a node.","[""zero"",""a negative value"",""the algebraic sum of all currents"",""a positive value""]",0
+"Find the Thevenin’s impedance equivalent across R2 of a linear close circuit having 10 volts supply in series with the resistors (R1 = 100 ohms and R2 = 200 ohms).","[""6.66 ohms"",""6.666 kohms"",""66.6 ohms"",""666 ohms""]",2
+"What is a node?","[""A terminal point for a loop current"",""A connection point between two or more conductors"",""A formula"",""A mathematical fiction""]",1
+"If a resistance element is part of two loops, how many voltage drops must be calculated for that component?","[""Two"",""Three"",""One"",""None""]",0
+"How many nodes are needed to completely analyze a circuit according to Kirchhoff’s current law?","[""One"",""Two"",""One less than the total number of nodes in the circuit"",""All nodes in the circuit""]",3
+"Find the Thevenin’s impedance equivalent across R2 of a linear close circuit having 10 volt supply in series with two resistors (R1=50 ohms and R2 = 200 ohms).","[""400 ohms"",""40 ohms"",""4 ohms"",""4 kohms""]",1
+"In order to match the load to the generator means making load resistance __________.","[""lower than generator\u2019s internal resistance"",""increased to more generator\u2019s internal resistance"",""decreased"",""equal to generator\u2019s internal resistance""]",3
+"A circuit contains a 5 A current source in parallel with an 8 ohm resistor. What is the Thevenin’s voltage and Thevenin’s resistance of the circuit?","[""40 V, 8 ohms"",""5\/8 V, 40 ohms"",""5 V, 8 ohms"",""5\/8 V, 8 ohms""]",0
+"In the Norton’s equivalent circuit, the source is a","[""constant voltage source"",""constant current source"",""constant voltage, constant current"",""none of these""]",1
+"The superposition theorem requires as many circuits to be solved as there are","[""meshes"",""source"",""nodes"",""all of these""]",1
+"Three resistors of 6-ohm resistance are connected in delta. Inside the delta another 6-ohm resistors are connected in wye. Find its resistance between any two corners.","[""2 ohms"",""3 ohms"",""4 ohms"",""1 ohm""]",2
+"A 2-wire dc distribution line has sending end voltage of 240 V and total line resistance of 0.4 ohm. The maximum kW that can be transmitted by the line is ________.","[""108"",""72"",""36"",""144""]",2
+"An active element in a circuit is one which _________.","[""receives energy"",""supplies energy"",""both receives and supplies energy"",""none of these""]",1
+"An passive element in a circuit is one which __________.","[""supplies energy"",""receives energy"",""both receives and supplies energy"",""none of these""]",1
+"An electric circuit contains __________.","[""active elements only"",""passive element only"",""both active and passive elements"",""none of these""]",2
+"A linear circuit is one whose parameters (e.g. resistances etc.) ___________.","[""change with change in current"",""change with change in voltage"",""do not change with change in voltage and current"",""none of these""]",2
+"The superposition theorem is used when the circuit contains","[""a single voltage source"",""a number of passive source"",""passive elements only"",""none of these""]",1
+"Thevenin’s theorem is _________ form on an equivalent circuit.","[""voltage"",""current"",""both voltage and current"",""none of the above""]",0
+"Norton’s theorem is ________ Thevenin’s theorem.","[""A the same as."",""converse of"",""equal to"",""none of the above""]",1
+"In the analysis of a vacuum tube circuit, we generally use _________.","[""superposition"",""Norton\u2019s"",""Thevenin\u2019s"",""reciprocity""]",2
+"Norton’s theorem is __________ form of an equivalent circuit","[""voltage"",""current"",""both voltage and current"",""none of the above""]",1
+"In the analysis of a transistor circuit, we generally use _________.","[""Norton\u2019s"",""Thevenin\u2019s"",""reciprocity"",""superposition""]",0
+"For maximum power transfer, the relation between load resistance RL and internal resistance Ri of the voltage source is _________.","[""RL = 2Ri"",""RL = 0.5Ri"",""RL = 1.5Ri"",""RL = Ri""]",3
+"Under the conditions of maximum power transfer, the efficiency is _________.","[""75%"",""100%"",""50%"",""25%""]",2
+"The open-circuited voltage at terminals of load RL is 30 V Under the conditions of maximum power transfer, the load voltage would be _________.","[""30 V"",""10 V"",""5 V"",""15 V""]",3
+"The maximum power transfer theorem is used in _________.","[""electronic circuits"",""power system"",""home lighting circuits"",""none of these""]",0
+"Under the conditions of maximum power transfer, a voltage source is delivering a power of 30 W to the load. The power generated by the source is __________.","[""45 W"",""30 W"",""60 W"",""90 W""]",2
+"The output resistance of a voltage source is 4 Ω. Its internal resistance will be ________.","[""4 \u03a9"",""2 \u03a9"",""1 \u03a9"",""infinite""]",0
+"Delta/star of star/delta transformation technique is applied to _________.","[""one terminal"",""two terminal"",""three terminal"",""none of the above""]",2
+"Kirchhoff’s current law is applicable to only","[""closed loops in a network"",""electronic circuits"",""conjunctions in a network"",""electric circuits""]",2
+"Kirchhoff’s voltage law is concerned with","[""IR drops"",""battery e.m.f.s."",""junction voltages"",""both A and B""]",3
+"According to KVL, the algebraic sum of all IR drops and e.m.f.s in any closed loop of a network is always","[""zero"",""positive"",""negative"",""determined by the battery e.m.f.s""]",0
+"The algebraic sign of an IR drop is primarily dependent upon the","[""amount of current flowing through it"",""value of R"",""direction of current flow"",""battery connection""]",2
+"Maxwell’s loop current method of solving electrical networks","[""uses branch currents"",""utilizes Kirchhoff\u2019s voltage law"",""is confined to single-loop circuits"",""is a network reduction method""]",1
+"Point out the WRONG statement. In the node-voltage technique of solving networks, choice of a reference node does not","[""affect the operation of the circuit"",""change the voltage across any element"",""alter the p.d. between any pair of nodes"",""affect the voltages of various nodes""]",3
+"The nodal analysis is primarily based on the application of","[""KVL"",""KCL"",""Ohm\u2019s Law"",""both B and C""]",3
+"Superposition theorem is can be applied only to circuits having _________ elements.","[""non-linear"",""passive"",""linear bilateral"",""resistive""]",2
+"The Superposition theorem is essentially based on the concept of","[""duality"",""linearity"",""reciprocity"",""non-linearity""]",2
+"While Thevenizing a circuit between two terminals, Vth equals","[""short-circuit terminal voltage"",""open circuit terminal voltage"",""EMF of the battery nearest to the terminal"",""net voltage available in the circuit""]",1
+"Thevenin resistance Rth is found","[""between any two \u201copen\u201d terminals"",""by short-circuiting the given two terminals"",""by removing voltage sources along with their internal resistance"",""between same open terminals as for Vth""]",3
+"While calculating Rth, constant -current sources in the circuit are","[""replaced by \u201copens\u201d"",""replaced by \u201cshorts\u201d"",""treated in parallel with other voltage sources"",""converted into equivalent voltage sources""]",0
+"Thevenin resistance of the circuit of Fig. 18.5 across its terminals A and B is ______ ohm.","[""6 ohms"",""3 ohms"",""9 ohms"",""2 ohms""]",0
+"The load resistance needed to extract maximum power from the circuit of Fig. 18.6 is _______ ohm.","[""2 ohms"",""9 ohms"",""6 ohms"",""18 ohms""]",2
+"The Norton equivalent circuit for the network of Fig. 18.6 between A and B is ______ current source with parallel resistance of ______.","[""2 A, 6 \u03a9"",""3 A, 2 \u03a9"",""2 A, 3 \u03a9"",""3 A, 9 \u03a9""]",1
+"The Norton equivalent of a circuit consists of a 2 A current source in parallel with a 4 Ω resistor. Thevenin equivalent of this circuit is a ____ volt source in series with a 4 Ω resistor.","[""2 ohms"",""0.5 ohms"",""6 ohms"",""8 ohms""]",3
+"If two identical 3 A, 4 Ω Norton equivalent circuits are connected in parallel with like polarity to like, the combined Norton equivalent circuit is","[""6 A, 4 \u03a9"",""6 A, 2 \u03a9"",""3 A, 2 \u03a9"",""6 A, 8 \u03a9""]",3
+"Two 6 V, 2 Ω batteries are connected in series aiding. This combination can be replaced by a single equivalent current generator of ______ with a parallel resistance of ______ ohm.","[""3 A, 4 \u03a9"",""3 A, 2 \u03a9"",""3 A, 1 \u03a9"",""5 A, 2 \u03a9""]",1
+"Two identical 3 A, 1 Ω batteries are connected in parallel with like polarity with like polarity to like. The Norton equivalent circuit of the combination is","[""3 A, 0.5 \u03a9"",""6 A, 1 \u03a9"",""3 A, 1 \u03a9"",""6 A, 0.5 \u03a9""]",3
+"Thevenin equivalent circuit of the network shown in Fig. 18.7 is required. The value of the open-circuit voltage across terminals A and B of this circuit is ________ volt.","[""zero"",""2i\/10"",""2i\/5"",""2i""]",0
+"For a linear network containing generators and impedance, the ratio of the voltage to the current produced in other loop is the same as the ratio of voltage and current obtained when the positions of the voltage source and the ammeter measuring the current are interchanged. This network theorem is known as _________ theorem.","[""Millman\u2019s"",""Norton\u2019s"",""Tellegen\u2019s"",""Reciprocity""]",3
+"A 12 volt source with an internal resistance of 1.2 ohms is connected across a wire-wound resistor. Maximum power will be dissipated in the resistor when its resistance is equal to","[""zero"",""1.2 ohm"",""12 ohms"",""infinity""]",1
+"Three 3.33 Ω resistors are connected in wye. What is the value of the equivalent resistors connected in delta?","[""3.33 \u03a9"",""10 \u03a9"",""6.67 \u03a9"",""20 \u03a9""]",1
+"Find the equivalent resistance between terminals a and b of the circuit shown. Each resistance has a value of 1 ohm.","[""5\/6 ohms"",""5\/11 ohms"",""5\/14 ohms"",""5\/21 ohms""]",1
+"What do you call the head to tail connection of two or more op-amp circuits wherein the output of one op-amp is the input of another op-amp?","[""Parallel Op-Amps"",""Follow-Thru Connection"",""Cascade Connection"",""Series Op-Amps""]",2
+"Find the power dissipation in the 6 ohms resistor in the next figure.","[""54 W"",""216 W"",""121.5 W"",""150 W""]",1
+"Points to be considered in choosing a capacitor","[""Working voltage"",""Type of dielectric"",""Capacitance"",""All of these""]",3
+"Permeability is otherwise known as","[""Magnetic conductivity"",""Magnetic susceptibility"",""Electric conductivity"",""Electric susceptibility""]",0
+"The impedance in the study of electronics is represented by resistance and","[""Inductance"",""Capacitance"",""Inductance and capacitance"",""Reactance""]",3
+"Loop currents should be assumed to flow in which direction","[""Straight"",""Clockwise"",""Counter-clockwise"",""Either B or C arbitrarily selected""]",3
+"What determines the direction of induced emf in a conductor or coil?","[""Cork screw rule"",""Fleming\u2019s left hand rule"",""Ampere\u2019s circuital law"",""Fleming\u2019s right hand rule""]",3
+"The reason why electrical appliances are connected in parallel.","[""It is a simple circuit"",""This makes the operation of appliances independent with each other"",""This results in reduced power consumption"",""All of the above""]",1
+"Which of the following does not affect resistance?","[""Resistivity"",""Cross-sectional area"",""Mass"",""Length""]",2
+"Which of the following is not considered a physical factor affecting resistance?","[""Length"",""Material type"",""Temperature"",""Cross-sectional""]",2
+"A 0.09 microfarad capacitor is charged to 220 volts. How long in milliseconds will it discharged resistor has a resistance of 20,000 ohms?","[""1.5"",""2.5"",""1.25"",""0.5""]",2
+"A trigger circuit consisting of a capacitor of 0.01 μF is connected in series with a resistor. If the circuit requires 100 Vdc to operate, determine the value of the resistor when time constant is 0.009s.","[""900 \u03a9"",""900 k\u03a9"",""900 M\u03a9"",""900 G\u03a9""]",1
+"The graph between an alternating quantity and time is called","[""Sine wave"",""Curve"",""Waveform"",""A plot""]",2
+"Which of the following is the most popular waveform?","[""Sinusoidal"",""Square wave"",""Triangular"",""Sawtooth""]",0
+"Which of the following does not refer to electrical energy?","[""Volt-ampere"",""Joule"",""Watt-second"",""Volt-coulomb""]",0
+"What is the resonant frequency of a circuit when L of 25 microhenrys and C of 10 picofarads are in parallel?","[""10.1 kHz"",""10.1 MHz"",""101 MHz"",""101 kHz""]",1
+"And ideal current source has an internal conductance of _________ siemen(s)","[""Infinite"",""One"",""Zero"",""One million""]",2
+"A capacitance of 6 µµF means","[""6 pF"",""6 nF"",""6 fF"",""6 \u03bcF""]",0
+"The voltage cannot be exactly in phase with the current in a circuit that contains","[""Only capacitance"",""Only resistance"",""Inductance and capacitance"",""Inductance, capacitance and resistance""]",0
+"The charge in the capacitor is stored at the","[""Terminals"",""Plates"",""Dielectric"",""Air""]",1
+"The reactance curve is a plot of frequency versus ___________ for a series RLC circuit","[""Current"",""Voltage"",""Gain"",""Impedance""]",0
+"For a series circuit, the higher the quality factor","[""The greater the bandwidth"",""The narrower the passband"",""The broader the resonance curve"",""The wider the passband""]",1
+"“Any resistance R in a branch of a network in which a current I is flowing can be replaced by a voltage equal to IR”. This states","[""Compensation theorem"",""Reciprocity theorem"",""Millman\u2019s theorem"",""Superposition theorem""]",0
+"The internal resistance of an ideal current source is","[""Infinite"",""Zero"",""Equal to the load resistance"",""To be determined""]",0
+"If three 100-pF capacitors are connected in series, then the total capacitance is","[""300 pF"",""100 pF"",""50 pF"",""33.3 pF""]",3
+"An inductance of 1 mH is","[""0.001 H"",""0.01 H"",""0.0001 H"",""0.10 H""]",0
+"A capacitor is basically constructed of","[""Two conductors separated by a dielectric"",""Two dielectric separated by a conductor"",""Conductors and dielectric"",""Conductors and semiconductors""]",0
+"In an inductive coil, the rate of rise of current is maximum","[""Near the final maximum value of current"",""At mid-value of current"",""At half-power points"",""After one time constant""]",0
+"Two complex numbers or phasors are said to be conjugate if they","[""Differ only in the algebraic sign of their quadratic components"",""Differ only in the algebraic sign of their real components"",""Are equal in their real and quadrature components including algebraic signs"",""Are equal in their real components but differ in their quadrature components including algebraic signs.""]",0
+"In an ac circuit with a resistive branch and an inductive branch in parallel, the","[""Voltage across the inductance leads the voltage across the resistance by 90\u00b0"",""Resistive branch current is 90\u00b0 out of phase with the inductive branch current"",""Resistive and inductive branch currents have the same phase"",""Resistive and inductive branch currents are 180\u00b0 out-of-phase""]",1
+"In an ac circuit with XL and R in series, the","[""Voltages across R and XL are in phase"",""Voltage across R lags the voltage across XL by 90\u00b0"",""Voltages across R and XL are 180\u00b0 out-of-phase"",""Voltage across R leads the voltage across XL by 90\u00b0""]",1
+"Leakage resistance in a capacitor results into","[""Internal heating"",""Internal bleeding"",""Shorter useful life"",""Short-circuiting""]",0
+"Voltage resonance means","[""Series resonance"",""Parallel resonance"",""Current magnification"",""Gain magnification""]",0
+"The unit of elastance is","[""Farad"",""Daraf"",""Siemen"",""Henry""]",1
+"The farad is not equivalent to which of the following combination of units","[""CV\u00ad^2"",""C^2\/J"",""C\/V"",""J\/V^2""]",0
+"Which component opposes voltage change?","[""Resistor"",""Inductor"",""Capacitor"",""Transistor""]",2
+"What is the peak factor for alternating current or voltage varying sinusoidally?","[""1.4142"",""0.707"",""0.636"",""1.11""]",0
+"Which of the following is not a factor affecting dielectric strength?","[""Mass"",""Moisture content"",""Temperature"",""Thickness""]",0
+"The superposition theorem is used when the circuit contains","[""Reactive elements"",""Active elements"",""Number of voltage sources"",""Single voltage source""]",2
+"What refers to such work at very low temperatures, near absolute zero?","[""Cryogenics"",""Superconductivity"",""Subsonic"",""Thermionic""]",0
+"A factor that states how much the resistance changes for a change in temperature?","[""Resistivity"",""Specific resistance"",""Coefficient of temperature change"",""Temperature coefficient of resistance""]",3
+"An alloy composed of 84 % copper, 12 % manganese and 4 % nickel.","[""Manganin"",""Constantan"",""Nichrome"",""German silver wire""]",0
+"A law which states that when a constant electromotive force is applied to a circuit consisting of a resistor and capacitor connected in series, the time taken for the potential on the plates of the capacitor to rise to any given fraction of its final value depends only on the product of capacitance and resistance.","[""Child\u2019s law"",""CR law"",""Coulomb\u2019s law"",""Debye T3 law""]",1
+"At parallel resonance, the currents flowing through L and C are","[""Infinite"",""Zero"",""Unequal"",""Equal""]",3
+"In a rectangular wave, the peak factor is","[""1.16"",""1.73"",""1.11"",""1.0""]",3
+"In an RL series circuit,","[""Current lags voltage by less than 90\u02da"",""Current lags voltage by 180\u02da"",""Current lags voltage by 90\u02da"",""Current leads voltage by 90\u02da""]",0
+"In a pure capacitance,","[""Current leads voltage by 90\u02da"",""Current leads voltage by 180\u02da"",""Current lags voltage by 90\u02da"",""Current lags voltage by 180\u02da""]",0
+"The ohmic value of a resistor with negative temperature coefficient","[""Increases with increasing temperature"",""Increase with decreasing temperature"",""Stays unchanged with temperature change"",""Stays unaffected even with increasing temperature""]",1
+"Which of the statements below is not true?","[""Current source is an active element"",""Resistor is a linear element"",""Voltage source is a passive element"",""Diode is a non-linear element""]",2
+"Which of the following elements is active?","[""Resistor"",""Inductor"",""Capacitor"",""Ideal voltage source""]",3
+"What is the complex impedance of a circuit with an absolute resistance of 300 Ω?","[""0 + j 300 \u03a9"",""300 + j 90 \u03a9"",""0 \u2013 j 300 \u03a9"",""300 + j 0 \u03a9""]",3
+"The Q-factor of a parallel resonant circuit is also known as","[""Current magnification factor"",""Voltage magnification factor"",""Load factor"",""Leakage factor""]",0
+"The Q-factor of a series resonant circuit is also known as","[""Current magnification factor"",""Voltage magnification factor"",""Load factor"",""Leakage factor""]",1
+"What is the form factor of a triangular wave?","[""1.16"",""1.11"",""1.73"",""1.41""]",0
+"In a rectangular wave, the form factor is","[""1.11"",""1.16"",""1.0"",""1.73""]",2
+"Which of the following dielectric materials makes the highest-capacitance capacitor?","[""Air"",""Barium-strontium titanite"",""Mica"",""Electrolyte""]",1
+"In a circuit, an active element is one which","[""Supplies energy"",""Receives energy"",""Both supplies and receives energy"",""Amplifies signal""]",0
+"An electric circuit contains","[""Passive elements"",""Active elements"",""Both active and passive elements"",""Reactive elements""]",2
+"What is the hot resistance of a 100 W, 220 V incandescent lamp?","[""2.2 \u03a9"",""22 \u03a9"",""484 \u03a9"",""4.84 \u03a9""]",2
+"Which statement is true about a passive circuit?","[""A circuit with neither a source of current nor a source of potential difference"",""A circuit with a voltage source"",""A circuit with a current source"",""A circuit with only resistance as a load""]",0
+"What is a closed path made of several branches of the network called?","[""Junction"",""Node"",""Terminal"",""Loop""]",3
+"The internal resistance of an ideal voltage source is","[""Infinite"",""Equal to the load resistance"",""Zero"",""To be determined""]",2
+"What is the conductance of a circuit having three 10 Ω resistors in parallel?","[""0.3 S"",""3.33 S"",""0.33 S"",""30 S""]",0
+"Electric energy refers to","[""Volt divided by coulomb"",""Volt-ampere"",""Volt-coulomb"",""Watt divided by time""]",2
+"A capacitor requires 12 μC of charge to raise its potential of 3 V. What is the capacitance of the capacitor?","[""36 \u03bcF"",""15 \u03bcF"",""0.25 \u03bcF"",""4 \u03bcF""]",3
+"A capacitor opposes change in","[""Voltage"",""Current"",""Voltage and current"",""Neither voltage nor current""]",0
+"What is the total resistance of a two equal valued resistors in series?","[""The difference of both"",""The product of both"",""Twice as one"",""The sum of their reciprocals""]",2
+"The ratio of maximum value to the effective value of an alternating quantity is called","[""Form factor"",""Peak factor"",""Dynamic factor"",""Leakage factor""]",1
+"For series capacitors, total charge is","[""The sum of individual charges"",""Equal to the charge of either capacitors"",""Equal to the product of the charges"",""The quotient of the charges""]",1
+"Series resonant circuit is sometimes known as","[""Rejector circuit"",""Acceptor circuit"",""Inductive circuit"",""Capacitive circuit""]",1
+"Parallel resonant circuit is sometimes called as","[""Acceptor circuit"",""Rejector circuit"",""Inductive circuit"",""Capacitive circuit""]",1
+"When two pure sine waves of the same frequency and the same amplitude which are exactly 180˚ out-of-phase are added together, the result is","[""A wave with twice the amplitude"",""A wave with half the amplitude"",""Zero signal"",""A wave with twice the frequency""]",2
+"According to Gauss theorem, flux can be equated to","[""Charge"",""Field intensity"",""Current"",""Voltage""]",0
+"An open resistor when checked with an ohmmeter reads","[""Zero"",""Infinite"",""High but within the tolerance"",""Low but not zero""]",1
+"Norton’s theorem is _________ Thevenin’s theorem.","[""The same as"",""The converse of"",""Older that"",""More accurate than""]",1
+"In a complex resistance-reactance plane, XL is represented","[""By an axis opposite the R axis"",""By an axis perpendicular to the XC axis"",""By an axis opposite the XC axis"",""By an axis parallel to the R axis""]",2
+"When the net reactance in a series coil-capacitor circuit is zero at frequency f, the nature of its reactance of frequency 2f is","[""Inductive"",""Capacitive"",""Resistive"",""Infinite""]",0
+"Which of the following is a way of decreasing mutual inductance?","[""Moving the coils closer"",""Moving the coils apart"",""Decreasing the number of turns of either coil"",""Increasing the number of turns of either coil""]",1
+"The charging of a capacitor through a resistance obeys","[""Exponential law"",""Logarithmic law"",""Linear law"",""Square law""]",0
+"The Q-factor of a parallel resonant circuit is also known as","[""Voltage magnification factor"",""Current magnification factor"",""Gain magnification factor"",""Resonance magnification factor""]",1
+"What is the specific resistance of a pure silicon?","[""55 \u03a9-mm"",""55 \u03a9-m"",""55 \u03a9-cm"",""55 k\u03a9-m""]",2
+"A capacitance of 0.05 μF equals","[""0.05 x 10^6 F"",""0.05 x 10^-6 F"",""0.05 x 10^-12 F"",""0.05 x 10^12 F""]",1
+"A 5 μF capacitor charge to 5V has a stored charge equal to","[""1 \u03bcc"",""5 \u03bcc"",""25 \u03bcC"",""200 \u03bcc""]",2
+"The factor 0.707 for converting peak to rms applies only to","[""Square waves"",""Triangle waves"",""Sawtooth waves"",""Sine waves""]",3
+"When two in-phase sine waves that have identical frequency and amplitude are added together, then the result is a sine wave with __________ the amplitude of either.","[""Half"",""Twice"",""Four times"",""One-fourth""]",1
+"Liquids that are good conductors because of ionization are called","[""Electrolytic"",""Bases"",""Acid"",""Electrolytes""]",3
+"Tungsten filament of bulbs has a hot resistance higher than its cold resistance due to its temperature coefficient which is","[""Positive"",""Negative"",""Zero"",""Infinite""]",0
+"A term used to express the amount of electrical energy stored in electrostatic field.","[""Joules"",""Coulombs"",""Watts"",""Electron-volt""]",0
+"With double the number of turns by the same length and area, the inductance is","[""The same"",""Doubled"",""Quartered"",""Quadrupled""]",3
+"The temperature coefficient of resistance of electrolytes is","[""Negative"",""Positive"",""Zero"",""Infinite""]",0
+"What refers to the lowest voltage across any insulator that can cause current flow?","[""Conduction voltage"",""Critical voltage"",""Breakdown voltage"",""Voltage capacity""]",2
+"Capacitance increase with","[""Larger plate area and less distance between plates"",""Larger plate area and greater distance between plates"",""Smaller plate area and less distance between plates"",""Higher values of applied voltage""]",0
+"What is the resonant frequency of a circuit when L of 3 microhenrys and C of 40 picofarads are in series?","[""14.5 kHz"",""145 MHz"",""14.5 MHz"",""145 kHz""]",2
+"For a triangular and sawtooth waveform the rms voltage or current equals","[""0.707 times peak value"",""0.577 times peak value"",""0.577 times average value"",""0.707 times rms value""]",1
+"If two resistances of 9 Ω and 6 Ω are connected in parallel, the total resistance is","[""54 \u03a9"",""0.3 \u03a9"",""15 \u03a9"",""3.6 \u03a9""]",3
+"Refers specifically to steady state values of quantities in ac circuits which are complex numbers.","[""Domain"",""Scalar quantity"",""Vector quantity"",""Phasor quantity""]",3
+"A capacitor is used to","[""Block dc current"",""Pass dc current"",""Open voltage source"",""Short the voltage source""]",0
+"The usual load of a dc circuit is a/an","[""Resistor"",""Capacitor"",""Inductor"",""Both inductor and capacitor""]",0
+"The second strip of an electronic resistor color-code represents","[""The multiplier"",""The second digit of the value"",""The temperature"",""The tolerance""]",1
+"Which of the following is a preferred resistor value?","[""520"",""47"",""43,000"",""54,321""]",1
+"A three-by-three, series-parallel matrix of resistors, all having the same ohmic value, would have a net resistance of","[""One-third the value of a single resistor"",""Three times the value of a single resistor"",""The same value as a single resistor"",""Nine times the value of a single resistor""]",2
+"In an ac wave, 30 degrees of phase is _________ of a cycle.","[""\u00bd"",""1\/12"",""1\/3"",""1\/30""]",1
+"What is the value of a carbon composition resistor with the following color code: Brown, white, orange, red","[""190 \u03a9; 10%"",""19 k\u03a9; 2%"",""19 k\u03a9; 20%"",""1.9 k\u03a9; 2%""]",1
+"The electric field strength between capacitor plates has a unit of","[""Volts per meter"",""Volts per mil"",""Amperes per meter"",""Amperes per mil""]",0
+"For multi-plate capacitor, capacitance is proportional to","[""Number of plates less one (n \u2013 1)"",""Number of plates plus one (n + 1)"",""Number of plates less two (n \u2013 2)"",""Number of plates (n)""]",0
+"A capacitor consists of two","[""Conductors only"",""Dielectric only"",""Conductors separated by a dielectric"",""Dielectric separated by a conductor""]",2
+"How many coulombs are delivered by a storage battery in 25 hours if it is supplying current at the rate of 3 A?","[""2.592 x 10^5 C"",""2.592 x 10^3 C"",""2.592 x 10^8 C"",""2.592 x 10^12 C""]",0
+"When frequency of an ac wave decreases, the value of XL in a coil","[""Approaches zero"",""Gets larger positively"",""Gets larger negatively"",""Stays constant""]",0
+"The temperature-resistance coefficient of pure gold is","[""0.0034"",""0.0037"",""0.0038"",""0.0039""]",0
+"The capacitor opposes any change in voltage across it by","[""Passing a voltage proportional to the rate of change of current"",""Acting as a short circuit at time equal to zero"",""Passing a current proportional to the rate of change of voltage"",""Acting as a short circuit at time equal to infinity""]",2
+"What is the most common non-sinusoidal waveform?","[""Square wave"",""Triangular wave"",""Trapezoidal wave"",""Sawtooth wave""]",0
+"Which of the following capacitors is suitable for dc filter circuits?","[""Mica"",""Ceramic"",""Paper"",""Electrolytic""]",3
+"A series RL circuit has R of 10 Ω and XL of 5 Ω, its impedance in rectangular form is given by","[""10 + j5 \u03a9"",""10 + j10 \u03a9"",""10 \u2013 j5 \u03a9"",""10 \u2013 j10 \u03a9""]",0
+"What is the reciprocal of capacitance?","[""Reluctance"",""Susceptance"",""Elastance"",""Conductance""]",2
+"If the output resistance of a voltage source is 4 Ω, it internal resistance should be","[""4 \u03a9"",""8 \u03a9"",""2 \u03a9"",""Infinite""]",0
+"The curve between current and frequency is termed as","[""Voltage curve"",""Gain curve"",""Power curve"",""Resonance curve""]",3
+"What is the total effective capacitance of two 0.25 μF capacitors connected in series?","[""0.125 \u03bcF"",""1.25 \u03bcF"",""0.50 \u03bcF"",""2.5 if""]",0
+"What can be used to estimate resonant frequency and to find reactance at any frequency for any value of capacitor or inductor?","[""Smith chart"",""Reactance chart"",""Impedance chart"",""Resonance chart""]",1
+"For a parallel AC circuit, ___________ is used as a reference phasor.","[""Voltage"",""Power"",""Current"",""Resistance""]",0
+"For a series AC circuit, _________ is not used as a reference phasor.","[""Voltage"",""Impedance"",""Current"",""Conductance""]",0
+"If a certain circuit has a current that is lagging the voltage by 45˚, then it displays","[""Pure inductive reactance"",""Resistance and capacitance reactance"",""Resistance and inductive reactance"",""Pure capacitive reactance""]",2
+"What maximum voltage can be applied across the capacitor for very short period of time?","[""Working voltage"",""Surge voltage"",""Stray voltage"",""Peak voltage""]",1
+"What is expected when two 20 kΩ, 1 watt resistor in parallel are use instead of one 10 kΩ, 1 watt?","[""Provides higher current"",""Provides less power"",""Provides more power"",""Provides wider tolerance""]",2
+"Which of the following materials has the lowest dielectric strength?","[""Glass"",""Paper"",""Mica"",""Teflon""]",1
+"The ratio between the active power and the apparent power of a load in an ac circuit is called","[""Quality factor"",""Power factor"",""Power ratio"",""Power reactive""]",1
+"When the power factor of a circuit is zero,","[""Power absorbed is maximum"",""Power absorbed is minimum"",""Power absorbed is zero"",""The impedance is minimum""]",2
+"How many degrees of phase represents one full cycle?","[""360"",""180"",""270"",""90""]",2
+"Which of the following does not generally affect the value of a capacitor?","[""The dielectric material used"",""The surface area of the plates"",""The thickness of the dielectric"",""The voltage applied to the plate""]",3
+"What is the purpose of a load in an electric circuit?","[""To increase the circuit current"",""To decrease the circuit current"",""To utilize electrical energy"",""To make the circuit complete""]",2
+"The power factor of a certain circuit in which the voltage lags behind the current is 80%. To increase the power to 100%, it is necessary to add ________ to the circuit.","[""Inductance"",""Capacitance"",""Resistance"",""Impedance""]",0
+"Refers to the outward-curving distortion of the lines of force near the edges of two parallel metal plates that form a capacitor.","[""Skin effect"",""Night effect"",""Edge effect"",""Hall effect""]",2
+"If voltage across the plates of 2 F capacitor is increased by 4 V, then charge on the plates will","[""Decrease by 2 C"",""Increase by 2 C"",""Decrease by 4 C"",""Increase by 4 C""]",3
+"What does a capacitor store?","[""Voltage"",""Charge"",""Current"",""Power""]",1
+"The mutual inductance between two coils is ___________ the reluctance of magnetic path.","[""Directly proportional to"",""Inversely proportional to"",""Independent to"",""Equal to""]",1
+"The result of rust in electrical (wire) connection is","[""Inductance"",""Conductance"",""Impedance"",""Resistance""]",3
+"Which of the following is a disadvantage of a wire-wound resistor?","[""It has reactance in radio-frequency circuits"",""It cannot handle much power"",""It draws a large amount of current"",""It cannot handle high voltage""]",0
+"The resistance of an insulator __________ when its temperature is increased.","[""Decreases"",""Remains the same"",""Increases"",""Varies""]",0
+"The wavelength of an alternating waveform depends upon the ___________ of the variation.","[""Period"",""Number"",""Frequency"",""Amplitude""]",2
+"Delta to wye or wye to delta transformation technique is applied to a _________ network.","[""One-terminal"",""Two-terminal"",""Three-terminal"",""Complex""]",2
+"For greater accuracy, the value of phase angle θ should be determined from","[""Cos \u03b8"",""Tan \u03b8"",""Sin \u03b8"",""Sec \u03b8""]",1
+"Inductive reactance applies only to sine waves because it","[""Increases with lower frequencies"",""Increases with lower inductance"",""Depends on the factor 2 \u03c0"",""Decreases with higher frequencies""]",2
+"What increases the resistance of wire at high frequencies?","[""Temperature"",""Voltage"",""Skin effect"",""Insulation""]",2
+"An inductor carries 2 A dc. If its inductance is 100 μH, then what is its inductive reactance?","[""Zero"",""1.3 k\u03a9"",""628 \u03a9"",""-628 \u03a9""]",0
+"Barium-strontium titanite dielectric material is also called","[""Ceramic"",""Polyster"",""Electrolytic"",""Bakelite""]",0
+"In the 5-band method of capacitor color coding, the first band indicates","[""Temperature coefficient"",""Tolerance"",""1st digit"",""Capacitance value""]",0
+"What is the most convenient way of achieving large capacitance?","[""By using multiplate construction"",""By using air as dielectric"",""By decreasing distance between plates"",""By using dielectric of low permittivity""]",0
+"A linear circuit is one whose parameters","[""Change with change in voltage"",""Change with change in current"",""Do not change with voltage and current"",""Change with change in voltage and current""]",2
+"For a linear circuit, __________ voltage or current is used to calculate average power.","[""Rms"",""Peak"",""Average"",""Instantaneous""]",0
+"When two coils of identical reactance are in parallel without mutual inductance, the reactance of the combination is _________ the reactance of each coil.","[""One half"",""Twice"",""Four times"",""One fourth""]",0
+"Which of the following is also known as anti-resonant circuit?","[""Parallel resonant circuit"",""Series resonant circuit"",""Tuned circuit"",""Tank circuit""]",0
+"In a complex number 5 + j 10, 10 is called _________ part.","[""Imaginary"",""Real"",""Conjugate"",""Integer""]",0
+"The presence of an electric current is made known by","[""Electric shock"",""Effects produced"",""Magnetic shock"",""Flashing""]",1
+"The reciprocal of a complex number is","[""A complex number"",""A real number"",""An imaginary number"",""A whole number""]",0
+"Which of the following has negative temperature coefficient?","[""Carbon"",""Nickel"",""Brass"",""Constantan""]",0
+"Which of the following is a common material used in wire-wound resistors?","[""Manganin"",""Carbon"",""Bronze"",""German silver wire""]",0
+"If one resistance in a series connection is open, then","[""The current is zero in all the other resistances"",""The current is maximum in all the other resistances"",""The voltage is zero across the open resistance"",""The voltage is infinite across the open resistance""]",0
+"What determines the magnitude of electric current?","[""The rate at which electrons are produced"",""The type of material used"",""The current carrying capacity of the circuit"",""The rate at which electrons pass a given point""]",3
+"For a carbon composition resistor, typical resistance values range from","[""2.7 \u03a9 to 22 M\u03a9"",""1000 \u03a9 to 10000 \u03a9"",""10 \u03a9 to 10 M\u03a9"",""2.7 \u03a9 to 2.7 G\u03a9""]",0
+"A lead conductor has a resistance of 25Ω at 0˚C. Determine its resistance at -30˚C.","[""22\u03a9"",""24\u03a9"",""12\u03a9"",""11\u03a9""]",0
+"An impedance given by 90∠-45˚ is a/an __________ impedance.","[""Inductive"",""Conductive"",""Resistive"",""Capacitive""]",3
+"If a coil has a Q of 10, it means that","[""The energy stored in the magnetic field of the coil is 10 times the energy wasted in its resistance"",""The energy wasted in its resistance is 10 times the energy stored in the magnetic field of the coil"",""It is a low Q coil"",""It is a high Q coil""]",0
+"What is the rms value of a square wave?","[""Equals its peak value"",""Equals its peak-to-peak value"",""Peak divided by square root of two"",""Peak divided by pi""]",0
+"The rms value of a triangular or sawtooth waveform is ___________ times its peak value.","[""0.577"",""0.500"",""0.25"",""0.707""]",0
+"In a multiple capacitor, the plate area is","[""Increased"",""The same"",""Decreased"",""Variable""]",0
+"What is the time constant for L of 240 mH in series with R of 20Ω?","[""12 ms"",""4.8 s"",""83.3 s"",""12 s""]",0
+"In an ac circuit, the power dissipated as heat depends on","[""Impedance"",""Capacitive reactance"",""Resistance"",""Inductive reactance""]",2
+"Which of the following dielectric materials makes the lowest-capacitance capacitor?","[""Paper"",""Mica"",""Air"",""Electrolyte""]",2
+"In adding or subtracting phasor quantities, ____________ form is the most convenient.","[""Polar"",""Rectangular"",""Trigonometric"",""Exponential""]",1
+"In dividing or multiplying phasor quantities, ____________ form is used.","[""Polar"",""Rectangular"",""Trigonometric"",""Exponential""]",0
+"The power factor of a circuit is equal to","[""RZ"",""XC\/Z"",""XL\/Z"",""R\/Z""]",3
+"The capacitance of a capacitor is ____________ relative permittivity.","[""Directly proportional to"",""Inversely proportional to"",""Equal to"",""Inversely proportional to the square of""]",0
+"If a multi-plate capacitor has 10 plates, each of area 10 cm^2, then","[""10 capacitors will be in parallel"",""10 capacitors will be in series"",""9 capacitors will be in parallel"",""9 capacitors will be in series""]",2
+"Of the equivalent combination of units, which one is not equal to watt?","[""\u03a9^2\/V"",""AV"",""A^2 \u03a9"",""J\/s""]",0
+"What dielectric is generally employed by a variable capacitor?","[""Mica"",""Air"",""Electrolyte"",""Ceramic""]",1
+"Rationalizing the denominator of a complex number means","[""Eliminating the j component in the denominator"",""Adding j component in the denominator"",""Eliminating the j component in the numerator"",""Adding j component in the numerator""]",0
+"When two complex conjugates are subtracted, the result is a","[""Quadrature component only"",""Complex component"",""In-phase component"",""Real component""]",0
+"Which of the following is the peakiest?","[""Square wave"",""Sinusoidal wave"",""Triangular wave"",""Rectangular wave""]",2
+"Norton’s theorem is what form of an ac equivalent circuit?","[""Voltage"",""Current"",""Both voltage and current"",""Neither voltage nor current""]",1
+"An inductive load always has a ___________ power factor","[""Leading"",""Lagging"",""Zero"",""Unity""]",1
+"Which factor does not affect resistance?","[""Length"",""Resistivity"",""Cross-sectional area"",""Mass""]",3
+"Which of the following capacitors are used only in dc circuits?","[""Mica"",""Ceramic"",""Mylar"",""Electrolytic""]",3
+"The maximum power transfer theorem is used in","[""Power system"",""Electronic system"",""Refrigeration"",""Air conditioning""]",1
+"In Norton’s theorem, the short circuit current is obtained by","[""Opening the load terminals"",""Shorting the load terminals"",""Opening the voltage source"",""Shorting the voltage source""]",1
+"Which of the following capacitors has the highest cost per μF?","[""Plastic"",""Air"",""Mica"",""Electrolytic""]",3
+"Another term for superconductor.","[""Generic conductor"",""Ultraconductor"",""Cryotron"",""Cryogenic conductor""]",3
+"A circuit whose parameters change with voltage or current.","[""Non-linear circuit"",""Linear circuit"",""Complex circuit"",""Passive circuit""]",0
+"What is the value of a resistor with colors from left: Orange, Blue, Gold, and Silver?","[""34 ohms \u00b1 10%"",""3.6 ohms \u00b1 10%"",""3.4 ohms \u00b1 10%"",""36 ohms \u00b1 10%""]",1
+"Determine the value of a resistor with colors from left to right; Brown, Green, Gold, and Silver.","[""1.5 ohms \u00b1 10%"",""15 ohms \u00b1 10%"",""1.5 ohms \u00b1 20%"",""15 ohms \u00b1 20%""]",0
+"Resistors with high value usually have lower wattage ratings because of _________.","[""varying current"",""lower current"",""bigger size"",""high current""]",1
+"Smaller resistors usually have ________ resistance value.","[""small"",""high"",""low"",""very small""]",1
+"When resistors are connected in series, what happens?","[""The effective resistance is decreased"",""Nothing"",""The tolerance is decreased"",""The effective resistance is increased""]",3
+"A 33 kilo ohms resistor is connected in series with a parallel combination made up of a 56 kilo ohm resistor and a 7.8 kilo ohm resistor. What is the total combined resistance of these three resistors?","[""63769 ohms"",""49069 ohms"",""95800 ohms"",""39067 ohms""]",3
+"If you need a 1.25 kΩ resistance and you only have resistors of 5 kΩ, how many of these available resistors you should connect in parallel to get a 1.25 kΩ value?","[""2"",""3"",""4"",""5""]",2
+"Insulating elements or materials has a capability of","[""allowing electric current to flow"",""supporting charge flow"",""preventing short circuit between conducting wires"",""making electrical circuits to be completed""]",2
+"_________ is used to store electrical energy in an electrostatic field?","[""A transformer"",""A battery"",""A capacitor"",""An inductor""]",2
+"What factors determine the capacitance of a capacitor?","[""Area of the plates, amount of charge on the plates and the dielectric constant of the material between the plates"",""Area of the plates, voltage on the plates and the distance between the plates"",""Area of the plates, distance between the plates, and the dielectric constant of the material between the plates"",""Area of the plates, voltage on the plates and dielectric constant of the material between the plates""]",2
+"Factors that determine the capacitance of a capacitor.","[""area of the plate; directly proportional"",""distance between plate; inversely proportional"",""dielectric constant; directly proportional"",""all of these""]",3
+"An electronic/electrical component/device used to store electrical energy.","[""Capacitor"",""Inductor"",""Resistor"",""lightning arrester""]",0
+"Which of the following describes the action of a capacitor?","[""Converts ac into dc"",""Stores electrical energy"",""Opposes change in current flow"",""Creates a dc resistance""]",1
+"A parallel plate capacitor has the following values: k = 81; d = 0.025 inches; A = 6 square inches. What is the capacitance of the capacitor?","[""4.372 picofarad"",""43.72 picofarad"",""4372 picofarad"",""437.2 picofarad""]",2
+"Five picofarad is equivalent to ________.","[""5 x 10 to the -12th"",""50 x 10 to the -12th"",""5 x 10 to the -10th"",""500 x 10 to the -10th""]",0
+"If two micro-farad capacitors are connected in series, what will be the total effective capacitance?","[""0.125 microfarad"",""0.0624 microfarad"",""2.5 microfarad"",""0.50 microfarad""]",0
+"A 20 μF capacitor is charged by a 12-V battery. What is the stored energy at the capacitor?","[""2.88 x 10^-3 J"",""1.07 x 10^-3 J"",""1.44 x 10^-3 J"",""2.88 x 10^-2 J""]",2
+"Which of the following characterizes inductance?","[""Tends to oppose dc"",""Tends to oppose changes in voltage"",""Tends to oppose changes in current"",""Opposes all frequencies equally""]",2
+"A coil of wire wound, with or without a magnetic core designed to have a higher self-inductance than a straight wire.","[""Inductor"",""Solenoid"",""Toroid"",""Inductive relay""]",0
+"With the same voltage applied, which of the following allows more current?","[""25 ohms"",""250 ohms"",""0.25 ohms"",""2.5 ohms""]",2
+"In electrical circuits, current is known as the flow of charged carriers, such as electrons. When can this happen?","[""when an electrical force (called emf) is applied"",""when material used allows electrons to flow"",""when there is circuit continuity"",""all of the above""]",3
+"What utilizes electrical energy in electrical circuits?","[""supply emf"",""load"",""the conducting wires"",""all of the above""]",1
+"An electronic device draws 300 watts from its 24-volt power source. Find effective resistance.","[""1.92 ohms"",""19.20 ohms"",""1.25 ohms"",""12.50 ohms""]",0
+"A 50 Ω resistor is connected in series with a 150C resistor and to a supply voltage of 20 V. What is the current through the 50 Ω resistor?","[""0.01 A"",""0.1 A"",""1.0 A"",""10 A""]",1
+"Two resistors, 10 Ω and 100 Ω are connected in parallel, approximately, what is the total resistance?","[""10 \u2126"",""50 \u2126"",""90 \u2126"",""100 \u2126""]",0
+"A shunt resistor is used to limit the load current to 0.5 A, if the load resistance is 100 Ω and the original current is 1amp, what should be the value of the shunt resistance?","[""25 \u2126"",""50 \u2126"",""75 \u2126"",""100 \u2126""]",3
+"How many 1 kΩ resistors to be connected in parallel are needed in order to get 100 Ω?","[""2"",""5"",""10"",""20""]",2
+"Two resistors, R1 = 100 Ω and R2 = 200 Ω are connected in series, if the voltage across R2 is 20 V, what is the voltage across R1?","[""5 V"",""10 V"",""15 V"",""20 V""]",1
+"Two resistors, R1 = 100 Ω and R2 = 200 Ω are connected in parallel. If the current through R1 is 1 A, what would be the current on R2?","[""0.125 A"",""0.25 A"",""0.35 A"",""0.50 A""]",3
+"A 6A current source drives a load consisting a parallel combination of R1 = 50 Ω and R2 = 25 Ω. Determine the current I1 through R1.","[""1 amp"",""2 amps"",""3 amps"",""4 amps""]",1
+"A constant voltage source Vs = 60 is delivering a power to a series combination of R1 = 100 Ω, R2 = 200 Ω and R3 = 300 Ω. Calculate the voltage drop across R2.","[""10 V"",""20 V"",""30 V"",""40 V""]",1
+"If 12 V are applied to a circuit that consumes 78 W, what is the current flow through the circuit?","[""6.5 A"",""936 A"",""0.15 A"",""9.36 A""]",0
+"Find the current that flows through the filament of a 400 watts flat iron connected to a 220 Volt power line.","[""50 mA"",""5 A"",""5 mA"",""500 mA""]",3
+"An electrical device has a resistance of 10 Ω and is supplied with a 5 ampere constant current source. If the deice is rated 100 Vdc, determine its power consumed.","[""250 W"",""450 W"",""750 W"",""1000 W""]",0
+"The power dissipated by a 10 Ω load resistor with a current rating of 5 amperes is _________ if supplied with a 20 volt dc potential.","[""40 W"",""80 W"",""160W"",""250 W""]",0
+"The power in a circuit consisting of two equal resistors in series is known to be 10 watts. If the two resistors are connected in parallel, what would be the circuit power dissipation?","[""2.5 watts"",""5 watts"",""20 watts"",""40 watts""]",3
+"How many nodes are needed to completely analyze a circuit according to Kirchhoff’s current law?","[""two"",""all nodes in the circuit"",""one less than the total number of nodes in the circuit"",""one""]",2
+"Loop currents should be assumed to flow in which direction?","[""Straight"",""Either C or D arbitrarily selected"",""Counter-clockwise"",""Clockwise""]",1
+"What theorem we should use in solving electrical circuits with several voltage sources?","[""superposition"",""Norton"",""Thevenin"",""Kirchhoff""]",0
+"In a mesh, the algebraic sum of all voltages and voltage drops is equal to zero.","[""superposition theorem"",""Norton\u2019s law"",""Kirchhoff\u2019s first law"",""Kirchhoff\u2019s second law""]",3
+"The sum of all currents entering a junction is equal to the sum of currents leaving away from that junction.","[""Kirchhoff\u2019s first law"",""Kirchhoff\u2019s second law"",""Norton\u2019s theorem"",""Thevenin\u2019s theorem""]",0
+"Theorem used to simplify complex circuits wherein, the simplified circuit contains an equivalent open circuit resistance and open circuit voltage.","[""Norton\u2019s"",""Thevenin\u2019s"",""Maxwell\u2019s"",""Kirchhoff\u2019s""]",1
+"Considered as the reverse of Thevenin’s theorem.","[""Maxwell"",""Superposition"",""Kirchhoff"",""Norton\u2019s""]",3
+"A certain Thevenin equivalent circuit has parameters RTH = 10 Ω and VTH = 20 V. If this is converted to Norton’s equivalent circuit, RN and IN would be","[""10 \u2126 and 2 A"",""10 \u2126 and 4 A"",""0.10 and 2 A"",""0.10 and 4 A""]",0
+"a 400Ω load is connected, it will have a load current of","[""1 A"",""2 A"",""3 A"",""4 A""]",1
+"A chosen closed path of current flow in a network. In making this current path there should be no node nor elements that are passed more than once.","[""node"",""junction"",""mesh"",""loop""]",2
+"A set of circuit elements that forms a closed path in a network over which signal can circulate.","[""node"",""junction"",""mesh"",""loop""]",3
+"In a network, what do we call a reference point chosen such that more branches in a circuit met.","[""node"",""junction"",""ground"",""mesh""]",0
+"A common connection between circuit elements or conductors from different branches.","[""node"",""junction"",""ground"",""mesh""]",1
+"Mesh analysis is best used together with what circuit law?","[""KVL"",""KCL"",""VDT"",""CDT""]",0
+"Nodal analysis is best used together with","[""KVL"",""KCL"",""VDT"",""CDT""]",1
+"Three 100 Ω resistors are connected in a tee-form (T) network and is set up between a 100 V supply and a load resistor RL. If maximum power transfer is desired, what should be the resistance of the load resistor RL?","[""50 \u2126"",""75 \u2126"",""125 \u2126"",""150 \u2126""]",3
+"Theorem used in simplifying circuit analysis by considering the effect of supply voltages one at a time.","[""Thevenin\u2019s theorem"",""Norton\u2019s theorem"",""Superposition"",""KVL""]",2
+"Three resistors, R1 = 60 Ω, R2 = 80 Ω and R3 = 100 are connected in delta. If the network is to be transformed into star, what would be the value of the resistor opposite of R2?","[""25.0 \u2126"",""33.3 \u2126"",""45.0 \u2126"",""56.7 \u2126""]",0
+"The description of two sine waves that are in step with each other going through their maximum and minimum points at the same time and in the same direction","[""phased sine wave"",""sine waves in phase"",""sine wave in coordination"",""stepped sine waves""]",1
+"Most ac-supplies are in the form of","[""sine-wave"",""square-wave"",""triangular-wave"",""rectangular-wave""]",0
+"Advantage(s) of ac over dc","[""economically produced"",""transmission of ac is more efficient"",""ac voltages can be easily changed"",""all of the above""]",3
+"An ac-voltage has an equation v = 240 sin120πt, its frequency is","[""60 Hz"",""90 Hz"",""120 Hz"",""240 Hz""]",0
+"When can an ac-voltage, v = 120sin120πt reach its first peak?","[""4.167 \u03bcs"",""8.334 \u03bcs"",""4.167 ms"",""8.334 ms""]",2
+"Calculate the period of an alternating current having an equation of I = 20sin120πt.","[""4.167 ms"",""8.33 ms"",""16.67 ms"",""33.33 ms""]",2
+"The time taken by an alternating voltage, v = 100sin240πt to reach 50V for the first time","[""358 \u03bcs"",""695 \u03bcs"",""358 ms"",""695 ms""]",3
+"An alternating voltage of sine-wave form has a maximum voltage of 311V. What is its value at 225°?","[""110 V"",""220 V"",""-220 V"",""-110 V""]",2
+"If an alternating voltage has a magnitude of 10 V at 30°, what is its maximum voltage?","[""20 V"",""30 V"",""40 V"",""50 V""]",0
+"What is the frequency of an alternating current, if it reaches 90° within 4.167 ms?","[""20 Hz"",""30 Hz"",""50 HZ"",""60 Hz""]",2
+"At what angle does an alternating voltage of cosine-waveform reaches its negative peak?","[""45\u00b0"",""90\u00b0"",""135\u00b0"",""180\u00b0""]",3
+"When comparing rms voltages and average voltages, which of the following statement is true, assuming sine waves?","[""Either the rms voltage or the average voltage might be larger"",""The rms voltage is always greater than the average voltage"",""There will always be a very large difference between the rms voltage and the average voltage"",""The average voltage is always greater than the rms voltage""]",1
+"What is the average voltage of an alternating voltage, v = 100sin120πt?","[""31.8 V"",""63.6 V"",""70.71 V"",""0 (zero) V""]",3
+"Determine the effective voltage of v = 100sin120πt.","[""31.80 V"",""35.35 V"",""70.71 V"",""90.00 V""]",3
+"What do you mean by root-mean-squared (rms) value?","[""it is the average value"",""it is the effective value"",""it is the value that causes the same heating effect as a dc-voltage"",""B or C""]",3
+"The power dissipated across the resistance in an AC circuit","[""real power"",""reactive power"",""apparent power"",""true power""]",3
+"In AC circuit, resistors will dissipate what power?","[""reactive"",""passive"",""inductive"",""true""]",3
+"In an ac-circuit, if the voltage and current are in phase, the circuit is","[""resistive"",""reactive"",""capacitive"",""inductive""]",0
+"If the current in an ac-circuit leads the voltage by 90°, the circuit is","[""resistive"",""capacitive"",""inductive"",""purely inductive""]",1
+"In a purely inductive circuit the current","[""leads the voltage by 45\u00b0"",""leads the voltage by 90\u00b0"",""lags the voltage by 90\u00b0"",""lags the voltage by 45\u00b0""]",2
+"If the current and voltage in an ac-circuit has a phase difference, it would mean the load is","[""resistive"",""capacitive"",""inductive"",""reactive""]",3
+"A resistive and a capacitive load of equal magnitude is connected in series, determine the phase difference between the voltage and the current.","[""current leads the voltage by 45\u00b0"",""current lags the voltage by 45\u00b0"",""current leads the voltage by 90\u00b0"",""current lags the voltage by 90\u00b0""]",0
+"The reactance of a 25 mH coil at 500 Hz is which of the following?","[""785 ohms"",""785,000 ohms"",""13 ohms"",""0.0013 ohms""]",0
+"The impedance in the study of electronics is represented by resistance and ________.","[""inductance and capacitance"",""inductance"",""reactance"",""capacitance""]",2
+"A series circuit consists of an 80 mH inductor and a 150 μF capacitor. Calculate the total reactance if it is connected to a 220-volt 60-cycle source.","[""12.5 \u2126 inductive"",""12.5 \u2126 capacitive"",""47.8 \u2126 inductive"",""47.8 \u2126 capacitive""]",0
+"Ignoring any inductive effects, what is the impedance of RC series capacitor made up of a 56 kilo ohms resistor and a 0.33 μF capacitor at a signal frequency of 450 Hz?","[""66,730 ohms"",""57,019 ohms"",""45,270 ohms"",""10,730 ohms""]",1
+"A 220-volt, 60-Hz source is driving a series RL circuit. Determine the current in the circuit if R = 100 Ω and XL = 100 Ω.","[""1.10 A (lagging)"",""1.55 A (lagging)"",""2.20 A (lagging)"",""4.40 A (lagging)""]",1
+"How many electrical degrees a current will lead the voltage in a series RC load with R = 100 Ω and XC = 50 Ω?","[""13.28\u00b0"",""26.56\u00b0"",""31.72\u00b0"",""63.44\u00b0""]",1
+"What will be the current equation in a series RC network if supplied with v = Vmsin120πt source. The circuit has a power factor pf = 0.5?","[""i = Imaxsin(120\u03c0t + 60)"",""i = Imaxsin(120\u03c0t \u2013 60)"",""i = Imaxsin(120\u03c0t + 30)"",""i = Imaxsin(120\u03c0t \u2013 30)""]",0
+"The power factor (pf) of a series LC circuit is","[""0"",""0.5"",""0.75"",""1.0""]",0
+"What is the power factor (pf) of a series RL circuit having R = 50Ω and XL = 20Ω?","[""0.63"",""0.71"",""0.81"",""0.93""]",3
+"A 200Ω resistor if connected in series with a capacitive reactance of 100 will give a total circuit impedance of","[""173.2 \u2126"",""223.6 \u2126"",""250.6 \u2126"",""300.0 \u2126""]",1
+"What will happen when the power factor of a circuit is increased?","[""reactive power increases"",""active power increases"",""both active and reactive powers increases"",""both active and reactive powers decreases""]",1
+"A series RL network is supplied with a 200-volt, 60-cycle source. If the voltage across the resistor R is 100 V, what is the voltage across the inductor L?","[""0 V"",""100 V"",""173.2 V"",""200 V""]",2
+"A 6-Ω resistor is connected in series with a capacitive reactance of 8 Ω. If the supply voltage is 200 V, what is the power consumed by the circuit?","[""2400 W"",""4000 W"",""5000 W"",""6666.67 W""]",0
+"A 6-Ω resistor is connected in series with a capacitive reactance of 8 Ω. If the supply voltage is 200 V, what is the circuit current magnitude?","[""14.28 A"",""20 A"",""25 A"",""33.33 A""]",1
+"A 6-Ω resistor is connected in series with a capacitive reactance of 8 Ω. If the supply voltage is 200 V, what is the apparent power of the circuit?","[""1200 W"",""2400 W"",""3200 W"",""4000 W""]",3
+"The apparent power of a series RC network is given to be 4000 W. If R = 6 Ω, and XC = 8 Ω, calculate the true power of the network.","[""1200 W"",""2400 W"",""3200 W"",""4000 W""]",1
+"A series RC circuit has an apparent power of 4000 W. If R = 6 Ω, and XC = 8 Ω, determine the reactive power.","[""1200 W"",""2400 W"",""3200 W"",""4000 W""]",2
+"A network has a true power and a reactive power of 2400 W and 3200 W respectively. What is its apparent power?","[""800 W"",""1600 W"",""4000 W"",""5600 W""]",2
+"What is the total impedance of a series circuit consisting of R = 6 Ω, XC = 8 Ω, and XL = 16 Ω?","[""10 \u2126"",""14 \u2126"",""24.73 \u2126"",""30 \u2126""]",0
+"What is the significance of connecting loads in parallel?","[""it makes power consumption less"",""it provides greater efficiency"",""it increases the safety factor"",""it allows independent operations of loads""]",3
+"A parallel RL circuit with R = 60 Ω, and XL = 40 Ω has a total impedance of","[""24.3 \u2126"",""28.3 \u2126"",""33.3 \u2126"",""38.3 \u2126""]",2
+"Calculate the total impedance of a parallel RC circuit if R = XC = 50 Ω.","[""25 @ 45\u00b0 \u2126"",""25 @ -45\u00b0 \u2126"",""35.35 @ 45\u00b0 \u2126"",""35.35 @ -45\u00b0 \u2126""]",3
+"What is the power factor of a circuit if the inductive susceptance and conductance have the same value?","[""0.325"",""0.525"",""0.673"",""0.707""]",3
+"If a circuit has an admittance of Y = 0.2 + j0.6, the circuit is","[""purely inductive"",""inductive"",""capacitive"",""reactive""]",2
+"The circuit admittance Y = 0.2 – j0.6, the circuit is","[""resistive"",""inductive"",""capacitive"",""reactive""]",1
+"What is the resonant frequency of a circuit when L is 50 microhenrys and C is 40 picofarads are in parallel?","[""7.96 MHz"",""79.6 MHz"",""3.56 MHz"",""1.78 MHz""]",2
+"If you need an LC circuit to be resonant at 2500 Hz and use a 150 mH coil, what should the capacitance value be?","[""0.027 \u03bcF"",""0.015 \u03bcF"",""0.15 \u03bcF"",""27 \u03bcF""]",0
+"What is the resonant frequency of a circuit when L of 3 microhenry and C of 40 picofarad are in series?","[""1.33 MHz"",""14.5 MHz"",""14.5 kHz"",""1.33 kHz""]",1
+"What is the resonant frequency of a circuit when L of 25 microhenry and C of 10 picofarad are in parallel?","[""63.7 MHz"",""10.1 MHz"",""63.7 kHz"",""10.1 kHz""]",1
+"A series circuit at resonance would mean, the circuit is","[""resistive"",""inductive"",""capacitive"",""reactive""]",0
+"Characteristics of the current in a series R-L-C circuit at resonance.","[""It is dc"",""It is a minimum"",""It is zero"",""It is at maximum""]",3
+"What is the cause of a minimum Q on a single-tuned LC circuit?","[""decreased series resistor"",""decreased shunt resistor"",""increased shunt resistor"",""decreased capacitance""]",2
+"Find the half-power bandwidth of a parallel resonant circuit, which has a resonant frequency of 3.6 MHz and a Q of 218.","[""606 kHz"",""58.7 kHz"",""16.5 kHz"",""47.3 kHz""]",2
+"A parallel circuit at resonance would mean, the circuit is","[""resistive"",""inductive"",""reactive"",""capacitive""]",0
+"What will happen to a parallel ac-circuit if its line frequency is more than the resonant frequency?","[""becomes purely resistive"",""becomes purely capacitive"",""becomes inductive"",""becomes capacitive""]",3
+"In a series ac-circuit, if the line frequency is more than the resonant frequency, the circuit behaves as","[""resistive"",""inductive"",""reactive"",""capacitive""]",1
+"If the line frequency of a parallel ac-circuit is less than the resonant frequency, the circuit behaves as","[""resistive"",""reactive"",""capacitive"",""purely inductive""]",1
+"If an ac-series circuit is supplied with a source whose frequency is less than that of fr, the circuit becomes","[""resistive"",""reactive"",""inductive"",""capacitive""]",3
+"_________ is a parallel LC circuit.","[""Parallel resisting circuit"",""Static circuit"",""Tank circuit"",""Hartley circuit""]",2
+"A parallel LC network with L = 100 mH and C = 25 μF will resonate at what frequency?","[""25 Hz"",""45.5 Hz"",""75.6 Hz"",""100 Hz""]",3
+"Absolutely, when can we say that the circuit is at resonance?","[""when XL = XC"",""when the current is minimum"",""when the voltage and current are in-phase"",""all of the above""]",2
+"The description of two sine waves that are in step with each other going through their maximum and minimum points ate the same time and in the same direction.","[""Sine waves in phase"",""Stepped sine waves"",""Phased sine waves"",""Sine waves in coordination""]",0
+"Term used for the out of phase, non-productive power associated with inductors and capacitors.","[""Effective power"",""True power"",""Reactive power"",""Peak envelope power""]",2
+"Refers to a reactive power.","[""Wattles, non productive power"",""Power consumed in circuit Q"",""Power loss because of capacitor leakage"",""Power consumed in wire resistance in an inductor""]",0
+"A 240 V, 25 Hz sinusoidal generator is connected to a 20 ohms resistor. Determine the instantaneous current when elapsed time is 0.01 second.","[""15043A"",""16.30 A"",""16.97 A"",""12.00 A""]",3
+"The product of current and voltage in an AC circuit refers to the","[""Real power"",""Useful power"",""Apparent power"",""DC power""]",2
+"The distance covered or traveled by a waveform during the time interval of one complete cycle.","[""Frequency"",""Wavelength"",""Time slot"",""Wave time""]",1
+"The power dissipated across the resistance in an AC circuit.","[""Real power"",""Reactive power"",""Apparent power"",""True power""]",3
+"It is the number of complete cycles of alternating voltage or current complete each second","[""Period"",""Frequency"",""Amplitude"",""Phase""]",1
+"How many degrees are there in one complete cycle?","[""720 deg"",""360 deg"",""180 deg"",""90 deg""]",1
+"The impedance in the study of electronics is represented by resistance and _________ .","[""Reactance"",""Inductance and capacitance"",""Inductance"",""capacitance""]",0
+"Two current sources deliver to a common load. The first source delivers current whose equation is 25sin 100πt A while the second delivers a current whose equation is 15 cos 100πt A. What is the rms values of the current in the load?","[""29.15 A"",""40 A"",""20.6 A"",""10 A""]",2
+"It is a rotating sector that represent either current or voltage in an AC circuit.","[""Resistance"",""Phasor"",""polar diagram"",""velocity""]",2
+"The relationship of the voltage across an inductor to its current is described as","[""Leading the current by 90 deg"",""Lagging the current by 90 deg"",""Leading the current by 180 deg"",""In phase with the current""]",0
+"Find the phase angle between the voltage across through the circuit when X<sub>c</sub> is 25 ohms, R is 100 ohms and X<sub>L</sub> is 50 ohms.","[""76 deg with the voltage leading the current"",""24 deg with the voltage lagging the current"",""14 deg with the voltage leading the current"",""76 deg with the voltage lagging the current""]",2
+"Calculate the period of an alternating current having a equation of I=20sin 120πt","[""4.167 ms"",""8.33 ms"",""16.67 ms"",""33.33 ms""]",2
+"What do you mean by root-mean-square (rms) value?","[""It is the average value"",""It is the effective value"",""It is the value that causes the same heating effect as the DC voltage"",""b or c""]",3
+"The maximum instances value of a varying current, voltage or power equal to 1.414 times the effective value of a sine wave.","[""RMS value"",""Peak value"",""Effective value"",""Peak to Peak value""]",3
+"If an AC signal has a peak voltage of 55 V, what is the average value?","[""35 V"",""61.05V"",""86.34 V"",""38.89 V""]",0
+"If an AC signal has an average voltage of 18 V, what is the rms voltage?","[""12.726 V"",""19.980 V"",""25.380 V"",""16.213 V""]",1
+"A 220-V, 60Hz is driving a series R<sub>L</sub> circuit. Determine the current if R = 100 ohms and 20 mH inductance","[""2.2 A (lagging)"",""2.0 A (lagging)"",""2.2 A (leading)"",""2.0 A (leading)""]",0
+"Ignoring any inductive effects, what is the impedance of RC series capacitor made up of a 56K ohm resistor and a 0.33 uF capacitor at a signal frequency of 4650 Hz.","[""66730 ohms"",""57019 ohms"",""45270 ohms"",""10730 ohms""]",1
+"What is the time constant of a 500 mH coil and a 3300 ohm resistor in series?","[""0.00015 sec"",""6.6 sec"",""0.0015 sec"",""0.0000015 sec""]",0
+"What is the relationship between frequency and the value of X<sub>C</sub> ?","[""Frequency has no effect"",""XC varies inversely with frequency"",""XC varies indirectly with frequency"",""XC varies directly with frequency""]",1
+"The reactance of a 25 mH coil at 5000 Hz which of the following?","[""785 ohms"",""785000 ohms"",""13 ohms"",""0.0012 ohms""]",0
+"There are no transients in pure resistive circuits because they","[""Offer high resistance"",""Obey ohm\u2019s Law"",""Are linear circuits"",""Have no stored energy""]",2
+"The reciprocal of capacitance is called","[""Conductance"",""Elastance"",""Permitivity"",""permeability""]",1
+"The AC system is preferred over DC system because","[""Ac voltages can easily changed in magnitude"",""Dc motors do not have fine speed control"",""High voltage AC transmission is less efficient"",""DC voltage cannot be used for domestic appliances""]",3
+"An alternating voltage is given by v = 20 sin 157 t. The frequency of the alternating voltage is","[""50 Hz"",""25 HZ"",""100 Hz"",""75 Hz""]",1
+"An alternating current given by i = 10 sin 314 t. The time taken to generate two cycles of current is","[""20 ms"",""10 ms"",""40 ms"",""50 ms""]",2
+"The peak power in the circuit is","[""1250 W"",""25 W"",""2500 W"",""250 w""]",2

@@ -1,0 +1,11 @@
+question,A,B,C,D,E,answer,explanation
+<p>An SRAM storage cell is less complex than a DRAM storage cell.</p>,True,False,,,,B,
+<p>The key advantage of the EPROM is its ability to erase only a single byte of stored data.</p>,True,False,,,,B,
+<p>Memory configuration refers to the organization of  storage bits within a memory.</p>,True,False,,,,A,
+<p>ROM stands for read-only memory.</p>,True,False,,,,A,
+"<p>To avoid data loss, SRAM must be refreshed every few milliseconds.</p>",True,False,,,,B,
+"<p>When a binary word is stored in a memory location of a ROM, the process is called burning in.</p>",True,False,,,,A,
+<p>Storage density is a term used to compare the memory storage ability of one device to that of another.</p>,True,False,,,,A,
+<p>A memory map is an address-listing diagram that shows the boundaries of the address space.</p>,True,False,,,,A,
+<p>The number that is a unique representation of the location of data is its address.</p>,True,False,,,,A,
+<p>PROMs are volatile.</p>,True,False,,,,B,

@@ -1,0 +1,17 @@
+question,A,B,C,D,E,answer,explanation
+"<p>After a voltage has been applied to an inductor, the current will be ___ of its full value after 2 time constants.</p>",63%,86%,95%,98%,,B,
+<p>The ___ of a coil is the inherent resistance of the wire.</p>,ac resistance,reactance,winding resistance,permeability,,C,
+"<p><p><img src=""/_files/images/basic-electronics/basics/fbq11_1008_1.gif""/></p>
+<p>The inductive reactance of <i>L</i><sub>2</sub> is _____ in the given circuit.</p></p>","3.5 k<img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/>","4.4 k<img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/>","16.3 k<img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/>","23.3 k<img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/>",,B,
+<p>___ power represents the energy dissipated at a given point in time.</p>,True,Reactive,Real,Instantaneous,,D,
+"<p>After the first time constant, a transient current has changed by _______________ %, leaving _______________ % remaining.</p>","63.2, 36.8","36.8, 63.2","13.5, 86.5","86.5, 13.5",,A,
+"<p><p><img src=""/_files/images/basic-electronics/basics/fbq11_1008_1.gif""/></p>
+<p>The total inductive reactance is ___ in the given circuit.</p></p>","3.5 k<img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/>","4.4 k<img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/>","16.3 k<img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/>","23.3 k<img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/>",,D,
+"<p><p><img src=""/_files/images/basic-electronics/basics/fbq11_1002_1.gif""/></p>
+<p>The inductance value of <i>L</i><sub>3</sub> in the given figure is _____ if the total inductance is 340 mH.</p></p>",150 mH,220 mH,295 mH,315 mH,,A,
+"<p>When current flow tries to decrease in an inductor, the magnetic field _______________ and the voltage polarity across the inductor _______________.</p>","collapses, remains the same","expands, reverses","collapses, reverses","expands, remains the same",,C,
+<p>Electromagnetic induction is the generation of _________ from __________.</p>,"magnetism, electricity","electricity, electricity","electricity, magnetism","magnetism, magnetism",,C,
+<p>Inductive ___ represents the opposition to an alternating current.</p>,impedance,resistance,reluctance,reactance,,D,
+<p>The ___ cannot change instantaneously in an inductor.</p>,voltage,current,power,magnetic field,,B,
+<p>The opposition to ac by an inductor is directly proportional to ___.</p>,resistance,reactance,frequency,voltage,,C,
+<p>An RL integrator can act as a __________ filter and an RC differentiator can act as a __________ filter.</p>,"high-pass, high-pass","low-pass, low-pass","high-pass, low pass","low-pass, high-pass",,D,

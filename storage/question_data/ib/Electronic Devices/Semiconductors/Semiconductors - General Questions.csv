@@ -1,0 +1,32 @@
+question,A,B,C,D,E,answer,explanation
+"<p>A silicon diode measures a low value of resistance with the meter leads in both positions. The trouble, if any, is</p>",the diode is open.,the diode is shorted to ground.,the diode is internally shorted.,the diode is working correctly.,,C,
+<p>Single-element semiconductors are characterized by atoms with ____ valence electrons.</p>,3,4,5,2,none of the above,B,
+<p>Under normal conditions a diode conducts current when it is</p>,reverse-biased.,forward-biased.,avalanched.,saturated.,,B,
+"<p>A diode conducts when it is forward-biased, and the anode is connected to the ________ through a limiting resistor.</p>",positive supply,negative supply,cathode,anode,,A,
+"<p>As the forward current through a silicon diode increases, the internal resistance</p>",increases.,decreases.,remains the same.,,,B,
+<p>The movement of free electrons in a conductor is called</p>,voltage.,current.,recombination.,equilibrium.,,B,
+"<p>For a forward-biased diode, the barrier potential ________ as temperature increases.</p>",decreases,remains constant,increases,,,A,
+<p>The wide end arrow on a schematic indicates the ________ of a diode.</p>,ground,direction of electron flow,cathode,anode,,D,
+<p>An n-type semiconductor material</p>,is intrinsic.,has trivalent impurity atoms added.,has pentavalent impurity atoms added.,requires no doping.,,C," <p>N-type Semiconductor : <br/><br/>
+An intrinsic semiconductor material is a poor conductor. When a small amount of pentavalent impurity is added to the intrinsic material its conductivity rises sharply. This material formed after the addition of pentavalent impurity to the intrinsic semiconductor material is called N-type material. Addition of small amount of pentavalent atoms in the intrinsic material provides large number of free electrons for conduction.</p> "
+"<p>For a forward-biased diode, as temperature is ________, the forward current ________ for a given value of forward voltage.</p>","decreased, increases","increased, increases","increased, decreases","decreased, decreases",,B,
+<p>Which statement best describes an insulator?</p>,A material with many free electrons.,A material doped to have some free electrons.,A material with few free electrons.,No description fits.,,C,
+"<p>Effectively, how many valence electrons are there in each atom within a silicon crystal?</p>",2,4,8,16,,C,
+<p>The boundary between p-type material and n-type material is called</p>,a diode.,a reverse-biased diode.,a pn junction.,a forward-biased diode.,,C,
+<p>You have an unknown type of diode in a circuit. You measure the voltage across it and find it to be 0.3 V. The diode might be</p>,a silicon diode.,a germanium diode.,a forward-biased silicon diode.,a reverse-biased germanium diode.,,B,
+<p>An ideal diode presents a(n) ________ when reversed-biased and a(n) ________ when forward-biased.</p>,"open, short","short, open","open, open","short, short",,A,
+"<p>A reverse-biased diode has the ________ connected to the positive side of the source, and the ________ connected to the negative side of the source.</p>","cathode, anode","cathode, base","base, anode","anode, cathode",,A,
+<p>What types of impurity atoms are added to increase the number of conduction-band electrons in intrinsic silicon?</p>,bivalent,octavalent,pentavalent,trivalent,none of the above,C,
+<p>What factor(s) do(es) the barrier potential of a pn junction depend on?</p>,type of semiconductive material,the amount of doping,the temperature,all of the above,type of semiconductive material and the amount of doping but not the temperature,D,
+<p>An atom is made up of</p>,protons.,neutrons.,electrons.,all of the above,,D,
+<p>Reverse breakdown is a condition in which a diode</p>,is subjected to a large reverse voltage.,is reverse-biased and there is a small leakage current.,has no current flowing at all.,is heated up by large amounts of current in the forward direction.,,A,
+<p>There is a small amount of current across the barrier of a reverse-biased diode. This current is called</p>,forward-bias current.,reverse breakdown current.,conventional current.,reverse leakage current.,,D,
+"<p>As the forward current through a silicon diode increases, the voltage across the diode</p>",increases to a 0.7 V maximum.,decreases.,is relatively constant.,decreases and then increases.,,C,
+<p>Doping of a semiconductor material means</p>,that a glue-type substance is added to hold the material together.,that impurities are added to increase the resistance of the material.,that impurities are added to decrease the resistance of the material.,that all impurities are removed to get pure silicon.,,C,
+<p>The forward voltage across a conducting silicon diode is about</p>,0.3 V.,1.7 V.,–0.7 V.,0.7 V.,,D,
+<p>The most common type of diode failure is a(n) ________.</p>,open,short,resistive,,,A,
+<p>What occurs when a conduction-band electron loses energy and falls back into a hole in the valence band?</p>,doping,recombination,generation,,,B,
+<p>The maximum number of electrons in each shell of an atom is</p>,2.,2n<sup>2</sup> where n is the number of the shell.,4.,8.,,B,
+"<p>A silicon diode is forward-biased. You measure the voltage to ground from the anode at ________, and the voltage from the cathode to ground at ________.</p>","0 V, 0.3 V","2.3 V, 1.6 V","1.6 V, 2.3 V","0.3 V, 0 V",,B," <p>For silicon diodes, the built-in potential is approximately 0.7 V. Thus, if an external current is passed through the diode, about 0.7 V will be developed across the diode such that the P-doped region is positive with respect to the N-doped region and the diode is said to be ""turned on"" as it has a forward bias.</p>
+<p>Therefore, 2.3 V - 1.6 V = 0.7 V. Hence the answer is correct.</p> "
+<p>The term <b>bias</b> in electronics usually means</p>,the value of ac voltage in the signal.,the condition of current through a pn junction.,the value of dc voltages for the device to operate properly.,the status of the diode.,,C,

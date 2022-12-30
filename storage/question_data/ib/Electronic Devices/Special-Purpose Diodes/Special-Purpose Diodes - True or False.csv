@@ -1,0 +1,12 @@
+question,A,B,C,D,E,answer,explanation
+<p>The forward voltage across an LED is typically 0.7 V.</p>,True,False,,,,B,
+"<p>A photodiode is used in a reverse-bias position, and it will increase conduction as the light intensity increases.</p>",True,False,,,,A,
+<p>A tunnel diode has a negative-resistance characteristic.</p>,True,False,,,,A,
+<p>Two types of reverse breakdown in a zener diode are avalanche and zener.</p>,True,False,,,,A,
+<p>Schottky diodes are used primarily in high-frequency and fast-switching applications.</p>,True,False,,,,A,
+<p>OLEDs can be sprayed onto a substrate using an inkjet printer.</p>,True,False,,,,A,
+"<p>When no light is emitted from an LED, the forward current is almost negligible and is called the <b>dark current</b>.</p>",True,False,,,,B,
+"<p>With varactor diodes, junction capacitance varies with the amount of forward-bias voltage.</p>",True,False,,,,B,
+<p>The ability to keep the reverse current essentially constant is the key feature of the zener diode.</p>,True,False,,,,B,
+<p>An LED emits light when forward-biased.</p>,True,False,,,,A,
+<p>The regulating ability of zener diodes depends on their ability to operate in a forward-bias condition.</p>,True,False,,,,B,

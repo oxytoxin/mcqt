@@ -1,0 +1,11 @@
+question,A,B,C,D,E,answer,explanation
+<p>A decade of frequency change is a change by a factor of 10.</p>,True,False,,,,A,
+<p>Miller's theorem is used in the high-frequency analysis of BJTs and FETs.</p>,True,False,,,,A,
+<p>One characteristic of amplifiers is that the sum of the voltage gain and the bandwidth is always constant when the roll-off is –20 dB/decade.</p>,True,False,,,,B,
+<p>Internal transistor capacitances affect the high-frequency response of amplifiers.</p>,True,False,,,,A,
+<p>At the cutoff frequency the output is down 20 dB.</p>,True,False,,,,B,
+"<p>The term ""dBm"" means decibels referenced to 1 mW of power.</p>",True,False,,,,A,
+<p>Bandwidth is the difference between f<sub>cl</sub> and f<sub>cu</sub>.</p>,True,False,,,,A,
+<p>Coupling and bypass capacitors affect the high-frequency response of an amplifier.</p>,True,False,,,,B,
+<p>The lower and upper critical frequencies of an amplifier can be determined using the step-response method.</p>,True,False,,,,A,
+<p>The basis for the decibel unit stems from the logarithmic response of the human ear to the intensity of sound.</p>,True,False,,,,A,

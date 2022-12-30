@@ -1,0 +1,11 @@
+question,A,B,C,D,E,answer,explanation
+"<p>AC current ratios <img src=""/_files/images/electronic-devices-and-circuit-theory/alpha.gif""/><sub>ac</sub> and <img src=""/_files/images/electronic-devices-and-circuit-theory/beta.gif""/><sub>ac</sub> convert directly from h parameters.</p>",True,False,,,,A,
+"<p>Besides the fact that <img src=""/_files/images/electronic-devices-and-circuit-theory/beta.gif""/><sub>DC</sub> = I<sub>C</sub>/I<sub>B</sub> and <img src=""/_files/images/electronic-devices-and-circuit-theory/beta.gif""/><sub>ac</sub> = <img src=""/_files/images/electronic-devices-and-circuit-theory/delta.gif""/>I<sub>C</sub>/<img src=""/_files/images/electronic-devices-and-circuit-theory/delta.gif""/>I<sub>B</sub>, these quantities are always the same for purposes of small-signal amplification.</p>",True,False,,,,B,
+<p>r<sup>'</sup><sub>e</sub> is temperature dependent.</p>,True,False,,,,A,
+"<p>A common-collector amplifier has high input impedance, good current gain, and a voltage gain of 1.</p>",True,False,,,,A,
+<p>The total voltage gain of a multistage amplifier is the product of the individual stage gains.</p>,True,False,,,,A,
+<p>A Darlington pair provides a very low input impedance.</p>,True,False,,,,B,
+<p>The output resistance of the common-emitter amplifier is approximately equal to the collector resistance.</p>,True,False,,,,A,
+<p>A coupling capacitor couples dc to an amplifier.</p>,True,False,,,,B,
+"<p>A common-emitter amplifier has the advantages of good voltage, current, and power gain, but the disadvantage of a relatively low input impedance.</p>",True,False,,,,A,
+"<p>The common-base amplifier has a good voltage gain, low input impedance, and high current gain.</p>",True,False,,,,B,

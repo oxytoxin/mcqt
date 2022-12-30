@@ -1,0 +1,355 @@
+﻿question,choices,answer
+"The minimum clearance allowed for meshing spur gears with a circular pitch of 0.1571 and diametral pitch of 20. The spur gear has 25 teeth.","[""0.007855"",""0.008578"",""0.007558"",""0.007585""]",0
+"A 3” Φ diameter short shaft carrying two pulleys close to the bearings transmit how much horsepower if the shaft makes 280 rpm?","[""199 Hp"",""198 Hp"",""200 Hp"",""210 Hp""]",0
+"What pressure is required to punch a hole 2” diameter through a ¼” steel plate?","[""10 tons"",""20 tons"",""30 tons"",""40 tons""]",3
+"Compute the working strength of 1” bolt which is screwed up tightly in packed joint when the allowable working stress is 13,000 psi.","[""3600 lbs"",""3950 lbs"",""3900 lbs"",""3800 lbs""]",2
+"What is the working strength of a 2” bolt which is screwed up tightly in a packed joint when the allowable working stress 12,000 psi?","[""20,120 lbs"",""20,400 lbs"",""20.400 lbs"",""20,200 lbs""]",2
+"Compute the speed of the gear mounted on a 52.5 mm diameter shaft receiving power from a driving motor with 250 hp.","[""2182 rpm"",""2071 rpm"",""2282 rpm"",""2341 rpm""]",2
+"The minimum whole depth of spur gear of 14-1/2 deg. involute type with diameter pitch of 24 and circular pitch of 0.1309:","[""0.09000"",""0.09900"",""0.089875"",""0.089758""]",2
+"Heating of the metal to a temperature above the critical temperature and then cooling slowly usually in the furnace to reduce the hardness and improve the machinability is called:","[""annealing"",""tempering"",""normalizing"",""quenching""]",0
+"What is the frictional HP acting on a collar loaded with 100 kg weight? The collar has an outside diameter of 100 mm and an internal diameter of 40mm. The collar rotates at 1000 rpm and the<br/>
+coefficient of friction between the collar and the pivot surface is 0.15.","[""0.8 HP"",""0.5 HP"",""0.3 HP"",""1.2 HP""]",0
+"A solid cylindrical shaft 48.2 cm long is used for a transmission of mechanical power at a rate of 37 KW running at 1760 rpm. The S<sub>s</sub> is 8.13 MPa. Calculate the diameter","[""30 mm"",""35 mm"",""40 mm"",""50 mm""]",3
+"An internal gear is set up with a 5-in diameter pinion and center distance of 18 inches. Find the diameter of the internal gear.","[""36\u201d"",""21.5\u201d"",""26\u201d"",""41\u201d""]",3
+"What force P is required to punch a ½ in. hole on a 3/8 in. thick plate if the ultimate shear strength of the plate is 42,000 psi?","[""24,940 lbs."",""24,620 lbs."",""24,960 lbs."",""24,740 lbs.""]",3
+"A 2.5” diameter by 2 in. long journal bearing is to carry a 5500-lb load at 3600 rpm using SAE 40 lube oil at 200°F through a single hole at 25 psi. Compute the bearing pressure.","[""1100 psi"",""900 psi"",""1000 psi"",""950 psi""]",0
+"In a uniformly loaded simple beam, the maximum vertical shearing force occurs","[""at the center"",""at the section of maximum moment"",""at beam bottom fiber"",""at either end support""]",3
+"A hollow shaft has an inner diameter of 0.035 m and outer diameter of 0.06 m. Determine the polar moment of inertia of the hollow shaft.","[""1.512 x 10<sup>-6<\/sup> m<sup>4<\/sup>"",""1.215 x 10<sup>-6<\/sup> m<sup>4<\/sup>"",""1.52 x 10<sup>-6<\/sup> m<sup>4<\/sup>"",""1.125 x 10<sup>-6<\/sup> m<sup>4<\/sup>""]",3
+"Determine the thickness of a steel air receiver with 30 inches diameter and pressure load of 120 psi, design stress of 8000 psi.","[""1\/4 in."",""5\/8 in."",""3\/8 in."",""\u00bd in.""]",0
+"A short 61 mm Φ shaft transmits 120 Hp. Compute the linear speed of a pulley 55 cm Φ mounted on the shaft.","[""1796 fpm"",""1766 fpm"",""1856 fpm"",""2106 fpm""]",2
+"A 2-in. solid shaft is driven by a 36-in. gear and transmits power at 120 rpm. If allowable shearing stress is 12 ksi, what horsepower can be transmitted?","[""29.89"",""35.89"",""38.89"",""34.89""]",1
+"Using oxyacetylene welding method to weld a 3 ft. long seam in a 3/8 in. thick plate at a consumption rate of 9 cu. ft. /ft. of weld for oxygen and 7 cu. ft./ft. for acetylene. What is the total combined gas consumption in cu. ft. ?","[""51"",""48"",""45"",""55""]",1
+"A coiled spring with 5 cm of outside diameter is required to work under the load of 190 N. The wire diameter is 5 mm, the spring is to have 6 active coils and the ends are to be closed and ground. Determine the total number of coils. The modulus of rigidity is 809 GPa and the mean radius is to be 23 mm, with 7 mm pitch of the spring.","[""6.5 coils"",""7.5 coils"",""8.5 coils"",""9.5 coils""]",2
+"A helical spring having squared and ground ends has a total of 18 coils and its material has modulus of elasticity in shear of 78.910 GPa. If the spring has an outside diameter of 10.42 cm and a wire diameter of 0.625 cm, compute in the spring due to a load of 50 kgs.","[""302 cm"",""490 mm"",""490 cm"",""322 mm""]",1
+"Design the size of solid steel shaft to be used for a 500 hp, 250 rpm application if the allowable torsional deflection is 1° and the allowable stress is 10,000 psi modulus of rigidity is 13 x 10<sup>6</sup><br/>","[""5\u201d dia."",""4-5\/8\u201d dia."",""4-7\/8\u201d dia."",""4-3\/\/4\u201d dia.""]",2
+"With the electric are welding rate of 18 in./min, how long will it take to weld a ½ in. thick plate by 3 ft. long seam?","[""3 min."",""2 min."",""1.5 min."",""4 min.""]",1
+"How long will it take to mill a 3/4 “ by 2” long keyway in a 3” diameter shafting with a 24 tooth cutter turning at 100 rpm and 0.005” feed/tooth?","[""0.136 min."",""0.196 min."",""0.166 min."",""0.106 min.""]",2
+"How long will it take to saw a rectangular piece of aluminum plate 8 in. wide and 1 1/2 in. thick if the length of the cut is 8 in., the power hacksaw makes 120 rev/min and average feed per stroke is 0.0060 in.?","[""13.11"",""11.11"",""14.01"",""12.03""]",1
+"A cast iron flywheel is rotated at a speed of 1200 rpm and having a mean rim radius of 1 foot. If the weight of the rim is 30 lbs. what is the centrifugal force? Use factor C = 41.","[""14,800 lbs."",""7 ft."",""14,860 lbs."",""14,760 lbs.""]",3
+"A steel cylindrical air receiver with 5 ft. diameter and pressure load of 180 psi, design stress of 9500 psi maximum. The pressure vessel is to be provided with 1 ½ in. diameter drain valve installed at the bottom of the vessel and safety pressure relief valve installed either at the top most or at the side with pop – out rating of 200 psi. Assume a 100% weld joint efficiency. The lap welding tensile strength is 65,000 psi. Determine the bursting pressure of this air receiver.","[""1154 psi"",""1354 psi"",""1454 psi"",""1254 psi""]",1
+"The tooth thickness of a gear is 0.5 inch and its circular pitch is 1.0 inch. Calculate the dedendum of the gear.","[""0.3183"",""1.250"",""0.3979"",""0.1114""]",2
+"A hollow shaft has an inner diameter of 0.035 m and an outer diameter of 0.06 m. Compute for the torque if the shear stress is not to exceed 120 MPa in Nm.","[""4500"",""4100"",""4300"",""4150""]",0
+"The path of contact in involute gears where the force/power is actually transmitted. It is a straight imaginary line passing through the pitch point and tangent to the base circle.","[""principal reference plane"",""pitch point"",""front angle"",""line of action""]",3
+"It is a problem of expansion and shrinkage of steel material so that the slightly bigger shafting of 2 “ diameter can be inserted/fitted to the slightly smaller hole of a steel bushing of 1.999 “<br/>
+diameter with the following process/material/data to apply: Coefficient of expansion of carbon steel = 0.0000068 in/in F Temperature raised by gas heating = 24.5 F Cooling media to use dry ice with boiling point of -109.3°F (-78.5°C) Shrinkage rate below boiling point is 0.00073 in/in Determine the final clearance between the expanded steel bushing hole against the shrinkage of the steel shaft.","[""0.000793 in."",""0.000693 in."",""0.000750 in."",""0.000800 in.""]",0
+"What modulus of elasticity in tension is required to obtain a unit deformation of 0.00105 m/m from a load producing a unit tensile stress of 44,000 psi?","[""42.300 x 10<sup>6<\/sup> psi"",""41.202 x 10<sup>6<\/sup> psi"",""43.101 x 10<sup>6<\/sup> psi"",""41.905 x 10<sup>6<\/sup> psi""]",3
+"Compute the pitch angle of a bevel gear given the pinion’s number of teeth of 14 and 42 teeth on the gear.","[""18.4\u00b0"",""28.4\u00b0"",""33.4\u00b0"",""38.4\u00b0""]",0
+"Compute for the tooth thickness of 141/2 spur gear with diameter pitch = 5.","[""0.3979"",""3.1831"",""0.03141"",""0.31416""]",3
+"What is the difference between a shaper and a planer?","[""the tool of the shaper moves while on the planer is stationary"",""the shaper can perform slotting operation while the planer cannot"",""the shaper handles large pieces while the planer handle only small pieces"",""the tool of the shaper moves in reciprocating motion while the tool in the planer moves in rotary motion""]",0
+"If the ultimate shear strength of a steel plate is 42,000 lb/in<sup>2</sup>, what force is necessary to punch a 0.75 inch diameter hole in a 0.625 inch thick plate?","[""63.008 lbs."",""68,080 lbs."",""61,800 lbs."",""66,800 lbs.""]",2
+"A steel tie rod on bridge must be made to withstand a pull of 5000 lbs. Find the diameter of the rod assuming a factor of safety of 5 and ultimate stress of 64,000 lb/in<sup>2</sup>","[""0.75 in."",""0.71 in"",""0.84 in."",""0.79 in.""]",1
+"If the weight of 6” diameter by 48” long SAE 1030 shafting is 174.5 kg. then what will be the weight of chromium SAE 51416 of same size?","[""305.5 lbs."",""426.4 lbs."",""384.6 lbs."",""465.1 lbs.""]",2
+"Compute the circular pitch (in inch) of a pair of gears having a ratio of 4 and a center distance of 10.23. Each gear has 72 teeth and pinion has 18 teeth.","[""0.8095"",""0.7825"",""0.8035"",""0.8085""]",1
+"A journal bearing with diameter of 76.2 mm is subjected to a load of 4900 N while rotating at 200 rpm. If its coefficient of friction is 0.02 and L/D = 2.5, find its projected area in mm<sup>2</sup>.","[""12,090"",""14,165"",""13,050"",""14,516""]",3
+"A flywheel rotates at 120 rpm or 12.57 rad/sec slowed down to 102 rpm or 10.68 rad/sec during the punching operation that requires ¾ second of the punching portion of the cycle. Compute<br/>
+the angular acceleration of the flywheel in rad/sec<sup>2</sup>.","[""-2.52 rad\/sec<sup>2<\/sup>"",""3.15 rad\/sec<sup>2 <\/sup>"",""-2.75 rad\/sec<sup>2<\/sup>"",""2.22 rad\/sec<sup>2<\/sup>""]",0
+"A drop hammer of 1 ton dead weight capacity is propelled downward by a 12 in diameter cylinder. At 100 psi air pressure what is the impact velocity if the stroke is 28 inches?","[""63.2 fps"",""15.8 fps"",""31.6 fps"",""47.4 fps""]",2
+"Compute the nominal shear stress at the surface in MPa for a 40 mm diameter shaft that transmits 750 kW at 1500 rpm. Axial and bending loads assumed negligible. Torsional shearing stress is 28 N/mm<sup>2</sup>.","[""218"",""312"",""232"",""380""]",3
+"A truck skids to stop 60 m after the application of the brakes while travelling at 90 km/hr. What is the acceleration in m/sec<sup>2</sup>?","[""-5.21 m\/s<sup>2<\/sup>"",""6.36"",""-7.06"",""5.76""]",0
+"A spur pinion rotates at 1800 rpm and transmits to a mating gear 30 HP. The pitch diameter is 4” and the pressure angles pressure angle is 14 1/2. Determine the tangential load in lbs.","[""495"",""525"",""535"",""475""]",1
+"A high alloy spring having squared and ground ends and has a total of 16 coils and modulus of elasticity in shear of 85 GPa. Compute the Wahl factor. The spring outside diameter is 9.66 cm<br/>
+and wire diameter is 0.65 cm.","[""1.058"",""1.10"",""1.185"",""1.2""]",1
+"Two idlers of 28 T and 26 T are introduced between the 24 T pinion with a turning speed of 400 rpm driving a final 96 T gear. What would be the final speed of the driven gear and its direction<br/>
+relative to the driving gear rotation?","[""120 rpm and opposite direction"",""100 rpm and opposite direction"",""80 rpm and same direction"",""100 rpm and same direction""]",1
+"Compute the line shaft diameter to transmit 12 HP at 180 rpm with torsional deflection of 0.08 degrees per ft. length.","[""3 in."",""5 cm"",""2.35 in"",""62 mm""]",2
+"The allowable stresses that are generally used in practice are 4 ksi for main power transmitting shaft, 6 ksi for line shaft carrying pulleys and 8.5 ksi for small short shaft/countershaft, etc. With<br/>
+these allowable stresses what will be the simplified formula to determine transmitted HP, diameter of the shaft or even the rpm(N)?","[""HP=D<sup>3<\/sup>N\/80"",""HP=D<sup>3<\/sup>N\/531\/2"",""HP=D<sup>3<\/sup>N\/38"",""all of these""]",3
+"A helical gear a 14 ½° normal pressure angle and transverse diameter pitch of 2.3622 per cm. the helix angle is at 45° and has 8 teeth. Compute the transverse pressure angle in degrees.","[""22.2\u00b0"",""18.9\u00b0"",""19.3\u00b0"",""20.1\u00b0""]",3
+"Compute the maximum unit shear in a 3 inch diameter steel shafting that transmits 2400 in lb. of torque at 99 rpm.","[""4530 psi"",""4250 psi"",""3860 psi"",""4930 psi""]",0
+"To facilitate the milling (roughing) work of a cast steel material using material using a 11/2 inch diameter cutter choose between the two available stock. Find the speed of the cutter in rpm.<br/>
+-high speed steel cutter with a cutting speed of 50 fpm<br/>
+-carbide tipped cutter with a cutting speed of 200 fpm","[""389"",""572"",""509"",""412""]",2
+"The U.S standard gage for iron and steel was established in 1893 which is primarily a weight gage. The basis is the weight of wrought iron which is at _______ lbs. per cubic foot.","[""480"",""493"",""490"",""488""]",0
+"Calculate the cutting speed in fpm when spindle speed of a lathe is turning 8 inch diameter bronze casting using a spindle speed of<br/>
+120 rpm.","[""220 fpm"",""3016 fpm"",""2510 fpm"",""251 fpm""]",3
+"The lathe compound is used for:","[""angle cutting"",""grooving"",""facing"",""shaping""]",2
+"If the ultimate shear stress of a 1/8 inch thick drawn steel plates is 35 ksi what force is required to punch a 1 1/2 inch diameter hole?","[""10.011 lbs"",""22.322 lbs"",""11 Mtons"",""20620 lbs""]",3
+"Brazing is more superior than soldering in joining metals because:","[""higher melting temperature joining"",""molten metal flaws between joints because of capillary forces"",""it has slight diffusion of metal involved"",""all of these""]",3
+"To finally complete milling (finishing) work of steel material the operator has the option to choose the better available cutter in stock and these are:<br/>
+-both 1 1/2 inch diameter<br/>
+-high speed steel with recommended cutting speed of 90 fpm<br/>
+-carbide tipped with cutting speed of 300 fpm<br/>
+Compute the rpm of the cutter","[""801"",""620"",""764"",""264""]",2
+"A ball is thrown vertically upward with a speed of 24.38 m/s. Then 2 seconds later a second ball is projected vertically upward too with a speed of 18.28 m/s. At what point above will they meet?","[""17.62m"",""15.62 m"",""16.62 m"",""21.62 m""]",2
+"Babbit bearing material maybe melted in a pouring ladle over an open fire. The temperature is about right when a wooden pine stick used for stirring chars but does not ignite and at that stage the molten metal temperature is in the vicinity of ________ °F.","[""1010"",""870"",""760"",""590""]",1
+"The purpose of______is to prevent gears from jamming together and making contact on both sides of their teeth simultaneously","[""tooth fillet"",""stress relieving"",""backlash"",""all of these""]",2
+"Any internal/residual stress in a steel work can be remedied by:","[""tempering"",""stress relieving"",""annealing"",""all of these""]",3
+"The usual shrinkage allowance specified for patterns to compensate for the expected shrinking of cast steel parts<br/>
+construction of steel casting in cooling:","[""1\/8 inch\/ft"",""3\/16 inch\/ft"",""3\/32 to 1\/8 inch\/ft"",""5\/32 to 7\/32 inch\/ft""]",1
+"Choose the economical type of material for gears that give/sustain good operating quality/life for intended operation","[""plane carbon steel"",""high alloy steel"",""heat treated carbon steel"",""all of these""]",2
+"A material plane was subjected to a load. When the load was removed the strain disappeared. From the structural change which of the following can be considered about this material?","[""it does not follow Hooke\u2019s Law"",""it has high modules of elasticity"",""it is elastic"",""it is plastic""]",2
+"Compute the power transmitted in HP by the shaft rotating 1200 rpm and subjected to torsional moment of 1200 MN.","[""202"",""252"",""150"",""171""]",0
+"Instantaneous center is also called___________.","[""rotopole"",""virtual center"",""centro"",""all of these""]",1
+"What is the stress to strain ratio within the elastic limit?","[""elastic limit"",""modulus of elasticity"",""elasticity"",""compressive ratio""]",1
+"A spur pinion supported on each side by ball bearings rotates 1750 rpm and transmit to a mating gear at 25 Hp. The pressure angle is 20 degrees and the pitch diameter is 5. Determine the tangential load in lbs.","[""420"",""300"",""360"",""400""]",2
+"In a spring design, spring index of 7 through 9 is best 4 through 7 and 9 through 16 are often used but spring index of________should be avoided due to difficulties in making etc.","[""4"",""less than 5"",""5 or less"",""all of these""]",1
+"Allowance added in the casting pattern to compensate for the contraction of metal","[""tapering allowance"",""shrinkage allowance"",""finish allowance"",""draft pattern""]",1
+"Ratio of the angle of action to the pitch angle","[""contact ratio"",""approach ratio"",""ratio of gearing"",""module""]",0
+"General purpose grade of steel used for broiler plate, structural etc. usually with carbon content of______.","[""0.20 to 0.30%C"",""0.35 to 0.50%C"",""0 .15 to 0.25%C"",""all of these""]",0
+"The angle made by the helix of the thread(in a straight thread) at the pitch diameter with a plane perpendicular to the axis called__________.","[""angle of thread"",""truncation"",""lead angle"",""lead""]",2
+"The principle materials used in the production of metal working tools:","[""high carbon steel"",""tungsten, silicon, had-field Mn"",""titanium, phosphorous"",""vanadium, chromium, molybdenum""]",0
+"In the interest of design simplification and good kinematic compromise bevel gears adopted a standard pressure angle of ___________ degrees.","[""20\u00b0 involute stub"",""20\u00b0"",""141\/2 involute full depth"",""171\/2""]",1
+"The property of material that relates the lateral strain to longitudinal strain.","[""stress"",""strain"",""Poisson\u2019s circle"",""endurance limit""]",2
+"Also called eccentrically loaded bearing is ________.","[""full bearings"",""offset bearing"",""partial bearing"",""fitted bearings""]",1
+"In the selection of wire rope, regular lay means wires and strands are arranged in the following manner:","[""twisted in the same direction"",""twisted in any direction"",""twisted in opposite direction"",""twisted in along direction""]",2
+"In involute teeth, the pressure angle is often defined as the angle between the line of action and the line of tangent to the pitch circle. It is also termed as","[""helix angle"",""angle of recess"",""Angle of obliquity"",""Arc of action""]",2
+"A lineshaft runs at 360 rpm. An 18” pulley on the same shaft is belt connected to a 12” pulley on the counter-shaft. From a 15” pulley on the counter-shaft motion is transmitted to the machine. Compute/check the required of the pulley on the machine to give a spindle speed of 660 rpm.","[""16\u201d"",""12 1\/4\u201d"",""101\/2\u201d"",""81\/2\u201d""]",1
+"Height of tooth above pitch circle or the radial distance between pitch circle and top land of the tooth.","[""top root"",""addendum"",""land"",""hunting tooth""]",1
+"The function of clutch in the machine tool is?","[""lowering of drive speed"",""to disconnect or connect at will the drive"",""alignment of drive shaft"",""to insure that two shaft line up at high speed""]",1
+"It is generally recommended and normal for a designer to add a hunting tooth to evenly distribute the wear on meshing teeth like a 53 teeth gears mesh with 30 teeth pinion. Find the rotation of pinion to mesh with same pair of teeth again","[""120"",""81"",""61"",""53""]",3
+"The shaft whose torque varies from 2000 to 6000 in lbs. has 1 1/2 in in diameter and 60000 psi yield strength. Compute for the shaft mean average stress.","[""6036 psi"",""6810 psi"",""5162 psi"",""5550 psi""]",0
+"The angle made by the helix of the thread (in a straight thread) at the pitch diameter with a plane perpendicular to the axis is called __________.","[""lead angle"",""truncation"",""lead"",""angle of thread""]",0
+"The rule of thumb in journal bearing design; the clearance ratio/clearance should be.","[""0.0090"",""0.0042"",""0.0010"",""0.00120""]",2
+"The moment of inertia of a rectangle whose base is “b” height “h” about its base is","[""bh<sup>3<\/sup>\/4"",""bh<sup>3<\/sup>\/12"",""bh<sup>3<\/sup>\/24"",""bh<sup>3<\/sup>\/3""]",3
+"Cold rolled shafting is not available in diameter larger than__________","[""6 inches"",""5 inches"",""6 \u00bd inches"",""5 \u00bd inches""]",1
+"What power would a spindle 55 mm in diameter transmit at 480 rpm. Stress allowed for short shaft is 59 newtons/mm<sup>2</sup>","[""45.12 kw"",""50.61 kw"",""45 Hp"",""39.21 kw""]",0
+"The cast iron flywheels are commonly designed with a factor of safety of______","[""14 to 15"",""10 to 13"",""8 to 9"",""6 to 12""]",1
+"A pair of equal and opposite (not collinear) forces that tend cause a rotation of a body","[""couple"",""centroids"",""equilibrium"",""vector""]",0
+"The ratio of the pitch diameter in inches to the number of teeth","[""pitch circle"",""English module"",""module"",""pitch diameter""]",1
+"When the motion is diminished/decreasing instead of increasing is called.","[""deceleration"",""uniform negative impulse"",""retarded motion"",""all of these""]",2
+"_______is a unit or energy?","[""ft.-lb."",""hp"",""BTU\/hr."",""watt""]",0
+"When high strength and durability are a requirements for choosing gear materials it is preferable to use_________ material.","[""hardened bronze"",""steel"",""phenolic laminated"",""white iron""]",1
+"_________forces when action are parallel","[""couple"",""non collinear"",""resultant"",""non concurrent""]",3
+"The product of the mass and the velocity of the center of gravity of the body is called.","[""linear momentum"",""angular impulse"",""linear impulse"",""angular momentum""]",0
+"The distance between similar, equally-spaced tooth surfaces in a given direction and along a given line.","[""pitch circle"",""pitch plane"",""pitch"",""pitch diameter""]",2
+"A drop hammer of 1 ton dead weight capacity is propelled downward by a 12 inch diameter cylinder. At 100 psi air pressure what is the impact velocity if the stroke is 28 inches?","[""47.4 ft\/sec"",""31.6 ft\/sec"",""15.8 ft\/sec"",""63.2 ft\/sec""]",1
+"Could be defined as simply push and pull.","[""power"",""inertia"",""work"",""force""]",3
+"Opposite directional forces equal in magnitude and parallel is called_________","[""non coplanar"",""centroid"",""couple"",""coplanar""]",2
+"Quantities such as time , volume and density are completely specified when their magnitude is known is also called","[""couple"",""resultants"",""components"",""scalar""]",3
+"The use of hardened steel for the mating metal gear appears to give the best results and longer operational life. The usual hardness is in the range of","[""over 600 BHN"",""300 to 400 BHN"",""below 350 BHN"",""over 400 BHN""]",0
+"_______ is the product of the resultant of all forces acting on a body and the time.","[""linear momentum"",""linear impulse"",""angular momentum"",""all of these""]",1
+"The separate forces which can be so combined are called","[""concurrent forces"",""non concurrent forces"",""couple"",""component forces""]",3
+"Continuous stretching under load even if the stress is less than the yield point","[""plasticity"",""elasticity"",""creep"",""ductility""]",2
+"The most known lubricants being utilized in whatever category of load and speed are oil, air, grease and dry lubricants like","[""bronze"",""lead"",""silicon"",""graphite""]",3
+"A coupling that allows axial flexibility/movement in the operation. Made of alternate bolting of steel, leather, fabric and/or plastic material into the two flanges","[""Flexible disk coupling"",""flexing Oldham coupling"",""Flexible toroidal spring coupling"",""Elastic-material bonded coupling""]",0
+"It consists of two cranks, a stationary piece called the line of centers and the connecting rod is a","[""five-bar linkage"",""four-crank braces"",""three-crank linkage"",""four-bar linkage""]",3
+"Used to change rotary motion to reciprocating motion____________","[""rack gears"",""hypoid gears"",""Helical gears"",""herringbone gears""]",0
+"The effective face width of a helical gear divided by gear axial pitch","[""approach ratio"",""Arc of action"",""Arc of recess"",""Face overlap""]",0
+"Pitch diameter less the diameter of the roller chain is equal to:","[""top land"",""bottom diameter"",""addendum"",""Face overlap""]",1
+"Generally applied on speed reducer due to large speed ratio:","[""bevel gears"",""helical gears"",""worm gears"",""hypoid gears""]",2
+"If shaft size is specified as-diameter 2.00” max. and 1.99” min. in diameter then the 0.010” could be defined as________","[""allowance"",""fit"",""variance"",""tolerance""]",3
+"A material plane was subjected to a load. When the load was removed the strain disappeared. From the structural change which of the following can be considered about this material?","[""it has high modules of elasticity"",""it does not follow Hooke\u2019s Law"",""it is plastic"",""it is elastic""]",3
+"Helix angle in the range of ______ degree is recommended for wide-face helical gears","[""less than 15"",""less than 20"",""20 to 35"",""20 to 22""]",0
+"A step shaft made of SAE 1117 steel with an ultimate strength of 69.7 ksi. The notch sensitivity factor is 0.983 and 0.00435 is the constant dependent upon the ultimate strength check the radius of the stress raiser.","[""0.192"",""0.386"",""0.25"",""0.775""]",2
+"Difference between maximum material limits of mating parts . Or it is a minimum clearance or maximum interference between parts","[""tolerance"",""fits"",""variance"",""allowance""]",3
+"The changes in shape or geometry of the body due to action of a force on it is called deformation or _____","[""shear stresses"",""stresses"",""compressive stress"",""strains""]",3
+"For an evenly distributed and uniform wear on each meshing gear tooth, the ideal design practice is to consider a ______________","[""wear resistance alloy addition to tooth gears"",""heat treatment of the gears"",""hardening of each tooth"",""hunting tooth addition""]",3
+"The reciprocal of a diametral pitch or the ratio of the pitch diameter to the no. of teeth","[""lead"",""module"",""involute"",""clearance""]",1
+"Ability to resist deformation under stress","[""plasticity"",""all of these"",""stiffness"",""toughness""]",2
+"Flat leather belting not recommended for used in a speed in excess of____ fpm.","[""3600"",""4800"",""6000"",""all of these""]",2
+"The angle included between the sides of the thread measured in an axial plane in a screw thread","[""angle of thread"",""Angle between thread or 40"",""Helix angle thread"",""Half angle thread or 20\u00b0""]",0
+"An elastic body whose primary function is to deflect under load","[""clutch"",""stopper"",""brake"",""spring""]",3
+"Determine the estimated weight of a ¾” x 6’ x 20’ steel plate","[""1809 kgs"",""1490 kgs"",""1709 kgs"",""1666 kgs.""]",3
+"Steel plates allowable tensile strength","[""396.41 N\/m<sup>2<\/sup>"",""296.12 N\/m<sup>2<\/sup>"",""379.31 N\/m<sup>2<\/sup>"",""310.11 N\/m<sup>2<\/sup>""]",0
+"Poisson’s Ratio is the ratio of","[""elastic limit to yield strength"",""lateral deformation to the longitudinal deformation"",""shear strain to unit strain"",""elastic limit to shear strength""]",1
+"Manganese steel standard designation, SAE_______","[""13xx"",""10xx"",""11xx"",""8xx""]",0
+"One of these materials is not a structural steel?","[""low carbon steel"",""tool and die steel"",""stainless steel"",""medium carbon steel""]",1
+"Determine the torque received by the motor shaft running at 4250 rpm. Transmitting 11 Hp, through a 10 in diameter 20° involute gear. The shaft is supported by ball bearings at both ends and the gear is fixed at the middle of 8” shaft length","[""163 in lb."",""167 in. lb."",""132 in. lb."",""138 in. lb.""]",0
+"The ratio of moment of inertia on a cross-section of a beam to this section modulus is","[""a measure of distance"",""equal to the radius of gyration and compression"",""multiplied by the bending moment of inertia to determine the yield stress"",""equal to the area of the cross-section and tension""]",0
+"The SAE 2340 shafting contain___________% Nickel","[""3.85 Ni"",""4% Ni"",""3.25 to 3.75 % Ni"",""3.84% Ni""]",2
+"Chromium steel standard designation SAE ___________","[""92xx"",""5xxx"",""3xxx"",""11xx""]",1
+"Alloy that improves strength of steel at high temperature application","[""aluminum"",""manganese"",""silicon"",""chromium""]",3
+"When an air entraintment agent is put into a concrete mix","[""the water\/cement ratio must be reduced"",""the strength will decrease"",""minimal effect"",""the strength will suffer up to 50%""]",1
+"In general, alloys with high nickel content retain toughness to quiet low temperatures up to ______ °F.","[""-380"",""-400"",""-260"",""-320""]",3
+"The differential of the shear equation is the ______ .","[""deflection of the beam"",""comprehensive strength of the beam"",""tensile strength of beam"",""load on the beam""]",3
+"It is recommended not to have a direct drive between driven and drive sprockets if the ratio of their teeth exceeds _______. Use 2 or more step combination.","[""10 times"",""8 times"",""5 times"",""6 times""]",1
+"The length of the hub should not be made lesser than the face width of the gear. Hub lengths usually vary from 1 25D to 2D where d is the shaft diameter. The reasonable diameter of steel hub should be","[""2D"",""1.8 D"",""1.55 D"",""1.20 D""]",1
+"Length of contact between two mating parts in a screw and nut threads measured axially is termed ______.","[""Length of Engagement"",""Axis of contact"",""Arc of contacts"",""Depth of Engagement""]",0
+"The sum of their addendums and dedendums","[""whole depth"",""full depth"",""width of space"",""working depth""]",0
+"Stresses that are independent of loads is called __________","[""working stress"",""residual stresses"",""simple stress"",""combined stress""]",1
+"Material having a high electrical resistance and should not be used as conductor of electrical current","[""nickel"",""aluminum oxide"",""silicon base alloys"",""iron oxide""]",0
+"The best materials for brake drums is______.","[""aluminum"",""cast iron"",""steel material"",""wrought iron""]",1
+"The alloy materials used in the production of metal working tools","[""titanium, phosphorous"",""tungsten, silicon, hadfield mn"",""vanadium, chromium, molybdenum"",""high carbon steel""]",3
+"The property that characterizes a material’s ability to be drawn into a wire","[""tensile strength"",""ductility"",""endurance limit"",""thermal conductivity""]",1
+"For steel shafting design in an average condition the maximum distance in feet between bearing to avoid excessive linear deflection is by formulas- L = 8.95 <sup>3</sup>√D<sup>2</sup> or 8.95 D<sup>2/3</sup> for shaft subjected to no bending except its own weight but for shafting with bending action of pulleys etc. the formula then will be L = __________.","[""4 D<sup>2\/3<\/sup>"",""7.0 D<sup>2\/3<\/sup>"",""5.2 D<sup>2\/3<\/sup>"",""6.0 D<sup>2\/3<\/sup>""]",2
+"Which of the phases of steel elements has a face-centered cubic structure?","[""pyrite"",""austenite"",""cementite"",""all of these""]",1
+"Steel spring material is usually hardened to 400 to 500 BHN and the carbon content is in the range of ____","[""0.50 to 0.90 %"",""all of these"",""0.45 to 0.48"",""0.96 to 0.97""]",0
+"Principal stresses occur on these plane","[""which are subjected to ultimate tension"",""which are subjected to maximum compression"",""The shearing stress is zero"",""which are 45\u00b0 apart""]",2
+"The property of material wherein the content is continuously distributed through its entire mass","[""plasticity"",""malleability"",""homogeneity"",""all of these""]",2
+"The properties of metal to withstand loads without breaking down is","[""elasticity"",""strength"",""plasticity"",""strain""]",1
+"Shafts readily available in the market are made in many ways and wide variety of material composition. It is likely be cold drawn carbon steel in size smaller than __________ inches diameter","[""3.75"",""4"",""5"",""51\/2""]",0
+"Plain carbon steel standard designation SAE ________","[""6xxx"",""13xx"",""10xx"",""2xxx""]",2
+"If the inertia is 90 lb. ft<sup>2</sup> and the speed of the driven shaft is to be increased from 0 to 2500 rpm in 5 seconds, shaft material is of SAE 4140 with yield strength of 110000 lbs./in<sup>2</sup>, find the clutch starting torque in in. lb ft.","[""159"",""128"",""146"",""191""]",2
+"The rigidity of polymer can be increased by","[""fumace melting"",""normalizing"",""crystallization"",""shot opening""]",2
+"The difference between cast steel and cast iron","[""cast steel has usually less than 1 %"",""while cast iron has 2% or 3.6% carbon range"",""cast iron has lower strength more brittle and has lower ductility than cast steel"",""all of these""]",2
+"It is a general practice to use the following allowable stresses 4000 psi for main transmitting shaft and 8500 psi for small short shafts and counter shaft for line shaft carrying pulley it is ______ psi.","[""7800"",""7000"",""6000"",""6500""]",2
+"How many 5/16 inch holes can be punch in one motion in a steel plate made of SAE 1010 steel 7/16 inch thick using a force of 55 tons. The ultimate strength for shear is 50 ksi and use 2 factor of safety","[""5.8"",""3.7"",""5"",""6.5""]",2
+"Drilling machine cannot do","[""reaming"",""spot facing"",""lapping"",""broaching""]",1
+"Material charges in foundry melting operation are composed of","[""limestone, foundry coke and silica sand"",""steel scrap alloys and charcoal\/foundry coke"",""iron ore, quartz and charcoal"",""scrap wood alloys and limestone""]",0
+"________is a work-supporting device which is bolted to the saddle of the lathe machine. It travels with the cutting tool it is a prevention of the springing away of the workpiece from cutting tools","[""rubber-flex collets"",""tool post"",""follower rest"",""carriage stop""]",2
+"Almost always the soldering materials are a combination of the following alloys","[""all of these"",""lead &amp; tin"",""tin &amp; antimony"",""lead &amp; antimony""]",1
+"The most popular of all soldering materials in use has composition of.","[""45\/55% tin &amp; lead"",""50\/50% tin &amp; lead"",""all of these"",""60\/40% tin &amp; lead""]",1
+"The relative strength of a butt welding could be safety assumed as____% efficiency.","[""95"",""98"",""90"",""92""]",2
+"Which of the following raw materials are used in the foundry molding operation?","[""silica sand, bentonite, flour\/paste water"",""silica sand paste,graphite electrode"",""silica sand and paste"",""silica sand, linseed oil, flour""]",0
+"The following are parts of a micrometer caliper except for","[""thimble"",""head screw"",""spindle"",""anvil""]",1
+"To avoid brittleness of weld or the residual stress in the welding it is normally stress relieved of___","[""normalizing"",""tempering"",""flame hardening"",""annealing""]",1
+"Steel with certain % of carbon maximum can readily be welded by all process and the resulting strength of the portion welded is as strong as the base material","[""0.15% C max"",""0.35 % C max"",""0.25 % C max"",""0.30%C max""]",3
+"A kilowatt is equal to _________","[""8851.2 in-lb\/sec."",""1140 joule\/sec."",""57 BTU\/min"",""44.200 ft. \u2013lb.\/min.""]",2
+"Molybdenum-chromium-nickel steel designation","[""SAE48xx"",""SAE43xx"",""SAE56xx"",""SAE46xx""]",1
+"Single forces which produces the same effect upon a mass replacing two or more forces acting together is called","[""vector"",""resultant"",""component of forces"",""resolution""]",1
+"Permissible variation of the manufactured/machined dimension is called ___________","[""intolerance fits"",""deviation"",""allowance"",""tolerance""]",3
+"Peculiar strength of the metal to resist being crushed","[""shear strength"",""ultimate strength"",""compressive strength"",""elastic limit""]",2
+"What pressure is required for punching a hole 2” dia thru ¼” steel plates?","[""40 tons"",""50 tons"",""45 tons"",""35 tons""]",0
+"What is the working strength of a 2” bolt which is screwed up tightly in a packed joint when the allowable working stress is 12,000 psi","[""20.4 ksi"",""22.4 ksi"",""23.4 ksi"",""18 ksi""]",0
+"Determine the bursting steam pressure of a steel shell with diameter of 10 inches and made of ¼ thick steel plate. The joint efficiency is at 70% and the tensile strength is 60 ksi","[""4200 psi"",""10.5 ksi"",""42.8 ksi"",""8500 psi""]",0
+"Commonly used by steel melter as deoxidizer because of its easy availability and cheap price","[""silicon"",""aluminum"",""zinc"",""manganese""]",1
+"Curve formed by the path of a point on a straight line as it rolls along a convex base curve. The base curve is usually a circle and generally used as the profile of gear tooth.","[""axial plane"",""involute"",""arc or recess"",""arc of action""]",1
+"Resultant of two or more component forces is called___________","[""composition of forces"",""resultant"",""component"",""collinear of forces""]",0
+"A material having a high electrical resistance and should not be used for conductor of electric current","[""alloyed magnesium"",""silicon base alloy"",""nickel"",""zinc""]",2
+"A radian is equal to_________","[""57.020\u00b0"",""57.296\u00b0"",""57.706\u00b0"",""57.190\u00b0""]",1
+"It improves red hardness of steel","[""silicon"",""lead"",""cobalt"",""manganese""]",2
+"Designated pipe color used in communication","[""silver gray"",""aluminum gray"",""bare"",""white""]",3
+"The design stress and factor of safety are related in the following manner","[""design stress = ultimate stress\/ factor of safety"",""ultimate stress = factor of safety \/ design stress plus concentration factor"",""factor of safety = design stress \/ ultimate stress"",""design stress = factor of safety \/ times stress concentration factor""]",0
+"Not adaptable to welding due to low tensile strength and poor ductility etc","[""copper parts"",""cast iron materials"",""aluminum parts"",""bronze parts""]",2
+"Bearing surface that completely surrounds the journal is also called _______","[""offset bearing"",""full bearing"",""centrally loaded bearing"",""babbit bearing""]",1
+"The purpose of lubrication is as mentioned except","[""to lighten the load"",""prevent corrosion\/oxidation"",""prevent adhesion"",""cool the moving elements""]",0
+"Tools usually used in wood pattern making in foundry shop.","[""saws and chisels"",""band saw"",""knives and drills"",""drill machine""]",0
+"________is a plane perpendicular to the axial plane and to the pitch plane in gears the parallel axes; and the plane of rotating coincide","[""tangent plane"",""straight plane"",""transverse"",""reference plane""]",2
+"A 36 tooth pinion with a turning speed of 300 rpm drives 120 tooth gear of 14 ½ degrees involute full depth pressure angle. What would be the speed of the driven gear?","[""1000 rpm"",""100 rpm"",""90 rpm"",""140 rpm""]",2
+"Several force which can be combined is called.","[""resultants"",""composition of forces"",""components"",""collinear forces""]",2
+"The surface along the fillet curves or between the fillets radius of the two adjacent tooth or a gear","[""bottom land"",""flank"",""fillet"",""top land""]",0
+"The lack of backlash in a spur gear design/operation may result to __________","[""overloading"",""jamming"",""overheating"",""all of these""]",3
+"The distance from a point on a screw thread to a corresponding point on the next thread measure along the axis","[""flank"",""lead"",""crest"",""pitch""]",3
+"As recommended the center to center distance between sprockets should not be less than ____ times the bigger sprocket","[""2.216"",""1 3\/4"",""1 1\/2"",""2.59""]",2
+"Machine shop instrument for checking the flatness of plane surfaces to 10ths of thousandths of a centimeter","[""blade type micrometer"",""dial caliper"",""planimeter"",""micrometer""]",2
+"Molybdenum steel standard designation SAE ___________","[""88xx"",""48xx"",""40xx"",""46xx""]",2
+"Determine the minimum mean diameter of a taper pin for use to fix a lever to a shaft if it is transmit a max torque of 700 in-lbs. The shaft diameter is 2 inches and the material allowable stress is 15000 psi. Use factor of safety of 2.","[""7.0 mm"",""7.2 mm"",""5.2 mm"",""6.2 mm""]",3
+"Recommended design practice for steel lineshafting to limit the linear deflection to ________ inch/foot of length (maximum)","[""0.020"",""0.010"",""0.012"",""0.15""]",1
+"A link has a load factor of 0.8 the surface factor of 0.8 ; the surface factor is 0.92 and the endurance strength is 28000 psi. Compute the alternating stress of the link if it is subjected to a reversing load. Assume a factor of safety of 3.","[""8150"",""10920"",""9,333"",""7260""]",2
+"For acceptable ideal range of tightness which may result from the application of specific combination of allowances and tolerances.","[""allowance limit"",""tolerance limit"",""interference"",""Fit""]",3
+"Determine the safe wall thickness of a 30 inches steel tank with internal pressure of 7.82 MPa. The yield stress of material is at 275.48 MPa. The factor of safety to use is 2.0.","[""\u00be inch"",""232.6 cm"",""21.6 mm"",""5\/8 inch""]",2
+"The recommended center distance of sprockets should not be less than _________ times the diameter of bigger sprocket","[""1.75"",""2"",""1 \u00bd"",""2 \u00bc""]",2
+"An occupant moves toward the center of a merry go around at 6 meters/sec. If the merry go round rotates at 6 rev./min. Compute the acceleration component of the occupant normal to the radius","[""6.79"",""8.29"",""7.54"",""6.11""]",2
+"The absolute viscosity of the fluid divided by its density expressed in same term of units is also called _________","[""centistokes"",""kinematic viscosity"",""Petroffs equation"",""light petroleum oil""]",1
+"Find the tooth thickness on the tooth circle of a 20 degree full depth in volute tooth having a diametral pitch of 3, circular pitch of 1.0472 and whole depth of tooth at 0.60.","[""10.7 mm"",""13.2 mm"",""10.1 mm"",""7.9 mm""]",1
+"It is required that pipes bigger than ________ mm. should not be screwed but flanged","[""76.2"",""63.5"",""2 \u00bc inch"",""68.5""]",1
+"An eyebolt is lifting a block weighing 350 lbs. The eyebolt is of SAE C 1040 material with S<sub>u</sub> = 67 ksi and S<sub>2</sub> = 55 ksi what is the stress area (in inches square) of the bolt if it is under the unified coarse series thread?","[""1341"",""0.1134"",""0991"",""1043""]",1
+"Formed by the intersection of the adjacent flanks of adjacent threads when extended is called.","[""crest apex"",""all of these"",""sharp root"",""sharp crest""]",2
+"In designing the spoke or wheel arm of a flywheel it is ideal to consider that the cross-sectional area of the spoke at rim side should not be less than ________of the cross area at the hub side","[""80%"",""2\/3"",""90%"",""3\/8""]",1
+"Find the number of active coils of a No. 8 wire Helical Spring with index of 6, steady load with spring rate of 42.5 lb/in . Maximum allowable stress is 60 ksi","[""25"",""28"",""29"",""22""]",0
+"The cutting up to 70% is best for drilling extremely hard metals and for soft materials ______degrees may be applied","[""60"",""45"",""40"",""48""]",2
+"_________is the process necessary to reduce the brittleness in alloy steel","[""martempering"",""carburizing"",""normalizing"",""tempering""]",3
+"The total machinery weight plus the foundation weight should be well distributed in the corresponding soil area which is enough to cause a bearing stress within the safe bearing capacity of the soil with a factor of safety of _________.","[""4.5"",""3"",""4.2"",""5.0""]",3
+"The total weight of 2 steel plates size ¾” x 3’ x 20 ft. is","[""1838 lbs."",""1698 lbs."",""3676 lbs."",""1848 lbs.""]",0
+"Steel springs are made of high carbon steel heat treated and/or cold worked to a high elastic limit to get good elastic deflection. In general the carbon content is at _________.","[""0.40% or more"",""0.65% or more"",""0.5% or more"",""0.66% or more""]",2
+"In a chain drive design for large speed reduction it is preferable to use a double reduction or compound type of transmission instead of single two sprockets transmission. Drives should type be so designed that the angle between two tight chain strand does not exceed _____ degrees.","[""45"",""60"",""55"",""90""]",0
+"Method of finishing/shaping a machine part of exceptionally high carbon or high chromium steel parts (orveryhard material)","[""using oxygen lanching"",""using abrasive grinding"",""machining using carbine insert"",""machining using high speed tool steel""]",1
+"Alloy steel used in manufacturing bolts studs tubings subjected to torsional stresses","[""AISI 3141"",""AISI 2330"",""AISI4830"",""AISI 4310""]",1
+"Which of the following is not a viscoelastic material?","[""Teflon"",""plastic"",""metal"",""all of these""]",2
+"A resulting force that replace two or more forces acting together","[""vector"",""couple"",""resultant"",""equilibrant""]",2
+"Stress relieving is also_________ for the purpose of reducing the internal stresses of steel material/metal","[""tempering"",""normalizing"",""all of these"",""annealing""]",0
+"Matensite (stainless steel) contains 4 to 26% Cr. And a maximum of ______% nickel","[""2.5"",""3.25"",""3.5"",""2.0""]",0
+"Compute the deflection of a 18 coils helical soring having a load of 100 kgs. The modulus of elasticity in shear of spring is 96.62 GPa, OD of 9 256 cm and with diameter of 9 525 mm. The spring is square and ground ends.","[""9 mm"",""101 mm"",""112 mm"",""14 mm""]",1
+"A flanged bolt coupling has ten (10) steel 25.4 mm diameter bolts evenly tighten around a 415 mm bolt circle. Determine the torque capacity of the connection if the allowable shearing stress in the bolt is 50 MN/m<sup>2</sup>","[""59.95 KN-m"",""52.6 KN-m"",""46.15 KN-m"",""43.8 KN-m""]",1
+"The material that can cut/wear hardest substance subjected to:","[""carbide"",""abrasive"",""tungsten"",""vanadium""]",1
+"A ridge of uniform section in the form of a helix cut around the circumference of a cylinder and advancing along the axis","[""thread roots"",""helix thread"",""screw threads"",""chamfers""]",2
+"Cast iron flywheels are commonly designed with factor of safety of","[""10 to 13"",""10 to 12"",""10 to 14"",""8 to 13""]",0
+"Class of material exhibiting decreased electrical conductivity with increasing temperature","[""aluminum"",""p-type semiconductors"",""metals"",""n-type semiconductors""]",2
+"The welding made along the edges of two parallel plates is called ______","[""groove joint"",""fillet joint"",""edge joint"",""corner joint""]",2
+"Not part and in fact should not be used in the steel melting process","[""coke"",""silicon"",""zinc"",""aluminum""]",0
+"Rule of thumb in calculating the Equipment foundation mass should be ____ times the weight of the machinery it is supposed to support","[""3-5"",""3-6"",""3-9"",""2-4""]",0
+"The strength of non-ferrous alloys is at maximum at room temperature while that of ferrous metal has a maximum strength at_______ °F","[""400"",""1200"",""450"",""350""]",0
+"A 76.2 mm diameter shafting of SAE 1040 grade cold rolled, having a yield point of 50 ksi and with a ¾ x ¾ x 5 inches key. Compute the minimum yield point in the key in order to transmit the torque of the shaft. The factor of safety to used is 2 and Sys = 0.5Sy.","[""39.120 Ksi"",""42.130 Ksi"",""279.20 Ksi"",""47.120 Ksi""]",3
+"The ratio of stress acting on an elastic substance to the decrease in volume per unit volume","[""bulk modulus"",""modules of resilience"",""elastic limit"",""modules of elasticity""]",0
+"The normal helix angles in helical gear is recommended in the range of ______degrees.","[""less than 18"",""20 to 35"",""15 to 25"",""20 to 30""]",2
+"Type of bolt commonly used in the construction that is threaded in both ends","[""stud bolt"",""acne threaded bolts"",""hex bolt"",""square threaded bolts""]",0
+"It is rigid piece which serves to transmit force from a piece another piece or to cause/ control motion","[""follower"",""crank"",""cam motion"",""link""]",3
+"A 20 kgs. cast iron piece rest on a plain horizontal aluminum surface. To move the object it needs a force of 7 lbs. The density of AI is 0.098 lb/in<sup>3</sup> and iron is 0.260 lb/in<sup>3</sup>","[""0.172"",""0.186"",""1.601"",""0.160""]",3
+"Iron based alloy containing 9-16% chromium","[""Mn Hadfield steel"",""chrome-moly steel"",""stainless steel C"",""high chrome steel""]",2
+"It is ideal for maximum quietness in sprockets drive operation to choose _____ or more teeth","[""24"",""18"",""27"",""21""]",2
+"All associated with standard material specification except","[""American Iron and Steel Institute"",""Society of Automotive Engineers"",""Southeast Asia Iron and Steel Institute"",""American Society for Testing Materials""]",2
+"For stable equipment foundation the total combined engine driven equipment and foundation center of gravity must be kept below the foundation’s too that usually about ______ times the usual total combined weight of the machinery it is supposed to support.","[""A 3 to 4"",""3 to 7"",""2 to 4"",""3 to 5""]",3
+"A triple thread worm has a pitch diameter of 3 inches. The wheel has 25 teeth and a pitch diameter of 5 inches. Material for both the worm and the wheel is of phosphor bronze. Compute the helix angle (Tan α)","[""0.20"",""0.30"",""0.40"",""14""]",0
+"A cylinder tank with 10” inside diameter contains oxygen gas at 2500 psi. Calculate the required wall thickness in (mm) under stress of 28 000 psi","[""11.34 mm"",""10.24 mm"",""12.44 mm"",""10.54 mm""]",0
+"The process of peening the joint portion immediately after the welding greatly improves the fusion structures avoids possible cracking, avoids possible distortion etc. Peening can also _______ process at the same time","[""tempering"",""martampering"",""normalizing"",""annealing""]",0
+"The distance between rivet center nearest each other in adjacent rows is called ______","[""pitch"",""back pitch"",""margin"",""diagonal pitch""]",3
+"A major alloy in tool steel","[""Cr"",""Fen"",""Cobalt"",""Mn""]",0
+"A rule of thumb the speed limit of flywheel rim speed should be 6000 fpm for cast iron material and for cast steel flywheel rim at _______ meters/min","[""3050"",""4500"",""7000"",""10000""]",3
+"Should two equal and opposite collinear forces is added to the forces already in equilibrium, which of the following statement is true?","[""Unbalanced moment is maintained"",""Equilibrium is maintained"",""Equilibrium is disturbed"",""it creates an unbalanced situation""]",1
+"A pair of gear with gear ratio of 3 and 60 gear teeth of 14 ½ degree full depth tooth. The diametral pitch is 10. Compute the tooth thickness on the pitch circle","[""0.570 inch"",""0.352 inch"",""0.157 inch"",""0.142 inch""]",2
+"__________ addition imparts resistance to atmospheric corrosion in steel etc.","[""aluminum bronze"",""manganese"",""copper"",""bronze""]",2
+"The width of a tooth space exceeds the thickness of each of the engaging tooth on the pitch circle ________","[""allowance"",""bottom land"",""top land"",""backlash""]",3
+"Distance measured perpendicular to the axis between the crest of the thread and the root of its mating thread in a thread assembly of screws","[""tolerance class"",""crest truncation"",""crest clearance"",""tolerance limit""]",2
+"Percentage of cut on the return stroke of hacksaw blade is________","[""21"",""3 %"",""1 %"",""0 %""]",3
+"__________ is also called strain hardening","[""work hardening"",""quenching"",""annealing"",""normalizing""]",0
+"Imaginary formed by the intersection of the flanks of a thread when extended is called _______","[""Sharp Crest"",""Sharp root"",""Root apex"",""All of these""]",3
+"Compute the maximum deflection of a 20 coils helical spring having a load of 75 kgs. The spring is a square/ground ends with modulus of elasticity in shear of 79.84 GPa outside diameter of 101.6 mm wire diameter of a 9525 mm","[""140.7 mm"",""112.7 mm"",""15.17 mm"",""126.7 mm""]",3
+"_______ forces means when their lines of action can be extended to meet to one point","[""concurrent"",""centroids"",""collinear"",""resultants""]",0
+"The welded joints permit placing the added metal exactly where needed and produce an integral structure which can develop _____% efficiency on any thickness of section specially for mild steel materials","[""95%"",""85%"",""100%"",""90%""]",2
+"A keyed sprocket deliver a torque of 778 8 Nm thru the shaft of 54 mm OD . The key thickness is 1. 5875 cm and the width is 1.11 cm compute the length of the same key. The permissible stress value of 60 MPa for shear and 90 MPa for tension","[""39.12 cm"",""4.82 cm"",""52.22 cm"",""4.32 cm""]",3
+"Compute the cutting speed in fpm of a workpiece with 2 inches diameter and running at 100 rpm?","[""72"",""102"",""62"",""52""]",3
+"One horsepower is equal to _____________","[""556 ft.lb\/sec"",""748 Nm\/sec"",""746 joules\/sec"",""42.4 BTU\/min.""]",2
+"Compute the diameter of a solid shaft transmitting 75 Hp at 1800 rpm. The nature of the load and the type of service is such that the allowable Ss based on pure torsion is 6000 psi","[""1 7\/8\u201d"",""2 1\/16\u201d"",""1 5\/16\u201d"",""3 1\/8\u201d""]",2
+"Compute the safe wall thickness of a 76.2 cm diameter steel tank. The tank is subjected to 7.33 MPa pressure and the steel material has yield stress of 215.4 MPa. The factor of safety to use is 3","[""1 \u00bd inches"",""3.89 cm"",""4.09 cm"",""3.69 cm""]",1
+"A foot rule has how many 1/8”?","[""96"",""48"",""120"",""108""]",0
+"An elevator weighing 2000 lbs. is moving vertically upward with an acceleration of 3 ft./sec<sup>2</sup>. A man standing in said elevator weighs 180 lbs. Compute the tension in the supporting cable under this condition","[""2180 lbs."",""2191 lbs."",""1820 lbs."",""2366 lbs.""]",3
+"A watt is equivalent to _________","[""42.4 BTU\/min."",""1 Nm\/sec"",""44.20 ft.lb\/min."",""all of these""]",1
+"50% of ½ is","[""1\/100"",""0.25"",""25"",""001""]",1
+"The capsule orbits of the earth 180 km above the surface. In what velocity in m/s necessary for a circular orbit condenser the earth radius at 6400-km and at 9.2 m/sec<sup>2</sup>?","[""8864"",""7016"",""7780"",""8058""]",2
+"A small countershaft is 1 1/2 inch in diameter and has an allowable stress of 8500 psi. Find the horsepower delivered by the shaft at a speed of 125.7 rad/sec.","[""720"",""1.4"",""13.31"",""14.72""]",2
+"A wheel accelerates from rest with a = 5 radian/sec-sec. Compute how many revolutions made in 4 seconds?","[""5.71 rev"",""6.36 rev"",""7.00 rev"",""20.00 rev""]",1
+"The shaft is subjected to a steady load of 36,000 in lb. at a shear stress of 10,000 psi. Compute the diameter of the said shaft in inches","[""1 7\/8"",""2 \u00bc"",""3"",""2 \u00be""]",2
+"What minimum distance can a truck side on a horizontal asphalt road if it is travelling 25 m/s? The coefficient of sliding friction between asphalt and rubber tire is at 0.6. the weight of the truck is 8500 kg.","[""44.9"",""58.5"",""53.2"",""63.8""]",2
+"A Keyed gears deliver a torque of 912.4 Nm thru its shaft of 63.5 mm outside diameter. If the key has thickness of 15.875 mm and width of 11.1125 find the length of the key. Assume the permissible stress values of 61.2 MPa for shear and tension at 99.8 MPa.","[""47.42 mm"",""39.72 mm"",""42.22 mm"",""46.92 mm""]",2
+"A band brake is to absorb 5 Hp at 200 rpm. The maximum pressure of the lining and drum is 120 psi. the angle of wrap is 3.6 radians the width of the band is 3 inches and f = 0 15. Find the forces at the tight side. The diameter of the drum is at 8 inches","[""2680 lbs."",""2880 lbs."",""3880 lbs."",""2980 lbs.""]",1
+"A liquid full bucket is to be rotated in the vertical plane. What minimum angular velocity in radian/sec is needed to keep the liquid no spilling out if the rotating arm is 1.2 meters","[""2.26"",""25.6"",""3.10"",""2.86""]",3
+"Compute the speed a satellite must have to orbit the earth at an elevation of 100 km. Earth’s radius is at 6400 km. Assume no change of gravity with the elevation","[""6320 m\/s"",""7120 m\/s"",""8740 m\/s<sup>2<\/sup>"",""7920 m\/s""]",3
+"A 16 ft. steel lineshaft has no bending action except its own weight. What power in Hp can the shaft deliver at a speed of 200 rpm. Consider that the torsional deflection will not exceed 0.008/ft. of length","[""13.2"",""15.8"",""24.4"",""14.6""]",3
+"The torsional deformation of a SAE 1040 steel shaft is to 0.8° in a length of ½ meter. The shear stress is 69 Mpa. Compute the diameter of the shaft in millimeter. Steel modulus of elasticity is 79,300 Mpa or N/mm<sup>2</sup>","[""51"",""50"",""75"",""62""]",3
+"Compute how many 3/8 inch diameter set screws required to transmit 3 Hp at a shaft speed of 1000 rpm. The shaft diameter is 1 inch","[""1 \u00bd"",""2"",""3"",""1""]",1
+"A pair of gear/pinion of 42 tooth and 18 tooth with a diametral pitch of 0.7874 teeth/cm and the addendum is 0.8/p and dedendum 1/p. The gear pressure angle of 20°. Compute the center distance of the pair of gears in meters","[""0.5026 m"",""0.3426 m"",""0.3516 m"",""0.4013 m""]",3
+"Determine the width of a 6 ply rubber belt required for a ventilating fan running at 150 rpm driven from a 12 inch pulley on a 70 Hp at 800 rpm. The center distance between pulley is 12 ft. and the rated belt tension is 78.0 lb/in width","[""12\u201d"",""8\u201d"",""10\u201d"",""15\u201d""]",0
+"Compute for the torsional deflection in degrees of a 110 mm diameter, 1.4 m long shaft subjected to a twisting moment of 3 x 10<sup>6</sup> N-mm. The torsional modulus of elasticity is 83000 N/mm<sup>2</sup>","[""0.27"",""0.31"",""0.20"",""0.24""]",2
+"Find the torsional moment (in Newton-mm ) developed when the shaft delivers 20 kw at 200 rpm","[""0.85 x 10<sup>6<\/sup>"",""1.0 x 10<sup>6<\/sup>"",""1.20 x 10<sup>6<\/sup>"",""2.10 x 10<sup>6<\/sup>""]",1
+"Determine the load in kN on a 25 mm diameter 1200 mm long steel shaft if its maximum elongation exceeds 1 mm","[""83"",""125"",""103"",""93""]",0
+"Find the thickness of a metal needed in the semi-spherical end of a cylinder vessel 0.70 meter in diameter subjected to an internal pressure of 2.7 N/mm<sup>2</sup>. the material is mild carbon steel and tensile stress is 69 N/mm<sup>2</sup>.","[""5.2 mm"",""6.02"",""7.53 mm"",""6.84 mm""]",3
+"A 102 mm diameter shaft is driven at 3000 rpm by a 300 Hp prime mover. The shaft drives a 121.9 cm diameter chain sprocket having 85% output efficiency. Compute the torque in in-lb developed in the shaft","[""5,6000"",""7,100"",""8,150"",""6,300""]",3
+"Compute for the induced/compressive stress, in kPa, of a steel solid shafting of 50 mm diameter and 800 mm in length that is subjected to an increase of temperature by 80 degrees C","[""181,816"",""242,816"",""218,182"",""196,560""]",3
+"A mass weighing 56 lbs. rests on a horizontal surface. The force needed to move along the surface is 20 lbs. determine the coefficient of friction","[""0.0"",""0.112"",""0.36"",""0.28""]",2
+"Determine the time in seconds, to saw a rectangular magnesium bar 5 in. wide and 2 in. thick if the length of cut is 5 in. The power hacksaw does 120 strokes/min and the feed/stroke is 0.127 mm","[""189"",""500"",""99"",""20""]",1
+"A car travels with an initial velocity of 10 m/sec or 36 km/hr. If it is decelerating at rate of 3 m/sec-sec, how far in meters does it travel before stopping?","[""17"",""21"",""19"",""15""]",0
+"Compute for the twisting moment in in-lb developed when the shaft delivers 20 Hp at 1200 rpm","[""1166"",""915"",""1050"",""945""]",2
+"In an Oxy-Acetylene manual welding method to weld a 3 ½ ft. long seam in a 0.375” thick steel plate at a consumption rate of 9 ft<sup>3</sup>/ft for oxygen and 7 ft<sup>3</sup>/ft for acetylene. Compute for the total combined gas consumption in ft<sup>3</sup>","[""48"",""24.5"",""56"",""31.5""]",2
+"A cylinder tank with 10 inches inside diameter contains oxygen gas at 2500 psi. Calculate the required wall thickness in millimeter under stress of 28000 psi","[""10.54"",""11.34"",""10.24"",""12.24""]",1
+"Compute for the load in kN on a 3 cm diameter, 100 cm long steel rod if its maximum elongation exceed 0.12 cm","[""178"",""196"",""148"",""287""]",0
+"A baseball is thrown straight upward with a velocity of 20 m/s. Compute for the time elapsed for the baseball to return. Assume for a zero drag.","[""1.84"",""2.2"",""2.50"",""2.04""]",3
+"Compute for the polar section modulus of an SAE 1060 shafting having a diameter of 3 inches. Use a factor of safety of 2 and design stress at 8000 psi","[""4.7"",""6.1"",""4.2"",""5.3""]",3
+"Find the torsional deflection, in degrees of a solid steel shaft 110 mm OD 1.4 m long subjected to 3.1 x 10<sup>6</sup> N-mm. The torsional modulus of elasticity is 80,000 N/mm-mm","[""0.22"",""0.195"",""0.28"",""0.24""]",0
+"A short shaft transmits 200 hp at 300 rpm. Determine the diameter of the shaft in inches.","[""5"",""2"",""4"",""3""]",3
+"Forces not on the same plane are called","[""Component"",""Resolution"",""Non-coplanar"",""Composition of forces""]",2
+"The distance between the center of oscillation and the point of suspension is called ____","[""center of percussion"",""center of gravity"",""radius of oscillation"",""Fix axis""]",2
+"If the velocity is variable and regularly/constantly increasing the rate of change is called ____","[""Moment"",""Motion"",""Constant work"",""Acceleration""]",3
+"______is a kinematic chain in which one link is considered fixed for the purpose of analysis but motion is possible in other links","[""Sprocket chain"",""Belting"",""Mechanism"",""Frame""]",3
+"__________ is one of the rigid members/bodies joined together to form a kinematic chain","[""Coplanar"",""Link"",""Frame"",""All of these""]",1
+"The resultant of a pair of equal forces but opposite in direction is called ______","[""Non-concurrent"",""Concurrent"",""Resultant"",""Couple""]",3
+"The helical and herringbone gear teeth cut after heat treatment should have a hardness in the range of 210/300 BHN. The pinion gear teeth hardness, on the other hand ideally/normally should be at ______ BHN","[""250\/320"",""350\/380"",""400"",""340\/350""]",3
+"As a rule the center to center distance between sprocket should not be less than ____ times the diameter of the bigger sprocket and not less than 30 times the pitch nor more than about 50 times to pitch","[""2.5"",""2"",""3"",""1.5""]",3
+"A single forces which produces the same effect upon a mass as two or several forces acting together is called ______.","[""components"",""resultant"",""composition of forces"",""resolution of forces""]",1
+"All forces in the same plane are called ______","[""Parallel"",""Coplanar"",""Couple"",""Resultant""]",1
+"The forces of attraction between two bodies is directly proportional to the product of their masses and inversely proportional to distance square between their centers. This law is ________","[""Law of motion"",""Law of gravitation"",""Newton\u2019s law"",""Hook\u2019s law""]",1
+"Gears are manufactured usually in the following processes: milling, generating, shaving, grinding and _____ which is also used.","[""Blanking"",""Heat treatment"",""Molding"",""Dinking""]",0
+"Any object thrown upward will return to earth with the magnitude of the terminal velocity equal to","[""50% of the initial velocity"",""80% of the initially velocity"",""About 90% of the initial velocity"",""the initial velocity""]",3
+"Flat belt that is too tight will induce strain on the bearing and belt ________.","[""result to uneconomical operation"",""suffer\/shafter"",""life will be shortened"",""will be sheared\/cut""]",2
+"The resulting cross-sectional area of the tensile test specimen divided by the specimen original area is called ________.","[""% elongation"",""impact test"",""charpy test"",""izod test""]",0
+"SAE 51xxx belongs to the________ steel family","[""chromium"",""Carbon"",""Manganese"",""Nickel""]",0
+"In itself, it is a lubricant and usually one of the important elements in casting non-ferrous metals like bronze, for example","[""Antimony"",""Lead"",""Zinc"",""Babbit""]",1
+"Gasket material which should avoid hot liquid/steam application.","[""Asbestos fiber"",""Rubberized"",""Wool"",""Nylon fiber""]",1
+"The same material properties all over/direction and at any particular point in a structural member is _____.","[""Isentropic"",""Homogenous"",""Isotropic"",""All of these""]",2
+"Arc produced by two tungsten electrodes into which a jet of hydrogen is directed","[""Hydrogen lancing"",""All of these"",""Electro-beam welding"",""Atomic hydrogen welding""]",3
+"What is the carbon content range of SAE 4140 chrome-Moly steel after heat treatment?","[""0.30\/0.45"",""0.38\/0.45"",""0.30\/0.50"",""0.38\/0.43""]",3
+"Actual torque ratio of a gear set divided by its gear ratio","[""clearance"",""contact ratio"",""efficiency"",""approach ratio""]",2
+"A low coefficient of expansion, corrosion resistant weak in strength and used for non-ferrous application as an alloying element","[""Aluminum"",""copper oxide"",""copper"",""aluminum oxide""]",0
+"For better mounting of bearing it is preferred to heat the inner ring the range of 200°F and ___ but never more than ______°F as overheating might reduce the ring hardness","[""280"",""250"",""300"",""320""]",1
+"For large speed ratio and large sprocket utilized it is recommended cast _______ material since the large sprocket teeth are having fewer engagement.","[""alloyed steel"",""iron"",""malleable iron"",""heat treated steel""]",1
+"Roller bearing is utilized on _______ carrying capacity and is better than ball bearing in this condition","[""high temperature load"",""heavy load"",""low load"",""reversing load""]",1
+"To enhance mechanical properties, fabrication characteristic or any other attributes of steel, some elements are added in melting in specific ranges or minimum aside from carbon and generally termed ______","[""Bessemer steel"",""Alloy steel"",""AISI steel"",""SAE steel""]",1
+"Materials having thermal expansion of about 10 times higher than those of metals and has more heat generated during machining is ____?","[""Aluminum"",""Plastic"",""Asbestos"",""PVC""]",1
+"To hold to minimum the axial direction of deflection/movement, a separate thrust bearing or pre-loaded bearing capable of absorbing considerable load is required. The type of bearing to use is a _____ bearing","[""Double row angular contact"",""Wide type self-aligning"",""Tapered roller bearing"",""Deep groove ball""]",0
+"Pulley made of ______ ordinarily is 45 to 55% less in weight and 2.35 to 2.70% less slippage compared with ______ pulley","[""wood\/iron"",""iron\/steel"",""steel\/iron"",""wood\/steel""]",2
+"To avoid scoring in the bearing surface and the shaft due to contamination/absorption of the fine dirt in the bearing during operation/lubrication, the bearing material to apply should have good _____ properties","[""corrosion resistance confermability"",""corrosion resistance"",""embeddability"",""anti-scoring""]",2
+"What do impact tests measure?","[""plasticity"",""toughness"",""ductility"",""compactness""]",1
+"Corresponding piping color for alkaline","[""red"",""violet"",""green"",""blue""]",1
+"Type of gear that transmits power at an angle","[""bevel"",""herringbone"",""spur"",""helix""]",0
+"Which of the following gasket material is not used for high temperature steam?","[""wool"",""asbestos"",""plastic nylon"",""rubberized""]",3
+"A plane perpendicular to the gear axis.","[""pitch plane"",""normal plane"",""plane of rotation"",""radius of gyration""]",2
+"Specification of molybdenum alloy","[""SAE 3xxx"",""SAE 4xxx"",""SAE 5xxx"",""SAE 6xxx""]",1

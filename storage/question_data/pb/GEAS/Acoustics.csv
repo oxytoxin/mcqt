@@ -1,0 +1,200 @@
+﻿question,choices,answer
+"A unit of noisiness related to the perceived noise level","[""Noy"",""Sone"",""dB"",""phone""]",0
+"An agreed set of empirical curves relating octave-band sound pressure level to the center frequency of the octave bands","[""C-message weighting curves"",""Psophometric weighting curves"",""Noise rating curves"",""F1A weighting curves""]",2
+"The frequency of free vibration","[""Resonant frequency"",""Natural frequency"",""Center frequency"",""Normal frequency""]",1
+"The transmission of sound from one room to an adjacent room, via common walls, floors or ceilings.","[""Flanking transmission"",""Refraction"",""Reflection"",""Reverberation""]",0
+"A measure of threshold hearing, expressed in decibels relative to a specified standard of normal hearing.","[""Hearing loss"",""Sensation level"",""Hearing level"",""Sound pressure level""]",2
+"A certain machine with a slightly out-of-balance motor rotating at 1800/min is fixed on a perfectly elastic mount with a static compression of 2.50 mm. Calculate the resonant frequency of mount.","[""10 Hz"",""20 Hz"",""30 Hz"",""40 Hz""]",0
+"Calculate the lowest resonant frequency for a brick partition 120 mm thick, 4 m by 2 m in area with longitudinal wave velocity of 2350 m/s. (Assume that it is supported at its edges.)","[""10 Hz"",""20 Hz"",""30 Hz"",""40 Hz""]",3
+"Velocity of sound in air.","[""300 m\/s"",""330 m\/s"",""1130 m\/s"",""344 m\/s""]",1
+"What is the expected critical frequency for a 120 mm thick brick wall? Assume a longitudinal wave velocity in brick of 2350 m/s and that the velocity of sound in air is 330 m/s.","[""114.5 Hz"",""214.5 Hz"",""314.5 Hz"",""414.5 Hz""]",1
+"The sound power level of a certain jet plane flying at a height of 1km is 160 dB (re10^-12 W). Find the maximum sound pressure level on the ground directly below the flight path assuming that the aircraft radiates sound equally in all directions.","[""59.1 dB"",""69.1 dB"",""79.1 dB"",""89.1 dB""]",3
+"Speaker is a device that","[""Converts sound waves into current and voltage"",""Converts current variations into sound waves"",""Converts electrical energy to mechanical energy"",""Converts electrical energy to electromagnetic energy""]",1
+"Which type of microphone operates on the principle that the electrical resistance of carbon granules varies as the pressure on the granules vary?","[""Dynamic"",""Crystal"",""Carbon"",""Ribbon-type""]",2
+"Bass response is","[""Maximum high frequency response"",""Emphasizing the high audio frequency"",""Bypassing high audio frequencies"",""Bypassing low audio frequencies""]",2
+"Pure tone of sound used as standard on testing","[""1 Hz"",""10 Hz"",""100 Hz"",""1000 Hz""]",3
+"___________ is early reflection of sound.","[""Echo"",""Reverberation"",""Pure sound"",""Intelligible sound""]",0
+"Noise reduction system used for film sound in movie.","[""Dolby"",""dBa"",""dBx"",""dBk""]",0
+"What is the sound energy per unit area at right angles to the propagation direction per unit time?","[""Loudness"",""Coherence"",""Sound pressure"",""Sound intensity""]",3
+"________ is the unit of loudness level of a sound.","[""Sone"",""Decibel"",""Mel"",""Phon""]",3
+"____________ is the average rate of transmission of sound energy in a given direction through a cross-section area of 1 sqm at right angles to the direction.","[""Sound pressure"",""Loudness"",""Sound intensity"",""Pressure variation""]",2
+"What is the unit of pitch?","[""Sone"",""Phon"",""Decibel"",""Mel""]",3
+"A measure of the intensity of sound in comparison to another sound intensity.","[""Phon"",""Decibel"",""Pascal"",""Watts""]",1
+"Sound wave has two main characteristics which are","[""Highness and loudness"",""Tone and loudness"",""Pitch and loudness"",""Rarefraction and compression""]",2
+"Which type of microphone operated by electromagnetic induction that generates an output signal voltage?","[""Carbon"",""Dynamic"",""Crystal"",""Condenser""]",1
+"The exciter lamp in the optical sound part of a film projector draws 5 A at 10 V. How much power in watts is this light consuming?","[""10 watts"",""20 watts"",""40 watts"",""50 watts""]",3
+"Assume the speed of sound is 1,130 ft/s. What frequency has a wavelength of 1 foot, 1.5 inches?","[""500 Hz"",""1000 Hz"",""1500 Hz"",""2000 Hz""]",1
+"The wire must bring 100 average watts to a 4 ohms loudspeaker must safely carry what rms current?","[""2 A"",""4 A"",""5 A"",""6 A""]",2
+"A church has an internal volume of 90.05 ft^3 (2550 m^3). When it contains customary sabine sof absorption (186 metric sabines), what will be its reverberation time in seconds.","[""2.0"",""2.2"",""2.5"",""3.0""]",1
+"If the RMs sound pressure is 5 lb/ft^2, what is the sound pressure level?","[""7.6 dB"",""108 dB"",""88 dB"",""10 dB""]",0
+"Speed that is faster than speed of sound.","[""Ultrasonic"",""Supersonic"",""Subsonic"",""Transonic""]",1
+"Sound waves travel faster in water at a ______ speed.","[""12.4 miles\/sec"",""5000 ft\/sec"",""186,000 ft\/sec"",""3141 ft\/sec""]",1
+"What is the sound power from a motor car whose SPL at a distance of 7.5 m is 87 dB assuming that it radiates sound uniformly?","[""0.15 W"",""0.21 W"",""0.24 W"",""0.18 W""]",3
+"Crest-to-crest distance along the direction to wave travel.","[""Compression"",""Wavelength"",""Period"",""Sound wave""]",1
+"Sound intensity level is _________.","[""10 log I\/Iref"",""10 log P\/Pref"",""20 log I\/Iref"",""30 log P\/Pref""]",0
+"Sound pressure level is _________.","[""20 log P\/Pref"",""30 log P\/Pref"",""10 log P\/Pref"",""20 log I\/Iref""]",0
+"The most important specification of loudspeakers and microphones.","[""Frequency response"",""Field strength"",""Power density"",""Gain""]",0
+"Lowest fequency produced by a musical instrument.","[""Midrange"",""Harmonic"",""Reflection"",""Refraction""]",2
+"Tendency of a sound energy to spread.","[""Diffraction"",""Rarefraction"",""Reflection"",""Refraction""]",0
+"When waves bend away from straight lines of travel, it is called _________.","[""Reflection"",""Diffraction"",""Rarefraction"",""Refraction""]",3
+"Required time for any sound to decay to 60 dB.","[""Echo time"",""Delay time"",""Reverberation time"",""Transient time""]",2
+"The intensity needed to produce an audible sound varies with __________.","[""Frequency"",""Noise"",""Amplitude"",""Tone""]",0
+"Sound that vibrates too high for the human ear to hear (over 20 kHz).","[""Subsonic"",""Transonic"",""Ultrasonic"",""Stereo""]",2
+"Which microphone will be damaged if exposed to high temperature above 52°C?","[""Dynamic"",""Crystal"",""Ribbon"",""Capacitor""]",1
+"A thin springy sheet of bakelite or metal that permits the voice coil in a dynamic loudspeaker to move back and forth along the core of its magnet.","[""Vibrator"",""Diaphragm"",""Hypex"",""Spider""]",3
+"One hundred twenty µbars of pressure variation is equal to","[""120 dB SPL"",""57.78 dB SPL"",""115.56 dB SPL"",""41.58 dB SPL""]",2
+"The reverberation time of a 184.2 cubic meters broadcast studio is 0.84 sec. Find the absorption effect of the materials used in metric sabines.","[""35.3"",""10.96"",""379.8"",""109.6""]",0
+"What is the microphone characteristic that results in a boost in bass frequencies for close microphone spacing?","[""Field effect"",""P.A. effect"",""Proximity effect"",""Reverberation""]",2
+"What is the audio frequency range?","[""20 kHz to 20 MHz"",""0 Hz to 20 kHz"",""300 Hz to 400 Hz"",""20 Hz to 20 kHz""]",3
+"What is the bass frequency range?","[""2500 Hz to 5000 Hz"",""5000 Hz to 10 kHz"",""40 kHz to 160 kHz"",""10 Hz to 20 kHz""]",3
+"High frequency range of audio signals.","[""2500 Hz to 5000 Hz"",""5000 Hz to 10 kHz"",""10 kHz to 20 kHz"",""20000 Hz to 30 kHz""]",1
+"What is the dB SPL of an auditorium with contemporary music?","[""80-95"",""85-90"",""95-100"",""100-105""]",2
+"What is the church dB SPL with speech reinforcement only?","[""90"",""80-85"",""85-90"",""90-95""]",1
+"Intensity can also be called as","[""Volume"",""Loudness"",""Sharpness"",""Strength""]",1
+"The loudness of a sound depends upon the energy of motion imparted to ________ molecules of the medium transmitting the sound.","[""Transmitting"",""Running"",""Moving"",""Vibrating""]",3
+"_________ is affected by the distance between the listener and the source of the sound and its intensity varies inversely with the square of its distance.","[""Volume"",""Bass"",""Treble"",""Loudness""]",3
+"If the distance between the listener and the source of the sound is doubled, the intensity is reduced to","[""\u00bd"",""1\/3"",""2\/3"",""1\/4""]",3
+"If the distance between the listener and the source of the sound is decreased to ½ tye original amount, the intensity of the sound would be","[""2 times as great"",""3 times as great"",""4 times as great"",""5 times as great""]",2
+"At a sensation level of 40 dB, 1000 Hz tone is","[""1000 mels"",""500 mels"",""2000 mels"",""100 mels""]",0
+"If the sound waves are converted to electrical waves by a microphone, what is the frequency of the electric current?","[""3 \u2013 30 MHz"",""25 \u2013 8000 Hz"",""4 \u2013 40 Hz"",""30 \u2013 3000 Hz""]",1
+"For a music lover concert “A” is 440 Hz. If a musical note one octave higher were played, it would be _______ that frequency.","[""One \u2013 half"",""One-fourth"",""Double"",""Triple""]",2
+"In a 220 Hz, if a note was played one octave lower, it would be ______.","[""22 Hz"",""27.5 Hz"",""440 Hz"",""110 Hz""]",3
+"Much of music is generally referred to in","[""Harmonics"",""Good hearing"",""Fidelity"",""Octaves""]",3
+"_________ is an undesired change in wave form as the signal passes through a device.","[""Noise"",""Vibration"",""Distortion"",""Harmonics""]",2
+"Distortion enhances intelligibly when an ________ is added.","[""Equalizer"",""Igniter"",""Exciter"",""Emulsifier""]",2
+"A class of signal processors.","[""Amplifiers"",""Equalizers"",""Microprocessors"",""Exciters""]",3
+"Half construction and internal finishes affect the final sound quality ________.","[""poorly"",""mildly"",""significantly"",""badly""]",2
+"Positioning a loudspeaker near a wall can dramatically alter its frequency response in two distinct ways namely;","[""Gump and dump"",""Hump and notch"",""Fade and gone"",""Bad and worst""]",1
+"The acoustics of most auditoria are very ________ when the room is full compared to the empty condition.","[""Different"",""Similar"",""Good"",""Bad""]",0
+"A _________ converts acoustical energy.","[""Electro-acoustic"",""Microphone transducer"",""Microphone"",""Electric Microphone""]",1
+"All microphone have two basic components namely, ­­___________.","[""Wired and body"",""Ceramic and crystal"",""Diaphragm and generating element"",""Coil and magnet""]",2
+"The kinds of generating elements are __________.","[""Expense and fidelity"",""Complexity and ruggedness"",""Longevity"",""All of these""]",3
+"When the average absorption is greater than 0.2, __________ formula is used to compute the actual reverberation time.","[""Sabine"",""Stephen and Bate"",""Norris-Eyring"",""Notch""]",2
+"At room temperature, what is the velocity of sound in meters/seconds?","[""348.03 cm\/s"",""980 cm\/s"",""980 m\/s"",""341.8 m\/s""]",3
+"Calculate the velocity of sound in ft./sec. if the temperature is 149°C?","[""1530.03 ft\/sec"",""1320 ft\/sec"",""1357.03 ft\/sec"",""1920.345 ft\/sec""]",2
+"The wavelength of a sound of 20 kHz frequency is","[""16.5 m"",""16.5 cm"",""16.5 mm"",""16.5 um""]",2
+"The radio of frequencies is termed","[""Octave"",""Interval"",""Harmonics"",""Masking""]",1
+"What is the increase in sound pressure level in dB, if the pressure is doubled?","[""2 dB"",""3 dB"",""6 dB"",""4 dB""]",2
+"A term which is subjected but dependent mainly on frequency and also affected by intensity,","[""Timbre"",""Quality"",""Frequency"",""Pitch""]",3
+"An effect that occurs in the ear where a louder sound can reduce or even stop the nerve voltage generated by a weaker sound.","[""Piezoelectric effect"",""Skin effect"",""Lasing"",""Masking""]",3
+"For computation of ideal reverberation time, which formula is applicable?","[""Sabine"",""Stephen and Bate"",""Norris-Eyring"",""Notch""]",1
+"The __________ of the sound is a subjective effect which is a function of the ear and brain.","[""Pitch"",""Frequency"",""Timbre"",""Loudness""]",3
+"Define as the time taken from the intensity of sound energy in the room to drop to one millionth of its initial value.","[""Reverberation time"",""Transit time"",""Decaying time"",""Response time""]",0
+"__________ is the sound energy per unit area at right angles of the propagation direction, per unit time.","[""Loudness"",""Coherence"",""Sound stress"",""Sound intensity""]",3
+"One octave above 600 Hz is","[""601 Hz"",""800 Hz"",""1400 Hz"",""1200 Hz""]",3
+"A car horn outdoors produces a sound intensity level of 90 dB at 10 m away. At this distance, what is the sound power in watt?","[""0.63"",""1.26"",""0.315"",""0.56 x 10^-6""]",0
+"The unit of loudness level","[""Sone"",""dB"",""Mel"",""Phon""]",3
+"Consist of a rapid succession of noticeable echoes.","[""Rarefaction"",""Refraction"",""Reflection"",""Flutter echo""]",3
+"Laid the foundations of acoustic theory of buildings.","[""Charles H. Townes"",""W.C Sabine"",""A. Javin"",""Stephen and Bate""]",1
+"An aural sensation by pressure variations in the air which are always produced by some source of vibrations.","[""Music"",""Sound"",""Disturbance"",""Speech""]",1
+"Considered to be the threshold of hearing.","[""10^-12 W\/cm^2"",""10^-16 W\/m^2"",""10^-13 W\/m^2"",""10^-12 W\/m^2""]",3
+"The average absorption for a person is","[""5.7 units"",""4.7 units"",""6.7 units"",""3.7 units""]",1
+"The number of vibration or pressure fluctuations per seconds.","[""Frequency"",""Timbre"",""Quality"",""Pitch""]",0
+"Defined as the average rate of transmission of sound energy in a given direction through a cross-sectional area of 1 m^2 at right angles to the direction.","[""Sound pressure"",""Loudness"",""Sound intensity"",""Pressure variation""]",2
+"What is the sound pressure level (SPL) of a sound having a RMS pressure of 200 N/m^2?","[""150 dB"",""140 dB"",""170 dB"",""160 dB""]",1
+"The minimum sound intensity that can be heard is termed","[""Threshold of feeling"",""Threshold of pain"",""Threshold of sensation"",""Threshold of hearing""]",3
+"What is the intensity of the sound whose RMS pressure is 200 N/m^2?","[""96.9 W\/m^2"",""97.9 W\/m^2"",""95.9 W\/m^2"",""94.9 W\/m^2""]",1
+"The unit of pitch.","[""sone"",""pitch"",""dB"",""Mel""]",3
+"What is the increase in sound pressure level in dB, if the intensity is doubled?","[""2 dB"",""3 dB"",""4 dB"",""6 dB""]",1
+"The velocity of sound is considered to be constant at ________ for the purpose of acoustics.","[""300 m\/s"",""330 mm\/s"",""330 \u00b5m\/s"",""330 cm\/s""]",0
+"The term that describes the highness or lowness of a sound in the study of acoustics is called a","[""Tempo"",""Pitch"",""Volume"",""Bass""]",1
+"The method of measuring absorption coefficient of sound which considers all angles of incidence is called","[""Distance method"",""Bounce back to back method"",""Impedance method"",""Reverberation chamber method""]",3
+"The tendency of a sound energy to spread","[""Rarefaction"",""Reflection"",""Refraction"",""Diffraction""]",3
+"_____ is the advantage rate of transmission of sound energy in a given direction through a cross-sectional area of 1 sq m at right angles to the direction of propagation.","[""Sound pressure"",""Sound intensity"",""Pressure variation"",""Loudness""]",1
+"a large speaker having a large diameter(15 cm and above)","[""coaxial speaker"",""woofer"",""tweeter"",""triaxial speaker""]",1
+"A method of expressing the amplitude of a complex non-periodic signal such as speech","[""Frequency"",""Wavelength"",""Volume"",""Pitch""]",2
+"The lowest frequency produced by an instrument","[""Harmonic"",""Fundamental"",""Midrange"",""0 Hz""]",1
+"Sound intensity is given as","[""df\/dp"",""dE\/dP"",""dA\/dP"",""dP\/dA""]",3
+"Which of the following is considered the most commonly used measurable components of sound?","[""its temperature"",""particle displacement"",""softness"",""source""]",1
+"_____ is the transmission of sound from one room to an adjacent room thru common walls, floors, or ceilings.","[""Reverberation"",""Refraction"",""Flanking transmission"",""Reflection""]",2
+"The midrange frequency range of sound is from","[""256 to 2048 Hz"",""2048 to 4096 Hz"",""512 to 2048 Hz"",""16 to 64 Hz""]",2
+"Designates the sensation of low or high in the sense of the bass and treble","[""Frequency"",""Intensity"",""Pitch"",""SPL""]",2
+"Speaker is a device that","[""Converts current variations into sound waves"",""None of these"",""Converts electrical energy to mechanical energy"",""Converts sound waves into current and voltage""]",0
+"One-hundred twenty microbars of pressure variation is equal to","[""120 dBSPL"",""115.56 dBSPL"",""41.58 dBSPL"",""57.78 dBSPL""]",1
+"An instrument for recording waveforms of audio frequency","[""Oscilloscope"",""Phonoscope"",""Radioscope"",""Audioscope""]",1
+"In the study of acoustics, the velocity of sound is dependent to one of the following","[""Temperature"",""Loudness"",""Source of sound"",""Properties of the medium""]",3
+"How much bigger in storage capacity has digital video disk (DVD) have over the conventional compact disk (CD)?","[""Around triple"",""Around 15 times"",""Around twice"",""Around 5 times""]",1
+"A sound intensity that could cause painful sensation in a human ear","[""Threshold of sense"",""Threshold of pain"",""Hearing threshold"",""Sensation intensity""]",1
+"A car horn outdoors produces a sound intensity of 90 dB at 10 ft away. At this distance, what is the sound power in watt?","[""12 W"",""0.12 W"",""0.012 W"",""1.2 W""]",1
+"Noise reduction system for film sound in movie","[""Dolby"",""dBx"",""dBa"",""dBk""]",0
+"Which type of microphone operates on the principle that the electrical resistance of carbon granules varies as the pressure on the granules vary?","[""Dynamic"",""Crystal"",""Carbon"",""Ribbon-type""]",2
+"A unit of noisiness related to the perceived noise level","[""Noy"",""Sone"",""dB"",""Mel""]",0
+"Required time for and sound to decay to 60 dB","[""Echo time"",""Delay time"",""Reverberation time"",""Transient time""]",2
+"If the distance between the listener and the source of the sound is doubled, the intensity is reduced to","[""1\/2"",""1\/3"",""2\/3"",""1\/4""]",3
+"Positioning a loudspeaker near a wall can dramatically alter its frequency response in two distinct ways namely","[""Gump and dump"",""Hump and notch"",""Fade and gone"",""Bad and worst""]",1
+"An effect that occurs in the ear where a louder sound can reduce or even stop the nerve voltage generated by a weaker sound","[""Piezoelectric effect"",""Doppler effect"",""Haas effect"",""Masking""]",3
+"When the average absorption is greater than 0.2, ____ formula is used to compute the actual reverberation time.","[""Sabine"",""Stephen and bate"",""Norris-Eyring"",""Notch""]",2
+"The minimum sound intensity that can be heard","[""Threshold of feeling"",""Threshold of pain"",""Threshold of sensation"",""Threshold of hearing""]",3
+"The ____ of a sound is a subjective effect which is a function of the ear and brain.","[""Pitch"",""Frequency"",""Timbre"",""Loudness""]",3
+"A term which is subjective but independent mainly on frequency and also affected by intensity","[""Pitch"",""Frequency"",""Timbre"",""Loudness""]",0
+"A sound 0f 18 kHz frequency has a wavelength of","[""18.3 mm"",""183 mm"",""250 mels"",""1.86 mels""]",0
+"At a sensation level of 40 dB 1000 Hz tone is","[""1000 mels"",""10000 mels"",""250 mels"",""800 mels""]",0
+"What is the velocity of sound in dry air for a temperature change of 45 degrees Celsius?","[""249.19 m\/s"",""331.45 m\/s"",""357.73 m\/s"",""358.77 m\/s""]",2
+"What us the resonant frequency of a Helmholtz resonator whose volume is 2.5 cu m with neck radius of 8 cm?","[""13 Hz"",""11 Hz"",""15 Hz"",""14 Hz""]",0
+"40 phons is equivalent to how many sones?","[""0 sone"",""1 sone"",""0.5 sone"",""16 sones""]",1
+"80 phons + 80 phons =","[""83 phons"",""160 phons"",""90 phons"",""86 phons""]",2
+"An early reflection of sound","[""Echo"",""Reverberation"",""Pure sound"",""Jitter""]",0
+"An instrument designed to measure a frequency weighted value of the sound pressure level","[""Sound level meter"",""Transducer"",""Sound pressure meter"",""Sound analyzer""]",0
+"The term used for the deafness of higher frequencies due to old age","[""Ear deafness"",""Cortial deafness"",""Tinnitus"",""Presbycusis""]",3
+"What is the dBSPL of an auditorium with contemporary music?","[""95-100 dB"",""40-50 dB"",""50-60 dB"",""70-80 dB""]",0
+"What principle is used by a carbon type micro phone?","[""Variable capacitance"",""Variable resistance"",""Variable inductance"",""Piezoelectric effect""]",1
+"Pressure is measured in term of Pascal, microbar or","[""Newtons"",""Newtons per meter"",""Newtons per meter squared"",""Pascal per meter squared""]",2
+"How much power can a human voice possible produce","[""100 milliwatts"",""1 watt"",""10 watts"",""1 milliwatt""]",3
+"What is the increase in sound pressure level if the pressure is doubled?","[""Increase by 6 dB"",""Increase by 3 dB"",""Decrease by 6 dB"",""Decrease by 3 dB""]",0
+"The frequency limits of audio frequency is","[""300 \u2013 3000 Hz"",""20 Hz \u2013 20 kHz"",""3 \u2013 3 kHz"",""40 \u2013 40 kHz""]",1
+"A device that converts sound pressure into electrical energy","[""Microphone"",""Headphone"",""Headset"",""Speaker""]",0
+"An agreed set of empirical curves relating octave-band sound pressure level to the center frequency of the octave bands","[""C-message weighting curve"",""Psophometric curve"",""Noise rating curve"",""F1A weighting curves""]",2
+"Pure tone of sound used as standard on testing","[""1 kHz"",""300 \u2013 3400 Hz"",""100 Hz"",""800 Hz""]",0
+"Which of the following can not travel through a vacuum?","[""Electromagnetic wave"",""Radio wave"",""Sound wave"",""Light wave""]",2
+"Through which medium does sound travel fastest?","[""Air"",""Water"",""Steel"",""Mercury""]",2
+"Speed that is faster than that of sound.","[""Ultrasonic"",""Supersonic"",""Subsonic"",""Transonic""]",1
+"What is the speed of sound in air at 20°C?","[""1087 ft\/s"",""1100 ft\/s"",""1126 ft\/s"",""200 ft\/s""]",0
+"Calculate a half wavelength sound for sound of 16000 Hz","[""35 ft"",""B 10 ft"",""0.035 ft"",""100 ft""]",2
+"The lowest frequency that a human ear can hear is","[""5 Hz"",""20 Hz"",""30 Hz"",""20 Hz""]",1
+"Sound that vibrates at frequency too high for the human ear to hear (over 20 kHz)","[""Subsonic"",""Ultrasonic"",""Transonic"",""Stereo""]",1
+"The frequency interval between two sounds whose frequency ratio is 10.","[""Octave"",""Half octave"",""Third-octave"",""Decade""]",0
+"A 16 KHz sound is how many octaves higher than a 500 Hz sound","[""2"",""5"",""4"",""8""]",1
+"Sound waves composed of but one frequency is a/an","[""Infra sound"",""Pure tone"",""Structure borne"",""Residual sound""]",1
+"Sound wave has two main characteristics which are","[""Highness and loudness"",""Tone and loudness"",""Pitch and loudness"",""Rarefaction and compression""]",2
+"When waves bend away from straight lines of travel, it is called","[""Reflection"",""Diffraction"",""Rarefaction"",""Refraction""]",3
+"The amplitude of sound waves, the maximum displacement of each air particle, is the property which perceive as _______ of a sound","[""Pitch"",""Intensity"",""Loudness"",""Harmonics""]",2
+"It is the weakest sound that average human hearing can detect.","[""SPL = 0 dB"",""Threshold of hearing"",""Reference pressure = 2 x 10^-5 N\/m2"",""All of these""]",3
+"What is a device that is used to measure the hearing sensitivity of a person?","[""Audiometer"",""OTDR"",""SLM"",""Spectrum analyzer""]",0
+"What is the device used in measuring sound pressure levels incorporating a microphone, amplification, filtering and a display.","[""Audiometer"",""OTDR"",""SLM"",""Spectrum analyzer""]",2
+"What weighted scale in a sound level meter gives a reading that is most closely to the response of the human ear?","[""Weighted scale A"",""Weighted scale B"",""Weighted scale C"",""Weighted scale D""]",0
+"For aircraft noise measurements, the weighting scale that is used is ________.","[""Weighted scale A"",""Weighted scale B"",""Weighted scale C"",""Weighted scale D""]",3
+"It is the device used to calibrate an SLM?","[""Microphone"",""Pistonphone"",""Telephone"",""Filter""]",1
+"_________ is the sound power measured over the area upon which is received.","[""Sound pressure"",""Sound energy"",""Sound intensity"",""Sound pressure level""]",2
+"A measure of the intensity of sound in comparison to another sound intensity","[""Phon"",""Decibel"",""Pascal"",""Watts""]",1
+"Calculate the sound intensity level in dB of a sound whose intensity is 0.007 W/m^2.","[""95 dB"",""91 dB"",""98 dB"",""101 dB""]",2
+"What is the sound pressure level for a given sound whose RMS pressure is 200/m^2?","[""200 dB"",""20 dB"",""140 dB"",""14 dB""]",2
+"What is the sound intensity for an RMS pressure of 200 Pascal?","[""90 W\/m^2"",""98 W\/m^2"",""108 W\/m^2"",""88 W\/m^2""]",1
+"The sound pressure level is increased by _________ dB if the pressure is doubled.","[""3"",""4"",""5"",""6""]",3
+"The sound pressure level is increased by _________ dB if the intensity is doubled.","[""3"",""4"",""5"",""6""]",0
+"If four identical sounds are added what is the increase in level in dB?","[""3"",""4"",""5"",""6""]",3
+"The transmission of sound from one room to an adjacent room, via common walls, floors or ceilings.","[""Flanking transmission"",""Reflection"",""Refraction"",""Reverberation""]",0
+"__________ is the continuing presence of an audible sound after the sound source has stop.","[""Flutter echo"",""Sound concentration"",""Sound shadow"",""Reverberation""]",3
+"Required time for any sound to decay to 60 dB","[""Echo time"",""Reverberation time"",""Delay time"",""Transient time""]",1
+"A room containing relatively little sound absorption","[""Dead room"",""Anechoic room"",""Live room"",""Free-field""]",2
+"A room in which the walls offer essentially 100% absorption, therefore simulating free field conditions.","[""Dead room"",""Anechoic room"",""Live room"",""Closed room""]",1
+"Calculate the reverberation time of the room, which has a volume of 8700 ft^3 and total sound absorption 140 sabins.","[""0.3 sec"",""3.5 sec"",""3 sec"",""0.53 sec""]",2
+"It is an audio transducer that converts acoustic pressure in air into its equivalent electrical impulses","[""Loudspeaker"",""Amplifier"",""Baffle"",""Microphone""]",3
+"_________ is a pressure type microphone with permanent coil as a transducing element.","[""Dynamic"",""Condenser"",""Magnetic"",""Carbon""]",0
+"A microphone which has an internal impedance of 25 kΩ is _________ type.","[""High impedance"",""Low impedance"",""Dynamic"",""Magnetic""]",0
+"A microphone that uses the piezoelectric effect","[""Dynamic"",""Condenser"",""Crystal"",""Carbon""]",2
+"_________ is a type of loudspeaker driver with an effective diameter of 5 inches used at mid-range audio frequency.","[""Tweeter"",""Woofer"",""Mid-range"",""A or C""]",2
+"_____ is measure of how much sound is produced from the electrical signal.","[""Sensitivity"",""Distortion"",""Efficiency"",""Frequency response""]",2
+"It describes the output of a microphone over a range of frequencies.","[""Directivity"",""Sensitivity"",""Frequency response"",""All of the above""]",2
+"A loudspeaker radiates an acoustic power of 1 mW if the electrical input is 10 W. What is its rated efficiency?","[""-10 dB"",""-20 dB"",""-30 dB"",""-40 dB""]",3
+"An amplifier can deliver 100 W to a loudspeaker. If the rated efficiency of the loudspeaker is -60 dB. What is the maximum intensity 300 ft from it?","[""10 dB"",""20 dB"",""30 dB"",""40 dB""]",2
+"Speaker is a device that","[""Converts sound waves into current and voltage"",""Converts current variations into sound waves"",""Converts electrical energy to mechanical energy"",""Converts electrical energy to electromagnetic energy""]",1
+"The impedance of most drivers is about __________ ohms at their resonant frequency.","[""4"",""6"",""8"",""10""]",2
+"It is a transducer used to convert electrical energy to mechanical energy.","[""Microphone"",""Baffle"",""Magnetic assemble"",""Driver""]",3
+"It is an enclosure used to prevent front and back wave cancellation.","[""Loudspeaker"",""Driver"",""Baffle"",""Frame""]",2
+"A circuit that divides the frequency components into separate bands in order to have individual feeds to the different drivers.","[""Suspension system"",""Dividing network"",""Magnet assembly"",""Panel board""]",1
+"_________ is early reflection of sound.","[""Echo"",""Pure sound"",""Reverberation"",""Intelligible sound""]",0
+"Noise reduction system used for film sound in movie.","[""Dolby"",""DBx"",""dBa"",""dBk""]",0
+"Using a microphone at less than the recommended working distance will create a __________ which greatly increases the low frequency signals.","[""Roll-off"",""Proximity effect"",""Drop out"",""None of the choices""]",1
+"What is the unit of loudness?","[""Sone"",""Phon"",""Decibel"",""Mel""]",0
+"A unit of noisiness related to the perceived noise level","[""Noy"",""dB"",""Sone"",""Phon""]",0
+"What is the loudness level of a 1KHz tone if its intensity is 1 x 10-5W/cm2?","[""100 phons"",""105 phons"",""110 phons"",""100 phons""]",2

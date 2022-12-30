@@ -1,0 +1,91 @@
+question,A,B,C,D,E,answer,explanation
+<p>The current gain for the Darlington connection is ________.</p>,"<img src=""/_files/images/electronic-devices-and-circuit-theory/mca05_0360a.gif""/>","<img src=""/_files/images/electronic-devices-and-circuit-theory/mca05_0360b.gif""/>","<img src=""/_files/images/electronic-devices-and-circuit-theory/mca05_0360c.gif""/>","<img src=""/_files/images/electronic-devices-and-circuit-theory/mca05_0360d.gif""/>",,B,
+<p>Which of the following configurations has the lowest output impedance?</p>,Fixed-bias,Voltage-divider,Emitter-follower,None of the above,,C,
+<p>Which of the h-parameters corresponds to r<sub>e</sub> in a common-base configuration?</p>,h<sub>ib</sub>,h<sub>fb</sub>,h<sub>rb</sub>,h<sub>ob</sub>,,A,
+"<p>Refer to this figure. Find the value of I<sub>E</sub>.
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq6_1009_1.jpeg""/></p>",2 mA,4 mA,5 mA,6 mA,,D,
+<p>Which of the following is referred to as the reverse transfer voltage ratio?</p>,h<sub>i</sub>,h<sub>r</sub>,h<sub>f</sub>,h<sub>o</sub>,,B,
+<p>Which of the following conditions must be met to allow the use of the approximate approach in a voltage-divider bias configuration?</p>,"<img src=""/_files/images/electronic-devices-and-circuit-theory/beta.gif""/>r<sub>e</sub> &gt; 10R<sub>2</sub>","<img src=""/_files/images/electronic-devices-and-circuit-theory/beta.gif""/>R<sub>E</sub> &gt; 10R<sub>2</sub>","<img src=""/_files/images/electronic-devices-and-circuit-theory/beta.gif""/>R<sub>E</sub> &lt; 10R<sub>2</sub>","<img src=""/_files/images/electronic-devices-and-circuit-theory/beta.gif""/>r<sub>e</sub> &lt; 10R<sub>2</sub>",,D,
+"<p>Refer to this figure. Determine the value of A<sub>v</sub>.
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq6_1009_1.jpeg""/></p>",49.6,5,100,595,,B,
+"<p>For a common-emitter amplifier, the purpose of swamping is</p>",to minimize gain.,to reduce the effects of r'<sub>e</sub>,to maximize gain.,no purpose.,,B,
+<p>What is the typical value of the current gain of a common-base configuration?</p>,Less than 1,Between 1 and 50,Between 100 and 200,Undefined,,A,
+<p>What is the most important r parameter for amplifier analysis?</p>,r<sub>b</sub>′,r<sub>c</sub>′,r<sub>e</sub>′,,,C,
+<p>An emitter-follower is also known as a</p>,common-emitter amplifier.,common-base amplifier.,common-collector amplifier.,Darlington pair.,,C,
+<p>The ________ model fails to account for the output impedance level of the device and the feedback effect from output to input.</p>,hybrid equivalent,r<sub>e</sub>,"<img src=""/_files/images/electronic-devices-and-circuit-theory/beta.gif""/>",Thevenin,,B,
+"<p>Refer to this figure. Calculate the value of V<sub>B</sub>.
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq6_1009_1.jpeg""/></p>",5 V,3.7 V,20 V,3 V,,B,
+<p>You have a need to apply an amplifier with a very high power gain. Which of the following would you choose?</p>,common-collector,common-base,common-emitter,emitter-follower,,C,
+<p>What is the voltage gain of a feedback pair connection?</p>,1,–1,100,–100,,A,
+"<p>A common-emitter amplifier has ________ voltage gain, ________ current gain, ________ power gain, and ________ input impedance.</p>","high, low, high, low","high, high, high, low","high, high, high, high","low, low, low, high",,B,
+<p>What is the range of the input impedance of a common-base configuration?</p>,"A few ohms to a maximum of 50 <img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>","1 k<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/> to 5 k<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>","100 k<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/> to 500 k<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>","1 M<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/> to 2 M<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>",,A,
+<p>The advantage that a Sziklai pair has over a Darlington pair is</p>,higher current gain.,less input voltage is needed to turn it on.,higher input impedance.,higher voltage gain.,,B,
+<p>What is the typical range of the output impedance of a common-emitter configuration?</p>,"10 <img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/> to 100<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>","1 k<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/> to 5 k<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>","40 k<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/> to 50 k<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>","500 k<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/> to 1 k<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>",,C,
+<p>What is the unit of the parameter h<sub>o</sub>?</p>,Volt,Ohm,Siemen,No unit,,C,
+"<p>Refer to this figure. Calculate the value of R<sub>in(tot)</sub>.
+
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq6_1009_1.jpeg""/></p>","37.7 k<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>","3.77 k<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>","378 <img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>","2.25 k<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>",,B,
+<p>What is the range of the current gain for BJT transistor amplifiers?</p>,less than 1,1 to 100,above 100,All of the above,,D,
+<p>What does the negative sign in the voltage gain of the common-emitter fixed-bias configuration indicate?</p>,The output and input voltages are 180º out of phase.,Gain is smaller than 1.,Gain is larger than 1.,None of the above,,A,
+"<p>For the common-emitter fixed-bias configuration, there is a ________ phase shift between the input and output signals.</p>",0º,45º,90º,180º,,D,
+<p>Which one of the following configurations has the lowest input impedance?</p>,Fixed-bias,Common-base,Emitter-follower,Voltage-divider?,,B,
+<p>Which of the following represent(s) the advantage(s) of the system approach over the r-model approach?</p>,Thevenin's theorem can be used.,The effect of changing the load can be determined by a simple equation.,There is no need to go back to the ac equivalent model and analyze the entire network.,All of the above,,D,
+<p>The differential amplifier has</p>,one input and one output.,two inputs and two outputs.,two inputs and one output.,one input and two outputs.,,C,
+<p>The emitter-follower configuration has a ________ impedance at the input and a ________ impedance at the output.</p>,"low, low","low, high","high, low","high, high",,C,
+<p>The differential amplifier produces outputs that are</p>,common mode.,in-phase with the input voltages.,the sum of the two input voltages.,the difference of the two input voltages.,,D,
+<p>The ________ model suffers from being limited to a particular set of operating conditions if it is to be considered accurate.</p>,hybrid equivalent,r<sub>e</sub>,"<img src=""/_files/images/electronic-devices-and-circuit-theory/beta.gif""/>",Thevenin,,A,
+"<p>Under which of the following condition(s) is the current gain <img src=""/_files/images/electronic-devices-and-circuit-theory/mcq05_01900.gif""/>?</p>","r<sub>o</sub> <img src=""/_files/images/electronic-devices-and-circuit-theory/greaterthanorequalto.gif""/> 10R<sub>C</sub>","R<sub>B</sub> <img src=""/_files/images/electronic-devices-and-circuit-theory/greaterthanorequalto.gif""/> 10r<sub>e</sub>","r<sub>o</sub> <img src=""/_files/images/electronic-devices-and-circuit-theory/greaterthanorequalto.gif""/> 10R<sub>C</sub> and R<sub>B</sub> <img src=""/_files/images/electronic-devices-and-circuit-theory/greaterthanorequalto.gif""/> 10r<sub>e</sub>",None of the above,,C,
+<p>The ________ configuration is frequently used for impedance matching.</p>,fixed-bias,voltage-divider bias,emitter-follower,collector feedback,,C,
+"<p>Refer to this figure. You notice while servicing this amplifier that the output signal at V<sub>out</sub> is reduced from normal. The problem could be caused by
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq6_1019_1.jpeg""/></p>",an open C<sub>3</sub>.,an open C<sub>2</sub>.,an open base-emitter of Q<sub>2</sub>.,a shorted C<sub>2</sub>.,,B,
+"<p>When the bypass capacitor is removed from a common-emitter amplifier, the voltage gain</p>",increases.,decreases.,has very little effect.,,,B,
+"<p>Refer to this figure. Determine the value of V<sub>C</sub>.
+
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq6_1009_1.jpeg""/></p>",20 V,10 V,5 V,0 V,,C,
+"<p>In a common-base amplifier, the input signal is connected to the</p>",base.,collector.,emitter.,output.,,C,
+<p>Which of the following is (are) true to achieve a good overall voltage gain for the circuit?</p>,The effect of R<sub>s</sub> and R<sub>L</sub> must be considered as a product.,The effect of R<sub>s</sub> and R<sub>L</sub> must be considered as a product and evaluated individually.,The effect of R<sub>s</sub> and R<sub>L</sub> must be evaluated individually.,None of the above,,B,
+"<p>To analyze the common-emitter amplifier, what must be done to determine the dc equivalent circuit?</p>",leave circuit unchanged,replace coupling and bypass capacitors with opens,replace coupling and bypass capacitors with shorts,replace V<sub>CC</sub> with ground,,B,
+"<p>For the common-emitter amplifier ac equivalent circuit, all capacitors are</p>",effectively shorts.,effectively open circuits.,not connected to ground.,connected to ground.,,A,
+"<p>Refer to this figure. If an emitter bypass capacitor was installed, determine the value of R<sub>in(base)</sub>.
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq6_1009_1.jpeg""/></p>","416 <img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>","5 k<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>","50 k<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>","500 <img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>",,A,
+<p>Under which of the following conditions is the output impedance of the network approximately equal to R<sub>C</sub> for a common-emitter fixed-bias configuration?</p>,"r<sub>o</sub> <img src=""/_files/images/electronic-devices-and-circuit-theory/greaterthanorequalto.gif""/> 10R<sub>C</sub>",r<sub>o</sub> &lt; 10R<sub>C</sub>,r<sub>o</sub> &lt; r<sub>o</sub>,r<sub>o</sub> &gt; r<sub>o</sub>,,A,
+<p>Which of the following gains is less than 1 for a common-base configuration?</p>,A<sub>i</sub>,A<sub>v</sub>,A<sub>p</sub>,None of the above,,A,
+<p>Which of the following define(s) the conversion efficiency?</p>,Ac power to the load/ac input power,Ac power to the load/dc power supplied,Dc output power/ac input power,All of the above,,B,
+<p>The dc emitter current of a transistor is 8 mA. What is the value of r<sub>e</sub>?</p>,"320 <img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>","13.3 k<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>","3.125 <img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>","5.75 <img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>",,C,
+<p>Which of the following should be done to obtain the ac equivalent of a network?</p>,Set all dc sources to zero,Replace all capacitors by a short-circuit equivalent.,Remove all elements bypassed by the short-circuit equivalent.,All of the above,,D,
+<p>In an unbypassed emitter bias configuration h<sub>ie</sub> replaces ________ in the r<sub>e</sub> model.</p>,r<sub>e</sub>,"<img src=""/_files/images/electronic-devices-and-circuit-theory/beta.gif""/>","<img src=""/_files/images/electronic-devices-and-circuit-theory/beta.gif""/>r<sub>e</sub>",I<sub>b</sub>,,C,
+"<p>Which of the following is (are) true regarding the input impedance for frequencies in the midrange <img src=""/_files/images/electronic-devices-and-circuit-theory/lessthanorequalto.gif""/>100 kHz of a BJT transistor amplifier?</p>",The input impedance is purely resistive.,It varies from a few ohms to megohms.,An ohmmeter cannot be used to measure the small-signal ac input impedance.,All of the above,,D,
+"<p>For the collector dc feedback configuration, there is a ________ phase shift between the input and output signals.</p>",0º,45º,90º,180º,,D,
+"<p>A common-collector amplifier has ________ input resistance, ________ current gain, and ________ voltage gain.</p>","high, high, low","high, low, low","high, low, high",,,A,
+<p>The total gain of a multistage amplifier is the ________.</p>,sum of individual voltage gains,sum of dB voltage gains,,,,B,
+<p>Which of the following configurations has an output impedance Z<sub>o</sub> equal to R<sub>C</sub>?</p>,Fixed-bias common-emitter,Common-emitter voltage-divider with bypass capacitor,Common-emitter voltage-divider without bypass capacitor,All of the above,,D,
+"<p>Refer to this figure. Find the value of R<sub>in(base)</sub>.
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq6_1009_1.jpeg""/></p>","420 <img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>","50 k<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>","940 <img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>","100.8 <img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>",,B,
+"<p>For a common-emitter amplifier, the purpose of the emitter bypass capacitor is</p>","no purpose, since it is shorted out by R<sub>E</sub>.",to reduce noise.,to despike the supply voltage.,to maximize amplifier gain.,,D,
+"<p>For BJT amplifiers, the ________ gain typically ranges from a level just less than 1 to a level that may exceed 1000.</p>",voltage,current,impedance,All of the above,,B,
+<p>The loaded voltage gain of an amplifier is always more than the no-load level.</p>,True,False,,,,B,
+<p>Which of the following configurations has a voltage gain of –R<sub>C</sub> /r<sub>e</sub>?</p>,Fixed-bias common-emitter,Common-emitter voltage-divider with bypass capacitor,Fixed-bias common-emitter and voltage-divider with bypass capacitor,Common-emitter voltage-divider without bypass capacitor,,C,
+"<p>An emitter-follower amplifier has an input impedance of 107 k<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>. The input signal is 12 mV. The approximate output voltage is (common-collector)</p>",8.92 V,112 mV,12 mV,8.9 mV,,C,
+"<p>Which of the following is (are) true regarding the output impedance for frequencies in the midrange <img src=""/_files/images/electronic-devices-and-circuit-theory/lessthanorequalto.gif""/>100 kHz of a BJT transistor amplifier?</p>",The output impedance is purely resistive.,"It varies from a few ohms to more than 2 M<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>.",An ohmmeter cannot be used to measure the small-signal ac output impedance.,All of the above,,D,
+"<p>Refer to this figure. The output signal from the first stage of this amplifier is 0 V. The trouble could be caused by
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq6_1019_1.jpeg""/></p>",an open C<sub>4</sub>.,an open C<sub>2</sub>.,an open base-emitter of Q<sub>1</sub>.,a shorted C<sub>4</sub>.,,C,
+<p>What is the limit of the efficiency defined by = P<sub>o</sub> / P<sub>i</sub>?</p>,Greater than 1,Less than 1,Always 1,None of the above,,B,
+<p>What is r<sub>e</sub> equal to in terms of h parameters?</p>,h<sub>re</sub> / h<sub>oe</sub>,(h<sub>re</sub> + 1) / h<sub>oe</sub>,h<sub>ie</sub> – (h<sub>re</sub> / h<sub>oe</sub>)(1 + h<sub>fe</sub>),h<sub>fe</sub>,none of the above,A,
+<p>What is the controlling current in a common-base configuration?</p>,I<sub>e</sub>,I<sub>c</sub>,I<sub>b</sub>,None of the above,,A,
+<p>Which of the following techniques can be used in the sinusoidal ac analysis of transistor networks?</p>,Small-signal,Large-signal,Small- or large-signal,None of the above,,C,
+<p>The input impedance of a BJT amplifier is purely ________ in nature and can vary from a few ________ to ________.</p>,"resistive, ohms, megohms","capacitive, microfarads, farads","inductive, millihenrys, henrys",None of the above,,A,
+"<p>The ________ the source resistance and/or ________ the load resistance, the less the overall gain of an amplifier.</p>","smaller, smaller","smaller, larger","larger, smaller","larger, larger",,C,
+"<p>Refer to this figure. If an emitter bypass capacitor was installed, what would the new A<sub>v</sub> be?
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq6_1009_1.jpeg""/></p>",4.96,125,398,600,,D,
+<p>A Darlington pair provides beta ________ for ________ input resistance.</p>,"multiplication, decreased","multiplication, increased","division, decreased",,,B,
+<p>A Darlington pair amplifier has</p>,high input impedance and high voltage gain.,low input impedance and low voltage gain.,a voltage gain of about 1 and a low input impedance.,a low voltage gain and a high input impedance.,,D,

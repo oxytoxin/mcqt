@@ -1,0 +1,47 @@
+question,A,B,C,D,E,answer,explanation
+<p>The voltage gain of a basic instrumentation amplifier is set by a(n)</p>,diode.,capacitor.,resistor.,inductor.,,C,
+<p>A basic ________ amplifier is formed by three op-amps and seven resistors.</p>,instrumentation,isolation,log,antilog,,A,
+<p>Instrumentation amplifiers are normally used to measure</p>,small differential signal voltages.,signals superimposed on a common-mode voltage often much larger than the signal voltage.,both of the above,none of the above,,C,
+"<p>Refer to given circuits. Which circuit is known as an OTA?
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq14_1017_1.jpeg""/></p>",a,b,c,d,,D,
+"<p>Refer to given circuits. Which circuit is known as a current-to-voltage converter?
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq14_1017_1.jpeg""/></p>",a,b,c,d,,A,
+"<p>Refer to the given figure. This circuit is a setup for
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq14_1012_1c.jpeg""/></p>",an antilog amplifier.,a constant-current source.,an instrumentation amplifier.,an isolation amplifier.,,D,
+<p>A(n) ________ amplifier is a differential voltage-gain device that amplifies the difference between the voltages existing at its two input terminals.</p>,instrumentation,isolation,operational transconductance,log,,A,
+"<p>Refer to given circuits. Which circuit is known as a voltage-to-current converter?
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq14_1017_1.jpeg""/></p>",a,b,c,d,,B,
+"<p>Refer to the given figure. This circuit is a setup for
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq14_1012_1b.jpeg""/></p>",an antilog amplifier.,a constant-current source.,an instrumentation amplifier.,an isolation amplifier.,,B,
+<p>The main purpose of an instrumentation amplifier is to amplify ________ signals that are riding on ________ common-mode voltages.</p>,"small, small","small, large","large, small","large, large",,B,
+"<p>Refer to given circuits. Which circuit is known as a peak detector?
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq14_1017_1.jpeg""/></p>",a,b,c,d,,C,
+<p>A log amplifier may use the ________ junction of a BJT in the feedback loop.</p>,base-collector,base-emitter,emitter-collector,emitter-ground,,B,
+<p>A current-to-voltage converter produces a</p>,constant output voltage for a variable input current.,variable output voltage for a constant input current.,proportional output voltage for a variable input current.,proportional output current for a variable input voltage.,,C,
+<p>A log amplifier has ________ in the feedback loop.</p>,a diode,a BJT,a resistor,either a diode or a BJT,,D,
+"<p>Refer to the given figure. This circuit is a setup for
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq14_1012_1d.jpeg""/></p>",an antilog amplifier.,a constant-current source.,an instrumentation amplifier.,an isolation amplifier.,,A,
+<p>What is (are) the principal area(s) of application for isolation amplifiers?</p>,medical,power plant,automation,all of the above,,D,
+<p>A constant-current source delivers a load current that</p>,remains constant when the load resistance changes.,varies with load resistance.,varies inversely with load resistance.,varies inversely with input voltage.,,A,
+<p>The operational transconductance amplifier (OTA) is primarily a ________ -to- ________ amplifier.</p>,"current, voltage","voltage, current","current, resistance","resistance, current",,B,
+<p>The main difference between the isolation amplifier and an instrumentation amplifier is</p>,an instrumentation amplifier has an input stage.,an instrumentation amplifier has an output stage.,an instrumentation amplifier has a differential stage.,"the input, output, and power supply stages of an isolation amplifier are all electrically isolated from each other.",,D,
+<p>An antilog amplifier has a ________ in series with the input.</p>,BJT,diode,diode or BJT,resistor,,C,
+"<p>A(n) ________ amplifier provides ""a barrier"" between the input and output for the protection of human life or sensitive equipment.</p>",instrumentation,isolation,operational transconductance,voltage-to-current,,B,
+<p>The process known as signal compression is used with a(n) ____ amplifier.</p>,log,antilog,instrumentation,isolation,,A,
+<p>Transconductance is the ratio of the output</p>,current to the input voltage.,current to the input current.,voltage to the input voltage.,voltage to the input current.,,A,
+"<p>Refer to the given figure. This circuit is a setup for
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq14_1012_1a.jpeg""/></p>",an antilog amplifier.,a constant-current source.,an instrumentation amplifier.,an isolation amplifier.,,C,
+<p>The OTA has a ________ input impedance and a ________ CMRR.</p>,"high, low","low, high","high, high","low, low",,C,
+<p>The log of a number is the</p>,base to which the power must be raised to get that number.,power to which the base must be raised to get that number.,base of that number.,power of that number.,,B,
+<p>What is a key characteristic of an instrumentation amplifier?</p>,high CMRR,high output offset,high output impedance,none of the above,,A,
+"<p>In logarithmic signal compression,</p>",large and small voltages are compressed equally.,large voltages are compressed more than small voltages.,large voltages are compressed less than smaller voltages.,none of the above,,B,
+<p>What part of the characteristic curve of a diode is useful for log amplifiers?</p>,the log region above 0.7 V,the log region below 0.7 V,the log region between 0 V and 0.7 V,the log region below the zener voltage,,C,
+<p>An OTA has</p>,a bias-current input terminal.,high output impedance.,no fixed open-loop voltage gain.,all of the above,,D,

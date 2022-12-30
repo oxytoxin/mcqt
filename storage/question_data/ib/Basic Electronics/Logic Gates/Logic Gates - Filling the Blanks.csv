@@ -1,0 +1,5 @@
+question,A,B,C,D,E,answer,explanation
+<p>A logic circuit whose output is LOW when at least one input is HIGH is a(n) _________ gate.</p>,NOR,AND,NAND,exclusive-OR gate,,A,
+<p>The AND function can be used to ___________ and the OR function can be used to _____________.</p>,"enable, disable","disable, enable","synchronize, energize","detect, invert",,A,
+"<p>The dependency notation ""<img align=""absmiddle"" alt=""greaterthan.gif"" src=""/_files/images/basic-electronics/complete/greaterthan.gif""/> 1"" inside a block stands for the ________ operation.</p>",OR,XOR,AND,XNOR,,A,
+"<p>If we use an AND gate to inhibit a signal from passing, one of the inputs must be _________.</p>",LOW,HIGH,inverted,floating,,A,

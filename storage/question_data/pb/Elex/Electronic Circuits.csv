@@ -1,0 +1,491 @@
+﻿question,choices,answer
+"The voltage gain of a common collector configuration is","[""Unity"",""Zero"",""Very high"",""Moderate""]",0
+"A two-transistor class B power amplifier is commonly called","[""Push-pull amplifier"",""Dual amplifier"",""Symmetrical amplifier"",""Differential amplifier""]",0
+"If a transistor is operated in such a way that output current flows for 160 degrees of the input signal, then it is ____________ operation.","[""Class A"",""Class C"",""Class B"",""Class AB""]",1
+"Which coupling has the best frequency response?","[""Direct"",""RC"",""Transformer"",""Transistor""]",0
+"A transistor amplifier has high output impedance because","[""Emitter is heavily doped"",""Collector is wider than emitter or base"",""Collector has reverse bias"",""Emitter has forward bias""]",2
+"Which of the following is considered an amplifier figure of merit?","[""Gain-bandwidth product"",""Beta (\u03b2)"",""Alpha (\u03b1)"",""Temperature""]",0
+"What piece of equipment in an oscilloscope is used to indicate pulse condition in a digital logic circuit?","[""Probe"",""Test prods"",""Connector"",""Logic probe""]",3
+"What linear circuit compares two input signals and provides a digital level output depending on the relationship of the input signals?","[""Comaparator"",""Controller"",""Compressor"",""Switch""]",0
+"What type of coupling is generally used in power amplifiers?","[""Transformer"",""Direct"",""RC"",""Inductive""]",0
+"Which amplifier whose output current flows for the entire cycle?","[""Class A"",""Class B"",""Class C"",""Class AB""]",0
+"The coupling capacitor Cc must be large enough to ___________ in an RC coupling scheme.","[""Pass dc between the stages"",""Dissipate high power"",""Prevent attenuation of low frequency"",""Prevent attenuation of high frequency""]",2
+"What is the point of intersection of dc and ac load lines called?","[""Operating point"",""Cut off point"",""Saturation point"",""Breakdown""]",0
+"An oscillator produces ____________ oscillations.","[""Damped"",""Modulated"",""Undamped"",""Sinusoidal""]",2
+"What is the operating point in the characteristic curve called?","[""Quiescent point"",""Load point"",""Biasing point"",""Saturation point""]",0
+"Oscillators operate on the principle of","[""Positive feedback"",""Negative feedback"",""Signal feedthrough"",""Attenuation""]",0
+"In a class A amplifier, the output signal is","[""Distorted"",""The same as the input"",""Clipped"",""Smaller in amplitude than the input""]",1
+"What happens if the input capacitor of a transistor amplifier is short-circuited?","[""Biasing conditions will change"",""Transistor will be destroyed"",""Signal will not reach the base"",""Biasing will stabilize""]",0
+"Which is used to establish a fixed level of current or voltage in a transistor?","[""Biasing"",""Loading"",""Load line"",""Coupling""]",0
+"Which power amplifier has the highest collector efficiency?","[""Class A"",""Class C"",""Class B"",""Class AB""]",1
+"What is a non-linear type of amplifier?","[""Class C"",""Class AB"",""Class B"",""Class A""]",0
+"An AF transformer is shielded to","[""Keep the amplifier cool"",""Prevent the induction due to stray magnetic fields"",""Protect from rusting"",""Prevent electric shock""]",1
+"Amplitude distortion is otherwise known as ___________ distortion.","[""Intermodulation"",""Harmonic"",""Phase"",""Resonant""]",1
+"What represents common-emitter small signal input resistance?","[""hie"",""hfe"",""hib"",""hoe""]",0
+"The ear is not sensitive to ____________ distortion.","[""Frequency"",""Amplitude"",""Harmonic"",""Phase""]",0
+"Class C is an amplifier whose output current flows for","[""Less than one-half the entire input cycle"",""The entire input cycle"",""Twice the entire input cycle"",""Greater than one-half the entire input cycle""]",0
+"If gain without feedback and feedback factor are A and β respectively, then gain with negative feedback is given by","[""A\/ 1-A \u03b2"",""A\/ 1+ A \u03b2"",""1+A \u03b2 \/ A"",""(1+A \u03b2) A""]",1
+"The collector current in an common base configuration is equal to","[""Alpha times emitter current plus leakage current"",""Alpha times base current plus leakage current"",""Beta times emitter current plus leakage current"",""Beta times collector current plus leakage current""]",0
+"Which is not a basic BJT amplifier configuration?","[""Common-drain"",""Common-base"",""Common-emitter"",""Common-collector""]",0
+"The value of collector load resistance in a transistor amplifier is ___________ the output impedance of the transistor.","[""Equal to"",""More than"",""Less than"",""Not related""]",2
+"What is the purpose of RC or transformer coupling?","[""To block ac"",""To separate bias of one stage from another"",""To increase thermal stability"",""To block dc""]",1
+"The bandwidth of a single stage amplifier is ___________ that of multistage amplifier.","[""Equal to"",""Less than"",""More than"",""Independent""]",2
+"What is the time taken by the electrons or holes to pass from the emitter to the collector?","[""Transit time"",""Recombination"",""Transient time"",""Duty cycle""]",0
+"To obtain good gain stability in a negative feedback amplifier, AB is","[""Equal to 1"",""Very much greater than 1"",""Less than 1"",""Zero""]",1
+"The basic concept of the electric wave filter was originated by","[""Campbell and Wagner"",""Norton"",""Foster"",""Bode and Darlington""]",0
+"Which configuration has the lowest current gain?","[""Common-base"",""Common-collector"",""Common-emitter"",""Emitter follower""]",0
+"Which transistor configuration offers no phase reversal at the output?","[""Common-base"",""Common-collector"",""Common-emitter"",""Both A and B""]",3
+"The number of stages that can be directly coupled is limited because","[""Change in temperature can cause thermal instability"",""Circuit becomes heavily and costly"",""It becomes difficult to bias the circuit"",""Circuits\u2019 resistance becomes too large""]",0
+"The input capacitor in an amplifier is called _____________ capacitor.","[""Coupling"",""Stray"",""Bypass"",""Electrolytic""]",0
+"AC load line has a/an _____________ slope compared to that of dc load line.","[""Zero"",""Smaller"",""Bigger"",""Infinite""]",2
+"A multistage amplifier uses at least how many transistors?","[""One"",""Three"",""Four"",""Two""]",3
+"RC coupling is used for _____________ amplification.","[""Voltage"",""Current"",""Signal"",""Power""]",0
+"An ammeter’s ideal resistance should be","[""Zero"",""Unity"",""Infinite"",""The same with the circuits resistance""]",0
+"What circuit increases the peak –to-peak voltage, current or power of a signal?","[""Power supply"",""Attenuator"",""Amplifier"",""Filter""]",2
+"When the non-linear distortion in an amplifier is D without feedback, with negative voltage feedback it will be","[""D\/ 1+ A \u03b2"",""1+ A \u03b2 \/ D"",""D (1+A \u03b2)"",""D (1-A \u03b2)""]",0
+"A tuned amplifier uses what load?","[""Resistive"",""Capacitive"",""LC tank"",""Inductive""]",2
+"The voltage gain over mid- frequency range in an RC coupled amplifier","[""Changes instantly with frequency"",""Is constant"",""Is independent of the coupling"",""Is maximum""]",1
+"The input impedance of an amplifier _____________ when negative voltage feedback is applied.","[""Decreases"",""Becomes zero"",""Increases"",""Is unchanged""]",2
+"The input impedance of an amplifier ___________ when negative current feedback is applied.","[""Remains unchanged"",""Decreases"",""Increases"",""Becomes zero""]",1
+"To obtain the frequency response curve of an amplifier ___________ is kept constant.","[""Generator output level"",""Amplifier output"",""Generator frequency"",""Amplifier frequency""]",0
+"It is a very high-gain differential amplifier with very high input impedance and very low output impedance.","[""par-amp"",""op-amp"",""differential amp"",""complementary amp""]",1
+"Ideally, op-amps have infinite input resistance and ________ output resistance.","[""infinite"",""zero"",""variable"",""a highly stabilized""]",1
+"When the same signal is applied to both inverting and non-inverting input terminals of an ideal op-amp, the output voltage would be","[""zero (0) V"",""+VSAT"",""\u2013VSAT"",""offset voltage""]",0
+"The operating mode of an op-amp, when both inputs are tied together or when the input signal is common to both inputs.","[""differential mode"",""rejection mode"",""double-ended mode"",""common mode""]",3
+"What do you call of the gain of an op-amp if operated in common mode input?","[""differential gain"",""common gain"",""double-ended gain"",""rejection gain""]",1
+"When one input of the op-amp is connected to ground and the other is to the signal source, its operation is called","[""single-ended output"",""double-ended output"",""single-ended input"",""double-ended input""]",2
+"If op-amps are operated in differential mode, its gain is technically termed as","[""common-mode differential gain"",""differential gain"",""open-loop gain"",""closed-loop gain""]",1
+"The ratio of the differential gain and common gain of an op-amp","[""differential-common mode ratio"",""common-mode ratio"",""differential-mode rejection ratio"",""common-mode rejection ratio""]",3
+"An operational amplifier has a common-mode voltage gain of 10 and a differential-mode voltage gain of 20,000, calculate its common-mode rejection ratio (CMRR).","[""200"",""2,000"",""20,000"",""200,000""]",1
+"Calculate the CMRR of an op-amp having a common-mode gain of 10 and a differential-mode gain of 100,000.","[""1000 dB"",""100 dB"",""80 dB"",""40 dB""]",2
+"What is the maximum output voltage swing of an op-amp?","[""+V to -V (supply voltage)"",""+VSAT to -VSAT"",""+\u00bdV to -\u00bdV"",""depends on the input signal""]",1
+"The µA741 op-amp has a CMRR of 90dB and a differential-mode voltage amplification of 200,000.What is the op-amp’s common-mode voltage gain?","[""31,622.778"",""632.40"",""6.324"",""0.158""]",2
+"The current needed at the input of an op-amp to operate it normally","[""input bias current"",""input offset current"",""input threshold current"",""input holding current""]",0
+"Ideal op-amp requires no input current, but real op-amp needs a very small input current called input bias current. At both inputs, the bias currents have a slight difference. What do you call this difference?","[""differential input current"",""differential bias"",""input offset difference"",""input offset current""]",3
+"The change in input offset current due to temperature change","[""delta input offset current"",""slew rate"",""input offset current drift"",""PSRR""]",2
+"It is known through experiment that the input bias currents at the non-inverting (IB+) and inverting (IB-) inputs of a certain op-amp is 100 nA and 80 nA, respectively. Determine the op-amp’s input offset current.","[""-20 nA"",""20 nA"",""90 nA"",""180 nA""]",1
+"The reduction of op-amps gain due to increasing operating frequency.","[""Cutoff"",""roll-off"",""diminishing factor"",""reduction step""]",1
+"A reduction of op-amp’s voltage gain by a factor of two each time the frequency doubles.","[""2 dB\/octave"",""2 dB\/decade"",""6 dB\/octave"",""6 dB\/decade""]",2
+"Frequency at which the voltage gain of op-amp reduces to unity.","[""unity-gain frequency"",""cutoff frequency"",""bandwidth point"",""unity-gain bandwidth product""]",3
+"The low and high cutoff frequencies of an amplifier is also called","[""corner frequencies"",""0.707 frequencies"",""3-dB frequencies"",""all of these are correct""]",3
+"The maximum output voltage rate of change of an op-amp.","[""rise time"",""maximum voltage swing"",""differential rate"",""slew rate""]",3
+"Two comparators using op-amps, configured such that it can detect voltage levels within a certain range of values rather than simply comparing whether a voltage is above or below a certain reference.","[""analog comparator"",""regenerative comparator"",""parallel comparator"",""window comparator""]",3
+"The feedback element of a differentiator constructed from op-amp is","[""a resistor"",""an inductor"",""a capacitor"",""an RC network""]",0
+"An active integrator uses an op-amp, what is its feedback element?","[""Resistor"",""capacitor"",""inductor"",""RC network""]",1
+"The voltage gain of an op-amp voltage follower.","[""unity"",""Rf\/Ri"",""1 + Rf\/Ri"",""depends on the type of op-amp""]",0
+"Calculate the closed-loop voltage gain of an inverting amplifier having a feedback and an input resistance of 100 kΩ and 10 kΩ, respectively.","[""10"",""11"",""100"",""110""]",0
+"A unity-gain summing amplifier has three inputs, V1 = 1.0 mV, V2 = 1.5 mV, and V3 = 2.5 mV, calculate the total output voltage.","[""2.5 mV"",""3.5 mV"",""4.0 mV"",""5.0 mV""]",3
+"Which condition must exist for a circuit to oscillate?","[""It must have a negative feedback sufficient to cancel the input"",""It must have a gain of less than 1"",""It must have a positive feedback sufficient to overcome losses"",""It must be neutralized""]",2
+"Circuits that produces alternating or pulsating current or voltage.","[""Damper"",""Generator"",""oscillator"",""mixer""]",2
+"What do you call the oscillator circuit that uses a tapped coli in the tuned circuit?","[""Pierce"",""Colpitts"",""Hartley"",""Ultraudion""]",2
+"What determines the resonant frequency of a crystal?","[""external components"",""the temperature of the crystal"",""the size and thickness of the crystal material"",""the hermitic seal""]",2
+"A self-excited oscillator in which the tank is divided into input and feedback portions by a capacitive voltage divider.","[""Hartley capacitor"",""Colpitts oscillator"",""Relaxation oscillator"",""Klystron oscillator""]",1
+"A self-excited oscillator in which the tank is divided into input and feedback portions by an inductive voltage divider or a tapped coil.","[""Hartley oscillator"",""Copitts oscillator"",""Relaxation oscillator"",""Klystron oscillator""]",0
+"A circuit usually containing two transistors or tubes in an RC-coupled amplifier, the two active devices switch each other alternately on and off.","[""Multivibrator"",""Signal generator"",""Oscillator"",""Thyristor""]",0
+"A multivibrator that generates one output pulse for each input trigger pulse.","[""monostable"",""astable"",""bistable"",""tristate""]",0
+"Monostable multivibrator is also known as","[""one shot"",""single shot"",""direct shot"",""one shot or single shot""]",3
+"What determines the pulse time in a monostable multivibrator?","[""resistor combinations"",""capacitor combinations"",""inductor combinations"",""resistor and capacitor combinations""]",3
+"A multivibrator having two stable state","[""monostable"",""bistable"",""astable"",""unstable""]",1
+"Is also known as Eccles/Jordan circuit","[""Monostable multivibrator"",""bistable multivibrator"",""astable multivibrator"",""unstable multivibrator""]",1
+"Flip-flop is actually a _______ multivibrator.","[""Monostable"",""bistable"",""astable"",""unstable""]",1
+"Considered as a free-running multivibrator","[""monostable"",""bistable"",""astable"",""unstable""]",2
+"Filter that is characterized by a relatively flat passband and slow roll-off rate","[""Butterworth"",""Elliptic"",""Chebyshev"",""Notch""]",0
+"Filter that is characterized by ripple at the passband and fast roll-off rate","[""Butterworth"",""Elliptic"",""Chebyshev"",""Notch""]",2
+"An LC circuit resonates at 2000 kHz and has a Q of 100. Find the lower and upper cut-off frequencies.","[""1980 kHz, 2020 kHz"",""1950 kHz, 2050 kHz"",""1990 kHz, 2010 kHz"",""1900 kHz, 2100 kHz""]",2
+"What is the resonant frequency of a circuit when L is 1 microhenry and C is 10 picofarads are in series?","[""50.3 MHz"",""15.9 MHz"",""15.9 kHz"",""50.3 kHz""]",0
+"What happens to the input resistance of an amplifier employing voltage-series feedback?","[""It is increased"",""It remains the same"",""It is decreased"",""Equals infinity""]",0
+"What happens to the output resistance of an amplifier employing voltage-shunt feedback?","[""It is increased"",""It remains the same"",""It is decreased"",""Equals infinity""]",2
+"If the gain of an amplifier without feedback is 10 and with negative feedback is 8, then the feedback fraction is","[""0.025"",""0.9"",""0.8"",""0.225""]",0
+"_____ is the progressive decay with time in the amplitude of the free oscillation in a circuit.","[""Decrement"",""Pulse decay time"",""Damping"",""Dancing""]",2
+"The driver transformer has center- tapped secondary to provide","[""Forward bias to transistors of push-pull circuit"",""Two signals 180 degrees out of phase to transistors of push-pull circuit"",""Impedance matching"",""Two signals in phase with each other""]",1
+"What is the advantage of RC coupling scheme?","[""Good impedance matching"",""Economy"",""High efficiency"",""Simplicity""]",1
+"A type of filter which is having a single continuous transmission band with neither the upper nor the lower cut-off frequencies being zero or infinite is called","[""Band stop filter"",""Low pass filter"",""High pass filter"",""Band pass filter""]",3
+"An instrument use to measure ones location in terms of coordinates","[""GPS"",""ILS"",""FANS"",""GSM""]",0
+"Transformer coupling is used for _________ amplification.","[""Current"",""Power"",""Voltage"",""Signal""]",1
+"What is the typical value of coupling capacitor Cc in RC coupling?","[""About 100 pF"",""About 0.1 \u00b5F"",""About 10 \u00b5F"",""About 0.01 \u00b5F""]",2
+"An electronic transfer from one stage to the next is termed as ____________.","[""Doping"",""Mixing"",""Coupling"",""Connecting""]",2
+"An amplifier configuration where the input signal is led to the emitter terminal and the output from the collector terminal is called","[""Common base"",""Common emitter"",""Clipper"",""Common collector""]",0
+"If the noise factor of an ideal amplifier expressed in dB, then it is","[""0"",""0.1"",""1"",""10""]",0
+"A feedback circuit is ______________ frequency","[""Independent of"",""Strongly dependent on"",""Moderately dependent on"",""Relatively dependent on""]",0
+"What is the basic purpose of applying negative feedback to an amplifier?","[""To increase gain"",""To reduce distortion"",""To keep the temperature within limits"",""To increase input signal""]",1
+"The capacitors are considered ________________ in the dc equivalent circuit of a transistor amplifier.","[""Short"",""Partially short"",""Open"",""Partially open""]",2
+"Which frequency produces the highest noise factor?","[""10 kHz"",""500 Hz"",""1 kHz"",""100 Hz""]",0
+"Power amplifiers handle _____________ signals.","[""Very small"",""Small"",""Large"",""Very large""]",2
+"The operating point is generally located at ______________ of dc load line in class A operation","[""The middle"",""Saturation point"",""Cut off point"",""End point""]",0
+"Which of the following describes a common collector amplifier?","[""Low voltage gain"",""Low current gain"",""Low power gain"",""Low input resistance""]",0
+"The general characteristics of a common base amplifier are","[""High voltage gain, low current gain, high power gain and very low input resistance"",""High voltage, high current gain, high power gain and low input resistance"",""Low voltage gain, high current gain, very high power gain and low input resistance"",""None of the choices""]",0
+"To amplify dc signals, multistage amplifier uses what coupling?","[""RC"",""Direct"",""Transformer"",""Resistor""]",1
+"What oscillator is used on order to produce frequencies in the microwave region?","[""Wien bridge"",""Hartley"",""Klystron"",""Crystal""]",2
+"Practically, the voltage gain of an amplifier is expressed","[""In volts unit"",""In dB unit"",""As an absolute value"",""As a whole number""]",1
+"What coupling provides maximum voltage gain?","[""RC"",""Direct"",""Transformer"",""Resistor""]",2
+"The gain of an amplifier __________ when negative feedback is added.","[""Increases"",""Remains unchanged"",""Reduces"",""Becomes infinite""]",2
+"Feedback factor is always","[""Less than 1"",""Equal to 1"",""More than 1"",""Zero""]",0
+"What class of operation is used for general amplification where no distortion can be tolerated?","[""Class A"",""Class B"",""Class AB"",""Class C""]",0
+"What class of operation is used either where the signal needs to be cut in half, such as in pulse detector or noise detectors or where push-pull operation of two stages is required?","[""Class A"",""Class B"",""Class AB"",""Class C""]",1
+"What class of operation is used where a portion of a signal only is required, such as the synchronizing pulse separator of a television receiver?","[""Class A"",""Class B"",""Class AB"",""Class C""]",2
+"What class of operation has little use in general purpose amplifiers, but is used in high frequency oscillators?","[""Class A"",""Class AB"",""Class B"",""Class C""]",3
+"Why is transformer coupling provides high frequency?","[""DC resistance is low"",""Collector voltage is stepped up"",""Collector voltage is stepped down"",""AC resistance is high""]",0
+"Class C operation can have _____________ percent efficiency.","[""100%"",""78.5%"",""50%"",""70%""]",0
+"The efficiency of class AB operation has a maximum of between _____________ percent.","[""90 to 100%"",""60 to 80%"",""50 to 78.5%"",""40.5 to 60%""]",2
+"Transformer coupling is generally employed when load resistance is","[""Large"",""Very large"",""Small"",""Zero""]",2
+"A dc voltage supply provides 60V when the output is unloaded. When connected to a load the output drops to 56V. Calculate the value of the voltage regulation.","[""8.1%"",""7.1%"",""5%"",""12%""]",1
+"The __________ the voltage regulation, the better the operation of the voltage supply circuit.","[""Smaller"",""Bigger"",""Moderate"",""Biggest""]",0
+"In transistor amplifiers, what transformer is used for impedance matching?","[""Step up"",""Power"",""Step down"",""Isolation""]",2
+"If an amplifier has a power gain of 100, then its dB gain is","[""10"",""40"",""20"",""100""]",2
+"In order to have more voltage gain from a transformer amplifier the transistor used should have","[""Thin collector"",""Thin base"",""Wide emitter"",""Thin emitter""]",1
+"The final stage of an amplifier uses ____________ coupling.","[""Direct"",""RC"",""Transformer"",""Impedance""]",2
+"The largest theoretical voltage gain obtained with a common collector amplifier is","[""100"",""10"",""Unity"",""Infinite""]",2
+"Increasing the overall Beta is an advantage of","[""Clap oscillator"",""Crystal oscillator"",""Darlington pair"",""CE amplifier""]",2
+"The frequency of oscillation is __________ L and C in an LC oscillator.","[""Inversely proportional to square root of"",""Directly proportional to"",""Independent of the values of"",""Proportional to square of""]",0
+"An oscillator employs ____________ feedback.","[""Positive"",""Negative"",""Both positive and negative"",""Neither positive nor negative""]",0
+"What is the reason why RC coupling is not used to amplify extremely low frequencies?","[""There is considerable power loss"",""Electrical size of coupling capacitor becomes very large"",""There is a hum in the output"",""Electrical size of coupling capacitor becomes very small""]",1
+"Given three amplifiers with a gain of 10 and are connected in cascade. How much is the overall gain?","[""24"",""10,000"",""30"",""20""]",2
+"A pair of filter common on high fidelity system which separate audio frequency band signals into two separate groups, where one is fed to the tweeter and the other to the woofer is called","[""Equalizer"",""Synthesizer"",""Cross over network"",""Hybrid""]",2
+"The frequency response of transformer coupling is","[""Good"",""Excellent"",""Poor"",""Very good""]",2
+"The simplest variable frequency sinusoidal oscillator is the","[""Complicated Colpitts circuit"",""Crystal circuit"",""Armstrong circuit"",""Phase shift circuit""]",2
+"Which of the following is provided by a CB transistor amplifier?","[""Voltage gain"",""Power gain"",""Current gain"",""Gain stability""]",2
+"In the initial stages of a multistage amplifier, ____________ coupling is used.","[""Link"",""RC"",""Transformer"",""Impedance""]",1
+"If Av is 50 Ai is 200, what is the power gain of a common emitter amplifier?","[""1,000"",""10,000"",""100"",""100,000""]",1
+"The gain of an amplifier with feedback is known as __________ gain.","[""Closed loop"",""Resonant"",""Open loop"",""Unity""]",0
+"Negative feedback is employed in","[""Oscillators"",""Rectifiers"",""Amplifiers"",""Receivers""]",2
+"The gain of an amplifier is expressed in dB unit because","[""It is a simple unit"",""Calculations become easy"",""Human ear response is logarithmic"",""It is the most appropriate unit""]",2
+"What is the typical value of the emitter bypass capacitor CE in a multistage amplifier?","[""About 0.1 \u00b5F"",""About 50 \u00b5F"",""About 100 pF"",""About 0.01 \u00b5F""]",1
+"In a multistage amplifier, if the stages have R and C component only, ___________ operation is apparent.","[""Class B"",""Class C"",""Class A"",""Class AB""]",2
+"In practice, what is normally varied in order to change the frequency of oscillation?","[""Capacitance"",""Inductance"",""Resistance"",""Impedance""]",0
+"What is the main consideration in the output stage of an amplifier?","[""Power output"",""Voltage gain"",""Power gain"",""Current gain""]",2
+"Transformer coupling provides high gain because","[""Transformer is very efficient"",""Impedance matching can be achieved"",""Transformer steps up the voltage"",""Transformer steps up the current""]",1
+"When negative voltage feedback is applied to an amplifier, its output impedance","[""Remains unchanged"",""Decreases"",""Increases"",""Becomes zero""]",1
+"An LC oscillator cannot be used to produce ____________ frequencies.","[""High"",""Very high"",""Audio"",""Very low""]",3
+"A transistor converts","[""Dc power into ac power"",""Ac power into dc power"",""High resistance into low resistance"",""Low resistance into high resistance""]",0
+"Hartley oscillator is commonly used in which of the following?","[""Radio receivers"",""TV receivers"",""Radio transmitters"",""CATV""]",0
+"An oscillator oscillates due to","[""Negative feedback"",""Positive feedback"",""Both positive and negative feedback"",""Neither positive nor negative feedback""]",1
+"Generally tuned amplifiers are operated in","[""Class C"",""Class A"",""Class B"",""Class AB""]",0
+"A tuned amplifier is used in what application?","[""Radio frequency"",""Audio frequency"",""Intermediate frequency"",""Low frequency""]",0
+"What is the ratio of output to input impedance of a CE amplifier?","[""Very low"",""Very high"",""Moderate"",""Approximately 1""]",2
+"For a constant output frequency, the simplest sinusoidal oscillator is the ___________.","[""Crystal oscillator"",""Phase-shift circuit"",""Colpitts circuits"",""Hartley circuit""]",0
+"The frequency stability of the oscillator output is maximum in ____________ oscillator.","[""LC"",""Crystal"",""Phase-shift"",""Wien bridge""]",3
+"Transformer coupling introduces what type of distortion?","[""Amplitude"",""Frequency"",""Phase"",""Intermodulation""]",1
+"A pulsating dc applied to power amplifiers causes","[""Burning of transistor"",""Hum in the circuit"",""Excessive forward voltage"",""Excessive reverse voltage""]",1
+"What is the disadvantage of impedance matching?","[""It gives distorted output"",""It requires a transformer"",""It gives low power output"",""It is expensive""]",0
+"In a phase-shift oscillator, ____________ RC sections are generally used.","[""Three"",""Four"",""Two"",""Five""]",0
+"In phase-shift oscillator, what are the frequency determining elements?","[""L and C"",""R, L and C"",""R and C"",""R and L""]",2
+"When the gain is 20 without feedback and 12 with negative feedback, feedback factor is","[""0.033"",""3\/5"",""5\/3"",""1\/5""]",0
+"The input impedance of which amplifier depends strongly on load resistance?","[""CE"",""CC"",""CB"",""CD""]",1
+"What capacitors are used in transistor amplifiers?","[""Paper"",""Electrolytic"",""Mica"",""Mylar""]",1
+"An important limitation of crystal oscillator is","[""Its low output"",""Its high Q"",""Less availability of quartz crystal"",""Its high output""]",0
+"What type of feedback is used in Wien bridge oscillator?","[""Positive"",""Negative"",""Both positive and negative"",""Either positive or negative""]",2
+"Which of the items below is not a description of the two-stage amplifier?","[""The input resistance is equal to the input resistance of the first stage unless feedback is applied"",""Its output resistance is equal to the output resistance of the final stage unless feedback is applied"",""Its noise level is equal to the accumulated noise of the two stages, either by multiplying the noise voltage amplitudes together or by adding the noise decibel levels together"",""The output resistance is equal to the output resistance of the first stage unless feedback is applied.""]",3
+"What is the most costly coupling?","[""RC coupling"",""Direct"",""Transformer"",""Inductive""]",2
+"When the output of an amplifier is 10V and 100mV from the output is fed back to the input, feedback factor is","[""10"",""0.1"",""0.01"",""0.15""]",2
+"What is the piezoelectric effect in a crystal?","[""Voltage is developed because of mechanical stress"",""Change in resistance because of temperature"",""Change of frequency because of temperature"",""Current is developed due to force applied""]",0
+"The input resistance of a common emitter amplifier is affected by","[""Re, re and \u03b2"",""Rc and re"",""\u03b2 and re"",""\u03b1 and re""]",0
+"What is the typical Q of a crystal?","[""100"",""50"",""1000"",""More than 10,000""]",3
+"What is the axis that connects the corners of a crystal?","[""X"",""Mechanical"",""Y"",""Z""]",0
+"Determine the attenuation in dB for a T-pad for which R1=R2=40Ω and R3= 36 Ω. The pad connects a 50 Ω generator to a 50 Ω load.","[""9.83 dB"",""83.93 dB"",""10.83 dB"",""11.93 dB""]",0
+"What is usually employed at the output stage of an amplifier?","[""Class A power amplifier"",""Push-pull amplifier"",""Pre-amplifier"",""Differential amplifier""]",1
+"Why is it that the size of a power transistor is made considerably large?","[""To provide easy handling"",""To dissipate more heat"",""To simply construction"",""To facilitate connections""]",1
+"When crystal frequency increases with temperature, it has ______________ temperature co- efficient.","[""Positive"",""Negative"",""Zero"",""Infinite""]",0
+"What is the purpose of the bypass capacitor in a common-emitter amplifier?","[""It increases voltage gain"",""It decreases voltage gain"",""It provides ac grounding"",""No effect in the circuit""]",0
+"An emitter follower is equivalent to","[""Common emitter amplifier"",""Common collector amplifier"",""Common base amplifier"",""Hybrid connection""]",1
+"The crystal oscillator frequency is very stable due to ___________ of the crystal.","[""Rigidity"",""Ductility"",""High Q"",""Low Q""]",2
+"The bandwidth of an amplifier _____________ when negative feedback is applied.","[""Decreases"",""Remains unchanged"",""Becomes infinite"",""Increases""]",3
+"The term 1+ A β in the expression for gain with negative feedback is known as","[""Gain factor"",""Sacrifice factor"",""Feedback factor"",""Quality factor""]",1
+"Emitter follower employs ____________ negative feedback.","[""50%"",""25%"",""75%"",""100%""]",3
+"What application where one would most likely find a crystal oscillator?","[""Radio transmitter"",""AF generator"",""Radio receiver"",""Oscilloscope""]",0
+"What is the most important consideration in power amplifiers?","[""Collector efficiency"",""Biasing the circuit"",""To keep the transformer cool"",""Amplifier distortion""]",0
+"When the gain versus frequency curve of a transistor amplifier is not flat, __________ distortion is present.","[""Amplitude"",""Frequency"",""Intermodulation"",""Phase""]",1
+"When the collector resistor in a common emitter amplifier is increased in value the voltage gain","[""Increases"",""Decreases"",""Remain the same"",""Becomes erratic""]",0
+"The output signal of CE amplifier is always","[""Out of phase with the input signal"",""Equal to the input signal"",""In phase with the input signal"",""Larger than the input signal""]",0
+"What is the purpose of capacitors in a transistor amplifier?","[""To protect the transistor"",""To cool the transistor"",""To couple or bypass ac component"",""To provide biasing""]",2
+"What is the phase difference between voltage across collector load and signal voltage in a common emitter amplifier?","[""0\u00b0"",""270\u00b0"",""180\u00b0"",""90\u00b0""]",0
+"When CE configuration is used for an oscillator, the voltage fed back must","[""Be inverted by 180\u00b0"",""Be taken from a capacitor"",""Have a 0\u00b0 phase shift"",""Taken from an inductor""]",0
+"Class B operation has a maximum possible frequency of ___________ percent.","[""100%"",""78.5%"",""75%"",""2.2%""]",1
+"What is the most stable sine-wave oscillator which uses piezo-electric quartz crystal?","[""Crystal oscillator"",""Wien-bridge oscillator"",""DC restorer"",""Hartley and Colpitts oscillator""]",0
+"To sustain oscillations, the power gain of the amplifier may be","[""Between 0.1 and 0.5"",""Any value form 0.5 upward"",""Equal to or greater than 1"",""Infinite""]",2
+"In a phase shift oscillator, 180° phase-shift is obtained","[""A transformer"",""LC tank circuit"",""Three RC sections"",""Three LC sections""]",2
+"Feedback circuit usually employs __________ network","[""Resistive"",""Inductive"",""Capacitive"",""Active""]",0
+"Emitter follower is used for","[""Impedance matching"",""Voltage gain"",""Current gain"",""Power gain""]",0
+"One of the items below is a characteristic of cascaded amplifiers?","[""Doubles transconductance"",""Total gain is lessen<b><\/b>"",""Increased overall gain"",""Increased overall amplification ratio""]",2
+"Logic analyzer is used to","[""Verify the logic operation of the gates in a circuit"",""To display the fall time"",""To sample and display systems signal"",""To analyze the logic operation of the system""]",2
+"Quartz crystal is most commonly used in crystal oscillators because","[""It is easily available"",""It has superior electrical properties"",""It is quite inexpensive"",""It is very rugged""]",1
+"Which operation gives the maximum distortion?","[""Class A"",""Class C"",""Class B"",""Class AB""]",1
+"Low efficiency of a power amplifier results in","[""Low forward bias"",""Less battery consumption"",""More battery consumption"",""Low power output""]",2
+"Class A operation has a maximum possible efficiency of ___________ percent.","[""100%"",""50%"",""75%"",""25%""]",1
+"Which of the following amplifier below is a choice when higher power gain is a requirement?","[""Common base"",""Common emitter"",""Common collector"",""Hybrid connection""]",1
+"The signal generator generally used in laboratories is ____________ oscillator","[""Crystal"",""Wien-bridge"",""Hartley"",""Phase-shift""]",1
+"A buffer amplifier is used for","[""Maximum loading and minimum mismatch"",""Minimum loading and minimum mismatch"",""Maximum loading and maximum mismatch"",""Minimum loading and maximum mismatch""]",1
+"Parasitic oscillations are caused by","[""Output negative feedback"",""Push-pull operation"",""Poor interstage coupling"",""Transistor interelectrode capacitance""]",3
+"Which is a fixed-frequency oscillator","[""Phase-shift oscillator"",""Colpitt\u2019s oscillator"",""Hartley oscillator"",""Crystal oscillator""]",3
+"The frequency of the ripple voltage at the output of a full-wave rectifier at 60 cycles.","[""120 cycles"",""60 cycles"",""240 cycles"",""480 cycles""]",0
+"Cascaded amplifiers total decibel gain is equal to","[""The sum of the individual gains"",""The product of the individual gains"",""The difference of the individual gains"",""The quotient of the individual gains""]",1
+"In an LC oscillator, if the value of L is increased four times, then the frequency of oscillation is","[""Decreased 2 times"",""Decreased 4 times"",""Increased 2 times"",""Increased 4 times""]",0
+"A class A power amplifier is otherwise known as","[""Single ended amplifier"",""Darlington amplifier"",""Symmetrical amplifier"",""Differential amplifier""]",0
+"The power input to a power amplifier is __________ quantity.","[""ac"",""Pulsating dc"",""dc"",""sinusoidal""]",2
+"When shock-excited, a crystal will produce alternating emf longer than an LC circuit because","[""has greater mechanical strength"",""has fewer losses"",""is small-sized"",""is very rigid""]",1
+"The stability of a regulated power supply is equivalent to","[""change of output voltage over the change in supply voltage"",""change in supply voltage over the change of output voltage"",""product of the output voltage and supply voltage"",""the difference of an output voltage to its supply voltage""]",0
+"What oscillator circuit uses a tapped coil in the tuned circuit?","[""Hartley"",""Colpitts"",""Crystal"",""Pierce""]",0
+"If you move towards an oscillating circuit, its frequency changes because of","[""Hand capacitance"",""Movement of the body"",""Noise of foot"",""Stray capacitance""]",0
+"Which of the following is not a FET amplifier configuration?","[""Common base amplifier"",""Common drain amplifier"",""Common source amplifier"",""Common gate amplifier""]",0
+"The number of transistor in a single stage amplifier is","[""Two"",""Three"",""One"",""Four""]",2
+"Series current negative feedback occurs when the feedback voltage is proportional to the output","[""Voltage"",""Impedance"",""Current"",""Power""]",2
+"Which of the following is NOT an oscillator requirement?","[""Attenuator"",""Amplifier"",""Tank circuit"",""Feedback""]",0
+"An amplifier with efficiency of 85% is likely to be","[""Class A"",""Class B"",""Class AB"",""Class C""]",3
+"What is the phase difference between the output and the input voltage of a CE amplifier?","[""180\u00b0"",""270\u00b0"",""0\u00b0"",""90\u00b0""]",0
+"Class C operation is preferred in oscillators because it","[""Is more efficient"",""Gives larger outputs"",""Produces square waves"",""Increases stability""]",0
+"What type of oscillator which is composed of one or more amplifying devices with some frequency determining networks introducing positive feedback at a particular frequency so that oscillation is sustained at that frequency?","[""Sine wave oscillator"",""Square-wave generator"",""Relaxation oscillator"",""Limiter""]",0
+"What is the desired input impedance of a transistor?","[""Low"",""Very low"",""High"",""Very high""]",2
+"What is the maximum collector efficiency of class B?","[""50%"",""90%"",""60.5%"",""78.5%""]",3
+"When a transistor is cut off","[""Maximum current flows"",""Maximum voltage appears across load"",""Maximum voltage appears across transistor"",""Minimum current flows""]",2
+"In an LC circuit, when the capacitor energy is maximum, the inductor energy is","[""Maximum"",""Minimum"",""Half-way between maximum and minimum"",""Zero""]",1
+"What is the approximate gain of an amplifier with negative feedback?","[""The feedback factor"",""The reciprocal of feedback factor plus one"",""The reciprocal of feedback factor"",""The feedback factor plus one""]",2
+"The operating point in a transistor amplifier moves along ___________ when an ac signal is applied","[""dc load line"",""ac load line"",""both dc and ac load lines"",""cut-off""]",1
+"An oscillator converts","[""ac power into dc power"",""dc power into ac power"",""mechanical power into ac power"",""electrical power into mechanical power""]",1
+"When the collector supply is 5V, then collector cut off voltage under dc condition is","[""20 V"",""10 V"",""2.5 V"",""5 V""]",3
+"The common base (CB) amplifier has a ___________ compared to CE and CC amplifier.","[""Lower input resistance"",""Larger current gain"",""Larger voltage gain"",""Higher input resistance""]",0
+"When a FET with a lower transconductance is substituted into a FET amplifier circuit, what happens?","[""The current gain does not change"",""The voltage gain decreases"",""The circuit disamplifies"",""The input resistance decreases""]",1
+"At zero signal condition, a transistor sees ___________ load.","[""dc"",""ac"",""both dc and ac"",""resistive""]",0
+"What is the gain of an amplifier with negative feedback if the feedback factor is 0.01?","[""10"",""1,000"",""100"",""500""]",2
+"The current gain of an emitter follower is","[""Equal to 1"",""Greater than 1"",""Less than 1"",""Zero""]",2
+"The current in any branch of a transistor amplifier that is operating is","[""ac only"",""the sum of ac and dc"",""the difference of ac and dc"",""dc only""]",1
+"An ideal differential amplifiers common mode rejection ratio is","[""Infinite"",""Zero"",""Unity"",""Undetermined""]",0
+"An open fuse circuit has a resistance equal to","[""Zero"",""Unity"",""At least 100\u2126 at standard"",""Infinity""]",3
+"What is the purpose of dc conditions in a transistor?","[""To reverse bias the emitter"",""To forward bias the emitter"",""To set up operating point"",""To turn on the transistor""]",2
+"The ac variations at the output side of power supply circuits are called ___________.","[""Ripples"",""Pulses"",""Waves"",""Filters""]",0
+"What is the purpose of the emitter capacitor?","[""To forward bias the emitter"",""To reduce noise in the amplifier"",""To avoid drop in gain"",""To stabilize emitter voltage""]",2
+"A common emitter circuit is also called __________ circuit.","[""Grounded emitter"",""Grounded collector"",""Grounded base"",""Emitter follower""]",0
+"The output signal of a common-collector amplifier is always","[""Larger than the input signal"",""In phase with the input signal"",""Out of phase with the input signal"",""Exactly equal to the input signal""]",1
+"Calculate the ripples of the filter output if a dc and ac voltmeter is used and measures the output signal from a filter circuit of 25 V<sub>DC</sub> and 1.5 V<sub>rms</sub>","[""5%"",""10%"",""50%"",""6%""]",3
+"What is the ideal maximum voltage gain of a common collector amplifier?","[""Unity"",""Infinite"",""Indeterminate"",""Zero""]",0
+"The output power of a transistor amplifier is more than the input power due to additional power supplied by","[""Transistor"",""Collector supply"",""Emitter supply"",""Base supply""]",1
+"When a transistor amplifier feeds a load of low resistance, its voltage gain will be","[""Low"",""Very high"",""High"",""Moderate""]",0
+"The capacitors are considered ___________ in the ac equivalent circuit of a transistor amplifier.","[""Open"",""Partially open"",""Short"",""Partially short""]",2
+"For highest power gain, what configuration is used?","[""CC"",""CB"",""CE"",""CS""]",2
+"What is the most important characteristic of a common collector amplifier?","[""High input voltage"",""High input resistance"",""High output resistance"",""Its being an amplifier circuit""]",1
+"Which of the item below does not describe a common emitter amplifier?","[""High voltage gain"",""High current gain"",""Very high power gain"",""High input resistance""]",3
+"CC configuration is used for impedance matching because its","[""Input impedance is very high"",""Input impedance is very low"",""Output impedance is very low"",""Output impedance is zero""]",0
+"Which of the following is the other name of the output stage in an amplifier?","[""Load stage"",""Audio stage"",""Power stage"",""RF stage""]",2
+"When amplifiers are cascaded","[""The gain of each amplifier is increased"",""A lower supply voltage is required"",""The overall gain is increased"",""Each amplifier has to work less""]",2
+"In a common emitter amplifier, the capacitor from emitter to ground is called the","[""Coupling capacitor"",""Bypass capacitor"",""Decoupling capacitor"",""Tuning capacitor""]",1
+"A class A power amplifier uses ________ transistor(s).","[""Two"",""One"",""Three"",""Four""]",1
+"What is the maximum collector efficiency of a resistance loaded class A power amplifier?","[""50%"",""78.5%"",""25%"",""30%""]",2
+"What is the maximum collector efficiency of a transformer coupled class A power amplifier?","[""30%"",""80%"",""45%"",""50%""]",3
+"Class C amplifiers are used as","[""AF amplifiers"",""Small signal amplifiers"",""RF amplifiers"",""IF amplifiers""]",2
+"Find the voltage drop developed across a D’ Arsonval meter movement having an internal resistance of 1 kΩ and a full deflection current of 150 uA.","[""150 \u00b5V"",""150 mV"",""150 V"",""200 mV""]",1
+"If the capacitor from emitter to ground in a common emitter amplifier is removed, the voltage gain","[""Increases"",""Decreases"",""Becomes erratic"",""Remains the same""]",1
+"Comparatively, power amplifier has _________ β.","[""Large"",""Very large"",""Small"",""Very small""]",2
+"The driver stage usually employs __________ amplifier.","[""Class A power"",""Class C"",""Push-pull"",""Class AB""]",0
+"The push-pull circuit must use ___________ operation.","[""Class A"",""Class B"",""Class C"",""Class AB""]",1
+"A complementary-symmetry amplifier has","[""One PNP and one NPN transistor"",""Two PNP transistors"",""Two NPN transistors"",""Two PNP and two NPN transistors""]",0
+"Power amplifiers generally use transformer coupling because transformer coupling provides","[""Cooling of the circuit"",""Distortionless output"",""Impedance matching"",""Good frequency response""]",2
+"The output transformer used in a power amplifier is a/an __________ transformer","[""1:1 ratio"",""Step-down"",""Step-up"",""Isolation""]",1
+"Transformer coupling can be used in ___________ amplifiers","[""Only power"",""Only voltage"",""Either power or voltage"",""Neither power nor voltage""]",2
+"When negative current feedback is applied to an amplifier, its output impedance","[""increases"",""remains unchanged"",""decreases"",""becomes zero""]",0
+"The quiescent current of a FET amplifier is","[""I<sub>DS<\/sub>"",""i<sub>d<\/sub>"",""I<sub>D<\/sub>"",""I<sub>d<\/sub>""]",2
+"The total decibel voltage gain of two cascaded voltage amplifier where individual voltage gains are 10 and 100 is","[""20"",""60"",""800"",""1000""]",1
+"The frequency response of the combined amplifier can be compared with","[""An OR gate"",""A negative feedback amplifier"",""A positive filter"",""An AND gate""]",3
+"Minimum interference with frequency response can be given by","[""Direct coupling"",""RC coupling"",""Transformer coupling"",""Instrumentation and control""]",0
+"The impedance of a load must match the impedance of the amplifier so that","[""Minimum power is transferred to the load"",""The efficiency can be maintained at low level"",""The signal-to-noise ratio is maximized"",""Maximum power is transferred to the load""]",3
+"The ratio output rms power in watts to the input dc power in watts in the different amplifier class is called _________.","[""Gain"",""Amplification factor"",""Efficiency"",""Phase power""]",2
+"Consider a zener diode with a slope resistance of 10 Ω in series with a 90 Ω resistor fed from a dc supply containing a ripple voltage of 20 mV peak-to-peak. Compute for the ripple voltage in load","[""1 mV p-p"",""2 mV p-p"",""1 V p-p"",""6 mV p-p""]",1
+"The __________ of a common collector configuration is unity","[""Voltage gain"",""Current gain"",""Power gain"",""Input impedance""]",0
+"Transmit time is the time taken by the electrons on holes to pass from","[""Emitter to collector"",""Collector to emitter"",""Base to emitter"",""Base to collector""]",0
+"Class A amplifier can be built from what transistor configuration?","[""common base"",""common emitter"",""common collector"",""all of the above""]",3
+"If a transistor amplifier provides a 360° output signal, it is classified as","[""class A"",""class B"",""class C"",""class D""]",0
+"An amplifier that delivers an output signal of 180° only.","[""class A"",""class B"",""class AB"",""class D""]",1
+"A class of amplifiers wherein the output signal swings more than 180° but less than 360°.","[""class A"",""class B"",""class C"",""class AB""]",3
+"What is the distinguishing feature of a class C amplifier?","[""Output is present for less than 180 degrees of the input signal cycle"",""Output is present for the entire signal cycle"",""Output is present for exactly 180 degrees of the input signal cycle"",""Output is present for more than 180 degrees but less than 60 degrees of the input signal cycle""]",0
+"A full 360° sine-wave signal is applied as an input to an unknown class of amplifier, if the output delivers only a pulse of less than 180°, of what class does this amplifier belongs?","[""class AB"",""class B"",""class C"",""class D""]",2
+"Which class of amplifiers that is intended for pulse operation?","[""class B"",""class C"",""class D"",""class S""]",2
+"How do you classify an amplifier used to amplify either amplitude modulated (AM) or frequency modulated (FM) signals?","[""class C"",""class BC"",""class D"",""class S""]",3
+"Which class of amplifiers that has the highest efficiency?","[""class A"",""class B"",""class C"",""class D""]",3
+"What is the efficiency of a series-fed class A amplifier?","[""25%"",""50%"",""78.5%"",""above 90%""]",0
+"A class A amplifier has an efficiency of only 25%, but this can be increased if the output is coupled with a transformer. Up to how much is its efficiency will reach due to coupling?","[""36.5%"",""50%"",""68.5%"",""78.5%""]",1
+"Class B amplifiers deliver an output signal of 180° and have a maximum efficiency of","[""50%"",""68.5%"",""78.55"",""above 90%""]",2
+"Transistorized class C power amplifiers will usually have an efficiency of","[""25%"",""33%"",""50%"",""78.5%""]",1
+"For pulse-amplification, class D amplifier is mostly used. How efficient is a class D amplifier?","[""about 25% efficient"",""less efficient than class B"",""more efficient than class A but less efficient than class B"",""its efficiency reaches over 90%""]",3
+"An amplifier of class AB means its output signal is between the output of class B and A, such that it varies from 180° (class B) to 360° (class A). How about its efficiency?","[""Efficiency of class AB is in between the efficiency of class A and B, that is from 25% \u2013 78.5%."",""It is always as efficient as class A (25%)."",""It is always as efficient as class B (78.5%)"",""The efficiency of class AB is the average of the efficiencies of both class A and class B (25% + 78.5%)\/2 = 51.75%""]",0
+"Among the given amplifiers below, which is the most efficient?","[""class A (series-fed)"",""class A (transformer-coupled)"",""class A (directly-coupled)"",""class A (capacitor-coupled)""]",1
+"In order to have the best efficiency and stability, where at the loadline should a solid state power amplifier be operated?","[""Just below the saturation point"",""At 1.414 times the saturation point"",""Just above the saturation point"",""At the saturation point""]",0
+"In most transistor class A amplifiers, the quiescent point is set at","[""near saturation"",""near cutoff"",""below cutoff"",""at the center""]",3
+"For a class B amplifier, the operating point or Q-point is set at","[""the top of the load line"",""saturation"",""the center"",""cutoff""]",3
+"The Q-point for class A amplifier is at the active region, while for class B it is at cutoff region, how about for class AB?","[""it is slightly below saturation"",""it is slightly above cutoff"",""it is slightly above saturation"",""it is at the saturation region""]",1
+"Where does the Q-point of a class C amplifier positioned?","[""at saturation region"",""at active region"",""at cutoff region"",""below cutoff region""]",3
+"The Q-point of a class D amplifier can be set or positioned at what region in the load line?","[""below saturation"",""above cutoff"",""at cutoff"",""any of the above""]",3
+"Which of the amplifiers given below that is considered as non-linear?","[""class A"",""class B"",""class AB"",""class C""]",3
+"Which amplifiers can be used for linear amplification?","[""class A"",""class B"",""class C"",""class A or B""]",3
+"What do you call an amplifier that is biased to class C but modulates over the same portion of the curve as if it were biased to class B?","[""class S"",""class D"",""class AB"",""class BC""]",3
+"Two class B amplifiers connected such that one amplifies the positive cycle and the other amplifies the remaining negative cycle. Both output signals are then coupled by a transformer to the load.","[""transformer-coupled push \u2013pull amplifier"",""complementary-symmetry amplifier"",""quasi-complementary push-pull amplifier"",""transformer-coupled class A amplifier""]",0
+"A push-pull amplifier that uses npn and pnp transistors to amplify the positive and negative cycles respectively.","[""transformer-coupled push \u2013pull amplifier"",""complementary-symmetry amplifier"",""quasi-complementary push-pull amplifier"",""transformer-coupled class A amplifier""]",1
+"A push-pull amplifier that uses either npn or pnp as its final stage. The circuit configuration looks like the complementary-symmetry.","[""transformer-coupled push \u2013pull amplifier"",""complementary-symmetry amplifier"",""quasi-complementary push-pull amplifier"",""feed-back pair amplifier""]",2
+"Amplifiers conversion efficiency are calculated using what formula?","[""ac-power\/dc-power"",""ac-power\/dissipated power"",""dc-power\/ac-power"",""A or B are correct""]",3
+"Basically, which class of amplifiers has the least distortion?","[""class A"",""class B"",""class C"",""class D""]",0
+"A type of distortion wherein the output signal does not have the desired linear relation to the input.","[""linear distortion"",""nonlinear distortion"",""cross-over distortion"",""all of the above""]",1
+"Distortion that is due to the inability of an amplifier to amplify equally well all the frequencies present at the input signal.","[""nonlinear distortion"",""amplitude distortion"",""harmonic distortion"",""cross-over distortion""]",1
+"A nonlinear distortion in which the output consists of undesired harmonic frequencies of the input signal.","[""amplitude distortion"",""frequency distortion"",""cross-over distortion"",""harmonic distortion""]",3
+"Calculate the 2nd harmonic distortion for an output signal having a fundamental amplitude of 3V and a 2nd harmonic amplitude of 0.3 V.","[""1.0%"",""10%"",""23.33%"",""43.33%""]",1
+"An amplifier has the following percent harmonic distortions; D2 = 10%, D3 = 5% and D4 = 1%. What is the amplifier % THD?","[""5.33%"",""11.22%"",""16.0%"",""22.11%""]",1
+"Which of the following refers to the gain of a circuit?","[""Input quantity of an amplifier divided by the output quantity."",""The difference between the input voltage and the output voltage of a circuit."",""The ratio of the output quantity to input quantity of an amplifier."",""The total increase in output quality over the input quantity of an amplifier.""]",2
+"The overall gain of an amplifier in cascade is","[""the sum"",""the average of each"",""the product"",""100% the sum""]",2
+"If three amplifiers with a gain of 8 each are in cascade, how much is the overall gain?","[""72"",""24"",""512"",""8""]",2
+"A multistage transistor amplifier arranged in a conventional series manner, the output of one stage is forward-coupled to the next stage.","[""cascaded amplifier"",""cascoded amplifier"",""darlington configuration"",""feed-back pair configuration""]",0
+"A direct-coupled two-stage transistor configuration wherein the output of the first transistor is directly coupled and amplified by the second transistor. This configuration gives a very high current gain.","[""cascade configuration"",""cascode configuration"",""darlington configuration"",""feed-back pair""]",2
+"of the second stage.","[""cascade configuration"",""cascode configuration"",""quasi-complementary"",""complementary amplifier""]",1
+"Famous transistor amplifier configuration designed to eliminate the so called Miller effect.","[""cascode amplifier"",""darlington amplifier"",""differential amplifier"",""complementary-symmetry""]",0
+"What are the transistor configurations used in a cascade amplifier?","[""common-base and common-emitter"",""common-base and common-collector"",""common-collector and common-emitter"",""common-emitter and common-base""]",3
+"Transistor configuration known to have a super-beta (β2).","[""cascade"",""cascode"",""darlington"",""differential""]",2
+"What is the approximate threshold voltage between the base-emitter junction of a silicon darlington transistor?","[""0.3 V"",""0.6 V"",""1.6 V"",""3.0 V""]",2
+"Transistor arrangement that operates like a darlington but uses a combination of pnp and npn transistors instead of both npn.","[""differential"",""common"",""cascode"",""feedback pair""]",3
+"An amplifier basically constructed from two transistors and whose output is proportional to the difference between the voltages applied to its two inputs.","[""differential amplifier"",""cascode amplifier"",""complementary amplifier"",""quasi-complementary amplifier""]",0
+"An amplifier having high direct-current stability and high immunity to oscillation, this is initially used to perform analog-computer functions such as summing and integrating.","[""operational amplifier (op-amp)"",""parametric amplifier (par-amp)"",""instrumentation amplifier"",""DC-amplifier""]",0
+"One of the most versatile and widely used electronic device in linear applications.","[""SCR"",""FET"",""UJT"",""op-amp""]",3
+"What are the possible applications of operational amplifiers (op-amps)?","[""ac and dc-amplifiers"",""oscillators and signal conditioning"",""voltage-level detectors and comparators"",""all of the above""]",3
+"An operational amplifier must have at least how many usable terminals?","[""3 terminals"",""5 terminals"",""8 terminals"",""14 terminals""]",1
+"The circuit at the input stage of operational amplifiers","[""differential amplifier"",""cascaded amplifier"",""current mirror"",""complementary amplifier""]",0
+"An amplifier whose output is proportional to the difference between the voltages applied to its two inputs.","[""differential amplifier"",""differencing"",""delta amp"",""cascode-amp""]",0
+"In op-amps functional block diagram, what follows the differential amplifier?","[""cascode-amplifier"",""complementary amplifier"",""level shifter"",""high gain amplifier""]",3
+"A good op-amp has a","[""very high input resistance"",""very low input resistance"",""very high output resistance"",""very low CMRR""]",0
+"Ideally, op-amps have infinite input resistance and ________ output resistance.","[""infinite"",""zero"",""variable"",""a highly stabilized""]",1
+"How does the input of an op-amp made high?","[""by using super beta transistor at the input differential stage"",""by using FETs at the input differential stage"",""by connecting a very high resistance in series with the input differential stage"",""A and B above""]",3
+"What type of amplifier commonly used at the output stage of op-amps?","[""differential amplifier"",""cascade-amplifier"",""complementary amplifier"",""darlington stage amplifier""]",2
+"The transistor configuration used at the output complementary stage of most op-amps","[""cascode configuration"",""common emitter"",""common collector"",""common base""]",2
+"Why do most op-amps use a common collector at the output stage?","[""to have a higher output power"",""to have a better frequency response"",""to have a low harmonic distortion"",""to have a very low output resistance""]",3
+"The stage followed by the output complementary in op-amps functional block diagram.","[""level shifter"",""phase shifter"",""current mirror"",""polarizer""]",0
+"What is the purpose of a level shifter in op-amps?","[""to set and\/or adjust the output voltage to zero when the input signal is zero"",""to set and\/or adjust the input offset voltage to zero"",""to shift the input offset current to zero"",""all of the above""]",0
+"Primarily, op-amps are operated with bipolar power supply, however, we can also use single polarity power supply by","[""generating a reference voltage above ground."",""\u201cfloating\u201d the negative supply terminal (V-) of the op-amp."",""simply connecting the negative supply terminal (V-) of the op-amp to ground."",""isolating the negative supply terminal (V-) by a capacitor.""]",0
+"Op-amps have two input terminals namely, the inverting (-) and non-inverting (+) inputs. What is the significance of its name?","[""If a sine-wave is applied to the inverting (-) input, the output will be inverted or shifted by 180\u00b0, while if applied to the non-inverting (+) there will be no phase shift at the output."",""If pulses are applied to the inverting (-) input, the positive pulse becomes negative at the output and vice versa, while if applied at the non-inverting (+) there will be no reversal of the pulse at the output."",""In dc amplifier applications, increasing input at the inverting (-) terminal causes the output to decrease and vice versa, while at the non-inverting (+) input, the output magnitude goes with the input."",""all of these are correct""]",3
+"When the same signal is applied to both inverting and non-inverting input terminals of an ideal op-amp, the output voltage would be","[""zero (0) V"",""+VSAT"",""\u2013VSAT"",""offset voltage""]",0
+"The operating mode of an op-amp, when both inputs are tied together or when the input signal is common to both inputs.","[""differential mode"",""rejection mode"",""double-ended mode"",""common mode""]",3
+"What do you call of the gain of an op-amp if operated in common mode input?","[""differential gain"",""common gain"",""double-ended gain"",""rejection gain""]",1
+"When one input of the op-amp is connected to ground and the other is to the signal source, its operation is called","[""single-ended output"",""double-ended output"",""single-ended input"",""double-ended input""]",2
+"If op-amps are operated in differential mode, its gain is technically termed as","[""common-mode differential gain"",""differential gain"",""open-loop gain"",""closed-loop gain""]",1
+"In op-amps, which gain is the highest?","[""common-mode gain"",""differential gain"",""closed-loop gain"",""open-loop gain""]",3
+"The ratio of the differential gain and common gain of an op-amp","[""differential-common mode ratio"",""common-mode ratio"",""differential-mode rejection ratio"",""common-mode rejection ratio""]",3
+"An operational amplifier has a common-mode voltage gain of 10 and a differential-mode voltage gain of 20,000, calculate its common-mode rejection ratio (CMRR).","[""200"",""2,000"",""20,000"",""200,000""]",1
+"Calculate the CMRR of an op-amp having a common-mode gain of 10 and a differential-mode gain of 100,000.","[""1000 dB"",""100 dB"",""80 dB"",""40 dB""]",2
+"The non-inverting and inverting inputs of an op-amp have an input voltage of 1.5 mV and 1.0 mV, respectively. If the op-amp has a common-mode voltage gain of 10 and a differential-mode gain of 10,000, what is its output voltage?","[""5.0 V"",""5.0125 mV"",""5.0125 V"",""25.0125 V""]",2
+"What is the maximum output voltage swing of an op-amp?","[""+V to -V (supply voltage)"",""+VSAT to -VSAT"",""+\u00bdV to -\u00bdV"",""depends on the input signal""]",1
+"The µA741 op-amp has a CMRR of 90dB and a differential-mode voltage amplification of 200,000.What is the op-amp’s common-mode voltage gain?","[""31,622.778"",""632.40"",""6.324"",""0.158""]",2
+"The current needed at the input of an op-amp to operate it normally","[""input bias current"",""input offset current"",""input threshold current"",""input holding current""]",0
+"Ideal op-amp requires no input current, but real op-amp needs a very small input current called input bias current. At both inputs, the bias currents have a slight difference. What do you call this difference?","[""differential input current"",""differential bias"",""input offset difference"",""input offset current""]",3
+"The change in input offset current due to temperature change","[""delta input offset current"",""slew rate"",""input offset current drift"",""PSRR""]",2
+"The reason why a slight difference between the input bias current occurs in op-amps is due to the unsymmetrical circuit component parameters. This unsymmetrical condition also produces a difference in input voltage called what?","[""drift voltage"",""differential voltage"",""input offset voltage"",""input threshold voltage""]",2
+"As electronic circuit operates, its operating temperature changes which causes device parameters to change. In op-amps, what do you call the change in input offset voltage due to the change in temperature?","[""input differential drift"",""input offset voltage drift"",""slew rate"",""PSRR""]",1
+"It is known through experiment that the input bias currents at the non-inverting (IB+) and inverting (IB-) inputs of a certain op-amp is 100 nA and 80 nA, respectively. Determine the op-amp’s input offset current.","[""-20 nA"",""20 nA"",""90 nA"",""180 nA""]",1
+"Ideally, the output voltage of an op-amp is zero when there is no input signal, however, in practical circuits, a small output voltage appears, this voltage is known as","[""minimum output voltage"",""pinch-off voltage"",""output offset voltage"",""saturation voltage""]",2
+"The output offset voltage of an op-amp is (are) due to","[""input offset current"",""input offset voltage"",""voltage and current drift"",""A and B above""]",3
+"Calculate the output offset voltage of an inverting amplifier using op-amp with an input offset current of 10 nA. The circuit is having an input resistance of 10 kΩ and a feedback resistance of 100 kΩ.","[""0.1 mV"",""1.0 mV"",""10.0 mV"",""100.0 mV""]",1
+"An op-amp inverting amplifier uses a feedback resistor of 100 kΩ and input resistor of 10 kΩ. If the op-amps input offset voltage is 2.0 mV, approximate the amplifier output offset voltage due to this input offset voltage.","[""10 mV"",""11 mV"",""20 mV"",""22 mV""]",3
+"The output offset voltage of an op-amp is due to the input offset current and voltage. If 1 mV is due to the input offset current and 22 mV due to the input offset voltage, what is the total output offset voltage of the op-amp?","[""11.5 mV"",""22 mV"",""23 mV"",""45 mV""]",2
+"How will you minimize the output offset voltage due to the input offset current of an op-amp?","[""by installing a bias-current-compensating resistor"",""by increasing the value of the feedback resistor"",""by decreasing the value of the input resistor"",""B and C above""]",0
+"What is a bias-current compensating resistor in op-amp circuits?","[""A resistor used to reduce the undesired output offset voltage due to the input offset current."",""A resistor connected between the non-inverting terminal and ground."",""A resistor used to balance both input bias currents and therefore eliminates the input offset current."",""all of these""]",3
+"The approximate value of the bias-current compensating resistor in op-amp circuits is","[""equal to the feedback resistor"",""equal to the input resistor"",""equal to the series combination of the input and feedback resistors"",""equal to the parallel combination of the input and feedback resistors""]",3
+"In op-amp analysis, the input offset voltage is represented by","[""a battery"",""a signal generator"",""Thevenin\u2019s voltage source"",""Norton\u2019s current source""]",0
+"The battery representing the input offset voltage in op-amp circuit analysis is connected where?","[""between the inverting and ground terminal"",""between the non-inverting and ground terminal"",""between the inverting and non-inverting terminal"",""either B and C above""]",1
+"What is the effect of the input offset voltage to the output voltage if the op-amp has no feedback element?","[""causes the output to be always at cutoff"",""causes the output to saturate towards positive"",""causes the output to saturate towards negative"",""causes the output to saturate either towards positive or negative""]",3
+"How can we minimize the effect of the input offset current and input offset voltage at the output offset voltage?","[""by making the feedback resistance small"",""by making the feedback resistance large"",""by making the input resistance small"",""by making the input resistance large""]",0
+"An op-amp is wired as an inverting amplifier with an input and feedback resistances of 1 kΩ and 100 kΩ, respectively. When the input signal is set to zero, the output was found to have an offset voltage of 101 mV. Calculate the input offset voltage.","[""0.01 mV"",""0.1 mV"",""1.0 mV"",""10.0 mV""]",2
+"What is the most effective way of minimizing the output offset voltage of an op-amp?","[""by reducing the value of the feedback resistor"",""by increasing the value of the input resistor"",""by a capacitor-compensation technique"",""by properly using and adjusting the offset-null terminals""]",3
+"What cause(s) the well-adjusted output offset voltage of op-amps to change?","[""change in operating temperature"",""component aging"",""variations in supply voltage"",""all of the above""]",3
+"Which op-amp parameter(s) that normally affects its small signal dc-amplification performance?","[""input bias current"",""input offset voltage"",""input offset current"",""all of the above""]",3
+"In large signal dc-amplifiers using op-amp, which parameter has the least effect on its performance?","[""drift"",""slew rate"",""input offset voltage"",""input offset current""]",0
+"For ac-amplifiers using op-amps what parameters can affect its performance.","[""input offset current and voltage"",""input bias current and voltage"",""drift and slew rate"",""slew rate and frequency response""]",3
+"If an op-amp is used to amplify small ac-signals, what parameter you should greatly consider to ensure better performance?","[""input bias current"",""drift"",""frequency response"",""slew rate""]",2
+"What do we mean by internally compensated op-amps?","[""Op-amps with internal frequency compensation capacitor to prevent oscillation."",""Op-amps with an internal compensating resistor to make the output offset voltage zero."",""Op-amps with internal coupling capacitor to block dc-voltages and allows ac voltages to pass."",""Op-amps with internal active components to make its gain constant at the entire operating frequency.""]",0
+"The frequency at which the open-loop gain of an op-amp is 0.707 times its value at very low frequency","[""threshold frequency"",""break frequency"",""minimum frequency"",""operating frequency""]",1
+"What will happen to the voltage gain of op-amp when its operating frequency is increased?","[""also increases"",""increases exponentially"",""will decrease"",""decreases exponentially""]",2
+"The reduction of op-amps gain due to increasing operating frequency.","[""Cutoff"",""roll-off"",""diminishing factor"",""reduction step""]",1
+"What do we mean by a 20 dB/decade roll-off?","[""a gain reduction by a factor of 10 per decade"",""a gain reduction by a factor of 20 per decade"",""a gain reduction by a factor of 10 per 10 Hz increased in frequency"",""a gain reduction by a factor of 20 per 10 Hz increased in frequency""]",0
+"A reduction of op-amp’s voltage gain by a factor of two each time the frequency doubles.","[""2 dB\/octave"",""2 dB\/decade"",""6 dB\/octave"",""6 dB\/decade""]",2
+"Frequency at which the voltage gain of op-amp reduces to unity.","[""unity-gain frequency"",""cutoff frequency"",""bandwidth point"",""unity-gain bandwidth product""]",3
+"The low and high cutoff frequencies of an amplifier is also called","[""corner frequencies"",""0.707 frequencies"",""3-dB frequencies"",""all of these are correct""]",3
+"Calculate the cutoff frequency (fc) of an op-amp having a unity-gain bandwidth product B1 = 1 MHz and a open-loop voltage gain AOL = 100,000.","[""10 Hz"",""20 Hz"",""100 Hz"",""200 Hz""]",0
+"An op-amp has a specified transient response rise time of 0.3 µs, calculate its unity-gain bandwidth.","[""0.857 MHz"",""1.0 MHz"",""1.167 MHz"",""2.334 MHz""]",2
+"Rise time is defined as the time required for the output voltage to rise from _______ to ________ of its final value.","[""0% \u2013 100%"",""1% \u2013 99%"",""5% \u2013 95%"",""10% \u2013 90%""]",3
+"The maximum output voltage rate of change of an op-amp.","[""rise time"",""maximum voltage swing"",""differential rate"",""slew rate""]",3
+"Factor(s) or parameter(s) that determine(s) the op-amps maximum operating temperature","[""PSRR"",""slew rate"",""unity-gain bandwidth product"",""B and C above""]",3
+"What is the maximum signal frequency that can be used in an op-amp having a specified slew rate of 0.5 V/µsec? The maximum output voltage desired is 5 V.","[""16 kHz"",""32 kHz"",""100 kHz"",""1 MHz""]",0
+"What must be the slew rate of an op-amp to be used in order to provide an undistorted output voltage of .10 V ac a frequency of 100,000 rad/sec?","[""0.1 V\/\u00b5sec"",""0.5 V\/\u00b5sec"",""1.0 V\/\u00b5sec"",""6.28 V\/\u00b5sec""]",2
+"When an op-amp is used as a comparator, the output voltage would be +VSAT if","[""V+ &gt; V-"",""V- &gt; V+"",""V- = V+"",""V- and V+ are both zero""]",0
+"Two comparators using op-amps, configured such that it can detect voltage levels within a certain range of values rather than simply comparing whether a voltage is above or below a certain reference.","[""analog comparator"",""regenerative comparator"",""parallel comparator"",""window comparator""]",3
+"What gain is significant when an op-amp is used as a voltage comparator?","[""open-loop gain"",""common gain"",""differential closed loop gain"",""closed loop gain""]",0
+"An op-amp zero-crossing detector without hysteresis,","[""uses a resistor as its feedback element"",""uses a capacitor as its feedback element"",""uses an inductor as its feedback element"",""has no feedback""]",3
+"The feedback element of a differentiator constructed from op-amp is","[""a resistor"",""an inductor"",""a capacitor"",""an RC network""]",0
+"An active integrator uses an op-amp, what is its feedback element?","[""Resistor"",""capacitor"",""inductor"",""RC network""]",1
+"The voltage gain of an op-amp voltage follower.","[""unity"",""Rf\/Ri"",""1 + Rf\/Ri"",""depends on the type of op-amp""]",0
+"Calculate the closed-loop voltage gain of an inverting amplifier having a feedback and an input resistance of 100 kΩ and 10 kΩ, respectively.","[""10"",""11"",""100"",""110""]",0
+"The gain of an inverting amplifier is determined by the ratio of the feedback and input resistors (Rf/Ri), meaning we can select any value of resistors as long as its ratio is the same. What op-amp parameter that helps us determine the appropriate values of these resistors?","[""CMRR"",""PSRR"",""SR"",""input bias current""]",3
+"What is the noise gain of op-amps?","[""equal to the open loop gain"",""Rf\/Ri"",""1 + Rf\/Ri"",""equal to the common gain""]",2
+"A unity-gain summing amplifier has three inputs, V1 = 1.0 mV, V2 = 1.5 mV, and V3 = 2.5 mV, calculate the total output voltage.","[""2.5 mV"",""3.5 mV"",""4.0 mV"",""5.0 mV""]",3
+"The random voltage at the output of an op-amp which could occupy the entire bandwidth.","[""noise"",""hash"",""interference"",""all of the above""]",3
+"Which of the following of the resistor combinations that provides lesser noise in op-amp circuits?","[""Make both the feedback and input resistances as large as possible"",""Make the feedback as large as possible, while the input as low as possible."",""Make the feedback as low as possible, while the input as large as possible."",""Make the feedback and input resistances as small as possible.""]",3
+"In most ac-amplifiers using op-amps, the feedback resistor is shunted with a very small capacitance, what is its purpose?","[""to prevent oscillation"",""to improve stability"",""to minimize high frequency noise"",""to compensate for high frequency loss""]",2
+"Approximate the noise gain of an inverting adder using op-amps if it has five inputs.","[""unity (1)"",""two (2)"",""four (4)"",""six (6)""]",3
+"Op-amps with internal frequency compensation are very stable with respect to signal frequencies. However, the trade-off for frequency stability is (are)","[""limited small-signal bandwidth"",""slow slew rate"",""limited open-loop frequency response"",""all of these""]",3
+"What do we mean by externally compensated op-amps?","[""op-amps with frequency-compensation terminals"",""op-amps with provision to externally compensate for frequency stability"",""op-amps whose gain is externally compensated"",""A and B above""]",3
+"What is true about the external frequency-compensation capacitor?","[""the higher its value, the wider is its bandwidth"",""the lower its value, the wider is its bandwidth"",""the higher its value, the faster its slew rate"",""A and C above""]",1
+"Typical value of the external frequency-compensating capacitor of op-amps.","[""3 \u2013 30 nF"",""30 \u2013 300 nF"",""0.3 \u2013 3.0 \u00b5F"",""3.0 \u2013 30 \u00b5F""]",3
+"What do we mean by a general-purpose op-amps?","[""op-amps with limited unity-gain bandwidth up to approximately 1 MHz"",""op-amps with slew rate about 0.5 V\/\u00b5sec"",""op-amps that has unlimited application"",""A and B above""]",3
+"Op-amps designed to operate at high slew rate, about 2000 V/µsec and at high frequencies, more than 50 MHz.","[""general purpose op-amps"",""high power op-amps"",""high-stability op-amps"",""high-frequency, high-slew rate op-amps""]",3
+"Generally, where does hybrid op-amps found its application?","[""for high-output voltage"",""for high-output current"",""for high-frequency"",""A and B above""]",3
+"The magnitude of the op-amps input offset voltage before it can be classified as a low-input offset voltage op-amp","[""0.2 mV"",""2.0 mV"",""2.5 mV"",""5.0 mV""]",0
+"Op-amps whose internal transistor biasing can be controlled externally are categorize as","[""general purpose op-amps"",""programmable op-amps"",""variable op-amps"",""externally compensated op-amps""]",1
+"What op-amp parameter(s) that can be governed by the bias control in a programmable op-amp?","[""open-loop gain and slew rate"",""unity-gain bandwidth"",""input bias current"",""all of the above""]",3
+"The most popular op-amp packages are the metal can, 8-pin DIP, and the SMT. Which of these corresponds to TO-99?","[""metal can"",""8-pin DIP"",""SMT"",""all of the above""]",0
+"Dual-in-line or DIL package is designated as","[""TO-99"",""TO-91"",""TO-116"",""TO-220""]",2
+"For high density ICs involving many op-amps, what packaging is suitable?","[""metal can"",""14-pin DIL"",""SMT"",""flat-pack""]",2
+"Example(s) of surface-mounted technology (SMT) devices.","[""PLCCs"",""SOICs"",""LCCCs"",""all of the above""]",3
+"Which condition must exist for a circuit to oscillate?","[""It must have a negative feedback sufficient to cancel the input"",""It must have a gain of less than 1"",""It must have a positive feedback sufficient to overcome losses"",""It must be neutralized""]",2
+"Which of the following is not an essential part of an oscillator?","[""Source of energy that supply the losses in tank circuit."",""A resistor IC combination circuit."",""Resonant circuit consist of inductance and capacitance."",""Regenerative feedback circuit.""]",1
+"What do you call the oscillator circuit that uses a tapped coli in the tuned circuit?","[""Pierce"",""Colpitts"",""Hartley"",""Ultraudion""]",2
+"What determines the resonant frequency of a crystal?","[""external components"",""the temperature of the crystal"",""the size and thickness of the crystal material"",""the hermitic seal""]",2
+"Type of oscillator whose frequency is dependent on the charge and discharge of RC networks.","[""Hartley oscillator"",""Colpitts oscillator"",""Relaxation oscillator"",""Klystron oscillator""]",2
+"A microwave oscillator","[""Hartley oscillator"",""Colpitts oscillator"",""Relaxation oscillator"",""Klystron oscillator""]",3
+"A self-excited oscillator in which the tank is divided into input and feedback portions by a capacitive voltage divider.","[""Hartley capacitor"",""Colpitts oscillator"",""Relaxation oscillator"",""Klystron oscillator""]",1
+"A self-excited oscillator in which the tank is divided into input and feedback portions by an inductive voltage divider or a tapped coil.","[""Hartley oscillator"",""Colpitts oscillator"",""Relaxation oscillator"",""Klystron oscillator""]",0
+"A circuit usually containing two transistors or tubes in an RC-coupled amplifier, the two active devices switch each other alternately on and off.","[""Multivibrator"",""Signal generator"",""Oscillator"",""Thyristor""]",0
+"A multivibrator that generates one output pulse for each input trigger pulse.","[""monostable"",""astable"",""bistable"",""tristate""]",0
+"Monostable multivibrator is also known as","[""one shot"",""single shot"",""direct shot"",""one shot or single shot""]",3
+"What determines the pulse time in a monostable multivibrator?","[""resistor combinations"",""capacitor combinations"",""inductor combinations"",""resistor and capacitor combinations""]",3
+"A multivibrator having two stable state","[""monostable"",""bistable"",""astable"",""unstable""]",1
+"Is also known as Eccles/Jordan circuit","[""Monostable multivibrator"",""bistable multivibrator"",""astable multivibrator"",""unstable multivibrator""]",1
+"Flip-flop is actually a _______ multivibrator.","[""Monostable"",""bistable"",""astable"",""unstable""]",1
+"Considered as a free-running multivibrator","[""monostable"",""bistable"",""astable"",""unstable""]",2
+"A class of amplifiers wherein the output signal swings more than 180° but less than 360°.","[""class A"",""class B"",""class C"",""class AB""]",3
+"Which class of amplifiers that is intended for pulse operation?","[""class B"",""class C"",""class D"",""class S""]",2
+"For a class B amplifier, the operating point or Q-point is set at","[""the top of the load line"",""saturation"",""the center"",""cutoff""]",3
+"A push-pull amplifier that uses npn and pnp transistors to amplify the positive and negative cycles respectively.","[""transformer-coupled push \u2013pull amplifier"",""complementary-symmetry amplifier"",""quasi-complementary push-pull amplifier"",""transformer-coupled class A amplifier""]",1
+"If three amplifiers with a gain of 8 each are in cascade, how much is the overall gain?","[""72"",""24"",""512"",""8""]",2
+"A multistage transistor amplifier arranged in a conventional series manner, the output of one stage is forward-coupled to the next stage.","[""cascaded amplifier"",""cascoded amplifier"",""darlington configuration"",""feed-back pair configuration""]",0
+"A two-stage transistor amplifier in which the output collector of the first stage provides input to the emitter of the second stage. The final output is then taken from the collector of the second stage.","[""cascade configuration"",""cascode configuration"",""quasi-complementary"",""complementary amplifier""]",1
+"Transistor configuration known to have a super-beta (β2).","[""cascade"",""cascode"",""darlington"",""differential""]",2
+"Transistor arrangement that operates like a darlington but uses a combination of pnp and npn transistors instead of both npn.","[""differential"",""common"",""cascode"",""feedback pair""]",3
+"The flow of electron in a NPN transistor when used in electronic circuit is from _______.","[""collector to base"",""collector to base"",""emitter to collector"",""base to emitter""]",2
+"Which of the three regions/areas in a transistor that is the smallest in construction?","[""emitter"",""collector"",""base"",""all are equal""]",2
+"The region or area in a transistor that is heavily doped","[""at the junction"",""emitter"",""collector"",""base""]",1
+"It is a particularly important parameter that provides a direct link between current levels of the input and output circuits for a common-emitter configuration.","[""\u03b1"",""\u03b2"",""A and B above"",""none of these""]",1
+"It is applied to any system where levels have reached their maximum values","[""saturation"",""active"",""cutoff"",""quiescent point""]",0
+"In the active region, the collector-base junction is ________, while the base-emitter junction is ________.","[""forward and forward-biased"",""forward and reverse-biased"",""reverse and reverse biased"",""reverse and forward-biased""]",3
+"In dc biasing, it means quiet, still, inactive","[""passive"",""quench"",""static"",""quiescent""]",3
+"Which transistor configuration has the highest input resistance?","[""common base"",""common emitter"",""common collector"",""common transistor""]",2
+"Calculate the common-emitter amplification factor β of a transistor with a common-base amplification factor α = 0.99.","[""10"",""50"",""100"",""200""]",2
+"For a common-emitter transistor configuration, the hybrid parameter hfe stands for forward transfer current ratio. This parameter is approximately equal to","[""HFE"",""\u03b2ac"",""\u03b2"",""all of these""]",3
+"In most transistor input equivalent circuit it comprises of a resistor and a","[""voltage source"",""stiff voltage source"",""current source"",""stiff current source""]",0
+"Considered as the basic FET or the simplest form of FET","[""JFET"",""MOS-FET"",""IGFET"",""VMOS-FET""]",0
+"Junction field effect transistor or JFET has three terminals, which corresponds to the E-B-C of the BJT?","[""D-S-G"",""D-G-S"",""S-G-D"",""S-D-G""]",2
+"A BJT is a current-controlled current-source device while JFET is a _________ device.","[""current-controlled voltage-source"",""voltage-controlled voltage-source"",""voltage-controlled current-source"",""voltage-controlled transconductance-source""]",2
+"What do you call the area in a JFET where current passes as it flows from source (S) to drain (D).","[""channel"",""substrate"",""depletion"",""drift""]",0
+"In MOSFET, it is the foundation upon which the device will be constructed and is formed from a silicon base","[""substrate"",""slab"",""source"",""base""]",0
+"What is network node dedicated to interfacing between the network and one or more printers?","[""Print server"",""Lay-out Server"",""Tune server"",""All of these""]",0
+"What is formed on the screen of cathode ray oscilloscope when two sine wave voltages are simultaneously applied to the two sets of deflection plates?","[""Lizzajous pattern"",""Lisajous pattern"",""Lissajous pattern"",""Lizajous pattern""]",2
+"A type of oscillator which uses an amplifier circuit that introduces 180<sup>0</sup> phase shift","[""RC Phase Shift Oscillator"",""Wien Bridge Oscillator"",""Hartley Oscillator"",""Armstrong Oscillator""]",0
+"A type of Oscillator that is very commonly used as local oscillator in superheterodyne radio receiver","[""RC Phase Shift Oscillator"",""Colpitt\u2019s Oscillator"",""Clapp Oscillator"",""Wien Bridge Oscillator""]",1
+"The measure of how “pure” or “real” an inductor is. The higher its value in an inductor, the fewer losses there are.","[""Q-factor"",""Beta Factor"",""Alpha Factor"",""K-factor""]",0
+"This can be defined as the ratio of output d.c. power available at the load to the power rating (Volt Ampere) of the transformer used in the rectifier circuit","[""Transformer Utilization Factor"",""Transformer Form Factor"",""Transformer Load Voltage Factor"",""Transformer Working Factor""]",0
+"A type of flip-flop in which the data are entered and appear on the output on the same clock edge.","[""Set Reset Flip flop"",""Edge Triggered Flip flop"",""JK Flip flop"",""D Flip flop""]",1
+"If the feedback signal (voltage or current) is applied in such a way that it is in phase with the input signal and thus increases. It is also known as regenerative feedback or direct feedback","[""Positive Feedback"",""Negative Feedback"",""Stabilized Feedback"",""Impedance Feedback""]",0
+"Refers to the process of shrinking the size and power dissipation of electronic circuits. It also involves surface mount technology","[""Gull wing"",""Microminiaturization"",""Floating Point"",""Synchronous Deviation""]",1
+"A non-volatile read/write random access semiconductor memory in which data are stored as charge on the floating gate of a certain type of FET","[""PROM"",""Hard Disk"",""Flash Memory"",""RAM""]",2
+"It is a channel model in which the input and output alphabets x and y are discrete sets and the channel is memoryless","[""The Discrete Memory Channel"",""The Discrete channel"",""The Discrete Memoryless Chanel"",""None of these""]",2
+"It is a diagnostic application or device that a network administrator can purchase and install on a network workstations or attach to the network media to monitor and capture dat packets for subsequent analysis..","[""Sniffer"",""Splatter"",""Clipper"",""Clamper""]",0
+"_______________ is a secret key encryption technology that is used in client/server environments for secure authentication between computers","[""Kepberos"",""Kerberos"",""Kesberos"",""None of these""]",1
+"What is the circuit which has a purpose to quiet a receiver in the absence of a received signal?","[""Squilch circuit"",""Squealch circuit"",""Squelch circuit"",""Squeltch circuit""]",2

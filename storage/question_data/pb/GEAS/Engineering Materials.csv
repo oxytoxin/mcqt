@@ -1,0 +1,314 @@
+﻿question,choices,answer
+"What are the major classes of engineering materials?","[""Metals, ceramics and semiconductors"",""Polymers, metals and composites"",""Metals, ceramics, polymers and semiconductors"",""Metals, ceramics, polymers, semiconductors and composites""]",3
+"What types of materials behave like iron when placed in a magnetic field?","[""Crystals"",""Amorphous materials"",""Ferromagnetic materials"",""Metalloids""]",2
+"What do you call metals reinforced by ceramics or other materials, usually in fiber form?","[""Metalloids"",""Matrix alloys"",""Metal lattices"",""Metal Matrix composites""]",3
+"What is a combination of one or more metals with a nonmetallic element?","[""Metalloids"",""Matrix Composite"",""Inert"",""Ceramic""]",3
+"Polymer comes from Greek words “poly” which means “many” and “meros” which means __________.","[""metal"",""material"",""part"",""plastic""]",2
+"The engineering materials known as “plastics” are more correctly called ____________.","[""Polyvinyl chloride"",""Polymers"",""Polyethylene"",""Mers""]",1
+"What is a combination of two or more materials that has properties that the components materials do not have by themselves?","[""Compound"",""Composite"",""Mixture"",""Matrix""]",1
+"What is a reference sheet for the elements that can be used to form engineering materials?","[""Periodic Table"",""Truth Table"",""Building blocks of Materials"",""Structure of Materials""]",0
+"What physical property of a material that refers to the point at which a material liquefies on heating or solidifies on cooling?","[""Melting point"",""Curie point"",""Refractive index"",""Specific heat""]",0
+"What physical property of a material that refers to the temperature at which ferromagnetic materials can no longer be magnetized by outside forces?","[""Melting point"",""Thermal conductivity"",""Thermal expansion"",""Curie point""]",3
+"What physical property of a material refers to the amount of weight gain (%) experienced in a polymer after immersion in water for a specified length of time under a controlled environment?","[""Dielectric strength"",""Electric resistivity"",""Water absorption"",""Thermal conductivity""]",2
+"What physical property of a material that refers to the rate of heat flow per unit time in a homogenous material under steady-state conditions per unit are, per unit temperature gradient in a direction perpendicular to area?","[""Thermal expansion"",""Thermal conductivity"",""Heat distortion temperature"",""Water absorption""]",1
+"What physical property of a material refers to the highest potential difference (voltage) that an insulting material of given thickness can withstand for a specified time without occurrence of electrical breakdown through its bulk?","[""Thermal expansion"",""Conductivity"",""Dielectric strength"",""Electrical resistivity""]",2
+"What physical property of a material refers to the ratio of the amount of heat required to raise the temperature of a unit mass of a substance 1 degree to the heat required to raise the same mass of water to 1 degree.","[""Specific heat"",""Latent heat"",""Heat of fusion"",""Heat of fission""]",0
+"What physical property of a material refers to the temperature at which a polymer under a specified load shows a specified amount of deflection?","[""Curie temperature"",""Specific heat"",""Heat distortion temperature"",""Thermal conductivity""]",2
+"What mechanical property of a material refers to the nominal stress at fracture in a tension test at constant load and constant temperature?","[""Creep strength"",""Stress rapture strength"",""Compressive yield strength"",""Hardness""]",1
+"What mechanical property of a material refers to the resistance to plastic deformation?","[""Rigidity"",""Plasticity"",""Ductility"",""Hardness""]",3
+"What parameter is defined as the temperature at which the toughness of the material drops below some predetermined value, usually 15ft-lb?","[""Nil ductility temperature"",""Curie temperature"",""Thermal conductivity"",""Heat distortion temperature""]",0
+"What is obtained by repeatedly loading a specimen at given stress levels until it fails?","[""Elastic limit"",""Endurance limit or fatigue strength of material"",""Creep"",""All of the choices""]",1
+"What dimensional property of a material refers to the deviation from edge straightness?","[""Lay"",""Out of flat"",""Camber"",""Waviness""]",2
+"What dimensional property of a material refers to a wavelike variation from a perfect surface, generally much wider in spacing and higher in amplitude than surface roughness?","[""Lay"",""Waviness"",""surface finish"",""Out of flat""]",1
+"Wood is composed of chains of cellulose molecules bonded together by another natural polymer called ________.","[""plastic"",""lignin"",""mer"",""additive""]",1
+"What is a polymer production process that involves forming a polymer chain containing two different monuments?","[""Copolymerization"",""Blending"",""Alloying"",""Cross-linking""]",0
+"What is the generic name of class of polymer which is commercially known as “nylon”?","[""Polyacetals"",""Polyamide"",""Cellulose"",""Polyester""]",1
+"By definition, a rubber is a substance that has at least _____ elongation in tensile test and is capable of returning rapidly and forcibly to its original dimensions when load is removed.","[""100%"",""150%"",""200%"",""250%""]",2
+"What is a method of forming polymer sheets or films into three-dimensional shapes in which the sheet is clamped on the edge, heated until it softens and sags, drawn in contact with the mold by vacuum, and cooled while still in contact with the mold?","[""Calendaring"",""Blow molding"",""Thermoforming"",""Solid phase forming""]",2
+"What is a process of forming continuous shapes by forcing a molten polymer through a metal die?","[""Calendaring"",""Thermoforming"",""Lithugraphy"",""Extrusion""]",3
+"What chemical property of a material which refers to its ability to resist deterioration by chemical or electrochemical reactions with environment?","[""Stereo specificity"",""Corrosion resistance"",""Conductivity"",""Electrical resistance""]",1
+"What refers to the tendency for polymers and molecular materials to from with an ordered, spatial, three-dimensional arrangement of monomer molecules?","[""Stereo specificity"",""Conductivity"",""Retentivity"",""Spatial configuration""]",0
+"What is the amount of energy required to fracture a given volume of material?","[""Impact strength"",""Endurance limit"",""Creep strength"",""Stress rupture strength""]",0
+"What mechanical property of a material which is a time-dependent permanent strain under stress?","[""Elongation"",""Elasticity"",""Creep"",""Rupture""]",2
+"What refers to the stress at which a material exhibits a specified deviation from proportionality of stress and strain?","[""Tensile strength"",""shear strength"",""Yield strength"",""Flexural strength""]",2
+"The greatest stress which a material is capable of withstanding without a deviation from acceptable of stress to strain is called _______.","[""Elongation"",""proportional limit"",""yield point"",""elastic limit""]",1
+"What is the maximum stress below which a material can theoretically endure an infinite number of stress cycles?","[""Endurance state"",""Endurance test"",""Endurance limit"",""endurance strength""]",2
+"What is a substance that attracts piece of iron?","[""Conductor"",""Semiconductor"",""Magnet"",""Semimetal""]",2
+"Which of the following is a natural magnet?","[""Steel"",""Magnesia"",""Lodestone"",""Soft iron""]",2
+"What is the resistance of a material to plastic deformation?","[""Hardness"",""Stiffness"",""Creepage"",""Rigidity""]",0
+"Which of the following materials has permeability slightly less than that of free space?","[""Paramagnetic materials"",""Non-magnetic materials"",""Ferromagnetic materials"",""Diamagnetic materials""]",3
+"What materials has permiabilities slightly greater than of free space?","[""Paramagnetic materials"",""Non-magnetic materials"",""Ferromagnetic materials"",""Diamagnetic materials""]",0
+"Which of the materials have very high permiabilities?","[""Paramagnetic materials"",""Non-magnetic materials"",""Ferromagnetic materials"",""Diamagnetic materials""]",2
+"What is the defined by ASTM as a material that contains as an essential ingredient an organic substance of large molecular weight, is solid in its finished state, and some stage in its manufactured or in its processing into finished articles, can be shaped by flow?","[""Metal"",""Metalloid"",""Plastic"",""Ceramic""]",2
+"Some polymetric materials such as epoxies are formed by strong primary chemical bonds called ________.","[""Metallic bond"",""Van der Waals bond"",""Cross linking"",""Covalent bond""]",2
+"What do you call a polymer without additives and without blending with another polymer?","[""Homo polymer"",""Ethenic polymer"",""Polyethylene"",""Copolymer""]",0
+"A large molecule with two alternating mers is called as _______.","[""monomer"",""elastomer"",""mers"",""copolymer or interpolymer""]",3
+"What term is used to describe a polymer that has rubberlike properties?","[""Vulcanizer"",""Elasticmer"",""Polychloroprene"",""Elastomer""]",3
+"What is defined as an alloy of iron and carbon, with the carbon being restricted within certain concentration limits?","[""Steel"",""Wrought Iron"",""Cast Iron"",""Tendons""]",0
+"What is the most popular steel refining process or technique which involves casting of steel from the BOF or electric furnace into cylindrical ingots?","[""Vacuum are remelting (VAR)"",""Vacuum induction melting (VIM)"",""Electron beam refining"",""Electroslag refining""]",0
+"In what special refining process of steel where molten metal is poured down a tundish (chute) into an ingot mold?","[""Electroslag refining"",""Vacuum are remelting"",""Vacuum induction melting"",""Electron beam refining""]",3
+"What type of steel has carbon as its principal hardening agent?","[""Alloy steel"",""Stainless steel"",""Galvanized steel"",""Carbon steel""]",3
+"What group of steel are water-hardened tool steels?","[""Group S"",""Group W"",""Group O"",""Group T""]",1
+"What group of steels are molybdenum high-speed steels?","[""Group A"",""Group D"",""Group M"",""Group H""]",2
+"Steels that are used for axles, gears, and similar parts requiring medium to high and strength are known as?","[""Medium-carbon steel"",""Low-carbon steel"",""Very high-carbon"",""High-carbon steel""]",0
+"Galvanized steel are steel products coated with _________.","[""Carbon"",""Sulfur"",""Zinc"",""Nickel""]",2
+"What ASTM test for tension is designated for plastics?","[""A370"",""D638"",""E292"",""C674""]",1
+"What ASTM test for compression is designated for plastic?","[""D638"",""D695"",""D790"",""D732""]",1
+"What ASTM test for shear strength is designated for plastics?","[""D732"",""D790"",""D695"",""D638""]",0
+"What is the ASTM tension testing designation for standard methods for steel products?","[""A370"",""E345"",""E8"",""C674""]",0
+"Low-quality steels with an M suffix on the designation intended for non-structural application is classified as ____________.","[""Merchant quality"",""Commercial quality"",""Drawing quality"",""Special quality""]",0
+"The use of acids to remove oxides and scale on hot-worked steels is known as_______.","[""Tempering"",""Pickling"",""Machining"",""Galvanizing""]",1
+"What is the purpose of molybdenum in steel alloying?","[""To increase brittleness"",""To increase dynamic and high-temperature strength and hardness."",""To reduce brittleness, combine with sulfur"",""To increase corrosion and resistance""]",1
+"Which of the following statements is NOT true?","[""About 10% of the earth\u2019s crust is iron."",""Pure iron does not have significant industrial use because it is too weak and soft."",""Steel is an alloy of carbon and iron with limits on the amount of carbon (less than 2%)"",""Steel is made by reducing oxide ore of iron by thermochemical reactions in a blast furnace or direct reductions vessel.""]",0
+"What prefix in steel identification means composition varies from normal limits?","[""E"",""H"",""X"",""B""]",2
+"What is prefix in steel identification means it is made in an electric furnace?","[""E"",""H"",""X"",""B""]",0
+"What letter suffix steel identification means that it is steel with boron as an alloying element?","[""xxLxx"",""xxBxx"",""xxHxx"",""xxKxx""]",1
+"What refers to the tin mill steel, without a coating?","[""White plate"",""Tin Steel free"",""Black plate"",""Dechromate tin""]",2
+"What combination of elements has high electrical resistance, high corrosion resistance, and high strength at red hear temperatures, making it useful in resistance heating?","[""Aluminum bronze"",""Nichrome"",""Hastelloy"",""Alnico""]",1
+"A steel cannot qualify for stainless prefix until it has at least how many percent of chromium?","[""10%"",""20%"",""25%"",""5%""]",0
+"Which of the following cast irons is a high-carbon, iron-carbon-silicon alloy?","[""Deorizers"",""Deoxidizers"",""Deterrent"",""Deoxifiers""]",1
+"Which of the following cast irons is a high-carbon-silicon alloy?","[""Gray iron"",""Malleable iron"",""White iron"",""Alloy iron""]",0
+"Which of the following cast irons is heat-treated for ductility?","[""Gray iron"",""Malleable iron"",""White iron"",""Ductile iron""]",1
+"Which cast iron is hard and wear resistant?","[""Gray iron"",""Ductile iron"",""White iron"",""Malleable iron""]",2
+"What is considered as the general purpose oldest type and widely used cast iron?","[""Gray iron"",""Ductile iron"",""Alloy iron"",""Malleable iron""]",0
+"What is the effect if manganese in cast iron?","[""To affect the machinability, ductility and shrinkage depending on form"",""To reduce hardness by combining with sulfur below 0.5% and increase hardness above 0.5%"",""To dioxide molten cast iron"",""To increase fluidity and lowers melting temperature""]",1
+"What is the effect of aluminum in cast iron?","[""To increase hardness above 0.5%"",""To deoxidize molten cast iron"",""To affect machinability, ductility, and shrinkage depending on form"",""To reduce hardness by combining with sulfur below 0.5%""]",1
+"What is the effect of silicon in cast iron?","[""Reduce hardness by combining with sulfur below 0.5% and increase the hardness above 0.5%"",""Increase fluidity and lowers melting temperature."",""Softens iron and increase ductility below 3.25% hardens iron above 3.25% and increase acid and corrosion resistance above 13%"",""deoxidizes molten cast iron""]",2
+"Iron is said to be abundant in nature. About how many percent of the earth’s crust is iron?","[""10%"",""5%"",""20%"",""8%""]",1
+"What is the advantage of quench hardening?","[""Improved strength"",""Hardness"",""Wear characteristics"",""All of the choices""]",3
+"What is the lowest-temperature diffusion-hardening process and does not require a quench?","[""Carburizing"",""Tempering"",""Nitriding"",""Heat-treating""]",2
+"The following statements are true except one. Which one?","[""Carburizing does not harden a steel."",""Flame and induction hardening require the use of hardenable steels."",""Quench-hardened steel does not require tempering to prevent brittleness."",""Induction hardening is usually most efficient on small parts.""]",2
+"Which of he following is a requirement for hardening a steel?","[""Heating to the proper temperature"",""Sufficient carbon content"",""Adequate quench"",""All of the choices""]",3
+"What field of study encompasses the procurement and production of metals?","[""Metallurgy"",""Geology"",""Material Science"",""Metalgraphy""]",0
+"What do you call earth and stone missed with the iron oxides?","[""Hematite"",""Magnetite"",""Gangue"",""Ore""]",2
+"What is a coal that has been previously burned in an oxygen-poor environment?","[""Tuyere"",""Coke"",""Diamond"",""Hematite""]",1
+"What is the most common alloying ingredient in copper?","[""Brass"",""Zinc"",""Nickle"",""Aluminum""]",1
+"What refers to the casehardening process by which the carbon content of the steel ear the surface of a part is increased?","[""Carburizing"",""Annealing"",""Normalizing"",""Martempering""]",0
+"What is the process of heating a hardened steel to any temperature below the lower critical temperature, followed by any desired rate of cooling?","[""Normalizing"",""Spheroidizing"",""Carburizing"",""Tempering""]",3
+"What is defined as an intimate mechanical mixture of two or more phases having a definite composition and a definite temperature of transformation within the solid state?","[""Pearlite"",""Eutectoid"",""Austernite"",""Delta solid solution""]",1
+"What is the most undesirable of all the elements commonly found in steels?","[""Sulfur"",""Phosphorus"",""Silicon"",""Manganese""]",1
+"What is a method of casehardening involving diffusion in which the steel to be casehardened is machined, heat-treated, placed in an air-tight box and heated to about 1000oF?","[""Annealing"",""Normalizing"",""Carburizing"",""Nitriding""]",3
+"What typical penetrator is used in Brinell hardness test?","[""10 mm ball"",""120\u00b0 diamond (brale)"",""1.6 mm diameter ball"",""20\u00b0 needle""]",0
+"What is the ratio of the maximum load in a tension test to the original cross-sectional area of the test bar?","[""Tensile strength"",""Yield strength"",""Shear strength"",""Flexural Strength""]",0
+"What is the ratio of stress to strain in a material loaded within its elastic ranger?","[""Poisson\u2019s ratio"",""Refractive index"",""Modulus of elasticity"",""Percent elongation""]",2
+"What is a measure of rigidity?","[""Stiffness"",""Hardness"",""Strength"",""Modulus of elasticity""]",3
+"In tensile testing, the increase in the gage length measured after the specimen fractures, within the gage length is called _______.","[""percent elongation"",""creep"",""elasticity"",""elongation""]",0
+"What impurity in steel can cause “red shortness”, which means the steel becomes unworkable at high temperature?","[""Sulfur"",""Silicon"",""Manganese"",""Phosphorus""]",0
+"What is a process of producing a hard surface in a steel having a sufficiently high carbon content to respond to hardening by a rapid cooling of the surface?","[""Cyaniding"",""Nitriding"",""Flame hardening"",""Induction hardening""]",2
+"What is the common reinforcement for polymer composites?","[""Boron"",""Ceramic"",""Graphite"",""Glass fiber""]",3
+"Which of the following fluids conducts electricity?","[""Electrolyte"",""Water"",""Solution"",""Acid""]",0
+"What refers to the removal of zinc from brasses?","[""Dezincification"",""Graphitization"",""Stabilization"",""Dealloying""]",0
+"What is the scaling off of a surface in flakes or layers as the result of corrosion?","[""Expoliation"",""Corrosion fatigue"",""Scaping"",""Fretting""]",0
+"What corrosion occurs under organic coatings on metals as fine, wavy hairlines?","[""Stray current corrosion"",""Microbiological corrosion"",""Filiform corrosion"",""Fretting corrosion""]",2
+"What refers to the deterioration of material by oscillatory relative motion of small amplitude (20 to 100 µm) between two solid surfaces in a corrosive environment?","[""Stray current corrosion"",""Microbiological corrosion"",""Filiform corrosion"",""Fretting corrosion""]",3
+"Indicate the false statement about corrosion.","[""Plastics and ceramics are immune to many forms of corrosion because they are not good conduction of electricity."",""The corroded member in a corrosion cell is the cathode."",""Passivity is a prerequisite for the corrosion protect on many metals."",""Corrosion of metals is usually electrochemical in nature.""]",1
+"Steel is an alloy of iron and carbon with limits on the amount of carbon to less than ______ percent.","[""2"",""3"",""4"",""1""]",0
+"Indicate false statement about stainless steel?","[""The density of stainless steel is about the same as carbon or low-alloy steels."",""Stainless steels are poor conductors of heat."",""Stainless steels are poor conductors of electricity."",""Stainless steels have tensile moduli greater than those of carbon and alloy steels.""]",3
+"What are the four major alloying elements of austenitic stainless steels?","[""Iron, chromium, carbon and nickel"",""Iron, chromium, zinc and nickel"",""Iron, chromium, carbon and zinc"",""Iron, chromium, carbon and copper""]",0
+"The electrical resistance of stainless steels can be as much as _____ time that of carbon steel.","[""5"",""6"",""10"",""15""]",1
+"What refers to a shape achieved by allowing a liquid to solidify in a mold?","[""Casting"",""Molding"",""Forming"",""All of the choices""]",0
+"Which of the following is NOT a hardware requirement for die casting?","[""Water-cooled metal cavities"",""machined metal holding blocks"",""Ejection mechanism"",""Metal mold (matching halves)""]",3
+"What cast iron has modular or spheroidal graphite?","[""Ductile iron"",""Wrought iron"",""Gray iron"",""White iron""]",0
+"What is a process for making glass-reinforced shapes that can be generate by polling resin-impregnated glass stands through a die?","[""Continuous pultrusion"",""Bulk molding"",""Vacuum bag forming"",""Resin transfer moulding""]",0
+"What term is used to denote a family of thermosetting polymers that are reaction products of alcohols and acids?","[""Alkaline"",""Alkydes"",""Alcocids"",""Aldehyde""]",1
+"What is the AISI-SAE steel designation for nickel 3.50 alloy?","[""13XX"",""23XX"",""25XX"",""31XX""]",1
+"What is the AISI-SAE designation for resulfurized and rephosphorized carbon steel?","[""13XX"",""31XX"",""23XX"",""12XX""]",3
+"What does AISI stands for?","[""Asian Institute of Steel Industries"",""American Institute of Steel Industries"",""Association of Iron and Steel Industries"",""American Iron and Steel Institute""]",3
+"What does SAE stands for?","[""Society of Automotive Engineers"",""Society of American Engineers"",""Society of Architects and Engineers"",""Society of Alloy Engineers""]",0
+"What does ASTM stands for?","[""Association of Steel Testing and Materials"",""American Society for Testing and Materials"",""Asian Society for Testing and Materials"",""Allied Society for Testing and Materials""]",1
+"What is the approximate chromium range of a ferritic stainless steel?","[""12% to 18%"",""10% to 12%"",""16% to 20%"",""20% to 24%""]",2
+"The Group H steels can be used in what temperature range?","[""600\u00b0C to 1100\u00b0C"",""1000oC to 1500\u00b0C"",""1100\u00b0C to 2000\u00b0C"",""200\u00b0C to 800\u00b0C""]",0
+"The following are primary alloying ingredients of Group H steel except:","[""Molybdenum"",""Tungsten"",""Cobalt"",""Chromium""]",2
+"The chrome-molybdenum steels contain how many percent of molybdenum?","[""0.10"",""0.20"",""0.30"",""0.40""]",1
+"The chrome-vanadium steels contain how many percent of vanadium?","[""0.15 to 0.30"",""0.05 to 0.15"",""0.30 to 0.45"",""0.45 to 0.60""]",0
+"Manganese steel usually contains how many percent of manganese?","[""1 to 5"",""5 to 10"",""11 to 14"",""14 to 18""]",2
+"The wear-resistance of this material is attributed to its ability to _______, that is, the hardness is increased greatly when the steel is cold worked.","[""cold harden"",""stress harden"",""cool-temperature"",""strain harden""]",3
+"The special chrome steels of the stainless variety contain how many percent of chromium?","[""4 to 8"",""9 to 10"",""11 to 17"",""17 to 21""]",2
+"What refers to the application of any process whereby the surface of steel is altered so that it will become hard?","[""Caburizing"",""Casehardening"",""Annealing"",""Surfacehardening""]",1
+"What refers to the ability of steel to be hardened through to its center in large section?","[""Malleability"",""Hardenability"",""Spheroidability"",""Rigidity""]",1
+"What is the equilibrium temperature of transformation of austenite to pearlite?","[""1000\u00b0F"",""1333\u00b0F"",""1666\u00b0F"",""1222\u00b0F""]",1
+"The alpha iron will become paramagnetic at temperature above ____________.","[""770\u00b0C"",""550\u00b0C"",""660\u00b0C"",""440\u00b0C""]",0
+"What structure is formed when transformation occurs at temperatures down to the knee of the curve?","[""Pearlite"",""Bainite"",""Austenite"",""Martensite""]",0
+"What allotropic form of iron refers to iron that has a temperature range of room temperature to 1670°F?","[""Beta iron"",""Gamma iron"",""Delta iron"",""Alpha iron""]",3
+"What steel surface hardening process requires heating at 1000°F for up to 100 hours in an ammonia atmosphere, followed by slow cooling?","[""Nitriding"",""Flame hardening"",""Precipitaion hardening"",""Carburizing""]",0
+"What is the chief ore of tin?","[""Cassiterite"",""Bauxite"",""Ilmanite"",""Galena""]",0
+"What is the chief ore of zinc?","[""Cassiterite"",""Bauxite"",""Sphalerite"",""Ilmanite""]",2
+"What is the chief ore of titanium?","[""Sphalerite"",""Ilmanite"",""Bauxite"",""Cassiterite""]",1
+"What is the mixture of gibbsite and diaspore, of which aluminum is derived?","[""Bauxite"",""Rutile"",""Galera"",""Sphalerite""]",0
+"The term “brass” is very commonly used to designate any alloy primarily of:","[""copper and zinc"",""aluminum and iron"",""copper and aluminum"",""zinc and nickel""]",0
+"The term “bronze” is used to designate any alloy containing:","[""copper and zinc"",""copper and aluminum"",""copper and nickel"",""copper and tin""]",3
+"In a system of designating wrought aluminum alloys, a four digit number is used. What does the first digit indicates?","[""The purity of aluminum"",""The identity of the alloy"",""The alloy group"",""The strength of the alloy""]",2
+"In a system of designating wrought aluminum alloys, what does the second digit represents?","[""The purity of aluminum"",""The identity of the alloy"",""The modifications of the alloy group or impurity limits"",""The alloy group""]",2
+"In the system of designating wrought aluminum alloys, the letter F that follows the number indicates what condition of the alloy?","[""As fabricated"",""Strain hardened"",""Annealed"",""Artificially aged""]",0
+"The following alloys are the chief alloys that are die-cast except:","[""Zinc alloys"",""Magnesium alloys"",""Manganese alloys"",""Aluminum alloys""]",2
+"What is the minimum tensile strength of Gray Cast Iron class 50?","[""25000 lbf\/in<sup>2<\/sup>"",""35000 lbf\/in<sup>2<\/sup>"",""50000 lbf\/in<sup>2<\/sup>"",""100000 lbf\/in<sup>2<\/sup>""]",2
+"What is the carbon content of wrought iron?","[""less than 0.1 percent"",""exactly 0.1 percent"",""more than 0.1 percent"",""ranges from 0.1 percent to 0.2 percent""]",0
+"Alnico is an alloy containing how many percent nickel?","[""10%"",""14%"",""18%"",""22%""]",1
+"The most common beta brass with a composition of 60 % copper and 40 % zinc is called ________.","[""yellow brass"",""red brass"",""Muntz metal"",""white brass""]",2
+"Red brass contains about how many percent of zinc?","[""20%"",""15%"",""20%"",""25%""]",1
+"Indicate the false statement.","[""Aluminum bronzes contain no tin."",""Silicon bronzes are usually used for marine application and high-strength fasteners."",""Bronze is a copper-tin alloy."",""Tin is relatively soluble in copper.""]",3
+"What is the most abundant metal in nature?","[""Aluminum"",""Steel"",""Iron"",""Copper""]",0
+"Indicate the false statement about aluminum.","[""It has 1\/3 the weight of steel."",""It has 1\/3 of the stiffness of steel."",""It has high strength-to-weight ratio."",""It has poor thermal and electrical conductivity.""]",3
+"What is the effect to aluminum with iron as the alloying element?","[""Reduce hot-cracking tendencies in casting."",""Improve conductivity"",""Lowers castability"",""Improves machinability""]",0
+"What is the effect to aluminum with copper as alloying element?","[""Increase strength up to about 12%"",""Reduces shrinkage"",""Improves machinability"",""Increases fluidity in casting""]",0
+"Which of the following are two well-known nickel alloys with magnetic properties ideal for permanent magnets?","[""Invar and Nilvar"",""Nichrome and Constantan"",""Elinvar and Invar"",""Alnico and Conife""]",3
+"The Portland cement is manufacture from the following elements except:","[""lime"",""silica"",""alumina"",""asphalt""]",3
+"What gives the average ratio of stress to strain for materials operating in the nonlinear region in the stress-strain diagram?","[""Modulus of elasticity"",""Proportionality limit"",""Secant modulus"",""Tangent modulus""]",2
+"What test determines the hardenability of a steel specimen?","[""Jominy end-quench test"",""The lever rule"",""Gibb\u2019s phase test"",""Stress relief test""]",0
+"What steel relief process is used with hypocutectoid steels to change martenite into pearlite?","[""Tempering"",""Normalizing"",""Annealing"",""Spheroidizing""]",0
+"What is another term for tempering?","[""Recrystalization"",""Annealing"",""Spheroidizing"",""Drawing or toughening""]",3
+"All are steel surface hardening processes except one. Which one?","[""Carburizing"",""Flame hardening"",""Nitriding"",""Annealing""]",3
+"For metric wire gage, the No. 2 wire is ________ in diameter.","[""0.1 mm"",""0.2 mm"",""0.3 mm"",""0.4 mm""]",1
+"Bus bars of rectangular cross section are generally used for carrying ________.","[""high electric current"",""low electric current"",""high voltage"",""low voltage""]",0
+"What are used for interconnection on printed-circuit boards?","[""Unlaminated flat conductors"",""Insulated conductors"",""Rounded flexible conductors"",""Flat flexible conductors""]",3
+"Yellow brass is a copper alloy with improved mechanical properties but reduced corrosion resistance and electrical conductivity. How many percent of yellow brass is copper?","[""65%"",""35%"",""55%"",""45%""]",0
+"What type of copper alloy is used as collectors for electric generator?","[""yellow brass"",""Beryllium copper"",""Tin Bronze"",""Phosphor bronze""]",2
+"What is the electrical resistivity of pure copper in μΩ-cm?","[""1.76"",""1.71"",""1.67"",""3.10""]",2
+"What should be the resistivity in μΩ-cm of a resistor material?","[""200 \u2013 300"",""100 \u2013 200"",""50 \u2013 150"",""10 \u2013 50""]",2
+"What is the most widely used dielectric material in the electrical and electronics industry?","[""Polymer"",""Plastic"",""Rubber"",""All of the above""]",1
+"What are natural or synthetic rubber like materials which have outstanding elastic characteristics?","[""Thermosetting plastics"",""Polymers"",""Elastomers"",""Thermoplastic plastics""]",2
+"What are cellular forms of urethanes, polystyrenes, vinyls, polyehtylenes, polypropylenes, phenolics, epoxies and variety of other plastics?","[""Thermoplastic plastics"",""Plastic foams"",""Polymers"",""Thermosetting plastics""]",1
+"What is the widely used electrical insulator?","[""Plastic"",""Polymer"",""Epoxy"",""Paper""]",3
+"What is the dielectric strength of an unimpregnated cellulose paper or kraft paper?","[""6 to 12 MV\/m"",""8 to 14 MV\/m"",""10 to 16 MV\/m"",""12 to 18 MV\/m""]",0
+"What is the most widely known carbide?","[""Carbon carbide"",""Lead carbide"",""Germanium carbide"",""silicon carbide""]",3
+"Class I capacitors have dielectric constants are up to _____.","[""100"",""200"",""300"",""500""]",3
+"What are the typical dielectric constants of class II capacitors?","[""500 to 10,000"",""1,000 to 10,000"",""500 to 5,000"",""100 to 1,000""]",0
+"What are the most widely used general-purpose coatings?","[""Alkyds"",""Acrylics"",""Epoxies"",""Vinyls""]",0
+"What is widely used in the electronic industry as a structural member, such as tube envelopes, hermetic seals to metals or ceramics, protective coating on hybrid and integrated circuits, etc.?","[""Glass"",""Plastic"",""Silica"",""Film""]",0
+"What refers to glasses which are devitrified about 100oC below their softening point to form a very fine network of crystalline phase?","[""Fused silica"",""Glass ceramics"",""Fused quartz"",""Fiber glass""]",1
+"The percentage change in magnetic properties of materials resulting from temperature aging called the ____________.","[""aging index"",""aging factor"",""aging coefficient"",""aging point""]",2
+"The change in electrical resistance due to the application of magnetic field is called ____________.","[""magnetic anisotropy"",""magnetoresistance"",""magnetostriction"",""magnetizing factor""]",1
+"Which material is used for de application such as electromagnetic cores and relays?","[""Iron"",""Copper"",""Steel"",""Aluminum""]",0
+"Which of the following is known as “electrical steel”?","[""Silicon steel"",""Stainless steel"",""Carbon steel"",""Cast Steel""]",0
+"What is the highest-frequency ferrite?","[""Garnet"",""Spinel"",""Mumetal"",""Superinvar""]",0
+"Which material is used for Schottky barrier diodes, light-emitting diodes, Gunn diodes and injection lasers?","[""Gallium Arsenide"",""Silicon Carbide"",""Selenium"",""Gallian Phosphide""]",0
+"What material is used for electroluminescent diodes which can emit either green or red light?","[""Gallium Arsenide"",""Silicon Carbide"",""Selenium"",""Gallium Phosphide""]",3
+"Lead compounds such as load sulfide, selenide and telluride may be used for which application?","[""Diodes and transistors at low temperature"",""Infrared detectors"",""Thermoelectric applications"",""All of these""]",3
+"For hardness penetration test, the Rockwell test uses what type of penetrator?","[""Sphere"",""Square pyramid"",""Asymmetrical pyramid"",""Cube""]",0
+"What is the combination of cutting and scratch test of a material?","[""Knoop test"",""Vickers test"",""File hardness test"",""Toughness test""]",2
+"What refers to the strain energy per unit volume required to reach the yield point?","[""Elastic toughness"",""Fatigue"",""Hardness"",""Creep strain""]",0
+"The following are typical properties of ceramics except one. Which one?","[""High melting point"",""High compressive strength"",""High corrosion resistance"",""High thermal conductivity""]",3
+"What refers to the average number of mers in the molecule, typically several hundred to several thousand?","[""Polymerization constant"",""Polymerization factor"",""Degree of polymerization"",""Polemerization index""]",2
+"What nickel alloy has high electrical and corrosion resistance and high strength at red heat temperature and contain 15 to 20% chromium?","[""Alnico"",""Nichrome"",""Invar"",""Nilvar""]",1
+"Silicon bronze contains how many percent of silicon?","[""96%"",""3%"",""1%"",""69%""]",1
+"What element is added to copper to increase its strength and fatigue properties?","[""Silicon"",""Aluminum"",""Beryllium"",""Zinc""]",2
+"What element is added to copper to make it extremely hard?","[""Aluminum"",""Zinc"",""Lead"",""Silicon""]",0
+"What element constitutes the major component of most bronzes?","[""Zinc"",""Tin"",""Lead"",""Aluminum""]",1
+"What is the most common alloying ingredient in copper?","[""Tin"",""Lead"",""Zinc"",""Aluminum""]",2
+"Interaction between the surface of two closely adjacent bodies which causes them to cling together is known as","[""Friction"",""Cohesion"",""Adhesion"",""Viscosity""]",2
+"Solids which break above the elastic limit are called","[""Brittle"",""Ductile"",""Plastic"",""Malleable""]",0
+"The property of some elementary particles that causes them to exert force on one another I known as","[""Potential difference"",""Charge"",""Specific change"",""Nucleon interaction""]",1
+"The property which permits the flow of current under the action of a potential difference is called","[""Resistance"",""Permeance"",""Impedence"",""Conductance""]",3
+"When a body is resistant to heat, it is called","[""Thermoscopic"",""Thermotropic"",""Thermoduric"",""Thermoplastic""]",2
+"The property of fluids by virtue of which they offer resistance to flow is known as","[""Gummosity"",""Glutinosity"",""Viscidity"",""Viscosity""]",3
+"The tendency of a body to return to its original size or shape after having been deformed is called","[""Elastance"",""Elasticity"",""Elastivity"",""Anelastivity""]",1
+"The emission of light by a material because of its high temperature is known as","[""Incandescence"",""Luminescence"",""Scintillation"",""Phosphorescence""]",0
+"Which of the following statements is correct concerning the passage of white light into a glass prism?","[""The violet color travels faster than the red color"",""The violet color travels slower than the red color"",""All the colors of white light travels the same speed"",""Greater the wavelength, slower the speed of color""]",1
+"The property by virtue of which a body resists any attempt to change its state of rest or motion is called","[""Torpidity"",""Passivity"",""Inactivity"",""Inertia""]",3
+"The property of an isolated conductor to store electric charge is","[""Capacitance"",""Conductance"",""Permeability"",""Accumulation""]",0
+"If the properties of a body are the same in all directions, it is called","[""Isodynamic"",""Isotropic"",""Isogonic"",""Isotopic""]",1
+"The property of an object that determines the direction of heat flow when in contact with another object is called","[""Calidity"",""Pyxeria"",""Caloric"",""Temperature""]",3
+"The rate of flow of thermal energy through a material in the presence of a temperature gradient is called","[""Thermal capacity"",""Thermal conductivity"",""Thermal radiation"",""Thermal convection""]",1
+"The property of some crystals of absorbing light difference extents, thereby giving to the crystals different colors according to the direction of the incident light is known as","[""dichroism"",""dichromatism"",""diastrophism"",""chromaticity""]",0
+"Emission of radiations from a substance during illumination by radiations of higher frequency is called","[""illuminance"",""fluorescence"",""radioluminescence"",""incandescence""]",1
+"If a materials is feebly repelled by a magnet it is","[""diamagnetic"",""paramagnetic"",""ferromagnetic"",""ferromagnetic""]",0
+"The progressive decrease of a property as a result of repeated stress is called","[""debility"",""rigidity"",""elastic deformation"",""fatigue""]",3
+"Property of some pure metals and their alloys at extremely low temperatures of having negligible to the flow of an electric current is called","[""supercharging"",""supercooling"",""superfluidity"",""superconductivity""]",3
+"What are considered as the building blocks for engineering materials?","[""Atoms"",""Elements"",""Compounds"",""Matter""]",0
+"What refers to a metal combined with one or more other elements?","[""Mixture"",""Compound"",""Alloy"",""Molecule""]",2
+"What do you call metals reinforced by ceramic or other materials usually in fiber form?","[""Metalloids"",""Matrix Alloys"",""Metal Lattices"",""Metal Matrix Composites""]",3
+"The engineering materials known as “plastics” are more correctly called","[""Polyvinyl Chloride"",""Polymers"",""Polyethylene"",""Mers""]",1
+"What is a combination of two or more materials that has properties that the components material do not have by themselves?","[""Compound"",""Composite"",""Mixture"",""Matrix""]",1
+"What physical property of a material that refers to the point at which a material liquefies on heating or solidifies on cooling?","[""Melting point"",""Curie Point"",""Refractive index"",""Specific heat""]",0
+"What physical property of a material that refers to the temperature at which ferromagnetic materials can no longer be magnetized by outside forces?","[""Melting point"",""Curie Point"",""Refractive index"",""Specific heat""]",1
+"What physical property of a material refers to the amount of weight gain (%) experienced in a polymer after immersion in water for a specified length of time under a controlled environment?","[""Dielectric strength"",""Electric Resistivity"",""Water Absorption"",""Thermal conductivity""]",2
+"What physical property of material refers to the rate of heat flow per unit time in a homogeneous material under steady state conditions per unit area, unit temperature gradient in a direction perpendicular to the area?","[""Thermal expansion"",""Thermal conductivity"",""Heat distortion temperature"",""Water absorption""]",1
+"What is the absolute value of the ratio of the transverse strain to the corresponding axial strain in a body subjected to uniaxial stress?","[""Poisson\u2019s Ratio"",""Euler\u2019s Ratio"",""Refractive index"",""Dielectric index""]",0
+"What physical property of a material refers to the highest potential difference that an insulating material of a given thickness can withstand for a specified time without occurrence of electrical breakdown through its bulk?","[""Thermal expansion"",""Conductivity"",""Dielectric Strength"",""Electric Resistivity""]",2
+"What physical property of a material refers to the ratio of the amount of heat required to raise the temperature of a unit mass of a substance 1 degree to the heat required to raise the same mass of water to 1 degree?","[""Specific Heat"",""Latent Heat"",""Heat of Fusion"",""Heat of Fission""]",0
+"What refers to the heat needed to change the temperature of the substances without changing its phases?","[""Latent heat"",""Sensible heat"",""Specific heat"",""entropy""]",1
+"What physical property of a material refers to the temperature at which a polymer under a specified load shows a polymer under a specified load shows a specified amount of deflection?","[""Curie temperature"",""Specific Heat"",""Heat Distortion Temperature"",""Thermal Conductivity""]",2
+"What mechanical property of a material refers to the nominal stress at fracture in a tension test at constant load and constant temperature?","[""Creep strength"",""Stress rapture strength"",""Compressive yield strength"",""Hardness""]",1
+"What mechanical property of a material refers to the resistance to plastic deformation?","[""Rigidity"",""Plasticity"",""Ductility"",""Hardness""]",3
+"What is obtained by repeatedly loading a specimen at given stress levels until it fails?","[""Elastic Limit"",""Endurance limit or fatigue strength of material"",""Creep"",""All of these""]",1
+"What dimensional property of a material refers to the deviation from edge straightness?","[""Lay"",""Out of Flat"",""Camber"",""Waviness""]",2
+"What dimensional property of a material refers to a wave like variation from a perfect surface, generally much wider in spacing and in higher in amplitude than surface roughness?","[""Lay"",""Waviness"",""Surface finish"",""Out of flat""]",1
+"Wood is composed of chains of cellulose molecules bonded together by another natural polymer called","[""Plastic"",""Lignin"",""mer"",""additive""]",1
+"What is a polymer production process that involves forming a polymer chain containing two different monomers?","[""Copolymerization"",""Blending"",""Alloying"",""Cross-linking""]",0
+"What is the generic name of a class of polymer which is commercial known as nylon?","[""Polyacetals"",""Polyamide"",""Cellulose"",""Polyester""]",1
+"What is a method of forming polymer sheets or films into three-dimensional shapes, in which the sheets is clamped on the edge, heated until it soften and sags, drawn in contact with the mold by vacuum, and cooled while still in contact with the mold?","[""Calendering"",""Blow molding"",""Thermoforming"",""Solid phase forming""]",2
+"What is a process of forming continuous shapes by forcing a molten polymer through a metal die?","[""Calendering"",""Thermoforming"",""Lithugraphy"",""Extrusion""]",3
+"What chemical property of a material which refers to its ability to resist deterioration by chemical or electrochemical reactions with environment?","[""Stereospecificity"",""Corrosion resistance"",""Conductivity"",""Electrical Resistance""]",1
+"What refers to the tendency for polymers and molecular material to form with an ordered spatial, three-dimensional arrangement of monomer molecules?","[""Stereospecificity"",""Corrosion resistance"",""Retentivity"",""Spatial Configuration""]",0
+"What is the ratio of the maximum load in a tension test to the original cross-sectional area of the test bar?","[""Tensile strength"",""Yield strength"",""Shear strength"",""Flexual strength""]",0
+"What is the ratio of stress to strain in a material loaded within its elastic range?","[""Poisson\u2019s ratio"",""Refractive index"",""Modulus of elasticity"",""Percent elongation""]",2
+"What is measure of rigidity?","[""Stiffness"",""Hardness"",""Strength"",""Modulus of elasticity""]",3
+"The greatest stress which a material is capable of withstanding without deviation from acceptable stress to strain is called","[""elongation"",""proportional limit"",""yield point"",""elastic limit""]",1
+"What refers to the stress at which a material exhibits a specified deviation from proportionality of stress and strain?","[""Tensile strength"",""Shear strength"",""Yield strength"",""Flexural strength""]",2
+"What is the amount of energy required to fracture a given volume of material?","[""Impact strength"",""Endurance limit"",""Creep strength"",""Stress rupture strength""]",0
+"What mechanical property of a material which is a time-dependent permanent strain under stress?","[""elongation"",""elasticity"",""creep"",""rupture""]",2
+"In tensile testing, the increase in the gage length measured after the specimen fractures within the gage length is called","[""Percent elongation"",""Creep"",""Elasticity"",""Rupture""]",0
+"What is the resistance of a material to plastic deformation?","[""Hardness"",""Creepage"",""Stiffness"",""Rigidity""]",0
+"What is the maximum stress below which a material can theoretically endure an infinite number of stress cycles?","[""Endurance state"",""Endurance test"",""Endurance limit"",""Endurance strength""]",2
+"What is a substance that attracts piece of iron?","[""Conductor"",""Semiconductor"",""Magnet"",""All of the choices""]",2
+"Which of the following is a natural magnet?","[""Steel"",""Magnesia"",""Lodestone"",""Soft iron""]",2
+"Which of the following material has permeability, slightly less than that of free space?","[""Paramagnetic materials"",""Non-magnetic materials"",""Ferromagnetic materials"",""Diamagnetic materials""]",3
+"What materials has permeabilities slighter greater than that of free space?","[""Paramagnetic materials"",""Non-magnetic materials"",""Ferromagnetic materials"",""Diamagnetic materials""]",0
+"Which of the following materials have very high permeabilities?","[""Paramagnetic materials"",""Non-magnetic materials"",""Ferromagnetic materials"",""Diamagnetic materials""]",2
+"What is ASTM test for tension is designated for plastics?","[""A370"",""D638"",""E292"",""C674""]",1
+"What is ASTM test for compression is designated for plastics?","[""D638"",""D695"",""D790"",""D732""]",1
+"What is ASTM test for shear strength is designated for plastics?","[""D732"",""D790"",""D695"",""D638""]",0
+"What is the ASTM tension testing designation for standard methods of steel products?","[""A370"",""E345"",""E8"",""C674""]",0
+"What do you call a polymer without additive and without blending with another polymer?","[""Homopolymer"",""Ethenic polymer"",""Polyethylene"",""Copolymer""]",0
+"A large molecule with two alternating mers is known as","[""monomer"",""elastomer"",""mers"",""copolymer or interpolymer""]",3
+"What term is used to describe a polymer that has rubberlike properties?","[""Vulcanizer"",""Elasticmer"",""Polychloroprene"",""Elastomer""]",3
+"What is defined as an alloy of iron and carbon, with the carbon being restricted within certain concentration limits?","[""Steel"",""Wrought iron"",""Cast Iron"",""Tendons""]",0
+"What type of steel has 0.8% of carbon and 100% pearlite?","[""Austenite"",""Eutectoid"",""Hyper-eutectoid"",""Stainless steel""]",1
+"Galvanized steel are steel products coated with","[""Carbon"",""Sulfur"",""Zinc"",""Nickel""]",2
+"The use of acids to remove oxides and scale on hot-worked steels is known as","[""Tempering"",""Picking"",""Machining"",""Galvanizing""]",1
+"What do you call tin mill steel without a coating?","[""White plate"",""Tin steel free"",""Black plate"",""Dechromate tin""]",2
+"What combination of elements has high electrical resistance high corrosion resistance and high strength at red heat temperature making it useful in resistance heating?","[""Aluminum bronze"",""Nichrome"",""Hastelloy"",""Alnico""]",1
+"A steel cannot qualify for stainless prefix until it has at least how many percent of Chromium?","[""10%"",""20%"",""25%"",""5%""]",0
+"What do you add to compensate for the remaining high iron-oxide content of the steel?","[""Deorizers"",""Deoxidizers"",""Deterrent"",""Detoxifiers""]",1
+"Which of the following cast irons is high carbon, iron-carbon-silicon alloy?","[""Gray iron"",""Malleable iron"",""White iron"",""Ductile iron""]",0
+"Which of the following cast irons is a heat-treated for ductility?","[""Gray iron"",""Malleable iron"",""White iron"",""Ductile iron""]",1
+"Which cast iron is hard and wear resistant?","[""Gray iron"",""Malleable iron"",""White iron"",""Ductile iron""]",2
+"What is considered as the general purpose, oldest type and widely used cast iron?","[""Gray iron"",""Malleable iron"",""White iron"",""Ductile iron""]",0
+"What is the advantage of quench hardening?","[""Improved strength"",""Hardness"",""Wear characteristics"",""All of the choices""]",3
+"What is the lowest-temperature diffusion hardening process and does not require a quench?","[""Carburizing"",""Tempering"",""Nitriding"",""Heat-treating""]",2
+"Which of the following is a requirement for hardening a steel?","[""Heating at proper temperature"",""Sufficient carbon content"",""Adequate Quench"",""All of the choices""]",3
+"What field of study encompasses the procurement and production of metals?","[""Metallurgy"",""Geology"",""Material Science"",""Metalgraphy""]",0
+"What do you call earth and stone mixed with the iron oxides?","[""Hematite"",""Magnetite"",""Gangue"",""Ore""]",2
+"What is a coal that has been previously burned in an oxygen poor environment.","[""Tuyene"",""Coke"",""Diamond"",""Hematite""]",1
+"What is the most common alloying ingredient in copper?","[""Brass"",""Nickel"",""Zinc"",""Aluminum""]",2
+"What refers to the case hardening process by which the carbon content of the steel near the surface of a part is increased?","[""Carburidizing"",""Annealing"",""Normalizing"",""Martempering""]",0
+"What is the most undesirable of all the elements commonly found in steels?","[""Sulfur"",""Phosphorus"",""Silicon"",""Manganese""]",1
+"What impurity in steel can cause “red shortness”, which means the steel becomes unworkable in high temperature?","[""Sulfur"",""Silicon"",""Manganese"",""Phosphorus""]",0
+"What is the process of producing a hard surface in a steel having sufficiently high carbon content to respond to hardening by rapid cooling of the surface?","[""Cyaniding"",""Nitriding"",""Flame hardening"",""Induction hardening""]",2
+"What is the most common reinforcement for polymer composites?","[""Boron"",""Ceramic"",""Graphite"",""Glass Fiber""]",3
+"In electrochemistry, oxidation is a lost of","[""Ion"",""Electron"",""Proton"",""Anode""]",1
+"What is the process of putting back the lost electrons to convert the ion back to metal?","[""Oxidation"",""Corrosion"",""Reduction"",""Ionization""]",2
+"What do call a fluid that conducts electricity?","[""Electrolyte"",""Water"",""Solution"",""Acid""]",0
+"What is defined as a local corrosion damaged characterized by surface cavities?","[""Cracking"",""Pitting"",""Cavitation"",""Erosion""]",1
+"What do you call the removal of zinc from brasses?","[""Dezincification"",""Graphitization"",""Stabilization"",""Dealloying""]",0
+"What is the scaling off a surface in flakes or layers as the result of corrosion?","[""Expoliation"",""Corrosion Fatigue"",""Scaping"",""Fretting""]",0
+"What refers to a shape achieved by a allowing a liquid to solidify in a mold?","[""Casting"",""Molding"",""Forming"",""All of the choices""]",0
+"What Cast Iron has nodular of spheroidal graphite?","[""Ductile iron"",""Wrought Iron"",""Gray Iron"",""White Iron""]",0
+"What is a process for making glass-reinforced shapes that can be generated by pulling resin-impregnated glass strands through a die?","[""Continuous pultrusion"",""Bulk molding"",""Vacuum bag forming"",""Resin transfer molding""]",0
+"What is a natural substance that makes up a significant portion of all plant life?","[""Cellulose"",""Polyacetal"",""Polycarbonates"",""Polyimides""]",0
+"What term is used to denote a family of thermosetting polymers that are reaction products of alcohols and acids?","[""Alkaline"",""Alkydes"",""Alcocids"",""Aldehyde""]",1
+"What refers to the application of any process whereby the surface of steel is altered so that it will become hard?","[""Carburizing"",""Casehardening"",""Annealing"",""Surface hardening""]",1
+"What is the chief ore of tin?","[""Cassiterite"",""Bauxite"",""llmanite"",""Galena""]",0
+"What is the chief ore of zinc","[""Cassiterite"",""Bauxite"",""Sphalerite"",""Galena""]",2
+"What is the chief ore of titanium?","[""Cassiterite"",""Bauxite"",""llmanite"",""Galena""]",2
+"What is a mixture of gibbsite and diaspore of which aluminum is derived?","[""Bauxite"",""Rutile"",""Galena"",""Sphalerite""]",0
+"The term bronze is used to designate any alloy containing","[""Copper and zinc"",""Aluminum and iron"",""Copper and aluminum"",""Copper and tin""]",3
+"The term brass is used to designate an alloy containing","[""Copper and zinc"",""Aluminum and iron"",""Copper and aluminum"",""Copper and tin""]",0
+"What is the most abundant metal in nature?","[""Aluminum"",""Steel"",""Iron"",""Copper""]",0
+"What steel relief process is used with hypoeutectoid steels to change martenite into pearlite?","[""Tempering"",""Normalizing"",""Annealing"",""Spheroidizing""]",0
+"The Portland cement is manufactured from the following elements except","[""lime"",""silica"",""alumina"",""asphalt""]",3
+"What is another term for Tempering?","[""Recrystallization"",""Annealing"",""Spheroidizing"",""Drawing or toughening""]",3
+"All are steel surface hardening processes except","[""Carburizing"",""Flame Hardening"",""Nitriding"",""Annealing""]",3
+"The pressure which a substances is capable of supporting without fracturing","[""Shear Stress"",""Yield Strength"",""Yield Stress"",""Shear Modulus""]",2
+"The dimensionless parameter describing deformation","[""Energy"",""Work"",""Strain"",""Stress""]",2
+"The general law of mechanics that stress is directly proportional to strain","[""Mean Speed Theorem"",""Poisson Ratio"",""Charles\u2019 Theorem"",""Hooke\u2019s Law""]",3

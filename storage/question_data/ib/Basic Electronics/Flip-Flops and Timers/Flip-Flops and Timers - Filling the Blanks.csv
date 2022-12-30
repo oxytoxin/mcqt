@@ -1,0 +1,11 @@
+question,A,B,C,D,E,answer,explanation
+"<p>A retriggerable one-shot has a pulse width of  10 ms; 3 ms after being triggered, another trigger pulse is applied. The resulting output pulse will be _________ ms.</p>",3,7,10,13,,D,
+"<p>The S-R, D-type, and J-K flip-flops are all examples of _________________.</p>",astable multivibrators,bistable multivibrators,monostable multivibrators,tristable multivibrators,,B,
+<p>Edge-triggered flip-flops must have _________.</p>,very fast response times,at least two inputs to handle rising and falling edges,a positive-transition pulse generator,a negative-transition pulse generator,,C,
+"<p>An S-R flip-flop can be triggered by ______, ______, or ________.</p>","HIGHs, LOWs, PRESETs","edges, levels, pulses","HIGHs, LOWs, CLEARs","SETs, RESETs, HIGHs",,B,
+<p>An S-R NAND latch with both of its inputs LOW has an output that is _____________.</p>,unpredictable,floating,HIGH,LOW,,A,
+<p>Pulse-triggered flip-flops are also called _________  flip-flops.</p>,master-slave,postponed,level,edge,,A,
+"<p>For an S-R flip-flop to be SET or RESET, the respective input must be __________.</p>",LOW,HIGH,installed with steering diodes,in parallel with a limiting resistor,,B,
+<p>One example of the use of an S-R flip-flop is as a(n) _________.</p>,racer,binary storage register,astable oscillator,transition pulse generator,,B,
+"<p>The toggle condition in a master-slave J-K flip-flop means that Q and <img align=""absmiddle"" alt=""q.gif"" src=""/_files/images/basic-electronics/complete/q.gif""/>  will switch to their ________ state(s) at the _____________________.</p>","inverted, positive clock edge","quiescent, negative clock edge","opposite, active clock edge","reset, synchronous clock edge",,C,
+"<p>If an input is activated by a signal transition, it is _____________.</p>",edge-triggered,toggle-triggered,clock-triggered,noise-triggered,,A,

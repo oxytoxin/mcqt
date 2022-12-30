@@ -1,0 +1,222 @@
+question,A,B,C,D,E,answer,explanation
+"<p>In the signal flow graph of figure below, the gain C/R will be :<br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/16-01-1.png""/></p>",11/9,22/15,24/23,44/23,,D," <p>Forward path gain</p>
+<p>P<sub>1</sub> = 2 x 3 x 4 ⇒ 24, P<sub>2</sub> = 5, D<sub>1</sub> = 1</p>
+<p>D<sub>2</sub> = - 3, L<sub>1</sub> = - 2, L<sub>2</sub> = - 3, L<sub>3</sub> = - 4</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/16-05-1.png""/></p>
+<p>Two non touching loop = L<sub>1</sub> x L<sub>3</sub> = - 2 x - 4 = 8</p>
+<p>But if we take loop L<sub>4</sub> into consideration then = 5 x -1 x - 1 x - 1 = -5</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/16-05-1-2.png""/>.</p> "
+"<p>The resonant frequency of the circuit shown in figure is, <br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-02-14.png""/></p>","1/2<span class=""root"">2</span><span class=""symbol"">p</span> Hz","1/2<span class=""symbol"">p</span> Hz","1/4<span class=""symbol"">p</span> Hz","1/<span class=""root"">2</span><span class=""symbol"">p</span> Hz",,C," <p>L<sub><i>eq</i></sub> = L<sub>1</sub> + L<sub>2</sub> + 2M</p>
+<p>L<sub><i>eq</i></sub> = 1 + 2 + 2 x <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-06-14.png""/> = 4 H</p>
+<p><b>∴</b> <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-06-14-1.png""/>.</p> "
+"<p>A short grounded vertical antenna has a length L which is 0.05λ at frequency <i>f</i>. If its radiation resistance at <i>f</i> is R ohms, then its radiation resistance at a frequency 2<i>f</i> will be</p>",R/2Ω,RΩ,2RΩ,4RΩ,,D," <p>R<sub><i>r</i></sub> = 80<span class=""symbol"">p</span><sup>2</sup> <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/12-04-14.png""/></p>
+<p><b>∴</b> R<sub><i>r</i></sub> ∝ <i>f</i><sup>2</sup>.</p> "
+"<p>Which of the following is a solution to the differential equation <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/5-01-6.png""/>?</p>",<i>x(t)</i> = 3<i>e<sup>-t</sup></i>,<i>x(t)</i> = 2<i>e<sup>-3t</sup></i>,"<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/5-01-6-3.png""/>",<i>x(t)</i> = 3<i>t<sup>2</sup></i>,,B," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/5-10-6.png""/></p>
+<p>log <i>x</i>(<i>t</i>) = 3<i>t</i></p>
+<p><i>x</i>(<i>t</i>) = <i>K.e</i><sup>-3<i>t</i></sup></p>
+<p>Thus option (B) satisfies the solution.</p> "
+"<p>In the circuit shown, the device connected to Y5 can have address in the range<br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/7-02-13.png""/></p>",2000 - 20FF,2D00 - 2DFF,2E00 - 2EFF,FD00 - FDFF,,B," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/7-07-13.png""/></p> "
+"<p>In a certain network not containing any dependent sources, number of nodes = 4 and number of branches is equal to 6.</p>",4,2,3,5,,C," <p>No. of independent loop currents is 6 - 4 + 1 = 3.
+</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/1-750-6-1.png""/> <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/1-750-6-2.png""/></p> "
+"<p>The following statements are true with respect to ""Cascode Amplifier"". <ol style=""list-style-type: decimal; padding-bottom:10px;""><li style=""padding-top:10px;"">The reduction in <i>h</i><sub>12</sub> and Miller capacitance result in negligible reverse internal feedback. </li><li style=""padding-top:10px;"">A's is large loads cannot be connected. </li><li style=""padding-top:10px;"">As a narrow band amplifier, it provides small range of <i>c</i><sub>μ</sub> is reduced. </li><li style=""padding-top:10px;"">As a narrow band amplifier it provides small range of frequencies parameters the effect of <i>c</i><sub>μ</sub> reduces.</li></ol></p>",only 1,only 1 and 4,only 2 and 4,only 1 and 3,,B," <p>Cascode is a wide band amplifier and it provides wide range of frequencies than CE stage and as <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/3-07-6.png""/> is large, large loads can be connected.</p> "
+"<p>A 4 cm by 3 cm rectangular waveguide with air cavity, is operating at 12 GHz with TE<sub>11</sub> mode. The cut-off frequency is:</p>",6.25 GHz,4.75 GHz,1.5 GHz,8.75 GHz,,A," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/1-750-17-1.png""/>
+</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/1-750-17-2.png""/>.</p> "
+"<p>For a bipolar transistor, avalanche multiplication factor depends on __________ .</p>",V<sub>CE</sub>,V<sub>CB</sub>,V<sub>BE</sub>,none of these,,B," <p>Avalanche multiplication factor</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-792-18-1.png""/></p>
+<p>where, βV<sub>CBO</sub> = collector - emitter breakdown voltage with open circuited base.</p> "
+"<p>In the following transistor circuit <i>V</i><sub>BE</sub> = 0. 7 V, <i>r<sub>c</sub></i> = 25mV/I<sub>E</sub>, and β and the capacitance are very large<br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/5-09-80.png""/><br/>The mid-band voltage gain of the amplifier is approximately</p>",- 180,- 120,- 90,- 60,,D," <p>Midband voltage gain = <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/5-14-81.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/5-14-81-1.png""/></p>
+<p>R'<sub>L</sub> = 3k || 3k = R<sub><i>C</i></sub> || R<sub><i>L</i></sub> = 1.5k</p>
+<p>Thus <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/5-14-81-2.png""/>.</p> "
+"<p>With respect to the Miller integrator sweep shown below, the sweep rate will be<br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-754-25-1.png""/></p>",2,4,1.5,2.5,,A," <p>Sweep rate = <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-762-25-1.png""/>.</p> "
+"<p>The trigonometric Fourier series for the waveform <i>f(t)</i> shown below contain<br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/7-01-2.png""/></p>",only cosine terms and zero value for the dc component,only cosine terms and a positive value for the dc component,only cosine terms and a negative value for the dc component,only sine terms and a negative for the dc component,,C," <p>Since given waveform is even, thus it will have only cosine terms. Function <i>f</i>(<i>t</i>) has more negative value then positive, so it will have negative DC Component.</p> "
+<p>For a class B amplifier using a supply of V<sub>CC</sub> = 30 V and driving a load of 16 Ω the maximum efficiency will be __________ .</p>,72.4%,78.54%,62.4%,68.54%,,B," <p>The maximum output power is</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/3-11-51-1.png""/></p> "
+"<p>If <i>x[n]</i> = <i>cos</i><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-787-41-1.png""/> then the sequence <i>x[n]</i> is</p>",non-periodic,periodic,depends on <i>n</i>,none of these,,A," <p>Consider <i>cos</i><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-794-41-1.png""/>= <i>cos</i><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-794-41-2.png""/>= <i>cos</i><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-794-41-3.png""/> </p>
+<p>Number of samples per period = 16<span class=""symbol"">p</span> </p>
+<p>This is not a rational number. Hence signal is non periodic.</p> "
+"<p>The point P in the following figure is stock at 1. The output <i>f</i> will be<br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/14-03-31.png""/></p>","<span style=""text-decoration:overline;"">ABC</span>","<span style=""text-decoration:overline;"">A</span>","AB <span style=""text-decoration:overline;"">C</span>",A,,D," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/14-06-31.png""/></p> "
+<p>(11)<sub>2</sub> + (11)<sub>3</sub> = (11)<sub>?</sub></p>,4,5,6,none,,C," <p>(10)<sub>2</sub> + (11)<sub>3</sub> = (11)<sub>7</sub></p>
+<p>⇒ 2 + 1 + 3 + 1 = <i>x</i> + l ⇒ <i>x</i> = 6.</p> "
+"<p>For a given transfer function: <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/1-744-19-1.png""/> Damping ratio is:</p>",0.707,0.695,1.414,0.798,,A," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/1-750-19-1.png""/>
+</p>
+<p>1 + G(s)H(s) = <i>s</i><sup>2</sup> + 2<i>s</i> + 2
+</p>
+<p>ω<sub><i>n</i></sub> = <span class=""root"">2</span> , 2ε<sub><i>e</i></sub>ω<sub><i>n</i></sub> = 2, ε<sub><i>e</i></sub> = <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/1-750-19-2.png""/> = 0.707.</p> "
+<p>The energy of constant-amplitude complex valued exponential sequence is __________ (where <i>A</i> is the constant amplitude)</p>,0,1,∞,<i>A</i><sup>2</sup>,,C," <p>Let the constant amplitude complex valued exponential sequence.</p>
+<p><i>x(n)</i> = <i>Ae<sup>-jωn</sup></i></p>
+<p>Energy = <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-07-6.png""/> |<i>x(n)</i>|<sup>2</sup> = <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-07-6.png""/>|<i>Ae<sup>-jωn</sup></i>|<sup>2</sup></p>
+<p>A<sup>2</sup> <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-07-6.png""/>|(<i>e<sup>-jωn</sup></i>)|<sup>2</sup> = <i>A</i><sup>2</sup>(∞) = ∞</p>
+<p>Hence energy in infinite.</p> "
+<p>Find the electric charge required on the earth and moon to balance their gravitational attraction if the charge on the earth is 10 times that on the moon.</p>,1.73 TC,17.3 GC,17.3 TC,1.73 GC,,C," <p>Using law of gravitations, the force between the two point masses is F = <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-763-40-1.png""/></p>
+<p>M<sub>1</sub> = mass of moon = 6.7 x 10<sup>22</sup> K<i>g</i></p>
+<p>M<sub>2</sub> = mass of earth = 6 x 10<sup>24</sup> K<i>g</i></p>
+<p><i>r</i> = distance between masses = 380 <i>mm</i></p>
+<p>G = universal gravitational constant = 6.7 x 10<sup>-11</sup> N<i>m<sup>2</sup></i>/K<i>g</i><sup>2</sup></p>
+<p> Let Q<sub>1</sub> and Q<sub>2</sub> be the charge on moon and earth respectively. Now the gravitational force must be balanced by the force of repulsion </p>
+<p> <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-763-40-2.png""/></p>
+<p>Q<sub>1</sub>Q<sub>2</sub> = 4<span class=""symbol"">p</span>ε<sub>0</sub>M<sub>1</sub>M<sub>2</sub>G</p>
+<p>but Q<sub>2</sub> = 10Q<sub>1</sub></p>
+<p> <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-763-40-3.png""/> = 10 x 4<span class=""symbol"">p</span>ω<sub>0</sub>M<sub>1</sub>M<sub>2</sub>G </p>
+<p><b>∴</b> Q<sub>2</sub> = 173 x 10<sup>12</sup> </p>
+<p>Q<sub>1</sub> = 17.3 x 10<sup>12</sup> C</p>
+<p>Q<sub>1</sub> = 17.3 TC.</p> "
+<p>An audio signal of FM radio station is sampled at a rate of 15% above the Nyquist rate. Signal is sampled in 512 levels and bandwidth of the signal is 4 KHz. The minimum bandwidth required to transmit this signal will be</p>,77 K bits/sec,92 K bits/sec,84.8 K bits/sec,82.8 K bits/sec,,D," <p>Nyquist rate = 2 x 4 kHz = 8 kHz
+</p>
+<p>Sampling rate = 8 kHz + 1.2 kHz = 9.2 kHz 
+</p>
+<p>Number of bits required = log<sub>2</sub>512 = 9 
+</p>
+<p>Thus bandwidth = 9 x 9.2 = 82.8 k bits/sec.</p> "
+"<p>A Hartley oscillator uses FET with <i>g</i><i><sub>m</sub></i> of 2 ms and <i>r</i><i><sub>d</sub></i> = 2 KΩ. The total coil inductance is 10 μH with turns ratio of input to output side of 1 : 10. It is tuned with a 50 pf capacitor. Find frequency of oscillations, amplifier gain margin in dB.</p>","7.11 MHz, 13.97 dB","7.3 MHz, 14.1 dB","6.93 MHz, 12.9 dB","7.4 MHz, 13 dB",,A," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/3-13-74-1.png""/></p>
+<p>= 7.11 MHz</p>
+<p>μ = <i>g</i><i><sub>m</sub></i> x <i>r</i><i><sub>d</sub></i></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/3-13-74-2.png""/></p> "
+<p>The recursion relation to solve <i>x</i> = <i>e</i><sup>-<i>x</i></sup> using Newton Raphson method is</p>,X<sub><i>n</i>+1</sub> = <i>e</i><sup><i>-x</i><sub><i>n</i></sub></sup>,X<sub><i>n</i>+1</sub> = X<sub><i>n</i></sub> - <i>e</i><sup><i>-x</i><sub><i>n</i></sub></sup>,"<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/5-03-25-3.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/5-03-25-4.png""/>",,C," <p><i>f</i>(<i>x<sub>n</sub></i>) = <i>x<sub>n</sub>e</i><i><sup>-xn</sup></i></p>
+<p><i>f</i>(<i>x<sub>n</sub></i>) = 1 + <i>e<sup>-x<sub>n</sub></sup></i> <i>f'</i>(<i>x<sub>n</sub></i>) = 1 + <i>e<sup>-x<sub>n</sub></sup></i></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/5-11-25.png""/></p> "
+"<p>In the circuit shown in the given figure the diode states at the extremely large negative values of the input voltage <i>v</i><i><sub>i</sub></i> are :<br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/3-02-22.png""/></p>","D<sub>1</sub> off, D<sub>2</sub> off","D<sub>1</sub> on, D<sub>2</sub> off","D<sub>1</sub> off, D<sub>2</sub> on","D<sub>1</sub> on, D<sub>1</sub> on, D<sub>2</sub> on",,B," <p>Input V<sub>1</sub> is extremely large negative value, so D<sub>1</sub> is ON. </p>
+<p>Diode D<sub>2</sub> is shunted by <i>R</i><sub>3</sub> and the junction of R<sub>2</sub>R<sub>3</sub> is more negative than the lower end. </p>
+<p>Diode D<sub>2</sub>'s cathode is at negative potential. </p>
+<p>But the anode of D<sub>2</sub> is less negative than E as the input voltage is extremely negative and D<sub>2</sub> is OFF.</p> "
+"<p>Consider a baseband binary PAM receiver shown below. The additive channel noise <i>n</i>(<i>t</i>) is whit with power spectral density S<sub>N</sub>(<i>f</i>) = N<sub>0</sub>/2 = 10<sup>-20</sup> W/Hz. The low-pass filter is ideal with unity gain and cutoff frequency 1 MHz. Let Y<sub><i>k</i></sub> represent the random variable <i>y</i>(<i>t<sub>k</sub></i>).<br/>Y<sub><i>k</i></sub> = nN<sub><i>k</i></sub> if transmitted bit b<sub><i>k</i></sub> = 0<br/>Y<sub><i>k</i></sub> = <i>a</i> + N<sub><i>k</i></sub> if transmitted bit b<sub><i>k</i></sub> = 1<br/>Where <i>N<sub>k</sub></i> represents the noise sample value. The noise sample has a probability density function, P<sub>N<i>k</i></sub>(<i>n</i>) = 0.5<span class=""symbol"">a</span><i>e</i><sup>-a|<i>n</i>|</sup> (This has mean zero and variance 2/<span class=""symbol"">a</span><sup>2</sup>). Assume transmitted bits to be equiprobable and threshold <i>z</i> is set to <span class=""symbol"">a</span>/2 = 10<sup>-6</sup> V.<br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/7-06-54.png""/><br/>The value of the parameter <span class=""symbol"">a</span> (in V<sup>-1</sup>) is</p>",10<sup>10</sup>,10<sup>7</sup>,1.414 x 10<sup>-10</sup>,2 x 10<sup>-20</sup>,,B," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/7-09-54.png""/></p>
+<p>→ exist in fourier transform</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/7-09-54-1.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/7-09-54-2.png""/></p>
+<p>Variance = <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/7-09-54-3.png""/>which is equal to power since mean is zero ⇒ <span class=""symbol"">a</span> = 10<sup>7</sup>.</p> "
+"<p>The probability density function of a random variable <i>x</i> is as shown. <br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/1-749-78-1.png""/> <br/> The mean of the distribution is:</p>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/1-749-79-1.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/1-746-42-2.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/1-749-79-2.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/1-744-21-3.png""/>",,C," <p>Mean of the distribution = <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/1-752-79-1.png""/>
+</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/1-752-79-2.png""/>
+</p>
+<p>A = 1/5 then find mean.</p> "
+"<p>The skin-depth of copper at a frequency of 3 GHz is 1 micron. At 12 GHz, for a non-magnetic conductor whose conductivity is <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/12-03-34.png""/> times of copper, the skin depth would be :</p>","<span class=""root"">9 x 4</span> μm","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/12-03-34-2.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/12-03-34-3.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/12-03-34-4.png""/>",,B," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/12-04-34.png""/>.</p> "
+"<p>If the <i>z</i>-transform of <i>x</i>(<i>n</i>) is given by <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/3-01-12.png""/> then the filter it represents is __________ .</p>",low pass,high pass,band pass,all pass,,D," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/3-08-12-1.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/3-08-12-2.png""/></p>
+<p>i.e. we can see that</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/3-08-12-3.png""/></p>
+<p>According to the property, the filter is an all-pass filter.</p> "
+"<p>The system of linear equations 4x + 2y = 1 , 2x + y = 6 has</p>",a unique solution,no solution,an infinite number of solutions,exactly two distinct solutions,,B," <p>4x + 1y = 7 → (1)</p>
+<p>2x + y = 6 → (2)</p>
+<p>(1) can be written as 2x + y = 3.5 → (3)</p>
+<p>Now LHS of equations (2) and (3) are same but RHS is different which is not possible. Hence no solution.</p> "
+"<p>Which of the following periodic waveforms will have only odd harmonics of sinusoidal waveform?<br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-01-4-1.png""/><br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-01-4-2.png""/><br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-01-4-3.png""/><br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-01-4-4.png""/><br/>Select the correct option using the codes given below Codes:</p>",1 and 2,1 and 3,1 and 4,2 and 4,,A," <p>The conditions for a signal <i>s</i>(<i>t</i>) to have odd harmonics of sinusoidal waveforms alone are given by</p>
+<p>(i) <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-04-4.png""/>, where <i>T</i> is the period and</p>
+<p>(ii) <i>s(t)</i> = - <i>s(t)</i> [i.e., odd function]</p>
+<p>The waveforms (1) and (2) satisfy condition (b).</p> "
+"<p>A control system is as shown in given figure The maximum value of gain K for which the system is stable is <br/> <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-755-32-1.png""/></p>",more than 5,equal to 5,less than 1,less than 5,,D," <p>Characteristic Equation is 1 + GH = 0 </p>
+<p>1 + <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-762-32-1.png""/> </p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-762-32-2.png""/> </p>
+<p>or <i>s</i><sup>3</sup> + 3<i>s</i><sup>2</sup> + 2<i>s</i> + (1 + K) = 0 </p>
+<p>Hurwitz criterion can be applied </p>
+<p><i>s<sup>3</sup></i> 1 2 <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-762-32-3.png""/> and (1 + K) both should be + ve </p>
+<p><i>s<sup>2</sup></i> 3 1 + K </p>
+<p><i>s<sup>1</sup></i> <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-762-32-4.png""/> 0 <b>∴</b> K should be more than - 1 and less than 5 </p>
+<p><i>s<sup>0</sup></i> 1 + K.</p> "
+<p>A transmitted using AM has in modulated carrier output power of 10 KW and can be modulated to a maximum depth of 90% by a sinusoidal modulating voltage without causing overloading. Find the value to which an modulated carrier power can be increased without resulting in overloading if the maximum permitted modulating index is 40%</p>,14 KW,12.96 KW,26.96 KW,2.96 KW,,B," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/11-04-25.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/11-04-25-1.png""/></p>
+<p>Now P<sub>T</sub> is fixed, μ = 0.4</p>
+<p>Then P<sub>C</sub> is P<sub>C</sub> = <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/11-04-25-2.png""/></p> "
+"<p>The signal flow graph of a system is shown in figure. The transfer function of the system is :<br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/16-02-7.png""/></p>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/16-02-7-1.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/16-02-7-2.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/16-02-7-3.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/16-02-7-4.png""/>",,D," <p>P<sub>1</sub> = 1 [Path R(<i>s</i> to C(<i>s</i>)]</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/16-05-7.png""/></p>
+<p>Δ = 1 - (L<sub>1</sub> - L<sub>2</sub> + L<sub>3</sub>) + L<sub>1</sub>L<sub>2</sub></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/16-05-7-1.png""/></p>
+<p>P<sub>1</sub> = 1; Δ<sub>1</sub> = 1</p>
+<p>[Non touching loop gain to forward path]</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/16-05-7-2.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/16-05-7-3.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/16-05-7-4.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/16-05-7-5.png""/>.</p> "
+"<p>The Laplace transform of the given waveform is <br/> <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-754-21-1.png""/></p>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-754-21-2.png""/> (1 - <i>e</i><sup><i>-s</i></sup> + <i>e</i><sup><i>-2s</i></sup>)","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-754-21-3.png""/> (1 - <i>e</i><sup><i>-s</i></sup> + <i>e</i><sup><i>-2s</i></sup>)","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-754-21-3.png""/> (1 - 2<i>e</i><sup><i>-s</i></sup> + <i>e</i><sup><i>-2s</i></sup>)","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-754-21-3.png""/> (1 - 2<i>e</i><sup><i>-s</i></sup>)",,C," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-761-21-1.png""/> </p>
+<p><i>f(t)</i> = <i>f<sub>1</sub>(t)</i> + <i>f<sub>2</sub>(t)</i> + <i>f<sub>3</sub>(t)</i> </p>
+<p>= 2<i>tu(t)</i> - 2 x 2(<i>t</i> - 1) + 2(<i>t</i> - 2)<i>u</i>(<i>t</i> - 2) </p>
+<p><i>f(s)</i> = <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-754-21-3.png""/> - <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-761-21-2.png""/><i>e<sup>-s</sup></i> + <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-754-21-3.png""/><i>e<sup>-2s</sup></i> </p>
+<p>= <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-754-21-3.png""/>(1 - 2<i>e<sup>-s</sup></i> + <i>e<sup>-2s</sup></i>).</p> "
+"<p>With respect to the following 555 timer circuit what will be the value of R<sub>A</sub> and R such that the LED turns on for a duration of 10 <i>ms</i> every time it receives negative trigger pulse. LED operating current = 20 <i>m</i>A, V<sub><i>f</i></sub> = 1.4 V, V<i>o</i> <sub>on</sub> = 13.4 V and C = 0.22 <i>nf</i><br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-788-48-1.png""/></p>","41.4 KΩ, 600 Ω","45 KΩ, 630 Ω","43.5 KΩ, 580 Ω","44.9 KΩ, 600 Ω",,A," <p>Timer operated in mono, mode </p>
+<p>R<sub>A</sub>C =<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-795-48-1.png""/> </p>
+<p><b>∴</b> R<sub>A</sub> = 41.4 KΩ </p>
+<p>R = <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-795-48-2.png""/> = 600 Ω.</p> "
+"<p>The region between a pin of parallel perfectly conducting planes of infinite extent is <i>y</i> and <i>z</i> directions is partially filled with a dielectric as shown below.<br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/12-03-42.png""/><br/>A 30 GHz TE<sub>10</sub> wave is incident on the air-dielectric interface. The value of reflection coefficient at the interface is</p>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/12-03-42-1.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/12-03-42-2.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/12-03-42-3.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/12-03-42-4.png""/>",,C," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/12-05-42.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/12-05-42-1.png""/></p> "
+"<p>Consider the program segment written for 8085 based system:<br/>LXI S, FFFFH<br/>MVI A, 00H<br/>MVI B, 0FH<br/>SUB B<br/>CNC GOLOC<br/>MVI A, FFH <br/>where in the program subroutine labelled ''GOLOC'' introduces delay of 28 T-states only. How many T-states are required to execute above program statement?</p>",41,69,44,Indeterminate,,C," <p>Since carry (CY) flag will not be set at the execution of ""SUB B"" instruction; </p>
+<p>check for CY flag fails but this requires 9(= 6 OP - CODE FETCH + 3T - states) T-states </p>
+<p><b>∴</b> Total T-states = 10 + 7 + 7 + 4 + 9 + 7 = 44.</p> "
+"<p>A discrete random variable X takes values from 1 to 5 with probabilities as shown in the table. A student calculates the mean of X and 3.5 and her teacher calculates the variance of X as 1.5. Which of the following statements is true?<br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/6-05-46.png""/></p>",Both the student and the teacher are right,Both the student and the teacher are wrong,Both the student is wrong but the teacher is right,The student is right but the teacher is wrong,,B, <p>The mean is 3.</p> 
+<p>The effective modulation index is:</p>,0.91287,0.8306,1,none of these,,C," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/1-752-84-1.png""/>
+</p>
+<p>μ<sub>1</sub> = 0.2 x 3 = 0.6
+</p>
+<p>μ<sub>2</sub> = 0.2 x 4 = 0.8
+</p>
+<p>μ = <span class=""root"">(0.36) + (0.64)</span> = 1.</p> "
+"<p>Consider Continuous time system <i>y(t)</i> = <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-790-72-1.png""/> <i>x(t)</i> - <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-790-72-2.png""/> . For the system to be linear response <i>ax<sub>1</sub>(t)</i> + <i>bx<sub>2</sub>(t)</i> should be <i>ay<sub>1</sub>(t)</i> + <i>by<sub>2</sub>(t)</i> with relation between constant '<i>a</i>' and '<i>b</i>' as __________ .</p>",<i>a</i> + <i>b</i> = 2,<i>a</i> x <i>b</i> = 1,<i>a</i> = <i>b</i>,<i>a</i> + <i>b</i> = 1,,D," <p>Let <i>ax<sub>1</sub>(t)</i> + <i>bx<sub>2</sub>(t)</i> = <i>m(t)</i> </p>
+<p>where <i>m(t)</i> is new input which causes the output <i>n(t)</i> </p>
+<p><i>n(t)</i> = <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-790-72-1.png""/><i>m(t)</i> - <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-790-72-2.png""/> </p>
+<p><i>n(t)</i> = <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-790-72-1.png""/>{<i>ax<sub>1</sub>(t)</i> + <i>bx<sub>2</sub>(t)</i>} - <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-790-72-2.png""/> </p>
+<p>add and subtract<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-797-72-1.png""/> </p>
+<p><i>n(t)</i> = <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-797-72-2.png""/><i>x<sub>1</sub>(t)</i> -<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-790-72-2.png""/><i>a</i> + <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-797-72-3.png""/><i>x<sub>2</sub>(t)</i> -<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-790-72-2.png""/><i>b</i> +<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-790-72-2.png""/><i>a</i> +<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-790-72-2.png""/><i>b</i> -<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-790-72-2.png""/> </p>
+<p><i>n(t)</i> =<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-797-72-4.png""/> +<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-790-72-2.png""/>{<i>a</i> + <i>b</i> - 1} </p>
+<p><i>n(t)</i> = <i>ay<sub>1</sub>(t)</i> + <i>by<sub>2</sub>(t)</i> +<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-790-72-2.png""/>{<i>a</i> + <i>b</i> - 1} </p>
+<p>For linearity, <i>n(t)</i> = <i>ay<sub>1</sub>(t)</i> + <i>by<sub>2</sub>(t)</i> </p>
+<p><b>∴</b> <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-790-72-2.png""/>{<i>a</i> + <i>b</i> - 1} = 0 <b>∴</b> <i>a</i> + <i>b</i> = 1.</p> "
+"<p>Hari (H), Gita (G), Irfan (I) and Saira (S) are sibiligs (i.e. brothers and sisters). All were born on 1st January. The age difference between any two successive siblings (that is born one after another) is less than 3 years. Given the following facts:<br/>(i) Hari's age + Gita's age &gt; Irfan's age + Saira's age.<br/>(ii) The age difference between Gita and Saira is 1 year. However, Gita is not the oldest and Saira is not the youngest.<br/>(iii) There are not twins.<br/>In what order were they born (Oldest first)?</p>",HSIG,SGHI,IGSH,IHSG,,B," <p>(i) H + G &gt; I + S</p>
+<p>(ii) |G - S| = 1</p>
+<p>Meaning G and S will be next to each other in the order. So the option A is ruled out.</p>
+<p>G not oldest</p>
+<p>S not youngest</p>
+<p>(iii) No twins</p>
+<p>Going by the options, we will try solve the equation, </p>
+<p>Taking as example with youngest aged 1, we can try to solve the equation, and correct the age (started with ages 4, 3, 2, 1) to suit conditions (i) and (ii) which gives 5, 4, 3, 1</p>
+<p>S I + 4 Generalizing, we can take their ages in terms of I's age, </p>
+<p>G I + 3 In this case, H + G &gt; I + S</p>
+<p>H I + 2 Since 2I + 5 &gt; 21 + 4</p>
+<p>I I</p>
+<p>I In this order, G is always less than I and H always less than S. </p>
+<p>So G &gt; I and H &lt; S</p>
+<p>S Implies G + H &lt; I + S, all values are positive</p>
+<p>H Defies condition i) Hence incorrect.</p>
+<p>I In this order H &lt; I, G &lt; S</p>
+<p>H Hence H + G &lt; I + S</p>
+<p>S Defies condition (i)</p>
+<p>G Hence incorrect.</p> "
+<p>If a signal <i>f</i>(<i>t</i>/2) has energy is E/<i>n</i> then energy of the signal <i>f(nt)</i> is equal to __________ (<i>n</i> is constant)</p>,E/2<i>n</i><sup>2</sup>,2E/<i>n</i><sup>2</sup>,E/<i>n</i><sup>2</sup>,2E<i>n</i><sup>2</sup>,,A," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-765-53-1.png""/></p>
+<p><b>∴</b> <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-765-53-2.png""/> </p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-765-53-3.png""/> <i>dt</i> = 2 <i>d</i>V </p>
+<p><b>∴</b> <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-765-53-4.png""/> </p>
+<p><b>∴</b> <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-765-53-5.png""/></p> "
+<p>The surface charge density on a conductor is 1.55 x 10<sup>-9</sup>C/m<sup>2</sup>. The conductor is immersed in water with ε = 78ε<sub>0</sub>.The electric field will be __________ .</p>,3 V/m,1.55 V/m,2 V/m,2.25 V/m,,D," <p>D = εE = 78ε<sub>0</sub>E </p>
+<p><b>∴</b> <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-761-14-1.png""/> </p>
+<p>E = 2.25 V/<i>m</i>.</p> "
+"<p>In the given figure<br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-02-11.png""/>.<br/>The damping coefficient for the given circuit is __________ .</p>",1/2,1/4,2,1,,A," <p>Damping coefficient is given by, </p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-06-11.png""/></p>
+<p>Substituting R = 1 Ω, L = 1 H </p>
+<p><b>∴</b> <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-06-11-1.png""/>.</p> "
+"<p>Consider the circuit <br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/1-744-11-1.png""/> <br/>The line 1 is at stuck at '0' then output Z is equal to:</p>",0,(C + D),1,"(<span style=""text-decoration:overline;"">A + B</span>) + (<span style=""text-decoration:overline;"">C + D</span>)",,B," <p>Output of AND gate is 0
+</p>
+<p>Thus Z = <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/1-750-11-1.png""/> = (C + D).</p> "
+"<p>In a infinite ladder circuit as shown above each resistance of <i>r</i> Ω then find R<sub>AB</sub><br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-05-44.png""/></p>",∞,"<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-05-44-2.png""/>",1.61<i>r</i>,none of the above,,C," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-11-44.png""/></p>
+<p>Let R<sub>AB</sub> = R</p>
+<p>Since ladder is infinite we can assume R<sub>CD</sub> = R</p>
+<p><b>∴</b> R = <i>r</i> + (<i>r</i> || R) = <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-11-44-1.png""/></p>
+<p><b>∴</b> <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-11-44-2.png""/></p>
+<p><b>∴</b> R<i>r</i> + R<sup>2</sup> = <i>r</i><sup>2</sup> + 2<i>r</i>R</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-11-44-3.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-11-44-4.png""/></p>
+<p>R = 1.61<i>r</i> or - 0.615<i>r</i></p>
+<p>R cannot be negative</p>
+<p><b>∴</b> R = 1.61<i>r</i>.</p> "
+<p>A 16 bit type ADC uses 1 MHz clock its maximum conversion time is __________ .</p>,16 μs,15 ms,6.5 ms,66 ms,,C," <p>Conversion time = <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/14-04-5.png""/></p>
+<p>⇒ <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/14-04-5-1.png""/> ⇒ 6.5 m sec.</p> "
+<p>A 300 MHz plane EM wave is propagating in free space. The wave is incident normally on an infinite copper slap. The antenuation constant for the wave is (σ<sub>copper</sub> = 5.8 x 10<sup>7</sup> mho/ m)</p>,262 x 10<sup>3</sup>,254 x 10<sup>3</sup>,352 x 10<sup>3</sup>,354 x 10<sup>3</sup>,,A," <p>Attenuation constant : <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/12-04-28.png""/>.</p> "
+<p>Transmitted voltage level is:</p>,11,7.8,7.348 V,none of these,,C," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/1-752-85-1.png""/>
+</p>
+<p>= 6<span class=""root"">1 + 0.5</span> = 6<span class=""root"">1.5</span> = 7.348 V.</p> "
+<p>Which of the following is neither power nor energy signal?</p>,sin 2<i>t</i> + cos 3<i>t</i>,"<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/1-744-13-1.png""/>",ramp,none of these,,C," <p>(A) is periodic thus power signal.
+</p>
+<p>(B) is non periodic but finite thus energy signal.
+</p>
+<p>(C) is non periodic but energy contain is infinite. 
+</p>
+<p>Thus it is neither power nor energy signal.</p> "
+"<p>A periodic voltage has following values for equal time intervals changing suddenly from one value to next : 0, 5, 10, 20, 50, 60, 50, 20, 10, 5, 0, - 5, - 10 etc.<br/>What would be the RMS value of a sine wave having the same peak value as that of the above mentioned periodic wave?</p>",42.2 V,19.098 V,38.2 V,none of these,,A," <p>R.M.S. value of a sine wave of the square peak =<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-793-26-1.png""/>= 42.2 V.</p> "

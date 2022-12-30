@@ -1,0 +1,584 @@
+﻿question,choices,answer
+"Round off 0.003086 to three significant figures.","[""0.003"",""0.00308"",""0.0031"",""0.00308""]",1
+"Round off 34.2841 to four significant figures.","[""34.2814"",""34.281"",""34.28"",""34.0""]",2
+"Which number has three significant figures?","[""0.0014"",""1.4141"",""0.01414"",""0.0141""]",3
+"Round off 149.691 to the nearest integer","[""149.69"",""149.7"",""150"",""149""]",2
+"Round off 2.371 x 10<sup>-8</sup> to two significant figures","[""2.4 x 10<sup>-8<\/sup>"",""2.37 x1 0<sup>-8<\/sup>"",""0.2371 x 10<sup>-9<\/sup>"",""0.002371 x 10<sup>-11<\/sup>""]",0
+"7 + 0i is","[""irrational number"",""real number"",""imaginary number"",""a variable""]",1
+"The number 0.123123123123……… is","[""irrational"",""surd"",""rational"",""transcendental""]",2
+"Round off 6785768.342 to the nearest one-tenth.","[""6785768"",""6785768.4"",""6785768.3"",""None of these""]",2
+"Express decimally: Fourteen Ten thousandths","[""0.0014"",""0.00014"",""0.014"",""0.14""]",0
+"MCMXCIV is equivalent to what number?","[""1964"",""1994"",""1984"",""1974""]",1
+"Express decimally: Forty-Seven millionth","[""0.00000047"",""0.0000047"",""0.000047"",""0.000000047""]",2
+"Express decimally: Seven hundred twenty-five hundred thousandths","[""0.000725"",""0.00725"",""0.0725"",""0.725""]",1
+"Express decimally: Four and two tenth","[""0.042"",""4.02"",""4.2"",""0.42""]",2
+"Express 45o in mils","[""80 mils"",""800 mils"",""8000 mils"",""80000 mils""]",1
+"What is the value in degrees of 1 radian?","[""90"",""57.3"",""100"",""45""]",1
+"3200 mils is equivalent to how many degrees?","[""45"",""90"",""180"",""270""]",2
+"An angular unit equivalent to 1/400 of the circumference of a circle is called","[""mil"",""degree"",""radian"",""grad""]",3
+"4800 mils is equivalent to ____ degrees.","[""135"",""270"",""235"",""142""]",1
+"How many degrees Celsius is 100 degrees Fahrenheit?","[""2.667\u00b0C"",""1.334\u00b0C"",""13.34\u00b0C"",""37.8\u00b0C""]",3
+"What is the absolute temperature of the freezing point of water in degree Rankine?","[""492"",""0"",""460"",""273""]",0
+"What is the Fahrenheit equivalent of 100 degrees Celsius?","[""200"",""180"",""212"",""100""]",2
+"The Temperature 45°C is equal to","[""45\u00b0F"",""113\u00b0F"",""57\u00b0F"",""81\u00b0F""]",2
+"How many degrees Celsius is 80 degrees Fahrenheit?","[""13.34"",""1.334"",""26.67"",""2.667""]",1
+"10 to the 12th power is the value of the prefix","[""Micro"",""Femto"",""Tera"",""Atto""]",2
+"The micro of m means","[""10<sup>-2<\/sup>"",""10<sup>-6<\/sup>"",""10<sup>-3<\/sup>"",""10<sup>-12<\/sup>""]",1
+"The prefix pico means","[""10<sup>-12<\/sup> of a unit"",""10<sup>-6<\/sup> of a unit"",""10<sup>-15<\/sup> of a unit"",""10<sup>-9<\/sup> of a unit""]",0
+"The prefix nano is opposite to","[""mega"",""giga"",""tera"",""hexa""]",1
+"1 foot is to 12 inches as 1 yard is to ____ spans","[""4"",""6"",""9"",""24""]",0
+"A one-inch diameter conduit is equivalent to","[""254 mm"",""25.4 mm"",""100 mm"",""2.54 mm""]",1
+"If a foot has 12 inches, then how many hands are there in one foot?","[""3"",""4"",""6"",""8""]",0
+"How many feet difference is 1 nautical mile and 1 statute mile?","[""100 feet"",""200 feet"",""400 feet"",""800 feet""]",3
+"In a hydrographic survey, a certain point below the surface of the water measures 12 fathoms. It is equivalent to a deep of how many feet?","[""72"",""60"",""48"",""36""]",0
+"The legendary ship, Titanic that sunk in 1912 was estimated to be at the sea bottom at a deep of 18 cables. How deep it is in feet?","[""12,000"",""12,343"",""12,633"",""12,960""]",3
+"How many square feet is 100 square meters?","[""328.1"",""929"",""32.81"",""1076""]",3
+"A certain luxury ship cruises Cebu to Manila at 21 knots. If it will take 21 hours to reach Manila from Cebu, the distance traveled by the ship is nearly","[""847.5 km"",""507.15 statute mile"",""441 statute mile"",""414 nautical mile""]",1
+"Carry out the following multiplication and express your answer in cubic meter: 8 cm x 5 mm x 2 m.","[""8 x 10<sup>-2<\/sup>"",""8 x 10<sup>2<\/sup>"",""8 x 10<sup>-3<\/sup>"",""8 x 10<sup>-4<\/sup>""]",3
+"Which of the following is equivalent to 1 hectare?","[""100 acres"",""2 acres"",""100 square meters"",""60000 square feet""]",0
+"Ten square statute mile is equivalent to _____ sections.","[""100"",""5"",""10"",""20""]",2
+"The land area of the province of Cebu is 5088.39 sq. km. This is equivalent to","[""5088.39 hectares"",""1964.64 sq. miles"",""2257907.2 acres"",""5.08839 acres""]",1
+"How many cubic feet is 100 gallons of liquid?","[""74.80"",""1.337"",""13.37"",""133.7""]",2
+"How many cubic meters is 100 gallons of liquid?","[""1.638"",""3.785"",""0.164"",""0.378""]",3
+"How many cubic meters is 100 cubic feet","[""3.785"",""28.31"",""37.85"",""2.831""]",3
+"Ten (10) cubic meters is equivalent to how many stare?","[""5"",""10"",""20"",""100""]",1
+"The standard acceleration due to gravity is","[""32.2 ft.\/s<sup>2<\/sup>"",""980 ft.\/s<sup>2<\/sup>"",""58.3 ft.\/s<sup>2<\/sup>"",""35.3 ft.\/s<sup>2<\/sup>""]",0
+"A 7 kg mass is suspended in a rope. What is the tension is the rope is SI?","[""68.67 N"",""70 N"",""71 N"",""72 N""]",0
+"A 10-liter pail is full of water. Neglecting the weight of the pail, how heavy is its water content?","[""5 kg"",""6.67 kg"",""10 kg"",""12.5 kg""]",2
+"The unit of work in mks system is known as Joules (J) and the unit of work in the cgs system is erg. How many ergs are there in 1 J?","[""106"",""107"",""105"",""104""]",1
+"One horsepower is equivalent to","[""746 watts"",""7460 watts"",""74.6 watts"",""7.46 watts""]",0
+"How many horsepower is 746 kilowatts","[""500"",""74.6"",""100"",""1000""]",3
+"An equipment costs P50,000.00 and depreciates 20% of the original costs during the first year, 16% during the second year, 12% during the third year, and so on, for 5 years. What is the value at the end of 5 years?","[""15,000"",""25,000"",""30,000"",""20,000""]",3
+"Find the sum of the first 100 positive integers that is exactly divisible by 7.","[""35,350"",""25,053"",""53,350"",""25,536""]",0
+"Find the 50th term of a geometric progression if the 20th term is 1200 and the 30th term is also 1200.","[""1200"",""2400"",""1400"",""4100""]",0
+"A woman started a chain letter by writing to four friends and requesting each to copy the letter and send it to four other friends. If the chain was unbroken until the 5th set of letters was mailed, how much was spent for postage at P8.00 per letter?","[""16,219"",""10,912"",""21,835"",""13,291""]",1
+"A soccer ball is dropped from height of 6 meters. On each rebound it rises 2/3 of the height from which it last fell. What distance has it traveled at the instant it strikes the ground for the 7th time?","[""27.89 m"",""19.86 m"",""20.87 m"",""24.27 m""]",0
+"The arithmetic mean of two numbers is 4, and their harmonic mean is 15/4. Find the numbers.","[""3 &amp; 5"",""1 &amp; 7"",""2 &amp; 6"",""0 &amp; 8""]",0
+"Find the real values of x and y satisfying the given equation: (2x + 3y) + i(3x – 5y) = 8 – i7.","[""x = 1, y = -2"",""x = -2, y = -1"",""x = 2, y = 1"",""x = 1, y = 2""]",3
+"From the equation 12x<sup>3</sup> – 8x<sup>2</sup> + kx + 18 = 0, find the value of k if one root is the negative of the other.","[""-17"",""-12"",""-27"",""-36""]",2
+"In how many ways can a group of 6 people be seated on a row of 6 seats if a certain 2 refuse to sit next to each other?","[""240 ways"",""480 ways"",""180 ways"",""320 ways""]",1
+"How many different 8-digit numbers can be formed from the digits 2, 2, 2, 5, 5, 7, 7, 7?","[""320"",""560"",""520"",""480""]",1
+"In how many ways can 10 different magazines be divide among A, B, and C so that A gets 5 magazines, B 3 magazines and C 2 magazines?","[""2,520"",""2,250"",""2,050"",""2,052""]",0
+"What is the probability of drawing 6 white balls from a jar containing 9 white, 4 red, and 3 blue balls?","[""0.01"",""0.02"",""0.10"",""0.03""]",0
+"Ten books consisting of 5 mathematics books, 3 physics books, and 2 chemistry books are placed in a bookcase at random. What is the probability that the same books are all together?","[""1\/420"",""3\/520"",""2\/241"",""5\/2463""]",0
+"In a racing contest, there are 240 vehicles which will have provisions that will last for 15 hours. Assuming constant hourly consumption for each vehicle, how long will the fuels provisions last if 8 vehicles withdraw from the race every hour after the first?","[""63"",""18"",""20"",""25""]",3
+"A clerk submitted the following reports. The average rate of production of radios is 1.5 units for every 1.5 hrs. work by 1.5 workers. How many radios were produce in one month by 30 men working 200 hrs. during the month?","[""4000"",""3800"",""5000"",""4200""]",0
+"A piece of rod of length 52 cm. is cut into two unequal parts. Each part is then bent to form a square. It is found that the total area of the two squares is 97cm2. Find the difference between the sides of each square.","[""3"",""5"",""4"",""6""]",1
+"Solve the trigonometric equation: 3sec2x – 4 = 0","[""Pi \/ 3 + 2n*Pi , 5Pi \/ 3 + 2n*Pi"",""Pi \/ 6 + 2n*Pi , 11 Pi \/ 6 + 2n*Pi"",""Pi \/ 3 + n*Pi , 5Pi \/ 3 + n*Pi"",""Pi \/ 6 + n*Pi , 11 Pi \/ 6 + n*Pi""]",3
+"In what quadrant will the angle Ө terminate, if sin Ө is positive and sec Ө is negative?","[""I"",""III"",""II"",""IV""]",2
+"If sec (2x – 3) = 1 / [sin(5x – 9)], determine the value x in degrees.","[""14.57\u00b0"",""16.36\u00b0"",""18.65\u00b0"",""14.61\u00b0""]",0
+"What is the maximum value of 3 – 2 cos Ө?","[""2"",""3"",""4"",""5""]",3
+"Solve the trigonometric equation: 2cosx + 1 = 0","[""Pi \/ 3 + 2n*Pi , 5Pi \/ 3 + 2n*Pi"",""-1\/2"",""2Pi \/ 3 + 2n*Pi , 4Pi \/ 3 + 2n*Pi"",""Pi \/ 2 + n*Pi""]",2
+"If log x + log5 = log (x + 5), what is the value of x?","[""0"",""1.25"",""1.5"",""2""]",1
+"If the angles of the triangle are 2x, x + 15, and 2x + 15, find the smallest of the angle in mills.","[""500 mils"",""600 mils"",""800 mils"",""900 mils""]",2
+"If (log10x)<sup>2</sup> = 3 – log10x<sup>2</sup>. Which of the following choices can be a value of x?","[""10<sup>-3<\/sup>"",""10<sup>2<\/sup>"",""x<sup>10<\/sup>"",""10x""]",0
+"Find the value of x in the equation (√5)2cosx = 5.","[""0\u00b0"",""45\u00b0"",""30\u00b0"",""60\u00b0""]",0
+"If ax = by and bp = aq , then","[""px = qy"",""xy = pq"",""xp = yq"",""qx = py""]",0
+"Solve the trigonometric equation: (3cosx + 7) (-2sinx – 1) = 0","[""7Pi \/ 6 + 2n*Pi , 11Pi \/ 6 + 2n*Pi"",""Pi \/ 3 + 2n*Pi , 2Pi \/ 3 + 2n*Pi"",""7Pi \/ 6 + n*Pi , 11Pi \/ 6 + n*Pi"",""-7 \/ 3 , -1 \/ 2""]",0
+"If the bearing of point A from B is S 40° W, then the bearing of B from A is:","[""N40\u00b0 E"",""S40\u00b0 W"",""N50\u00b0 W"",""N50\u00b0 E""]",0
+"A clock has a dial face of 12 in. radius. The minute hand is 9 inches while the hour hand is 6 inches. The plane of rotation of the hour hand is 2 inches above the plane of rotation of the minute hand. Find the distance between the tips of the minute and hour hand at 5:40 a.m.","[""7.48 in"",""6.48 in"",""9.17 in"",""10.16 in""]",2
+"Two towers are 60 m apart from each other. From the top of the shorter tower, the angle of elevation of the top of the taller tower is 40°. How high is the taller tower if the height of the smaller tower is 40 m?","[""90 m"",""100 m"",""80 m"",""70 m""]",0
+"Considering the earth to be a sphere of radius 6400 km, find the radius of the 60th parallel of latitude.","[""3,200 km"",""1,300 km"",""2,300 km"",""3,100 km""]",0
+"Solve the trigonometric equation: (6tan2x – 2) (2tan2x – 6) = 0","[""Pi \/ 6 + n*Pi , 5Pi \/ 6 + 2n*Pi , Pi \/ 3 + n*Pi , 2Pi \/ 3 + n*Pi"",""Pi \/ 6 , 5Pi \/ 6"",""sqrt(3) , sqrt(3)"",""Pi \/ 3 + n*Pi , 2Pi \/ 3 + n*Pi""]",0
+"From a point on a level ground, the angles of elevation of the top and bottom of the ABS-CBN tower situated on the top of the hill are measured as 48° and 40°, respectively. Find the height of the hill if the height of the tower is 116 feet.","[""348.56 m"",""368.36 m"",""258.96 m"",""358.49 m""]",3
+"A ladder, with its foot in the street, makes an angle of 30° with the street when its top rests on a building on one side of the street and makes an angle of 40° with the street when its top rests on a building on the other side of the street. If the ladder is 50 ft. long, how wide is the street?","[""96.2 ft."",""81.6 ft."",""78.5 ft."",""64.3 ft.""]",1
+"A wall is 15 ft. high and 10 ft. from a building. Find the length of the shortest ladder which will just touch the top of the wall and reach a window 20.5 ft. above.","[""42.54 m"",""35.54 m"",""54.45 m"",""47.45 m""]",0
+"A poll tilts toward the sun at an angle 10° from the vertical casts a shadow 9 meters long. If the angle of elevation from the tip of the shadow to the top of the pole is 43°, how tall is the pole?","[""10.2"",""7.54"",""10.45"",""8.25""]",0
+"If cos ϴ =√3 / 2, find 1 – tan2Ө..","[""-1"",""-1\/2"",""2\/3"",""2""]",2
+"Solve the trigonometric equation “-2sec2x + 4 = -2secx” in the interval [0, 2Pi].","[""Pi \/ 3 , 5Pi \/ 3 , Pi"",""Pi"",""-1 , 2"",""Pi \/ 6 , 5Pi \/ 6 , Pi""]",0
+"Solve the trigonometric equation 2sinx cos(-x) = 2sin(-x)sin(x)” in the interval [0, 2Pi].","[""0 , Pi , 3Pi \/ 4 , 7Pi \/ 4"",""3Pi \/ 4 , 7Pi \/ 4"",""0 , Pi \/ 2"",""Pi \/ 6 , 4Pi \/ 3""]",0
+"From a helicopter flying at 30,000 feet, the angles of depression of two cities are 28° and 55°. How far apart are the two cities?","[""35,415.56 ft."",""23,587.67 ft."",""53,452.67 ft."",""43,254.76 ft.""]",0
+"Two angles are adjacent and form an angle of 120°. If the larger angle is 20° less than three times the smaller angle, find the larger angle.","[""75\u00b0"",""30\u00b0"",""85\u00b0"",""65\u00b0""]",2
+"A pine tree broken over by the wind forms a right triangle with the ground. If the broken part makes an angle of 50° with the ground and the top of the tree is now 20 ft. from its base, how tall was the pine tree?","[""55 ft."",""65 ft."",""45 ft."",""35 ft.""]",0
+"A ball, 5 ft. in diameter, rolls up an incline of 18°20’. What is the height of the center of the ball above the base of the incline when the ball has rolled up 5 ft. up the incline?","[""3 ft."",""5 ft."",""4 ft."",""6 ft.""]",2
+"If coversed Sin Ө = 0.134, find the value of versed Sin Ө.","[""0.8"",""0.3"",""0.5"",""0.2""]",2
+"A vertical pole consists of two parts, each one half of the whole pole. At a point in the horizontal plane which passes through the foot of the pole and 36 m from it, the upper half of the pole subtend an angle whose tangent is 1/3. How high is the pole?","[""72"",""25"",""46"",""66""]",0
+"Solve the trigonometric equation “sin2x = -sin(-x)” in the interval [0, 2Pi].","[""0 , 2Pi"",""0 , Pi \/ 3 , Pi , 5Pi \/ 3"",""0 , Pi"",""Pi \/ 3 , Pi""]",1
+"If the sides of the triangle are 2x+3, x<sup>2</sup>+3x+3, and x<sup>2</sup>+2x, find the greatest angle.","[""100 deg."",""130 deg."",""120 deg."",""110 deg.""]",2
+"ABDE is a square section and BDC is an equilateral triangle with C outside the square. Compute the value of angle ACE.","[""30 deg."",""60 deg."",""50 deg."",""20 deg.""]",0
+"The angle of elevation of the top of a tower from a point A is 23°30’. From another point B, the angle of elevation of the top of the tower is 55°30’. The point A and B are 217.45 m apart and on the same horizontal plane as the foot of the tower. The horizontal angle subtended by A and B at the foot of the tower is 90 degrees. Find the height of the tower.","[""90.6 m"",""86.7 m"",""89.5 m"",""55.9 m""]",0
+"What is the smallest positive zero of function f(x) = 1/2 – sin(3x + Pi/3)?","[""Pi\/3"",""Pi\/6"",""Pi\/18"",""Pi\/36""]",1
+"A cylinder of radius 5 cm is inserted within a cylinder of radius 10 cm. The two cylinders have the same height of 20 cm. What is the volume of the region between the two cylinders?","[""500Pi"",""1000Pi"",""1500Pi"",""2000Pi""]",2
+"A data set has a standard deviation equal to 1. If each data value in the data set is multiplied by 4, then the value of the standard deviation of the new data set is equal to","[""3"",""1"",""2"",""4""]",2
+"A cone made of cardboard has a vertical height of 8 cm and a radius of 6 cm. If this cone is cut along the slanted height to make a sector, what is the central angle, in degrees, of the sector?","[""216"",""180"",""90"",""36""]",0
+"If sin(x) = -1/3 and Pi ≤ x ≤ 3Pi/2, then cot(2x) = ?","[""4\u221a2"",""2\u221a2"",""\u221a2"",""7\/(4\u221a2)""]",3
+"If in a triangle ABC, sin(A) = 1/5, cos(B) = 2/7, then cos(C) = ?","[""(\u221a45 \u2013 2\u221a24)\/35"",""(\u221a45 + 2\u221a24)\/35"",""(7\u221a24 + 10)\/35"",""0.85""]",0
+"What value of x makes the three terms x, x/(x + 1) and 3x/[(x + 1)(x + 2)] those of a geometric sequence?","[""1"",""1\/2"",""1\/4"",""-1\/2""]",3
+"The sum of the sides of a triangle is equal to 100 cm. If the angles of the triangle are in the continued proportions of 1:2:4. Compute the shortest side of the triangle.","[""17.545"",""19.806"",""18.525"",""14.507""]",1
+"The sides of the triangular field which contains an area of 2400 sq. cm. are in continued proportion of 3:5:7. Find the smallest side of the triangle.","[""45.74"",""63.62"",""95.43"",""57.67""]",3
+"In triangle ABC, angle A=80 deg. And point D is inside the triangle. If BD and CD are bisectors of angle B and C, solve for the angle BDC.","[""100 deg."",""130 deg."",""120 deg."",""140 deg.""]",1
+"Simplify the equation Sin2x (1 + cot2x).","[""0"",""cos2x"",""1"",""sec2xsin2x""]",2
+"Assuming the earth to be a sphere of radius 3960 mi, find the distance of point 36° N latitude from the equator.","[""2844 mi"",""2488 mi."",""2484 mi."",""4288 mi.""]",1
+"If sinx cosx + sin2x = 1, what are the values of x in degrees?","[""32.2, 69.3"",""-32.2, 69.3"",""20.9, 69.1"",""20.9, -69.1""]",2
+"If sin3x = cos6y then:","[""x \u2013 2y = 30"",""x + y = 180"",""x + 2y = 30"",""x + y = 90""]",2
+"Evaluate cot<sup>-1</sup> [2cos (sin<sup>-1</sup>0.5)].","[""20\u00b0"",""45\u00b0"",""30\u00b0"",""60\u00b0""]",2
+"An airplane can fly at airspeed of 300 mph. if there is a wind blowing towards the east at 50 mph, what should be the planes compass heading in order for its course to be 30 degrees. What will be the planes groundspeed if it flies at this course?","[""21.7\u00b0, 321.86 mph"",""31.6\u00b0, 351.68 mph"",""51.7\u00b0, 121.86 mph"",""12.7\u00b0, 331.86 mph""]",0
+"From the given parts of a spherical triangle ABC, compute for angle A. (a = 120°, b = 73°15’, c = 62°45’)","[""127\u00b045\u2019"",""115\u00b026\u2019"",""185\u00b015\u2019"",""137\u00b056\u2019""]",3
+"The diagonals of a parallelogram are 18 cm and 30 cm respectively. One side of a parallelogram is 12 cm. Find the area of the parallelogram.","[""214"",""216"",""361"",""108""]",1
+"A quadrilateral has sides equal to 12 cm, 20 cm, 8 cm, and 17 cm respectively. If the sum of the two opposite angles is 225°, find the area of the parallelogram.","[""168.18"",""78.31"",""70.73"",""186.71""]",0
+"The sides of the cyclic quadrilateral are a = 3 cm, b = 3 cm, c = 4 cm and d = 4 cm. Find the radius of the circle that can be inscribed in it.","[""2.71 cm"",""3.1 cm"",""1.51 cm"",""1.71 cm""]",3
+"How many diagonals can be drawn from a 12 sided polygon?","[""66"",""48"",""54"",""36""]",2
+"Find the area of a regular polygon whose side is 25 m and apothem is 17.2 m.","[""1075"",""925"",""1175"",""1275""]",0
+"Find the area of a pentagon which is circumscribing a circle having an area of 420.60 sq. cm.","[""386.57"",""450.54"",""486.29"",""260.24""]",2
+"As x increases from Pi/4 to 3Pi/4, |sin(2x)|","[""always increases"",""always decreases"",""increases then decreases"",""decreases then increases""]",3
+"If ax<sup>3</sup> + bx<sup>2</sup> + cx + d is divided by x – 2, then the reminder is equal to","[""a \u2013 b + c \u2013 d"",""8a + 4b + 2c + d"",""-8a + 4b -2c + d"",""a + b + c + d""]",1
+"A committee of 6 teachers is to be formed from 5 male teachers and 8 female teachers. If the committee is selected at random, what is the probability that it has an equal number of male and female teachers?","[""140\/429"",""150\/429"",""160\/429"",""170\/429""]",0
+"The range of the function f(x) = -|x – 2| – 3 is","[""y \u2265 2"",""y \u2264 -3"",""y \u2265 -3"",""y \u2264 -2""]",1
+"What is the period of the function f(x) = 3sin<sup>2</sup>(2x + Pi/4)?","[""3Pi"",""2Pi"",""Pi\/2"",""Pi\/3""]",2
+"It is known that 3 out of 10 television sets are defective. If 2 television sets are selected at random from the 10, what is the probability that 1 of them is defective?","[""1\/15"",""1\/10"",""1\/2"",""1\/3""]",0
+"In a triangle ABC, angle B has a size of 50°, angle A has a size of 32° and the length of side BC is 150 units. The length of side AB is","[""232"",""280"",""260"",""270""]",1
+"For the remainder of the division of x<sup>3</sup> – 2x<sup>2</sup> + 3kx + 18 by x – 6 to be equal to zero, k must be equal to","[""1"",""5"",""-9"",""-10""]",2
+"It takes pump (A) 4 hours to empty a swimming pool. It takes pump (B) 6 hours to empty the same swimming pool. If the two pumps are started together, at what time will the two pumps have emptied 50% of the water in the swimming pool?","[""1 hour 12 minutes"",""1 hour 20 minutes"",""2 hours 30 minutes"",""3 hours""]",0
+"The graph of r = 10 cos(Θ) , where r and Θ are the polar coordinates, is","[""a circle"",""an ellipse"",""a horizontal line"",""a hyperbola""]",0
+"If (2 – i)*(a – bi) = 2 + 9i, where <em>i</em> is the imaginary unit and a and b are real numbers, then a equals","[""2"",""1"",""0"",""-1""]",3
+"Lines L1 and L2 are perpendicular that intersect at the point (2, 3). If L1 passes through the point (0, 2), then line L2 must pass through the point","[""(0 , 3)"",""(1 , 1)"",""(3 , 1)"",""(5 , 0)""]",2
+"In a plane there are 6 points such that no three points are collinear. How many triangles do these points determine?","[""8"",""10"",""18"",""12""]",2
+"In a circle with a diameter of 10 meters, a regular five pointed star touching its circumference is inscribed. What is the area of the part not covered by the star?","[""60.42"",""40.58"",""40.68"",""50.47""]",3
+"Find the area of a hexagon with a square having an area of 72 sq. cm. inscribed in a circle which is inscribed in a hexagon.","[""124.71 sq. cm."",""150.26 sq. cm."",""150.35 sq. cm."",""130.77 sq. cm.""]",0
+"The tangent and a secant are to a circle from the same external point. If the tangent is 6 inches and the external segment of the secant is 3 inches, compute the length of the secant.","[""10"",""13"",""12"",""14""]",2
+"Two circles with radii 8 and 3 m are tangent to each other externally. What is the distance between the points of tangency of one of their common external tangencies?","[""7.8 m"",""9.8 m"",""10.7 m"",""6.7 m""]",1
+"The diameters of the two circles that are tangent internally are 18 and 8, respectively. What is the length of the tangent segment from the center of the larger circle to the smaller circle?","[""2"",""4"",""3"",""5""]",2
+"Three identical circles are tangent to each other externally. If the area of the curvilinear triangle enclosed between the points of tangency of the 3 circles is 16.13 cm<sup>2</sup>, compute the radius of each circle.","[""10 cm"",""13 cm"",""9 cm"",""15 cm""]",0
+"A semi – circle of radius 14 cm is bent to form a rectangle whose length is 1 cm more than its width. Find the area of the rectangle.","[""323.75 cm<sup>2<\/sup>"",""322.32 cm<sup>2<\/sup>"",""233.57 cm<sup>2<\/sup>"",""233.75 cm<sup>2<\/sup>""]",0
+"A swimming pool is constructed in the shape of two partially overlapping circles, each of radius 9 m. If the center each circle lies on the circumference of the other, find the perimeter of the swimming pool.","[""85.7 m"",""75.4 m"",""56.5 m"",""96.8 m""]",1
+"The length of the side of a rhombus is 5 cm. If the shorter diagonal is of length 6 cm. What is the area of the rhombus?","[""24 cm<sup>2<\/sup>"",""14 cm<sup>2<\/sup>"",""18 cm<sup>2<\/sup>"",""25 cm<sup>2<\/sup>""]",0
+"Two squares each of 12 cm sides overlap each other such that the overlapping region is a regular polygon. Determine the area of the overlapping region thus formed.","[""110.9 cm<sup>2<\/sup>"",""119.3 cm<sup>2<\/sup>"",""121.5 cm<sup>2<\/sup>"",""117.4 cm<sup>2<\/sup>""]",1
+"The side of a regular pentagon is 25 cm. If the radius of its inscribed circle is 15 cm, find the area of the pentagon.","[""937.5 cm<sup>2<\/sup>"",""784.6 cm<sup>2<\/sup>"",""825.75 cm<sup>2<\/sup>"",""857.65 cm<sup>2<\/sup>""]",0
+"The capacities of two hemispherical tanks are in the ratio 64:125. If 4.8 kg of paint is required to paint the outer surface of the smaller tank, then how many kilograms of paint would be needed to paint the outer surface of the larger tank?","[""8.5 kg"",""6.7 kg"",""7.5 kg"",""9.4 kg""]",2
+"A wooden cone of altitude 10 cm is to be cut into two parts of equal weight. How far from the vertex should the cut parallel to the base be made?","[""6.65 cm"",""3.83 cm"",""7.94 cm"",""8.83 cm""]",2
+"Find the value of x in (x + 1)/3 + 2x/4 = 47 – 2x","[""16.47"",""12.87"",""18.27"",""20.17""]",0
+"Evaluate: 64^x . 4^y","[""256^(xy)"",""4^(x +3y)"",""64^(x +3y)"",""4^(3x + y)""]",3
+"Evaluate: y = (((4*5^(2n+1))-3)-10*5^(2n-1))/2*5^(2n)","[""y = 5^n"",""y = 9"",""y = 5^2n"",""y = 18""]",2
+"Give the factors of a^2 – x^2","[""2a \u2013 2x"",""(a + x)(a \u2013 x)"",""(a +x)(a + x)"",""2x \u2013 2a""]",0
+"Factor the expression x^2 + 6x + 8 as completely as possible","[""(x + 4)(x + 2)"",""(x \u2013 4)(x + 2)"",""(x \u2013 4)(x \u2013 2)"",""(x + 6)(x + 2)""]",0
+"Find the value of k so that 4x^2 + 6x + k is a perfect square","[""36"",""2.5"",""9"",""2.25""]",0
+"If <em>p – q = 5</em> and pq = (k/2), then <em>p^2 + q^2</em> equals","[""k"",""25k"",""25 + k"",""k\/25""]",2
+"Simplify: sqrt(ab/(ab)^(1/3))","[""(ab)^(1\/3)"",""(ab)^1(1\/2)"",""ab\/(ab)^(1\/2)"",""(ab)\/(ab)^(1\/3)""]",3
+"If x to the 3/4 power equals 8, x equals","[""-9"",""6"",""9"",""16""]",3
+"Solve for x: sqrt((x+2)(sqrt(2x+3)))-3 = 0","[""3"",""23"",""3 and 23"",""20""]",0
+"If f(x) = 2x^2+ 2x + 4, What is f(2)?","[""4x + 2"",""16"",""x^2 + x + 2"",""8""]",1
+"If n is any possible integer, when (n – 1)(n – 2)(n – 3)……(3)(2)(1) = ?","[""e^(n \u2013 1)"",""(n \u2013 1)!"",""n!"",""(n \u2013 1)^n""]",2
+"What is the least common multiple of 15 and 18?","[""3"",""5"",""90"",""270""]",2
+"What is the lowest common factor of 10 and 32?","[""320"",""2"",""180"",""90""]",1
+"The numbers 12 and 16 has the greatest common divisor of","[""2"",""4"",""6"",""192""]",1
+"The polynomial x^3+ 4x^2 – 3x + 8 is divided by x – 5, then the remainder is,","[""175"",""140"",""218"",""200""]",2
+"Find the quotient of 3x^5 – 4x^3+ 2x^2+ 36x + 48 divided by x^3 – 2x^2 + 6","[""3x^2 \u2013 4x \u2013 8"",""3x^2 + 4x + 8"",""3x^2 \u2013 6x \u2013 8"",""3x^2 + 6x \u2013 8""]",3
+"Find the remainder if we divide 4y^3+ 16y^ 2+ 6y -4 by (2y + 3)","[""10"",""11"",""15"",""13""]",2
+"Given: <em>f(x) = (x + 3)(x – 4) + 4</em>. When <em>f(x)</em> is divided by <em>(x – k),</em> the remainder is <strong>k</strong>. Find: <strong>k</strong>","[""2"",""4"",""6"",""8""]",1
+"The expression x^4 + ax^3 +5x^2 + bx + 6 when divided by (x – 2) leaves a remainder of 16 and when divided by (x + 1) leaves a remainder of 10. Find a and b.","[""a = 5, b = 7"",""a = -5, b = 7"",""a = -5, b = -7"",""a = 5, b = -7""]",1
+"The mean of x and y is a, the mean of y and z is b and the mean of x and z is c. What is the mean of x, y and z?","[""(a + b + c)\/3"",""(a + b + c)\/2"",""(a + b + c)\/(a*b*c)"",""(a*b*c)\/(a + b + c)""]",2
+"Find the mean proportional of 4 and 36","[""72"",""24"",""12"",""20""]",2
+"The arithmetic mean of 80 numbers is 55. If two numbers namely 250 and 850 are removed, what is the arithmetic mean of the remaining numbers?","[""42.31"",""50"",""38.62"",""57.12""]",2
+"The arithmetic mean of 6 numbers is 17. If two numbers are added to the progression, the new set of numbers will have an arithmetic mean of 19. What are the two numbers if their difference is four?","[""21, 25"",""23, 27"",""8, 12"",""16, 20""]",2
+"In the equation x^2 + x = 0, one root is x equal to","[""1"",""5"",""1\/4"",""None of these""]",3
+"Solve the value of “<strong>a</strong>” in the equation a^8 – 17a^4 + 16 = 0.","[""\u00b1 2"",""\u00b1 3"",""\u00b1 4"",""\u00b1 5""]",0
+"Solve for x that satisfies the equation 6x^2 – 7x – 5 = 0.","[""5\/3 or -1\/2"",""3\/2 or 3\/8"",""7\/5 or -7\/15"",""3\/5 or 3\/4""]",1
+"Find the values of x in the equation 24x^2 + 5x – 1 = 0.","[""(1\/6 , 10"",""(1\/6 , 1\/5)"",""(1\/2 , 1\/5)"",""(1\/8, 1\/3)""]",1
+"Determine k so that the equation 4x^2 + kx + 1 = 0 will have just one real solution.","[""3"",""4"",""5"",""6""]",1
+"Solve for x: 10x^2 + 10x +1 = 0","[""-0.113, -0.887"",""-0.331, -0.788"",""-0.113, -0.788"",""-0.311, -0.887""]",1
+"If 1/3 and -3/2 are the roots of a quadratic equation, then the equation is","[""6x^2 + 7x \u2013 3 = 0"",""6x^2 \u2013 7x + 3 = 0"",""6x^2- 7x \u2013 3 = 0"",""6x^2- 7x + 1 = 0""]",2
+"Which of the following is a root of this quadratic equation, 30x^2 + 49x + 20 = 0?","[""0.6"",""-0.6"",""-0.8"",""0.75""]",2
+"What is the discriminant of the equation 4x^2 = 8x – 5?","[""8"",""-16"",""16"",""-8""]",1
+"Given the equation 3x^2 + Bx + 12 = 0. What is the value of B so that the roots of the equation are equal?","[""4"",""8"",""10"",""-12""]",2
+"Find the term involving y5 in the expansion of (2x^2+ y)^10.","[""8064x^10 y^5"",""8046 x^5 y^5"",""8046 x^10 y^5"",""4680 x^5 y^5""]",2
+"Find the 5th term of the expansion of (x^2 + 1/x)^10","[""260x^6"",""5040x^6"",""210x^6"",""420x^6""]",2
+"In the expression of (x + 4y)^12, the numerical coefficient of the 5th term is,","[""63,360"",""126,720"",""506,880"",""253,440""]",2
+"What is the fourth term of the expansion of (x + x^2)^1000?","[""1650x^103"",""161700x^103"",""167100x^103"",""167100x^103""]",2
+"What is the numerical coefficient of the next term next to 495x^8y^4?","[""660"",""792"",""990"",""1100""]",1
+"Find the 6th term of the expression of ((1/2a) – 3)^16","[""-66939\/256a^11"",""-66339\/128a^11"",""-33669\/256a^11"",""-39396\/128^11""]",1
+"What is the coefficient of the term free of x of the expression of (2x – 5y)^4?","[""256"",""526"",""265"",""625""]",1
+"Find the 6th term of (3x – 4y)^6.","[""-148,288x^3y^5"",""-548x^3y^5"",""-154,288x^3y^5"",""-1,548,288x^3y^5""]",1
+"What is the sum of the coefficients of the expansion of (2x – 1)^20?","[""0"",""1"",""2"",""3""]",2
+"What is the sum of the coefficients of the expansion of (x + y – z)^8","[""0"",""1"",""2"",""3""]",2
+"Find the value of log848","[""1.86"",""1.68"",""1.78"",""1.98""]",2
+"Evaluate the log6 845 = x.","[""3.76"",""5.84"",""4.48"",""2.98""]",2
+"What is the value of log to the base 10 of 1000^3.3?","[""10.9"",""99.9"",""9.9"",""9.5""]",2
+"What is the value of (log 5 to the base 2) + (log 5 to the base 3)?","[""7.39"",""3.79"",""3.97"",""9.37""]",1
+"Find the value of log<sub>4</sub> (log<sub>3</sub> 5)","[""1.460"",""0.275"",""1.273"",""0.165""]",1
+"Find: log<sub>4</sub> (1/7)","[""1\/n"",""n"",""-1\/n"",""\u2013n""]",1
+"IF log<sub>a</sub> 10 = 0.25, what is the value of log10 = a?","[""2"",""4"",""6"",""8""]",0
+"Given: log<sub>b</sub> y = 2x + log<sub>b</sub> x. Which of the following is true?","[""y = b^2x"",""y = 2xb"",""y = (2x\/b)"",""y = xb^2x""]",1
+"Which value is equal to log to the base e of e to the -7x power?","[""-7x"",""10 to the -7x power"",""7"",""-7 log to the base 10""]",1
+"Log of the nth root x equals log of x to 1/n power and also equal to:","[""log x \/ n"",""n log x"",""log(x to the base 1\/n power)\/n"",""(n \u2013 1)log x""]",1
+"Log (MN) is equal to:","[""Log M \u2013 N"",""Log M + N"",""N Log M"",""Log M + Log N""]",3
+"What expression is equivalent to log(x) – log(y + z)?","[""log x + log y + log z"",""log [x \/ (y + z)]"",""log x \u2013 log y \u2013 log z"",""log y + log (x + z)""]",1
+"Solve for the value of x in the following equation: x<sup>3</sup>logx = 100x.","[""12"",""8"",""30"",""10""]",1
+"Given: log 6 + log 4 = log 4 log (32 + 4^x). Find: x","[""2"",""3"",""4"",""6""]",0
+"If log of 2 to the base 2 plus log of x to the base 2 is equal to 2, then the value of x is,","[""4"",""-2"",""2"",""-1""]",2
+"Find the value of x if log12 x = 2.","[""144"",""414"",""524"",""425""]",2
+"Mary is 24 years old. Mary is twice as old as Ann was when Mary has as old as ANN is now. How old is Ann now?","[""16"",""18"",""12"",""15""]",1
+"The sum of Kim’s and Kevin’s ages is 18. In 3 years, Kim will be twice as old as Kevin. What are their ages now?","[""4, 14"",""5, 13"",""7, 11"",""6, 12""]",1
+"Robert is 15 years older than his brother Stan. However “y” years ago, Robert was twice as old as Stan. If Stan is now “b” years old and b&gt;y, find value of (b – y)?","[""15"",""16"",""17"",""18""]",0
+"JJ is three times as old as Jan – Jan. Three years ago, JJ was four times as old as Jan – Jan. The sum of their ages is","[""20"",""24"",""28"",""36""]",3
+"A girl is one-third as old as her brother and 8 years younger than her sister. The sum of their ages is 38 years. How old is the girl?","[""4"",""5"",""6"",""7""]",2
+"Paula is now 18 yrs. old and her colleague Monica is 14 yrs. old. How many years ago was Paula twice as old as Monica?","[""5"",""7"",""8"",""10""]",3
+"A father tells his son, “I was your age now when you where born”. If the father is now 38 yrs. old, how old was his son 2 years ago?","[""15"",""17"",""19"",""21""]",1
+"Six years ago, Karen was five times as old as Gina. In five years, Karen will be three times as old as Gina. What is the present age of Gina?","[""17"",""16"",""15"",""14""]",0
+"At present, the sum of the parents’ ages is twice the sum of the children’s ages. Five years ago, the sum of the parents’ ages was 4 times the sum of the children’s ages. Fifteen years hence, the sum of the parents’ ages will be equal to the sum of the children’s ages. How may children are there?","[""3"",""4"",""5"",""6""]",2
+"Nhicole is now twice as old as Vryan. Four years ago, Nhicole was three times as old as Vryan then. How old is Nhicole?","[""14"",""16"",""18"",""24""]",1
+"A 400-mm pipe can fill the tank alone in 5 hours and another 600-mm pipe can fill the tank alone in 4 hours. A drain pipe 300-mm can empty the tank in 20 hours. With all the three pipes open, how long will it take to fill the tank?","[""2.00 hours"",""2.50 hours"",""2.25 hours"",""2.75 hours""]",1
+"A tank is filled with an intake pipe in 2 hours and emptied by an outlet pipe in 4 hours. If both pipes are opened, how long will it take to fill the empty tank?","[""3 hours"",""4 hours"",""5 hours"",""6 hours""]",1
+"A tank can be filled in 9 hours by one pipe, 12 hours by second pipe and can be drained when fully by a third pipe in 15 hours. How long will it take to fill an empty tank with all pipes operation?","[""7 hrs and 12 mins."",""7 hrs and 32 mins."",""7 hrs and 42 mins."",""7 hrs and 50 mins.""]",3
+"If A can do the work in “x” days and B in “y” days, how long will they finish the job working together?","[""(x + y)\/xy"",""(x + y)\/2"",""(xy)\/(x + y)"",""Sqrt(x)""]",2
+"Pedro can paint a fence 50% faster than Juan and 20% faster than Pilar, and together they can paint a given fence in 4 hours. How long will it take Pedro to paint the same fence if he had to work alone?","[""6"",""8"",""10"",""12""]",2
+"Glenn can paint a house in 9 hours while Stewart can paint the same house in 16 hours. They work together for 4 hours. After 4 hours, Stewart left and Glenn finished the job alone. How many more days did it take Glenn to finish the job?","[""2.75 hours"",""2.50 hours"",""2.25 hours"",""3.00 hours""]",0
+"It takes Butch twice as long as it takes Dan to do a certain piece of work. Working together they can do the work in 6 days. How long would it take Dan to do it alone?","[""9 days"",""10 days"",""11 days"",""12 days""]",0
+"A and B working together can finish painting a house in 6 days. A working alone can finish it in 5 days less than B. How long will it take each of them to finish the work alone?","[""8, 13"",""10, 15"",""6, 11"",""7, 12""]",1
+"A and B can do a piece of work in 42 days, B and C in 31 days and C and A in 20 days. In how many days can all of them do the work together?","[""19"",""17"",""21"",""15""]",0
+"It takes Myline twice as long as Jeana to do a certain piece of work. Working together, they can finish the work in 6 hours. How long could it take Jeana to do it alone?","[""9 hours"",""18 hours"",""12 hours"",""14 hours""]",1
+"Mike, Loui and Joy can mow the lawn in 4, 6 and 7 hours respectively. What fraction of the yard can they mow in 1 hour if they work together?","[""47\/84"",""45\/84"",""84\/47"",""39\/60""]",0
+"A farmer can plow the field in 8 days. After working for 3 days, his son joins him and together they plow the field in 3 more days. How many days will it require for the son to plow the field alone?","[""10"",""11"",""12"",""13""]",2
+"Crew no.1 can finish installation of an antenna tower in 200 man-hour while Crew no.2 can finish the same job in 300 man-hour. How long will it take both crews to finish the same job, working together?","[""100 man-hour"",""120 man-hour"",""140 man-hour"",""160 man-hour""]",1
+"On one job, two power shovels excavate 20,000 cubic meters of earth, the larger shovel working 40 hours and the smaller for 35 hours. On another job, they removed 40,000 cubic meters with the larger shovel working 70 hours and the smaller working 90 hours. How much earth can each remove 1 hour working alone?","[""169.2, 287.3"",""178.3, 294.1"",""173.9, 347.8"",""200.1, 312.4""]",2
+"Ten liters of 25% salt solution and 15 liter of 35% salt solution are poured into a drum originally containing 30 liters of 10% salt solution. What is the percent concentration of salt in the mixture?","[""19.55%"",""22.15%"",""27.05%"",""25.72%""]",0
+"A Chemist of a distillery experimented on two alcohol solutions of different strength, 35% alcohol and 50% alcohol, respectively. How many cubic meters of each strength must he use in order to produce a mixture of 60 cubic meters that contain 40% alcohol?","[""20 m^3 of solution w\/ 35% alcohol, 40 m^3 of solution w\/ 50% alcohol"",""50 m^3 of solution w\/ 35% alcohol, 20 m^3 of solution w\/ 50% alcohol"",""20 m^3 of solution w\/ 35% alcohol, 50 m^3 of solution w\/ 50% alcohol"",""40 m^3 of solution w\/ 35% alcohol, 20 m^3 of solution w\/ 50% alcohol""]",3
+"A goldsmith has two alloys of gold, the first being 70% pure and the second being 60% pure. How many ounces of the 60% pure gold must be used to make 100 ounces of an alloy which will be 66% gold?","[""40"",""35"",""45"",""38""]",0
+"Two thousand (2000) kg of steel containing 8% nickel is to made by mixing a steel containing 14% nickel with another containing 6% nickel. How much of each is needed?","[""1500 kg of steel w\/ 14% nickel, 500 kg of steel w\/ 6% nickel"",""750 kg of steel w\/ 14% nickel, 1250 kg of steel w\/ 6% nickel"",""500 kg of steel w\/ 14% nickel, 1500 kg of steel w\/ 6% nickel"",""1250 kg of steel w\/ 14% nickel, 750 kg of steel w\/ 6% nickel""]",2
+"How much water must be evaporated from 10 kg solution which has 4% salt to make a solution of 10% salt?","[""4 kg"",""5 kg"",""6 kg"",""7 kg""]",2
+"If a two digit number has x for its unit’s digit and y for its ten’s digit, represent the number","[""10x + y"",""10y + x"",""yx"",""xy""]",1
+"One number is 5 less than the other. If their sum is 135, What are the numbers?","[""85, 50"",""80, 55"",""70, 65"",""75,60""]",2
+"Ten less than four times a certain number is 14. Determine the number.","[""6"",""7"",""8"",""9""]",0
+"The sum of two numbers is 21 and one number is twice the other. Find the numbers.","[""6, 15"",""7, 14"",""8, 13"",""9, 12""]",1
+"If eight is added to the product of nine and the numerical number, the sum is seventy-one. Find the unknown number.","[""5"",""6"",""7"",""8""]",2
+"Find the fraction such that if 2 is subtracted from its terms becomes 1/4, but if 4 is added to its terms it becomes 1/2.","[""3\/5"",""5\/12"",""5\/14"",""6\/13""]",2
+"The product of 1/4 and 1/5 of a number is 500. What is the number?","[""50"",""75"",""100"",""125""]",2
+"If 3 is subtracted from the numerator of a certain fraction, the value of the fraction became 3/5. If 1 is subtracted from the denominator of the same fraction, it becomes 2/3. Find the original fraction.","[""35\/55"",""36\/55"",""3\/7"",""32\/41""]",1
+"The denominator of a certain fraction is three more than twice the numerator. If 7 is added to both terms of the fraction, the resulting fraction is 3/5. Find the original fraction.","[""8\/5"",""13\/5"",""5\/13"",""3\/5""]",2
+"Find the product of two numbers such that twice the first added to the second equals 19 and three times the first is 21 more than the second.","[""24"",""32"",""18"",""20""]",0
+"The tens’ digit of a number is 3km than the units ‘, digit. If the number is divided by the sum of the digits, the quotient is 4 and the remainder is 3. What is the original number?","[""36"",""47"",""58"",""69""]",1
+"The second of the four numbers is three less than the first, the third is four more than the first and the fourth is two more than the third. Find the fourth number if their sum is 35?","[""10"",""11"",""12"",""13""]",3
+"A jogger starts a course at a steady rate of 8 kph. Five minutes later, a second jogger starts the same course at 10 kph. How long will it take the second jogger to catch the first?","[""20 min"",""21 min"",""22 min"",""18 min""]",0
+"A boat man rows to a place 4.8 miles with the stream and back in 14 miles with the stream in the same time as 3 mile against the stream.","[""1.5 mile per hour"",""1 mile per hour"",""0.8 mile per hour"",""0.6 mile per hour""]",3
+"A man rows downstream at the rate 5 mph and upstream at the rate of 2 mph. How far downstream should he go if he is to return 7/4 hours after leaving?","[""2.5 miles"",""3.3 miles"",""3.1 miles"",""2.7 miles""]",0
+"An airplane flying the wing, took 2 hours to travel 1000 km and 2.5 Hours in flying back. What was the wind velocity in kph?","[""50"",""60"",""70"",""40""]",0
+"A boat travels downstream in 2/3 of the time as it goes going upstream. If the velocity of the river’s current is still water.","[""40 kph"",""50 kph"",""30 kph"",""60 kph""]",0
+"Two planes level Manila for a southern city, a distance of 900km. Plane A travels as a ground speed of 90 kph faster than the plane B. Plane A arrived in their destination 2 hours and 15 min ahead a plane B. What is the ground speed of plane A?","[""205 kph"",""315 kph"",""20 kph"",""287 kph""]",2
+"A train, an hour after starting, meets with accidents which detain it an hour, after which if proceeds at 3/5 of its former rate and arrives three hour after time; but had the accident happened 50 miles farther on the line, it would have arrived a one and one-half hour sooner. Find the length of the journey.","[""910\/9 miles"",""800\/9 miles"",""920\/9 miles"",""850\/9 miles""]",1
+"On a certain trip, Edgar drive 231 km in exactly the same time as Erwin drive 308 km. If Erwin’s rate exceeded that of Edgar by 13 kph, determine the rate Erwin.","[""39 kph"",""44 kph"",""48 kph"",""52 kph""]",3
+"In how many minutes after 2 o’clock will the hands of the clock extend in opposite directions for the first time?","[""42.4 minutes"",""42.8 minutes"",""43.2 minutes"",""43.6 minutes""]",3
+"In how many minutes after 7 o’clock will the hands be directly opposite each other for the first time?","[""5.22 minutes"",""5.33 minutes"",""5.46 minutes"",""5.54 minutes""]",2
+"What time after 3 o’clock will the hands of the clock be together for the first time?","[""3:02.30"",""3:17.37"",""3:14.32"",""3:16.36""]",3
+"At what time after 12:00 noon will the hour hand and minute hand of the clock first form an angle of 1200?","[""12:18.818"",""12:21.818"",""12:22.818"",""12:24.818""]",1
+"At what time between 8 and 9 o’clock will the minute hand coincide with the hour hand?","[""8:42.5"",""8:43.2"",""8:43.6"",""8:43.9""]",2
+"A man left his home at past 3:00 o’clock PM as indicated in his wall clock, between 2 to 3 hours after, he returns home and noticed the hands of the clock interchanged. At what time did the man leave his home?","[""3:31.47"",""3:21.45"",""3:46.10"",""3:36.50""]",0
+"From the time 6:15 PM to the time 7:45 PM of the same day, the minute hand of a standard clock describe an arc of","[""60\u00b0"",""90\u00b0"",""180\u00b0"",""540\u00b0""]",0
+"A storage battery discharge at a rate which is proportional to the charge. If the charge is reduced by 50% of its original value at the end of 2 days, how long will it take to reduce the charge to 25% of its original charge?","[""3"",""4"",""5"",""6""]",0
+"The resistance of a wire varies directly with its length and inversely with its area. If a certain piece of wire 10 m long and 0.10 cm in diameter has a resistance of 100 ohms, what will its resistance be if it is uniformly stretched so that its length becomes 12 m?","[""80"",""90"",""144"",""120""]",3
+"Given that “<strong>w</strong>” varies directly as the product of “x” and “y” and inversely as the square of “z” and that w = 4 when x = 2, y = 6 and z = 3. Find the value of “<strong>w</strong>” when x = 1, y = 4, and z = 2.","[""3"",""4"",""5"",""6""]",0
+"The electric power which a transmission line can transmit is proportional to the product of its design voltage and current capacity, and inversely to the transmission distance. A 115-kilovolt line rate at 100 amperes can transmit 150 megawatts over 150 km. how much power, in megawatts can a 230 kilovolt line rate at 150 amperes transmit over 100 km?","[""785"",""485"",""675"",""595""]",2
+"The time required for an elevator to lift a weight varies directly with the weight and the distance through which it is to be lifted and inversely as the power of the motor. If it takes 30 seconds for a 10 hp motor to lift 100 lbs. through 50 feet, what size of motor is required to lift 800 lbs. in 40 seconds through 40 feet?","[""42"",""44"",""46"",""48""]",3
+"The selling price of TV set is double that of its cost. If the TV set was sold to a customer at a profit of 25% of the net cost, how much discount was given to the customer?","[""33.7%"",""35.7%"",""37.5%"",""34.7%""]",2
+"A group of EE examinees decided to hire a mathematics tutor from Excel Review Center and planned to contribute equal amount for the tutor’s fee. If there were 10 more examinees, each would have paid P 2 less. However, if there were 5 less examinees, each would have paid P 2 more. How many examinees are there in the group?","[""14"",""16"",""18"",""20""]",1
+"A bookstore purchased a best selling price book at P 200.00 per copy. At what price should this book be sold so that giving a 20% discount, the profit is 30%?","[""P 450"",""P 500"",""P 357"",""P 400""]",2
+"Jojo bought a second hand Betamax VCR and then sold it to Rudy at a profit of 40%. Rudy then sold the VCR to Noel at a profit of 20%. If Noel paid P 2,856 more than it cost to Jojo, how much did Jojo paid for the unit?","[""P 4,000"",""P 4,100"",""P 4,200"",""P 4,300""]",2
+"In a certain community of 1,200 people, 60% are literate. Of the males, 50% are literate and of the females 70% are literate. What is the female population?","[""850"",""500"",""550"",""600""]",3
+"A merchant has three items on sale, namely a radio for P 50, a clock for P 30 and a flashlight for P1. At the end of the day, he sold a total of 100 of the three items and has taken exactly P 1,000 on the total sales. How many radios did he sale?","[""16"",""20"",""18"",""24""]",0
+"The arithmetic mean of a and b is","[""(a + b)\/2"",""sqrt(ab)"",""(ab)\/2"",""(a \u2013 b)\/2""]",0
+"The sum of three arithmetic means between 34 and 42 is","[""114"",""124"",""134"",""144""]",0
+"Gravity causes a body to fall 16.1 ft. in the first second, 48.3 in the 2nd second, 80.5 in the 3rd second. How far did the body fall during the 10th second?","[""248.7 ft."",""308.1 ft."",""241.5 ft."",""305.9 ft.""]",3
+"If the first term of an arithmetic progression is 25 and the fourth term is 13, what is the third term?","[""17"",""18"",""19"",""20""]",0
+"Find the 30th term of the arithmetic progression 4, 7, 10…","[""75"",""88"",""90"",""91""]",3
+"How many terms of the progression 3, 5, 7… must be taken in order that their sum will be 2600?","[""48"",""49"",""50"",""51""]",2
+"In a pile of logs, each layer contains one more log than the layer above and the top contains just one log. If there are 105 logs in the pile, how many layers are there?","[""11"",""12"",""13"",""14""]",3
+"What is the sum of the progression 4, 9, 14, 19… up to the 20th term?","[""1030"",""1035"",""1040"",""1045""]",0
+"A stack of bricks has 61 bricks in the bottom layer, 58 bricks in the second layer, 55 bricks in the third layer, and so on until there are 10 bricks in the last layer. How many bricks are there all together?","[""638"",""637"",""639"",""640""]",2
+"Determine the sum of the progression if there are 7 arithmetic mean between 3 and 35","[""171"",""182"",""232"",""216""]",0
+"A besiege fortress is held by 5700 men who have provisions for 66 days. If the garrison losses 20 men each day, for how many days can the provision hold out?","[""72"",""74"",""76"",""78""]",0
+"In the recent “Gulf War” in the Middle east, the allied forces captured 6400 of Saddam’s soldiers and with provisions on hand it will last for 216 meals while feeding 3 meals a day. The provision lasted 9 more days because of daily deaths. At an average, how many died per day?","[""15"",""16"",""17"",""18""]",1
+"A Geodetic Engineering student got a score of 30% on Test 1 of the five number test in Surveying. On the last number he got 90% in which a constant difference more on each number that he had on the immediately preceding one. What was his average score in Surveying?","[""50"",""55"",""60"",""65""]",2
+"If the sum is 220 and the first term is 10, find the common difference if the last term is 30.","[""2"",""5"",""3"",""2\/3""]",0
+"Once a month, a man puts some money into the cookie jar. Each month he puts 50 centavos more into jar than the month before. After 12 years, he counted his money, he had P 5,436. How much money did he put in the jar in the last month?","[""P73.50"",""P75.50"",""P74.50"",""P72.50""]",0
+"A girl on a bicycle coasts downhill covering 4 feet the first second 12 feet the second second, and in general, 8 feet more each second than the previous second. If she reaches the bottom at the end of 14 seconds, how far did she coasts?","[""782 feet"",""780 feet"",""784 feet"",""786 feet""]",2
+"When all odd numbers from 1 to 101 are added, the result is","[""2500"",""2601"",""2501"",""3500""]",1
+"How many times will a grandfather’s clock strikes in one day if it strikes only at the hours and strike once at 1 o’clock, twice at 2 o’clock, thrice at 3 o’clock ad so on?","[""210"",""24"",""156"",""300""]",2
+"To conserve energy due to the present energy crisis, the Meralco tried to readjust their charges to electrical energy users who consumes more than 2000 kw-hours. For the first 100 kw-hr, they charged 40 centavos and increasing at a constant rate more than the preceding one until the fifth 100 kw-hr, the charge is 76 centavos. How much is the average charge for the electrical energy per 100 kw-hr?","[""58 centavos"",""60 centavos"",""62 centavos"",""64 centavos""]",0
+"The 3rd term of a harmonic progression is 15 and the 9th term is 6. Find the 11th term","[""4"",""5"",""6"",""7""]",2
+"Find the fourth term of the progression 1/2, 0.2, 0.125…","[""1\/10"",""1\/11"",""0.102"",""0.099""]",2
+"Find the 9th term of the harmonic progression 3, 2, 3/2…","[""3\/5"",""3\/8"",""4\/5"",""4\/9""]",0
+"Find the sum of 4 geometric means between 160 and 5","[""130"",""140"",""150"",""160""]",2
+"The fourth term of a geometric progression is 216 and the 6th term is 1944. Find the 8th term","[""17649"",""17496"",""16749"",""17964""]",1
+"Determine x so that: x, 2x + 7, 10x – 7 will be a geometric progression","[""7, -7\/12"",""7, -5\/6"",""7, -14\/5"",""7, -7\/6""]",3
+"If one third of the air in a tank is removed by each stroke of an air pump, what fractional part of the total air is removed in 6 strokes?","[""0.7122"",""0.9122"",""0.6122"",""0.8122""]",2
+"A product has a current selling of P 325.00. If its selling price is expected to decline at the rate of 10% per annum because of obsolescence, what will be its selling price four years hence?","[""P 213.23"",""P 202.75"",""P 302.75"",""P 156.00""]",0
+"The number 28, x + 2, 112 form a geometric progression. What is the 10th term?","[""14336"",""13463"",""16433"",""16344""]",0
+"The sum of the first 10 terms of a geometric progression 2, 4, 8… is","[""1023"",""2046"",""225"",""1596""]",1
+"If the first term of a geometric progression is 9 and the common ratio is -2/3, find the fifth term","[""8\/5"",""16\/9"",""15\/7"",""13\/4""]",1
+"The seventh term is 56 and the twelfth term is -1792 of a geometric progression. Find the common ratio and the first term. Assume the ratios are equal.","[""-2, 5\/8"",""-1, 5\/8"",""-1, 7\/8"",""-2, 7\/8""]",3
+"A person has 2 parents, 4 grandparents, 8 great grandparents and so on. How many ancestors during the 15 generations preceding his own, assuming no duplication?","[""131070"",""65534"",""32768"",""16383""]",2
+"In the PBA three-point shootout contest, the committee decided to give a prize in the following manner; A prize of P 1 for the first basket made, P 2 for the second, P 4 for the third, P 8 for the fourth and so on. If the contestant wants to win a prize no less than a million pesos, what is the minimum number of baskets to be converted?","[""20"",""19"",""18"",""21""]",0
+"In a benefit show, a number of wealthy men agreed that the first one to arrive would pay 10 centavos to enter and each later arrive would pay twice as much as the preceding man. The total amount collected from all of them was P 104,857.50. How many wealthy men paid?","[""18"",""19"",""20"",""21""]",2
+"A man mailed 10 chain letters to ten of his friends with a request to continue by sending a similar letter to each of their ten friends. If this continue for 6 sets of letters and if all responded, how much will the Phil. Postal office earn if minimum postage costs P 4 per letter?","[""P 6,000,000"",""P 60,000"",""P 2,222,220"",""P 4,444,440""]",3
+"Determine the sum of the infinite series s = 1/3 + 1/9 + 1/27 +…+ (1/3)^n","[""4\/5"",""3\/4"",""2\/3"",""1\/2""]",3
+"Under favorable condition, a single cell bacteria divided into two about every 20 minutes. If the same rate of division is maintained for 10 hours, how many organisms is produced from a single cell?","[""1,073,741"",""1,730,740"",""1,073,741,823"",""1,037,417""]",2
+"A rubber ball is made to fall from a height of 50 feet and is observed to rebound 2/3 of the distance it falls. How far will the ball travel before coming to rest if the ball continues to fall in this manner?","[""100 feet"",""125 feet"",""150 feet"",""175 feet""]",2
+"What is the fraction in lowest term equivalent to 0.133133133?","[""133\/666"",""133\/777"",""133\/888"",""133\/999""]",3
+"Find the sum of the infinite geometric progression 6, -2, 2/3…","[""9\/2"",""5\/2"",""7\/2"",""11\/2""]",0
+"Find the sum of 1, -1/5, 1/25…","[""5\/6"",""2\/3"",""0.84"",""0.72""]",0
+"If equal spheres are piled in the form of a complete pyramid with an equilateral triangles as base, find the total number of spheres in the pile if each side of the base contains 4 spheres.","[""15"",""20"",""18"",""21""]",1
+"Find the 6th term of the sequence 55, 40, 28, 19, 13….","[""10"",""9"",""8"",""11""]",0
+"In the series 1, 1, 1/2, 1/6, 1/24… determine the 6th term","[""1\/80"",""1\/74"",""1\/100"",""1\/120""]",3
+"Find the 1987th digit in the decimal equivalent to 1785/9999 starting from the decimal point","[""8"",""1"",""7"",""5""]",0
+"In a class of 40 students, 27 like Calculus and 25 like Chemistry. How many like both Calculus and Chemistry?","[""10"",""11"",""12"",""13""]",2
+"A club of 40 executives, 33 like to smoke Marlboro and 20 like to smoke Philip Morris. How many like both?","[""10"",""11"",""12"",""13""]",3
+"A survey of 100 persons revealed that 72 of them had each at restaurant P and that 52 of them had eaten at restaurant Q. which of the following could not be the number of persons in the surveyed group who had eaten at both P and Q?","[""20"",""22"",""24"",""26""]",2
+"The probability for the ECE board examinees from a certain school to pass the subject Mathematics is 3/7 and for the subject Communications is 5/7. If none of the examinees fails both subject and there are 4 examinees who pass both subjects, find the number of examinees from the school who took the examinations.","[""20"",""25"",""30"",""28""]",3
+"In a commercial survey involving 1000 persons on brand preference, 120 were found to prefer brand x only, 200 prefer brand y only, 150 prefer brand z only, 370 prefer either brand x or y but not z, 450 prefer brand y or z but not x and 370 prefer either z or x but not y. How many persons have no brand preference, satisfied with any of the three brands?","[""280"",""230"",""180"",""130""]",0
+"A toothpaste firm claims that in a survey of 54 people, they were using either Colgate, Hapee of Close-up brand. The following statistics were found: 6 people used all three brands, 5 used only Hapee and Close-up, 18 used Hapee or Close-up, 2 used Hapee, 2 used only Hapee and Colgate, 1 used Close-up and Colgate, and 20 used only Colgate. Is the survey worth paying for?","[""Neither yes or no"",""Yes"",""No"",""Either yes or no""]",2
+"How many four-letter words beginning and ending with a vowel without any letter repeated can be formed from the word “personnel”?","[""40"",""480"",""20"",""312""]",0
+"Five different mathematics books, 4 different electronics books and 2 different communications books are to be placed in a shelf with the books of the same subject together. Find the number of ways in which the books can be placed.","[""292"",""5760"",""34560"",""12870""]",2
+"The number of ways can 3 nurses and 4 engineers be seated on a bench with the nurses seated together is","[""144"",""258"",""720"",""450""]",2
+"If 15 people won prizes in the state lottery (assuming that there are no ties), how many ways can these 15 people win first, second, third, fourth and fifth prizes?","[""4,845"",""116,260"",""360,360"",""3,003""]",2
+"How many 4 digit numbers can be formed without repeating any digits from the following digits: 1, 2, 3, 4 and 6?","[""120"",""130"",""140"",""150""]",0
+"How many permutations are there if the letters PNRCSE are taken six at a time?","[""1440"",""480"",""720"",""360""]",2
+"In how many ways can 6 distinct books be arranged in a bookshelf?","[""720"",""120"",""360"",""180""]",0
+"What is the number of permutations of the letters in the word BANANA?","[""36"",""60"",""52"",""42""]",1
+"A PSME unit has 10 ME’s, 8 PME’s and 6 CPM’s. If a committee of 3 members, one from each group is to be formed, how many such committees can be formed?","[""2,024"",""12,144"",""480"",""360""]",2
+"In how many ways can a PSME Chapter with 15 directors choose a President, a Vice-President, a Secretary, a Treasurer and an Auditor, if no member can hold more than one position?","[""360,360"",""32,760"",""3,003"",""3,603,600""]",0
+"Four different colored flags can be hung in a row to make coded signal. How many signals can be made if a signal consists of the display of one or more flags?","[""64"",""66"",""68"",""62""]",0
+"In how many ways can 4 boys and 4 girls be seated alternately in a row of 8 seats?","[""1152"",""2304"",""576"",""2204""]",2
+"There are four balls of four different colors. Two balls are taken at a time and arranged in a definite order. For example if a white and red balls are taken, one definite arrangement is white first, red second, and another arrangement is red first, white second. How many such arrangements are possible?","[""24"",""6"",""12"",""36""]",2
+"How many different ways can 5 boys and 5 girls form a circle with boys and girls alternate?","[""28,800"",""2,880"",""5,600"",""14,400""]",1
+"There are four balls of different colors. Two balls at a time are taken and arranged any way. How many such combinations are possible?","[""36"",""3"",""6"",""12""]",2
+"How many 6-number combinations can be generated from the numbers from 1 to 42 inclusive, without repetition and with no regards to the order of the numbers?","[""850,668"",""5,245,786"",""188,848,296"",""31,474,716""]",1
+"Find the total number of combinations of three letters J, R, T taken 1, 2, 3 at a time","[""7"",""8"",""9"",""10""]",0
+"In how many ways can you invite one or more of your five friends in a party?","[""15"",""31"",""36"",""25""]",1
+"In how many ways can a committee of three consisting of two chemical engineers and one mechanical engineer can be formed from four chemical engineers and three mechanical engineers?","[""18"",""64"",""32"",""None of these""]",0
+"In Mathematics examination, a student may select 7 problems from a set of 10 problems. In how many ways can he make his choice?","[""120"",""530"",""720"",""320""]",0
+"How many committees can be formed by choosing 4 men from an organization of a membership of 15 men?","[""1390"",""1240"",""1435"",""1365""]",3
+"A semiconductor company will hire 7 men and 4 women. In how many ways can the company choose 9 men and 6 women who qualified for the position?","[""680"",""540"",""480"",""840""]",1
+"There are 13 teams in a tournament. Each team is to play with each other only once. What is the minimum number of days can they play without any team playing more than one game in any day?","[""11"",""12"",""13"",""14""]",2
+"There are five main roads between the cities A and B, and four between B and C. in how many ways can a person drive from A to C and return, going through B on both trips without driving on the same road twice?","[""260"",""240"",""120"",""160""]",1
+"There are 50 tickets in a lottery in which there is a first and second prize. What is the probability of a man drawing a prize if he owns 5 tickets?","[""50%"",""25%"",""20%"",""40%""]",2
+"Roll a pair of dice. What is the probability that the sum of two numbers is 11?","[""1\/36"",""1\/9"",""1\/18"",""1\/20""]",2
+"Roll two dice once. What is the probability that the sum is 7?","[""1\/6"",""1\/8"",""1\/4"",""1\/7""]",0
+"In a throw of two dice, the probability of obtaining a total of 10 or 12 is","[""1\/6"",""1\/9"",""1\/12"",""1\/18""]",1
+"Determine the probability of drawing either a king or a diamond in a single draw from a pack of 52 playing cards.","[""2\/13"",""3\/13"",""4\/13"",""1\/13""]",2
+"A card is drawn from a deck of 52 playing cards. Find the probability of drawing a king or red card.","[""0.5835"",""0.5385"",""0.3585"",""0.8535""]",1
+"A coin is tossed 3 times. What is the probability of getting 3 tails up?","[""1\/8"",""1\/16"",""1\/4"",""7\/8""]",0
+"The probability of getting at least 2 heads when a coin is tossed four times is","[""11\/16"",""13\/16"",""1\/4"",""3\/8""]",3
+"A fair coin is tossed three times. What is the probability of getting either 3 heads or 3 tails?","[""1\/8"",""3\/8"",""1\/4"",""1\/2""]",2
+"The probability of getting a credit in an examination is 1/3. If three students are selected at random, what is the probability that at least one of them got a credit?","[""19\/27"",""8\/27"",""2\/3"",""1\/3""]",0
+"There are 3 questions in a test. For each question 1 point is awarded for a correct answer and none for a wrong answer. If the probability that Janine correctly answers a question in the test is 2/3, determine the probability that she gets zero in the test.","[""8\/27"",""4\/9"",""1\/30"",""1\/27""]",3
+"In the ECE Board Examinations, the probability that an examinee will pass each subject is 0.8. What is the probability that an examinee will pass at least two subjects out of the three board subjects?","[""70.9%"",""80.9%"",""85.9%"",""89.6%""]",3
+"In a multiple choice test, each question is to be answered selecting 1 out of 5 choices, of which only 1 is right. If there are 10 questions in a test, what is the probability of getting 6 right of pure guesswork?","[""10%"",""6%"",""0.44%"",""0.55%""]",3
+"From a box containing 6 red balls, 8 white balls and 10 blue balls, one ball is drawn at random. Determine the probability that it is red or white.","[""1\/3"",""7\/12"",""5\/12"",""1\/4""]",1
+"From a bag containing 4 black balls and 5 white balls, two balls are drawn one at a time. Find the probability that both balls are white. Assume that the first ball is returned before the second ball is drawn.","[""25\/81"",""16\/81"",""5\/18"",""40\/81""]",0
+"A bag contains 3 white and 5 black balls. If two balls are drawn in succession without replacement, what is the probability that both balls are black?","[""5\/16"",""5\/28"",""5\/32"",""5\/14""]",3
+"A urn contains 4 black balls and 6 white balls. What is the probability of getting 1 black and 1 white ball in two consecutive draws from the urn?","[""0.24"",""0.27"",""0.53"",""0.04""]",2
+"From a bag containing 4 black balls and 5 white balls, two balls are drawn one at a time. Find the probability that one ball is white and one ball is black. Assume that the first ball is returned before the second ball is drawn.","[""16\/81"",""25\/81"",""20\/18"",""40\/81""]",3
+"A group of 3 people enter a theater after the lights had dimmed. They are shown to the correct group of 3 seats by the usher. Each person holds a number stub. What is the probability that each is in the correct seat according to the numbers on seat and stub","[""1\/6"",""1\/4"",""1\/2"",""1\/8""]",0
+"From 20 tickets marked with the first 20 numerals, one is drawn at random. What is the chance that it will be a multiple of 3 or of 7?","[""1\/2"",""8\/15"",""3\/10"",""2\/5""]",3
+"The terms of a sum may be grouped in any manner without affecting the result. this is law known as:","[""Commutative Law"",""Distributive Law"",""Associative Law"",""Reflexive Law""]",2
+"A number is divided into two parts such that when the greater part is divided by the smaller part, the quotient is 3, and the remainder is 5. Find the smaller number if the sum of the two numbers is 37.","[""8"",""29"",""22"",""16""]",0
+"Mary was four times as old as Lea ten years ago. If she is now twice as old as Lea, how old is Mary.","[""25"",""40"",""30"",""15""]",2
+"The sum of three succeeding odd integers is 75. The largest integer is","[""25"",""29"",""27"",""31""]",2
+"A ship propelled to move at 25 mi/ hr in still water, travels 4.2 miles upstream in the same time that it can travel 5.8 miles downstream. Find the speed of the stream.","[""4"",""6"",""8"",""10""]",0
+"Jose’s rate of doing work three times as fast as Bong. On given day Jose and Bong work together for 4 hours then Bong was called away and Jose finishes the rest of the job in 2 hours. How long would it take Bong to do the complete job alone?","[""18 hrs."",""22 hrs."",""16 hrs."",""31 hrs.""]",1
+"The length of a rectangle is 3 times its width. If the width of the rectangle is 5 inches, what is the rectangle’s area, in square inches?","[""15"",""20"",""30"",""75""]",3
+"For all x &gt;2, (2x<sup>2</sup> + 2x – 12) / (x – 2) simplifies to","[""2(x + 3)"",""2(x \u2013 2)"",""x + 3"",""2(x + 3)(x \u2013 2)""]",0
+"If the hypotenuse of a right triangle is 10 inches long and one of its legs is 5 inches long, how long is the other leg?","[""5"",""5 \u221a3"",""5\u221a5"",""7.5""]",1
+"In the standard (x,y) coordinate plane, the graph of (x + 3)2 + (y + 5)2 = 16 is a circle. What is the circumference of the circle, expressed in coordinate units?","[""4\u03c0"",""5\u03c0"",""3\u03c0"",""8\u03c0""]",3
+"How many solutions are there to the equation x<sup>2</sup> – 7 = 0?","[""1"",""2"",""4"",""7""]",1
+"A circle with center (4,-5) is tangent to the y-axis in the standard (x,y) coordinate plane. What is the radius of this circle?","[""4"",""5"",""16"",""25""]",0
+"Angle A is an acute angle and sin(A) = 11/14. What is the value of cos(A)?","[""\u221a3 \/ 14"",""5\u221a3 \/ 14"",""\u221a(3\/14)"",""5\/14""]",1
+"What are the values of a and b, if any, where – a|b + 4| &gt; 0?","[""a &gt; 0 and b \u2260 4"",""a &lt; 0 and b \u2265 -4"",""a &lt; 0 and b \u2260 -4"",""a &lt; 0 and b \u2264 -4""]",2
+"In a shipment of televisions, 1/50 of the televisions are defective. What is the ratio of defective to non defective televisions?","[""1\/50"",""1\/49"",""49\/1"",""50\/1""]",1
+"Which of the following is divisible (with no remainder) by 4?","[""214133"",""510056"",""322569"",""952217""]",1
+"A particle travels 1 x 10<sup>6</sup> meters per second in a straight line for 5 x 10<sup>-6</sup> seconds. How many meters has it traveled?","[""4"",""5"",""6"",""7""]",1
+"The length of sides AB and AC in the triangle below are equal. What is the measure of angle ∠ A if angle ∠ C is 70°?","[""70\u00b0"",""55\u00b0"",""40\u00b0"",""110\u00b0""]",2
+"ABC is an equilateral triangle. AH is perpendicular to BC and has a length of 2√3 inches. What is the area, in square inches, of triangle Δ ABC.","[""3\u221a3"",""2\u221a3"",""4\u221a3"",""8\u221a3""]",2
+"Find the value of k in the quadratic equation (2k + 2) x<sup>2</sup> + (4 – 4k) x + k – 2 = 0 so that the roots are reciprocal of each other.","[""4"",""2"",""-4"",""-2""]",2
+"Solve for x if 8y = 3x – 11","[""8\/3) y + 11"",""(8\/3) y \u2013 11"",""(8y \u2013 11)\/3"",""(8y + 11)\/3""]",3
+"When graphed in the (x, y) coordinate plane, at what point do the lines 2x + 3y = 5 and x = -2 intersect?","[""(-2, 0)"",""(-2, 5)"",""(0, 5)"",""(-2, 3)""]",3
+"The area of a trapezoid is 0.5h(b1 + b2), where h is the altitude, and b1 and b2 are the lengths of the parallel bases. If a trapezoid has an altitude of 15 inches, an area of 105 square inches, and one of the bases 22 inches, what is the perimeter, in inches, of the trapezoid?","[""8"",""45"",""60"",""30""]",0
+"If you drove at average speed of 66 miles per hour, what distance, in miles, did you drive in 99 minutes?","[""65.34"",""108.9"",""150"",""90.45""]",1
+"If x and y are any real numbers such that 0 &lt; x &lt; 2 &lt; y , which of these must be true?","[""x &lt; (xy)\/2 &lt; y"",""0 &lt; xy &lt; 2x"",""x &lt; xy &lt; 2"",""0 &lt; xy &lt; 2""]",0
+"In the right triangle ABC below, what is the cosine of angle A if the opposite side is 3 and the adjacent side is 4.","[""5\/3"",""5\/4"",""3\/5"",""4\/5""]",2
+"In a triangle ABC with segment BD, B is on AD, ∠ BAC and ∠ ACB measure 26° and 131° respectively. What is the measure of ∠CBD?","[""26\u00b0"",""157\u00b0"",""23\u00b0"",""154\u00b0""]",1
+"The total surface area of all six sides of the rectangular box below is equal to 128 square inches. What is x in inches?","[""6"",""4"",""2"",""8""]",0
+"ABC is a right triangle. ABDE is a square of area 200 square inches and BCGF is a square of 100 square inches. What is the length, in inches, of AC?","[""10\u221a3"",""10\u221a2"",""10\u221a1"",""10""]",0
+"What is the slope of the line: 4x = -3y + 8","[""4"",""-3\/4"",""-4\/3"",""3""]",2
+"Which of the following is equal to √45","[""5\u221a3"",""9\u221a5"",""3\u221a5"",""3""]",2
+"What is the smallest value of x that satisfies the equation: x(x + 4) = -3","[""1"",""-1"",""3"",""-3""]",3
+"A group of 7 friends are having lunch together. Each person eats at least 3/4 of a pizza. What is the smallest number of whole pizzas needed for lunch?","[""7"",""5"",""6"",""8""]",2
+"There are n students in a school. If r% among the students are 12 years or younger, which of the following expressions represents the number of students who are older than 12?","[""n(1 \u2013 r)"",""100(1 \u2013 r)n"",""n(1 \u2013 r) \/ 100"",""n(100 \u2013 r) \/ 100""]",3
+"The measures of angles A, B and C of a triangle are in the ratio 3:4:5. What is the measure, in degrees, of the largest angle?","[""75\u00b0"",""15\u00b0"",""12\u00b0"",""90\u00b0""]",0
+"If x + 4y = 5 and 5x + 6y = 7, then 3x + 5y = ?","[""12"",""6"",""4"",""2""]",1
+"For all real numbers x, the minimum value of 1 + 2cos(4x) is","[""0"",""-1"",""-2"",""-4""]",1
+"What is the largest possible product for 2 odd integers whose sum is equal to 32?","[""64"",""255"",""256"",""1024""]",1
+"If (a + b)<sup>2</sup> = 25 and (a – b) <sup>2</sup> = 45, then a<sup>2</sup> + b<sup>2</sup> = ?","[""35"",""70"",""140"",""280""]",0
+"If a = 3, then 2 / (1/7 + 1/a) = ?","[""21 \/ 10"",""21 \/ 5"",""21 \/ 15"",""21 \/ 3""]",1
+"A company makes a profit equal to 25% of its sales. The profit is shared equally among the 4 owners of the company. If the company generates sales of $5,000,000, how much money does each one of the owners get?","[""312,500"",""500,000"",""1,250,000"",""12,500,000""]",0
+"If the expression x<sup>3</sup> + 2hx – 2 is equal to 6 when x = -2, what is the value of h?","[""-2"",""-4"",""4"",""6""]",1
+"If -3/(a – 3) = 3/(a + 2), then a = ?","[""1\/2"",""1\/4"",""1"",""2""]",0
+"Which integer is nearest to √2100 / √7","[""17"",""18"",""19"",""16""]",0
+"The two legs of a right triangle measure 6 and 8 inches respectively. What is the area of the circle that contains all 3 vertices of the triangle?","[""24Pi"",""25Pi"",""35Pi"",""34Pi""]",1
+"X and Y are acute angles such that tan y = cot x. What is the sum, in degrees, of the measures of the angles X and Y?","[""90\u00b0"",""45\u00b0"",""60\u00b0"",""30\u00b0""]",0
+"What is the value of the adjacent side if the opposite side is 1 inch and the 2 other angles of the right triangle is 30° and 60°","[""1\/\u221a3"",""\u221a2"",""\u221a3"",""6\/\u221a3""]",0
+"Which of the lines below is not parallel to the line 6x – 2y = 10?","[""3x \u2013 y = 7"",""-6x + 2y = 20"",""3x + y = 7"",""6x \u2013 2y = 5""]",2
+"For what value of k the equation below has no value of x: 2x + 3 = x – 2kx – 5","[""1"",""-1"",""0.5"",""-0.5""]",3
+"Find the geometric mean between the terms -4 and -9","[""6"",""7"",""-6"",""36""]",2
+"What is the average value of 7/8 and 3/4?","[""5\/4"",""5\/8"",""5\/16"",""13\/16""]",3
+"A solution is made of water and pure acid. If 75% of the solution is water, how many litters of pure acid are in 20 liters of this solution?","[""10"",""5"",""25"",""15""]",1
+"The diagonal of a square has a measure of 12 inches. What is the perimeter, in inches, of this square.","[""6\u221a2"",""72"",""24\u221a2"",""48""]",2
+"In the right triangle ABC, C is a right angle and the measure of angle B is 60°. If BC is 20 inches long, then how long is AC?","[""20\u221a3"",""20"",""\u221a3"",""20\/\u221a3""]",0
+"If x = 2.0001, which of the following expressions has the largest value?","[""2 \/ (x + 2)"",""2 \/ (x \u2013 2)"",""(x + 2) \/ 2"",""2 \/ x""]",1
+"In the rectangle ABCD, the measure of the length AD is 3 times the measure of the width AB. What is the slope of the line segment BD?","[""3"",""1\/3"",""-1\/3"",""-3""]",2
+"What is the product of the two real solutions of the equation: 2x = 3 – x<sup>2</sup>","[""2"",""-2"",""6"",""-3""]",3
+"The ratio of the circumference of any circle to the diameter of the circle is:","[""An integer"",""An irrational number"",""A rational number"",""A whole number""]",1
+"Find the sum and product of roots of the equation x<sup>3</sup> + 2x<sup>2</sup> – 23x – 60 = 0.","[""-2, 60"",""2, 17"",""17, -60"",""2, -60""]",0
+"The ratio of three numbers is 2:5:7. If 7 is subtracted from the second number, the resulting numbers form an arithmetic progression. Determine the smallest of the three numbers.","[""28"",""15"",""21"",""70""]",0
+"Determine the sum of the first 4 terms of the sequence whose general term is given by 3n – 2.","[""121"",""89"",""98"",""112""]",3
+"Find the sum of all positive integers between 84 and 719 which are exactly divisible by 5.","[""23,750"",""45,680"",""50,800"",""38,460""]",2
+"If 3log x – log y = 0, express y in terms of x.","[""y = x<sup>3<\/sup>"",""y = x<sup>2<\/sup>"",""y = x"",""y = 3x""]",0
+"In a certain A.P. the first, fourth and eight terms are themselves form a geometric progression. What is the common ratio of the G.P.?","[""4\/3"",""5\/4"",""4\/5"",""3\/4""]",0
+"Three men A, B, and C can do a piece of work in t hours working together. Working alone, A can do the work in 6 hours more, B in 1 hour more, and C in twice the time if all working together. How long would it take to finish the work if all working together?","[""20 mins."",""30 mins."",""40 mins."",""50 mins.""]",2
+"Solve the z if the equation is 4 x 10<sup>-5</sup> = z","[""\u2013 40,000"",""\u2013 200"",""0.0004"",""0.00004""]",3
+"Two balls are drawn one at a time from a basket containing 4 black balls and 5 white balls. If the first ball is returned before the second ball is drawn, find the probability that both balls are black.","[""0.198"",""0.898"",""0.167"",""0.264""]",0
+"There are 15 balls in a box: 8 balls are green, 4 are blue and 3 are white. Then 1 green and 1 blue balls are taken from the box and put away. What is the probability that a blue ball is selected at random from the box?","[""3\/13"",""4\/15"",""3\/15"",""4\/13""]",0
+"Which of the following is equivalent to (x)(x)(x)(x3), for all x?","[""6x"",""x<sup>6<\/sup>"",""4x<sup>6<\/sup>"",""4x<sup>4<\/sup>""]",1
+"A number between 1 and 10000 is randomly selected. What is the probability that it will be divisible by 4 and 5?","[""0.03"",""0.04"",""0.05"",""0.06""]",2
+"What time after 2 o’clock will the hands of the clock extend in opposite directions for the first time?","[""2:43.64"",""2:43.46"",""2:34.64"",""2:34.46""]",0
+"What is the sum of the geometric progression if there are 4 geometric means between 3 and 729?","[""1212"",""1092"",""1908"",""1209""]",1
+"A boy on his bicycle to arrive at a certain time to a market that is 30 km from his school. After riding 10 km, he rested for half an hour, and as a result he was obliged to ride the rest of the trip 2 km/hr. faster. What was his original speed?","[""7 km\/hr."",""9 km\/hr."",""10 km\/hr."",""8 km\/hr.""]",3
+"Find the equation whose roots are two times the roots of the equation x<sup>3</sup> – 6x<sup>2</sup> + 11x – 6 = 0.","[""x<sup>3<\/sup> \u2013 12x<sup>2<\/sup> + 44x \u2013 48 = 0"",""x<sup>3<\/sup> \u2013 12x<sup>2<\/sup> \u2013 44x \u2013 48 = 0"",""x<sup>3<\/sup> + 12x<sup>2<\/sup> + 44x \u2013 48 = 0"",""x<sup>3<\/sup> \u2013 12x<sup>2<\/sup> + 44x + 48 = 0.""]",0
+"How many 4-digits even numbers can be formed from the digits 0, 1, 2, 3, 4, 5, 6, 7, 8, and 9 if each digit is to be used only once in each number?","[""5,000"",""3,256"",""2,520"",""5,986""]",2
+"Rukia has nickels, dimes, and quarters amounting to $1.85. If he has twice as many dimes as quarters, and the number of nickels is two less than twice the number of dimes, how many quarters does he have?","[""3"",""8"",""6"",""10""]",0
+"A club has 25 members, 4 of whom are ECE’s. In how many ways can a committee of 3 be formed so as to include at least one ECE?","[""543"",""126"",""970"",""314""]",2
+"If (x -3) is a factor of the polynomial x<sup>4</sup> – 4x<sup>3</sup> – 7x<sup>2</sup> + kx + 24, what is the value of k?","[""11"",""17"",""22"",""34""]",2
+"A guy has 8 flowers of different variety. In how many ways can he select 2 or more flowers to form a bouquet?","[""128"",""247"",""110"",""540""]",1
+"At a conference, after everyone had shaken hands with everyone else, it was found that 45 handshakes were exchanged. How many were at the conference?","[""10"",""30"",""20"",""40""]",0
+"A bag contains 4 white balls and 3 black balls. Another bag contains 3 white balls and black balls. If one ball is drawn from each bag, determine the probability that the balls drawn will be 1 white and 1 black.","[""27\/58"",""39\/56"",""29\/56"",""5\/14""]",2
+"If the sides of a right triangle are in A.P., then what is the ratio of its sides?","[""3:4:5"",""1:2:3"",""4:5:6"",""2:3:4""]",0
+"If x: y: z = 4: -3: 2 and 2x + 4y – 3z = 20, find x, y, z.","[""4, -5, 2"",""-8, 6, -4"",""5, -6, 8"",""2, -7, 4""]",1
+"How many numbers between 3000 and 5000 can be formed from the digits 0, 1, 2, 3, 4, 5, 6 if repetition is not allowed?","[""96"",""128"",""240"",""144""]",2
+"Find the mean proportional between","[""3"",""\u221a2"",""6"",""2\u221a2""]",2
+"How many liters of a 25% acid solution must be added to 80 liters of a 40% acid solution to have a solution that is 30% acid?","[""160 L"",""190 L"",""150 L"",""120 L""]",0
+"A yacht can travel 10 miles downstream in the same amount of time as it goes 6 miles upstream. If the velocity of the river current is 3 MPH, find the speed of the yacht in still water.","[""12 MPH"",""16 MPH"",""15 MPH"",""18 MPH""]",0
+"Determine the 5th term of the sequence whose sum of n terms is given by 2n+3 – 5.","[""258"",""218"",""128"",""15""]",2
+"Find the sum of the first five terms of the geometric progression if the third term is 144 and the sixth term is 486.","[""844"",""972"",""746"",""548""]",0
+"A and B working together can finish a job in 5 days, B and c together can finish the same job in 4 days, and A and C in 2.5 days. In how days can all of them do the job working together?","[""1.06 days"",""2.4 days"",""3.2 days"",""2.03 days""]",3
+"If Chicago is 10% taller than Ishida and Ishida is 10% taller than Chad, then Ichigo is taller than Chad by how many percent?","[""31%"",""41%"",""21%"",""11%""]",2
+"After the price of petroleum oil went up by 10%, a buyer reduced his oil consumption by the same percent. By what percent would his petroleum bill changed?","[""1%"",""11%"",""10%"",""0.1%""]",0
+"Find the mean, median and mode respectively of the following numbers: 13, 13, 14, 12, 11, 10, 9, 11, 8, 11, 5, and 15.","[""10, 10, 10"",""10, 11, 10"",""10, 11, 11"",""11, 11, 11""]",3
+"There are 4 white balls and 6 red balls in a sack. If the balls are taken out successively (the first ball is not replaced), what is the probability that the balls drawn are of different colors.","[""23\/90"",""8\/15"",""24\/103"",""7\/15""]",1
+"Solve for x in the following equation: x + 3x + 5x + 7x + … + 49x = 625","[""2"",""1"",""1\/2"",""1\/3""]",1
+"An organization consists of n engineers and n nurses. If two of the engineers are replaced by two other nurses, then 51% of the group members will be nurses. Find the value of n","[""70"",""110"",""50"",""100""]",3
+"In a certain family, the sum of the parents’ ages is twice the sum of their children’s ages. Five years ago, the sum of the parents’ ages was four times the sum of the children’s ages during that time. In fifteen years, the sum of the parents’ ages will be equal to the sum of their children’s ages. How many children are there in the family?","[""5"",""7"",""6"",""8""]",0
+"z varies directly as x and inversely as y<sup>2</sup>. If x = 1 and y = 2, then z = 2. Find z when x = 3 and y = 4.","[""1.5"",""0.5"",""2.5"",""3.5""]",0
+"An ECE class of 40 students took examinations in Electronics and Communications. If 30 passed in Electronics, 36 passed in Communication and 2 failed in both subjects, how many students passed in both subjects?","[""28"",""30"",""26"",""32""]",0
+"The excess of the sum of the fourth and fifth parts over the difference of the half and third parts of a number is 119. Find the number.","[""240"",""320"",""420"",""230""]",2
+"What is the area, in square feet, of the triangle whose sides have lengths equal to 10, 6 and 8 feet?","[""24"",""48"",""30"",""40""]",0
+"Solve for x if the equation is 3102 + 9*3100 + 3103/3 = x","[""3101"",""3102"",""3103"",""3104""]",2
+"Of the 80 students in class, 25 are studying German, 15 French and 13 Spanish. 3 are studying German and French; 4 are studying French and Spanish; 2 are studying German and Spanish; and none is studying all 3 languages at the same time. How many students are not studying any of the three languages?","[""18"",""53"",""62"",""36""]",3
+"There were 2 small circles C1 and C2 inside a large circle AB. AB is a diameter of the large circle. The centers C1 and C2 of the smaller circles are on AB. The two small circles are congruent and tangent to each other and to the larger circle. The circumference of circle C1 is 8Pi. What is the area of the large circle?","[""64Pi"",""32Pi"",""156Pi"",""128Pi""]",0
+"DE is parallel to CB and (length of AE / length of EB) is 4. If the area of triangle AED is 20 square inches, what is the area, in square inches, of triangle ABC?","[""31.25"",""80"",""320"",""1,600""]",0
+"Round (202)2 to the nearest hundred.","[""48,000"",""40,800"",""42,000"",""44,000""]",1
+"If w workers, working at equal rates, can produce x toys in n days, how many days it takes c workers, working at same equal rates, to produce y toys?","[""y*w*c\/(w*n)"",""y*w\/(w*n*c)"",""y*w*n \/ x"",""y*w*n \/ (x*c)""]",3
+"A number of the form 213ab, where a and b are digits, has a reminder less than 10 when divided by 100. The sum of all the digits in the above number is equal to 13. Find the digit b.","[""5"",""7"",""6"",""8""]",1
+"Find a negative value of x that satisfies the equation: [(x+1)2 – (2x + 1)]1/2 + 2|x| – 6 = 0","[""-4"",""-3"",""-2"",""-1""]",2
+"If thrice the smaller number exceeds the larger by 12. Find the larger number if the two numbers are consecutive odd integers.","[""7"",""9"",""10"",""8""]",1
+"Determine how much water should be evaporated from 50kg of 30% salt solution to produce a 60% salt solution. All percentages are by weight.","[""25 kg"",""35 kg"",""15 kg"",""20 kg""]",0
+"A runs around a circular track in 60 seconds, and in 50 seconds. Five seconds after A starts, B starts from the same point in the same direction. When will they be together for the first time, assuming they run around the track continuously?","[""3.5 mins"",""6.5 mins"",""5.5 mins"",""7.5 mins""]",2
+"An antelope is now 50 of her leaps ahead of a cheetah which is pursuing her. How many more leaps will the antelope take before it is overtaken if she takes 5 leaps while the cheetah takes 4 leaps, but 2 of the cheetah’s leaps are equivalent to 3 of the antelope’s leaps?","[""350"",""325"",""420"",""250""]",3
+"Line L passes through the points (-2, 0) and (0, a). Line LL passes through the points (4, 0) and (6, 2). What value of a makes the two lines parallel?","[""1\/2"",""-2"",""2"",""-1\/2""]",2
+"Solve for x if the equation is 104(54 – 24) / 21 = x","[""209,000"",""289,000"",""290,000"",""208,000""]",2
+"Two dice are tossed. What is the probability that the sum of the two dice is greater than 3?","[""3\/4"",""5\/6"",""11\/12"",""1\/4""]",2
+"If L is a line through the points (2,5) and (4,6), what is the value of k so that the point of coordinates (7,k) is on the line L?","[""5"",""6"",""15\/2"",""11\/2""]",2
+"Find a negative value of k so that the graph of y = x<sup>2</sup> – 2x + 7 and the graph of y = kx + 5 are tangent?","[""\u2013 4\u221a2"",""\u2013 2 \u2013 2\u221a2"",""\u2013 2"",""\u2013 \u221a2""]",1
+"The circle of equation (x – 3)<sup>2</sup> + (y – 2)<sup>2</sup> = 1 has center O. Point M(4,2) is on the circle. N is another point on the circle so that angle MON has a size of 30°. Find the coordinates of point N.","[""(3 + \u221a3\/2 , 5\/2)"",""(5\/2 , 3 + \u221a3\/2)"",""(3 \u2013 \u221a3\/2 , 3\/2)"",""(3\/2 , 3 \u2013 \u221a3\/2)""]",0
+"Vectors u and v are given by u = (2 , 0) and v = (-3 , 1). What is the length of vector w given by w = -u – 2v?","[""6"",""\u221a26"",""2\u221a5"",""2""]",2
+"What is the smallest distance between the point(-2,-2) and a point on the circumference of the circle given by (x – 1)<sup>2</sup> + (y – 2) <sup>2</sup> = 4?","[""3"",""4"",""5"",""6""]",0
+"What is the equation of the horizontal asymptote of function: f(x) = 2/(x + 2) – (x + 3)/(x + 4)?","[""\u2013 4"",""\u2013 2"",""\u2013 1"",""1""]",2
+"The lines with equations x + 3y = 2 and -2x + ky = 5 are perpendicular for k = ?","[""1\/3"",""2\/3"",""2\/4"",""1\/4""]",1
+"If f(x) = (x – 1)<sup>2</sup> and g(x) = √x, then (g o f)(x) = ?","[""|x \u2013 1|"",""x \u2013 1"",""1 \u2013 x"",""|1 \u2013 x|""]",0
+"The domain of f(x) = √(4 – x<sup>2</sup>) / √(x<sup>2</sup> – 1) is given by the interval","[""(-2 , 2) U (-1 , 2)"",""(-2 , -1) U (1 , 2)"",""(-2 , 2) U (-1 , 1)"",""(-2 , -1) U (1 , 2)""]",3
+"The area of the circle x<sup>2</sup> + y<sup>2</sup> – 8y – 48 = 0 is","[""96Pi"",""64Pi"",""48Pi"",""20Pi""]",1
+"An investor has P100,000, part of which he invested at 12% interest and the rest at 18%. He received a total annual interest of P15,300. How much did he invest at 18% interest rate?","[""65,000"",""60,000"",""55,000"",""75,000""]",2
+"For what value of k will the two equations 2x + 4 = 4(x – 2) and -x + k = 2x – 1 have the same solution?","[""6"",""2"",""17"",""20""]",2
+"An object travels at fifteen feet per minute. How many feet does it travel in 24 minutes and 40 seconds?","[""360"",""370"",""365"",""375""]",1
+"Solve for x if the equation is 4 / (√20 – √12) = x","[""1\/2"",""4 \/ \u221a8"",""\u221a5 \u2013 \u221a3"",""\u221a5 + \u221a3""]",3
+"DE is parallel to CB and (length of AE / length of EB) is 4. If the area of triangle AED is 20 square inches, what is the area, in square inches, of triangle ABC?","[""31.25"",""80"",""320"",""1,600""]",0
+"If a and b are both even numbers, which of the following could be and odd integer?","[""a<sup>2<\/sup> + b<sup>2<\/sup>"",""(a + 1)<sup>2<\/sup> + (b + 1)<sup>2<\/sup>"",""(a + 1)*(b + 1) \u2013 1"",""(a + 1) \/ (b + 1)""]",3
+"If n is a positive integer such that n! / (n – 2)! = 342, find n.","[""19"",""17"",""18"",""16""]",0
+"What is the sum of the reciprocals of the solutions to the equation: x<sup>2</sup> – (3/5)x = -11/3","[""5\/3"",""9\/55"",""-11\/3"",""94\/65""]",2
+"A number is given as 987562153ab where a and b are digits. Which values of a and b, such that a + b = 11 and a &lt; b, would result in 987562153ab being divisible by 4?","[""a = 3 , b = 8"",""a = 7 , b = 8"",""a = 5 , b = 6"",""a = 3 , b = 4""]",2
+"AC is parallel to DE. AE, FG and CD intersect at the point B. FG is perpendicular to AC and DE. The length of DE is 5 inches, the length of BG is 8 inches and the length of AC is 6 inches. What is the area, in square inches, of triangle ABC?","[""28.8"",""20"",""24"",""22""]",0
+"Points A, B and C are defined by their coordinates in a standard rectangular system of axes. What positive value of b makes triangle ABC a right triangle with AC its hypotenuse?","[""6"",""\u221a6"",""1 + \u221a6"",""1 + 2\u221a3""]",2
+"A vendor goes to market to buy fruits for resale at his store. He spends half his money for mangoes, and one-third of what remains for bananas. He spends 150 for other fruits and still has 200 left from the amount he originally had. How much money did he have at the start?","[""1050"",""5100"",""1500"",""1250""]",0
+"Seven carpenters and 5 masons earn a total of 2,300 per day. At the same rate of pay 3 carpenters and 8 masons earn 2,040. What are the wages per day of the carpenter and a mason?","[""200 &amp; 180"",""300&amp; 210"",""210&amp; 170"",""270 &amp;150""]",0
+"A man and a boy can do 15 days a piece of work which would be done by 7 men and 9 boys in 2 days. How long would it take one man do it alone?","[""20 days"",""30 days"",""15 days"",""40 days""]",0
+"A certain two-digit numbers is 1 less than five times the sum of its digits. If 9 were added to the number, its digits would be reversed. Find the number.","[""34"",""36"",""43"",""63""]",0
+"If one root of 9x^2 – 6x + k = 0 exceed the other by 2, find the value of k.","[""8"",""6"",""-8"",""-6""]",2
+"Solve: √(2x – 5) – √(x – 2) = 2.","[""3"",""18"",""9"",""27""]",3
+"A speed boat going across a lake 8 km wide proceeds 2 km at a certain speed and then completes the trip at a speed ½ km/hr faster. By doing this, the speed arrives 10 minutes earlier than if the original speed had been maintained. Find the original speed of the speed boat.","[""5 km\/hr."",""4 km\/hr."",""7 km\/hr."",""6km\/hr.""]",1
+"An audience of 540 people is seated in rows having the same number of persons in each row. If 3 more persons seat in each row, it would require 2 rows less to seat the audience. How many persons were in each row originally?","[""17"",""30"",""27"",""31""]",2
+"Find the third proportional to 4 and 12.","[""48"",""20"",""36"",""16""]",2
+"How many terms of the progression 4, 7, 10, 13, … must be taken so that the sum will be 69.","[""6"",""9"",""8"",""12""]",0
+"Multiply the following: (2x + 5y)(5x – 2y)","[""10x<sup>2<\/sup> \u2013 21xy + 10y<sup>2<\/sup>"",""-10x<sup>2<\/sup> + 21xy + 10y<sup>2<\/sup>"",""10x<sup>2<\/sup> + 21xy \u2013 10y<sup>2<\/sup>"",""-10x<sup>2<\/sup> \u2013 21xy \u2013 10y<sup>2<\/sup>""]",2
+"The value of (3 to 2.5 power) square is equal to:","[""729"",""140"",""243"",""81""]",2
+"Evaluate: 64x • 4y","[""256xy"",""4x + 3y"",""64x + 3y"",""43x + y""]",3
+"Give the factors of a<sup>2</sup> – x<sup>2</sup>","[""2a \u2013 2x"",""(a + x)(a \u2013 x)"",""(a \u2013 x)(a + x)"",""2x \u2013 2a""]",1
+"Factor the expression <b>x2 + 6x + 8</b> as completely possible.","[""(x + 4)(x + 2)"",""(x \u2013 4)(x + 2)"",""(x \u2013 4)(x \u2013 2)"",""(x + 6)(x + 2)""]",0
+"Find the value of <b><i>k</i></b> so that <b>4x<sup>2</sup> + 6x + k</b> is a perfect square.","[""36"",""2.5"",""9"",""2.25""]",3
+"Factor the expression <b>3x<sup>3</sup> – 3x<sup>2</sup> – 18x</b>","[""3x(x \u2013 3)(x + 2)"",""3x(x + 3)(x + 2)"",""3x(x + 3)(x \u2013 2)"",""3x(x \u2013 3)(x \u2013 2)""]",0
+"If <b>p – q = 5</b> and <b>pq = k/2</b>, then <b>p<sup>2</sup> + q<sup>2</sup></b> equals,","[""k"",""25k"",""25 + k"",""k\/25""]",2
+"If x to the ¾ power equals 8, x equals","[""-9"",""6"",""9"",""16""]",3
+"If <b>f(x) = 2x<sup>2</sup> + 2x + 4</b>, what is <b>f(2)</b>?","[""4x + 2"",""16"",""x<sup>2<\/sup> + x + 2"",""8""]",1
+"What is the least common multiple of 15 and 18?","[""3"",""5"",""90"",""270""]",2
+"What is the lowest common factor of 10 and 32?","[""320"",""2"",""180"",""90""]",1
+"The numbers 12 and 16 has the greatest common divisor of","[""2"",""4"",""6"",""192""]",1
+"The Polynomial <b>x3 + 4×2 – 3x + 8</b> is divided by (<b>x – 5)</b>, then the remainder is,","[""175"",""140"",""218"",""200""]",2
+"Find the quotient of <b>3x<sup>5</sup> – 4x<sup>3</sup> + 2x<sup>2</sup> + 36x + 48</b> divided by<b> x<sup>3</sup> – 2x<sup>2</sup> + 6</b>.","[""3x<sup>2<\/sup> \u2013 4x \u2013 8"",""3x<sup>2<\/sup> + 4x + 8"",""3x<sup>2<\/sup> \u2013 6x \u2013 8"",""3x<sup>2<\/sup> + 6x + 8""]",3
+"Find the remainder if we divide <b>4y<sup>3</sup> + 18y<sup>2</sup> + 8y – 4</b> by (<b>2y + 3</b>).","[""10"",""11"",""15"",""13""]",1
+"Given: <b>f(x) = (x + 3)(x – 4) + 4</b>. When f(x) is divided by (<b>x – k</b>), the remainder is <b>k</b>. Find <b>k</b>.","[""2"",""4"",""6"",""8""]",1
+"The expression <b>x<sup>4</sup> + ax<sup>3</sup> + 5x<sup>2</sup> + bx + 6</b> when divided by (<b>x – 2</b>) leaves a remainder of <b>16</b> and when divided by (<b>x + 1</b>) leaves a remainder of <b>10</b>. Find a and <b>b</b>.","[""a = 5, b = 7"",""a = -5, b = 7"",""a = -5, b = -7"",""a = 5, b = -7""]",1
+"Find the mean proportional of <b>4 and 36</b>.","[""72"",""24"",""12"",""20""]",2
+"The arithmetic mean of 80 numbers is 55. If two numbers namely 250 and 850 are removed, what is the arithmetic mean of the remaining numbers?","[""42.31"",""50"",""38.62"",""57.12""]",0
+"The arithmetic mean of 6 numbers is 17. If two numbers are added to the progression, the new set of numbers will have an arithmetic mean of 19. What are the two numbers if their difference is 4?","[""21, 25"",""23, 27"",""8, 12"",""16, 20""]",1
+"Change 0.2272722… to a common fraction.","[""7\/44"",""5\/48"",""5\/22"",""9\/34""]",2
+"What is the value of 7! or 7 factorial?","[""5040"",""2540"",""5020"",""2520""]",0
+"The reciprocal of 20 is:","[""0.50"",""20"",""0.20"",""0.05""]",3
+"If p is an odd number and q is an even number, which of the following expressions must be even?","[""p + q"",""p \u2013 q"",""pq"",""p\/q""]",2
+"MCMXCIV is a Roman Numeral equivalent to:","[""2974"",""3974"",""2174"",""1994""]",3
+"What is the lowest common factor of 10 and 32?","[""320"",""2"",""180"",""90""]",1
+"4xy – 4x<sup>2</sup> –y<sup>2</sup> is equal to:","[""(2x \u2013 y)<sup>2<\/sup>"",""(-2x \u2013 y)<sup>2<\/sup>"",""(-2x + y)<sup>2<\/sup>"",""\u2013(2x \u2013 y)<sup>2<\/sup>""]",3
+"Factor x<sup>4</sup> – y<sup>2</sup> + y – x<sup>2</sup> as completely as possible.","[""(x<sup>2<\/sup> + y)(x<sup>2<\/sup> + y -1)"",""(x<sup>2<\/sup> + y)(x<sup>2<\/sup> \u2013 y -1)"",""(x<sup>2<\/sup> \u2013 y)(x<sup>2<\/sup> \u2013 y -1)"",""(x<sup>2<\/sup> \u2013 y)(x<sup>2<\/sup> + y -1)""]",3
+"Factor the expression x<sup>2</sup> + 6x + 8 as completely as possible.","[""(x + 8)(x \u2013 2)"",""(x + 4)(x + 2)"",""(x + 4)(x \u2013 2)"",""(x \u2013 8)(x \u2013 2)""]",1
+"Factor the expression x<sup>3</sup> + 8.","[""(x \u2013 2)(x<sup>2<\/sup> + 2x + 4)"",""(x + 4)(x<sup>2<\/sup> + 2x + 2)"",""(-x + 2)(-x<sup>2<\/sup> + 2x + 2)"",""(x + 2)(x<sup>2<\/sup> \u2013 2x + 4)""]",3
+"Factor the expression (x<sup>4</sup> – y<sup>4</sup>) as completely as possible.","[""(x + y)(x<sup>2<\/sup> + 2xy + y)"",""(x<sup>2<\/sup> + y<sup>2<\/sup>)(x<sup>2<\/sup> \u2013 y<sup>2<\/sup>)"",""(x<sup>2<\/sup> + y<sup>2<\/sup>)(x + y)(x \u2013 y)"",""(1 + x<sup>2<\/sup>)(1 + y)(1 \u2013 y<sup>2<\/sup>)""]",2
+"Factor the expression 3x<sup>3</sup> + 3x<sup>2</sup> – 18x as completely as possible.","[""3x(x + 2)(x \u2013 3)"",""3x(x \u2013 2)(x + 3)"",""3x(x \u2013 3)(x + 6)"",""(3x<sup>2<\/sup> \u2013 6x)(x \u2013 1)""]",0
+"Factor the expression 16 – 10x + x<sup>2</sup>.","[""(x + 8)(x \u2013 2)"",""(x \u2013 8)(x \u2013 2)"",""(x \u2013 8)(x + 2)"",""(x + 8)(x + 2)""]",1
+"Factor the expression x<sup>6</sup> – 1 as completely as possible.","[""(x + 1)(x \u2013 1)(x<sup>4<\/sup> + x<sup>2<\/sup> \u2013 1)"",""(x + 1)(x \u2013 1)(x<sup>4<\/sup> + 2x<sup>2<\/sup> + 1)"",""(x + 1)(x \u2013 1)(x<sup>4<\/sup> \u2013 x<sup>2<\/sup> + 1)"",""(x + 1)(x \u2013 1)(x<sup>4<\/sup> + x<sup>2<\/sup> + 1)""]",3
+"What are the roots of the equation (x – 4)<sup>2</sup>(x + 2) = (x + 2)<sup>2</sup>(x – 4)?","[""4 and -2 only"",""1 only"",""-2 and 4 only"",""1, -2, and 4 only""]",0
+"If f(x) = x<sup>2</sup> + x + 1, then f(x) – f(x-1) =","[""0"",""x"",""2x"",""3""]",2
+"Which of the following is not an identity?","[""(x \u2013 1)<sup>2<\/sup> = x<sup>2 <\/sup>\u2013 2x + 1"",""(x + 3)(2x \u2013 2) = 2(x<sup>2 <\/sup>+ 2x \u2013 3)"",""x<sup>2 <\/sup>\u2013 (x \u2013 1)<sup>2<\/sup> = 2x \u2013 1"",""2(x \u2013 1) + 3(x + 1) = 5x + 4""]",3
+"Solve for x: 4 + ((x + 3)/(x – 3)) – ((4x<sup>2</sup>)/(x<sup>2</sup> – 9)) = ((x + 9)/(x + 3)) .","[""-18 = -18"",""12 = 12 or -3 = -3"",""Any value"",""-27 = -27 or 0 = 0""]",2
+"Solve the simultaneous equations: 3x – y = 6; 9x – y = 12.","[""x = 3; y = 1"",""x = 1; y = -3"",""x = 2; y = 2"",""x = 4; y = 2""]",1
+"When (x + 3)(x – 4) + 4 is divided by x – k, the remainder is k. Find the value of k.","[""4 or 2"",""2 or -4"",""4 or -2"",""-4 or -2""]",2
+"Find k in the equation 4x<sup>2</sup> + kx + 1 = 0 so that it will only have one real root.","[""1"",""2"",""3"",""4""]",3
+"Find the remainder when (x<sup>12</sup> + 2) is divided by (x – √3)","[""652"",""731"",""231"",""851""]",1
+"If 3x<sup>3</sup> – 4x<sup>2</sup>y + 5xy<sup>2</sup> + 6y<sup>3</sup> is divided by (x<sup>2</sup> – 2xy + 3y<sup>2</sup>), the remainder is","[""0"",""1"",""2"",""3""]",0
+"If (4y<sup>3</sup> + 8y + 18y<sup>2</sup> – 4) is divided by (2y + 3), the remainder is:","[""10"",""11"",""12"",""13""]",1
+"Given f(x) = (x + 3)(x – 4) + 4 when divided by (x – k), the remainder is k. Find k.","[""2"",""3"",""4"",""-3""]",2
+"The polynomial x<sup>3</sup> + 4x<sup>2</sup> – 3x + 8 is divided by x – 5. What is the remainder?","[""281"",""812"",""218"",""182""]",2
+"Find the quotient of 3x<sup>5</sup> – 4x<sup>3</sup> + 2x<sup>2</sup> + 36x + 48 divided by x<sup>3</sup> – 2x<sup>2</sup> + 6.","[""-3x<sup>2<\/sup> \u2013 4x + 8"",""3x<sup>2<\/sup> + 4x + 8"",""3x<sup>2<\/sup> \u2013 4x \u2013 8"",""3x<sup>2<\/sup> + 6x + 8""]",3
+"If 1/x = a + b and 1/y = a – b, then x – y is equal to:","[""1\/2a"",""1\/2b"",""2a\/(a<sup>2<\/sup> \u2013 b<sup>2<\/sup>)"",""2b\/(a<sup>2<\/sup> \u2013 b<sup>2<\/sup>)""]",3
+"If x-1/x = 1, find the value of x<sup>3</sup> – 1/x<sup>3</sup>.","[""1"",""2"",""3"",""4""]",3
+"If 1/x + 1/y = 3 and 2/x – 1/y = 1. Then x is equal to:","[""\u00bd"",""2\/3"",""\u00be"",""4\/3""]",2
+"Simplify the following expression: ((5x)/(2x<sup>2</sup> + 7x + 3)) – ((x + 3)/(2x<sup>2</sup> – 3x – 2)) + ((2x + 1)/(x<sup>2</sup> + 6 – 6)).","[""2\/(x \u2013 3)"",""(x \u2013 3)\/5"",""(x + 3)\/(x \u2013 1)"",""4\/(x + 3)""]",3
+"If 3x = 4y then ((3x<sup>2</sup>)/(4y<sup>2</sup>)) is equal to:","[""\u00be"",""4\/3"",""2\/3"",""3\/2""]",1
+"Simplify: (a + 1/a)<sup>2</sup> – (a – 1/a)<sup>2</sup>.","[""-4"",""0"",""4"",""-2\/a<sup>2<\/sup>""]",2
+"The quotient of (x<sup>5</sup> + 32) by (x + 2) is:","[""x<sup>4<\/sup> \u2013 x<sup>3<\/sup> + 8"",""x<sup>3<\/sup> +2x<sup>2<\/sup> \u2013 8x + 4"",""x<sup>4<\/sup> \u2013 2x<sup>3<\/sup> + 4x<sup>2<\/sup> \u2013 8x + 16"",""x<sup>4<\/sup> + 2x<sup>3<\/sup> + x<sup>2<\/sup> + 16x + 8""]",2
+"Find the value of A in the equation. ((x<sup>2</sup> = 4x + 10)/(x<sup>3</sup> + 2x<sup>2</sup> + 5x)) = A/x + ((B(2x + 2))/(x<sup>2</sup> + 2x + 5)) + (C/(x<sup>2</sup> + 2x + 5))","[""2"",""-2"",""-1\/2"",""\u00bd""]",0
+"Find A and B such that ((x + 10)/(x<sup>2</sup> – 4)) = (A/(x – 2)) + (B/(x + 2))","[""A = -3; B = 2"",""A = -3; B = -2"",""A = 3; B = 2"",""A = 3; B = 2""]",2
+"Resolve ((x + 2)/(x<sup>2</sup> – 7x + 12) into partial fraction.","[""(6\/(x \u2013 4)) \u2013 (2\/(x \u2013 3))"",""(6\/(x \u2013 4)) + (7\/(x \u2013 3))"",""(6\/(x \u2013 4)) \u2013 (5\/(x \u2013 3))"",""(6\/(x \u2013 4)) + (5\/(x \u2013 3))""]",2
+"The arithmetic mean of 80 numbers is 55. If two numbers namely 250 and 850 are removed what is the arithmetic mean of the remaining numbers?","[""42.31"",""57.12"",""50"",""38.62""]",0
+"The arithmetic mean of 6 numbers is 17. If two numbers are added to the progression, the new set of number will have an arithmetic mean of 19. What are the two numbers if their difference is 4?","[""21, 29"",""23, 27"",""24, 26"",""22, 28""]",1
+"If 2x – 3y = x + y, then x<sup>2</sup> : y<sup>2</sup> =","[""1:4"",""4:1"",""1:16"",""16:1""]",3
+"If 1/a :1/b : 1/c = 2 : 3 : 4, then (a + b + c) : (b + c) is equal to:","[""13:7"",""15:6"",""10:3"",""7:9""]",0
+"Find the mean proportional to 5 and 20.","[""8"",""10"",""12"",""14""]",1
+"Find the fourth proportional of 7, 12, and 21.","[""36"",""34"",""32"",""40""]",0
+"If (x + 3):10 = (3x – 2) : 8, find (2x –1)","[""1"",""2"",""3"",""4""]",2
+"Solve for x: -4 &lt; 3x – 1 &lt; 11.","[""1 &lt; x &lt; -4"",""-1&lt; x &lt; 4"",""1 &lt; x &lt; 4"",""-1 &lt; x &lt; -4""]",1
+"Solve for x: x<sup>2</sup> + 4x &gt; 12.","[""-6 &gt; x &gt; 2"",""6 &gt; x &gt; -2"",""-6 &gt; x &gt; -2"",""6 &gt; x &gt; 2""]",0

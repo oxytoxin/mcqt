@@ -1,0 +1,11 @@
+question,A,B,C,D,E,answer,explanation
+<p>A mnemonic is an English-like instruction that is converted by an assembler into a machine code for use by a processor.</p>,True,False,,,,A,
+<p>Chip designers are always trying to increase the clock speed.</p>,True,False,,,,A,
+<p>Instructions for the 80X86 family are downward compatible.</p>,True,False,,,,B,
+<p>The Pentium can execute two instructions at once.</p>,True,False,,,,A,
+<p>A coprocessor is a microprocessor designed with a limited instruction set optimized to perform arithmetic operations very quickly.</p>,True,False,,,,A,
+<p>The original Pentium was the first CPU to feature separate data and instruction caches.</p>,True,False,,,,A,
+<p>Machine language is independent of the type of microprocessor in a computer system.</p>,True,False,,,,B,
+<p>The PCI bus is a good example of an external bus for personal computers.</p>,True,False,,,,A,
+<p>The Power PC can effectively execute up to ten instructions per clock cycle.</p>,True,False,,,,B,
+<p>Polling is the process of pausing the normal sequence of instructions to cause the processor to execute a separate set of I/O instructions instead.</p>,True,False,,,,B,

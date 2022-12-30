@@ -1,0 +1,929 @@
+﻿question,choices,answer
+"_______ determines the number of sideband components in FM.","[""carrier frequency"",""modulation frequency"",""modulation index"",""deviation ratio""]",2
+"One of the following transmits only one sideband.","[""H3E"",""R3E"",""A3E"",""B8E""]",0
+"What produces the sidebands on FM?","[""signal amplitude"",""carrier harmonics"",""baseband frequency"",""broadband frequency""]",2
+"Which test instrument displays the carrier and the sidebands amplitude with frequency to frequency?","[""oscilloscope"",""spectrum analyzer"",""frequency analyzer"",""amplitude analyzer""]",1
+"Mixer is also known as a ________.","[""modulator"",""suppressor"",""converter"",""beater""]",2
+"Which one of the following emission transmits the lower sideband and half of the upper sideband?","[""A5C"",""J3E"",""A3J"",""A3H""]",3
+"An FM receives signal ______.","[""vary in amplitude with modulation"",""vary in frequency with modulation"",""vary in frequency and amplitude with wideband modulation"",""is not immune to noise""]",1
+"The process of impressing intelligence on the carrier is called","[""modulation"",""detection"",""mixing"",""impression""]",0
+"______ is an electronic instrument used to show both the carrier and the sidebands of a modulated signal in the frequency domain.","[""spectrum analyzer"",""oscilloscope"",""digital counter"",""frequency counter""]",0
+"What part of the carrier is varied by the intelligence during modulation in an AM system?","[""phase"",""frequency"",""amplitude"",""both a and c""]",2
+"The difference between the RF carrier and the modulating signal frequencies is called the","[""USB"",""LSB"",""Sideband"",""Carrier frequency""]",1
+"What stage in a radio transmitter isolates the oscillator from the load?","[""Oscillator"",""Buffer"",""Separator"",""Mixer""]",1
+"The frequency of the unmodulated carrier in FM system is","[""modulating frequency"",""center frequency"",""carrier frequency"",""deviation frequency""]",1
+"The ratio of maximum deviation to the maximum modulating frequency is called","[""carrier swing"",""deviation ratio"",""modulation factor"",""modulation index""]",1
+"A carrier signal has","[""constant amplitude"",""a frequency of 20 kHz and above"",""a varying amplitude"",""the information content""]",1
+"The modulated peak value of a signal is 125 V and the unmodulated carrier value is 85 V. What is the modulation index?","[""0.47"",""0.68"",""0.32"",""1.47""]",3
+"An 891 kHz carrier having an amplitude of 80 V is modulated by a 4.5 kHz audio signal having an amplitude of 45 V. The modulation factor is","[""0.56"",""0.65"",""1.78"",""1.25""]",0
+"What is the modulation index of an FM signal having a carrier swing of 75 kHz when the modulating signal has frequency of 3 kHz?","[""25"",""12.5"",""0.04"",""0.08""]",1
+"In a FM system, if modulation index is doubled by having the modulating frequency, what will be the effect on the maximum deviation?","[""No effect"",""Maximum deviation doubles"",""Decreases by \u00bd"",""Increases by \u00bc""]",0
+"Which of the following is considered as an indirect method of generating FM?","[""Reactance modulator"",""Balanced modulator"",""Varactor diode modulator"",""Armstrong system""]",3
+"To generate an SSB or DSB signal one must use a circuit known as","[""filter modulator"",""ring modulator"",""balanced modulator"",""reactance modulator""]",2
+"Which is the first radio receiver?","[""TRF receiver"",""Superheterodyne receiver"",""Crystal radio receiver"",""Heterodyne receiver""]",2
+"An interfering signal with a frequency equal to the received signal plus twice the IF is called","[""image frequency"",""center frequency"",""rest frequency"",""interference frequency""]",0
+"Double sideband full carrier emission type","[""A3J"",""H3E"",""R3A"",""A3E""]",3
+"Single sideband reduced carrier emission type","[""H3E"",""R3E"",""J3E"",""B8E""]",1
+"A single sideband suppressed carrier emission type.","[""H3e"",""R3E"",""J3E"",""B8E""]",2
+"Independent sideband emission type","[""H3E"",""R3E"",""J3E"",""B8E""]",3
+"Vestigial sideband emission type","[""C3F"",""J3E"",""R3E"",""B8E""]",0
+"Single sideband full carrier emission type.","[""R3E"",""H3E"",""J3E"",""B8E""]",1
+"Phase modulation emission type.","[""F3E"",""F3C"",""F3F"",""G3E""]",3
+"Which one is not an advantage of SSB over AM?","[""Power saving"",""Requires half the bandwidth"",""Wider area of reception"",""Better fidelity""]",3
+"The advantage of a high level modulated AM transmitter is","[""Less audio power required"",""Better fidelity"",""Higher value of operating power"",""Less distortion""]",2
+"The advantage of a low-level modulated AM transmitter is","[""Less audio power required"",""Better fidelity"",""Higher value of operating power"",""Less distortion""]",0
+"_____ is the bad effect caused by overmodulation in AM transmission.","[""Increase in noise"",""Deviation in the operating frequency"",""Interface to other radio services"",""Decrease in the output power""]",2
+"Which characteristic of a radio receiver refers to its ability to reject an unwanted signal?","[""Sensitivity"",""Selectivity"",""Fidelity"",""Quality""]",1
+"What type of emission is frequency modulation?","[""F3E"",""G3E"",""A3E"",""B3E""]",0
+"AM transmission power increases with ________.","[""Frequency"",""Source"",""Load"",""Modulation""]",3
+"_______ locks the FM receiver to a stronger signal.","[""Hall effect"",""Capture effect"",""Image frequency"",""Homing""]",1
+"What is the highest percentage of modulation for AM?","[""50 %"",""75 %"",""100 %"",""80 %""]",2
+"In FM, the Carson’s Rule states that the bandwidth is equal to twice the sum of the modulating frequency and ______.","[""Carrier signal"",""Modulating signal"",""Frequency deviation"",""Image frequency""]",2
+"What is the carrier swing of an FM transmitter when modified by 75%?","[""53.2 kHz"",""48 kHz"",""56.25 kHz"",""112.5 kHz""]",3
+"The modulation system inherently more resistant to noise","[""Single sideband suppressed carrier"",""Frequency modulation"",""Pulse-position modulation"",""Amplitude shift keying""]",1
+"Subcarriers that are arranged so that the channels occupying adjacent frequency bands with some frequency space between them is known as","[""Guard bands"",""AM bands"",""Band gap"",""Void band""]",0
+"Modulation of an RF amplifier carrier results in","[""Multiple channels"",""Smaller antennas"",""Directional propagation"",""All of the above""]",3
+"A process which occurs in the transmitter","[""Mixing"",""Modulation"",""Heterodyning"",""Demodulation""]",1
+"A process which occurs in the receiver","[""Beating"",""Modulation"",""Mixing"",""Demodulation""]",3
+"One part of the transmitter that protects the crystal oscillator from “pulling”.","[""Buffer amplifier"",""Modulator"",""Power amplifier"",""Antenna coupler""]",0
+"What aspect of the carrier is changed by modulation?","[""Frequency"",""Phase"",""Amplitude"",""Depends on the type of modulation""]",3
+"The amplitude of a sine wave which is modulated by a musical program will","[""Be complex"",""Contain fundamental frequencies"",""Contain harmonic frequencies"",""All of the above""]",3
+"A silicon varactor diode exhibits a capacitance of 200 pF at zero bias. If it is in parallel with a 60-pF capacitor and a 200-uH inductor, calculate the range of resonant frequency as the diode varies through a reverse bias of 3 to 15 V.","[""679 kHz to 2.13 MHz"",""966 kHz to 1.15 MHz"",""355 kHz to 3.12 MHz"",""143 kHz to 4.53 MHz""]",1
+"A process where the received signal is transformed into its original form.","[""demodulation"",""damping"",""amplification"",""oscillation""]",0
+"It is the process of changing the amplitude of a relative high frequency carrier signal in proportion with the instantaneous value of the modulating signal.","[""frequency modulation"",""digital modulation"",""phase modulation"",""analog modulation""]",3
+"Most of the power in an AM signal is in the","[""carrier"",""upper sideband"",""lower sideband"",""modulating signal""]",0
+"Amplitude modulation is the same as","[""linear mixing"",""analog multiplexing"",""signal summation"",""multiplexing""]",0
+"The shape of the amplitude-modulated wave is called ______.","[""sidebands"",""modulating signal"",""envelope"",""carrier signal""]",2
+"In a diode modulator, the negative half of the AM wave is supplied by","[""tuned circuit"",""transformer"",""capacitor"",""inductor""]",0
+"It is a term used to describe the amount of amplitude change present in an AM waveform.","[""coefficient of modulation"",""modulation index"",""depth of modulation"",""any of these""]",3
+"When the modulation index in an AM wave is greater than one it will cause _______.","[""buck-shot"",""splatter"",""overmodulation"",""any of these""]",3
+"The ideal value of modulation index in AM.","[""1"",""0"",""100"",""infinity""]",0
+"When the amplitude of the information in an AM modulator is equal to zero, what is the value of the modulation index?","[""1"",""0"",""100"",""infinity""]",1
+"Amplitude modulation can be produced by","[""having the carrier vary a resistance"",""having the modulating signal vary a capacitance"",""varying the carrier frequency"",""varying the gain of the amplifier""]",3
+"When the modulation index is equal to zero, the total transmitted power is equal to ________.","[""one of the sidebands"",""carrier"",""double sidebands"",""an AM wave""]",1
+"When the modulation takes place prior to the output element of the final stage of the transmitter, prior to the collector of the output transistor in a transistorized transmitter, this is called ______.","[""high-level modulation"",""low-level modulation"",""zero-modulation"",""constant modulation""]",1
+"A circuit that monitors the received signal level and sends a signal back to the RF and IF amplifiers to adjust their gain automatically.","[""automatic phase control"",""automatic gain control"",""automatic frequency control"",""automatic volume control""]",1
+"When the modulation takes place in the final element of the final stage where the carrier signal is at its maximum amplitude, it is called _____.","[""constant modulation"",""zero-modulation"",""low-level modulation"",""high-level modulation""]",3
+"If a superheterodyne receiver is tuned to a desired signal at 1000kHz and its conversion (local) oscillator is operating at 1300kHz, what would be the frequency of an incoming signal that would possibly cause image reception?","[""1600 kHz"",""2300 kHz"",""1250 kHz"",""3420 kHz""]",0
+"When modulation requires a much higher amplitude modulating signal to achieve a reasonable percent modulation, this is called","[""high-level modulation"",""low-level modulation"",""zero-modulation"",""constant modulation""]",0
+"Amplitude modulators that vary the carrier amplitude with the modulating signal by passing it through an attenuator work on principle of","[""rectification"",""resonance"",""variable resistance"",""absorption""]",2
+"A circuit which function is to raise the amplitude of the source signal to a usable level while producing minimum nonlinear distortion adding as little thermal noise as possible.","[""power amplifier"",""non-linear amplifier"",""buffer amplifier"",""preamplifier""]",3
+"A circuit that has a low-gain, high-input impedance linear amplifier which is used to isolate the oscillator from the high-power amplifiers.","[""power amplifier"",""bandpass filter"",""signal driver"",""buffer amplifier""]",3
+"With high-level transmitters, which of the following is not a primary function of the modulator circuit?","[""it provides the capacity necessary for modulation to occur"",""it serves as a final amplifier"",""it serves as a frequency up-converter"",""it serves as a mixer""]",3
+"It is a form of amplitude distortion introduced when positive and negative alternations in the AM modulated signal are not equal.","[""phase shift"",""carrier shift"",""amplitude variations"",""frequency shift""]",1
+"A carrier is simultaneously modulated by two sine waves with modulation indices of 0.3 and 0.4, the total modulation index","[""is 1"",""cannot be calculated unless the phase relations are known"",""is 0.5"",""is 0.7""]",2
+"The component used to produce AM AT very high frequencies is a","[""varactor"",""thermistor"",""cavity resonator"",""PIN diode""]",3
+"It is also known as upward modulation","[""carrier shift"",""amplitude variations"",""frequency shift"",""phase shift""]",0
+"Also known as downward modulation","[""carrier shift"",""amplitude variations"",""frequency shift"",""phase shift""]",0
+"It is a form of amplitude modulation where signals from two separate information sources modulate the same carrier frequency at the same time without interfering with each other.","[""QPSK"",""QUAM"",""PSK"",""FSK""]",1
+"A receiver has a dynamic range of 81 dB. It has 0.55 nW sensitivity. Determine the maximum allowable input signal.","[""59 mW"",""69 mW"",""79 mW"",""88 mW""]",1
+"The information sources modulate the same carrier after it has been separated into two carrier signals are at 90 degrees out of phase with each other.","[""QPSK"",""QUAM"",""PSK"",""FSK""]",1
+"Demodulating quadrature AM signal requires a carrier recovery circuit to reproduce the original carrier frequency and phase and two balanced modulators to actually demodulate the signals. This is called ________.","[""asynchronous detection"",""quadrature demodulation"",""synchronous detection"",""quadrature detection""]",3
+"Quadrature amplitude modulation is also known as ________.","[""phase division multiplexing"",""phase division modulation"",""phase amplitude multiplexing"",""phase angle modulation""]",0
+"Amplitude modulation generated at a very low voltage or power amplitude is known as","[""high-level modulation"",""low-level modulation"",""collector modulation"",""minimum modulation""]",1
+"It is the first stage of the receiver and is therefore often called the receiver front end.","[""mixer"",""RF section"",""local oscillator"",""IF stage""]",1
+"In an SSB transmitter, one is most likely to find a","[""class C audio amplifier"",""tuned modulator"",""class B RF amplifier"",""class A RF output amplifier""]",3
+"The section of the receiver than down-converts the received RF frequencies to intermediate frequencies.","[""RF section"",""local oscillator"",""power amplifier"",""mixer""]",3
+"The circuit that demodulates the AM wave and converts it to the original information signal.","[""power amplifier"",""local oscillator"",""detector"",""IF section""]",2
+"A collector modulator has a supply voltage of 48 V. The peak-to-peak amplitude of the modulating signal for 100 percent modulation is","[""24 V"",""48 V"",""96 V"",""120 V""]",2
+"What signals might feed into an FM broadcast station audio control console?","[""microphones"",""turntables"",""remote lines"",""any of these""]",3
+"The noise reduction ratio achieved by reducing the bandwidth is called","[""dynamic range"",""noise figure"",""bandwidth efficiency"",""bandwidth improvement""]",3
+"It is the minimum RF signal level that can be detected at the input to the receiver and still produce a usable demodulated information signal.","[""selectivity"",""sensitivity"",""Q-factor"",""bandwidth""]",1
+"Why are limiters used in FM receivers?","[""provide better noise performance"",""clip noise peaks"",""prevent overdrive of discriminators"",""any of these""]",3
+"Why are limiters used in FM transmitters?","[""clip noise peaks"",""prevent overdrive of discriminators"",""prevent overdeviation"",""any of these""]",2
+"It is defined as the difference in decibels between the minimum input level necessary to discern the signal and the input level that will overdrive the receiver and produce distortion.","[""dynamic range"",""noise figure"",""bandwidth efficiency"",""bandwidth improvement""]",0
+"It is the input power range over which the receiver is useful.","[""dynamic range"",""noise figure"",""bandwidth efficiency"",""bandwidth improvement""]",0
+"It is defined as the output power when the RF amplifier response is 1-dB less than the ideal linear gain response.","[""1-dB compression point"",""1-dB threshold point"",""1-dB shoot-off point"",""1-dB pinch-off point""]",0
+"It is the measure of the ability of a communications system to produce, at the output of the receiver, an exact replica of the original source information.","[""sensitivity"",""threshold"",""selectivity"",""fidelity""]",3
+"A SSB signal generated around a 200-kHz carrier. Before filtering, the upper and lower sidebands are separated by 200 Hz. Calculate the filter Q required to obtain 40-dB suppression.","[""1500"",""1900"",""2500"",""2000""]",2
+"It is the total phase shift encountered by a signal and can generally be tolerated as long as all frequencies undergo the same amount of phase delay.","[""differential phase shift"",""absolute phase shift"",""relative phase shift"",""integrated phase shift""]",1
+"________ occurs when different frequencies undergo different phase shifts and may have a detrimental effect on the complex waveform.","[""differential phase shift"",""absolute phase shift"",""relative phase shift"",""integrated phase shift""]",0
+"What is the minimum AM signal needed to transmit information","[""carrier plus sidebands"",""carrier only"",""one sideband"",""both sidebands""]",2
+"The circuit that recovers the original modulating information from an AM signal is known as a","[""modulator"",""demodulator"",""mixer"",""crystal set""]",1
+"__________ occurs when the amplitude-versus-frequency characteristics of a signal at the output of a receiver cover from those in the original information signal.","[""frequency distortion"",""digital distortion"",""phase distortion"",""amplitude distortion""]",3
+"The circuit used to produced modulations called","[""modulator"",""demodulator"",""variable gain amplifier"",""multiplexer""]",0
+"It is the result of non-uniform gain in amplifiers and filters.","[""harmonic distortion"",""amplitude distortion"",""frequency distortion"",""phase distortion""]",1
+"It is a result of harmonic and intermodulation distortion and is caused by non-linear amplification.","[""amplitude distortion"",""phase distortion"",""harmonic distortion"",""frequency distortion""]",3
+"The most commonly used amplitude demodulator is the","[""diode mixer"",""balanced modulator"",""envelope detector"",""crystal filter""]",2
+"It is a special case of intermodulation distortion and a predominant cause of frequency distortion.","[""second-order intercept distortion"",""phase distortion"",""third-order intercept distortion"",""first-order intercept distortion""]",0
+"A display of signal amplitude versus frequency is called the","[""time domain"",""frequency spectrum"",""amplitude modulation"",""frequency domain""]",3
+"It is a parameter associated with frequencies that fall within the passband of the filter.","[""coupling loss"",""diffusion loss"",""insertion loss"",""filter loss""]",2
+"A circuit that generates the upper and lower sidebands but no carrier is called","[""amplitude modulator"",""diode detector"",""class C amplifier"",""balanced modulator""]",3
+"Vestigial sideband modulation (C3F) is normally used for","[""HF point-to-point communications"",""monaural broadcasting"",""TV broadcasting"",""stereo broadcasting""]",2
+"It is generally defined as the ratio of the power transferred to a load with a filter in the circuit to the power transferred to a load without a filter.","[""distortion loss"",""insertion loss"",""filter loss"",""harmonic loss""]",1
+"The modulation index of an AM wave is changed from 0 to 1. The transmitted power is","[""unchanged"",""halved"",""doubled"",""increased by 50 percent""]",3
+"The inputs to a balanced modulator are 1MHz and a carrier of 1.5 MHz. The outputs are","[""500 kHz and 1.5 MHz"",""2.5 MHz and 1.5 MHz"",""1.5 MHz and 500 kHz"",""500 kHz and 2.5 MHz""]",3
+"It is an indication of the reduction the signal-to-noise ration as a signal propagates through the receiver.","[""noise figure"",""equivalent noise temperature"",""noise factor"",""signal-to-noise ratio""]",1
+"Types of receivers where the frequencies generated in the receiver and used for demodulation are synchronized to oscillator frequencies generated in the transmitter.","[""coherent"",""asynchronous"",""non-coherent"",""none of these""]",0
+"Types of receiver where either no frequencies are generated in the receiver of the frequencies used for demodulation are completely independent form the transmitter’s carrier frequency.","[""synchronous"",""coherent"",""asynchronous"",""any of these""]",2
+"A widely used balanced modulator is called the ________.","[""diode bridge circuit"",""full-wave bridge rectifier"",""lattice modulator"",""balanced bridge modulator""]",2
+"Non-coherent detection is also known as ________.","[""frequency detection"",""noise detection"",""phase detection"",""envelope detection""]",3
+"It is one of the earliest type of AM receiver","[""TRF"",""transistorized"",""superhet"",""Armstrong""]",0
+"Which of the following is not true about the disadvantages of tuned radio frequency receiver?","[""their bandwidth is inconsistent and varies with center frequency when tuned over a wide range of input frequencies"",""it is unstable due to the large number of RF amplifiers all tuned to the same center frequency"",""their gains are not uniform over a very wide frequency range"",""it is very complex to construct""]",3
+"In a diode ring modulator, the diode acts like","[""variable resistors"",""switches"",""rectifiers"",""variable capacitors""]",1
+"It means to mix two frequencies together in a non-linear device or to translate on frequency to another using non-linear mixing.","[""oscillation"",""heterodyne"",""modulation"",""amplification""]",1
+"An AM transmitter antenna current is measured with no modulation and found to be 2.6 amperes. With modulation, the current rises to 2.9 amperes. The percentage modulation is","[""35%"",""70%"",""42%"",""89%""]",1
+"Its primary purpose is to provide enough initial bandlimiting to prevent a specific unwanted radio frequency from entering the receiver.","[""detector"",""predetector"",""preselector"",""mixer""]",2
+"It function is to reduce the noise bandwidth of the receiver and provides initial step toward reducing the overall receiver bandwidth to the minimum bandwidth required to pass the information signals.","[""preselector"",""detector"",""mixer"",""predetector""]",0
+"The output of a balanced modulator is","[""AM"",""FM"",""SSB"",""DSB""]",3
+"What is the first active device encountered by the received signal in the receiver?","[""mixer"",""RF amplifier"",""local oscillator"",""detector""]",1
+"The IF section is also known as","[""bandpass filters"",""IF strip"",""IF filter"",""intermediate filters""]",1
+"The detector in an AM receiver is known as","[""audio detector"",""power detector"",""first detector"",""amplitude limiter""]",0
+"A carrier of 880kHz is modulated by a 3.5 kHz sine wave. The LSB and USB are, respectively","[""873 and 887 kHz"",""876.5 and 883.5 kHz"",""883.5 and 876.5 kHz"",""887 and 873 kHz""]",1
+"The most commonly used filter in SSB generators uses","[""LC networks"",""mechanical resonators"",""crystals"",""RC networks and op-amps""]",2
+"Its purpose of the detector section is to convert the IF signals back to the original source information.","[""mixer"",""audio amplifier"",""converter"",""detector""]",3
+"It means that the two adjustments are mechanically tied together so that a single adjustment will change the center frequency of the preselector, at the same time, change the oscillator frequency.","[""high-side injecting"",""low-side injecting"",""gang tuning"",""local oscillator tracking""]",2
+"In a low-level AM system, amplifiers following the modulated stage must be","[""linear devices"",""harmonic devices"",""class C amplifiers"",""nonlinear devices""]",0
+"When the local oscillator is tuned above the radio frequency, it is called","[""local oscillator tracking"",""low-side injection"",""gang tuning"",""high-side injection""]",3
+"The equivalent circuit of a quartz us a","[""series resonant circuit"",""parallel resonant circuit"",""none of these"",""series and parallel resonant circuit""]",3
+"It is the ability of the local oscillator in a receiver to oscillate either above or below the selected radio frequency carrier by an amount equal to the intermediate frequency throughout the entire radio frequency brand.","[""tracking"",""mixing"",""heterodyning"",""tuning""]",0
+"The difference between the actual local oscillator frequency and the desired frequency is called ________.","[""mixing error"",""gang error"",""tracking error"",""quantizing error""]",2
+"What technique is used to prevent tracking error?","[""using RLC circuit"",""using tuned circuit"",""using three-point tracking"",""using ganged capacitors""]",2
+"a crystal lattice filter has a crystal frequencies pf 27.5 and 27.502MHz. The bandwidth is approximately","[""2 kHz"",""3 kHz"",""27.501 MHz"",""55.502 MHz""]",0
+"___________ is any frequency other than selected radio frequency carrier that, if allowed to enter a receiver and mix it with local oscillator, will produce a cross-product frequency that is equal to the intermediate frequency","[""image frequency"",""intermediate frequency"",""aliasing frequency"",""ghost""]",0
+"It is a equivalent to a second radio frequency that will produce an IF that will interfere with the IF from the desired radio frequency.","[""aliasing frequency"",""image frequency"",""interference"",""intermediate frequency""]",1
+"An SSB generator has a sideband filter centered at 3.0 MHz. The modulating signal is 3 kHz. To produce both upper and lower sidebands, the following carrier frequencies must be produced:","[""2.7 and 3.3 MHz"",""3.3 and 3.6 MHz"",""2997 and 3003 kHz"",""3000 and 3003 kHz""]",2
+"It is a numerical measure of the ability of the preselector to reject the image frequency.","[""image frequency rejection ratio"",""noise figure"",""numerical aperture"",""signal-to-noise ratio""]",0
+"_________ occurs when a receiver picks up the same station at two nearby points on the receiver tuning dial.","[""spurious pointing"",""under coupling"",""double spotting"",""optimal coupling""]",2
+"It is caused by poor front-end selectivity or inadequate image frequency rejection.","[""optimal coupling"",""double spotting"",""spurious pointing"",""under coupling""]",1
+"It is a high-gain, low noise, tuned amplifier that, when used is the first active encountered by the receiver signal.","[""mixer"",""local oscillator"",""RF amplifier"",""detector""]",2
+"It is a high performance microwave receiver at the input stage. In the RF section of optimize their noise figure.","[""high-power amplifier"",""low noise amplifier"",""buffer amplifier"",""local oscillator""]",1
+"A balanced modulator used to demodulates a SSB signal is called","[""transponder"",""product detector"",""converter"",""modulator""]",1
+"Which of the following is not the other name of a balanced modulator?","[""balanced mixer"",""product detector"",""product modulator"",""none of these""]",3
+"________ amplifiers are relatively high gain tuned amplifiers that are very similar to RF amplifiers, except that it operates over a relatively narrow, fixed frequency band.","[""IF amplifiers"",""low-noise amplifiers"",""buffer amplifiers"",""high-power amplifier""]",0
+"Type of tuned circuit where both the primary and secondary sides of the transformer are tuned tank circuits","[""RLC tuned circuit"",""double-tuned circuit"",""single-tuned circuit"",""LC tuned circuit""]",1
+"Frequency translation is done with a circuit called _______.","[""summer"",""multiplier"",""filter"",""mixer""]",3
+"Low noise RF amplifiers use what type biasing?","[""class A"",""class B"",""class AB"",""class C""]",0
+"Its purpose is to down-convert the incoming radio frequencies to intermediated frequencies.","[""local oscillator"",""RF amplifier"",""detector"",""mixer""]",3
+"It is a non-linear amplifier similar to modulator, except that the output is turned to different between the RF and local oscillator frequencies.","[""RF amplifier"",""local oscillator"",""mixer"",""detector""]",2
+"Mixing for frequency conversion is the same as","[""rectification"",""AM"",""linear summing"",""filtering""]",1
+"The most common technique used for coupling IF amplifiers","[""resistive coupling"",""inductive coupling"",""capacitive coupling"",""direct coupling""]",1
+"When the modulation index of an AM wave doubled, the antenna current is also doubled. The AM system being used is","[""single-sideband, full carrier (H3E)"",""vestigial sideband (C3F)"",""single sideband, suppressed carrier (J3E)"",""double sideband, full carrier (A3E)""]",2
+"The ability of a coil to induce a voltage within its own windings is called","[""mutual inductance"",""coefficient coupling"",""self- inductance"",""inductance""]",2
+"If the carrier of a 100 percent modulated AM wave is suppressed the percentage power saving will be","[""50"",""150"",""100"",""66.66""]",3
+"The ability of one coil to induce a voltage in another coil is called _________.","[""coefficient coupling"",""mutual inductance"",""inductance"",""self-inductance""]",1
+"Which of the following cam be used as a mixer?","[""balanced modulator"",""FET"",""diode modulator"",""all of the above""]",3
+"It is the ratio of the secondary flux to primary flux","[""Q factor"",""coefficient coupling"",""self-inductance"",""coefficient of modulation""]",1
+"Type of coupling where the secondary voltage is relatively low and the bandwidth is narrow.","[""tight coupling"",""optimum coupling"",""loose coupling"",""critical coupling""]",2
+"An AM signal, transmitted information is contained within the","[""carrier"",""modulating signal"",""sidebands"",""envelope""]",2
+"Type of coupling which has high gain and a broad bandwidth","[""optimum coupling"",""tight coupling"",""double coupling"",""loose coupling""]",1
+"It is the point where the reflected resistance is equal to primary resistance and the Q of the primary tank circuit is halved and the bandwidth doubled.","[""critical coupling"",""tight coupling"",""loose coupling"",""optimum coupling""]",0
+"The desired output from a mixer is usually selected with a","[""phase-shift circuit"",""crystal filter"",""resonant circuit"",""transformer""]",2
+"It is caused by the reactive element of the reflected impedance being significant enough to change the resonant frequency of the primary tuned circuit.","[""optimum coupling"",""critical coupling"",""double peaking"",""flux linkage""]",2
+"IF transformers come as specially designed tuned circuits in groundable metal packages called _______.","[""IF cans"",""IF container"",""IF strip"",""IF tetrapack""]",0
+"The AM detector is sometimes called _______.","[""first detector"",""third detector"",""second detector"",""fourth detector""]",2
+"The mixer is sometimes called _________.","[""first detector"",""third detector"",""second detector"",""fourth detector""]",0
+"The two inputs to a mixer are the signal to be translated and a signal from","[""modulator"",""filter"",""antenna"",""local oscillator""]",3
+"AM demodulator is commonly called _________.","[""phase detector"",""peak detector"",""frequency detector"",""transistor detector""]",1
+"A type of detector that detects the shape of the input envelope","[""peak detector"",""phase detector"",""diode detector"",""shape detector""]",3
+"The ratio of the peak modulating signal voltage to the peak carrier voltage is referred to as","[""voltage ratio"",""decibels"",""modulation index"",""mix factor""]",2
+"A circuit that automatically increases the receiver gain for weak RF input levels and automatically decreases the receiver gain when a strong RF signal is received.","[""automatic volume control"",""automatic frequency control"",""automatic gain control"",""automatic phase control""]",2
+"Which is not a type of AGC?","[""simple AGC"",""forward AGC"",""delayed AGC"",""complex AGC""]",3
+"The value Vmax and Vmin as read from AM wave on an oscilloscope are 3.0 and 2.8. The percentage of modulation is","[""10 percent"",""41.4 percent"",""80.6 percent"",""93.3 percent""]",2
+"Amplitude modulation is used for broadcasting because","[""it is more noise immune than other modulation systems"",""compared to other systems it requires less transmitting power"",""its use avoids receiver complexity"",""no other modulation system can provide the necessary bandwidth for high fidelity""]",2
+"Type of AGC that prevents the AGC feedback voltage from reaching the RF or IF amplifiers until the RF level exceeds a predetermined magnitude.","[""forward AGC"",""delayed AGC"",""complex AGC"",""simple AGC""]",1
+"A circuit with a purpose to quiet a receiver in the absence of a received signal.","[""automatic gain control"",""automatic frequency control"",""squelch circuit"",""automatic volume control""]",2
+"A section of a audio stage of a receiver that removes sporadic, high amplitude noise transients of short duration, such as impulse noise.","[""squelch circuit"",""clampers"",""clippers"",""peak detector""]",2
+"A circuit that detects the occurrence of a high-amplitude, short duration noise spike then mutes the receiver by shutting off a portion of the receiver of the duration of the pulse.","[""squelch circuit"",""limiter"",""clamper"",""blanking circuit""]",3
+"The opposite modulation is","[""reverse modulation"",""downward modulation"",""unmodulation"",""demodulation""]",3
+"For good image-frequency rejection, what is the desired value of the intermediate frequency?","[""relatively low IF"",""very low IF"",""relatively high IF"",""very high IF""]",2
+"With high-gain selective amplifiers that are stable and easily neutralized. what is the desired value of intermediate frequency?","[""low IF"",""medium IF"",""high IF"",""very high IF""]",0
+"It is defined as the ratio of the demodulated signal level at the output receiver to the RF signal level at the input to the receiver.","[""received signal level"",""figure of merit"",""effective radiated power"",""net receiver gain""]",3
+"It is the process of modifying the characteristic of one signal in accordance with some characteristic of another signal.","[""multiplexing"",""mixing"",""modulation"",""summing""]",2
+"The imaginary line on the carrier waveform of the amplitude modulated signal is called __________.","[""sidebands"",""envelope"",""spurious emission"",""information""]",1
+"Indicate the false statement regarding the advantages of the phase cancellation method of obtaining SSB over the filter method is false:","[""more channel space available"",""transmitter circuits must be stable, giving better spectrum"",""the signal is more noise resistant"",""much less power is required for the same signal strength""]",1
+"Indicate which one of the following advantages of the phase cancellation method of obtaining SSB over the filter method is false:","[""switching from one sideband to the other simpler"",""it is possible to generated SSB at any frequency"",""SSB with lower audio frequencies present can be generated."",""There are more balanced modulators, therefore the carrier is suppressed better""]",3
+"The most commonly used filters is SSB generation are","[""mechanical"",""RC"",""LC"",""low-pass""]",0
+"One of the following cannot be used to remove the unwanted sideband in SSB. This is the","[""filter system"",""phase-shift method"",""third method"",""balanced modulator""]",3
+"R3E modulation is sometimes used to","[""allow the receiver to have a frequency synthesizer"",""simplify the frequency stability problem in reception"",""reduce the power that must be transmitted"",""reduce the bandwidth required for transmission""]",1
+"To provide two or more voice circuits with the same carrier, it is necessary to use","[""ISB"",""carrier reinsertion"",""SSB with pilot carrier"",""Lincomplex""]",0
+"A type of AGC is similar to conventional AGC except that the receive signal is monitored closer to the front end of the receiver and the correction voltage is fed forward to the IF amplifiers","[""ISB"",""delayed AGC"",""complex AGC"",""simple AGC""]",1
+"Having an information signal change some characteristics of a carrier signal is called","[""multiplexing"",""modulation"",""duplexing"",""linear mixing""]",1
+"A circuit that compensates for minor variations in the received RF signal level","[""automatic volume control"",""automatic frequency control"",""automatic gain control"",""automatic phase control""]",2
+"Which of the following is not true about AM?","[""the carrier amplitude varies"",""the carrier frequency remains constant"",""the carrier frequency changes"",""the information signal amplitude changes the carrier amplitude""]",2
+"A modulator circuit performs what mathematical operation on its two inputs?","[""addition"",""multiplication"",""division"",""square root""]",1
+"If m is greater than 1, what happens?","[""normal operation"",""carrier drops to 0"",""information signal is distorted"",""nothing happens""]",2
+"The outline of the peaks of a carrier has the shape of modulating signal and is called _______.","[""trace"",""wave shape"",""envelope"",""carrier variation""]",2
+"The new signal produced by modulation are called __________.","[""spurious emission"",""harmonics"",""intermodulation products"",""sidebands""]",3
+"An AM signal has a carrier power of 5W, the percentage of modulation is 80 percent. The total power sideband is _________.","[""0.8 W"",""1.6 W"",""2.5 W"",""4.0 W""]",1
+"For 100 percent modulation, what percentage of power is in each sideband","[""25 percent"",""33.3 percent"",""50 percent"",""` d. 100 percent""]",1
+"An AM transmitter has a percentage of modulation of 88, the carrier power is 440 W. The power in one sideband is","[""85 W"",""110 W"",""170 W"",""610 W""]",0
+"An AM signal without the carrier is called ______.","[""SSB"",""vestigial sidebands"",""FM signal"",""DSB""]",3
+"It is a form of amplitude modulation in which the carrier is transmitted at full power, but only one of the sidebands is transmitted.","[""SSBFC"",""SSBSC"",""SSBRC"",""ISB""]",0
+"With single-sideband full carrier, 100% modulation would mean a carrier power of how many percent of the total transmitted power?","[""80%"",""20%"",""50%"",""40%""]",0
+"It is a form of amplitude modulation in which the carrier is suppressed and one of the sidebands removed","[""SSBFC"",""ISB"",""vestigial sideband"",""SSBSC""]",3
+"It is a form of amplitude modulation in which one sideband is totally removed and the carrier voltage is reduced to approximately 10% of its unmodulated amplitude","[""independent sideband"",""SSBFC"",""SSBRC"",""SSBSC""]",2
+"It is a form of amplitude modulation in which a single carrier frequency is independently modulated by two different modulating signal.","[""vestigial sideband"",""DSBFC"",""independent sideband"",""SSBFC""]",2
+"It is a form of amplitude modulation in which the carrier and one complete sideband are transmitted, but only part of the second sideband is transmitted.","[""independent sideband"",""vestigial sideband"",""DSBFC"",""SSBSC""]",1
+"It is the rms power developed at the crest of the modulation envelope of SSBSC.","[""carrier power"",""total transmitted power"",""sideband power"",""peak envelope power""]",3
+"Which of the following is not true about single-sideband transmission?","[""power is conserved"",""selective fading is eliminated"",""bandwidth is conserved"",""tuning is easy""]",3
+"A circuit that produces a double sideband suppressed carrier signal is called ____________.","[""filter"",""mixer"",""demodulator"",""balanced modulator""]",3
+"A balanced modulator is sometimes called _________.","[""balanced ring modulator"",""balanced resistor modulator"",""balanced lattice modulator"",""any of these""]",2
+"A type of filter that receives electrical energy, converts it to mechanical vibrations and then converts the vibrations back to electrical energy at its output.","[""crystal filter"",""mechanical filter"",""LC filter"",""SAW filter""]",1
+"A type of filter that uses acoustic energy rather than electromechanical energy to provide excellent performance for precise bandpass filtering.","[""SAW filter"",""RC filter"",""mechanical filter"",""crystal filter""]",0
+"The difference between the IF and the BFO frequencies is called _________.","[""information signal"",""beat frequency"",""carrier signal"",""heterodyned signal""]",0
+"It is a circuit which is a narrowband PLL that tracks the pilot carrier in the composite SSBRC receiver signal and uses the recovered carrier to regenerate coherent local oscillator frequencies in the synthesizer.","[""beat frequency oscillator"",""mechanical filter"",""local oscillator"",""carrier recovery circuit""]",3
+"A system that provides narrowband voice communications for land mobile services with nearly the quality achieved with FM systems and do it using less than one-third the bandwidth.","[""SSBSC"",""DSBFC"",""ACSSB"",""SSBAC""]",2
+"It is a process of combining transmissions from more than one source and transmitting them over a common facility such as metallic or optical fiber cable or a radio-frequency channel.","[""buffering"",""modulation"",""multiplexing"",""demultiplexing""]",2
+"It is an analog method of combining two or more analog sources that originally occupied the same frequency band in such a manner that the channels do not interfere with each other.","[""ATM"",""FDM"",""TDM"",""WDM""]",1
+"It is a multiplexing method that uses double-sideband suppressed-carrier transmission to combine two information sources into a single composite waveform.","[""QM"",""WDM"",""TDM"",""FDM""]",0
+"Single-sideband transmitters are rated in _________.","[""rms power"",""dc power"",""average power"",""peak envelope power""]",3
+"In an SSB transmitter, one is most likely to find a __________.","[""class C audio amplifier"",""tuned modulator"",""class B RF amplifier"",""class A RF output amplifier""]",3
+"Indicate in which one of the following only one sideband is transmitted:","[""H3E"",""A3E"",""B8E"",""C3F""]",0
+"One of the following cannot be used to remove the unwanted sideband in SSB. This is the","[""filter system"",""phase-shift method"",""third method"",""balanced modulator""]",3
+"R3E modulation is sometimes used to","[""allow the receiver to have a frequency synthesizer"",""simplify the frequency stability problem in reception"",""reduce the power that must be transmitted"",""reduce the bandwidth required for transmission""]",1
+"To provide two or more voice circuits with the same carrier, it is necessary to use","[""ISB"",""carrier reinsertion"",""SSB with pilot carrier"",""Lincomplex""]",0
+"The main advantage of SSB over standard AM or DSB is","[""less spectrum is used"",""simpler equipment is used"",""less power is consumed"",""a higher modulation percentage""]",0
+"In SSB, which sideband is the best to use?","[""upper"",""lower"",""neither"",""depends upon the use""]",3
+"The output of an SSB transmitter with a 3.85 MHz carrier and a 1.5 kHz sine wave modulating tone is","[""a 3.8485 MHz sine wave"",""a 3.85 MHz sine wave"",""3.85, 3.8485 and 3.8515 MHz sine waves"",""3848.5 and 3851.5 MHz sine waves""]",0
+"An SSB transmitter produces a 400 V peak to peak signal across a 52 ohm antenna load. The PEP output is","[""192.2 W"",""384.5 W"",""769.2 W"",""3077 W""]",1
+"The output power of SSB transmitter is usually expressed is terms of","[""average power"",""RMS power"",""peak to peak power"",""peak envelope power""]",3
+"An SSB transmitter has a PEP rating of 1 kilowatts. The average output power is in the range of","[""150 to 450 W"",""100 to 300 W"",""250 to 333 W"",""3 to 4 kW""]",2
+"In amplitude modulation technique, the unmodulated carrier is referred to as having___..","[""100% modulation"",""0% modulation"",""50% modulation"",""overmodulated""]",1
+"What is the process in radio communication where the information or intelligent signal is at lower frequency is put unto higher radio frequency for transmission to receiving station?","[""detection"",""mixing"",""modulation"",""demodulation""]",2
+"Which of the following signals is suppressed by balanced modulator circuit?","[""1st IF signal"",""carrier signal"",""harmonics"",""2nd IF signal""]",1
+"Results whenever the phase angle of sinusoidal wave is varied with respect to time","[""angle modulation"",""digital modulation"",""amplitude modulation"",""pulse modulation""]",0
+"In the spectrum of a frequency -modulated wave","[""the carrier frequency disappears with a large modulation index"",""the amplitude of any sideband depends on the modulation index"",""the total number of sidebands depends on the modulation index"",""the carrier frequency cannot disappear""]",1
+"What is the frequency swing of an FM broadcast transmitter when modulated 60%","[""60 kHz"",""45 kHz"",""30 kHz"",""25 kHz""]",1
+"Varying the frequency of a constant -amplitude carrier directly proportional to the amplitude to the modulating signal at a rate equal to the frequency of the modulating signal","[""amplitude modulation"",""angle modulation"",""phase modulation"",""frequency modulation""]",3
+"The amount of frequency deviation from the carrier center frequency in an FM transmitter is proportional to what characteristic of the frequency signal?","[""amplitude"",""frequency"",""phase"",""shape""]",0
+"It is a modulation where the angle of a wave carrier is varied from its reference value","[""amplitude modulation"",""angle modulation"",""analog modulation"",""digital modulation""]",1
+"Both FM and PM are types of what kind of modulation?","[""amplitude"",""phase"",""angle"",""duty cycle""]",2
+"Varying the phase of a constant amplitude carrier displacement proportional to the amplitude of the modulating signal at a rate equal to the frequency of the modulating signal.","[""amplitude modulation"",""angle modulation"",""phase modulation"",""frequency modulation""]",2
+"The difference between phase and frequency modulation","[""is purely theoretical because they are the same in practice"",""is too great to make the two systems compatible"",""lies in the poorer audio responses of phase modulation"",""lies in the different definitions of the modulation index""]",3
+"The relative angular displacement of the carrier phase in radians with respect to the reference phase is called __________.","[""phase deviation"",""carrier deviation"",""frequency deviation"",""information deviation""]",0
+"If the amplitude of the modulating signal decreases, the carrier deviation","[""increases"",""decreases"",""remains constant"",""goes to zero""]",1
+"On an FM signal, maximum deviation occurs at what point on the modulating signal?","[""zero-crossing points"",""peak positive amplitudes"",""peak negative amplitude"",""both peak positive and negative amplitudes""]",3
+"The amount of oscillator frequency increase and decrease around the carrier frequency is called _________.","[""frequency deviation"",""phase shift"",""intelligence frequency"",""baseband""]",0
+"The relative displacement of the carrier frequency in hertz in respect to its unmodulated value is called _____________.","[""frequency deviation"",""phase deviation"",""information deviation"",""carrier deviation""]",0
+"A pre-emphasis circuit provides extra noise immunity by","[""boosting the bass frequencies"",""amplifying the higher audio frequencies"",""pre-amplifying the whole audio band"",""converting the phase modulation to FM""]",1
+"It is the instantaneous change in phase of the carrier at a given instant of time and indicates how much phase of the carrier is changing with respect to its reference phase.","[""instantaneous frequency"",""instantaneous frequency deviation"",""instantaneous phase"",""instantaneous phase deviation""]",3
+"Calculate the amount of frequency deviation caused by a limited noise spike that still cause an undesired phase shift of 35 degrees when the input frequency is 5 kHz.","[""2.40 kHz"",""3.05 kHz"",""1.29 kHz"",""4.45 kHz""]",1
+"Which of the following determines the rate of carrier deviation?","[""intelligence frequency"",""frequency deviation"",""carrier frequency"",""broadband frequency""]",0
+"It is the precise phase of the carrier at a given instant of time","[""instantaneous phase deviation"",""instantaneous phase"",""instantaneous frequency deviation"",""instantaneous frequency""]",1
+"In PM, a frequency shift occurs while what characteristic of the modulating signal is changing?","[""shape"",""phase"",""frequency"",""amplitude""]",3
+"In FM, it is a device that in which amplitude variations are derived in response to frequency or phase variations","[""detector"",""discriminator"",""demodulator"",""receiver""]",1
+"Maximum frequency deviation of a PM signal occurs at","[""zero-crossing points"",""peak positive amplitudes"",""peak negative amplitude"",""peak positive and negative amplitude""]",0
+"Since noise phase-modulates the FM wave, as the noise sideband frequency approaches the carrier frequency, the noise amplitude","[""remains constant"",""is decreased"",""is increased"",""is equalized""]",1
+"It is the instantaneous change in frequency of the carrier and is defined as the first time derivative of the phase deviation","[""instantaneous frequency"",""instantaneous frequency deviation"",""instantaneous phase"",""instantaneous phase deviation""]",1
+"Since noise phase- modulates the FM wave, as the noise sideband frequency approaches the carrier frequency, the noise amplitude","[""remains constant"",""is decreased"",""is increased"",""is equalized""]",1
+"It is the precise frequency of the carrier at a given instant of time is defined as the first time derivative of the instantaneous phase.","[""instantaneous frequency"",""instantaneous frequency deviation"",""instantaneous phase"",""instantaneous phase deviation""]",0
+"It is the output-versus-input transfer functions for modulators which give the relationship between the output parameter changes in respect to specified changes in the input signal.","[""frequency deviation"",""deviation sensitivity"",""transconductance curve"",""phase deviation""]",1
+"When the modulating frequency is doubled, the modulation index is halved, and the modulating voltage remains constant. The modulation system is","[""amplitude modulation"",""phase modulation"",""frequency modulation"",""any of the above""]",2
+"In PM, carrier frequency deviation is not proportional to:","[""modulating signal amplitude"",""carrier amplitude and frequency"",""modulating signal frequency"",""modulator phase shift""]",1
+"To compensate for increases in carrier frequency deviation with an increase in modulating signal frequency, what circuit is used between the modulating signal and phase modulator?","[""low-pass filter"",""high-pass filter"",""phase shifter"",""bandpass filter""]",0
+"Indicate which one of the following is not an advantage of PM over AM:","[""better noise immunity is provided"",""lower bandwidth is required"",""the transmitted power is more useful"",""less modulating power is required""]",1
+"With phase modulation, the maximum frequency deviation occurs during what value of the modulating signal?","[""positive peak value"",""rms value"",""negative peak value"",""zero crossings""]",3
+"With frequency modulation, maximum frequency deviation occurs _____ of the modulation signal.","[""positive peak value"",""both positive and negative peak value"",""negative peak value"",""zero crossings""]",1
+"What was the first broadcast FM system called?","[""Arc transmitter"",""MOPA"",""Armstrong"",""crystal""]",2
+"With phase modulation, peak phase deviation is called _________.","[""modulation index"",""frequency deviation"",""phase deviation"",""instantaneous phase""]",0
+"The FM produced by PM is called","[""FM"",""PM"",""indirect FM"",""indirect PM""]",2
+"In a broadcast superheterodyne receiver, the","[""local oscillator operates below the signal frequency"",""mixer input must be tuned to the signal frequency"",""local oscillator frequency is normally double the OF"",""RF amplifier normally works at 455kHz above the carrier frequency""]",1
+"If the amplitude of the modulating signal applied to a phase modulator is constant, the output signal will be","[""zero"",""the carrier frequency"",""above the carrier frequency"",""below the carrier frequency""]",1
+"To prevent overloading of the last IF amplifier in the receiver, one should use the","[""squelch"",""variable sensitivity"",""variable selectivity"",""double conversion""]",1
+"The peak-to-peak frequency deviation is sometimes called __________.","[""phase deviation"",""peak phase deviation"",""carrier swing"",""instantaneous frequency""]",2
+"A 100MHz carrier is deviated 50 kHz by 4kHz signal. The modulation index is","[""5"",""8"",""12.5"",""20""]",2
+"With angle modulation, it is defined as the ratio of the frequency deviation actually produced to the maximum frequency deviation allowed by law stated in percent form.","[""modulation index"",""percent modulation"",""frequency deviation"",""phase deviation""]",1
+"In a broadcast FM system, the input S/N = 4. Calculate the worst case S/N at the output if the receiver’s internal noise effect is negligible.","[""19.8:1"",""21.6:1"",""23:1"",""15:1""]",0
+"It is a circuit in which the carrier is varied in such a way that its instantaneous phase is proportional to the modulating signal.","[""frequency modulators"",""amplitude modulators"",""phase modulators"",""mixers""]",2
+"In a ratio detector","[""the linearity is worse than in a phase discriminator"",""stabilization against signal strength variations is provided"",""the output is twice that obtainable from the similar phase discriminator"",""the circuit is the same as in a discriminator, except that the diodes are reversed""]",0
+"The maximum deviation of an FM carrier is 2 kHz by a maximum modulating signal of 400 Hz. The deviation ratio is","[""0.2"",""5"",""8"",""40""]",1
+"The unmodulated carrier is a single-frequency sinusoid commonly called _________.","[""unrest frequency"",""rest frequency"",""frequency-modulated frequency"",""carrier frequency""]",1
+"It is a circuit in which the carrier is varied in such a way that its instantaneous phase is proportional to the integral of the modulating signal","[""phase modulator"",""phase deviator"",""amplitude deviator"",""frequency modulator""]",3
+"The typical squelch circuit","[""cuts off an audio amplifier when the carrier is absent"",""eliminates the RF interference when the signal is weak"",""cuts off an IF amplifier when the AGC is maximum"",""cuts off an IF amplifier when the AGC is minimum""]",0
+"A 70 kHz carrier has a frequency deviation of 4 kHz with a 1000 Hz signal. What is the bandwidth of the FM signal?","[""4 kHz"",""7kHz"",""10 kHz"",""28 kHz""]",2
+"The controlled oscillator synthesizer is sometimes preferred to the direct one because","[""it is simpler piece of equipment"",""its frequency stability is better"",""it does not require crystal oscillators"",""it is relatively free of spurious frequencies""]",3
+"A system with a differentiator followed by an FM modulator is called","[""PM modulator"",""FM modulator"",""PM demodulator"",""FM demodulator""]",0
+"The image frequency of a superheterodyne receiver","[""is created within the receiver itself"",""is due to insufficient adjacent channel rejection"",""is not rejected by the IF tuned circuits"",""is independent of the frequency to which the receiver is tuned""]",2
+"A system with FM demodulator followed by an integrator","[""PM modulator"",""PM demodulator"",""FM modulator"",""FM demodulator""]",1
+"A system with an integrator followed by a PM modulator","[""PM modulator"",""FM modulator"",""PM demodulator"",""FM demodulator""]",1
+"An FM transmitter has a maximum deviation of 12 kHz and a maximum modulating frequency of 12 kHz. The bandwidth by Carson’s rule is","[""24 kHz"",""33.6 kHz"",""38.8 kHz"",""48 kHz""]",3
+"A system with PM demodulator followed by a differentiator","[""PM modulator"",""FM modulator"",""PM demodulator"",""FM demodulator""]",3
+"A receiver has poor IF selectivity. It will therefore also have poor","[""blocking"",""double-spotting"",""diversity reception"",""sensitivity""]",0
+"Three point tracking is achieved with","[""variable selectivity"",""the padder capacitor"",""double spotting"",""double conversion""]",1
+"He mathematically proved that for a given modulating signal frequency a frequency-modulated wave cannot be accommodated in a narrower bandwidth than an amplitude modulated wave.","[""R.C. Alpine"",""E.H. Armstrong"",""J.R. Carson"",""J.J. Thomson""]",2
+"The maximum allowed deviation of the FM sound signal in TV is 25 kHz. If the actual deviation is 18 kHz, the percent modulation is","[""43 percent"",""72 percent"",""96 percent"",""139 percent""]",1
+"The local oscillator of a broadcast receiver is tuned to a frequency higher than the incoming frequency","[""to help the image frequency rejection"",""to permit easier tracking"",""because otherwise an intermediate frequency could not be produced"",""to allow adequate frequency coverage without switching""]",3
+"Which of the following is not a major benefit of FM over AM?","[""greater efficiency"",""noise immunity"",""capture effect"",""lower complexity and cost""]",3
+"Low-index FM systems are also known as __________.","[""wideband FM"",""narrowband FM"",""commercial FM"",""medium FM""]",1
+"For high-index signal, a method of determining the bandwidth is called ________ approach","[""quasi-stationary"",""quasi-movement"",""quasi-deviation"",""any of these""]",0
+"When a receiver has a good blocking performance, this means that","[""it does not suffer from double-spotting"",""its image frequency rejection is poor"",""it is unaffected by AGC derived from a nearby transmission"",""its detector suffers from burnout""]",2
+"He established a general rule to estimate the bandwidth for all angle-modulated system regardless of the modulation index.","[""R.C. Alpine"",""E.H. Armstrong"",""J.R. Carson"",""J.J. Thomson""]",2
+"An AM receiver uses a diode detector for demodulation. This enables it satisfactorily to receive","[""single-sideband, suppressed carrier"",""single-sideband, reduced carrier"",""independent sideband"",""single-sideband, full carrier""]",3
+"The primary disadvantage of FM is its","[""higher cost and complexity"",""excessive use of spectrum space"",""noise susceptibility"",""lower efficiency""]",1
+"A rule that approximates the bandwidth necessary to transmit an angle-modulated wave as twice the sum of the peak frequency deviation and the highest modulating frequency.","[""Carson\u2019s rule"",""Shannon\u2019s rule"",""Hartley\u2019s law"",""Hartley-Shannon law""]",0
+"It is the worst case modulation index and is equal to the maximum peak frequency deviation divided by the maximum modulating signal frequency","[""peak phase deviation"",""frequency deviation"",""deviation ratio"",""signal to noise ratio""]",1
+"The receiver circuit that rids FM noise is the","[""modulator"",""demodulator"",""limiter"",""low-pass filter""]",2
+"The phenomenon of a strong FM signal dominating a weaker signal on a common frequency is referred to as the","[""capture effect"",""blot out"",""quieting factor"",""domination syndrome""]",0
+"The highest side frequencies form one channel are allowed to spill over into adjacent channels producing an interference known as _________.","[""co-channel interference"",""adjacent channel interference"",""splatter"",""overmodulation""]",1
+"A pre-emphasis is usually a ________.","[""high-pass filter"",""band-stop filter"",""low-pass filter"",""bandpass filter""]",0
+"Frequency modulation transmitters are more efficient because their power is increased by what type of amplifier?","[""class A"",""class B"",""class C"",""all of the above""]",2
+"Noise interferes mainly with modulating signals that are","[""sinusoidal"",""non-sinusoidal"",""low frequencies"",""high frequencies""]",3
+"A de-emphasis is usually a _________.","[""high pass filter"",""band-stop filter"",""low-pass filter"",""bandpass filter""]",2
+"A pre-emphasis is a __________.","[""integrator"",""differentiator"",""either integrator or differentiator"",""neither integrator or differentiator""]",1
+"A de-emphasis is a _____________.","[""integrator"",""differentiator"",""either integrator or differentiator"",""neither integrator or differentiator""]",0
+"Pre-emphasis circuit boost what modulating frequencies before modulation?","[""high frequencies"",""mid-range frequencies"",""low frequencies"",""all of the above""]",0
+"The primary disadvantage of direct PM","[""relatively unstable LC oscillators must be used to produce carrier frequency which prohibits using crystal oscillators"",""relatively high frequency deviations and modulation indices are easily obtained due to the fact that the oscillators are inherently unstable."",""crystal oscillators are inherently stable and therefore more difficult for them to achieve high phase deviations and modulation indices"",""carrier oscillator is isolated form the actual modulator circuit and therefore can be stable source.""]",2
+"It is an angle modulation in which the frequency of the carrier is deviated by the modulating signal","[""direct PM"",""PM"",""indirect FM"",""any of these""]",3
+"One of the following is a method of performing frequency up conversion","[""heterodyning"",""amplification"",""modulation"",""none of these""]",0
+"A pre-emphasis circuit is a","[""low-pass filter"",""high-pass filter"",""phase shifter"",""bandpass filter""]",1
+"Pre emphasis is compensated for the receiver by a","[""phase inverter"",""bandpass filter"",""high-pass filter"",""low-pass filter""]",3
+"A circuit that compares the frequency of the non-crystal carrier oscillator to a crystal reference oscillator and then produces a correction voltage proportional to the difference between the two frequencies","[""AFC"",""squelch circuit"",""AGC"",""heterodyning circuit""]",0
+"A frequency selective device whose output voltage is proportional to the difference between the input frequency and its resonant frequency","[""modulator"",""squelch circuit"",""frequency discriminator"",""FM transmitters""]",2
+"Allows FM receiver to differentiate between two signals received with the same frequency but different amplitudes","[""flywheel effect"",""amplitude limiting"",""noise immunity"",""capture effect""]",3
+"If an FM transmitter employs one doubler, one tripler, and one quadrupler, what is the carrier frequency swing when the oscillator frequency swing is 2 kHz?","[""24 kHz"",""48 kHz"",""14 kHz"",""12 kHz""]",1
+"The cut-off frequency of pre-emphasis and de-emphasis circuits is","[""1 kHz"",""2.122 kHz"",""5 kHz"",""75 kHz""]",1
+"Which of the following is not a disadvantage of angle modulation?","[""wide bandwidth"",""complex"",""high cost"",""less noise""]",3
+"In FM receivers, which of the following rejects the image frequency?","[""preselector"",""detector"",""IF amplifier"",""mixer""]",0
+"In FM receivers, which of the following provides most gain and selectivity of the receiver?","[""detector"",""RF amplifier"",""local oscillator"",""IF amplifier""]",3
+"Another name for Voltage Variable Capacitor is","[""PIN diode"",""varactor diode"",""snap diode"",""hot carrier diode""]",1
+"The depletion region in a junction diode forms what part of a capacitor?","[""plates"",""leads"",""package"",""dielectric""]",3
+"Which of the following removes the information from the modulated wave in FM receivers?","[""amplifiers"",""mixer"",""speakers"",""discriminator""]",3
+"The final IF amplifier in FM receivers is sometimes called ___________.","[""tuned amplifier"",""limiter"",""passband filter"",""any of these""]",1
+"Increasing the reverse bias on a varactor diode will it cause its capacitance to","[""decrease"",""increase"",""remains the same"",""drop to zero""]",0
+"The capacitance of a varactor diode is in what general range?","[""pF"",""nF"",""uF"",""F""]",0
+"Which of the following is the simplest form of tuned-circuit frequency discriminator?","[""Foster-Seeley discriminator"",""Ratio detector"",""slope detector"",""PLL detector""]",2
+"It is simply two single-ended slope detectors connected in parallel and fed 180 degrees out phase.","[""Foster-Seeley discriminator"",""quadrature detector"",""balanced slope generator"",""PLL detector""]",2
+"The frequency change in crystal oscillator produced by a varactor diode is","[""zero"",""small"",""medium"",""large""]",1
+"A phase modulator varies the phase shift of the","[""carrier"",""modulating signal"",""modulating voltage"",""sideband frequency""]",0
+"Which of the following tuned-circuit frequency discriminator is relatively immune to amplitude variations in its input signal?","[""ratio detector"",""slope detector"",""balanced slope detector"",""quadrature detector""]",0
+"In FM demodulators, it is also called coincidence detector","[""quadrature demodulator"",""PLL demodulator"",""Foster-Seely discriminator"",""ratio detector""]",0
+"The widest phase variation is obtained with ________.","[""RC low-pass filter"",""RC high-pass filter"",""LR low-pass filter"",""LC resonant circuit""]",3
+"An FM receiver provides 100dB of voltage gain prior to the limiter. Calculate the receiver’s sensitivity if the limiter’s quieting for an FM receiver is 300 mV?","[""4.5 uV"",""3.0 uV"",""2.1 uV"",""1.3 uV""]",1
+"The small frequency change produced by a phase modulator can be increased by using ___________.","[""amplifier"",""mixer"",""frequency multiplier"",""frequency divider""]",2
+"In FM receiver, limiters produce a constant-amplitude output of all signals above a prescribed minimum input level called _________.","[""threshold voltage"",""capture level"",""quieting level"",""any of these""]",3
+"The inherent ability of FM to diminish the effects of interfering signals is called _______.","[""capture effect"",""noise suppression"",""adjacent channel rejection"",""non of these""]",0
+"A crystal oscillator whose frequency can be changed by an input voltage is called _______.","[""VCO"",""VXO"",""VFO"",""VHF""]",1
+"Which oscillators are preferred for carrier generators because of their good frequency stability?","[""LC"",""RC"",""LR"",""crystal""]",3
+"Which of the following frequency demodulators requires an input limiter?","[""Foster-Seely discriminator"",""Pulse-averaging discriminator"",""quadrature detector"",""PLL""]",0
+"Provides a slight automatic control over the local oscillator circuit and compensates for its drift that would otherwise cause a station to become detuned.","[""AGC"",""AFC"",""VVC"",""VCO""]",1
+"________ of an FM receiver is the maximum dB difference signal strength between two received signals necessary for the capture effect to suppress the weaker signal.","[""capture effect"",""capture gain"",""capture ratio"",""capture loss""]",2
+"When two limiter stages are used, there is called ___________.","[""double limiting"",""two-time limiting"",""reserve limiting"",""ratio limiting""]",0
+"Which discriminator averages pulses in a low-pass filter?","[""ratio detector"",""PLL"",""quadrature detector"",""pulse-averaging discriminator""]",2
+"Which of the frequency demodulator is considered the best overall?","[""ratio detector"",""PLL"",""quadrature"",""pulse-averaging discriminator""]",1
+"One of the prominent advantage of FM over PM is","[""FM requires frequency multipliers to increase the modulation index and frequency deviation to useful levels"",""the voltage controlled oscillators of FM can be directly modulated and produce outputs with high frequency deviations and high modulation"",""the modulation index of FM is independent of the modulating signal frequency"",""FM offers better signal-to-noise performance than PM""]",1
+"What special speaker is used for low frequency?","[""baffle"",""base"",""tweeter"",""woofer""]",3
+"Each speaker assembly at the receiver reproduces exactly the same information","[""monophonic"",""multiphonic"",""stereophonic"",""any of these""]",0
+"In a pulse averaging discriminator, the pulse are produced by a(n)","[""astable multivibrator"",""zero-crossing detector"",""one-shot"",""low-pass filter""]",2
+"A reactance modulator looks like a capacitance of 35pF in parallel with the oscillator-tuned circuit whose inductance is 50 uH and capacitance is 40 pF. What is the center frequency of the oscillator prior to FM?","[""1.43 MHz"",""2.6 MHz"",""3.56 MHz"",""3.8 MHz""]",2
+"The frequency of an SCA channel subcarrier is _______.","[""38 kHz"",""15 kHz"",""67 kHz"",""53 kHz""]",2
+"The L-R stereo channel in FM broadcasting is between","[""50 Hz to 15 kHz"",""60 kHz to 74 kHz"",""23 kHz to 53 kHz"",""20 Hz to 20 kHz""]",2
+"An FM demodulator that uses a differential amplifier and tuned circuits to convert frequency variations into voltage variations is the","[""quadrature detector"",""Foster-Seeley discriminator"",""differential peak detector"",""phase-locked loop""]",2
+"The output amplitude of the phase detector in a quadrature detector is proportional to","[""pulse width"",""pulse frequency"",""input amplitude"",""the phase shift value at center""]",0
+"The output to a PLL is 2MHz. In order for the PLL to be locked. The VCO output must be","[""0 MHz"",""1 MHz"",""2 MHz"",""4 MHz""]",2
+"With stereo transmission, the maximum frequency deviation is","[""75 kHz"",""15 kHz"",""25 kHz"",""3 kHz""]",0
+"The L + R stereo channel occupies _________.","[""50 Hz to 15 kHz"",""60 kHz to 74 kHz"",""23 kHz to 53 kHz"",""20 Hz to 20 kHz""]",0
+"The band of frequencies over which a PLL will acquire or recognize an input signal is called the","[""circuit bandwidth"",""capture range"",""band of acceptance"",""lock range""]",1
+"The three primary frequency bands are allocated by FCC for two-way FM radio communications except:","[""132 MHz to 174 MHz"",""450 MHz to 470 MHz"",""806 MHz to 947 MHz"",""1026 MHz to 1035 MHz""]",3
+"The maximum frequency deviation for two-way transmitters is typically","[""25 kHz"",""5 kHz"",""75 kHz"",""3 kHz""]",1
+"Decreasing the input frequency to be locked PLL will cause the VCO output to","[""decrease"",""increase"",""remains constant"",""jump to the free-running frequency""]",3
+"The range of frequencies over which a PLL will track input signal variations is known as the","[""circuit bandwidth"",""capture range"",""band of acceptance"",""lock range""]",3
+"The maximum modulating signal frequency for two-way transmitter is typically","[""3 kHz"",""5 kHz"",""15 kHz"",""75 kHz""]",0
+"Over a narrow range of frequencies, the PLL acts like a","[""low-pass filter"",""bandpass filter"",""tunable oscillator"",""frequency modulator""]",1
+"The output of a PLL frequency demodulator is taken from the","[""low-pass filter"",""VCO"",""phase detector"",""none of these""]",0
+"The primary advantage of FM over AM","[""capture effect"",""noise immunity"",""FM can use class C amplifiers"",""FM is more efficient""]",1
+"The usual cutoff frequency of pre-emphasis and de-emphasis in broadcast FM?","[""50 Hz"",""75 Hz"",""2122 Hz"",""3183 Hz""]",2
+"The maximum deviation for narrowband FM?","[""2500"",""5"",""1.67"",""75""]",2
+"Which of the following is best frequency demodulator in use?","[""Foster-Seeley discriminator"",""ratio detector"",""slope detector"",""PLL""]",3
+"The range of frequencies over which the PLL will capture an input signal is known as ________.","[""lock range"",""capture range"",""bandwidth"",""sidebands""]",1
+"Type of FM demodulator that is widely used in TV audio demodulators","[""ratio detector"",""quadrature detector"",""PLL"",""pulse-averaging discriminator""]",1
+"A variation of Foster-Seeley discriminator widely used in older TV receiver designs","[""ratio detector"",""PLL"",""quadrature detector"",""crosby modulator""]",0
+"The range of frequencies over which a PLL will track an input is called","[""lock range"",""capture range"",""track range"",""driving range""]",0
+"What is the maximum deviation for stereo TV sound?","[""25 kHz"",""75 kHz"",""50 kHz"",""125 kHz""]",2
+"In FM stereo broadcasting, the L + R signal","[""double-sideband modulates a subcarrier"",""modulates the FM carrier"",""frequency modulates a subcarrier"",""is not transmitted""]",1
+"In FM stereo broadcasting, the L – R signal","[""double-sideband modulates a subcarrier"",""modulates the FM carrier"",""frequency modulates a subcarrier"",""none of these""]",0
+"The SCA signal if used in FM broadcasting is transmitted via","[""a 19 kHz subcarrier"",""a 38 kHz subcarrier"",""a 67 kHz subcarrier"",""the main FM carrier""]",2
+"Which of the following is considered as an indirect method of generating FM?","[""reactance modulator"",""balanced modulator"",""varactor diode modulation"",""armstrong system""]",3
+"In an FM system, if the modulation index is doubled by halving the modulating frequency, what will be the effect on the maximum deviation?","[""remains the same"",""doubles"",""decrease by 1\/2"",""increase by 1\/4""]",0
+"Determine from the following the common use of DSB in broadcast and telecommunication.","[""satellite communications"",""FM\/TV stereo"",""two-way communications"",""telephone systems""]",1
+"Phase modulation emission type","[""F3F"",""G3E"",""F3E"",""F3C""]",1
+"The range of frequencies over which a PLL will cause the input of the VCO signals to remain synchronized is known as the _________ range.","[""capture"",""lock"",""acquisition"",""any of these""]",1
+"If the PLL input is zero, the VCO will operate at its ____________ frequency.","[""free-running"",""natural"",""operating"",""any of these""]",3
+"Since a PLL will only respond to signals over a narrow frequency range, it acts likes a ________.","[""low-pass filter"",""high-pass filter"",""bandpass filter"",""bandstop filter""]",2
+"In a PLL demodulating an FM signal, the VCO output is an exact reproduction of the ___________.","[""modulating signal"",""carrier signal"",""carrier amplitude"",""VCO output""]",0
+"In a PLL demodulating an FM signal, the VCO output is an exact reproduction of the ________.","[""FM input"",""VCO input"",""modulating signal"",""error signal""]",2
+"After the IF stages have been aligned, the next state to align in FM receiver is","[""local oscillator"",""limiter stage"",""RF amplifier"",""mixer stage""]",0
+"The modulation system used for telegraphy is","[""frequency-shift keying"",""two-tone modulation"",""purse-code modulation"",""single-tone modulation""]",0
+"What is emission F3F?","[""Facsimile"",""RTTY"",""modulated CW"",""television""]",3
+"What is a frequency discriminator?","[""a circuit for filtering two closely adjacent signals"",""a circuit for detecting FM signals"",""an FM generator"",""an automatic band switching circuit""]",1
+"Type of radio communication transmission utilizing frequency modulation technique","[""television video"",""broadcasting in 535-1606 kHz"",""single sideband HF transmission"",""television audio""]",0
+"Why was FM first developed?","[""to compete with AM"",""to overcome noise"",""to increase listeners"",""to supplement AM""]",1
+"To what feature of the modulating tone is FM deviation proportional?","[""amplitude"",""frequency"",""phase"",""phase shift""]",0
+"Which of the following is not a basic filed of FM?","[""broadcast"",""TV video"",""mobile communications"",""amateur radio""]",1
+"Under what condition would a 1 kHz AF signal produce a single pair of FM sidebands?","[""wideband"",""broadcast FM"",""TV audio FM"",""narrowband FM""]",3
+"What deviation is considered 100% for FM broadcast stations?","[""75 kHz"",""220 kHz"",""270 kHz"",""75 kHz or 220 kHz""]",3
+"In FM broadcasting, what is the highest required modulating frequency?","[""75 kHz"",""50 kHz"",""25 kHz"",""15 kHz""]",3
+"In FM broadcasting, what is the lowest required modulating frequency?","[""50 Hz"",""30 Hz"",""10 Hz"",""5 Hz""]",0
+"What is the disadvantage of slope detection of FM","[""no discrimination against noise"",""less AF distortion"",""less AF out"",""no filtering of carrier""]",0
+"What is the unction of the dc that comes out of the dc amplifier in a PLL-type FM detector?","[""carrier signal"",""filter signal"",""error signal"",""phase signal""]",2
+"What is the function of the dc that comes out of the dc amplifier in a PLL-type FM detector?","[""oscillators"",""AF signal"",""RF signal"",""carrier signal""]",1
+"Why should discriminators be tuned for a straight characteristic S-curve?","[""less AF distortion"",""greater AF out"",""less RF out"",""less RF distortion""]",0
+"What band for high-Q coils be more desirable for stagger-tuned-type discriminator transformer?","[""wide"",""intermediate"",""interfacing"",""narrow""]",3
+"In a Foster-Seeley circuit, the AF output voltage is ________.","[""varying DC"",""varying AC"",""steady DC"",""steady AC""]",1
+"In a stagger-tuned discriminator, the AF output voltage is _________.","[""varying DC"",""varying AC"",""steady DC"",""steady AC""]",1
+"In a ratio detector, the AF output voltage is","[""steady AC"",""varying AC"",""steady DC"",""varying DC""]",3
+"In a gated-beam detector, the AF output voltage is _________.","[""steady DC"",""varying AC"",""varying DC"",""steady AC""]",2
+"Which of the following discriminator circuits require limiters ahead of them?","[""quadrature detector"",""foster-seeley discriminator"",""slope detector"",""stagger-tuned""]",1
+"Which of the following discriminator circuits provide an automatic gain control voltage?","[""ratio detector"",""balanced slope detector"",""quadrature detector"",""stagger-tuned detector""]",3
+"Which of the following discriminator circuits has its diodes in series?","[""ratio"",""quadrature detector"",""round-travis detector"",""slope detector""]",0
+"To what frequency must the gated-beam quadrature circuit be tuned in a TV receiver?","[""10.7 MHz"",""455 kHz"",""70 MHz"",""4.5 MHz""]",3
+"To what frequency must the gated-beam quadrature circuit be tuned in an FM broadcast receiver?","[""4.3 MHz"",""10.7 MHz"",""11 MHz"",""4.8 MHz""]",1
+"What is the advantage of PM?","[""can use crystal oscillator"",""uses more multistage"",""less selective fading"",""simplicity""]",0
+"With what FM detectors would AGC be an advantage?","[""foster-seeley detector"",""ratio detector"",""quadrature detector"",""phase-locked loop""]",1
+"What is the reason for using pre-emphasis?","[""increase amplitude"",""reduce carrier shift"",""amplify RF signal"",""reduce noise reception""]",3
+"What are the two types of stages in an FM receiver that differ from those in an AM receiver?","[""limiting IF and detectors"",""oscillators and IF amplifiers"",""mixers and RF amplifiers"",""local oscillators and mixers""]",0
+"What special circuits are used in a squelch system that can follow changing noise levels?","[""noise amplifiers"",""rectifier"",""dc amplifier"",""any of these""]",3
+"Why might FM be better than AM for mobile ________.","[""better coverage"",""not affected by solar cycles"",""reduce flutter"",""not absorbed by ionosphere""]",2
+"What is the order of circuit alignment in an FM receiver?","[""discriminator, limiters, IF, mixer and RF"",""RF, limiters, IF, mixer and discriminator"",""limiters, mixer, RF, discriminator and IF"",""RF, mixer, RF, IF, limiters and discriminator""]",0
+"What is the another name for the reactance-tube modulator?","[""Crosby"",""Foster-Seeley"",""Round Travis"",""Messier""]",0
+"What effect would be produced if a small inductance were used in place of the 50 pF capacitance in the reactance-tube modulator?","[""the circuit becomes resistive"",""reactance modulator looks like an inductive circuit"",""reactance modulator looks like Xc"",""any of these""]",2
+"The following are significant circuits in the AFC system except:","[""crystal"",""mixer"",""IF"",""filter""]",3
+"Besides the reactance-tube modulator, what is another method of producing direct FM?","[""armstrong modulator"",""voltage variable capacitor"",""impedance modulator"",""slug indicator""]",1
+"Which of the following is not true about AM?","[""The carrier amplitude varies."",""The carrier frequency remains constant."",""The carrier frequency changes."",""The information signal amplitude changes the carrier amplitude.""]",2
+"The opposite of modulation is","[""Reverse modulation"",""Downward modulation"",""Unmodulation"",""Demodulation""]",3
+"The circuit used to produce modulation is called","[""Modulator"",""Demodulator"",""Variable gain amplifier"",""Multiplexer""]",0
+"A modulator circuit performs what mathematical operation on its two inputs?","[""Addition"",""Multiplication"",""Division"",""Square root""]",1
+"The ratio of the peak modulating signal voltage to the peak carrier voltage is referred to as","[""The voltage ratio"",""Decibels"",""The modulation index"",""The mix factor""]",2
+"If m is greater than 1, what happens?","[""Normal operation"",""Carrier drops to zero"",""Carrier frequency shifts"",""Information signal is distorted""]",3
+"Information signal is distorted","[""For ideal AM, which of the following is true?"",""m = 0"",""m = 1"",""m &lt; 1\n m &gt; 1""]",1
+"The outline of the peaks of a carrier has the shape of the modulating signal and is called the","[""Trace"",""Waveshape"",""Envelope"",""Carrier variation""]",2
+"The values of Vmax and Vmin as read from an AM wave on oscilloscope are 2.8 and 0.3. the percentage of modulation is","[""10.7%"",""41.4%"",""80.6%"",""93.3%""]",2
+"The new signals produced by modulation are called","[""Spurious emissions"",""Harmonics"",""Intermodulation products"",""Sidebands""]",3
+"A carrier of 880 kHz is modulated by a 3.5 kHz sine wave. The LSB and USB are, respectively,","[""873 and 887 kHz"",""876.5 and 883.5 kHz"",""883.5 and 876.5 kH"",""887 and 873 kHz""]",1
+"A display of signal amplitude versus frequency is called the","[""Time domain"",""Frequency Spectrum"",""Amplitude Spectrum"",""Frequency Domain""]",3
+"Most of the power in an AM signal is in the","[""Carrier"",""Upper sideband"",""Lower sideband"",""Modulating signal""]",0
+"An AM signal has a carrier power of 5 W. the percentage of modulation is 80% the total sideband power is","[""0.8 W"",""1.6 W"",""2.5 W"",""4.0 W""]",1
+"For 100% modulation, what percentage of power is in each sideband?","[""25%"",""33.3%"",""50%"",""100%""]",0
+"An AM transmitter has a percentage of modulation of 88. The carrier power is 440 W. The power is 440 W. The power in one sideband is","[""85 W"",""110 W"",""170 W"",""610 W""]",0
+"An AM transmitter antenna current is measured with no modulation and found to be 2.6 amperes. With modulation, the current rises to 2.9 amperes. The percentage of modulation is","[""35%"",""70%"",""42%"",""89%""]",1
+"What is the carrier power in the problem above if the antenna resistance is 75 ohms?","[""195 W"",""631 W"",""507 W"",""792 W""]",2
+"In an AM signal, the transmitted information is contained within the","[""Carrier"",""Modulating signal"",""Sidebands"",""Envelope""]",2
+"An AM signal without the carrier is called a(n)","[""SSB"",""Vestigial sideband"",""FM signal"",""DSB""]",3
+"What is the minimum AM signal needed to transmit information?","[""Carrier plus sidebands"",""Carrier only"",""One sideband"",""Both sideband""]",2
+"The main advantage of SSB over standard AM or DSB is","[""Less spectrum space is used"",""Simpler equipment is used"",""Less power is consumed"",""A higher modulation percentage""]",0
+"In SSB, which sideband is the best to use?","[""Upper"",""Lower"",""Neither"",""Depends upon the use""]",3
+"The typical audio modulating frequency range used in radio and telephone communication is","[""50 Hz to 5 kHz"",""50 Hz to 15 kHz"",""100 Hz to 10kHz"",""300 Hz to 3 kHz""]",3
+"An AM signal with a maximum modulating signal frequency of 4.5 kHz has a total bandwidth of","[""4.5 kHz"",""6.75 kHz"",""9 kHz"",""18 kHz""]",2
+"The modulation system used for telegraphy is","[""Frequency-shift keying"",""Two-tone modulation"",""Pulse-code modulation"",""Single-tone modulation""]",0
+"The process of translating a signal, with or without modulation, to a higher or lower frequency for processing is called","[""Frequency multiplication"",""Frequency division"",""Frequency shift"",""Frequency conversion""]",3
+"Frequency translation is carried out by a circuit called a","[""Translator"",""Convertor"",""Balanced modulator"",""Local oscillator""]",1
+"An input signal of 1.8 MHz is mixed with a local oscillator of 5 MHz. A filter selects the difference signal. The output is","[""1.8 MHz"",""3.2 MHz"",""5 MHz"",""6.8 MHz""]",1
+"One type of pulse communications system uses pulse that appear as a group, and which vary in number according to the loudness of the voice. This type of pulse modulation is called","[""Pulse duration modulation"",""Pulse amplitude modulation"",""Pulse code modulation"",""Pulse position modulation""]",2
+"An SSB transmitter produces a 400-V peak to peak signal across a 52-Ω antenna load. The PEP output is","[""192.2 W"",""384.5 W"",""769.2 W"",""3077 W""]",2
+"The output power of an SSB transmitter is usually expressed in terms of","[""Average power"",""RMS power"",""Peak-to-peak power"",""Peak envelope power""]",3
+"The letter-number designation B8E is a form of modulation also known as","[""Pilot-carrier system"",""Independent sideband emission"",""Lincomlex"",""Vestigial sideband transmission""]",1
+"Amplitude modulation is the same as","[""Linear mixing"",""Analog multiplication"",""Signal summation"",""Inductor""]",1
+"In a diode modulator, the negative half of the AM wave is supplied by a(n)","[""Tuned circuit"",""Transformer"",""Capacitor"",""Inductor""]",0
+"Amplitude modulation can be produced by","[""Having the carrier vary a resistance"",""Having the modulating signal vary a capacitance"",""Varying the carrier frequency"",""Varying the gain of an amplifier""]",0
+"Amplitude modulators that vary the carrier amplitude with the modulating signal by passing it through an attenuator work on the principle of","[""Rectification"",""Resonance"",""Variable resistance"",""Absorption""]",2
+"The component used to produce AM at very high frequencies is a","[""Varactor"",""Thermistor"",""Cavity resonator"",""PIN diode""]",3
+"Amplitude modulation generated at a very low voltage or power amplitude is known as","[""High-level modulation"",""Low-level modulation"",""Collector modulation"",""Minimum modulation""]",1
+"A collector modulator has a supply voltage of 48 V. The peak-to-peak amplitude of the modulating signal for 100 percent modulation is","[""24 V"",""48 V"",""96 V"",""120 V""]",2
+"A collector modulated transmitter has a supply voltage of 24 V and collector current of 0.5 A. The modulator power for 100 percent modulation is","[""6 W"",""12 W"",""18 W"",""24 W""]",1
+"The circuit that recovers the original modulating information from an AM signal is known as a","[""Modulator"",""Demodulator"",""Mixer"",""Crystal set""]",1
+"The most commonly used amplitude demodulator is the","[""Diode mixer"",""Balanced modulator"",""Envelope detector"",""Crystal filter""]",0
+"A circuit that generates the upper and lower sidebands but no carrier is called a(n)","[""Amplitude modulator"",""Diode detector"",""Class C amplifier"",""Balanced modulator""]",3
+"The inputs to a balance modulator are 1 MHz and a carrier of 1.5 MHz. The outputs are","[""500 kHz"",""2.5 MHz"",""1.5 MHz"",""Both a and b""]",3
+"A widely used balanced modulator is called the","[""Diode bridge circuit"",""Full-wave bridge rectifier"",""Lattice Modulator"",""Balanced bridge modulator""]",2
+"In a diode ring modulator, the diodes act like","[""Variable resistors"",""Switches"",""Rectifiers"",""Variable capacitors""]",1
+"The output of a balanced modulator is","[""AM"",""FM"",""SSB"",""DSB""]",3
+"The most commonly used filter in SSB generators uses","[""LC network"",""Mechanical resonators"",""Crystals"",""RC networks and op amps""]",2
+"The equivalent circuit of a quartz crystal is a","[""Series resonant circuit"",""Parallel resonant circuit"",""Neither a nor b"",""Both a and b""]",3
+"A crystal lattice filter has crystal frequencies of 27.5 and 27.502 MHz. The bandwidth is approximately","[""2 kHz"",""3 kHz"",""27.501 MHz"",""55.502 MHz""]",0
+"An SSB generator has a sideband filter centered at 3.0 MHz. The modulating signal is 3 kHz. To produce both upper and lower sidebands, the following carrier frequencies must be produced:","[""2.7 and 3.3 MHz"",""3.3 and 3.6 MHz"",""2997 and 3003 kHz"",""3000 and 3003 kHz""]",2
+"In the phasing method of SSB generation, one sideband is canceled due to","[""Phase shift"",""Sharp selectivity"",""Carrier suppression"",""Phase inversion""]",0
+"A balanced modulator used to demodulate a SSB signal is called a(n)","[""Transporter"",""Product detector"",""Converter"",""Modulator""]",1
+"Frequency translation is done with a circuit called a","[""Summer"",""Multiplier"",""Filter"",""Mixer""]",3
+"The inputs to a mixer are fo and fm. In down conversion, which of the following mixer output signals is selected?","[""Fo"",""Fm"",""Fo \u2013 fm"",""Fo + fm""]",3
+"Mixing for frequency conversion is the same as","[""Rectification"",""AM"",""Linear summing"",""Filtering""]",2
+"Which of the following can be used as a mixer?","[""Balanced modulator"",""FET"",""Diode modulator"",""All the above""]",1
+"The desired output from a mixer is usually selected with a","[""Phase-shift circuit"",""Crystal filter"",""Resonant circuit"",""Transformer""]",2
+"The amount of frequency deviation from the carrier center frequency in an FM transmitter is proportional to what characteristic of the modulating signal?","[""Amplitude"",""Phase"",""Angle"",""Duty Cycle""]",0
+"Both FM and PM are types of what kind of modulation?","[""Amplitude"",""Phase"",""Angle"",""Duty Cycle""]",1
+"If the amplitude of the modulating signal decreases, the carrier deviation","[""Increases"",""Decreases"",""Remains constant"",""Both b and c""]",1
+"In PM, a frequency shift occurs while what characteristic of the modulating signal is changing?","[""Shape"",""Phase"",""Frequency"",""Amplitude""]",2
+"Maximum frequency deviation of a PM signal occurs at","[""Zero crossing points"",""Peak positive amplitude"",""Peak negative amplitude"",""Peak positive or negative amplitudes""]",0
+"A 100-MHz carrier is deviated 50 KHz by a 4 kHz signal. The modulation index is","[""5"",""8"",""12.5"",""40""]",2
+"The maximum deviation of an FM carrier is 2 kHz by a maximum modulating signal of 400 Hz. The deviation ratio is","[""0.2"",""5"",""8"",""40""]",1
+"According the Nyquist theorem, the sampling rate that can be used in a PCM system is _____ the highest audio frequency","[""Once"",""Eight times"",""Twice"",""Thrice""]",2
+"SSB transmission requires only _______ of the bandwidth for a DSBFC","[""\u00bc"",""2\/3"",""\u00bd"",""\u00be""]",2
+"Which of the following pulse modulation systems is analog?","[""Delta"",""Differential PCM"",""PWM"",""PCM""]",2
+"Which of the following is not a major benefit of FM over AM?","[""Greater efficiency"",""Noise immunity"",""Capture Effect"",""Lower Complexity and Cost""]",3
+"The primary disadvantage of FM is it","[""Higher cost and complexity"",""Excessive use of spectrum space"",""Noise susceptibility"",""Lower efficiency""]",1
+"The phenomenon of a strong FM signal dominating weaker signal on a common frequency is referred to as the","[""Capture effect"",""Blot out"",""Quieting factor"",""Dominating syndrome""]",0
+"If the plate supply voltage for a plate-modulated class C amplifier is E, the maximum plate-cathode voltage could be almost as high as","[""4E"",""3E"",""2E"",""E""]",0
+"In a low-level AM system, amplifiers following the modulated stage must be","[""Linear devices"",""Harmonic devices"",""Class C amplifiers"",""Nonlinear devices""]",0
+"If the carrier of a 100 percent modulated AM wave is suppressed, the percentage power saving will be","[""50"",""150"",""100"",""66.66""]",3
+"Leak-type bias is used in a plate-modulated class C amplifier to","[""Prevent tuned circuit damping"",""Prevent excessive grid current"",""Prevent overmodulation"",""Increase the bandwidth""]",1
+"The output stage of a television transmitter is most likely to be a","[""Plate-modulated class C amplifier"",""Grid-modulated class C amplifier"",""Screen-modulated class C amplifier"",""Grid-modulated class A amplifier""]",1
+"The modulation index of an AM wave is changed from 0 to 1. The transmitted power is","[""Unchanged"",""Halved"",""Doubled"",""Increased by 50 percent""]",3
+"One of the advantages of base modulation over collector modulation of a transistor class C amplifier is","[""The lower modulating power required"",""Higher power output per transistor"",""Better efficiency"",""Better linearity""]",0
+"A carrier simultaneously modulated by two sine waves with modulation indices of 0.3 and 0.4; the total modulation index","[""1"",""0.5"",""0.7"",""Cannot be calculated unless the phase relations are known""]",1
+"In the stabilized reactance modulator AFC system,","[""The discriminator must have a fast time constant to prevent demodulation"",""The higher the discriminator frequency, the better the oscillator frequency stability"",""The discriminator frequency must not be too low, or the system will fail"",""Phase modulation is converted into FM by the equalizer circuit""]",2
+"In the spectrum of a frequency of a frequency-modulated wave","[""The carrier frequency disappears when the modulation index is large"",""The amplitude of any sideband depends on the modulation index"",""The total number of sidebands depends on the modulation index"",""The carrier frequency cannot disappear""]",1
+"The difference between phase and frequency modulation","[""Is purely theoretical because they are the same in practice"",""Is too great to make the two systems compatible"",""Lies in the poorer audio response of phase modulation"",""Lies in the different definitions of the modulation index""]",3
+"Indicate the false statement regarding the Armstrong modulation system.","[""The system is basically phase, not frequency, modulation"",""AFC is not needed, as a crystal oscillator is used"",""Frequency multiplication must be used"",""Equalization is unnecessary""]",3
+"An FM signal with a modulation index mf is passed through a frequency tripler. The wave in the output of the tripler will have a modulation index of","[""mf\/3"",""mf"",""3 mf"",""9mf""]",2
+"An FM signal with a deviation δ is passed through a mixer, and has its frequency reduced fivefold. The deviation in the output of the mixer is","[""5 \u03b4"",""\u03b4"",""\u03b4\/5"",""Indeterminate""]",1
+"A pre-emphasis circuit provides extra noise immunity by","[""Boosting the bass frequencies"",""Amplifying the higher audio frequencies"",""Pre-amplifying the whole audio band"",""Converting the phase modulation to FM""]",1
+"Since noise phase modulates the FM wave, as the noise sideband frequency approaches the carrier frequency, the noise amplitude","[""Remains constant"",""Decreased"",""Increased"",""Equalized""]",1
+"When the modulating frequency is doubled, the modulation index is halved, and the modulating voltage remains constant. The modulating system is","[""Amplitude modulation"",""Phase modulation"",""Frequency modulation"",""Any of the three""]",2
+"Indicate which one of the following is not an advantage of FM over AM","[""Better noise immunity is provided"",""Lower bandwidth is required"",""The transmitted power is more useful"",""Less modulating power is required""]",1
+"One of the following is an indirect way of generating FM. This is the","[""Reactance FET modulator"",""Varactor diode modulator"",""Armstrong modulator"",""Reactance bipolar transistor modulator""]",2
+"Indicate the false statement regarding the advantages of SSB over double-sideband, full-carrier AM.","[""More channel space is available"",""Transmitter circuits must be more stable, giving better reception"",""The signal is more noise resistance"",""Much less power is required for the same signal strength""]",1
+"When the modulation index of an AM wave is doubled, the antenna current is also doubled. The AM system being used is","[""A3H"",""A5C"",""A3J"",""A3""]",0
+"Indicate which of the following advantages of the phase cancellation method of obtaining SSB over the filter method is false","[""Switching from one sideband to the other is simpler"",""It is possible to generate SSB at any frequency"",""SSB with lower audio frequencies present can be generated"",""There are more balanced modulators; therefore the carrier is suppressed better""]",3
+"The most commonly used filter in SSB generation are","[""Mechanical"",""RC"",""LC"",""Low- pass""]",0
+"Indicate in which one of the following only one sideband is transmitter","[""A3H"",""A3"",""A3B"",""A5C""]",0
+"A3A modulation is sometimes used to","[""Allow the receiver to have a frequency synthesizer"",""Simplify the frequency stability problem in reception"",""Reduce the power that must be transmitted"",""Reduce the bandwidth required for transmission.""]",1
+"Amplitude modulation causes the amount of transmitter power to","[""Increase"",""Decrease"",""Remain the same"",""Double""]",0
+"When a carrier is modulated 100%, the total power increases by what percentage over that of the carrier alone?","[""25 %"",""50 %"",""75 %"",""100 %""]",1
+"When the amplitude of the modulating voltage is increased for AM, the antenna current will","[""Increase"",""Decrease"",""Remain constant"",""Decrease exponentially""]",0
+"An increase in transmitter power from 25 W to 30 W will cause the antenna current to increase from 700mA to","[""800 mA"",""750 mA"",""767 mA"",""840 mA""]",2
+"A second modulating tone having the same amplitude but a different frequency is added to the first at the input to the modulator. The modulation index will be increased by a factor of","[""sq. root of 3"",""sq. root of 2"",""2"",""3""]",1
+"A 1000 kHz carrier is modulated by a 2500 Hz tone. One frequency component of the modulated signal is","[""1200 Hz"",""5000 Hz"",""1002.5 kHz"",""2500 Hz""]",2
+"A 1200 kHz carrier is amplitude-modulated by two tones of 500 Hz and 700 Hz. Which one is a frequency component of the modulated wave?","[""1195 kHz"",""1199.3 kHz"",""1199.7 kHz"",""1205 kHz""]",1
+"Identify a modulation method, or methods in use for a common-emitter configuration","[""Base modulation"",""Emitter modulation"",""Collector modulation"",""Both A and C""]",3
+"The RF signal injected into a balanced modulator is 10MHz and the modulating frequency is 1 kHz. Which frequency, or frequencies, will not appear in the output?","[""9.999 MHz"",""10 MHz"",""10.0001 MHz"",""Both A and B""]",1
+"Unwanted sidebands in SSB equipment can be suppressed by one or more of the following methods.","[""Phasing method"",""Filter method"",""Decoder method"",""Both A and B""]",3
+"Envelope detection is concerned with the process of","[""Mixing"",""Heterodyning"",""Modulation"",""Rectification""]",3
+"Diagonal clipping in envelope detection will result in","[""Distortion"",""Phase reversal"",""Reduced sensitivity"",""Amplitude damage""]",0
+"Product detection requires the process of","[""Rectification"",""Heterodyning"",""Decoding"",""Phase shifting""]",1
+"A sine wave which is coherent with carrier has identical","[""Amplitude"",""Frequency"",""Phase angle"",""Both B and C""]",3
+"Frequency modulation and phase modulation are collectively referred to as","[""Stereo"",""Angle modulation"",""High fidelity modulation"",""FCC modulation""]",1
+"In FM, the change in carrier frequency is proportional to what attribute of the modulating signal?","[""Angle"",""Frequency"",""Amplitude"",""Tone""]",2
+"A louder sound, when generating the modulating waveform for FM, will cause a greater","[""Carrier amplitude"",""Angle amplitude"",""Distortion at the receiver"",""Frequency deviation""]",3
+"If a positive change in modulation signal level of 200 mW will cause a positive frequency deviation of 10 kHz, what will be the frequency deviation for a negative change of 10 mV in the level of the modulating signals?","[""0"",""-5 kHz"",""+5 kHz"",""+0 kHz""]",1
+"A particular 15 kHz modulation tone results in a peak frequency deviation of 75 kHz. What is the modulation index?","[""5"",""15"",""75"",""3""]",0
+"A 15 kHz sine wave frequency modulates an 88 MHz carrier. A sideband frequency will be found at","[""87.970 MHz"",""87.985 MHz"",""88.015 MHz"",""All of these""]",3
+"A device whose capacitance is deliberately made to be a function of the applied voltage","[""Varactor diode"",""UJT"",""SAW"",""Variable capacitor""]",0
+"A reactance modulator is one method of obtaining","[""Indirect FM"",""Direct FM"",""Demodulation"",""Low frequency filtering""]",1
+"A device, now available in IC form, is useful for direct FM and as one element in the phase-locked loop.","[""AFC"",""AGC"",""VCO"",""LPF""]",2
+"_____ is a frequency change process, whereby the phase deviation and frequency deviation are multiplied by some fixed constant.","[""Translation"",""Multiplication"",""Division"",""Addition""]",1
+"A circuit that has the function of demodulating the frequency-modulated signal.","[""AFC"",""Envelope detector"",""Decoder"",""Foster-Seeley discriminator""]",3
+"The ratio detector is superior to the slope detector because","[""It is less sensitive to phase modulation"",""It is less sensitive to noise spikes"",""It is less sensitive to interference causing AM"",""Both B and C""]",3
+"One implementation of a pulse averaging discriminator is","[""A free-running multivibrator"",""A crystal-controlled oscillator"",""A quartz crystal filter"",""A triggered multivibrator""]",3
+"A 10% increase in the frequency of a constant-width pulse train should cause what change in its average value?","[""\u201310 %"",""\u20131 %"",""+1 %"",""+10 %""]",3
+"Two different signals can be coherent if they","[""Have the same amplitude"",""Are both sine waves of different frequencies"",""Originate in the same physical equipment simultaneously"",""Have the same frequency""]",3
+"A quadrature detector requires that","[""Four gates bee provided"",""The inputs are coherent"",""The inputs are incoherent"",""The inputs are identical""]",1
+"In a phase-locked loop, the VCO is the abbreviation for","[""Variable coherent output"",""VHF communication oscillator"",""Voltage-controlled oscillator"",""Vien-count oscillator (neutralized)""]",2
+"Identify an advantage, or advantages of a properly designed FM system.","[""Relative immunity to atmospheric noise (lightning)"",""Reduced bandwidth required"",""No noise of any kind"",""The noise figure is inversely proportional to the modulation index""]",0
+"The output of a balanced modulator","[""LSB and USB"",""LSB"",""USB"",""Carrier""]",0
+"If the modulation index of an AM wave is changed from 0 to 1, the transmitted power is","[""Unchanged"",""Halved"",""Doubled"",""Increased by 50%""]",3
+"Which of the following is not a baseband signal of modulation?","[""Audio signal"",""Video signal"",""RF carrier"",""Binary coded pulses""]",2
+"If the unmodulated level peak carrier amplitude is doubled in an AM signal, the perfect modulation is ________.","[""20"",""50"",""100"",""200""]",2
+"Balanced modulator circuit when inserted in the equivalent suppresses the ___________","[""Carrier"",""Upper sideband"",""Lower sideband"",""Baseband signal""]",0
+"The carrier of a 100% modulated AM wave is suppressed, the percentage power saving is __.","[""100 %"",""50 %"",""83 %"",""66.66 %""]",3
+"If the modulation index if an AM wave is doubled, the antenna current is also doubled, the AM system being used is","[""H3E"",""J3E"",""C3F"",""A3E""]",1
+"100% modulation in AM means a corresponding increase in total power by _______.","[""100 %"",""50 %"",""75 %"",""25 %""]",1
+"A single-tone amplitude modulated wave has _______.","[""2 components"",""3 components"",""4 components"",""2n + 1 components""]",1
+"A carrier signal has ________.","[""Constant peak amplitude"",""Frequency range of 20 \u2013 20,000 Hz"",""A varying amplitude"",""The information""]",0
+"The modulating system is _________ if the modulating frequency is doubled, the modulation index is halved, and the modulating voltage remains constant.","[""Amplitude modulation"",""Phase modulation"",""Frequency modulation"",""Pulse modulation""]",2
+"What is the modulation index of an FM signal if its modulating frequency is doubled?","[""No effect"",""Twice the original index"",""Four times the original index"",""One-half the original index""]",3
+"An AM transmitter is rated 1000 W at 100% modulation. How much power required for the carrier?","[""1000 W"",""666.6 W"",""333.3 W"",""866.6 W""]",1
+"Standard way of designating AM","[""A3E"",""B3E"",""AHE"",""C3F""]",0
+"_____ is the circuit used to detect frequency modulated signal.","[""Discriminator"",""Modulator"",""Modem"",""Detector""]",0
+"_____ is an information signal that is sent directly without modulating any carrier.","[""C-band"",""Q-band"",""Baseband"",""Broadband""]",2
+"Both frequency and phase modulation utilize ______ modulation.","[""Digital"",""Phase"",""Amplitude"",""Angle""]",3
+"Which transmit only one sideband?","[""H3E"",""C3F"",""A3E"",""B8E""]",0
+"______ is kind of modulation in which the modulated wave is always present.","[""Carrier modulation"",""Continuous modulation"",""Log-periodic modulation"",""Square-wave modulation""]",1
+"A type of modulation in which no signal is present between pulses.","[""Pulse modulation"",""FSK"",""QAM"",""PAM""]",0
+"What describes the amount of amplitude change present in an AM waveform?","[""Percent modulation"",""Modulation constant"",""Envelope of modulation"",""Coefficient of modulation""]",3
+"_______ is a form of amplitude distortion introduced when the positive and negative alternations in the AM modulated signals are not equal.","[""Envelope distortion"",""Spurious emission"",""Carrier shift"",""Johnson noise""]",2
+"What is the advantage of phase modulation over direct FM frequency modulation?","[""Multipliers can be used"",""The deviation is smaller"",""Simplicity and practicality"",""The oscillator is crystal-controlled""]",3
+"If the spectrum is shifted in frequency with no other changes, this is known as","[""Frequency multiplication"",""Sideband movement"",""Baseband reorientation"",""Frequency translation""]",3
+"A device which is capable of causing frequency translation","[""High-Q tank circuit"",""Balanced modulator"",""Low-Q tank circuit"",""IF strip""]",1
+"If the frequency of each component in a signal spectrum is increased by the same fixed amount, this known as","[""Modulation"",""Frequency translation"",""Up conversion"",""Both B and C""]",3
+"A particular amplifier is designed to be a frequency doubler. If the input signal frequency is 15.4 MHz, a circuit in the output will be tuned to","[""7.7 MHz"",""15.4 MHz"",""30.8 MHz"",""61.6 MHz""]",2
+"A sine wave of 293 MHz is phase-modulated to achieve a maximum phase deviation of 0.2 radian. After passing through a frequency tripler, the maximum phase deviation will be","[""0.2 radian"",""0.3 radian"",""0.4 radian"",""0.6 radian""]",3
+"Any device to be used as a frequency multiplier must be","[""Active"",""Passive"",""Linear"",""Nonlinear""]",3
+"A particular amplifier circuit used for frequency doubling.","[""Push-push"",""Push-pull"",""Pull-push"",""Pull-pull""]",0
+"Frequency division is useful in the implementation of a","[""AM demodulator"",""Frequency synthesizer"",""AGC circuit"",""FM demodulator""]",1
+"Frequency division by 12 will require how many flip-flops in the counter?","[""3"",""4"",""6"",""12""]",1
+"Identify an electronic device, not specifically designed for the purpose, which can be used as a phase detector.","[""Wien bridge"",""Colpitts oscillator"",""Balanced modulator"",""Butterworth filter""]",2
+"A particular frequency synthesizer contains only a single crystal. What words describe this synthesizer?","[""Crystal modulated"",""Inexact"",""Indirect"",""Deficient""]",2
+"A recognizable feature of a CW transmitter is","[""Keyed transmitter"",""Power amplification"",""Frequency generation"",""All of these""]",3
+"The term “pulling” refers to","[""The change of the crystal oscillator frequency by loading"",""One half-cycle operation of a push-pull amplifier"",""Loading on the transmitter caused by the antenna connection"",""Reduction of the power supply terminal voltage as the transmitter is keyed.""]",0
+"When frequency modulation is achieved by initial phase modulation, this is called","[""Angular modulation"",""Direct FM"",""Indirect FM"",""Indirect synthesis""]",2
+"A disadvantage of direct FM is the need for","[""AGC"",""AFC"",""A frequency synthesizer"",""Phase modulation""]",1
+"Direct FM can be achieved by","[""A reactance tube modulator"",""A varactor diode"",""And AGC circuit"",""Both A and B""]",3
+"A receiver in which all RF amplifier stages require manual tuning to the desired RF is called","[""Superheterodyne"",""Autodyne"",""TRF"",""AFC""]",2
+"Why is it often necessary to precede the demodulator by amplifier stages in a receiver?","[""To improve fidelity"",""To reduce receiver noise"",""To eliminate image response"",""Weak antenna signals""]",3
+"A serious disadvantage of the TRF receiver.","[""Bandwidth variations over the tuning range"",""The weight and cost"",""The requirements for a closely regulated power supply"",""The requirements for a half-wave antenna""]",0
+"Identify which is not a part of a superheterodyne receiver.","[""Local oscillator"",""Modulator"",""IF amplifier"",""Demodulator""]",1
+"Which major element will not be found in every superheterodyne receiver?","[""R\u2013F amplifier"",""Mixer"",""Local oscillator"",""IF amplifier""]",0
+"Which major element of a superheterodyne receiver must be nonlinear?","[""R-F amplifier"",""Mixer"",""Local oscillator"",""IF amplifier""]",1
+"The change of the modulated carrier frequency from the original RF to the IF of the superheterodyne receiver is known as","[""Frequency multiplication"",""Frequency allocation"",""Frequency substitution"",""Frequency translation""]",3
+"The key to achieving receiver sensitivity is the reduction of","[""Image response"",""Mixer harmonic products"",""Spurious frequency response"",""Internal noise""]",3
+"Which of the following receiver design objectives is not impossible?","[""Elimination of galactic noise"",""Elimination of atmospheric noise"",""Elimination of man-made noise"",""Reduction of receiver internal noise""]",3
+"In comparing the S/N ratio for the input to the receiver with the S/N ratio for the output, the latter is","[""Smaller"",""The same"",""Greater"",""Infinite""]",0
+"The characteristic of a receiver that specifies the self-generated noise.","[""Noise immunity"",""Noise factor"",""Noise figure"",""Noise margin""]",2
+"An FM receiver with an I-F of 10.7 MHz is tuned to 98.7 MHz. What is the numerical value of the image frequency?","[""77.3 MHz"",""88.0 MHz"",""109.4 MHz"",""120.1 MHz""]",3
+"A source of RF interference exists at 109.9 MHz. For which frequency in the FM broadcast band will this be the image frequency?","[""21.4 MHz"",""88.5 MHz"",""99.2 MHz"",""110.7 MHz""]",1
+"The ratio of the superheterodyne receiver response at the desired carrier frequency to that at the image frequency is called","[""The sensitivity"",""The selectivity"",""The image frequency"",""The image rejection ratio""]",3
+"The core of an IF transformer usually contains","[""Teflon"",""Computer nylon"",""Powdered iron"",""Laminated steel""]",2
+"Shape factor is a measure of","[""Bandwidth"",""Skirt steepness"",""Coupling coefficient"",""Critical coupling""]",1
+"_______ is the function which tends to maintain the sound volume level of a voice receiver nearly constant for a large signal strength range.","[""Squelch"",""Muting"",""AGC"",""AFC""]",2
+"The function which tends to silence the receiver in the absence of transmitted carrier.","[""Squelch"",""Muting"",""AGC"",""AFC""]",0
+"What device is incorporated in a communications receiver to reduce impulse noise?","[""Front-end processor"",""Squelch circuit"",""AGC"",""Noise blanker""]",3
+"What type of signal in which a receiver selectivity of 2.4 kHz in the I-F circuitry is optimum?","[""FM voice"",""Double-sideband AM voice"",""FSK data"",""SBB voice""]",3
+"If the input to a detector stage is an amplitude-modulated (A3E) IF signal then the output from the stage is","[""A lower frequency carrier"",""The audio voice information"",""A Morse-code signal"",""The upper or lower set of sidebands""]",1
+"In a capacitive type, reactance-tube modulator connected across an oscillator tuned circuit, a more negative voltage on the grid of the reactance tube will cause","[""An increase of the oscillator frequency"",""An decrease of oscillator frequency"",""An increase of the reactance-tube capacitance"",""An increase of the reactance tube ac plate current""]",0
+"The limiting condition for sensitivity in a communications receiver is","[""The noise floor of the receiver"",""Power supply output ripple"",""The two-tone intermodulation distortion"",""The input impedance to the detector""]",0
+"When a communications receiver is tuned to a strong signal, the AGC bias is measured and found to be zero. The fault cannot be caused by a/an","[""Defective IF stage"",""Defective local oscillator"",""Defective RF stage"",""Open circuit in the AGC\u2019s filter capacitor""]",3
+"The term used to refer to the condition where the signals from a very strong station are superimposed on other signals being received","[""Cross-modulation interference"",""Intermodulation interference"",""Receiver quieting"",""Capture effect""]",0
+"The limiter stage of an FM receiver","[""Behaves as a low-pass filter"",""Limits the amplitude of the IF signal to the required level"",""Behaves as a high-pass filter"",""Behaves as a bandstop filter""]",1
+"Motorboating (low-frequency oscillations) in an amplifier can be stopped by","[""Grounding the screen grid"",""Connecting a capacitor between the B+ and lead ground"",""By passing the screen grid resistor with a 0.1 \u00b5F capacitor"",""Grounding the plate""]",1
+"Leads should be kept as short as possible in radio circuit so that","[""Skin effect is reduced"",""There is less hysteresis effect"",""There is less dielectric loss"",""Stray coupling is minimized""]",3
+"The number of voice transmissions that can be packed into a given frequency band for amplitude-compandored single-sideband systems over conventional FM-phone systems.","[""2"",""18"",""16"",""4""]",3
+"Neutralization of an RF amplifier stage can be necessary in order to","[""Increase the amplifier\u2019s gain"",""Prevent the generation of spurious oscillations"",""Reduce the amplifier\u2019s gain"",""Reduce the level of the output harmonics""]",1
+"The ability of a communications receiver to perform well in the presence of strong signals outside the band of interest is indicated by what parameter?","[""Blocking dynamic range"",""Noise figure"",""Signal-to-noise ratio"",""Audio output""]",0
+"Stages that are common to both AM and FM receivers","[""Tuner, local oscillator, detector, AF amplifier"",""RF amplifier, mixer, IF amplifier, AF amplifier"",""Local oscillator, RF amplifier, frequency discriminator, detector"",""Tuner, IF amplifier, detector, AF amp""]",1
+"Occurs during CW reception if too narrow a filter bandwidth is used in the IF stage of a receiver","[""Filter ringing"",""Undesired signals will reach the audio stage"",""Output-offset overshoot"",""Cross-modulation distortion""]",0
+"What stage mainly determines a communication receiver’s sensitivity?","[""IF amplifier"",""Mixer stage"",""Detector stage"",""RF amplifier""]",0
+"What is the main advantage of FM over AM?","[""Better signal-to-noise-ratio"",""Narrower bandwidth"",""Greater propagation range"",""Total freedom from adjacent-channel interference""]",0
+"An amplitude modulation created in an amplifier before the final RF stage.","[""Low-level modulation"",""High-level modulation"",""Direct modulation"",""Indirect modulation""]",0
+"Receiver desensitizing can be reduced by","[""Increasing the transmitter audio gain"",""Decreasing the receiver squelch gain"",""Increasing the receiver bandwidth"",""Ensuring good RF shielding between the transmitter""]",3
+"In a narrow-band FM system, the deviation ratio is commonly one and the highest audio frequency is generally limited to","[""300 Hz"",""10,000 Hz"",""3,000 Hz"",""7,500 Hz""]",2
+"A type of emission is produced when an amplitude modulated transmitter is modulated by a facsimile signal","[""A3F"",""F3F"",""A3C"",""F3C""]",2
+"Where is the noise generated which primarily determines the signal to noise ratio in a VHF (150 MHz) marine band receiver?","[""In the detector"",""In the atmosphere"",""In the ionosphere"",""In the receiver front end""]",3
+"Cross-modulation in a receiver can be reduced by","[""Installing a filter at the receiver"",""Using a filter at the receiver"",""Increasing the receiver\u2019s RF gain while decreasing the AF"",""Adjusting the pass-band tuning""]",0
+"What is the emission designation for FM telephony?","[""F3E"",""G3E"",""J3E"",""H3E""]",0
+"What is the cause of receiver desensitizing?","[""The presence of a strong signal on a nearby frequency"",""Audio gain adjusted too low"",""Squelch gain adjusted too high"",""Squelch gain adjusted too low""]",0
+"In a phase-modulated signal (indirect FM), the frequency deviation is directly proportional to the","[""Carrier amplitude only"",""Amplitude of the modulating tone and frequency of the carrier"",""Carrier frequency only"",""Modulating signal amplitude only""]",0
+"An RF stage precedes the mixer stage in a superheterodyne receiver. One advantage of including this RF stage is","[""Better selectivity"",""Better rejection ratio"",""Greater sensitivity"",""Improved signal-to-noise-ratio""]",1
+"Two factors that determine the sensitivity of a receiver.","[""Dynamic range and third-order intercept"",""Cost and availability"",""Bandwidth and noise figure"",""Intermodulation distortion and dynamic range""]",2
+"What is an undesirable effect of using too-wide a filter bandwidth in the IF section of a receiver?","[""Undesired signals will reach the audio stage"",""Output-offset overshoot"",""Thermal-noise distortion"",""Filter ringing""]",0
+"A system containing a limiter stage, a discriminator, and a de-emphasis circuit?","[""Direct FM transmitter"",""Indirect FM transmitter"",""Single sideband AM receiver"",""FM receiver""]",3
+"The limiter stage of an FM receiver","[""Prevents any amplitude modulation of the IF signal"",""Limits the amount of frequency deviation in the IF signal"",""Limits the overall bandwidth of the IF stages"",""Corrects any deviation in carrier frequency""]",0
+"High selectivity occurs when the degree of coupling between a receiver’s RF stages is","[""Tight"",""Loose"",""Critical"",""Adjusted for maximum power transfer""]",1
+"A carrier is phase modulated by a test tone. If the amplitude and the frequency of the tone are both doubled, the amount of the deviation is","[""Doubled"",""Unchanged"",""Halved"",""Multiplied by four""]",3
+"The degree of selectivity desirable in the IF circuitry of a single-sideband receiver.","[""1 kHz"",""2.4 kHz"",""4.2 kHz"",""4.8 kHz""]",1
+"The component most apt to break down in the radio circuit is the","[""Crystal"",""Resistor"",""Transformer"",""Diode""]",1
+"The base in an RF amplifier is grounded in order to","[""Avoid the requirement of neutralizing the stage"",""Raise the input impedance"",""Lower the output impedance"",""Obtain maximum power output""]",0
+"The AM detector performs two basic functions in the receiver.","[""Rectifies and filters"",""Amplifiers and filters"",""Buffer and amplifier"",""Buffer and detector""]",0
+"A varactor diode can be used in a/an","[""Direct FM modulator circuit"",""AFC circuit in a direct FM transmitter"",""Phase-modulator circuit"",""All of these""]",3
+"Receiver interference is not reduced by including a/an","[""Crystal filter"",""Insulating enclosures around the receiver"",""Wave trap"",""RF stage""]",1
+"What is the emission C3F?","[""RTTY"",""SSB"",""Television"",""Modulated CW""]",2
+"What is the approximate dc input power to a class AB RF power amplifier stage in an unmodulated carrier transmitter when the PEP output is 500 W?","[""Approximately 1000 W"",""Approximately 800 W"",""Approximately 250 W"",""Approximately 600 W""]",0
+"Which of the following stages in an FM receiver is responsible for drastically reducing the effect of static noise during the reception of a signal","[""De-emphasis circuit"",""Mixer stage"",""Squelch circuit"",""Limiter stage""]",3
+"The letters “SSSC” stands for","[""Single sideband, single carrier"",""Suppressed sideband, single channel"",""Suppressed sideband, single carrier"",""Single sideband, suppressed carrier""]",3
+"For many types of voices, what is the ratio of PEP-to-average power during a modulation peak in a single-sideband phone signal?","[""Approximately 1.0 to 1"",""Approximately 25 to 1"",""Approximately 100 to 1"",""Approximately 2.5 to 1""]",3
+"In most mixers, the oscillator frequency is ______ than the carrier frequency of the input signal.","[""Higher"",""Lower"",""The same"",""10 kHz above""]",0
+"Features of a transmitter’s buffer stage include","[""High stage"",""Harmonic generation"",""Improvement in frequency stability of the oscillator"",""Low input impedance""]",2
+"Type of emission produced when an amplitude modulated transmitter is modulated by a television signal","[""F3F"",""A3C"",""F3C"",""A3F""]",3
+"How is G3E FM-phone signals produced?","[""A network consisting modulator on the audio amplifier"",""With a reactance modulator on the final amplifier"",""With a reactance modulator on the oscillator"",""With a balanced modulator on the oscillator""]",2
+"A way of eliminating auto interference to radio reception","[""Installing resistive spark plugs"",""Installing capacitive spark plugs"",""Installing resistors in series with the spark plugs"",""Installing two copper-braid ground strips""]",0
+"The carrier in an AM transmitter is the","[""Transmitter\u2019s output signal when the modulation is present"",""Transmitter\u2019s output signal when the modulation is zero"",""Output signal from the crystal oscillator"",""RMS value of the AM signal""]",1
+"What stage feeds the discriminator of an FM receiver?","[""Local oscillator"",""Mixer stage"",""Final IF amplifier, which also acts as a limiter stage"",""Buffer""]",2
+"In an FM receiver, the stage that has the IF signal is input and the audio signal output.","[""Limiter"",""Audio amplifier"",""IF amplifier"",""Discriminator""]",3
+"What is capture effect?","[""All signals on a frequency are demodulated by an FM receiver"",""The loudest signal received is the only demodulated signal"",""All signals on a frequency are demodulated by an AM receiver"",""The weakest signal received is the only demodulated signal""]",1
+"A double-sideband phone signal can be generated by","[""Feeding a phase-modulated signal into a low-pass filter"",""Modulating the plate voltage of a class-C amplifier"",""Using a balanced modulator followed by a filter"",""Detuning a Hartley oscillator""]",1
+"Pre-emphasis is used in FM transmitters to improve the signal-to-noise ratio of","[""High modulating frequencies"",""Low modulating frequencies"",""All modulating frequencies"",""Frequencies carrier""]",0
+"The result of cross-modulation is that","[""The modulation of an unwanted signal is heard on the desired signal"",""A decrease in modulation level of transmitted signals"",""Of receiver quieting"",""Of inverting sidebands in the final stage of the amplifier""]",0
+"Which of the following contains de-emphasis circuit?","[""FM transmitter"",""FM receiver"",""VHF transmitter"",""VHF receiver""]",1
+"What type of emission is produced when a frequency modulated transmitter is modulated by a facsimile signal?","[""F3C"",""A3C"",""F3F"",""A3F""]",0
+"Two AM transmitting antennas are close together. As a result the two modulated signals are mixed in the final RF stage of both transmitters. What is the resultant effect on other station?","[""Harmonic interference"",""Intermodulation interference"",""Spurious interference"",""Crossmodulation interference""]",1
+"The term used to refer to the reduction of receiver gain caused by the signal of a nearby station transmitter in the same frequency band?","[""Quieting"",""Cross-modulation interference"",""Squelch gain rollback"",""Desensitizing""]",3
+"What is the bandwidth occupied by the carrier, both sidebands and harmonics?","[""Authorized bandwidth"",""Bandwidth of emission and occupied bandwidth"",""Operating bandwidth"",""All of these""]",1
+"A class-C RF amplifier is collector amplitude modulated and its average dc level collector current does not change. This means","[""A normal condition"",""Excessive drive to the base"",""Insufficient drive to the base"",""Insufficient audio modulation""]",0
+"What determines the percentage modulation of an FM transmitter?","[""Amplitude of the carrier"",""Modulating frequency"",""Carrier frequency"",""Amplitude of the modulating signal""]",3
+"Deviation ratio of an FM transmitter is the ratio of the","[""Maximum frequency swing to the highest modulating frequency"",""Operating frequency of the assigned frequency"",""Frequency swing to the modulating frequency"",""Highest modulating frequency to the minimum frequency""]",0
+"The main purpose of the beat frequency oscillator (BFO) is to generate","[""A 1 kHz not for Morse reception"",""Aid in the reception of weak voice-modulated signals"",""An output, whose frequency differs from the IF by 1 kHz"",""A signal, whose frequency is the same as intermediate frequency""]",2
+"Normally, a linear class BRF power amplifier operates with a bias approximately equal to","[""Twice cut-off"",""Ten times cut-off value"",""50% of cut-off value"",""Projected cut-off""]",3
+"The purpose why an RF amplifier is operated under linear class-B conditions (as opposed to class-C) is to","[""Generate only even harmonics"",""Generate only odd harmonics"",""Increase the efficiency"",""Amplify of an AM signal""]",3
+"The term used to refer to the condition where the signal from a very strong station are superimposed on other signal being received.","[""Cross-modulation interference"",""Intermodulation distortion"",""Receiver quieting"",""Capture effect""]",0
+"_________ is the amplitude of the maximum negative excursion of a signal as viewed on an oscilloscope.","[""Peak-to-peak voltage"",""Inverse peak positive voltage"",""RMS voltage"",""Peak negative voltage""]",3
+"The type of emission that suffer most from selective fading.","[""CW and SSB"",""SSB and TV"",""FM and double sideband AM"",""SSTV and CW""]",2
+"In an FM-phone signal, ________ is the ratio between the actual frequency deviation to the maximum frequency deviation.","[""FM compressibility"",""Modulating index"",""Percentage of modulation"",""Quieting index""]",2
+"_______ is used to refer to the reception blockage of one FM-phone signal by another FM-phone signal.","[""Capture effect"",""Desensitization"",""Cross-modulation interference"",""Frequency discrimination""]",0
+"A receiver selectivity of 10 kHz in the IF circuitry is optimum for what type of signals?","[""SSB voice"",""Facsimile"",""FM"",""Double-sideband AM""]",3
+"If the envelope of modulation is constant in amplitude this means","[""Zero beat"",""Under-modulation"",""Zero-modulation"",""Over-modulation""]",2
+"What is the approximate bandwidth of an FM with a modulation factor of 12.5 and a modulating frequency of 10 kHz?","[""20 kHz"",""270 kHz"",""250 kHz"",""45 kHz""]",1
+"Amplitude modulation is the same as","[""Linear mixing"",""Analog multiplication"",""Signal summation"",""Multiplexing""]",0
+"The negative half of the AM wave is supplied by a/an _______ on a diode modulator.","[""The tuned circuit"",""Transformer"",""Capacitor"",""Inductor""]",0
+"One of the following can produce AM.","[""Having the carrier vary a resistance"",""Having the modulating signal vary a capacitance"",""Varying the carrier frequency"",""Varying the gain of an amplifier""]",0
+"Amplitude modulators that vary the carrier amplitude with the modulating signal by passing it through an attenuator network is the principle of","[""Rectification"",""Amplification"",""Variable resistance"",""Absorption""]",2
+"Which component is used to produce AM at very high frequencies?","[""Varactor diode"",""Thermistor"",""Cavity resonator"",""PIN diode""]",3
+"A collector modulator has a supply voltage of 48 V. What is the peak-to-peak amplitude of the modulating signal for 100 percent modulation?","[""24 V"",""48 V"",""96 V"",""120 V""]",2
+"What circuit recovers the original modulating information from an AM signal?","[""Modulator"",""Demodulator"",""Mixer"",""Crystal set""]",1
+"What is the most commonly used amplitude demodulator?","[""Envelope detector"",""Balanced modulator"",""Mixer"",""Crystal set""]",0
+"What circuit generates the upper and lower sidebands and suppresses the carrier?","[""Amplitude modulator"",""Diode detector"",""Class C amplifier"",""Balanced modulator""]",3
+"_________ is a widely used balanced modulator.","[""Diode bridge circuit"",""Full-wave bridge rectifier"",""Lattice modulator"",""Balanced bridge modulator""]",2
+"In a diode ring modulator, the diodes act like","[""Variable resistors"",""Switches"",""Rectifiers"",""Variable capacitors""]",1
+"The output of a balanced modulator is","[""AM"",""FM"",""SSB"",""DSB""]",3
+"The principal circuit in the popular 1496/1596 IC balanced modulator is a","[""Differential amplifier"",""Rectifier"",""Bridge"",""Constant current source""]",0
+"The most commonly used filter in SSB generators uses","[""LC networks"",""Mechanical resonators"",""Crystals"",""RC networks and op amps""]",2
+"In the phasing method of SSB generation, one sideband is canceled out due to","[""Phase shifting"",""Sharp selectivity"",""Carrier suppression"",""Phase inversion""]",0
+"A balanced modulator used to demodulate a SSB signal is call a/an","[""Transponder"",""Product detector"",""Converter"",""Remodulator""]",1
+"Frequency translation is done with a circuit called a","[""Summer"",""Multiplier"",""Divider"",""Mixer""]",3
+"Mixing for frequency conversion is the same as","[""Rectification"",""AM"",""Linear summing"",""Filtering""]",2
+"Which of the following is not a major advantage of FM over AM?","[""Greater efficiency"",""Noise immunity"",""Capture effect"",""Lower complexity and cost""]",3
+"The primary disadvantage of FM is its","[""Higher cost and complexity"",""Excessive use of spectrum space"",""Noise susceptibility"",""Lower efficiency""]",1
+"Noise is primarily","[""High-frequency spikes"",""Lowe-frequency variations"",""Random level shifts"",""Random frequency variations""]",0
+"The receiver circuit that rids FM of noise is the","[""Modulator"",""Demodulator"",""Limiter"",""Low-pass filter""]",2
+"The AM signals generated at a low level may only be amplified by what type of amplifier?","[""Class A"",""Class B"",""Class C"",""All of the above""]",2
+"SSB means","[""Single sideband with suppressed carrier"",""Single sideband with carrier"",""Double sideband with no carrier"",""Single sideband with reduced carrier""]",0
+"A circuit used to select the desired output from a mixer","[""Transformer"",""Resonant circuit"",""Filter"",""Phase-shift circuit""]",2
+"What is the output of a balanced modulator?","[""AM"",""DSB"",""SSB"",""ISB""]",1
+"The acronym SSSC refer to","[""Suppressed sideband, single carrier"",""Suppressed sideband, suppressed carrier"",""Single sideband, suppressed carrier"",""Single sideband, single carrier""]",2
+"Which process occurs in the receiver?","[""Demodulation"",""Reception"",""Modulation"",""Recreation""]",0
+"What is usually used to demodulate SSB or CW signal?","[""PLL"",""BFO"",""Ratio detector"",""All of these""]",1
+"Which of the following is the most widely used amplitude modulator","[""Diode detector"",""PLL circuit"",""VCO"",""All of these""]",0
+"Which of the following is the most widely used balanced modulator","[""Full-wave bridge circuit"",""Balanced bridge modulator"",""Lattice modulator"",""None of these""]",2
+"The heart of all methods of single-sideband modulation and demodulation","[""Modulator"",""Balanced modulator"",""Modulation"",""demodulation""]",1
+"If the frequency and phase are parameters of carrier angle, which is a function of time, the general term ___________-cover both.","[""Amplitude modulation"",""Frequency modulation"",""Phase modulation"",""Angle modulation""]",3
+"In FM radio communication system, narrow-band (NBFM) is used rather than wideband (WBFM), because it,","[""Improves signal to noise ration"",""Reduces interchannel interference"",""Provides maximum coverage for a given amount of power"",""All of the above""]",3
+"Radio transmitter basically consists of two principal parts, one reproducing a carrier frequency and one for __________.","[""IF Frequency"",""RF Frequency"",""Modulating Frequency"",""Power""]",2
+"Is a measure of its ability to maintain as nearly a fixed frequency as possible over as long as time interval as possible.","[""Receiver Noise Factor"",""Selectivity"",""Sensitivity"",""Frequency stability""]",3
+"Is the effect of two-transmitter when they are in close proximity. This results into the sum and difference frequencies of two carriers.","[""Intermodulation effect"",""Intermodulation interference"",""Intermodulation product"",""intermodulation""]",1
+"_________ is a continuous frequency capable of being modulated or impressed with a second information carrying signal.","[""Carrier frequency"",""Center frequency"",""IF frequency"",""RF frequency""]",0
+"The varactor diode used in FM may be represented by the approximate equivalent circuit of the _____ in series with a ________.","[""Diode, capacitor"",""Diode, resistor"",""Capacitor, resistor"",""Any of these""]",2
+"The name varactor comes from variable _________.","[""Resistor"",""Capacitor"",""Diode"",""reactor""]",3
+"75 microseconds pre-emphasis time is used in __________.","[""FM"",""AM"",""TV"",""None of these""]",0
+"Recovers the modulating voltage from the frequency modulation by utilizing the phase angle shift between primary and secondary voltages of tuned oscillators.","[""Direct method"",""Indirect method"",""Foster-Seeley discriminator"",""Slope detector""]",2
+"Is used in FM receivers to “lock onto” the received signal and stabilized receptions.","[""Automatic Gain Control"",""Automatic Frequency Control"",""Muscle Control"",""Automatic Frequency Gain Control""]",1
+"Are amplifier circuits that are used to eliminate amplitude modulation and amplitude-modulated noise from received FM Signals before detection.","[""Demodulators"",""Diode detector"",""Amplitude limiters"",""None of these""]",2
+"If the total sideband power is 12.5% of the total radiated power, find the modulation index.","[""50 percent"",""53.4 percent"",""26.2 percent"",""32.3 percent""]",1
+"Carriers are spaced at 20 kHz, beginning at 100 kHz. Each carrier is modulated by a signal with a 5 kHz bandwidth. Is there interference from the sideband?","[""Yes"",""No"",""Maybe"",""Secret""]",1
+"For an unmodulated carrier of 150 V and a modulated peak value of 230 V. What is the modulation index","[""0.35"",""0.533"",""0.652"",""0.42""]",1
+"New frequencies outside the regular AM spectrum are called ___________.","[""Distortion"",""Interference"",""Splatter"",""Harmonic""]",2
+"A DSB-SC has a total power of 350 watts with 100% modulation suppresses 50% of the carrier, and the suppressed carrier power goes to the sidebands. How much power is in the sidebands?","[""116.67 W"",""233.33 W"",""175 W"",""350 W""]",1
+"A DSB-SC system must suppress the carrier by 30 dB from its original value of 30 W. What value must the carrier be reduced?","[""30000 W"",""0.03 W"",""300 W"",""0.003 W""]",1
+"___________, which further amplifies the signal and has the bandwidth and passband shaping appropriate for the received signal.","[""RF stage"",""Mixer and local oscillator stage"",""IF stage"",""AF stage""]",2
+"In FM, a bandwidth estimate 98 percent level of Bessel functions","[""Approximate bandwidth"",""Narrow-band Bandwidth"",""Carson\u2019s rule"",""Wideband bandwidth""]",2
+"The complete series of stages for reproducing the FM signal with the desired carrier and deviation is the _______.","[""Modulator"",""Exciter"",""IF stage"",""RF stage""]",1
+"Is the ability of FM system to provide low-noise, high fidelity music background/broadcast..","[""Monophonic"",""Stereophonic"",""Stereonic"",""SCA""]",1
+"It make use of the shape of IF filter frequency response roll-off versus frequency.","[""Foster Seeley"",""Slope detector"",""Diode detector"",""Quadrature detector""]",1
+"In AM, modulation index is a number lying between ____ and 1.","[""2"",""5"",""0"",""3""]",2
+"This form of modulation is also known as independent sideband emission.","[""A3E"",""R3E"",""H3E"",""B8E""]",3
+"An attenuated carrier is reinserted into the SSB signal to facilitate receiver tuning and demodulation.","[""A3E"",""R3E"",""H3E"",""B8E""]",1
+"Standard AM used for broadcasting","[""A3E"",""R3E"",""H3E"",""B8E""]",0
+"Single sideband, suppressed carrier in which the carrier is suppressed by at least 45 dB in the transmitter.","[""A3E"",""R3E"",""H3E"",""B8E""]",2
+"The shift in the carrier frequency from the resting point compared to the amplitude of the modulating signal is called _______.","[""Index"",""Deviation ratio"",""Carrier frequency"",""Deviation frequency""]",1
+"In FM, the amplitude of the modulated frequency wave remains ___________ at all times.","[""Varying"",""Dependent"",""Constant"",""variable""]",2
+"An AM has a maximum span of 30 V, what is the required minimum span to attain 100% modulation?","[""30 V"",""20 V"",""0 V"",""None of these""]",2
+"DZMM having a carrier frequency of 630 kHz is modulated by 2.6 kHz audio signal having an amplitude of 37.5 V. What is the amplitude voltage of 630 kHz carrier frequency at 0.35 modulation index?","[""57.6 V"",""107.14 V"",""206.5 V"",""86.2 V""]",1
+"If the sideband power is 50% of the carrier power, what is the modulation index?","[""50%"",""75%"",""90%"",""100%""]",3
+"If the increase power is 180 watts at 1 kW unmodulated output power the modulation index is _________.","[""75%"",""60%"",""50%"",""25%""]",1
+"In AM, if the unmodulated power carrier is 10 kW, and the total power is 15 kW, what is the upper sideband power at 100% modulation index?","[""25 kW"",""2 kW"",""2.5 kW"",""4 kW""]",2
+"If the input resistance of the base station of AM broadcast produced 20 kW carrier power, at what modulation index should the antenna rise at 108.63 A?","[""20%"",""50%"",""60%"",""80%""]",2
+"________ used a phase detector to compare the phase and frequency of the received signal to the VCO output.","[""PIL"",""PAL"",""PLL"",""PLI""]",2
+"A filter with a roll-off of 6 dB/kHz is used as a slope detector. The input signal varies with +3 kHz deviation from center carrier frequency. How many dB down is the output at full deviation?","[""9 dB"",""-18 dB"",""18 dB"",""-9 dB""]",2
+"A receiver limiter requires a 20 mV signal for quieting operation. The voltage gain between the RF input and the limiter is 57.7 dB, what is the input at the antenna terminal assuming equal resistance?","[""75.6 mV"",""26.67 uV"",""52.3 uV"",""49.6 uV""]",1
+"A 1-MHz carrier is modulated with a resulting 100 Hz deviation. It undergoes x36 multiplication, followed by mixing with a 34.5 MHz signal and re-multiplication by 72. What is the final carrier and deviations?","[""5076 MHz, \u00b1 2592 MHz"",""2592 MHz, \u00b1 259.2 kHz"",""2592MHz, \u00b1 5076 MHz"",""259.2 MHz, \u00b1 108 kHz""]",1
+"For standard commercial broadcast FM, the deviation ratio is ________.","[""15"",""75"",""5"",""10""]",2
+"A system has 150 kHz of bandwidth available for 10 kHz modulation signal. What is the approximate deviation to be used?","[""35 kHz"",""65 kHz"",""25 kHz"",""15 kHz""]",1
+"An FM has a deviation of 100 kHz and a modulating frequency of 15 kHz, what happen to m if the deviation triples?","[""6.66"",""2.22"",""4.12"",""0.20""]",3
+"A receiver for a signal at 100 MHz uses a 10.7 MHz IF and low tracking. What is the image frequency?","[""89.3 MHz"",""78.6 MHz"",""52.5 MHz"",""35.2 MHz""]",1
+"What is the change in resonant frequency of the actual varactor capacitance value differs by -5% (0.05) of the nominal value?","[""2.06"",""3.02"",""1.03"",""5.06""]",2
+"An oscillator resonate at 1 MHz with a nominal 100 pF capacitor and 0.25 mH inductor, what is the resonant frequency of the actual capacitor value is +20% of the nominal value?","[""1.006 MHz"",""0.9188 MHz"",""3.625 MHz"",""2.00123 MHz""]",1
+"“Front end” is also called _________.","[""IF stage"",""AF stage"",""RF stage"",""None of these""]",2
+"Undesired signal on the other side of the local oscillator output will have the same difference frequency and pass into the IF amplifier.","[""Carrier frequency"",""Sum frequency"",""Difference frequency"",""Image frequency""]",3
+"Which of the following components is used to produce AM at very high frequencies?","[""Cavity resonator"",""PIN diode"",""Varactor"",""Thermistor""]",1
+"A third symbol emission which represent data transmission including telemetry, and telecommand","[""B"",""D"",""C"",""N""]",1
+"In an AM wave, useful power is carried by","[""None of these"",""Sidebands"",""Both the sidebands and the carrier"",""Carrier""]",1
+"Determine the modulation index of an standard FM broadcast having a hypothetical maximum carrier frequency deviation of ±12 kHz and a maximum modulating frequency of 4kHz.","[""9"",""6"",""3"",""4""]",2
+"The process by which the intelligence signals normally at lower frequency are removed from the transmission frequency after it is received in the receiver station.","[""Detection"",""Demodulation"",""Amplification"",""Modulation""]",1
+"What is meant by the term modulation?","[""The squelching of a signal until a critical signal-to-noise ratio is reached"",""Carrier rejection through phase nulling"",""A linear amplification mode"",""A mixing process whereby information is imposed upon a carrier""]",3
+"What is a balanced modulator?","[""An FM modulator that produces balance deviation"",""A modulator that produces a DSBSC signal"",""A modulator that produces a SSBSC signal"",""A modulator that produces a full carrier signal""]",1
+"What is a reactance modulator?","[""A circuit that acts as a variable resistance or capacitance to produce FM signals"",""A circuit that acts as a variable resistance or capacitance to produce AM signals"",""A circuit that acts as a variable inductance or capacitance to produce FM signals"",""A circuit that acts as a variable inductance or capacitance to produce AM signals""]",2
+"How can an SSB phone signal be generated?","[""By dividing product detector with a DSB signal"",""By using a reactance modulator followed by a mixer"",""By using a loop modulator followed by a mixer"",""By using a balanced modulator followed by a filter""]",3
+"How can a DSB phone signal be generated?","[""By feeding a phase modulated signal into a low pass filter"",""By using a balanced modulator followed by a filter"",""By detuning a Hartley oscillator"",""By modulating the plate voltage of a class C amplifier""]",3
+"First symbol in the designation of radio signals emission which refers to use of an unmodulated carrier.","[""J"",""N"",""H"",""A""]",1
+"One of the following is a communications filter generally used in the transceiver of a single sideband generator.","[""Lowpass filter"",""Crystal filter"",""Bandpass filter"",""Mechanical filter""]",3
+"What is the modulation index for an AM signal having Vmax and Vmin of 2.6 and 0.29, respectively?","[""0.799"",""0.111"",""0.894"",""0.639""]",0
+"What is the bandwidth of an AM signal modulated by a 15-kHz intelligence signal?","[""7.5 kHz"",""15 kHz"",""30 kHz"",""60 kHz""]",2
+"If a transmitter supplies 10 kW to the antenna when it is unmodulated, determine the total radiated power when it is modulated at 30%","[""10.45 watts"",""10750 watts"",""11.5 kilowatts"",""10450 watts""]",3
+"Which of the following waveform characteristics determines the wavelength of a sine wave?","[""Phase"",""Amplitude"",""Period"",""Phase angle""]",2
+"In the F3E signal, what is the term for the ratio between the deviation of a frequency modulated signal and the modulating frequency?","[""FM compressibility"",""Quieting index"",""Modulation index"",""Percentage of modulation""]",2
+"Which frequency band is the standard AM radio broadcast?","[""HF"",""UHF"",""MF"",""VHF""]",2
+"The letter-designation B8E is a form of modulation also known as","[""Pilot carrier system"",""Independent sideband emission"",""Lincompex"",""Vestigial sideband transmission""]",1
+"What are the two general categories of methods for generating emission F3E?","[""The only way to produce an emission F3E signal is with reactance modulator on the oscillator"",""The only way to produce an emission F3E signal is with a balanced modulator on the oscillator"",""The only way to produce an emission F3E signal is with a balanced modulator on the audio amplifier"",""The only way to produce an emission F3E signal is with a reactance modulator on the final amplifier""]",0
+"100% modulation in AM means a corresponding increase in total power by ____.","[""25%"",""75%"",""100%"",""50%""]",3
+"How does the SSB transmitter output power normally expressed?","[""Average power"",""In terms of peak envelope power"",""In terms of peak-to-peak power"",""Peak power""]",1
+"Determine from the following the common use of DSB in broadcast and telecommunications","[""Satellite communication"",""FM\/TV stereo"",""Two-way communications"",""Telephone systems""]",1
+"What is the source of sidebands in frequency modulation?","[""Oscillator"",""Baseband frequency"",""Mixer"",""Carrier harmonics""]",1
+"What is the source of sidebands in frequency modulated voice?","[""A3F"",""A3J"",""F3E"",""J3E""]",2
+"The third symbol in the designation of radio emission under the ITU refers to","[""Type of modulation of the main carrier"",""Nature of signals"",""Type of information to be transmitted"",""Nature of multiplexing""]",2
+"An AM transmission of 3 kW is 100% modulated. If it is transmitted as an SSB signal, what would be the total power transmitted?","[""500 W"",""1000 W"",""1500 W"",""2000 W""]",0
+"This circuit has the function of demodulating the frequency-modulated signal. It is a","[""Automatic gain control"",""Automatic frequency control"",""Envelope detector"",""Foster-Seeley discriminator""]",3
+"Calculate the power in one sideband of an AM signal whose carrier power is 50 watts. The unmodulated current is 2 A while the modulated current is 2.4 A.","[""22 W"",""33 W"",""11 W"",""44 W""]",2
+"The method of generating FM used by broadcasting station is","[""Direct"",""All of these"",""Indirect"",""Insertion""]",2
+"Deviation ratio of an FM transmitter is the ratio of the","[""Maximum frequency swing to the highest modulating frequency"",""Operating frequency of the assigned frequency"",""Frequency swing to the modulating frequency"",""Highest modulating frequency to the minimum frequency""]",0
+"An AM transmitter is modulated by two sine waves at 1.5 kHz and 2.5 kHz with modulations of 20 percent and 80 percent respectively. Calculate the effective modulation index.","[""0.7776"",""0.6"",""0.8246"",""1.0""]",2
+"A DSBSC system must suppress the carrier by 50 dB for its original value of 10 W. To what value must the carrier be reduced?","[""1 milliwatt"",""10 microwatts"",""0.10 milliwatts"",""0.01 microwatts""]",2
+"Which circuit in the AM transmitter does the frequency translation?","[""Synthesizer"",""Modulator"",""Mixer"",""Booster""]",2
+"A phase modulator has Kp = 2 rad/V. What RMS voltage of a sine wave would cause a peak phase deviation of 30 degrees?","[""0.158 V"",""0.185 V"",""0.518 V"",""0.815 V""]",1
+"In a phase-locked loop, VCO stands for","[""Variable capacitor oscillator"",""Varactor-capacitor oscillator"",""Voltage-controlled oscillator"",""VHF control oscillator""]",2
+"Diagonal clipping in envelope detection will result in","[""Distortion"",""Diagonal clipping"",""Phase reversal"",""Amplitude damage""]",0
+"An AM transmitter supplies a 10 kW of carrier power to a 50 ohm load. It operates at a carrier frequency of 1.2 MHz and is 85% modulated by a 3 MHz sine wave. Calculate the RMS voltage of the signal.","[""825 W"",""262. 61 V"",""1166.7 V"",""825 V""]",3
+"What will be the total sideband power of the AM transmitting station whose carrier power is 1200W and a modulation of 95%?","[""270.75 W"",""900 watts"",""1.8 kW"",""542 W""]",3
+"Which among the following is capable of generating frequency conversion?","[""Balanced modulator"",""Low-Q LC Circuit"",""Transmitter"",""Circulator""]",0
+"The most commonly used AM demodulator","[""Envelope detector"",""PLL"",""Mixer"",""Balanced modulator""]",0
+"Which is a disadvantage of direct FM generation?","[""The need for an AFC circuit"",""The need for an AGC circuit"",""Two balanced modulators are used"",""The use of Class A amplifier which is very inefficient""]",0
+"Frequency division is useful in the implementation of a/an","[""AM demodulator"",""Frequency synthesizer"",""AGC circuit"",""FM demodulator""]",1
+"A particular synthesizer which contains only a single crystal is","[""Direct"",""Crystal-modulated"",""Indirect"",""Exact""]",2
+"Type of emission most affected by selective fading","[""FM and DSB AM"",""SSB and TV"",""CCTV and CW"",""CW and SSB""]",0
+"Which major element will not be found in every superheterodyne receiver?","[""RF amplifier"",""IF amplifier"",""LO"",""Mixer""]",0
+"A system uses a deviation of 100 kHz and a modulating frequency of 15 kHz. What is the approximate bandwidth?","[""115 kHz"",""230 kHz"",""170 kHz"",""340 kHz""]",1
+"A quadrature detector requires that","[""The inputs are coherent"",""Four gates are provided"",""The inputs are in phase"",""The inputs are similar""]",0
+"What is the power in one sideband of an AM signal whose carrier power is 300 W, with 80 percent modulation?","[""396 W"",""Zero"",""48 W"",""96 W""]",2
+"Which of the following is not a typical part of every radio transmitter?","[""Carrier oscillator"",""Driver amplifier"",""Mixer"",""Final power amplifier""]",2
+"What is the approximate magnitude of the impedance of a parallel RLC circuit at resonance?","[""Approximately equal to the circuit resistance"",""Approximately equal to XL"",""Low, as compared to the circuit resistance"",""Approximately equal to XC""]",0
+"What are the three major oscillator circuits often used in radio equipment?","[""Taft, Pierce, and negative feedback"",""Colpitts, Hartley, and Taft"",""Taft, Hartley, and Pierce"",""Colpitts, Hartley, and Pierce""]",3
+"How is a positive feedback coupled to the input in a Hartley oscillator?","[""Through a neutralizing capacitor"",""Through a capacitive divider"",""Through a link coupling"",""Through a tapped coil""]",3
+"How is the positive feedback coupled to the input in a Colpitts oscillator?","[""Through a tapped coil"",""Trough link coupling"",""Through a capacitive divider"",""Through a neutralizing capacitor""]",2
+"How is a positive feedback coupled to the input in a Pierce oscillator?","[""Through a tapped coil"",""Trough link coupling"",""Through a capacitive divider"",""Through a neutralizing capacitor""]",3
+"Which of the three major oscillator circuits used in radio equipment utilizes a quartz crystal?","[""Negative feedback"",""Hartley"",""Colpitts"",""Pierce""]",2
+"What is the piezoelectric effect?","[""Mechanical vibration of a crystal by the application of a voltage"",""Mechanical deformation of a crystal by the application of a magnetic field"",""The generation of electrical energy by the application of light"",""Reversed conduction states when pn-junction is exposed to light""]",0
+"What is the major advantage of a Pierce oscillator?","[""It is easy to neutralize"",""It doesn\u2019t require an LC tank circuit"",""It can be tuned over a wide range"",""It has high output power""]",1
+"Which type of oscillator circuit is commonly used in a VFO?","[""Pierce"",""Colpitts"",""Hartley"",""Negative feedback""]",1
+"Why is the Colpitts oscillator circuit commonly used in a VFO?","[""The frequency is a linear function of the load impedance"",""It can be used with or without crystal lock-in"",""It is stable"",""It has high output power""]",2
+"How is the efficiency of a power amplifier determined?","[""Efficiency = (RF power out \/ dc power in) x 100%"",""Efficiency = (RF power in \/ RF power out) x 100%"",""Efficiency = (RF power in \/ dc power in) x 100%"",""Efficiency = (dc power in \/ RF power in) x 100%""]",0
+"For reasonably efficient operation of a transistor amplifier, what should be the load resistance be with 12 volts at the collector and a 5 watts power output?","[""100.3 ohms"",""14.4 ohms"",""10.3 ohms"",""144 ohms""]",1
+"What order of Q is required by a tank circuit sufficient to reduce harmonics to an acceptable level?","[""Approximately 120"",""Approximately 12"",""Approximately 1200"",""Approximately 1.2""]",1
+"What is the flywheel effect?","[""The continued motion of a radio wave through space when the transmitter is turned off"",""The back and forth oscillation of electrons in an LC circuit"",""The use of a capacitor in a power supply to filter rectified AC"",""The transmission of a radio signal to a distant station by several hops through the ionosphere""]",1
+"How can parasitic oscillations be eliminated from a power amplifier?","[""By tuning for maximum SWR"",""By tuning for maximum power output"",""By neutralization"",""By tuning the output""]",2
+"If the spectrum is shifted in frequency with no other changes, this is known as","[""Frequency multiplication"",""Sideband movement"",""Baseband orientation"",""Frequency translation""]",3
+"A device which is capable of causing frequency translation","[""High-Q tank circuit"",""Balanced modulator"",""Low-Q tank circuit"",""IF strip""]",1
+"If the frequency of each component in a signal spectrum is increased by the same fixed amount, this is known as","[""Up conversion"",""Demodulation"",""Frequency translation"",""Both a and c""]",3
+"A particular amplifier is designed to be a frequency doubler. If the input signal frequency is 15.4 MHz, a circuit in the output will be tuned to","[""7.7 MHz"",""15.4 MHz"",""30.8 MHz"",""61.6 MHz""]",2
+"Any device to be used as a frequency multiplier must be","[""Active"",""Passive"",""Linear"",""Nonlinear""]",3
+"A particular amplifier circuit used for frequency coupling is known as","[""Push-push"",""Push-pull"",""Pull-push"",""Pull-pull""]",0
+"Frequency division is useful in the implementation of a","[""AM demodulation"",""Frequency synthesizer"",""FM demodulator"",""AGC circuit""]",1
+"Indirect frequency synthesizers will include","[""phase-locked loop"",""voltage-controlled oscillators"",""multiple bank crystals"",""both A and B""]",3
+"A particular frequency synthesizer contains only a single crystal. What words describe this synthesizer?","[""Crystal modulated"",""Inexact"",""Indirect"",""Deficient""]",2
+"A recognizable feature of a CW transmitter is","[""Keyed transmitter"",""Power amplification"",""Frequency generation"",""All of the above""]",3
+"The term “pulling” refers to","[""The change of the crystal oscillator frequency by loading"",""One-half cycle operation of a push-pull amplifier"",""Loading on the transmitter caused by the antenna connection"",""Reduction of the power supply terminal voltage as the transmitter is keyed""]",0
+"An AM broadcast transmitter in the multi-kilowatt operating range will have what form of final amplifier?","[""Solid-state devices"",""Vacuum tubes"",""Travelling wave tubes"",""Both a and b""]",3
+"In a broadcast station, the AGC is referred to as","[""Automatic gain control limiter"",""Compression amplifier"",""Loudness controller"",""All of the above""]",3
+"Class C amplifiers are not used in which type of transmitter?","[""AM"",""SSB"",""CW"",""FM""]",1
+"A circuit that isolates the carrier oscillator from load changes is called a","[""Final amplifier"",""Driver amplifier"",""Linear amplifier"",""Buffer amplifier""]",3
+"Bias for class c amplifier produced by an input RC network is known as","[""Signal bias"",""Self-bias"",""Fixed external bias"",""Threshold bias""]",0
+"Collector current in a class C amplifier is","[""Sine wave"",""Half-sine wave"",""Pulse"",""Square wave""]",2
+"Neutralizing is the process of","[""Cancelling the effect of internal device capacitance"",""Bypassing undesired alternating current"",""Reducing gain"",""Eliminating harmonics""]",0
+"In an AM transmitter, a clipper circuit eliminates","[""Harmonics"",""Splatter"",""Over-deviation"",""Excessive gain""]",1
+"The final power amplifier in an FM transmitter usually operates class","[""A"",""B"",""C"",""D""]",2
+"A transistor RF power amplifier can be tuned for","[""Minimum IC in the next stage"",""Zero signal in the next stage"",""Minimum IC in the same stage"",""Maximum IC in the same stage""]",2
+"The purpose of a balanced modulator circuit is to eliminate the","[""Carrier"",""Upper sideband"",""Lower sideband"",""Baseband signal""]",0
+"A frequency multiplier circuit","[""Operates class A"",""Is tuned to a harmonic of the input signal"",""Needs parasitic oscillations"",""Is usually pulse modulated""]",0
+"An IF transformer of a radio receiver operates at 456 kHz. The primary circuit has a Q of 50 and the secondary has a Q of 40. Find the bandwidth using the optimum coupling factor.","[""10.192 kHz"",""15.288 kHz"",""152.88 kHz"",""101.92 kHz""]",1
+"A varactor has a maximum capacitance of 80pF and is used in a tuned circuit with a 100 microhenry inductor. Find the tuning voltage necessary for the circuit to resonate at twice its resonant frequency with no tuning voltage applied.","[""5 V"",""2.5 V"",""7.5 V"",""4.25 V""]",2
+"A phase-locked loop has a VCO with a free-running frequency of 14 MHz. As the frequency of the reference input is gradually raised from zero, the loop locks at 12 MHz and comes out of lock again at 18 MHz. Calculate the capture range.","[""4 MHz"",""2 MHz"",""12 MHz"",""8 MHz""]",0
+"If the frequency fed to the pre-amplifier of a basic transmitter with multipliers is composed of a pair of triplers and a doubler is 198 MHz, what frequency should the oscillator operate?","[""11 MHz"",""33 MHz"",""22 MHz"",""66 MHz""]",0
+"A phase-locked loop has a VCO with a free running frequency of 14 MHz. As the frequency of the reference input is gradually raised from zero, the loop locks at 12 MHZ and comes out of lock again at 18 MHz. Calculate the lock range.","[""4 MHz"",""2 MHz"",""12 MHz"",""8 MHz""]",3
+"A crystal oscillator is accurate within 0.0005%. How far off frequency could its output be at 37 MHz?","[""135 Hz"",""150 Hz"",""185 Hz"",""224 Hz""]",2
+"A transmitter has a carrier power output of 10 W at an efficiency of 80%. How much power must be supplied by the modulating amplifier for 100% modulation?","[""6.25 W"",""7.14 W"",""12.5 W"",""14.3 W""]",0
+"A transmitter operates from a 16 V supply, with a collector current of 2 A. The modulation transformer has a turns ratio of 4:1. What is the load impedance seen by the audio amplifier?","[""96 ohms"",""128 ohms"",""6 ohms"",""8 ohms""]",1
+"A collector-modulated class C amplifier has a carrier output power of 150 W and an efficiency of 80%. Calculate the transistor power dissipation with 100% modulation.","[""93.75 W"",""120 W"",""64 W"",""56.25 W""]",3
+"An AM transmitter is required to produce 20 W of carrier power when operating from a 25 V supply. What is the required load impedance as seen from the collector?","[""15.625 ohms"",""22.5 ohms"",""11.25 ohms"",""31.25 ohms""]",0
+"What is the term used to refer to the reduction of receiver gain caused by the signals of a nearby station transmitting in the same frequency band?","[""Desensitizing"",""Quieting"",""Cross-modulation interference"",""Squelch gain roll back""]",0
+"What is the term used to refer to a reduction in receiver sensitivity caused by unwanted high-level adjacent channel signals?","[""Intermodulation distortion"",""Quieting"",""Desensitizing"",""Overloading""]",1
+"How can receiver desensitizing be reduced?","[""Ensure good RF shielding between the transmitter and receiver"",""Increase the transmitter audio gain"",""Decrease the receiver squelch gain"",""Increase the receiver bandwidth""]",0
+"What is cross-modulation interference?","[""Interference between two transmitters of different modulation types"",""Interference caused by audio rectification in the receiver preamp"",""Decrease the receiver squelch gain"",""Modulation from an unwanted signal is heard in addition to the desired signal""]",3
+"What is the term used to refer to the condition where the signals from a very strong station are super imposed on the other signals being received?","[""Intermodulation distortion"",""Cross-modulation interference"",""Receiver quieting"",""Capture effect""]",1
+"How can cross-modulation in a receiver be reduced?","[""By installing a filter at the receiver"",""By using a better antenna"",""By increasing the receiver\u2019s RF gain while decreasing the AF gain"",""By adjusting the passband tuning""]",0
+"What is the result of cross-modulation?","[""Decrease in modulation level of transmitted signals"",""Receiver quieting"",""The modulation of an unwanted signal is heard on the desired signal"",""Inverted sidebands in the final stage of the amplifier""]",2
+"What is the capture effect?","[""All signals on a frequency are demodulated by an FM receiver"",""All signals on a frequency are demodulated by an AM receiver"",""The loudest signal received is the only demodulated signal"",""The weakest signal received is the only demodulated signal""]",2
+"What is a product detector?","[""A detector that provides local oscillator for input to the mixer"",""A detector that amplifies and narrows the bandpass frequencies"",""A detector that uses mixing process with a locally generated carrier"",""A detector used to detect cross-modulation products""]",2
+"What is the term used to refer to the reception blockage of one FM-phone signal?","[""Desensitization"",""Cross-modulation interference"",""Capture effect"",""Frequency discrimination""]",2
+"What is the process of detection?","[""The process of masking out the intelligence on a received carrier to make an S-meter operational"",""The recovery of intelligence from the modulated RF signal"",""The modulation of a carrier"",""The mixing of noise with the received signal""]",1
+"What is the principle of detection in a diode detector?","[""Rectification and filtering of RF"",""Breakdown of the Zener voltage"",""Mixing with the noise in the transition region of the diode"",""The change of reactance in the diode with respect to frequency""]",0
+"How are FM phone signals detected?","[""By a balanced modulator"",""By a frequency discriminator"",""By a product detector"",""By a phase splitter""]",1
+"What is the mixing process?","[""The elimination of noise in a wideband receiver by phase comparison"",""The elimination of noise in a wideband receiver by phase differentiation"",""Distortion caused by aural propagation"",""The combination of the two signals to produce sum and difference frequencies""]",3
+"What is a frequency discriminator?","[""A circuit for detecting FM signals"",""A circuit for filtering two closely adjacent signals"",""An automatic band switching circuit"",""An FM generator""]",0
+"What are the principal frequencies which appear at the output of a mixer circuit?","[""Two and four times the original frequency"",""The sum, difference and square root of the input frequencies"",""The original frequencies and the sum and difference frequencies"",""1.414 and 0.707 times the frequency""]",2
+"What occurs in a receiver when an excessive amount of signal energy reaches the mixer circuit?","[""Spurious mixer products are generated"",""Mixer blanking occurs"",""Automatic limiting occurs"",""A beat frequency is generated""]",0
+"How much gain should be used in the RF amplifier stage of a receiver?","[""As much as possible short of self oscillation"",""Sufficient gain to allow weak signals to overcome noise generated in the first mixer"",""Sufficient gain to keep weak signals below the noise of the first mixer stage"",""It depends on the amplification factor of the first IF stage""]",1
+"Why should the RF amplifier stage of a receiver only have sufficient gain to allow weak signals to overcome noise generated in the first mixer stage?","[""To prevent the sum and difference frequencies from being generated"",""To prevent bleed-through of the desired signal"",""To prevent generation of spurious mixer products"",""To prevent bleed-trough of the local oscillator""]",2
+"What is the primary purpose of an RF amplifier in a receiver?","[""To provide most of the receiver gain"",""To vary the receiver image rejection by utilizing the AGC"",""To improve the receiver\u2019s noise figure"",""To develop the AGC voltage""]",2
+"What is an IF amplifier stage?","[""A fixed-tuned passband amplifier"",""A receiver demodulator"",""A receiver filter"",""A buffer oscillator""]",0
+"What factors should be considered when selecting an intermediate frequency?","[""A cross-modulation distortion and interference"",""Interference to other services"",""Image rejection and selectivity"",""Noise figure and distortion""]",0
+"What is the primary purpose of the first IF amplifier stage in a receiver?","[""A noise figure performance"",""Tune out cross-modulation distortion"",""Dynamic response"",""Selectivity""]",3
+"What is the primary purpose of the final IF amplifier stage in a receiver?","[""Dynamic response"",""Gain"",""Noise figure performance"",""Bypass undesired signals""]",1
+"Which stage of a receiver primarily establishes its noise figure?","[""The audio stage"",""The IF stage"",""The RF stage"",""The local oscillator""]",2
+"What is meant by the term noise figure in a communications receiver?","[""The level of noise entering the receiver from the antenna"",""The relative strength of a strength of a received signal 3 kHz removed from the carrier frequency"",""The level of noise generated in the front end and succeeding stages of a receiver"",""The ability of a receiver to reject unwanted signals at frequencies close to the desired one""]",2
+"The ability of a communications receiver to perform well in the presence of strong signals outside the band of interest is indicated by what parameter?","[""Noise figure"",""Blocking dynamic range"",""Signal-to-noise ratio"",""Audio output""]",1
+"What type problems are caused by poor dynamic range in a communications receiver?","[""Cross-modulation of the desired signal and desensitization from strong adjacent signals"",""Oscillator instability requiring frequent returning, and loss of ability to recover the opposite sideband should it be transmitted"",""Cross-modulation of the desired signal and insufficient audio power to operate the speaker"",""Oscillator instability and severe audio distortion of all but the strongest signal received signals""]",0
+"What is the term for the ratio between the largest tolerable receiver input signal and the minimum discernible signal?","[""Intermodulation distortion"",""Noise floor"",""Noise figure"",""Dynamic range""]",3
+"What occurs during CW reception if too narrow a filter bandwidth is used in the IF stage of a receiver?","[""Undesired signals will reach the audio stage"",""Output-offset overshoot"",""Cross-modulation distortion"",""Filter ringing""]",3
+"How can selectivity be achieved in the front and circuitry of a communications receiver?","[""By using an audio filter"",""By using a pre-selector"",""By using an additional RF amplifier stage"",""By using an additional IF amplifier stage""]",1
+"How should the filter bandwidth of a receiver IF section compare with the bandwidth of a received signal?","[""Filter bandwidth should be slightly greater than the received signal bandwidth"",""Filter bandwidth should be approximately half the received signal bandwidth"",""Filter bandwidth should be approximately two times the received signal bandwidth"",""Filter bandwidth should be approximately four times the received signal bandwidth""]",0
+"How can receiver selectivity be achieved in the IF circuitry of a communications receiver?","[""Incorporate a means of varying the supply voltage to the local oscillator circuitry"",""Replace the standard JFET mixer with a bipolar transistor followed by a capacitor of the proper value"",""Remove AGC action from the IF stage and confine it to the audio stage only"",""Incorporate a high-Q filter""]",3
+"A receiver has a sensitivity of 0.6 microvolts and a blocking dynamic range of 60 dB. What is the strongest signal that can be present along with a 0.6 microvolt signal without blocking taking place","[""600 millivolts"",""600 microvolts"",""300 millivolts"",""300 mircovolts""]",1
+"An AM receiver is tuned to broadcast station at 600 kHz. Calculate the image rejection in dB assuming that the input filter consists of one tuned circuit with a Q of 40?","[""19.28 dB"",""39.65 dB"",""38.57 dB"",""19.83 dB""]",2
+"A receiver has two uncoupled tuned circuits before the mixer, each with a Q of 75. The signal frequency is 100.1 MHz. The IF is 10.7 Mhz. The local oscillator uses high-side injection. Calculate the image rejection ratio.","[""23.69 dB"",""58.66 dB"",""29.33 dB"",""11.84 dB""]",2
+"What oscillator frequency is needed to heterodyne 626 kHz up to 3.58 MHz?","[""2.954 MHz"",""4.832 MHz"",""4.210 MHz"",""2.328 MHz""]",0
+"What is the undesirable effect of using too wide a filter bandwidth in the IF section of a receiver?","[""Output-offset overshoot"",""Undesired signals will reach the audio stage"",""Thermal noise distortion"",""Filter ringing""]",1
+"What is the limiting condition for sensitivity in a communications receiver?","[""the noise floor of the receiver"",""the power supply output ripple"",""the two-tone intermodulation distorting"",""the input impedance to the detector""]",0
+"What parameter must be selected when designing an audio filter using an op-amp?","[""Bandwidth characteristics"",""Desired current gain"",""Temperature coefficient"",""Output-offset overshoot""]",0
+"What two factors determine the sensitivity of a receiver?","[""Dynamic range and third-order intercept"",""Cost and availability"",""Intermodulation distortion and dynamic range"",""Bandwidth and noise figure""]",3
+"How can unwanted ringing and audio instability be prevented in a multi-section op-amp RC audio filter circuit?","[""Restrict both gain and Q"",""Restrict gain, but increase Q"",""Restrict Q but increase gain"",""Increase both gain and Q""]",3
+"What is meant by the dynamic range of a communications receiver?","[""The number of kHz between the lowest and the highest frequency to which the receiver can be tuned"",""The maximum possible undistorted audio output of the receiver referenced to one milliwatt"",""The ratio between the minimum discernible signal and the largest tolerable signal without causing audible distortion products"",""The difference between the lowest frequency signal detectable without moving the tuning knob""]",2
+"Where is the noise which primarily determines the signal-to-noise ratio in a VHF (150 MHz) marine band receiver generated?","[""In the receiver front end"",""Man-made noise"",""In the atmosphere"",""In the ionosphere""]",0
+"An AM receiver uses a diode detector for demodulation. This enables it satisfactorily to receive","[""Single-sideband, suppressed carrier (J3E)"",""Single-sideband, reduced carrier (R3E)"",""ISB(B8E)"",""Single-sideband, full carrier (H3E)""]",3
+"Three-point tracking is achieved with","[""Variable selectivity"",""The padder capacitor"",""Double spotting"",""Double conversion""]",1
+"A receiver has poor IF selectivity. It will therefore also have poor","[""Blocking"",""Double-spotting"",""Diversity reception"",""Sensitivity""]",0
+"If a FET is used as the first AF amplifier in a transistor receiver, this will have the effect of","[""Gain variation over the frequency coverage range"",""Insufficient gain and selectivity"",""Inadequate selectivity at high frequencies"",""Instability""]",1
+"The image frequency of a superheterodyne receiver","[""Is created within the receiver itself"",""Is due to insufficient adjacent channel rejection"",""Is not rejected by the IF tuned circuits"",""Is independent of the frequency to which receiver is tuned""]",2

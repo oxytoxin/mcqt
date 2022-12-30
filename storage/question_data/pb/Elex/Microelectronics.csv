@@ -1,0 +1,50 @@
+﻿question,choices,answer
+"The ___________ of an op amp is its voltage gain when there is no negative feedback","[""CMRR"",""Unity gain"",""Close-loop"",""Open-loop""]",3
+"The term monolithic is derived tom a combination of the Greek words monos and lithos which means","[""Single-element"",""Single-water"",""Single-stone"",""Single-chip""]",2
+"A technique used to eliminate the need for inductive elements in monolithic integrated circuits.","[""Projection printing"",""Photolithographic"",""LC synthesis"",""RC synthesis""]",3
+"Most linear ICs are low-power devices with power dissipation ratings of","[""5 W"",""1 \u00b5W"",""Less than 1 W"",""More than 1 W but less than 2 W""]",2
+"An integrated circuit for both astable and monostable applications","[""741 op-amp"",""Discrete ICs"",""Monolithic ICs"",""555 timer""]",3
+"Astable multivibrator is","[""A square wave clock"",""Equivalent to a flip-flop"",""A one-shot multivibrator"",""Monostable in nature""]",0
+"In a 5 V level detector circuit","[""The noninverting input is connected to +5V"",""The input signal is connected to +5V"",""The inverting input is connected to +5V"",""The input signal must be riding on a +5V dc level""]",2
+"To convert a summing amplifier of an averaging amplifier","[""All inputs must be of the same value"",""The ratio of Rf\/R must equal to the reciprocal of the number of inputs"",""All input resistors must be of different value"",""The ratio of Rf\/R must equal to the number of inputs""]",1
+"An oscillator is described by","[""Regenerative feedback"",""No feedback"",""An integrator or differentiator"",""Unity gain and zero phase shift around the feedback loop""]",3
+"To use a comparator for zero-level detection, the inverting input is connected to","[""Ground"",""A positive reference voltage"",""The dc supply voltage"",""A negative reference voltage""]",0
+"In most modern IC op-amps, the 741 requires ____________ power supplies","[""1"",""2"",""3"",""4""]",1
+"In an op-amp integrator, the feedback path consist of","[""A capacitor"",""An inductor"",""A resistor and a capacitor in series"",""A resistor and a capacitor in parallel""]",0
+"Microwave ICs cover the frequency range from","[""0.5 to 15 GHz"",""15 to 30 GHz"",""30 to 45 GHz"",""45 to 100 GHz""]",0
+"Considered as the fundamental form of IC","[""Hybrid"",""MSI"",""VLSI"",""Monolithic""]",3
+"Plastic dual-in-line for insertion into sockets has a package suffix code of","[""N"",""P"",""Both a and b"",""J""]",2
+"What is the specific application of µA741C op-amp","[""For commercial"",""For industrial"",""For military"",""For experimental""]",0
+"What is the most common method used for growth of single crystals for IC fabrication?","[""Epitaxial growth"",""Czochralsky pulling technique"",""Film deposition"",""Photolithography""]",1
+"The charge-coupled device (CCD) is a unique and versatile semiconductor structure invented in 1969 by","[""W.S Boyle and G.E Smith"",""W.F Davis and R.C Huntington"",""D. Cave and W. Blood Jr."",""H.H Strellrecht and C.S. Meyer""]",0
+"The value of the input voltage that switches the output of a comparator or Schmitt trigger","[""Trip point"",""Firing voltage"",""Threshold voltage"",""All of the choices""]",0
+"A type of ground that appears at the inverting input of an op-amp that uses negative feedback.","[""Earth ground"",""Equipment ground"",""True ground"",""Virtual ground""]",3
+"The intel i486 32-bit microprocessor incorporates _____________ transistors on a single chip.","[""1 million"",""100 thousand"",""2 million"",""200 thousand""]",0
+"In IC op-amps, the input bias current is defined as the","[""Average of the two base currents"",""Total of the base currents"",""Inverse of the base currents"",""Difference of the base currents""]",0
+"CMRR means","[""Common-mode rejection ratio"",""The ratio of the differential voltage gain to common-mode voltage gain"",""Both a and b"",""The difference between the two base voltages""]",2
+"The typical dimension of a MOSFET in a single IC ship is","[""4 mils x 6.5 mils"",""2 mils x 12 mils"",""3 mils x 4.5 mils"",""1.5 mils x 3 mils""]",3
+"The maximum rate that an output voltage of an op-amp can change","[""Slew rate"",""CMRR"",""Input offset voltage"",""Tail current""]",0
+"The unwanted capacitance between connecting wires and ground.","[""Summer capacitor"",""Stray wiring capacitance"",""Biasing capacitance"",""Feedback capacitance""]",1
+"The typical dimension of a BJT in a single IC chip is","[""4 mils x 6.5 mils"",""2 mils x 12 mils"",""3 mils x 4.5 mils"",""1.5 mils x 3 mils""]",0
+"The typical dimension of a diode in a single IC chip is","[""4 mils x 6.5 mils"",""2 mils x 12 mils"",""3 mils x 4.5 mils"",""1.5 mils x 3 mils""]",2
+"Which of the items below is equivalent to a relaxation oscillator?","[""Astable multivibrator"",""Flip-flop"",""Monostable multivibrator"",""Bistable multivibrator""]",0
+"The unity gain frequency of an op-amp","[""Is the frequency where the voltage gain of an op-amp is 1"",""Indicates the highest usable frequency"",""It equals the gain bandwidth product"",""All of these""]",3
+"If the base 10 is called decimal number system, then the base 12 is called","[""Bidecimal number system"",""Dodecimal number system"",""Duodecimal number system"",""All of these""]",2
+"What is the principal method used in the fabrication of semiconductor devices for hybrid and monolithic ICs?","[""Epitaxial growth"",""Photolithographic process"",""Isolation diffusion"",""Planar technology""]",3
+"The gain reduction in operational amplifier is known as","[""Roll-off"",""Back-off"",""Gain-off"",""Attenuation""]",0
+"The rate of gain reduction in operational amplifiers","[""5 db per decade (-5db\/decade)"",""6 db per decade (-6db\/decade)"",""10 db per decade (-10db\/decade)"",""20 db per decade (-20db\/decade)""]",3
+"A capacitor inside an op-amp that prevents oscillations","[""Compensating capacitor"",""Limiting capacitor"",""Biasing capacitor"",""Coupling capacitor""]",0
+"A device that contains its own transistors, resistors and diodes","[""Integrated circuit"",""CMOS"",""Logic gates"",""All of these""]",0
+"What provides a parameter specifying the maximum rate of change of the output when driven by a large step-input signal?","[""Step rate"",""Slew rate"",""Step rate"",""Dynamic rate""]",1
+"The absolute maximum rating for op-amps interval power dissipation is","[""500 mW"",""300 mW"",""200 mW"",""100 mW""]",0
+"What is the absolute maximum rating for an op-amps differential input voltage?","[""\u00b1 10 V"",""\u00b1 20 V"",""\u00b1 30 V"",""\u00b1 50 V""]",2
+"The amplifier CMRR of µA 741 op-amplifier is","[""60 dB"",""70 dB"",""80 dB"",""90 dB""]",1
+"The letter prefix LM identifies which of the following manufacturers?","[""National semiconductor corporation"",""Texas instrument"",""Motorola"",""Signetics""]",0
+"What is the letter prefix used by the Fairchild Semiconductor on their op-amp product?","[""\u00b5A"",""FS"",""SG"",""NE""]",0
+"Which of the following is not part of the three temperature range codes of op amps for commercial, industrial and military applications?","[""-30 to 200\u00b0C"",""0 to 70\u00b0C"",""-25 to 85\u00b0C"",""-55 to 125\u00b0C""]",0
+"What identifies the package style that houses the op amp chip?","[""Letter suffix"",""Letter prefix"",""Circuit designator"",""Military specification code""]",0
+"The package suffix code for ceramic dual-in-line is","[""J"",""D"",""N"",""P""]",0
+"The summing amplifier has two or more inputs, and its output voltage is proportional to the ___________ of the algebraic sum of its input voltages.","[""Positive"",""Negative"",""Reciprocal"",""Inverse""]",1
+"When higher power ICs are needed, we can use","[""Monolithic ICs"",""Thin film ICs"",""Thick film ICs"",""Both b and c""]",3
+"In IC op-amps, one of the most important input characteristics is the _________ which is defined as the difference between the base currents.","[""Input bias current"",""Input offset current"",""Total base current"",""All of the choices""]",1
+"Monolithic ICs are","[""Forms of discrete circuits"",""Combination of thin-film and thick-film circuits"",""Also called hybrid ICs"",""Used for high power application""]",0

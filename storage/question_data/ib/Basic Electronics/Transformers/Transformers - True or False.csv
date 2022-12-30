@@ -1,0 +1,13 @@
+question,A,B,C,D,E,answer,explanation
+"<p>If voltage is stepped-up to the secondary, current will be stepped-down by the same amount.</p>",True,False,,,,A,
+"<p><p><img src=""/_files/images/basic-electronics/basics/tfq14_1002.gif""/></p>
+<p>In the given circuit, the secondary voltage is in phase with the primary voltage.</p></p>",True,False,,,,A,
+<p>The reflected load value that the source sees will always be larger than the load value itself.</p>,True,False,,,,B,
+<p>An open secondary winding of a transformer will cause the primary current to be nearly zero.</p>,True,False,,,,A,
+<p>The secondary voltages produced by a center-tapped transformer are equal in amplitude but 180° out of phase with respect to the center tap.</p>,True,False,,,,A,
+<p>A transformer that has 700 turns in the primary and 35 turns in the secondary has a turns ratio of 20:1.</p>,True,False,,,,A,
+"<p>Regardless of whether the transformer is step-up or step-down, power in the primary equals the power in the secondary if there is 100% efficiency.</p>",True,False,,,,A,
+"<p><p><img src=""/_files/images/basic-electronics/basics/tfq14_1006.gif""/></p>
+<p>In the given circuit, Maximum power is being transferred to the load.</p></p>",True,False,,,,B,
+"<p>For mutual inductance to occur, the two coils must be at right angles to each other.</p>",True,False,,,,B,
+"<p>If the current drawn in the secondary of a transformer increases, the power in the primary should remain the same.</p>",True,False,,,,B,

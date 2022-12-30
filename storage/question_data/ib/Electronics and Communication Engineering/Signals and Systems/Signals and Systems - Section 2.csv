@@ -1,0 +1,261 @@
+question,A,B,C,D,E,answer,explanation
+<p>If <i>f</i>=0</p>,X<sub>L</sub> = 0 and X<sub>C</sub> = 0,"X<sub>L</sub> = ∞, X<sub>C</sub> = ∞",X<sub>L</sub> = 0 and X<sub>C</sub> = ∞,X<sub>L</sub> = ∞ and X<sub>C</sub> = 0,,C," <p><img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/30-61.png""/>.</p> "
+<p>An ac circuit has an impedance of (2 - <i>j</i> 9) Ω for third harmonic. The impedance for fundamental is</p>,6 - <i>j</i> 27 Ω,"<img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/06-51-2.png""/>",2 - <i>j</i> 27 Ω,2 - <i>j</i> 3 Ω,,C," <p><img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/29-51.png""/>.</p> "
+<p>The ROC of sequence <i>x</i>[<i>n</i>] = (0.8)<i><sup>n</sup></i> ∪[<i>n</i>] + (0.4)<i><sup>n</sup></i> ∪[<i>n</i>]</p>,|<i>z</i>| &gt; 0.8,|<i>z</i>| &gt; 0.4,0.4 &lt; |<i>z</i>| &lt; 0.8,|<i>z</i>| &lt; 0.8,,A," <p><img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/33-313.png""/>
+</p>
+<p>ROC ⇒ 1 - 0.8 <i>z</i><sup>-1</sup> &lt; 0 1 - 0.4 <i>z</i><sup>-1</sup>
+</p>
+<p>⇒ 1 &gt; 0.8 <i>z</i><sup>-1</sup> ⇒ <i>z</i> &gt; 0.4
+</p>
+<p>or <i>z</i> &gt; 0.8
+</p>
+<p>By combining both condition
+</p>
+<p>ROC because <i>z</i> &gt; 0.4
+</p>
+<p>If you consider <i>z</i> &gt; 0.8 then ROC between the limit 0 to 0.4 excluded.</p> "
+<p>Pick the odd one</p>,variance,standard deviation,expectation,chebyshev inequality,,D," <p>Because Variance, standard Deviation, Expectation are related to each other.</p> "
+"<p>The sampling of a function <i>f</i>(<i>l</i>) = sin 2<span class=""symbol"">p</span><i>f</i><sub>0</sub><i>t</i> starts from a zero crossing. The signal can be detected if sampling time T is</p>","<img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/16-234-1.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/16-234-2.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/16-234-3.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/16-234-4.png""/>",,C," <p>Because <i>f<sub>s</sub></i> ≤ 2<i>f</i><sub>0</sub>, T<i>s</i> ≤ <img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/31-234.png""/>.</p> "
+"<p>If Laplace transform of <i>f</i>(<i>t</i>) is F(<i>s</i>), then £ <i>f</i>(<i>t</i> - <i>a</i>) <i>u</i> (<i>t</i> - <i>a</i>)= 0</p>",<i>e</i><i><sup>as</sup></i> F(<i>s</i>),<i>e</i><i><sup>-as</sup></i> F(<i>s</i>),- <i>e</i><i><sup>as</sup></i> F(<i>s</i>),- <i>e</i> <i><sup>-as</sup></i> F(<i>s</i>),,B," <p>£<i>f</i>(<i>t</i>) = <img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/29-7-1.png""/>
+</p>
+<p>£<sup>-1</sup>F(<i>s</i>) = <i>f</i>(<i>t</i>)
+</p>
+<p>£[<i>a</i> <i>f</i><sub>1</sub>(<i>t</i>) + <i>bf</i><sub>2</sub>(<i>t</i>)] = <i>a</i>F<sub>1</sub>(<i>s</i>) + <i>b</i>F<sub>2</sub>(<i>s</i>)
+</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/29-7-3.png""/>
+</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/29-7-4.png""/>
+</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/29-7-5.png""/>
+</p>
+<p>where <img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/29-7-6.png""/>
+</p>
+<p>£[<i>f</i>(<i>t</i> - T)] = <i>e</i><sup>-<i>sT</i></sup> F(<i>s</i>)
+</p>
+<p>£[<i>e</i><sup>-<i>at</i></sup> <i>f</i>(<i>t</i>)] = F(<i>s</i> + <i>a</i>)
+</p>
+<p>Initial value theorem <img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/29-7-7.png""/>
+</p>
+<p>Final value theroem <img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/29-7-8.png""/>
+</p>
+<p>Convolution Integral <img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/29-7-9.png""/>
+</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/29-7-10.png""/>
+</p>
+<p>where <span class=""symbol"">t</span> is dummy variable for <i>t</i>.</p> "
+<p><p><b>Assertion (A):</b>  L[<i>af</i><sub>1</sub>(<i>t</i>) + <i>bf</i><sub>2</sub>(<i>t</i>)] = <i>a</i>F<sub>1</sub>(<i>s</i>) - <i>b</i>F<sub>2</sub>(<i>s</i>)</p><p><b>Reason (R):</b> Initial value theroem enables us to find the value of <i>f</i>(<i>t</i>) at <i>t</i> = 0 directly from F(<i>s</i>)</p></p>,Both A and R are correct and R is correct explanation of A<br/>,Both A and R are correct but R is not correct explanation of A<br/>,"A is true, R is false<br/>","A is false, R is true",,D, <p>£[<i>a</i><i>f</i><sub>1</sub>(<i>t</i>) +<i>b</i><i>f</i><sub>2</sub>(<i>t</i>)] = <i>a</i>F<sub>1</sub>(<i>s</i>) + <i>b</i>F<sub>2</sub>(<i>s</i>) Hence A is wrong.</p> 
+<p>The Laplace transform of impulse δ(<i>t</i>) is</p>,1,1/<i>s</i>,<i>s</i>,1/<i>s</i><sup>2</sup>,,A," <p>£<i>f</i>(<i>t</i>) = <img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/29-7-1.png""/>
+</p>
+<p>£<sup>-1</sup>F(<i>s</i>) = <i>f</i>(<i>t</i>)
+</p>
+<p>£[<i>a</i> <i>f</i><sub>1</sub>(<i>t</i>) + <i>bf</i><sub>2</sub>(<i>t</i>)] = <i>a</i>F<sub>1</sub>(<i>s</i>) + <i>b</i>F<sub>2</sub>(<i>s</i>)
+</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/29-7-3.png""/>
+</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/29-7-4.png""/>
+</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/29-7-5.png""/>
+</p>
+<p>where <img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/29-7-6.png""/>
+</p>
+<p>£[<i>f</i>(<i>t</i> - T)] = <i>e</i><sup>-<i>sT</i></sup> F(<i>s</i>)
+</p>
+<p>£[<i>e</i><sup>-<i>at</i></sup> <i>f</i>(<i>t</i>)] = F(<i>s</i> + <i>a</i>)
+</p>
+<p>Initial value theorem <img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/29-7-7.png""/>
+</p>
+<p>Final value theroem <img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/29-7-8.png""/>
+</p>
+<p>Convolution Integral <img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/29-7-9.png""/>
+</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/29-7-10.png""/>
+</p>
+<p>where <span class=""symbol"">t</span> is dummy variable for <i>t</i>.</p> "
+"<p><p><b>Assertion (A):</b>  The modified ramp function of the given figure can be represented s sum of two ramp functions of the given figure <br/><img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/26-429.png""/></p><p><b>Reason (R):</b> If <i>f</i>(<i>t</i>) = <i>t</i>, F(<i>s</i>) = 1</p></p>",Both A and R are correct and R is correct explanation of A<br/>,Both A and R are correct but R is not correct explanation of A<br/>,"A is true, R is false<br/>","A is false, R is true",,C," <p>If <i>f</i>(<i>t</i>) = <i>t</i>, <img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/35-429.png""/> Hence R is wrong.</p> "
+<p>Energy density spectrum of <i>x</i>[<i>n</i>] = <i>a</i><i><sup>n</sup></i>∪[<i>n</i>] for -1 &lt; <i>a</i> &lt; + 1 is</p>,"<img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/18-293-1.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/18-293-2.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/18-293-3.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/18-293-4.png""/>",,C," <p><img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/32-293-1.png""/>
+</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/32-293-2.png""/>
+</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/32-293-3.png""/></p> "
+<p>The trignometric Fourier series of an even function of time does not have</p>,dc term,cosine term,sine term,odd harmonic terms,,C, <p>An even function cannot have sine terms because for an even function <i>f</i>( - <i>x</i>) = <i>f</i>(<i>x</i>).</p> 
+"<p>Z transformer of <img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/09-107.png""/></p>",<i>a</i>X(<i>z</i>) - <i>b</i>Y(<i>z</i>),<i>a</i>X(<i>z</i>) + <i>b</i>Y(<i>z</i>),<i>a</i>X(<i>z</i>) + <i>b</i>Y(<i>z</i>) + <i>a</i>/<i>b</i>,<i>a</i>X(<i>z</i>) + <i>b</i>Y(<i>z</i>) + bY(<i>z</i>) - <i>a</i>/<i>b</i>,,B, <p>Z transform possesses the property of linearity.</p> 
+<p>An ac wave with superimposed dc is symmetrical about <i>x</i> - axis.</p>,True,False,,,,B, <p>It is not symmetrical about <i>x</i> - axis.</p> 
+<p><p><b>Assertion (A):</b>  If a wave <i>v</i> = A<sub>1</sub> + A<sub>2</sub> sin ω<i>t</i> is applied to a pure capacitor the current wave is<br/><i>i</i> = A<sub>3</sub> sin(ω<i>t</i> + 90°) </p><p><b>Reason (R):</b> A capacitor presents infinite impedance to dc.</p></p>,Both A and R are correct and R is correct explanation of A<br/>,Both A and R are correct but R is not correct explanation of A<br/>,"A is true, R is false<br/>","A is false, R is true",,A," <p>Since capacitor presents infinite impedance to dc, voltage component A<sub>1</sub>, does not cause any current.</p> "
+<p>State variables which describe a system are a unique set.</p>,True,False,,,,B, <p>It is not a unique set.</p> 
+<p>The F.T. of a conjugate symmetric function is always</p>,imaginary,real,conjugate Unsymmetric,conjugate symmetric,,B, <p>F.T. of conjugate symmetric function is always real.</p> 
+<p>Which one is time invariant system?</p>,<i>y</i>[<i>n</i>] = <i>x</i>[2<i>n</i>],<i>y</i>[<i>n</i>] = <i>x</i>[<i>n</i>] <i>x</i>[<i>n</i> - 1],<i>y</i>[<i>n</i>] = <i>x</i>[<i>n</i>/2],all,,B," <p>For time invariant system 
+</p>
+<p><i>y</i>(<i>n</i>, <i>k</i>) = <i>y</i>(<i>n</i> - <i>k</i>), where <i>y</i>(<i>n</i>, <i>k</i>) mean shift the input by <i>n</i> - <i>k</i>, while <i>y</i>(<i>n</i> - <i>k</i>) mean change all the <i>n</i>
+</p>
+<p>(a) <i>y</i>[<i>n</i>] = <i>x</i>[2<i>n</i>] 
+</p>
+<p>⇒ <i>y</i>(<i>n</i>, <i>k</i>) = <i>x</i>[2<i>n</i> - <i>k</i>]
+</p>
+<p><i>y</i>(<i>n</i> - <i>k</i>) = <i>x</i>[2(<i>n</i> - <i>k</i>)]
+</p>
+<p><i>y</i>(<i>n</i>, <i>k</i>) ≠ <i>y</i>(<i>n</i> - <i>k</i>) Time variant
+</p>
+<p>(b) <i>y</i>[<i>n</i>] = <i>x</i>[<i>n</i>] <i>x</i>[<i>n</i> - 1]
+</p>
+<p><i>y</i>[<i>n</i>, <i>k</i>] = <i>x</i>[<i>n</i> - <i>k</i>] <i>x</i>[<i>n</i> - <i>k</i> - 1]
+</p>
+<p><i>y</i>[<i>n</i> - <i>k</i>] = <i>x</i>[<i>n</i> - <i>k</i>] <i>x</i>[<i>n</i> - <i>k</i> - 1]
+</p>
+<p><i>y</i>[<i>n</i>, <i>k</i>] = <i>x</i>[<i>n</i> - <i>k</i>] Time Invariant
+</p>
+<p>(c) <i>y</i>[<i>n</i>] = <i>x</i>[<i>n</i>/2] ⇒ <i>y</i>[<i>n</i>, <i>k</i>] <img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/33-302.png""/>
+</p>
+<p>⇒ <i>y</i>[<i>n</i> - <i>k</i>] <img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/33-302-1.png""/>
+</p>
+<p><i>y</i>[<i>n</i>, <i>k</i>] ≠ <i>y</i>[<i>n</i> - <i>k</i>] Time variant.</p> "
+"<p>The Fourier series representation of a periodic current (2 + 6<span class=""root"">2</span> cos ω<i>t</i> +<span class=""root"">48</span> sin 2ω<i>t</i>) A. The effective value is</p>","(2 + 6 + <span class=""root"">24</span>) A",8 A,6 A,2 A,,B," <p>I =(2<sup>2</sup> + 6<sup>2</sup> + 24)<sup>0.5</sup> = <span class=""root"">64</span> = 8.</p> "
+<p>Energy density spectrum of a gate G<sub>T</sub>(<i>t</i>) function is</p>,"<img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/18-286-1.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/18-286-2.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/18-286-3.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/18-286-4.png""/>",,A," <p><img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/32-286.png""/> and E.S.D. of <i>g</i>(<i>t</i>) = |G(<i>f</i>)|<sup>2</sup>
+</p>
+<p>So E.S.D. of <i>G<sub>T</sub></i>(<i>t</i>) = |G(<i>f</i>)|<sup>2</sup> <img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/32-286-1.png""/>.</p> "
+"<p>If <img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/24-397.png""/>, then <i>x</i>(<i>n</i>) series has</p>",alternates 0,alternate 1,alternate 2,alternate -1<i>s</i>,,A, <p>Use power series method to solve it.</p> 
+"<p><p><b>Assertion (A):</b>  Intergal of a unit step function is a ramp of slope unity.</p><p><b>Reason (R):</b> If <img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/26-435.png""/></p></p>",Both A and R are correct and R is correct explanation of A<br/>,Both A and R are correct but R is not correct explanation of A<br/>,"A is true, R is false<br/>","A is false, R is true",,C," <p>If <i>f</i>(<i>t</i>) = sin ω<i>t</i>, <img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/35-435.png""/> Hence A is wrong.</p> "
+"<p>If <img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/13-175.png""/> then, <i>f</i>(0<sup>+</sup>) and <i>f</i>(∞) are given by</p>",0 and 2,"2, 0","0, 1","<img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/13-175-4.png""/>, 0",,B, <p>Use initial and final value theorems.</p> 
+<p>The signal define by the equations<i> u</i>(<i>t</i> -<i> a</i>) = 0 for <i>t</i> &lt; <i>a</i> and <i>u</i>(<i>t</i> - <i>a</i>) = 1 for<i> t</i> ≥ <i>a</i> is</p>,a unit step function,a shifted unit step function orginating at <i>t</i> = <i>a</i>,a pulse function,none of the above,,B, <p><i>u</i>(<i>t</i>) is a unit step function <i>u</i>(<i>t</i> - <i>a</i>) is a unit step function shifted in time by <i>a</i>.</p> 
+"<p>For the system in the given figure<br/><img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/14-193.png""/></p>",<i> y<sub>k</sub></i> = <i>u<sub>k</sub></i> + 0.5<i> y<sub>k - 2</sub></i>,<i> y<sub>k</sub></i> = <i>u<sub>k</sub></i> + 0.5<i> u<sub>k - 2</sub></i>,<i> y<sub>k</sub></i> = <i>u<sub>k</sub></i> - 0.5<i> y<sub>k - 2</sub></i>,<i> y<sub>k</sub></i> = <i>u<sub>k</sub></i> - 0.5<i> u<sub>k - 2</sub></i>,,A, <p><i>y<sub>k</sub></i> has two unit delays and then a multiplier of 0.5 before being fedback.</p> 
+"<p>The Laplace transform of the waveform shown in the below figure is <br/><img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/23-389.png""/></p>","<img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/23-388-1.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/23-388-2.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/23-388-3.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/23-388-4.png""/>",,D, <p><i>x</i>(<i>t</i>) = ∪(<i>t</i> - 1) + ∪(<i>t</i> - 2) - 2∪(<i>t</i> - 3).</p> 
+"<p>Laplace transform of <i>e<sup>at</sup></i> cos (<span class=""symbol"">a</span><i>t</i>) is</p>","<img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/13-172-1.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/13-172-2.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/13-172-3.png""/>",none of these,,A," <p>£<i>f</i>(<i>t</i>) = <img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/29-7-1.png""/>
+</p>
+<p>£<sup>-1</sup>F(<i>s</i>) = <i>f</i>(<i>t</i>)
+</p>
+<p>£[<i>a</i> <i>f</i><sub>1</sub>(<i>t</i>) + <i>bf</i><sub>2</sub>(<i>t</i>)] = <i>a</i>F<sub>1</sub>(<i>s</i>) + <i>b</i>F<sub>2</sub>(<i>s</i>)
+</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/29-7-3.png""/>
+</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/29-7-4.png""/>
+</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/29-7-5.png""/>
+</p>
+<p>where <img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/29-7-6.png""/>
+</p>
+<p>£[<i>f</i>(<i>t</i> - T)] = <i>e</i><sup>-<i>sT</i></sup> F(<i>s</i>)
+</p>
+<p>£[<i>e</i><sup>-<i>at</i></sup> <i>f</i>(<i>t</i>)] = F(<i>s</i> + <i>a</i>)
+</p>
+<p>Initial value theorem <img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/29-7-7.png""/>
+</p>
+<p>Final value theroem <img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/29-7-8.png""/>
+</p>
+<p>Convolution Integral <img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/29-7-9.png""/>
+</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/29-7-10.png""/>
+</p>
+<p>where <span class=""symbol"">t</span> is dummy variable for <i>t</i>.</p> "
+"<p>The impulse response of discrete time system is <i>x</i>[<i>n</i>] = (4)<sup><i>n</i></sup> ∪[3 - <i>n</i>], the system is</p>",casual,stable,stable and casual,stable and non-casual,,D," <p>For stability
+</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/33-307.png""/>
+</p>
+<p>Hence it is stable and it depend upon future value for - ve <i>n</i> so it is non causal.</p> "
+"<p>The value of the <img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/22-374.png""/> in + ve sense is</p>","<i>j</i><span class=""symbol"">p</span>/2","-<span class=""symbol"">p</span>/2","-<i>j</i><span class=""symbol"">p</span>/2","<span class=""symbol"">p</span>/2",,D," <p><img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/34-374.png""/>
+</p>
+<p>Apply Cauchy integral formula.</p> "
+"<p>The amplitude of the first odd harmonic of the square wave shown in the given figure is<br/><img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/11-140.png""/></p>","<img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/11-140-1.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/11-140-2.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/11-140-3.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/11-140-4.png""/>",,A," <p>Fourier coefficient <img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/30-140-1.png""/>
+</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/30-140-2.png""/>
+</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/30-140-3.png""/>.</p> "
+"<p>The inverse Laplace transform of <img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/05-29.png""/> is</p>",<i>t</i><sup>2</sup> <i>e</i><i><sup>-t</sup></i>,"<img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/05-29-2.png""/>",<i>te</i><sup>-<i>t</i></sup>,"<img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/05-29-4.png""/>",,B," <p><img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/29-29.png""/>.</p> "
+<p>A voltage wave <i>v</i> = 10 + 20 sin ω<i>t</i> + 7.5 sin 3 ω(<i>t</i>) is applied to a series combination of two elements. The current is <i>i</i> = 5 sin (ω<i>t</i> + 20°) + 1.5 sin (3ω<i>t</i> + 10°). The elements are</p>,R and C,R and L,L and C,both inductances,,A, <p>DC component is absent in current and current is leading the voltage. Hence R and C.</p> 
+"<p>If F(<i>t</i>) = δ(<i>t</i> - <i>a</i>), F(<i>s</i>)=</p>",0,1,<i>e</i><sup>-<i>as</i></sup>,<i>e</i><i><sup>as</sup></i>,,C, <p>It is an impulse originating at <i>t</i> = <i>a</i>.</p> 
+<p>The property is not valid for basic singularity function is</p>,it is even signal,convolution of any arbitary function <i>x</i>(<i>t</i>) and an impulse is the original function itself,the sum of two impulses at same location is the impulse with the strength equal to the summation of individual strengths.,none of these.,,D," <p>Singularity function is discontinuous at origin like ∪(<i>t</i>), δ(<i>t</i>).</p> "
+<p>Magnitude Plot of a Composite signal <i>x</i>(<i>t</i>) = <i>e</i><sup>2<i>jt</i></sup> + <i>e</i><sup>3<i>jt</i></sup> is</p>,half wave rectified sinusoidal,full wave rectified sinusoidal,exponentially increasing sinusoidal,exponentially decreasing sinusoidal,,B," <p><i>x(t)</i> = <i>e</i><sup>2<i>jt</i></sup>
+</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/35-411-2.png""/>
+</p>
+<p>⇒ <i>x(t)</i> = 2<sup><i>ej2.5t</i></sup> cos(0.5<i>t</i>)
+</p>
+<p>The magnitude |<i>x(t)</i>| = 2 cos |0.5<i>t</i>| which is a full rectified wave.</p> "
+"<p>The final value of <img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/10-132.png""/> is</p>",∞,2,1,zero,,C," <p><img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/30-132.png""/>.</p> "
+"<p>F.T. of normalized Gaussian function <i>e</i><sup>-<span class=""symbol"">p</span><i>t</i>2 </sup> is</p>","<i>e</i><sup>-<span class=""symbol"">p</span><i>f</i>2</sup>","2<i>e</i><sup>-<span class=""symbol"">p</span><i>t2</i></sup>","<img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/17-278-3.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/17-278-4.png""/>",,A," <p>Apply Differential Property of F.T
+</p>
+<p>Note that this is true only for <i>e</i><sup>-<span class=""symbol"">p</span><i>t</i>2</sup>
+</p>
+<p>If <i>g</i>(<i>t</i>) = <i>e</i><sup>-<i>at</i>2</sup> then G(<i>f</i>) = <img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/32-278.png""/>.</p> "
+"<p>If F(<i>s</i>) is the Laplace transform of <i>f</i>(<i>t</i>) then Laplace transform of <img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/14-191.png""/></p>","<img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/14-191-1.png""/>",<i>s</i>FU(<i>s</i>),<i>s<sup>2</sup></i>F(<i>s</i>),"<img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/14-191-4.png""/>",,B," <p>£<i>f</i>(<i>t</i>) = <img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/29-7-1.png""/>
+</p>
+<p>£<sup>-1</sup>F(<i>s</i>) = <i>f</i>(<i>t</i>)
+</p>
+<p>£[<i>a</i> <i>f</i><sub>1</sub>(<i>t</i>) + <i>bf</i><sub>2</sub>(<i>t</i>)] = <i>a</i>F<sub>1</sub>(<i>s</i>) + <i>b</i>F<sub>2</sub>(<i>s</i>)
+</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/29-7-3.png""/>
+</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/29-7-4.png""/>
+</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/29-7-5.png""/>
+</p>
+<p>where <img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/29-7-6.png""/>
+</p>
+<p>£[<i>f</i>(<i>t</i> - T)] = <i>e</i><sup>-<i>sT</i></sup> F(<i>s</i>)
+</p>
+<p>£[<i>e</i><sup>-<i>at</i></sup> <i>f</i>(<i>t</i>)] = F(<i>s</i> + <i>a</i>)
+</p>
+<p>Initial value theorem <img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/29-7-7.png""/>
+</p>
+<p>Final value theroem <img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/29-7-8.png""/>
+</p>
+<p>Convolution Integral <img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/29-7-9.png""/>
+</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/29-7-10.png""/>
+</p>
+<p>where <span class=""symbol"">t</span> is dummy variable for <i>t</i>.</p> "
+"<p><p><b>Assertion (A):</b>  L[<i>e</i><i><sup>-at</sup></i> <i>f</i>(<i>t</i>)] = F(<i>s</i> + <i>a</i>) </p><p><b>Reason (R):</b> In use of Laplace transform method, initial conditions may be neglected.</p></p>",Both A and R are correct and R is correct explanation of A<br/>,Both A and R are correct but R is not correct explanation of A<br/>,"A is true, R is false<br/>","A is false, R is true",,B, <p>Initial conditions are taken into account.</p> 
+<p>An ac sinusoidal wave has an rms value of 10 V. The peak to peak value is</p>,10 V,0 V,14.14 V,28.28 V,,D," <p>Peak to peak value = <img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/30-56.png""/> (rms value).</p> "
+<p>A complex wave is 5 + 5 sin ω<i>t</i>. Its rms value is</p>,7.07 V,5 V,10 V,6.12 V,,D," <p><img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/29-49.png""/></p> "
+"<p>Let <img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/21-364.png""/> be the Fourier transform of <i>y</i>(<i>n</i>), then <i>y</i>(<i>e</i><sup><i>j</i>0</sup>) is</p>",1/4,2,4,4/3,,A," <p><img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/34-364-1.png""/>
+</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/34-364-2.png""/>
+</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/34-364-3.png""/>.</p> "
+"<p>The Laplace transform of a vlotage across a capacitor is V<sub>c</sub> (<i>s</i>) = <img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/14-184.png""/>. If capacitor is 0.5 F, The current through capacitor at <i>t</i> = 0<sup>+</sup> is</p>",0 A,2 A,0.5 A,1 A,,C," <p><img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/31-184.png""/>.</p> "
+"<p>The value of Integral <img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/16-231.png""/> (<i>t</i><sup>2</sup> + 2) δ(<i>t</i> - 3)<i>dt</i> is equal to</p>",11,3,9,0,,D, <p>Because <i>t</i> = 3 is lies out of integral limit.</p> 
+"<p>The <i>z</i> transform of sequence <i>x</i>[<i>n</i>] = {2, 4, 3, 2}</p>",2<i>z</i><sup>-1</sup> + 4<i>z</i><sup>-2</sup> + 3 + 2<i>z</i><sup>+1</sup>,2<i>z</i><sup>-1</sup> + 3 + 4<i>z</i><sup>+1</sup> + + 2<i>z</i><sup>+2</sup>,2<i>z</i><sup>+1</sup> + 3<i>z</i><sup>-1</sup> + 4<i>z</i><sup>-2</sup> + 2<i>z</i><sup>-3</sup>,3 + 2<i>z</i><sup>-1</sup> + 4<i>z</i><sup>-2</sup> + 2<i>z</i><sup>-1</sup>,,D," <p><i>n</i>(<i>z</i>) = 2<i>z</i><sup>+2</sup> + 4<i>z</i><sup>+1</sup> + 3 + 2<i>z</i><sup>-1</sup> or 2<i>z</i><sup>-1</sup> + 3 + 4<i>z</i><sup>+1</sup> + 2<i>z</i><sup>+2</sup>
+</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/33-309.png""/>.</p> "
+"<p>For the function <i>u</i>(<i>t</i> - <i>a</i>) = 0 for <i>t</i> &lt; <i>a</i> and <i>u</i>(<i>t</i> - <i>a</i>) = 1 for<i>t</i> ≥ <i>a</i>, the Laplace transform is</p>","<img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/04-7-1.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/04-7-2.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/04-7-3.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/04-7-4.png""/>",,B," <p>£<i>f</i>(<i>t</i>) = <img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/29-7-1.png""/>
+</p>
+<p>£<sup>-1</sup>F(<i>s</i>) = <i>f</i>(<i>t</i>)
+</p>
+<p>£[<i>a</i> <i>f</i><sub>1</sub>(<i>t</i>) + <i>bf</i><sub>2</sub>(<i>t</i>)] = <i>a</i>F<sub>1</sub>(<i>s</i>) + <i>b</i>F<sub>2</sub>(<i>s</i>)
+</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/29-7-3.png""/>
+</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/29-7-4.png""/>
+</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/29-7-5.png""/>
+</p>
+<p>where <img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/29-7-6.png""/>
+</p>
+<p>£[<i>f</i>(<i>t</i> - T)] = <i>e</i><sup>-<i>sT</i></sup> F(<i>s</i>)
+</p>
+<p>£[<i>e</i><sup>-<i>at</i></sup> <i>f</i>(<i>t</i>)] = F(<i>s</i> + <i>a</i>)
+</p>
+<p>Initial value theorem <img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/29-7-7.png""/>
+</p>
+<p>Final value theroem <img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/29-7-8.png""/>
+</p>
+<p>Convolution Integral <img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/29-7-9.png""/>
+</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/29-7-10.png""/>
+</p>
+<p>where <span class=""symbol"">t</span> is dummy variable for <i>t</i>.</p> "
+"<p><p><b>Assertion (A):</b>  For the function shown in figure<br/>Laplace transform is <img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/25-424.png""/><br/><img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/25-424-1.png""/></p><p><b>Reason (R):</b> <img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/25-424-2.png""/></p></p>",Both A and R are correct and R is correct explanation of A<br/>,Both A and R are correct but R is not correct explanation of A<br/>,"A is true, R is false<br/>","A is false, R is true",,A, <p>A follows from the theorem in R.</p> 
+<p>The energy of constant amplitude complex valued exponential sequence is ...</p>,A<sup>2</sup>,∞,1,0,,B," <p><img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/34-337.png""/>
+</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/34-337-1.png""/>.</p> "
+"<p>The value of Integral <img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/16-230.png""/> δ(<i>t</i>) sin <i>t</i> <i>dt</i> is equal to</p>",zero,1,infinite,undefined,,A," <p><img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/31-230.png""/> Because δ(<i>t</i>) is defined at <i>t</i> = 0 only.</p> "
+"<p><p><b>Assertion (A):</b>  If <img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/26-439-1.png""/></p><p><b>Reason (R):</b> <img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/26-439-2.png""/></p></p>",Both A and R are correct and R is correct explanation of A<br/>,Both A and R are correct but R is not correct explanation of A<br/>,"A is true, R is false<br/>","A is false, R is true",,A," <p><img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/35-439.png""/>.</p> "
+"<p>A rectangular pulse train <i>s</i>(<i>t</i>) is shown in figure is convolved with the signal cos<sup>2</sup>(4<span class=""symbol"">p</span> x 10<sup>3</sup><i>t</i>). The convolved signal will be a<br/><img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/20-353.png""/></p>",DC,12 kHZ sinusoidal,8 kHZ sinusoidal,14 kHZ sinusoidal,,D," <p>First find the Fourier series of given pulse that is
+</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/signals-and-systems/34-353.png""/>
+</p>
+<p>And <i>f</i><i><sub>m</sub></i> from (2) ⇒ 4 kHz
+</p>
+<p>When we multiply <i>x</i><sub>1</sub>(<i>t</i>) and <i>x</i><sub>2</sub>(<i>t</i> - <i>t</i>)
+</p>
+<p>We get term like <i>f</i><i><sub>s</sub></i> ± <i>f</i><i><sup>m</sup></i>, 2<i>f</i><i><sub>s</sub></i> ± <i>f</i><i><sub>m</sub></i>, 3<i>f</i><sub>s</sub> ± <i>f</i><i><sup>m</sup></i>, 4<i>f</i><i><sub>s</sub></i> ± <i>f</i><i><sub>m</sub></i> and <i>f</i><i><sub>s</sub></i> = 10 kHz <i>f</i><i><sub>m</sub></i> = 4kHz
+</p>
+<p>Hence from above relation (10+4) kHz ⇒ 14 kHz signal will be present in <i>x</i>(<i>t</i>).</p> "

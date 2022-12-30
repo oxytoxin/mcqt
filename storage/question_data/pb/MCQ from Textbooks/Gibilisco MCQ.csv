@@ -1,0 +1,642 @@
+﻿question,choices,answer
+"Electromagnetic interference to a hi-fi amplifier can be caused by:","[""A nearby radio broadcast station."",""Improperly designed receiving antennas."",""Excessive utility voltage."",""Improper balance between the left and right channels.""]",0
+"The midrange audio frequencies:","[""Are halfway between the lowest and highest audible frequencies."",""Represent sounds whose volume levels are not too loud or too soft."",""Are above the treble range but below the bass range."",""Are between approximately 0.2 and 2 kHz.""]",3
+"An indoor concert hall such that sound reaches every listener’s ears perfectly at all audio frequencies requires:","[""A suspended ceiling with acoustical tile completely covering it."",""Numerous baffles on the walls and ceiling."",""A level of engineering beyond reasonable expectation."",""Avoidance of excessive background noise.""]",2
+"A sound volume change of -3 dB represents:","[""A doubling of acoustic power."",""A threefold increase in acoustic power."",""A tenfold increase in acoustic power."",""No change in acoustic power.""]",0
+"A sound whose wavelength is 6in in the air has a frequency of:","[""550 Hz."",""1100 Hz."",""2200 Hz."",""It is impossible to calculate from this information.""]",2
+"A sound wave that travels at 335 m per second has a frequency of:","[""335 Hz."",""3350 Hz."",""33.5 Hz."",""It is impossible to calculate from this information.""]",3
+"The relative phase of two acoustic waves, as they arrive at your ears, can affect:","[""How loud the sound seems."",""The direction from which the sound seems to be coming."",""Both A and B."",""Neither A nor B.""]",2
+"In an acoustic sine wave:","[""The frequency and phase are identical."",""The sound power is inversely proportional to the frequency."",""The sound power is directly proportional to the frequency."",""All of the sound power is concentrated at a single frequency.""]",3
+"Vinyl disks are:","[""Susceptible to physical damage."",""Useful primarily in high-power sound systems."",""Digital media."",""Preferred for off-the-air sound recording.""]",0
+"If an amplifier introduces severe distortion in the waveforms of input signals, then that amplifier is:","[""Not delivering enough power."",""Operating at the wrong frequency."",""Operating in a nonlinear fashion."",""Being underdriven.""]",2
+"If a 10-watt amplifier is used with speakers designed for a 100-watt amplifier:","[""The speakers are capable of handling the amplifier output."",""The amplifier might be damaged by the speakers."",""Electromagnetic interference is likely to occur."",""The speakers are likely to produce distortion of the sound.""]",0
+"Which of the following frequencies cannot be received by an AM/FM tuner?","[""830 kHz."",""95.7 kHz."",""100.1 MHz."",""107.3 MHz.""]",1
+"A woofer:","[""Is especially useful for reproducing the sounds of barking dogs."",""Is designed to handle short, intense bursts of sound."",""Should not be used with a graphic equalizer."",""Is designed to reproduce low-frequency sounds.""]",3
+"Suppose you have an amateur radio station and its transmitter causes EMI to your hi-fi system. Which of the following would almost certainly <i>not </i>help?","[""Buy a radio transmitter that works on the same frequencies with the same power output, but is made by a different manufacturer."",""Reduce the transmitter output power."",""Use shielded speaker wires in the hi-fi system."",""Move the radio transmitting antenna to a location farther away from the hi-fi system.""]",0
+"A tape recording head:","[""Converts sound waves to radio signals."",""Converts sound waves to fluctuating electric current."",""Converts audio-frequency currents to a fluctuating magnetic field."",""Converts direct current to audio-frequency currents.""]",2
+"A microphone:","[""Converts sound waves to radio signals."",""Converts sound waves to fluctuating electric current."",""Converts audio-frequency currents to a fluctuating magnetic field."",""Converts direct current to audio-frequency currents.""]",1
+"An audio mixer:","[""Cannot match impedances."",""Cannot make an amplifier more powerful."",""Will eliminate EMI."",""Allows a microphone to be used as a speaker.""]",1
+"Which of the following media or devices use digital-to-analog conversion?","[""A CD player."",""A speaker."",""A microphone."",""A vinyl disk.""]",0
+"Phase quadrature is sometimes used to:","[""Increase the output from a microphone."",""Reduce the susceptibility of a hi-fi system to EMI."",""Create the illusion of four-channel stereo when there are really only two channels."",""Convert an analog signal to a digital signal, or vice-versa.""]",2
+"The length of time between a point in one cycle and the same point in the next cycle of an ac wave is the:","[""Frequency."",""Magnitude."",""Period."",""Polarity.""]",2
+"On a spectrum analyzer, a pure ac signal, having just one frequency component, would look like:","[""A single pip."",""A perfect sine wave."",""A square wave."",""A sawtooth wave.""]",0
+"The period of an ac wave is:","[""The same as the frequency."",""Not related to the frequency."",""Equal to 1 divided by the frequency."",""Equal to the amplitude divided by the frequency.""]",2
+"The sixth harmonic of an ac wave whose period is 0.001 second has a frequency of","[""0.006 Hz."",""167 Hz."",""7 kHz."",""6 kHz.""]",3
+"A degree of phase represents:","[""6.28 cycles."",""57.3 cycles."",""1\/6.28 cycle."",""1\/360 cycle.""]",3
+"Two waves have the same frequency but differ in phase by 1/20 cycle. The phase difference in degrees is:","[""18."",""20."",""36."",""5.73.""]",0
+"A signal has a frequency of 1770 Hz. The angular frequency is:","[""1770 radians per second."",""11,120 radians per second."",""282 radians per second."",""Impossible to determine from the data given.""]",1
+"A triangular wave:","[""Has a fast rise time and a slow decay time."",""Has a slow rise time and a fast decay time."",""Has equal rise and decay rates."",""Rises and falls abruptly.""]",2
+"Three-phase ac:","[""Has waves that add up to three times the originals."",""Has three waves, all of the same magnitude."",""Is what you get at a common wall outlet."",""Is of interest only to physicists.""]",1
+"If two waves have the same frequency and the same amplitude, but opposite phase, the composite wave is:","[""Twice the amplitude of either wave alone."",""Half the amplitude of either wave alone."",""A complex waveform, but with the same frequency as the originals."",""Zero.""]",3
+"If two waves have the same frequency and the same phase, the composite wave:","[""Has a magnitude equal to the difference between the two originals."",""Has a magnitude equal to the sum of the two originals."",""Is complex, with the same frequency as the originals."",""Is zero.""]",1
+"In a 117-V utility circuit, the peak voltage is:","[""82.7 V."",""165 V."",""234 V."",""331 V.""]",1
+"In a 117-V utility circuit, the pk-pk voltage is:","[""82.7 V."",""165 V."",""234 V."",""331 V.""]",3
+"In a perfect sine wave, the pk-pk value is:","[""Half the peak value."",""The same as the peak value."",""1.414 times the peak value."",""Twice the peak value.""]",3
+"If a 45-Vdc battery is connected in series with the 117-V utility mains as shown in Fig. 9-15, the peak voltages will be:","[""+210 V and -120 V."",""+162 V and -72 V."",""+396 V and -286 V."",""Both equal to 117 V.""]",0
+"In the situation of question 16, the pk-pk voltage will be:","[""117 V."",""210 V."",""331 V."",""396 V.""]",2
+"Which one of the following does <i>not </i>affect the power output available from a particular ac generator?","[""The strength of the magnet."",""The number of turns in the coil."",""The type of natural energy source used."",""The speed of rotation of the coil or magnet.""]",2
+"If a 175-V dc source were connected in series with the utility mains from a standard wall outlet, the result would be:","[""Smooth dc."",""Smooth ac."",""Ac with one peak greater than the other."",""Pulsating dc.""]",3
+"An advantage of ac over dc in utility applications is:","[""Ac is easier to transform from one voltage to another."",""Ac is transmitted with lower loss in wires."",""Ac can be easily gotten from dc generators."",""Ac can be generated with less dangerous by-products.""]",0
+"If a circuit has a voltage-amplification factor of 20, then the voltage gain is:","[""13 dB."",""20 dB."",""26 dB."",""40 dB.""]",2
+"A gain of -15 dB in a circuit means that:","[""The output signal is stronger than the input."",""The input signal is stronger than the output."",""The input signal is 15 times as strong as the output."",""The output signal is 15 times as strong as the input.""]",1
+"A device has a voltage gain of 23 dB. The input voltage is 3.3 V. The output voltage is:","[""76 V."",""47 V."",""660 V."",""Not determinable from the data given.""]",1
+"A power gain of 44 dB is equivalent to an output/input power ratio of:","[""44."",""160."",""440."",""25,000.""]",3
+"A resistor between the base of an NPN bipolar transistor and the positive supply voltage is used to:","[""Provide proper bias."",""Provide a path for the input signal."",""Provide a path for the output signal."",""Limit the collector current.""]",0
+"The capacitance values in an amplifier circuit depend on:","[""The supply voltage."",""The polarity."",""The signal strength."",""The signal frequency.""]",3
+"A class-A circuit would not work well as:","[""A stereo hi-fi amplifier."",""A television transmitter PA."",""A low-level microphone preamplifier."",""The first stage in a radio receiver.""]",1
+"In which of the following FET amplifier types does drain current flow for 50 percent of the signal cycle?","[""Class A."",""Class AB1."",""Class AB2."",""Class B.""]",3
+"Which of the following amplifier types produces the least distortion of the signal waveform?","[""Class A."",""Class AB1."",""Class AB2."",""Class B.""]",0
+"Which bipolar amplifier type has some distortion in the signal wave, with collector current during most, but not all, of the cycle?","[""Class A."",""Class AB1."",""Class AB2."",""Class B.""]",2
+"How can a class-B amplifier be made suitable for hi-fi audio applications?","[""By increasing the bias."",""By using two transistors in push-pull."",""By using tuned circuits in the output."",""A class-B amplifier cannot work well for hi-fi audio.""]",1
+"How can a class-C amplifier be made linear?","[""By reducing the bias."",""By increasing the drive."",""By using two transistors in push-pull."",""A class-C amplifier cannot be made linear.""]",3
+"Which of the following amplifier classes generally needs the most driving power?","[""Class A."",""Class AB1."",""Class AB2."",""Class B.""]",3
+"A graphic equalizer is a form of:","[""Bias control."",""Gain control."",""Tone control."",""Frequency control.""]",2
+"A disadvantage of transfer coupling, as opposed to capacitive coupling, is that:","[""Transformers can\u2019t match impedances."",""Transformers can\u2019t work above audio frequencies."",""Transformers cost more."",""Transformers reduce the gain.""]",3
+"A certain bipolar-transistor PA is 66 percent efficient. The output power is 33 W. The dc collector power input is:","[""22 W."",""50 W."",""2.2 W."",""None of the above.""]",1
+"A broadband PA is:","[""Generally easy to use."",""More efficient than a tuned PA."",""Less likely than a tuned PA to amplify unwanted signals."",""Usable only at audio frequencies.""]",0
+"A tuned PA must always be:","[""Set to work over a wide range of frequencies."",""Adjusted for maximum power output."",""Made as efficient as possible."",""Operated in class C.""]",1
+"A loading control in a tuned PA:","[""Provides an impedance match between the bipolar transistor or FET and the load."",""Allows broadband operation."",""Adjusts the resonant frequency."",""Controls the input impedance.""]",2
+"A wiring diagram would most likely be found in:","[""An engineer\u2019s general circuit idea notebook."",""An advertisement for an electrical device."",""The service\/repair manual for a radio receiver."",""A procedural flowchart.""]",2
+"Given a dc voltage source delivering 24 V and a circuit resistance of 3.3 KΩ, what is the current?","[""0.73 A."",""138 A."",""138 mA."",""7.3 mA.""]",3
+"Suppose that a circuit has 472 Ω of resistance and the current is 875 mA. Then the source voltage is:","[""413 V."",""0.539 V."",""1.85 V."",""None of the above.""]",0
+"The dc voltage in a circuit is 550 mV and the current is 7.2 mA. Then the resistance is:","[""0.76 \u03a9."",""76 \u03a9."",""0.0040 \u03a9."",""None of the above.""]",1
+"Given a dc voltage source of 3.5 kV and a circuit resistance of 220 Ω, what is the current?","[""16 mA."",""6.3 mA."",""6.3 A."",""None of the above.""]",3
+"A circuit has a total resistance of 473,332 Ω and draws 4.4 mA. The best expression for the voltage of the source is:","[""2082 V."",""110 kV."",""2.1 kV."",""2.08266 kV.""]",2
+"A source delivers 12 V and the current is 777 mA. Then the best expression for the resistance is:","[""15 \u03a9."",""15.4 \u03a9."",""9.3 \u03a9."",""9.32 \u03a9.""]",0
+"The voltage is 250 V and the current is 8.0 mA. The power dissipated by the potentiometer is:","[""31 mW."",""31 W."",""2.0 W."",""2.0 mW.""]",2
+"The voltage from the source is 12 V and the potentiometer is set for 470 Ω. The power is about:","[""310 mW."",""25.5 mW."",""39.2 W."",""3.26 W.""]",0
+"The current through the potentiometer is 17 mA and its value is 1.22KΩ. The power is:","[""0.24 \u03bcW."",""20.7 W."",""20.7 mW."",""350 mW.""]",3
+"Suppose six resistors are hooked up in series, and each of them has a value of 540 Ω. Then the total resistance is:","[""90 \u03a9."",""3.24 K\u03a9."",""540 \u03a9."",""None of the above.""]",1
+"Four resistors are connected in series, each with a value of 4.0 KΩ. The total resistance is:","[""1 K\u03a9."",""4 K\u03a9."",""8 K\u03a9."",""16 K\u03a9.""]",3
+"Suppose you have three resistors in parallel, each with a value of 68,000 Ω. Then the total resistance is:","[""23 \u03a9."",""23 K\u03a9."",""204 \u03a9."",""0.2 M\u03a9.""]",1
+"You have an unlimited supply of 1-W, 100-Ω resistors. You need to get a 100- Ω, 10-W resistor. This can be done most cheaply by means of a series-parallel matrix of","[""3 X 3 resistors."",""4 X 3 resistors."",""4 X 4 resistors."",""2 X 5 resistors.""]",2
+"You have an unlimited supply of 1-W, 1000-Ω resistors, and you need a 500-Ω resistance rated at 7 W or more. This can be done by assembling:","[""Four sets of two 1000-\u03a9 resistors in series, and connecting these four sets in parallel."",""Four sets of two 1000-\u03a9 resistors in parallel, and connecting these four sets in series."",""A 3 X 3 series-parallel matrix of 1000-\u03a9 resistors."",""Something other than any of the above.""]",0
+"You have an unlimited supply of 1-W, 1000-Ω resistors, and you need to get a 3000-Ω, 5-W resistance. The best way is to:","[""Make a 2 X 2 series-parallel matrix."",""Connect three of the resistors in parallel."",""Make a 3 X 3 series-parallel matrix."",""Do something other than any of the above.""]",3
+"Good engineering practice usually requires that a series-parallel resistive network be made:","[""From resistors that are all very rugged."",""From resistors that are all the same."",""From a series combination of resistors in parallel."",""From a parallel combination of resistors in series.""]",1
+"The binary number 110001 represents the digital number:","[""49."",""25."",""21."",""13.""]",0
+"The fifth digit from the right in a binary number carries a decimal value of:","[""64."",""32."",""24."",""16.""]",3
+"The largest possible decimal number that can be represented by six binary digits (bits) is:","[""256."",""128."",""64."",""63.""]",3
+"Which of the following voltages could normally represent a 1 in positive logic?","[""0 V."",""+ 1 V."",""+ 4 V."",""+ 12 V.""]",2
+"Which of the following voltages might normally represent a 1 in negative logic?","[""0 V."",""+ 4 V."",""+ 6 V."",""+ 12 V.""]",3
+"If X is low, what is the state of X AND Y?","[""There is not enough information to tell."",""Low."",""High."",""This logic statement makes no sense.""]",0
+"If X is high, what is the state of X NOR Y?","[""There is not enough information to tell."",""Low."",""High."",""This logic statement makes no sense.""]",1
+"If X and Y are both high, what is the state of X NAND Y?","[""There is not enough information to tell."",""Low."",""High."",""This logic statement makes no sense.""]",1
+"If X is high and Y is low, what is the state of X NOT Y?","[""There is not enough information to tell."",""Low."",""High."",""This logic statement makes no sense.""]",3
+"A logic circuit has four inputs W, X, Y, and Z. How many possible input combinations are there?","[""4."",""8."",""16."",""32.""]",2
+"Data sent along a single line, one bit after another, is called:","[""Serial."",""Synchronous."",""Parallel."",""Asynchronous.""]",0
+"If X = 1 and Y = 1, then X + YZ is:","[""Always 0."",""0 if Z = 0, and 1 if Z = 1."",""1 if Z = 0, and 0 if Z = 1."",""Always 1.""]",3
+"If X = 0 and Y = 1, then X(Y + Z) is:","[""Always 0."",""0 if Z = 0, and 1 if Z = 1."",""1 if Z = 0, and 0 if Z = 1."",""Always 1.""]",0
+"An advantage of a J-K over an R-S flip-flop is that:","[""The J-K flip-flop is faster."",""The J-K can attain more states."",""The J-K always has predictable outputs."",""No! An R-S flip-flop is superior to a J-K.""]",2
+"In positive-edge triggering, the change of state occurs when:","[""The pulse level is high."",""The pulse level is going from high to low."",""The pulse level is going from low to high."",""The pulse level is low.""]",2
+"The inputs of an R-S flip-flop are known as:","[""Low and high."",""Asynchronous."",""Synchronous."",""Set and reset.""]",3
+"When both inputs of an R-S flip-flop are 0:","[""The outputs stay as they are."",""Q = 0 and -Q = 1."",""Q = 1 and -Q = 0."",""The resulting outputs can be absurd.""]",0
+"When both inputs of an R-S flip-flop are 1:","[""The outputs stay as they are."",""Q = 0 and -Q = 1."",""Q = 1 and -Q = 0."",""The resulting outputs can be absurd.""]",3
+"A frequency synthesizer makes use of","[""An OR gate."",""A divider."",""The octal numbering system."",""The hexadecimal numbering system.""]",1
+"The atomic weight of an element is approximately determined by:","[""The number of neutrons."",""The number of protons."",""The number of neutrons plus the number of protons."",""The number of electrons.""]",2
+"Suppose there is an atom of oxygen, containing eight protons and eight neutrons in the nucleus, and two neutrons are added to the nucleus. The resulting atomic weight is about:","[""8."",""10."",""16."",""18.""]",3
+"An ion:","[""Is electrically neutral."",""Has positive electric charge."",""Has negative electric charge."",""Might have either a positive or negative charge.""]",3
+"An isotope:","[""Is electrically neutral."",""Has positive electric charge."",""Has negative electric charge."",""Might have either a positive or negative charge.""]",3
+"A molecule:","[""Might consist of just a single atom of an element."",""Must always contain two or more elements."",""Always has two or more atoms."",""Is always electrically charged.""]",0
+"In a compound:","[""There can be just a single atom of an element."",""There must always be two or more elements."",""The atoms are mixed in with each other but not joined."",""There is always a shortage of electrons.""]",1
+"An electrical insulator can be made a conductor:","[""By heating."",""By cooling."",""By ionizing."",""By oxidizing.""]",2
+"Of the following substances, the worst conductor is:","[""Air."",""Copper."",""Iron."",""Salt water.""]",0
+"Of the following substances, the best conductor is:","[""Air."",""Copper."",""Iron."",""Salt water.""]",1
+"Movement of holes in a semiconductor:","[""Is like a flow of electrons in the same direction."",""Is possible only if the current is high enough."",""Results in a certain amount of electric current."",""Causes the material to stop conducting.""]",2
+"If a material has low resistance:","[""It is a good conductor."",""It is a poor conductor."",""The current flows mainly in the form of holes."",""Current can flow only in one direction.""]",0
+"A coulomb:","[""Represents a current of one ampere."",""Flows through a 100-watt light bulb."",""Is one ampere per second."",""Is an extremely large number of charge carriers.""]",3
+"A stroke of lightning:","[""Is caused by a movement of holes in an insulator."",""Has a very low current."",""Is a discharge of static electricity."",""Builds up between clouds.""]",2
+"The volt is the standard unit of:","[""Current."",""Charge."",""Electromotive force."",""Resistance.""]",2
+"If an EMF of one volt is placed across a resistance of two ohms, then the current is:","[""Half an ampere."",""One ampere."",""Two amperes."",""One ohm.""]",0
+"A backwards-working electric motor is best described as:","[""An inefficient, energy-wasting device."",""A motor with the voltage connected the wrong way."",""An electric generator."",""A magnetic-field generator.""]",2
+"In some batteries, chemical energy can be replenished by:","[""Connecting it to a light bulb."",""Charging it."",""Discharging it."",""No means known; when a battery is dead, you have to throw it away.""]",1
+"A changing magnetic field:","[""Produces an electric current in an insulator."",""Magnetizes the earth."",""Produces a fluctuating electric field."",""Results from a steady electric current.""]",2
+"Light is converted into electricity:","[""In a dry cell."",""In a wet cell."",""In an incandescent bulb."",""In a photovoltaic cell.""]",3
+"As capacitor plate area increases, all other things being equal:","[""The capacitance increases."",""The capacitance decreases."",""The capacitance does not change."",""The voltage-handling ability increases.""]",0
+"As the spacing between plates in a capacitor is made smaller, all other things being equal:","[""The capacitance increases."",""The capacitance decreases."",""The capacitance does not change."",""The voltage-handling ability increases.""]",0
+"A material with a high dielectric constant:","[""Acts to increase capacitance per unit volume."",""Acts to decrease capacitance per unit volume."",""Has no effect on capacitance."",""Causes a capacitor to become polarized.""]",0
+"A capacitance of 100 pF is the same as:","[""0.01 \u03bcF."",""0.001 \u03bcF."",""0.0001 \u03bcF."",""0. 00001 \u03bcF.""]",2
+"A capacitance of 0.033 μF is the same as:","[""33 pF."",""330 pF."",""3300 pF."",""33,000 pF.""]",3
+"Five 0.050-μF capacitors are connected in parallel. The total capacitance is:","[""0.010 \u03bcF."",""0.25 \u03bcF."",""0.50 \u03bcF."",""0.025 \u03bcF.""]",1
+"If the same five capacitors are connected in series, the total capacitance will be:","[""0.010 \u03bcF."",""0.25 \u03bcF."",""0.50 \u03bcF."",""0.025 \u03bcF.""]",0
+"Two capacitors are in series. Their values are 47 pF and 33 pF. The composite value is:","[""80 pF."",""47 pF."",""33 pF."",""19 pF.""]",3
+"Two capacitors are in parallel. Their values are 47 pF and 470 μF. The combination capacitance is:","[""47 pF."",""517 pF."",""517 \u03bcF."",""470 \u03bcF.""]",3
+"Three capacitors are in parallel. Their values are 0.0200 μF, 0.0500 μF and 0.10000 μF. The total capacitance is:","[""0.0125 \u03bcF."",""0.170 \u03bcF."",""0.1 \u03bcF."",""0.125 \u03bcF.""]",1
+"Air works well as a dielectric mainly because it:","[""Has a high dielectric constant."",""Is not physically dense."",""Has low loss."",""Allows for large capacitance in a small volume.""]",2
+"Which of the following is <i>not </i>a characteristic of mica capacitors?","[""High efficiency."",""Small size."",""Capability to handle high voltages."",""Low loss.""]",1
+"A disk ceramic capacitor might have a value of:","[""100 pF."",""33 \u03bcF."",""470 \u03bcF."",""10,000 \u03bcF.""]",0
+"A paper capacitor might have a value of:","[""0.001 pF."",""0.01 \u03bcF."",""100 \u03bcF."",""3300 \u03bcF.""]",1
+"An air-variable capacitor might have a range of:","[""0.01 \u03bcF to 1 \u03bcF."",""1 \u03bcF to 100 \u03bcF."",""1 pF to 100 pF."",""0.001 pF to 0.1 pF.""]",2
+"Which of the following types of capacitors is polarized?","[""Paper"",""Mica."",""Interelectrode."",""Electrolytic.""]",3
+"If a capacitor has a negative temperature coefficient:","[""Its value decreases as the temperature rises."",""Its value increases as the temperature rises."",""Its value does not change with temperature."",""It must be connected with the correct polarity.""]",0
+"A capacitor is rated at 33 pF, plus or minus 10 percent. Which of the following capacitances is outside the acceptable range?","[""30 pF."",""37 pF."",""35 pF."",""31 pF.""]",1
+"A capacitor, rated at 330 pF, shows an actual value of 317 pF. How many percent off is its value?","[""0.039."",""3.9."",""0.041."",""4.1.""]",1
+"If the dielectric material between the plates of a capacitor is changed, all other things being equal:","[""The value of <i>XC <\/i>increases negatively."",""The value of <i>XC <\/i>decreases negatively."",""The value of <i>XC <\/i>does not change."",""You can\u2019t say what happens to <i>XC <\/i>without more data.""]",3
+"As the frequency of a wave gets lower, all other things being equal, the value of <i>XC </i>for a capacitor:","[""Increases negatively."",""Decreases negatively."",""Does not change."",""Depends on the current.""]",0
+"A capacitor has a value of 330 pF. What is its capacitive reactance at a frequency of 800 kHz?","[""-1.66 \u03a9."",""-0.00166 \u03a9."",""-603 \u03a9."",""-603 K \u03a9.""]",2
+"A capacitor has a reactance of -4.50 Ω at 377 Hz. What is its capacitance?","[""9.39 \u03bcF."",""93.9 \u03bcF."",""7.42 \u03bcF."",""74.2 \u03bcF.""]",1
+"A capacitor has a value of 47 μF. Its reactance is -47 Ω. What is the frequency?","[""72 Hz."",""7.2 MHz."",""0.000072 Hz."",""7.2 Hz.""]",0
+"A capacitor has <i>XC </i>= -8800 Ω at <i>f </i>= 830 kHz. What is <i>C</i>?","[""2.18 \u03bcF."",""21.8 pF."",""0.00218 \u03bcF."",""2.18 pF.""]",1
+"A capacitor has <i>C </i>= 166 pF at <i>f </i>= 400 kHz. What is <i>XC</i>?","[""-2.4 K \u03a9."",""-2.4 \u03a9."",""-2.4 x 10<sup>-6<\/sup> \u03a9."",""-2.4 M \u03a9.""]",0
+"A capacitor has <i>C </i>= 4700 μF and <i>XC</i> = -33 Ω. What is <i>f</i>?","[""1.0 Hz."",""10 Hz."",""1.0 kHz."",""10 kHz.""]",0
+"Each point in the RC plane:","[""Corresponds to a unique inductance."",""Corresponds to a unique capacitance."",""Corresponds to a unique combination of resistance and capacitance."",""Corresponds to a unique combination of resistance and reactance.""]",3
+"If <i>R </i>increases in an RC circuit, but <i>XC </i>is always zero, then the vector in the RC plane will:","[""Rotate clockwise."",""Rotate counterclockwise."",""Always point straight towards the right."",""Always point straight down.""]",2
+"If the resistance <i>R </i>increases in an RC circuit, but the capacitance and the frequency are nonzero and constant, then the vector in the RC plane will:","[""Get longer and rotate clockwise."",""Get longer and rotate counterclockwise."",""Get shorter and rotate clockwise."",""Get shorter and rotate counterclockwise.""]",1
+"Each impedance <i>R </i>– <i>jXC</i>:","[""Represents a unique combination of resistance and capacitance."",""Represents a unique combination of resistance and reactance."",""Represents a unique combination of resistance and frequency."",""All of the above.""]",1
+"In an RC circuit, as the ratio of capacitive reactance to resistance, –<i>XC</i>/<i>R</i>, gets closer to zero, the phase angle:","[""Gets closer to -90 degrees."",""Gets closer to 0 degrees."",""Stays the same."",""Cannot be found.""]",1
+"In a purely resistive circuit, the phase angle is:","[""Increasing."",""Decreasing."",""0 degrees."",""-90 degrees.""]",2
+"If the ratio of <i>XC</i>/<i>R </i>is 1, the phase angle is:","[""0 degrees."",""-45 degrees."",""-90 degrees."",""Impossible to find; there\u2019s not enough data given.""]",1
+"In Fig. 14-13, the impedance shown is:","[""8.02 + <i>j<\/i>323."",""323 + <i>j<\/i>8.02."",""8.02 \u2013 <i>j<\/i>323."",""323 \u2013 <i>j<\/i>8.02.""]",2
+"In Fig. 14-13, note that the <i>R </i>and <i>XC </i>scale divisions are not the same size. The phase angle is","[""1.42 degrees."",""About -60 degrees, from the looks of it."",""-58.9 degrees."",""-88.6 degrees.""]",3
+"An RC circuit consists of a 150-pF capacitor and a 330 Ω resistor in series. What is the phase angle at a frequency of 1.34 MHz?","[""\u201367.4 degrees."",""\u201322.6 degrees."",""\u201324.4 degrees."",""\u201365.6 degrees.""]",0
+"An RC circuit has a capacitance of 0.015 μF. The resistance is 52 Ω. What is the phase angle at 90 kHz?","[""\u201324 degrees."",""\u20130.017 degrees."",""\u201366 degrees."",""None of the above.""]",2
+"A cell that cannot be recharged is:","[""A dry cell."",""A wet cell."",""A primary cell."",""A secondary cell.""]",2
+"A Weston cell is generally used:","[""As a current reference source."",""As a voltage reference source."",""As a power reference source."",""As an energy reference source.""]",1
+"The voltage in a battery is:","[""Less than the voltage in a cell of the same kind."",""The same as the voltage in a cell of the same kind."",""More than the voltage in a cell of the same kind."",""Always a multiple of 1.018 V.""]",2
+"A direct short-circuit of a battery can cause:","[""An increase in its voltage."",""No harm other than a rapid discharge of its energy."",""The current to drop to zero."",""An explosion.""]",3
+"A cell of 1.5 V supplies 100 mA for seven hours and twenty minutes, and then it is replaced. It has supplied:","[""7.33 Ah."",""733 mAh."",""7.33 Wh."",""733 mWh.""]",1
+"A 12-V auto battery is rated at 36 Ah. If a 100-W, 12-Vdc bulb is connected across this battery, about how long will the bulb stay lit, if the battery has been fully charged?","[""4 hours and 20 minutes."",""432 hours."",""3.6 hours."",""21.6 minutes.""]",0
+"Alkaline cells:","[""Are cheaper than zinc-carbon cells."",""Are generally better in radios than zinc-carbon cells."",""Have higher voltages than zinc-carbon cells."",""Have shorter shelf lives than zinc-carbon cells.""]",1
+"The energy in a cell or battery depends mainly on:","[""Its physical size."",""The current drawn from it. Cells and Batteries"",""Its voltage."",""All of the above.""]",0
+"In which of the following places would a “lantern” battery most likely be found?","[""A heart pacemaker."",""An electronic calculator."",""An LCD wall clock."",""A two-way portable radio.""]",3
+"In which of the following places would a transistor battery be the best power-source choice?","[""A heart pacemaker."",""An electronic calculator."",""An LCD wristwatch."",""A two-way portable radio.""]",1
+"In which of the following places would you most likely choose a lithium battery?","[""A microcomputer memory backup."",""A two-way portable radio."",""A portable audio cassette player."",""A rechargeable flashlight.""]",0
+"Where would you most likely find a lead-acid battery?","[""In a portable audio cassette player."",""In a portable video camera\/recorder."",""In an LCD wall clock."",""In a flashlight.""]",1
+"A cell or battery that keeps up a constant current-delivering capability almost until it dies is said to have:","[""A large ampere-hour rating."",""Excellent energy capacity."",""A flat discharge curve."",""Good energy storage per unit volume.""]",2
+"Where might you find a NICAD battery?","[""In a satellite."",""In a portable cassette player."",""In a handheld radio transceiver."",""In more than one of the above.""]",3
+"A disadvantage of mercury cells and batteries is that:","[""They don\u2019t last as long as other types."",""They have a flat discharge curve."",""They pollute the environment."",""They need to be recharged often.""]",2
+"Which kind of battery should never be used until it “dies”?","[""Silver-oxide."",""Lead-acid."",""Nickel-cadmium."",""Mercury.""]",2
+"The current from a solar panel is increased by:","[""Connecting solar cells in series."",""Using NICAD cells in series with the solar cells."",""Connecting solar cells in parallel."",""Using lead-acid cells in series with the solar cells.""]",2
+"An interactive solar power system:","[""Allows a homeowner to sell power to the utility."",""Lets the batteries recharge at night."",""Powers lights but not electronic devices."",""Is totally independent from the utility.""]",0
+"One reason why it is impractical to make an extremely high-voltage battery of cells is that:","[""There\u2019s a danger of electric shock."",""It is impossible to get more than 103.5 V with electrochemical cells."",""The battery would weigh to much."",""There isn\u2019t any real need for such thing.""]",3
+"The Web would probably work fastest for a user in New York at:","[""2:00 a.m. local time on a Tuesday."",""4:00 p.m. local time on a Wednesday."",""12:30 p.m. local time on a Thursday."",""Any of the above times; it does not matter.""]",0
+"Image resolution can be specified in terms of:","[""Megahertz."",""Color intensity."",""Wavelength."",""Dot pitch.""]",3
+"A cluster is a unit of:","[""Frequency on a hard drive."",""Data on the Internet."",""Data on a hard drive."",""Bandwidth on the Internet.""]",2
+"An example of a mass-storage device is a:","[""Hard drive."",""Microprocessor."",""Modem."",""Read-write head.""]",0
+"Bits per second (bps) is a unit of:","[""Computer memory."",""Mass storage."",""Image resolution."",""Data speed.""]",3
+"A platter is a:","[""Part of a hard drive."",""Unit of memory."",""Element of a digital image."",""Semiconductor chip.""]",0
+"Protocol ensures that:","[""A hard drive runs smoothly."",""A monitor reproduces color accurately."",""A printer generates a clear image."",""Computers can exchange data.""]",3
+"A packet is:","[""A computer memory module."",""A unit of 210 bytes."",""A piece of a file sent over the Net."",""A picture element in a computer monitor.""]",2
+"A motherboard contains:","[""A microprocessor."",""An external modem."",""A diskette drive."",""A display screen.""]",0
+"Cross-referencing among web pages is done with:","[""Digital signal processing."",""A modem."",""Internet relay chat (IRC)."",""Links.""]",3
+"The abbreviation FTP stands for:","[""Fast Text Packet."",""File Transfer Protocol."",""Frequency\/Time Processing."",""Federal Trade Program.""]",1
+"A telephone modem contains:","[""An internal hard drive."",""A microprocessor."",""An A\/D converter."",""A printer interface.""]",2
+"An asset of a dot-matrix printer is:","[""Low operating cost."",""Excellent image detail."",""Resemblance to a photocopy machine."",""Compatibility with most modems.""]",0
+"Which of the following types of mass storage provide the fastest access time?","[""Magnetic tape."",""CD-ROM."",""Flash memory."",""Hard drive.""]",2
+"Which of the following is a serial-access medium?","[""Computer memory."",""Magnetic tape."",""A hard drive."",""CD-ROM.""]",1
+"When computer data is sent over long-distance telephone circuits, the digital highs and lows are generally represented by:","[""Audio tones."",""A series of clicks."",""Positive and negative direct currents."",""Pixels.""]",0
+"For animated graphics involving fast motion, you should ideally use:","[""A laser printer."",""A hard drive."",""Hypertext."",""A noninterlaced monitor.""]",3
+"A thermal printer might be the best type of printer for:","[""Someone who travels a lot."",""Someone who works with animated graphics."",""Someone who needs to print huge text documents."",""Someone who needs top-quality printouts.""]",0
+"The reflected wave:","[""Arrives in phase with the direct wave."",""Arrives out of phase with the direct wave."",""Arrives in a variable phase compared with the direct wave."",""Is horizontally polarized.""]",2
+"The ionospheric layer that absorbs radio waves is:","[""The D layer."",""The E layer."",""The F layer."",""No layers ever absorb radio waves.""]",3
+"The highest layer of the ionosphere is:","[""The D layer."",""The E layer."",""The F layer."",""Dependent on the time of day and the solar cycle.""]",2
+"Radio waves that curve earthward in the lower atmosphere are being affected by:","[""Troposcatter."",""The D layer."",""Ionospheric ducting."",""Tropospheric bending.""]",3
+"Single-sideband can be demodulated by:","[""An envelope detector."",""A diode."",""A BFO and mixer."",""A ratio detector.""]",2
+"A diode and capacitor can be used to detect:","[""CW."",""AM."",""SSB."",""FSK.""]",1
+"The S + N/N ratio is a measure of.","[""Sensitivity."",""Selectivity."",""Dynamic range."",""Adjacent-channel rejection.""]",0
+"The ability of a receiver to perform in the presence of strong signals is a consequence of its:","[""Sensitivity."",""Noise figure."",""Dynamic range."",""Adjacent-channel rejection.""]",2
+"A receiver that responds to a desired signal, but not to one very nearby in frequency, has good:","[""Sensitivity."",""Noise figure."",""Dynamic range."",""Adjacent-channel rejection.""]",3
+"An AM receiver can be used to demodulate FM by means of:","[""Envelope detection."",""Product detection."",""Slope detection."",""Pulse detection.""]",2
+"An FM detector with built-in limiting is:","[""A ratio detector."",""A discriminator."",""An envelope detector."",""A product detector.""]",0
+"Time-division multiplex is often done with:","[""AM."",""FM."",""FSK."",""PM.""]",3
+"A continuously variable signal is recovered from a signal having discrete states by:","[""A ratio detector."",""A D\/A converter."",""A product detector."",""An envelope detector.""]",1
+"Digital modulation is superior to analog modulation in the sense that:","[""Analog signals have discrete states, while digital ones vary continuously."",""Digital signals resemble noise less than analog ones."",""Digital signals are easier to use with FM."",""Digital signals have greater bandwidth.""]",1
+"A product detector would most often be used to receive:","[""AM."",""CW."",""FM."",""None of the above.""]",1
+"To receive UHF signals on a shortwave receiver, you would need:","[""A heterodyne detector."",""A product detector."",""An up converter."",""A down converter.""]",3
+"Image rejection in a superheterodyne receiver is enhanced by:","[""Front-end selectivity."",""A product detector."",""A variable LO."",""A sensitive IF amplifier chain.""]",0
+"A low IF is not practical with a single-conversion receiver because:","[""Product detection cannot be used."",""The image frequency would be too close to the incoming-signal frequency."",""Sensitivity would be impaired."",""Adjacent-channel rejection would be poor.""]",1
+"Digital signal processing can be used to advantage with:","[""SSB."",""SSTV."",""FSK."",""Any of the above.""]",3
+"Morse code is a form of:","[""Digital modulation."",""Analog modulation."",""Phase modulation."",""dc modulation.""]",0
+"An advantage of FSK over simple on-off keying for RTTY is:","[""Better frequency stability."",""Higher speed capability."",""Reduced number of misprints."",""On-off keying is just as good as FSK.""]",2
+"The maximum AM percentage possible without distortion is:","[""33 percent."",""67 percent."",""100 percent."",""150 percent.""]",2
+"If an AM signal is modulated with audio having frequencies up to 5 kHz, then the complete signal bandwidth will be:","[""10 kHz."",""6 kHz."",""5 kHz."",""3 kHz.""]",0
+"An AM transmitter using a class-C PA should employ:","[""Carrier suppression."",""High-level modulation."",""Lower sideband."",""Single sideband.""]",1
+"Which of the following modulation methods is used to send teleprinter data over the phone lines?","[""CW."",""SSB."",""AM."",""AFSK.""]",3
+"An advantage of SSB over AM is:","[""Higher data transmission rate."",""More effective use of transmitter power."",""Greater bandwidth."",""Enhanced carrier wave level.""]",1
+"An SSB suppressed carrier is at 14.335 MHz. The voice data is contained in a band from 14.335-14.338 MHz. The mode is:","[""AM."",""LSB."",""USB."",""FSK.""]",2
+"A spectrum analyzer displays:","[""Time as a function of frequency."",""Frequency as a function of time."",""Signal strength as a function of time."",""Signal strength as a function of frequency.""]",3
+"The deviation for voice FM signals is usually:","[""Plus-or-minus 3 kHz."",""Plus-or-minus 5 kHz"",""Plus-or-minus 6 kHz."",""Plus-or-minus 10 kHz.""]",1
+"Wideband FM is preferable to narrowband FM for music transmission because:","[""Lower frequencies are heard better."",""Spectrum space is conserved."",""The fidelity is better."",""No! Narrowband FM is better for music.""]",2
+"In which mode of PM does the pulse level vary?","[""PAM."",""PDM."",""PWM."",""PFM.""]",0
+"In which PM mode do pulses last for varying times?","[""PAM."",""PWM."",""PFM."",""PCM.""]",1
+"How many states are commonly used for the transmission of digitized voice signals?","[""Two."",""Four."",""Six."",""Eight.""]",3
+"1/525 second.","[""1\/30 second."",""1\/8 second."",""Eight."",""8 seconds.""]",3
+"The bandwidth of a fax signal is kept narrow by:","[""Sending the data at a slow rate of speed."",""Limiting the image resolution."",""Limiting the range of shades sent."",""Using pulse modulation.""]",0
+"What is the wavelength of a 21.3-MHz signal?","[""46.2 m."",""14.1 m."",""21.0 km."",""6.39 km.""]",1
+"A coaxial cable:","[""Keeps the signal confined."",""Radiates efficiently."",""Works well as a transmitting antenna."",""Can pick up signals from outside.""]",0
+"An advantage of fiber optics over cable communications is:","[""More sensitivity to noise."",""Improved antenna efficiency."",""Higher RF output."",""Simpler and easier maintenance.""]",3
+"Four resistors are connected in series across a 6.0-V battery. The values are <i>R</i>1 = 10 Ω, <i>R</i>2 = 20 Ω, <i>R</i>3 = 50 Ω, and <i>R</i>4 = 100 Ω as shown in Fig. 5-9. The voltage across R2 is:","[""0.18 V."",""33 mV."",""5.6 mV."",""670 mV.""]",3
+"In question 2 (Fig. 5-9), the voltage across the combination of <i>R</i>3 and <i>R</i>4 is:","[""0.22 V."",""0.22 mV."",""5.0 V."",""3.3 V.""]",2
+"Three resistors are connected in parallel across a battery that delivers 15 V. The values are <i>R</i>1 = 470 Ω, <i>R</i>2 = 2.2 KΩ, <i>R</i>3 = 3.3 KΩ (Fig. 5-10). The voltage across <i>R</i>2 is:","[""4.4 V."",""B 5.0 V."",""15 V."",""Not determinable from the data given.""]",2
+"In the example of question 4 (Fig. 5-10), what is the current through <i>R</i>2?","[""6.8 mA."",""43 mA."",""150 mA."",""6.8 A.""]",0
+"In the example of question 4 (Fig. 5-10), what is the total current drawn from the source?","[""6.8 mA."",""43 mA."",""150 mA."",""6.8 A.""]",1
+"In the example of question 4 (Fig. 5-10), suppose that resistor R2 opens up. The current through the other two resistors will:","[""Increase."",""Decrease."",""Drop to zero."",""No change.""]",3
+"Four resistors are connected in series with a 6.0-V supply, with values shown in Fig. 5-9 (the same as question 2). What is the power dissipated by the whole combination?","[""200 mW."",""6.5 mW."",""200 W."",""6.5 W.""]",0
+"In Fig. 5-9, what is the power dissipated by <i>R</i>4?","[""11 mW."",""0.11 W."",""0.2 W."",""6.5 mW.""]",1
+"Three resistors are in parallel in the same configuration and with the same values as in problem 4 (Fig. 5-10). What is the power dissipated by the whole set?","[""5.4 W."",""5.4 uW."",""650 W."",""650 mW.""]",3
+"In Fig. 5-10, the power dissipated by <i>R</i>1 is:","[""32 mW."",""480 mW."",""2.1 W."",""31 W.""]",1
+"Fill in the blank in the following sentence. In either series or a parallel circuit, the sum of the s in each component is equal to the total provided by the supply.","[""Current."",""Voltage."",""Wattage."",""Resistance.""]",2
+"Refer to Fig. 5-5A. Suppose the resistors each have values of 33 Ω. The battery provides 24 V. The current I1 is:","[""1.1 A."",""730 mA."",""360 mA."",""Not determinable from the information given.""]",1
+"Refer to Fig. 5-5B. Let each resistor have a value of 820 Ω. Suppose the top three resistors all lead to light bulbs of the exact same wattage. If I1 = 50 mA and I2 = 70 mA, what is the power dissipated in the resistor carrying current I4?","[""33 W."",""40 mW."",""1.3 W."",""It can\u2019t be found using the information given.""]",2
+"Refer to Fig. 5-6. Suppose the resistances <i>R</i>1, <i>R</i>2, <i>R</i>3, and <i>R</i>4 are in the ratio 1:2:4:8 from left to right, and the battery supplies 30 V. Then the voltage<i>E</i>2 is:","[""4 V."",""8 V."",""16 V."",""Not determinable from the data given.""]",0
+"Refer to Fig. 5-6. Let the resistances each be 3.3 KΩand the battery 12 V. If the plus terminal of a dc voltmeter is placed between <i>R</i>1 and <i>R</i>2 (with voltages <i>E1</i> and <i>E</i>2), and the minus terminal of the voltmeter is placed between <i>R</i>3 and <i>R</i>4 (with voltages <i>E</i>3 and <i>E</i>4<i>), </i>what will the meter register?","[""0 V."",""3 V."",""6 V."",""12 V.""]",2
+"In a voltage divider network, the total resistance:","[""Should be large to minimize current drain."",""Should be as small as the power supply will allow."",""Is not important."",""Should be such that the current is kept to 100 mA.""]",1
+"The maximum voltage output from a voltage divider:","[""Is a fraction of the power supply voltage."",""Depends on the total resistance."",""Is equal to the supply voltage."",""Depends on the ratio of resistances.""]",2
+"Refer to Fig. 5-7. The battery <i>E </i>is 18.0 V. Suppose there are four resistors in the network: <i>R</i>1 = 100 Ω, <i>R</i>2 = 22.0 Ω, <i>R</i>3 = 33.0 Ω, <i>R</i>4 = 47.0 Ω. The voltage E3 at P3 is:","[""4.19 V."",""13.8 V."",""1.61 V."",""2.94 V.""]",1
+"Refer to Fig. 5-7. The battery is 12 V; you want intermediate voltages of 3.0, 6.0 and 9.0 V. Suppose that a maximum of 200 mA is allowed through the network. What values should the resistors, <i>R</i>1, <i>R</i>2, <i>R</i>3, and <i>R</i>4 have, respectively?","[""15 \u03a9, 30 \u03a9, 45 \u03a9, 60 \u03a9."",""60 \u03a9, 45 \u03a9, 30 \u03a9, 15 \u03a9."",""15 \u03a9, 15 \u03a9, 15 \u03a9, 15 \u03a9."",""There isn\u2019t enough information to design the circuit.""]",2
+"An EMF of one volt:","[""Cannot drive much current through a circuit."",""Represents a low resistance."",""Can sometimes produce a large current."",""Drops to zero in a short time.""]",2
+"A potentially lethal electric current is on the order of:","[""0.01 mA."",""0.1 mA."",""1 mA."",""0.1 A.""]",1
+"A current of 25 A is most likely drawn by:","[""A flashlight bulb."",""A typical household."",""A power plant."",""A clock radio.""]",1
+"A piece of wire has a conductance of 20 siemens. Its resistance is:","[""20 \u03a9."",""0.5 \u03a9."",""0.05 \u03a9."",""0.02 \u03a9.""]",2
+"A resistor has a value of 300 ohms. Its conductance is:","[""3.33 millisiemens."",""33.3 millisiemens."",""333 microsiemens."",""0.333 siemens.""]",0
+"A mile of wire has a conductance of 0.6 siemens. Then three miles of the same wire has a conductance of:","[""1.8 siemens."",""1.8 \u03a9."",""0.2 siemens."",""Not enough information has been given to answer this.""]",2
+"A 2-kW generator will deliver approximately how much current, reliably, at 117 V?","[""17 mA."",""234 mA."",""17 A."",""234 A.""]",2
+"A circuit breaker is rated for 15 A at 117 V. This represents approximately how many kilowatts?","[""1.76."",""1760."",""7.8."",""0.0078.""]",0
+"You are told that a certain air conditioner is rated at 500 Btu. What is this in kWh?","[""147."",""14.7."",""1.47."",""0.147.""]",3
+"Of the following energy units, the one most often used to define electrical energy is:","[""The Btu."",""The erg."",""The foot pound."",""The kilowatt hour.""]",3
+"The frequency of common household ac in the U.S. is:","[""60 Hz."",""120 Hz."",""50 Hz."",""100 Hz.""]",0
+"Half-wave rectification means that:","[""Half of the ac wave is inverted."",""Half of the ac wave is chopped off."",""The whole wave is inverted."",""The effective value is half the peak value.""]",1
+"In the output of a half-wave rectifier:","[""Half of the wave is inverted."",""The effective value is less than that of the original ac wave."",""The effective value is the same as that of the original ac wave."",""The effective value is more than that of the original ac wave.""]",1
+"In the output of a full-wave rectifier:","[""The whole wave is inverted."",""The effective value is less than that of the original ac wave."",""The effective value is the same as that of the original ac wave."",""The effective value is more than that of the original ac wave.""]",2
+"A low voltage, such as 12 V:","[""Is never dangerous."",""Is always dangerous."",""Is dangerous if it is ac, but not if it is dc."",""Can be dangerous under certain conditions.""]",3
+"Which of these can represent magnetomotive force?","[""The volt-turn."",""The ampere-turn."",""The gauss."",""The gauss-turn.""]",1
+"Which of the following units can represent magnetic flux density?","[""The volt-turn."",""The ampere-turn."",""The gauss."",""The gauss-turn.""]",2
+"A ferromagnetic material:","[""Concentrates magnetic flux lines within itself."",""Increases the total magnetomotive force around a current-carrying wire."",""Causes an increase in the current in a wire."",""Increases the number of ampere-turns in a wire.""]",0
+"A coil has 500 turns and carries 75 mA of current. The magnetomotive force will be:","[""37,500 At."",""375 At."",""37.5 At."",""3.75 At.""]",2
+"The control grid of a tube corresponds to the:","[""Source of an FET."",""Collector of a bipolar transistor."",""Anode of a diode."",""Gate of an FET.""]",3
+"The intensity of the electron flow in a vacuum tube depends on all of the following <i>except</i>:","[""The gate voltage."",""The power supply voltage."",""The grid voltage."",""The voltage between the cathode and the plate.""]",0
+"Which type of tube maintains constant voltage drop with changes in current?","[""A triode."",""A gas-filled regulator."",""A tetrode."",""A pentagrid converter.""]",1
+"In a tube with a directly heated cathode:","[""The filament is separate from the cathode."",""The grid is connected to the filament."",""The filament serves as the cathode."",""There is no filament.""]",2
+"In a tube with a cold cathode:","[""The filament is separate from the cathode."",""The grid is connected to the filament."",""The filament serves as the cathode."",""There is no filament.""]",3
+"A screen grid enhances tube operation by:","[""Decreasing the gain."",""Decreasing the plate voltage."",""Decreasing the grid-to-plate capacitance."",""Pulling excess electrons from the plate.""]",2
+"A tube with three grids is called a:","[""Triode."",""Tetrode."",""Pentode."",""Hexode.""]",2
+"A tube type radio receiver:","[""Is bulky and heavy."",""Requires low voltage."",""Is more sensitive than a transistorized radio."",""All of the above.""]",0
+"An advantage of a grounded-grid power amplifier is:","[""Excellent sensitivity."",""High impedance."",""Low noise."",""Good stability.""]",3
+"A heptode tube has:","[""Two grids."",""Three grids."",""Five grids."",""Seven grids.""]",2
+"The electron gun in a CRT is another name for its:","[""Cathode."",""Anode."",""Control grid."",""Screen grid.""]",0
+"The electron beam in an electrostatic CRT is bent by:","[""A magnetic field."",""An electric field."",""A fluctuating current."",""A constant current.""]",1
+"The horizontal displacement on an oscilloscope CRT screen is usually measured in:","[""Frequency per unit division."",""Current per unit division."",""Time per unit division."",""Voltage per unit division.""]",2
+"In a time-domain oscilloscope, the waveform to be analyzed is usually applied to the:","[""Control grid plates or coils."",""Anode plates or coils."",""Vertical deflection plates or coils."",""Horizontal deflection plates or coils.""]",2
+"A vidicon camera tube is noted for its:","[""Sensitivity."",""Large size."",""Heavy weight."",""Rapid response.""]",0
+"In a magnetron, as the frequency is increased:","[""The achievable power output increases."",""The achievable power output decreases."",""The output power stays the same."",""The output power increases and decreases alternately.""]",1
+"The paths of the electrons in a magnetron are spirals, rather than straight lines, because of:","[""The extreme voltage used."",""The longitudinal magnetic flux."",""The bunching-up of the electrons."",""The shapes of the cavities.""]",1
+"A klystron is noted for its:","[""Spiralling electrons."",""Low noise output."",""High achievable output power."",""Magnetic-field intensity.""]",2
+"In a multicavity klystron, the electrons:","[""Have variable speed."",""Travel in circles."",""Are reflected by the cavities."",""Are drawn out via the cathode.""]",0
+"If ac is applied to a diode, and the peak ac voltage never exceeds the avalanche voltage, then the output is:","[""Ac with half the frequency of the input."",""Ac with the same frequency as the input."",""Ac with twice the frequency of the input."",""None of the above.""]",3
+"A crystal set:","[""Can be used to transmit radio signals."",""Requires a battery with long life."",""Requires no battery."",""Is useful for rectifying 60-Hz ac.""]",2
+"A diode detector:","[""Is used in power supplies."",""Is employed in some radio receivers."",""Is used commonly in high-power radio transmitters."",""Changes dc into ac.""]",1
+"If the output wave in a circuit has the same shape as the input wave, then:","[""The circuit is linear."",""The circuit is said to be detecting."",""The circuit is a mixer."",""The circuit is a rectifier.""]",0
+"The two input frequencies of a mixer circuit are 3.522 MHz and 3.977 MHz. Which of the following frequencies might be used at the output?","[""455 kHz."",""886 kHz."",""14.00 MHz."",""1.129 MHz.""]",0
+"A time-domain display might be found in:","[""An ammeter."",""A spectrum analyzer."",""A digital voltmeter."",""An oscilloscope.""]",3
+"Zener voltage is also known as:","[""Forward breakover voltage."",""Peak forward voltage."",""Avalanche voltage."",""Reverse bias.""]",2
+"The forward breakover voltage of a silicon diode is:","[""About 0.3 V."",""About 0.6 V."",""About 1.0 V."",""Dependent on the method of manufacture.""]",1
+"A diode audio limiter circuit:","[""Is useful for voltage regulation."",""Always uses Zener diodes."",""Rectifies the audio to reduce distortion."",""Can cause objectionable signal distortion.""]",3
+"The capacitance of a varactor varies with:","[""Forward voltage."",""Reverse voltage."",""Avalanche voltage."",""Forward breakover voltage.""]",1
+"The purpose of the I layer in a PIN diode is to:","[""Minimize the diode capacitance."",""Optimize the avalanche voltage."",""Reduce the forward breakover voltage."",""Increase the current through the diode.""]",0
+"microwave radio transmitter?","[""A rectifier diode."",""A cat whisker."",""An IMPATT diode."",""None of the above.""]",2
+"A Gunnplexer can be used as a:","[""Communications device."",""Radio detector."",""Rectifier."",""Signal mixer.""]",0
+"The most likely place you would find an LED would be:","[""In a rectifier circuit."",""In a mixer circuit."",""In a digital frequency display."",""In an oscillator circuit.""]",2
+"Coherent radiation is produced by a:","[""Gunn diode."",""Varactor diode."",""Rectifier diode."",""Laser diode.""]",3
+"You might consider a coupler using:","[""A Gunn diode."",""An optoisolator."",""A photovoltaic cell."",""A laser diode.""]",1
+"The power from a solar panel depends on all of the following except:","[""The operating frequency of the panel."",""The total surface area of the panel."",""The number of cells in the panel."",""The intensity of the light.""]",0
+"Emission of energy in an IRED is caused by:","[""High-frequency radio waves."",""Rectification."",""Electron energy-level changes."",""None of the above.""]",2
+"A photodiode, when not used as a photovoltaic cell, has:","[""Reverse bias."",""No bias."",""Forward bias."",""Negative resistance.""]",0
+"A complex number:","[""Is the same thing as an imaginary number."",""Has a real part and an imaginary part."",""Is one-dimensional."",""Is a concept reserved for elite imaginations.""]",1
+"What is the sum of 3 + <i>j</i>7 and 3 – <i>j</i>7?","[""0 + <i>j<\/i>0"",""6 + <i>j<\/i>14."",""-6 \u2013 <i>j<\/i>14."",""0 \u2013 <i>j<\/i>14.""]",0
+"What is (-5 + <i>j</i>7) – (4 – <i>j</i>5)?","[""-1 + <i>j<\/i>2."",""-9 \u2013 <i>j<\/i>2."",""-1 \u2013 <i>j<\/i>2."",""-9 + <i>j<\/i>12.""]",3
+"What is the product (-4 – <i>j</i>7) (6 – <i>j</i>2)?","[""24 \u2013 <i>j<\/i>14."",""-38 \u2013 <i>j<\/i>34."",""-24 \u2013 <i>j<\/i>14."",""-24 + <i>j<\/i>14.""]",1
+"What is the magnitude of the vector 18 – <i>j</i>24?","[""42."",""-42."",""30."",""-30.""]",2
+"The impedance vector 5 + <i>j</i>0 represents:","[""A pure resistance."",""A pure inductance."",""A pure capacitance."",""An inductance combined with a capacitance.""]",0
+"The impedance vector 0 – <i>j</i>22 represents:","[""A pure resistance."",""A pure inductance."",""A pure capacitance."",""An inductance combined with a resistance.""]",2
+"What is the absolute-value impedance of 3.0 – <i>j</i>6.0?","[""<i>Z <\/i>= 9.0 \u03a9."",""<i>Z <\/i>= 3.0 \u03a9."",""<i>Z <\/i>= 45 \u03a9."",""<i>Z <\/i>= 6.7 \u03a9.""]",3
+"What is the absolute-value impedance of 50 – <i>j</i>235?","[""<i>Z <\/i>= 240 \u03a9."",""<i>Z <\/i>= 58,000 \u03a9."",""<i>Z <\/i>= 285 \u03a9."",""<i>Z <\/i>= 185 \u03a9.""]",0
+"If the center conductor of a coaxial cable is made to have smaller diameter, all other things being equal, what will happen to the <i>Z</i>o of the transmission line?","[""It will increase."",""It will decrease."",""It will stay the same."",""There is no way to know.""]",0
+"If a device is said to have an impedance of <i>Z </i>= 100 Ω, this would most often mean that:","[""<i>R <\/i>+ <i>j<\/i>X =100 + <i>j<\/i>0."",""<i>R <\/i>+ <i>j<\/i>X = 0 + <i>j<\/i>100."",""<i>R <\/i>+ <i>j<\/i>X = 0 \u2013 <i>j<\/i>100."",""You need to know more specific information.""]",0
+"A capacitor has a value of 0.050 μF at 665 kHz. What is the capacitive susceptance?","[""<i>j<\/i>4.79."",""\u2013<i>j<\/i>4.79."",""<i>j<\/i>0. 209."",""\u2013<i>j<\/i>0. 209.""]",2
+"An inductor has a value of 44 mH at 60 Hz. What is the inductive susceptance?","[""\u2013<i>j<\/i>0.060."",""<i>j<\/i>0<i>.<\/i>060."",""\u2013<i>j<\/i>17."",""<i>j<\/i>17.""]",0
+"Susceptance and conductance add to form:","[""Impedance."",""Inductance."",""Reactance."",""Admittance.""]",3
+"Absolute-value impedance is equal to the square root of:","[""<i>G<\/i>2 + <i>B<\/i>2"",""<i>R<\/i>2 + <i>X<\/i>2."",""<i>Z<\/i>o."",""<i>Y<\/i>.""]",1
+"Inductive susceptance is measured in:","[""Ohms."",""Henrys."",""Farads."",""Siemens.""]",3
+"Capacitive susceptance is:","[""Positive and real valued."",""Negative and real valued."",""Positive and imaginary."",""Negative and imaginary.""]",2
+"Which of the following is false?","[""<i>BC <\/i>= 1\/<i>XC<\/i>."",""Complex impedance can be depicted as a vector."",""Characteristic impedance is complex."",""<i>G <\/i>= 1\/<i>R<\/i>.""]",2
+"In general, the greater the absolute value of the impedance in a circuit:","[""The greater the flow of alternating current."",""The less the flow of alternating current."",""The larger the reactance."",""The larger the resistance.""]",1
+"Which of the following does <i>not </i>affect the inductance of a coil?","[""The diameter of the wire."",""The number of turns."",""The type of core material."",""The length of the coil.""]",0
+"In a small inductance:","[""Energy is stored and released slowly."",""The current flow is always large."",""The current flow is always small."",""Energy is stored and released quickly.""]",3
+"A ferromagnetic core is placed in an inductor mainly to:","[""Increase the current carrying capacity."",""Increase the inductance."",""Limit the current."",""Reduce the inductance.""]",1
+"Inductors in series, assuming there is no mutual inductance, combine:","[""Like resistors in parallel."",""Like resistors in series."",""Like batteries in series with opposite polarities."",""In a way unlike any other type of component.""]",1
+"Two inductors are connected in series, without mutual inductance. Their values are 33 mH and 55 mH. The net inductance of the combination is:","[""1.8 H."",""22 mH."",""88 mH."",""21 mH.""]",2
+"If the same two inductors (33 mH and 55 mH) are connected in parallel without mutual inductance, the combination will have a value of:","[""1.8 H."",""22 mH."",""88 mH."",""21 mH.""]",3
+"Three inductors are connected in series without mutual inductance. Their values are 4 nH, 140 μH, and 5 H. For practical purposes, the net inductance will be very close to:","[""4 nH."",""140 \u03bcH."",""5 H."",""None of these.""]",2
+"Suppose the three inductors mentioned above are connected in parallel without mutual inductance. The net inductance will be close to:","[""4 nH."",""140 \u03bcH."",""5 H."",""None of these.""]",0
+"Two inductors, each of 100 μH, are in series. The coefficient of coupling is 0.40. The net inductance, if the coil fields reinforce each other, is:","[""50 \u03bcH."",""120 \u03bcH."",""200 \u03bcH."",""280 \u03bcH.""]",3
+"If the coil fields oppose in the foregoing series-connected arrangement, the net inductance is:","[""50 \u03bcH."",""120 \u03bcH."",""200 \u03bcH."",""280 \u03bcH.""]",1
+"Two inductors, having values of 44 mH and 88 mH, are connected in series with a coefficient of coupling equal to 1.0 (maximum possible mutual inductance). If their fields reinforce, the net inductance (to two significant digits) is:","[""7.5 mH."",""132 mH."",""190 mH."",""260 mH.""]",3
+"If the fields in the previous situation oppose, the net inductance will be:","[""7.5 mH."",""132 mH."",""190 mH."",""260 mH.""]",0
+"With permeability tuning, moving the core further into a solenoidal coil:","[""Increases the inductance."",""Reduces the inductance"",""Has no effect on the inductance, but increases the current-carrying capacity of the coil."",""Raises the frequency.""]",0
+"A significant advantage, in some situations, of a toroidal coil over a solenoid is:","[""The toroid is easier to wind."",""The solenoid cannot carry as much current."",""The toroid is easier to tune."",""The magnetic flux in a toroid is practically all within the core.""]",3
+"A major feature of a pot-core winding is:","[""High current capacity."",""Large inductance in small volume."",""Efficiency at very high frequencies."",""Ease of inductance adjustment.""]",1
+"As an inductor core material, air:","[""Has excellent efficiency."",""Has high permeability."",""Allows large inductance in a small volume."",""Has permeability that can vary over a wide range.""]",0
+"At a frequency of 400 Hz, the most likely form for an inductor would be:","[""Air-core."",""Solenoidal."",""Toroidal."",""Transmission-line.""]",2
+"At a frequency of 95 MHz, the best form for an inductor would be:","[""Air-core."",""Pot core."",""Either of the above."",""Neither of the above.""]",0
+"A transmission-line inductor made from coaxial cable, having velocity factor of 0.66, and working at 450 MHz, would be shorter than:","[""16.7 m."",""11 m."",""16.7 cm."",""11 cm.""]",3
+"As the number of turns in a coil increases, the reactance:","[""Increases."",""Decreases."",""Stays the same."",""Is stored in the core material.""]",0
+"As the frequency of an ac wave gets lower, the value of <i>XL </i>for a particular coil:","[""Increases."",""Decreases."",""Stays the same."",""Depends on the voltage.""]",1
+"A coil has an inductance of 100 mH. What is the reactance at a frequency of 1000 Hz?","[""0.628 \u03a9."",""6.28 \u03a9."",""62.8 \u03a9."",""628 \u03a9.""]",3
+"A coil shows an inductive reactance of 200 Ω at 500 Hz. What is its inductance?","[""0.637 H."",""628 H."",""63.7 mH."",""628 mH.""]",2
+"A coil has an inductance of 400 μH. Its reactance is 33 Ω. What is the frequency?","[""13 kHz."",""0.013 kHz."",""83 kHz."",""83 MHz.""]",0
+"An inductor has <i>XL </i>= 555 Ω at <i>f </i>= 132 kHz. What is <i>L?</i>","[""670 mH."",""670 \u03bcH."",""460 mH."",""460 \u03bcH.""]",1
+"A coil has <i>L </i>= 689 μH at <i>f </i>=990 kHz. What is <i>XL</i>?","[""682 \u03a9."",""4.28 \u03a9."",""4.28 K \u03a9."",""4.28 M \u03a9.""]",1
+"An inductor has <i>L </i>= 88 mH with <i>XL </i>= 100 Ω. What is <i>f</i>?","[""55.3 kHz."",""55.3 Hz."",""181 kHz."",""181 Hz.""]",3
+"Each point in the RL plane:","[""Corresponds to a unique resistance."",""Corresponds to a unique inductance."",""Corresponds to a unique combination of resistance and inductive reactance."",""Corresponds to a unique combination of resistance and inductance.""]",2
+"If the resistance <i>R </i>and the inductive reactance <i>XL </i>both vary from zero to unlimited values, but are always in the ratio 3:1, the points in the RL plane for all the resulting impedances will fall along:","[""A vector pointing straight up."",""A vector pointing \u201ceast.\u201d"",""A circle."",""A ray of unlimited length.""]",3
+"Each impedance <i>R </i>+ <i>jXL</i>:","[""Corresponds to a unique point in the RL plane."",""Corresponds to a unique inductive reactance."",""Corresponds to a unique resistance."",""All of the above.""]",3
+"A vector is a quantity that has:","[""Magnitude and direction."",""Resistance and inductance."",""Resistance and reactance."",""Inductance and reactance.""]",0
+"In an RL circuit, as the ratio of inductive reactance to resistance, <i>XL</i>/<i>R</i>, decreases, the phase angle:","[""Increases."",""Decreases."",""Stays the same."",""Cannot be found.""]",1
+"In a purely reactive circuit, the phase angle is:","[""Increasing."",""Decreasing."",""0 degrees."",""90 degrees.""]",3
+"90 degrees.","[""If the inductive reactance is the same as the resistance in an RL circuit, the phase angle is:"",""0 degrees."",""45 degrees."",""90 degrees.""]",1
+"In Fig. 13-14, the impedance shown is:","[""8.0."",""90."",""90 + <i>j<\/i>8.0."",""8.0 + <i>j<\/i>90.""]",3
+"In Fig. 13-14, note that the R and <i>XL </i>scale divisions are of different sizes. The phase angle is:","[""About 50 degrees, from the looks of it."",""48 degrees, as measured with a protractor."",""85 degrees, as calculated trigonometrically."",""6.5 degrees, as calculated trigonometrically.""]",2
+"19 An RL circuit consists of a 100-μH inductor and a 100-Ω resistor. What is the phase angle at a frequency of 200 kHz?","[""45.0 degrees."",""51.5 degrees."",""38.5 degrees."",""There isn\u2019t enough data to know.""]",1
+"An RL circuit has an inductance of 88 mH. The resistance is 95 Ω. What is the phase angle at 800 Hz?","[""78 degrees."",""12 degrees."",""43 degrees."",""47 degrees.""]",0
+"Which of the following is <i>not </i>an advantage of ICs over discrete components?","[""Higher component density."",""Ease of maintenance."",""Greater power capability."",""Lower current consumption.""]",2
+"In which of the following devices would you be least likely to find an integrated circuit as the main component?","[""A radio broadcast transmitter\u2019s final amplifier."",""A notebook computer."",""A battery-powered calculator."",""A low-power audio amplifier.""]",0
+"Which type of component is generally <i>not </i>practical for fabrication in an IC?","[""Resistors."",""Inductors."",""Diodes."",""Capacitors.""]",1
+"An op amp usually employs negative feedback to:","[""Maximize the gain."",""Control the gain."",""Allow oscillation over a wide band of frequencies."",""No! Op amps do not employ negative feedback.""]",1
+"A channel carries several signals at once. Which type of IC might be used to select one of the signals for reception?","[""An op amp."",""A timer."",""A comparator."",""A multiplexer\/demultiplexer.""]",3
+"Which type of IC is used to determine whether voltage levels are the same or not?","[""An op amp."",""A timer."",""A comparator."",""A multiplexer\/demultiplexer.""]",2
+"Which type of digital IC is least susceptible to noise?","[""Transistor-transistor logic."",""Base-coupled logic."",""Emitter-coupled logic."",""N-channel-coupled logic.""]",0
+"Which of the following is <i>not </i>an advantage of CMOS?","[""Relative immunity to noise pulses."",""Low-current requirements."",""Ability to work at high speed."",""Ability to handle high power levels.""]",3
+"An absolute limit on IC component density is:","[""The current levels needed."",""The maximum attainable impedance."",""The size of the semiconductor atoms."",""No! There is no limit on component density.""]",2
+"In a ROM:","[""It\u2019s easy to get data out and put it in."",""It\u2019s hard to get data out, but easy to put it in."",""It\u2019s easy to get data out, but hard to put it in."",""It\u2019s hard to get data out or put it in.""]",2
+"In a RAM:","[""It\u2019s easy to get data out and put it in."",""It\u2019s hard to get data out, but easy to put it in."",""It\u2019s easy to get data out, but hard to put it in."",""It\u2019s hard to get data out or put it in.""]",0
+"Which of the following IC types must be physically removed from the circuit to have its memory contents changed?","[""EEPROM."",""EPROM."",""ROM."",""RAM.""]",1
+"A kilobyte is:","[""Equivalent to a novel."",""About 1,000 bytes."",""About 1,000,000 bytes."",""Equivalent to about one typewritten line.""]",1
+"In magnetic audio tape:","[""The tracks are parallel to the edges."",""The tracks are diagonal."",""The tracks are perpendicular to the edges."",""The tracks can be oriented at any angle.""]",0
+"In magnetic video tape:","[""The video tracks are parallel to the edges."",""The video tracks are diagonal."",""The video tracks are perpendicular to the edges."",""The video tracks can be oriented at any angle.""]",1
+"An advantage of magnetic disks over magnetic tape is:","[""Disks are immune to damage by heat."",""Tapes are difficult to rewind."",""Disks allow faster data storage and retrieval."",""Disks are immune to external magnetic fields.""]",2
+"A typical audio recording tape thickness is:","[""0.001 mil."",""0.01 mil."",""0.1 mil."",""1 mil.""]",3
+"Compact disks (CDs) are not generally used for recording:","[""Voices."",""Music."",""In digital form."",""Via magnetic fields.""]",3
+"A reason CDs don’t wear out with repeated playback is:","[""The magnetic fields are strong."",""Nothing touches the disk."",""The data is analog."",""The magnetic particle density is high.""]",1
+"Which of the following is <i>not </i>an advantage of semiconductor devices over vacuum tubes?","[""Smaller size."",""Lower working voltage."",""Lighter weight."",""Ability to withstand high voltages.""]",3
+"The most common semiconductor among the following substances is:","[""Germanium."",""Galena."",""Silicon."",""Copper.""]",2
+"GaAs is a(n):","[""Compound."",""Element."",""Conductor."",""Gas.""]",0
+"A disadvantage of gallium-arsenide devices is that:","[""The charge carriers move fast."",""The material does not react to ionizing radiation."",""It is expensive to produce."",""It must be used at high frequencies.""]",2
+"Selenium works especially well in:","[""Photocells."",""High-frequency detectors."",""Radio-frequency power amplifiers."",""Voltage regulators.""]",0
+"Of the following, which material allows the lowest forward voltage drop in a diode?","[""Selenium."",""Silicon."",""Copper."",""Germanium.""]",3
+"A CMOS integrated circuit:","[""Can only work at low frequencies."",""Is susceptible to damage by static."",""Requires considerable power to function."",""Needs very high voltage.""]",1
+"The purpose of doping is to:","[""Make the charge carriers move faster."",""Cause holes to flow."",""Give a semiconductor material certain properties."",""Protect devices from damage in case of transients.""]",2
+"A semiconductor material is made into N type by:","[""Adding an acceptor impurity."",""Adding a donor impurity."",""Injecting electrons."",""Taking electrons away.""]",1
+"Which of the following <i>does not </i>result from adding an acceptor impurity?","[""The material becomes P type."",""Current flows mainly in the form of holes."",""Most of the carriers have positive electric charge."",""The substance has an electron surplus.""]",3
+"In a P-type material, electrons are:","[""Majority carriers."",""Minority carriers."",""Positively charged."",""Entirely absent.""]",1
+"Holes flow from:","[""Minus to plus."",""Plus to minus."",""P-type to N-type material."",""N-type to P-type material.""]",1
+"When a P-N junction does not conduct, it is:","[""Reverse biased."",""Forward biased."",""Biased past the breaker voltage."",""In a state of avalanche effect.""]",0
+"Holes flow the opposite way from electrons because:","[""Charge carriers flow continuously."",""Charge carriers are passed from atom to atom."",""They have the same polarity."",""No! Holes flow in the same direction as electrons.""]",1
+"If an electron has a charge of -1 unit, a hole has:","[""A charge of -1 unit."",""No charge."",""A charge of +1 unit."",""A charge that depends on the semiconductor type.""]",2
+"When a P-N junction is reverse-biased, the capacitance depends on all of the following <i>except</i>:","[""The frequency."",""The width of the depletion region."",""The cross-sectional area of the junction."",""The type of semiconductor material.""]",0
+"If the reverse bias exceeds the avalanche voltage in a P-N junction:","[""The junction will be destroyed."",""The junction will insulate; no current will flow."",""The junction will conduct current."",""The capacitance will become extremely high.""]",2
+"Avalanche voltage is routinely exceeded when a P-N junction acts as:","[""Current rectifier."",""Variable resistor."",""Variable capacitor."",""Voltage regulator.""]",3
+"An <i>unimportant </i>factor concerning the frequency at which a P-N junction will work effectively is:","[""The type of semiconductor material."",""The cross-sectional area of the junction."",""The reverse current."",""The capacitance with reverse bias.""]",2
+"Geomagnetic lines of flux:","[""Are horizontal at the geomagnetic equator."",""Are vertical at the geomagnetic equator."",""Are always slanted, no matter where you go."",""Are exactly symmetrical around the earth, even far out into space.""]",0
+"A material that can be permanently magnetized is generally said to be:","[""Magnetic."",""Electromagnetic."",""Permanently magnetic."",""Ferromagnetic.""]",3
+"The force between a magnet and a piece of ferromagnetic metal that has not been magnetized:","[""Can be either repulsive or attractive."",""Is never repulsive."",""Gets smaller as the magnet gets closer to the metal."",""Depends on the geomagnetic field.""]",1
+"Magnetic flux can always be attributed to:","[""Ferromagnetic materials."",""Aligned atoms."",""Motion of charged particles."",""The geomagnetic field.""]",2
+"Lines of magnetic flux are said to originate:","[""In atoms of ferromagnetic materials."",""At a north magnetic pole."",""Where the lines converge to a point."",""In charge carriers.""]",1
+"The magnetic flux around a straight, current-carrying wire:","[""Gets stronger with increasing distance from the wire."",""Is strongest near the wire."",""Does not vary in strength with distance from the wire."",""Consists of straight lines parallel to the wire.""]",1
+"The gauss is a unit of:","[""Overall magnetic field strength."",""Ampere-turns."",""Magnetic flux density."",""Magnetic power.""]",2
+"A unit of overall magnetic field quantity is the:","[""Maxwell."",""Gauss."",""Tesla."",""Ampere-turn.""]",0
+"If a wire coil has 10 turns and carries 500 mA of current, what is the magnetomotive force in ampere-turns?","[""5000."",""50."",""5.0."",""0.02.""]",2
+"If a wire coil has 100 turns and carries 1.30 A of current, what is the magnetomotive force in gilberts?","[""130."",""76.9."",""164."",""61.0.""]",2
+"Which of the following is <i>not </i>generally possible in a geomagnetic storm?","[""Charged particles streaming out from the sun."",""Fluctuations in the earth\u2019s magnetic field."",""Disruption of electrical power transmission."",""Disruption of microwave radio links.""]",3
+"An ac electromagnet:","[""Will attract only other magnetized objects."",""Will attract pure, unmagnetized iron."",""Will repel other magnetized objects."",""Will either attract or repel permanent magnets, depending on the polarity.""]",1
+"An advantage of an electromagnet over a permanent magnet is that:","[""An electromagnet can be switched on and off."",""An electromagnet does not have specific polarity."",""An electromagnet requires no power source."",""Permanent magnets must always be cylindrical.""]",0
+"A substance with high retentivity is best suited for making:","[""An ac electromagnet."",""A dc electromagnet."",""An electrostatic shield."",""A permanent magnet.""]",3
+"A relay is connected into a circuit so that a device gets a signal only when the relay coil carries current. The relay is probably:","[""An ac relay."",""A dc relay."",""Normally closed."",""Normally open.""]",3
+"A device that reverses magnetic field polarity to keep a dc motor rotating is:","[""A solenoid."",""An armature coil."",""A commutator."",""A field coil.""]",2
+"A high tape-recorder motor speed is generally used for:","[""Voices."",""Video."",""Digital data."",""All of the above.""]",1
+"An advantage of a magnetic disk, as compared with magnetic tape, for data storage and retrieval is that:","[""A disk lasts longer."",""Data can be stored and retrieved more quickly with disks than with tapes."",""Disks look better."",""Disks are less susceptible to magnetic fields.""]",1
+"A bubble memory is best suited for:","[""A large computer."",""A home video entertainment system."",""A portable cassette player."",""A magnetic disk.""]",0
+"The change in the direction of a compass needle, when a current-carrying wire is brought near, is:","[""Electromagnetic deflection."",""Electrostatic force."",""Magnetic force."",""Electroscopic force.""]",0
+"Suppose a certain current in a galvanometer causes the needle to deflect 20 degrees, and then this current is doubled. The needle deflection:","[""Will decrease."",""Will stay the same."",""Will increase."",""Will reverse direction.""]",2
+"One important advantage of an electrostatic meter is that:","[""It measures very small currents."",""It will handle large currents."",""It can detect ac voltages."",""It draws a large current from the source.""]",2
+"A thermocouple:","[""Gets warm when current flows through it."",""Is a thin, straight, special wire."",""Generates dc when exposed to light."",""Generates ac when heated.""]",0
+"One advantage of an electromagnet meter over a permanent-magnet meter is that:","[""The electromagnet meter costs much less."",""The electromagnet meter need not be aligned with the earth\u2019s magnetic field."",""The permanent-magnet meter has a more sluggish coil."",""The electromagnet meter is more rugged.""]",3
+"An ammeter shunt is useful because:","[""It increases meter sensitivity."",""It makes a meter more physically rugged."",""It allows for measurement of a wide range of currents."",""It prevents overheating of the meter.""]",2
+"Voltmeters should generally have:","[""Large internal resistance."",""Low internal resistance."",""Maximum possible sensitivity."",""Ability to withstand large currents.""]",0
+"To measure power-supply voltage being used by a circuit, a voltmeter","[""Is placed in series with the circuit that works from the supply."",""Is placed between the negative pole of the supply and the circuit working from the supply."",""Is placed between the positive pole of the supply and the circuit working from the supply."",""Is placed in parallel with the circuit that works from the supply.""]",3
+"Which of the following will <i>not </i>cause a major error in an ohmmeter reading?","[""A small voltage between points under test."",""A slight change in switchable internal resistance."",""A small change in the resistance to be measured."",""A slight error in range switch selection.""]",2
+"The main advantage of a FETVM over a conventional voltmeter is the fact that the FETVM:","[""Can measure lower voltages."",""Draws less current from the circuit under test."",""Can withstand higher voltages safely."",""Is sensitive to ac as well as to dc.""]",1
+"Which of the following is <i>not </i>a function of a fuse?","[""To be sure there is enough current available for an appliance to work right."",""To make it impossible to use appliances that are too large for a given circuit."",""To limit the amount of power that a circuit can deliver."",""To make sure the current is within safe limits.""]",0
+"A utility meter’s motor speed works directly from:","[""The number of ampere hours being used at the time."",""The number of watt hours being used at the time."",""The number of watts being used at the time."",""The number of kilowatt hours being used at the time.""]",2
+"A utility meter’s readout indicates:","[""Voltage."",""Power."",""Current."",""Energy.""]",3
+"A typical frequency counter:","[""Has an analog readout."",""Is usually accurate to six digits or more."",""Works by indirectly measuring current."",""Works by indirectly measuring voltage.""]",1
+"A VU meter is <i>never </i>used for measurement of:","[""Sound."",""Decibels."",""Power."",""Energy.""]",3
+"The meter movement in an illumination meter measures:","[""Current."",""Voltage."",""Power."",""Energy.""]",0
+"An oscilloscope <i>cannot </i>be used to indicate:","[""Frequency."",""Wave shape."",""Energy."",""Peak signal voltage.""]",2
+"Oscillation requires:","[""A common-drain or common-collector circuit."",""A stage with gain."",""A tapped coil."",""Negative feedback.""]",1
+"A Colpitts oscillator can be recognized by:","[""A split capacitance in the tuned circuit."",""A tapped coil in the tuned circuit."",""A transformer for the feedback."",""A common-base or common-gate arrangement.""]",0
+"In an oscillator circuit, the feedback should be:","[""As great as possible."",""Kept to a minimum."",""Just enough to sustain oscillation."",""Done through a transformer whose wires can be switched easily.""]",2
+"A tapped coil is used in a(n):","[""Hartley oscillator."",""Colpitts oscillator."",""Armstrong oscillator."",""Clapp oscillator.""]",0
+"An RF choke:","[""Passes RF but not dc."",""Passes both RF and dc."",""Passes dc but not RF."",""Blocks both dc and RF.""]",2
+"Ferromagnetic coil cores are not generally good for use in RF oscillators because:","[""The inductances are too large."",""It\u2019s hard to vary the inductance of such a coil."",""Such coils are too bulky."",""Air-core coils have better thermal stability.""]",3
+"An oscillator might fail to start for any of the following reasons <i>except</i>:","[""Low-power-supply voltage."",""Low stage gain."",""In-phase feedback."",""Very low output impedance.""]",2
+"An advantage of a crystal-controlled oscillator over a VFO is:","[""Single-frequency operation."",""Ease of frequency adjustment."",""High output power."",""Low drift.""]",3
+"The frequency at which a crystal oscillator functions is determined mainly by:","[""The values of the inductor and capacitor."",""The thickness of the crystal."",""The amount of capacitance across the crystal."",""The power-supply voltage.""]",1
+"The different sounds of musical instruments are primarily the result of:","[""Differences in the waveshape."",""Differences in frequency."",""Differences in amplitude."",""Differences in phase.""]",0
+"A radio-frequency oscillator usually:","[""Has an irregular waveshape."",""Has most or all of its energy at a single frequency."",""Produces a sound that depends on its waveform."",""Uses RC tuning.""]",1
+"A varactor diode:","[""Is mechanically flexible."",""Has high power output."",""Can produce different waveforms."",""Is good for use in frequency synthesizers.""]",3
+"A frequency synthesizer has:","[""High power output."",""High drift rate."",""Exceptional stability."",""Adjustable waveshape.""]",2
+"A ferromagnetic-core coil is preferred for use in the tuned circuit of an RF oscillator:","[""That must have the best possible stability."",""That must have high power output."",""That must work at microwave frequencies."",""No! Air-core coils work better in RF oscillators.""]",3
+"If the load impedance for an oscillator is too high:","[""The frequency might drift."",""The power output might be reduced."",""The oscillator might fail to start."",""It\u2019s not a cause for worry; it can\u2019t be too high.""]",3
+"The bipolar transistors or JFETs in a multivibrator are usually connected in:","[""Class B."",""A common-emitter or common-source arrangement."",""Class C."",""A common-collector or common-drain arrangement.""]",1
+"The arrangement in the block diagram of Fig. 25-11 represents:","[""A waveform analyzer."",""An audio oscillator."",""An RF oscillator."",""A sine-wave generator.""]",0
+"Acoustic feedback in a public-address system:","[""Is useful for generating RF sine waves."",""Is useful for waveform analysis."",""Can be used to increase the amplifier gain."",""Serves no useful purpose.""]",3
+"An IMPATT diode:","[""Makes a good audio oscillator."",""Can be used for waveform analysis."",""Is used as a microwave oscillator."",""Allows for frequency adjustment of a VCO.""]",2
+"A sine wave:","[""Always has the same general appearance."",""Has instantaneous rise and fall times."",""Is in the same phase as a cosine wave."",""Rises very fast, but decays slowly.""]",0
+"The derivative of a sine wave:","[""Is shifted in phase by 1\u20442 cycle from the sine wave."",""Is a representation of the rate of change."",""Has instantaneous rise and fall times."",""Rises very fast, but decays slowly.""]",1
+"A phase difference of 180 degrees in the circular model represents:","[""1\/4 revolution."",""1\/2 revolution."",""A full revolution."",""Two full revolutions.""]",1
+"You can add or subtract a certain number of degrees of phase to or from a wave, and end up with exactly the same wave again. This number is:","[""90."",""180."",""270."",""360.""]",3
+"You can add or subtract a certain number of degrees of phase to or from a sine wave, and end up with an inverted (upside-down) representation of the original. This number is:","[""90."",""180."",""270."",""360.""]",1
+"A wave has a frequency of 300 kHz. One complete cycle takes:","[""1\u2044300 second."",""0.00333 second."",""1\u20443,000 second."",""0.00000333 second.""]",3
+"If a wave has a frequency of 440 Hz, how long does it take for 10 degrees of phase?","[""0.00273 second."",""0.000273 second."",""0.0000631 second."",""0.00000631 second.""]",2
+"Two waves are in phase coincidence. One has a peak value of 3 V and the other a peak value of 5 V. The resultant will be:","[""8 V peak, in phase with the composites."",""2 V peak, in phase with the composites."",""8 V peak, in phase opposition with respect to the composites."",""2 V peak, in phase opposition with respect to the composites.""]",0
+"Shifting the phase of an ac sine wave by 90 degrees is the same thing as:","[""Moving it to the right or left by a full cycle."",""Moving it to the right or left by 1\u20444 cycle."",""Turning it upside-down."",""Leaving it alone.""]",1
+"A phase difference of 540 degrees would more often be spoken of as:","[""An offset of more than one cycle."",""Phase opposition."",""A cycle and a half."",""1.5 Hz.""]",1
+"Two sine waves are in phase opposition. Wave <i>X </i>has a peak amplitude of 4 V and wave <i>Y </i>has a peak amplitude of 8 V. The resultant has a peak amplitude of:","[""4 V, in phase with the composites."",""4 V, out of phase with the composites."",""4 V, in phase with wave <i>X<\/i>."",""4 V, in phase with wave <i>Y<\/i>.""]",3
+"If wave <i>X </i>leads wave <i>Y </i>by 45 degrees of phase, then:","[""Wave <i>Y <\/i>is 1\u20444 cycle ahead of wave <i>X<\/i>."",""Wave <i>Y <\/i>is 1\u20444 cycle behind wave <i>X<\/i>."",""Wave <i>Y <\/i>is 1\u20448 cycle behind wave <i>X<\/i>."",""Wave <i>Y <\/i>is 1\u204416 cycle ahead of wave <i>X<\/i>.""]",2
+"If wave <i>X </i>lags wave <i>Y </i>by 1⁄3 cycle, then:","[""<i>Y <\/i>is 120 degrees earlier than <i>X<\/i>."",""<i>Y <\/i>is 90 degrees earlier than <i>X<\/i>."",""<i>Y <\/i>is 60 degrees earlier than <i>X.<\/i>"",""<i>Y <\/i>is 30 degrees earlier than <i>X.<\/i>""]",0
+"In the drawing of Fig. 12-12:","[""<i>X <\/i>lags <i>Y <\/i>by 45 degrees."",""<i>X <\/i>leads <i>Y <\/i>by 45 degrees."",""<i>X <\/i>lags <i>Y <\/i>by 135 degrees."",""<i>X <\/i>leads <i>Y <\/i>by 135 degrees.""]",2
+"Which of the drawings in Fig. 12-13 represents the situation of Fig. 12-13?","[""A."",""B."",""C."",""D.""]",1
+"In vector diagrams such as those of Fig. 12-13, length of the vector represents:","[""Average amplitude."",""Frequency."",""Phase difference."",""Peak amplitude.""]",3
+"In vector diagrams such as those of Fig. 12-13, the angle between two vectors represents:","[""Average amplitude."",""Frequency."",""Phase difference."",""Peak amplitude.""]",2
+"In vector diagrams such as those of Fig. 12-13, the distance from the center of the graph represents:","[""Average amplitude."",""Frequency."",""Phase difference."",""Peak amplitude.""]",3
+"In diagrams like those of Fig. 12-13, the progression of time is sometimes depicted as:","[""Movement to the right."",""Movement to the left."",""Rotation counterclockwise."",""Rotation clockwise.""]",2
+"Which of the following might not be needed in a power supply?","[""The transformer."",""The filter."",""The rectifier."",""All of the above are generally needed.""]",3
+"Of the following appliances, which would need the biggest transformer?","[""A clock radio."",""A TV broadcast transmitter."",""A shortwave radio receiver."",""A home TV set.""]",1
+"An advantage of full-wave bridge rectification is:","[""It uses the whole transformer secondary for the entire ac input cycle."",""It costs less than other rectifier types."",""It cuts off half of the ac wave cycle."",""It never needs a regulator.""]",0
+"In. a supply designed to provide high power at low voltage, the best rectifier design would probably be:","[""Half-wave."",""Full-wave, center-tap."",""Bridge."",""Voltage multiplier.""]",1
+"The part of a power supply immediately preceding the regulator is:","[""The transformer."",""The rectifier."",""The filter."",""The ac input.""]",2
+"If a half-wave rectifier is used with 117-V rms ac (house mains), the average dc output voltage is about:","[""52.7 V."",""105 V."",""117 V."",""328 V.""]",0
+"If a full-wave bridge circuit is used with a transformer whose secondary provides 50 V rms, the PIV across the diodes is about:","[""50 V."",""70 V."",""100 V."",""140 V.""]",1
+"The principal disadvantage of a voltage multiplier is:","[""Excessive current."",""Excessive voltage."",""Insufficient rectification."",""Poor regulation.""]",3
+"A transformer secondary provides 10 V rms to a voltage-doubler circuit. The dc output voltage is about:","[""14 V."",""20 V."",""28 V."",""36 V.""]",2
+"The ripple frequency from a full-wave rectifier is:","[""Twice that from a half-wave circuit."",""The same as that from a half-wave circuit."",""Half that from a half-wave circuit."",""One-fourth that from a half-wave circuit.""]",0
+"Which of the following would make the best filter for a power supply?","[""A capacitor in series."",""A choke in series."",""A capacitor in series and a choke in parallel."",""A capacitor in parallel and a choke in series.""]",3
+"If you needed exceptionally good ripple filtering for a power supply, the best approach would be to:","[""Connect several capacitors in parallel."",""Use a choke-input filter."",""Connect several chokes in series."",""Use two capacitor\/choke sections one after the other.""]",3
+"Voltage regulation can be accomplished by a Zener diode connected in:","[""Parallel with the filter output, forward-biased."",""Parallel with the filter output, reverse-biased."",""Series with the filter output, forward-biased."",""Series with the filter output, reverse-biased.""]",1
+"A current surge takes place when a power supply is first turned on because:","[""The transformer core is suddenly magnetized."",""The diodes suddenly start to conduct."",""The filter capacitor(s) must be initially charged."",""Arcing takes place in the power switch.""]",2
+"Transient suppression minimizes the chance of:","[""Diode failure."",""Transformer failure."",""Filter capacitor failure."",""Poor voltage regulation.""]",0
+"If a fuse blows, and it is replaced with one having a lower current rating, there’s a good chance that:","[""The power supply will be severely damaged."",""The diodes will not rectify."",""The fuse will blow out right away."",""Transient suppressors won\u2019t work.""]",2
+"A fuse with nothing but a straight wire inside is probably:","[""A slow-blow type."",""A quick-break type."",""Of a low current rating."",""Of a high current rating.""]",1
+"Bleeder resistors are:","[""Connected in parallel with filter capacitors."",""Of low ohmic value."",""Effective for transient suppression."",""Effective for surge suppression.""]",0
+"To service a power supply with which you are not completely familiar, you should:","[""Install bleeder resistors."",""Use proper fusing."",""Leave it alone and have a professional work on it."",""Use a voltage regulator.""]",2
+"Which of the following is <i>not </i>an example of true power?","[""Power that heats a resistor."",""Power radiated from an antenna."",""Power in a capacitor."",""Heat loss in a feed line.""]",2
+"The apparent power in a circuit is 100 watts, and the imaginary power is 40 watts. The true power is:","[""92 watts."",""100 watts."",""140 watts."",""Not determinable from this information.""]",0
+"Power factor is equal to:","[""Apparent power divided by true power."",""Imaginary power divided by apparent power."",""Imaginary power divided by true power."",""True power divided by apparent power.""]",3
+"A circuit has a resistance of 300 W and an inductance of 13.5 μH in series at 10.0 MHz. What is the power factor?","[""0.334."",""0.999."",""0.595."",""It can\u2019t be found from the data given.""]",0
+"A series circuit has <i>Z </i>= 88.4 Ω with <i>R </i>= 50.0 Ω What is PF?","[""99.9 percent."",""56.6 percent."",""60.5 percent."",""29.5 percent.""]",1
+"A series circuit has <i>R </i>= 53.5 Ω and <i>X </i>= 75.5 Ω. What is PF?","[""70.9 percent."",""81.6 percent."",""57.8 percent."",""63.2 percent.""]",2
+"Phase angle is equal to:","[""Arctan <i>Z<\/i>\/<i>R<\/i>."",""Arctan <i>R<\/i>\/<i>Z<\/i>."",""Arctan <i>R<\/i>\/<i>X<\/i>."",""Arctan <i>X<\/i>\/<i>R<\/i>.""]",3
+"A wattmeter shows 220 watts of VA power in a circuit. There is a resistance of 50 Ω in series with a capacitive reactance of −20 Ω. What is the true power?","[""237 watts."",""204 watts."",""88.0 watts."",""81.6 watts.""]",1
+"A wattmeter shows 57 watts of VA power in a circuit. The resistance is known to be 50 Ω, and the true power is known to be 40 watts. What is the absolute-value impedance?","[""50 \u03a9"",""57 \u03a9"",""71 \u03a9"",""It can\u2019t be calculated from this data.""]",2
+"Which of the following is the most important consideration in a transmission line?","[""The characteristic impedance."",""The resistance."",""Minimizing the loss."",""The VA power.""]",2
+"Which of the following does <i>not </i>increase the loss in a transmission line?","[""Reducing the power output of the source."",""Increasing the degree of mismatch between the line and the load."",""Reducing the diameter of the line conductors."",""Raising the frequency.""]",0
+"A problem that standing waves can cause is:","[""Feed line overheating."",""Excessive power loss."",""Inaccuracy in power measurement."",""All of the above.""]",3
+"A coil and capacitor are in series. The inductance is 88 mH and the capacitance is 1000 pF. What is the resonant frequency?","[""17 kHz."",""540 Hz."",""17 MHz."",""540 kHz.""]",0
+"A coil and capacitor are in parallel, with <i>L </i>= 10.0 μH and <i>C </i>= 10 pF. What is <i>f</i>o?","[""15.9 kHz."",""5.04 MHz."",""15.9 MHz."",""50.4 MHz.""]",2
+"A series-resonant circuit is to be made for 14.1 MHz. A coil of 13.5 μH is available. What size capacitor is needed?","[""0.945 \u03bcF."",""9.45 pF."",""94.5 pF."",""945 pF.""]",1
+"A parallel-resonant circuit is to be made for 21.3 MHz. A capacitor of 22.0 pF is available. What size coil is needed?","[""2.54 mH."",""254 \u03bcH."",""25.4 \u03bcH."",""2.54 \u03bcH.""]",3
+"A 1/4-wave line section is made for 21.1 MHz, using cable with a velocity factor of 0.800. How many meters long is it?","[""11.1 m."",""3.55 m."",""8.87 m."",""2.84 m.""]",3
+"The fourth harmonic of 800 kHz is:","[""200 kHz."",""400 kHz."",""3.20 MHz."",""4.00 MHz.""]",2
+"How long is a 1/2-wave dipole for 3.60 MHz?","[""130 feet."",""1680 feet."",""39.7 feet."",""515 feet.""]",0
+"A coil of 25.0 μH and capacitor of 100 pF are connected in series. The frequency is 5.00 MHz. What is the impedance vector, <i>R </i>+ <i>jX</i>?","[""A 0 + <i>j<\/i>467."",""25 + <i>j<\/i>100."",""0 \u2013 <i>j<\/i>467."",""25 \u2013 <i>j<\/i>100.""]",0
+"When <i>R </i>= 0 in a series RLC circuit, but the net reactance is not zero, the impedance vector:","[""Always points straight up."",""Always points straight down."",""Always points straight towards the right."",""None of the above.""]",3
+"A resistor of 150 Ω, a coil with reactance 100 Ω and a capacitor with reactance -200 Ω are connected in series. What is the complex impedance <i>R </i>+ <i>jX</i>?","[""150 + <i>j<\/i>100."",""150 \u2013 <i>j<\/i>200."",""100 \u2013 <i>j<\/i>200."",""150 \u2013 <i>j<\/i>100.""]",3
+"A resistor of 330 Ω, a coil of 1.00 μH and a capacitor of 200 pF are in series. What is <i>R </i>+ <i>jX </i>at 10.0 MHz?","[""330 \u2013 <i>j<\/i>199."",""300 + <i>j<\/i>201."",""300 + <i>j<\/i>142."",""330 \u2013 <i>j<\/i>16.8.""]",3
+"A coil has an inductance of 3.00 μH and a resistance of 10.0 Ω in its winding. A capacitor of 100 pF is in series with this coil. What is <i>R </i>+ <i>jX </i>at 10.0 MHz?","[""10 + <i>j<\/i>3.00."",""10 + <i>j<\/i>29.2."",""10 \u2013 <i>j<\/i>97."",""10 + <i>j<\/i>348.""]",1
+"A coil has a reactance of 4.00 Ω. What is the admittance vector, <i>G </i>+ <i>jB, </i>assuming nothing else is in the circuit?<i></i>","[""0 + <i>j<\/i>0.25."",""0 + <i>j<\/i>4.00."",""0 \u2013 <i>j<\/i>0.25."",""0 + <i>j<\/i>4.00.""]",2
+"What will happen to the susceptance of a capacitor if the frequency is doubled, all other things being equal?","[""It will decrease to half its former value."",""It will not change."",""It will double."",""It will quadruple.""]",2
+"A coil and capacitor are in parallel, with <i>jB</i>L = –<i>j</i>0.05 and <i>jB</i>C = <i>j</i>0.03. What is the admittance vector, assuming that nothing is in series or parallel with these components?","[""0 \u2013 <i>j<\/i>0.02."",""0 \u2013 <i>j<\/i>0.07."",""0 + <i>j<\/i>0.02."",""-0.05 \u2013 <i>j<\/i>0.03.""]",0
+"A coil, resistor, and capacitor are in parallel. The resistance is 1 Ω ; the capacitive susceptance is 1.0 siemens; the inductive susceptance is -1.0 siemens. Then the frequency is cut to half its former value. What will be the admittance vector, <i>G </i>+ <i>jB</i>, at the new frequency?","[""1 + <i>j<\/i>0."",""1 + <i>j<\/i>l.5."",""1 \u2013 <i>j<\/i>l.5."",""1 \u2013 <i>j<\/i>2.""]",2
+"A coil of 3.50 μH and a capacitor of 47.0 pF are in parallel. The frequency is 9.55 MHz. There is nothing else in series or parallel with these components. What is the admittance vector?","[""0 + <i>j<\/i>0.00282."",""0 \u2013 <i>j<\/i>0.00194."",""0 + <i>j<\/i>0.00194."",""0 \u2013 <i>j<\/i>0.00758.""]",1
+"A vector pointing “southeast” in the GB plane would indicate the following:","[""Pure conductance, zero susceptance."",""Conductance and inductive susceptance."",""Conductance and capacitive susceptance."",""Pure susceptance, zero conductance.""]",1
+"A resistor of 0.0044 siemens, a capacitor whose susceptance is 0.035 Siemens, and a coil whose susceptance is -0.011 siemens are all connected in parallel. The admittance vector is:","[""0.0044 + <i>j<\/i>0.024."",""0.035 \u2013 <i>j<\/i>0.011."",""-0.011 \u2013 <i>j<\/i>0.035."",""0.0044 + <i>j<\/i>0.046.""]",0
+"A resistor of 100 Ω, a coil of 4.50 μH, and a capacitor of 220 pF are in parallel. What is the admittance vector at 6.50 MHz?","[""100 + <i>j<\/i>0.00354."",""0.010 + <i>j<\/i>0.00354."",""100 \u2013 <i>j<\/i>0.0144."",""0.010 + <i>j<\/i>0.0144.""]",1
+"The admittance for a circuit, <i>G </i>+ <i>jB</i>, is 0.02 + <i>j</i>0.20. What is the impedance, R + <i>jX</i>?","[""50 + <i>j<\/i>5.0."",""0.495 \u2013 <i>j<\/i>4.95."",""50 \u2013 <i>j<\/i>5.0."",""0.495 + <i>j<\/i>4.95.""]",1
+"A resistor of 51.0 Ω an inductor of 22.0 μH and a capacitor of 150 pF are in parallel. The frequency is 1.00 MHz. What is the complex impedance, <i>R </i>+ <i>jX</i>?","[""51.0 \u2013 <i>j<\/i>14.9."",""51.0 + <i>j<\/i>14.9."",""46.2 \u2013 <i>j<\/i>14.9."",""46.2 + <i>j<\/i>14.9.""]",3
+"A series circuit has 99.0 Ω of resistance and 88.0 Ω of inductive reactance. An ac RMS voltage of 117 V is applied to this series network. What is the current?","[""1.18 A."",""1.13 A."",""0.886 A."",""0.846 A.""]",2
+"What is the voltage across the reactance in the above example?","[""78.0 V."",""55.1 V."",""99.4 V."",""74.4 V.""]",0
+"A parallel circuit has 10 ohms of resistance and 15 Ω of reactance. An ac RMS voltage of 20 V is applied across it. What is the total current?","[""2.00 A."",""2.40 A."",""1.33 A."",""0.800 A.""]",1
+"What is the current through the resistance in the above example?","[""2.00 A."",""2.40 A."",""1.33 A."",""0.800 A.""]",0
+"A transistor can be protected from needless overheating by:","[""Current-limiting resistors."",""Bleeder resistors."",""Maximizing the driving power."",""Shorting out the power supply when the circuit is off.""]",0
+"Bleeder resistors:","[""Are connected across the capacitor in a power supply."",""Keep a transistor from drawing too much current."",""Prevent an amplifier from being overdriven."",""Optimize the efficiency of an amplifier.""]",0
+"Carbon-composition resistors:","[""Can handle lots of power."",""Have capacitance or inductance along with resistance."",""Are comparatively nonreactive."",""Work better for ac than for dc.""]",2
+"The best place to use a wirewound resistor is:","[""In a radio-frequency amplifier."",""When the resistor doesn\u2019t dissipate much power."",""In a high-power, radio-frequency circuit."",""In a high-power, direct-current circuit.""]",3
+"A metal-film resistor:","[""Is made using solid carbon\/phenolic paste."",""Has less reactance than a wirewound type."",""Can dissipate large amounts of power."",""Has considerable inductance.""]",1
+"A meter-sensitivity control in a test instrument would probably be:","[""A set of switchable, fixed resistors."",""A linear-taper potentiometer."",""A logarithmic-taper potentiometer."",""A wirewound resistor.""]",1
+"A volume control in a stereo compact-disc player would probably be:","[""A set of switchable, fixed resistors."",""A linear-taper potentiometer."",""A logarithmic-taper potentiometer."",""A wirewound resistor.""]",2
+"If a sound triples in actual power level, approximately what is the decibel increase?","[""3 dB."",""5 dB."",""6 dB."",""9 dB.""]",1
+"Suppose a sound changes in volume by _13 dB. If the original sound power is 1 W, what is the final sound power?","[""13 W."",""77 mW."",""50 mW."",""There is not enough information to tell.""]",2
+"The sound from a transistor radio is at a level of 50 dB. How many times the threshold of hearing is this, in terms of actual sound power?","[""50."",""169."",""5,000."",""100,000.""]",3
+"An advantage of a rheostat over a potentiometer is that:","[""A rheostat can handle higher frequencies."",""A rheostat is more precise."",""A rheostat can handle more current."",""A rheostat works better with dc.""]",2
+"A resistor is specified as having a value of 68 Ω, but is measured with an ohmmeter as 63 Ω. The value is off by:","[""7.4 percent."",""7.9 percent."",""5 percent."",""10 percent.""]",0
+"Suppose a resistor is rated at 3.3 K Ω, plus or minus 5 percent. This means it can be expected to have a value between:","[""2,970 and 3,630 \u03a9"",""3,295 and 3,305 \u03a9."",""3,135 and 3,465 \u03a9."",""2.8 K\u03a9 and 3.8 K\u03a9.""]",2
+"A package of resistors is rated at 56 Ω, plus or minus 10 percent. You test them with an ohmmeter. Which of the following values indicates a reject?","[""50.0 \u03a9."",""53.0 \u03a9."",""59.7 \u03a9."",""61.1 \u03a9.""]",0
+"A resistor has a value of 680 Ω, and you expect it will have to draw 1 mA maximum continuous current. What power rating is best for this application?","[""1\/4 W."",""1\/2 W."",""I W."",""2 W.""]",0
+"Suppose a 1-K Ω resistor will dissipate 1.05 W, and you have many 1-W resistors of all common values. If there’s room for 20-percent resistance error, the cheapest solution is to use:","[""Four 1 K \u03a9, 1-W resistors in series-parallel."",""Two 2.2 K \u03a9, 1-W resistors in parallel."",""Three 3.3 K \u03a9, 1-W resistors in parallel."",""One 1 K \u03a9, 1-W resistor, since manufacturers allow for a 10-percent margin of safety.""]",1
+"Red, red, red, gold indicates a resistance of:","[""22 \u03a9."",""220 \u03a9."",""2.2 K \u03a9."",""22 K \u03a9.""]",2
+"The actual resistance of the above unit can be expected to vary by how much above or below the specified value?","[""11 \u03a9."",""110 \u03a9."",""22 \u03a9."",""220 \u03a9.""]",1
+"A resistor has three bands: gray, red, yellow. This unit can be expected to have a value within approximately what range?","[""660 K \u03a9 to 980 K \u03a9."",""740 K \u03a9 to 900 K \u03a9."",""7.4 K \u03a9 to 9.0 K \u03a9."",""The manufacturer does not make any claim.""]",0
+"According to Asimov’s three laws, under what circumstances is it all right for a robot to injure a human being?","[""Never."",""When the human being specifically requests it."",""In case of an accident."",""In case the robot controller is infected with a computer virus.""]",0
+"Second-generation robots first were used around the year:","[""1950."",""1960."",""1970."",""1980.""]",3
+"The extent to which a machine vision system can differentiate between two objects is called the:","[""Magnification."",""Sensitivity."",""Selectivity."",""Resolution.""]",3
+"An automotive robot might best keep itself traveling down a specific lane of traffic by using:","[""Binaural hearing."",""Epipolar navigation."",""Edge detection."",""A second-generation end effector.""]",2
+"A rule-based system is also known as:","[""Artificial intelligence."",""An expert system."",""An analytical engine."",""An automated guided vehicle.""]",1
+"A robot that has its own computer, and can work independently of other robots or computers, is called an:","[""Android."",""Insect robot."",""Automated guided vehicle."",""Autonomous robot.""]",3
+"A manipulator is also known as a:","[""Track drive."",""Robot arm."",""Vision system."",""Robot controller.""]",1
+"An android is well suited for operation in:","[""Extreme weather conditions."",""Total darkness."",""An assembly line."",""An environment with children.""]",3
+"Proximity sensing is most closely akin to:","[""Direction measurement."",""Epipolar navigation."",""Distance measurement."",""Machine vision.""]",2
+"A telechir is used in conjunction with:","[""An automated guided vehicle."",""Telepresence."",""An insect robot."",""An autonomous robot.""]",1
+"An absolute limit to the distance over which teleoperation is practical is imposed by:","[""The speed of light."",""The image resolution of the vision system."",""The ability of a robot to determine texture."",""All of the above.""]",0
+"Rodney Brooks is best known for his work with:","[""Epipolar navigation."",""Binocular vision."",""Range sensing and plotting."",""Insect robots.""]",3
+"An asset of epipolar navigation is the fact that it:","[""Does not require binaural hearing."",""Does not require a computer."",""Can be done from a single observation frame."",""Requires no reference points at all.""]",2
+"Spherical coordinates can uniquely define the position of a point in up to:","[""One dimension."",""Two dimensions."",""Three dimensions."",""Four dimensions.""]",2
+"The number of ways in which a robot arm can move is known as:","[""Degrees of rotation."",""Degrees of freedom."",""Degrees of arc."",""Coordinate geometry.""]",1
+"The region throughout which a robot arm can accomplish tasks is called its:","[""Coordinate geometry."",""Reference axis."",""Reference frame."",""Work envelope.""]",3
+"A robot arm that moves along three independent axes, each of which is straight and perpendicular to the other two, employs:","[""Revolute geometry."",""Spherical coordinate geometry."",""Cartesian coordinate geometry."",""Cylindrical coordinate geometry.""]",2
+"A color vision system can use three gray-scale cameras, equipped with filters that allow which three colors of light to pass?","[""Blue, red, and yellow."",""Blue, red, and green."",""Cyan, magenta, and yellow."",""Orange, green, and violet.""]",1
+"A robot can determine the steepness of a slope using a(n):","[""Epipolar navigation system."",""Clinometer."",""End effector."",""Manipulator.""]",1
+"In many cases, a PNP transistor can be replaced with an NPN device and the circuit will do the same thing, provided that:","[""The supply polarity is reversed."",""The collector and emitter leads are interchanged."",""The arrow is pointing inward."",""No! A PNP device cannot be replaced with an NPN.""]",0
+"A bipolar transistor has:","[""Three P-N junctions."",""Three semiconductor layers."",""Two N-type layers around a P-type layer."",""A low avalanche voltage.""]",1
+"In the dual-diode model of an NPN transistor, the emitter corresponds to:","[""The point where the cathodes are connected together."",""The point where the cathode of one diode is connected to the anode of the other."",""The point where the anodes are connected together."",""Either of the diode cathodes.""]",3
+"The current through a transistor depends on:","[""A<i>. E<\/i>C<i>.<\/i>"",""B<i>. E<\/i>B relative to <i>E<\/i>C."",""<i>I<\/i>B."",""More than one of the above.""]",3
+"With no signal input, a bipolar transistor would have the least <i>I</i>C when:","[""The emitter is grounded."",""The E-B junction is forward biased."",""The E-B junction is reverse biased."",""The E-B current is high.""]",2
+"When a transistor is conducting as much as it possibly can, it is said to be:","[""In cutoff."",""In saturation."",""Forward biased."",""In avalanche.""]",1
+"Refer to Fig. 22-12. The best point at which to operate a transistor as a small-signal amplifier is:","[""A."",""B."",""C."",""D.""]",2
+"In Fig. 22-12, the forward-breakover point for the E-B junction is nearest to:","[""No point on this graph."",""B."",""C."",""D.""]",1
+"In Fig. 22-12, saturation is nearest to point:","[""A."",""B."",""C."",""D.""]",3
+"In Fig. 22-12, the greatest gain occurs at point:","[""A."",""B."",""C."",""D.""]",2
+"In a common-emitter circuit, the gain bandwidth product is:","[""The frequency at which the gain is 1."",""The frequency at which the gain is 0.707 times its value at 1 MHz."",""The frequency at which the gain is greatest."",""The difference between the frequency at which the gain is greatest, and the frequency at which the gain is 1.""]",0
+"The configuration most often used for matching a high input impedance to a low output impedance puts signal ground at:","[""The emitter."",""The base."",""The collector."",""Any point; it doesn\u2019t matter.""]",2
+"The output is in phase with the input in a:","[""Common-emitter circuit."",""Common-base circuit."",""Common-collector circuit."",""More than one of the above.""]",3
+"The greatest possible amplification is obtained in:","[""A common-emitter circuit."",""A common-base circuit."",""A common-collector circuit."",""More than one of the above.""]",0
+"The input is applied to the collector in:","[""A common-emitter circuit."",""A common-base circuit."",""A common-collector circuit."",""None of the above.""]",3
+"The configuration noted for its stability in radio-frequency power amplifiers is the:","[""Common-emitter circuit."",""Common-base circuit."",""Common-collector circuit."",""Emitter-follower circuit.""]",1
+"In a common-base circuit, the output is taken from the:","[""Emitter."",""Base."",""Collector."",""More than one of the above.""]",2
+"The input signal to a transistor amplifier results in saturation during part of the cycle. This produces:","[""The greatest possible amplification."",""Reduced efficiency."",""Avalanche effect."",""Nonlinear output impedance.""]",1
+"The gain of a transistor in a common-emitter circuit is 100 at a frequency of 1000 Hz. The gain is 70.7 at 335 kHz. The gain drops to 1 at 210 MHz. The alpha cutoff is:","[""1 kHz."",""335 kHz."",""210 MHz."",""None of the above.""]",1
+"In an N-channel JFET, pinchoff occurs when the gate bias is:","[""Slightly positive."",""Zero."",""Slightly negative."",""Very negative.""]",3
+"The current consists mainly of holes when a JFET:","[""Has a P-type channel."",""Is forward-biased."",""Is zero-biased."",""Is reverse-biased.""]",0
+"A JFET might work better than a bipolar transistor in:","[""A rectifier."",""A radio receiver."",""A filter."",""A transformer.""]",1
+"In a <i>P</i>-channel JFET:","[""The drain is forward-biased."",""The gate-source junction is forward biased."",""The drain is negative relative to the source."",""The gate must be at dc ground.""]",2
+"A JFET is sometimes biased at or beyond pinch-off in:","[""A power amplifier."",""A rectifier."",""An oscillator."",""A weak-signal amplifier.""]",0
+"The gate of a JFET has:","[""Forward bias."",""High impedance."",""Low reverse resistance."",""Low avalanche voltage.""]",1
+"A JFET circuit essentially never has:","[""A pinched-off channel."",""Holes as the majority carriers."",""A forward-biased P-N junction."",""A high-input impedance.""]",2
+"When a JFET is pinched off:","[""<i>dI<\/i>D\/<i>dE<\/i>G is very large with no signal."",""<i>dI<\/i>D\/<i>dE<\/i>G might vary considerably with no signal."",""<i>dI<\/i>D\/<i>dE<\/i>G is negative with no signal."",""<i>dI<\/i>D\/<i>dE<\/i>G is zero with no signal.""]",3
+"Transconductance is the ratio of:","[""A change in drain voltage to a change in source voltage."",""A change in drain current to a change in gate voltage."",""A change in gate current to a change in source voltage."",""A change in drain current to a change in drain voltage.""]",1
+"Characteristic curves for JFETs generally show:","[""Drain voltage as a function of source current."",""Drain current as a function of gate current."",""Drain current as a function of drain voltage."",""Drain voltage as a function of gate current.""]",2
+"A disadvantage of a MOS component is that:","[""It is easily damaged by static electricity."",""It needs a high input voltage."",""It draws a large amount of current."",""It produces a great deal of electrical noise.""]",0
+"The input impedance of a MOSFET:","[""Is lower than that of a JFET."",""Is lower than that of a bipolar transistor."",""Is between that of a bipolar transistor and a JFET."",""Is extremely high.""]",3
+"An advantage of MOSFETs over JFETs is that:","[""MOSFETs can handle a wider range of gate voltages."",""MOSFETs deliver greater output power."",""MOSFETs are more rugged."",""MOSFETs last longer.""]",0
+"The channel in a zero-biased JFET is normally:","[""Pinched off."",""Somewhat open."",""All the way open."",""Of P-type semiconductor material.""]",2
+"When an enhancement-mode MOSFET is at zero bias:","[""The drain current is high with no signal."",""The drain current fluctuates with no signal."",""The drain current is low with no signal."",""The drain current is zero with no signal.""]",3
+"An enhancement-mode MOSFET can be recognized in schematic diagrams by:","[""An arrow pointing inward."",""A broken vertical line inside the circle."",""An arrow pointing outward."",""A solid vertical line inside the circle.""]",1
+"In a source follower, which of the electrodes of the FET receives the input signal?","[""None of them."",""The source."",""The gate."",""The drain.""]",2
+"Which of the following circuits has its output 180 degrees out of phase with its input?","[""Common source."",""Common gate."",""Common drain."",""All of them.""]",0
+"Which of the following circuits generally has the greatest gain?","[""Common source."",""Common gate."",""Common drain."",""It depends only on bias, not on which electrode is grounded.""]",0
+"The capacitance between the primary and the secondary windings of a transformer can be minimized by:","[""Placing the windings on opposite sides of a toroidal core."",""Winding the secondary right on top of the primary."",""Using the highest possible frequency."",""Using a center tap on the balanced winding.""]",0
+"A transformer steps a voltage down from 117 V to 6.00 V. What is its primary-to-secondary turns ratio?","[""1:380."",""380:1."",""1:19.5."",""19.5:1.""]",3
+"A step-up transformer has a primary-to-secondary turns ratio of 1:5.00. If 117V RMS appears at the primary, what is the RMS voltage across the secondary?","[""23.4 V."",""585 V."",""117 V."",""2.93 kV.""]",1
+"A transformer has a secondary-to-primary turns ratio of 0.167. This transformer is:","[""A step-up unit."",""A step-down unit."",""Neither step-up nor step-down."",""A reversible unit.""]",1
+"Which of the following is <i>false</i>, concerning air cores versus ferromagnetic cores?","[""Air concentrates the magnetic lines of flux."",""Air works at higher frequencies than ferromagnetic."",""Ferromagnetic are glossier than air."",""A ferromagnetic-core unit needs fewer turns of wire than an equivalent air-core unit.""]",0
+"Eddy currents cause:","[""An increase in efficiency."",""An increase in coupling between windings."",""An increase in core loss."",""An increase in usable frequency range.""]",2
+"A transformer has 117 V RMS across its primary and 234 V RMS across its secondary. If this unit is reversed, assuming it can be done without damaging the windings, what will be the voltage at the output?","[""234 V."",""468 V."",""117 V."",""58.5 V.""]",3
+"The shell method of transformer winding:","[""Provides maximum coupling."",""Minimizes capacitance between windings."",""Withstands more voltage than other winding methods."",""Has windings far apart but along a common axis.""]",0
+"Which of these core types, in general, is best if you need a winding inductance of 1.5 H?","[""Air core."",""Ferromagnetic solenoid core."",""Ferromagnetic toroid core."",""Ferromagnetic pot core.""]",3
+"An advantage of a toroid core over a solenoid core is:","[""The toroid works at higher frequencies."",""The toroid confines the magnetic flux."",""The toroid can work for dc as well as for ac."",""It\u2019s easier to wind the turns on a toroid.""]",1
+"High voltage is used in long-distance power transmission because:","[""It is easier to regulate than low voltage."",""The <i>I<\/i><sup>2<\/sup><i>R <\/i>losses are lower."",""The electromagnetic fields are stronger."",""Smaller transformers can be used.""]",1
+"In a household circuit, the 234-V power has:","[""One phase."",""Two phases."",""Three phases."",""Four phases.""]",2
+"In a transformer, a center tap would probably be found in:","[""The primary winding."",""The secondary winding."",""The unbalanced winding."",""The balanced winding.""]",3
+"An autotransformer:","[""Works automatically."",""Has a center-tapped secondary."",""Has one tapped winding."",""Is useful only for impedance matching.""]",2
+"A transformer has a primary-to-secondary turns ratio of 2.00:1. The input impedance is 300 Ω resistive. What is the output impedance?","[""75 \u03a9"",""150 \u03a9"",""600 \u03a9"",""1200 \u03a9""]",0
+"A resistive input impedance of 50 Ω must be matched to a resistive output impedance of 450 Ω. The primary-to-secondary turns ratio of the transformer must be:","[""9.00:1."",""3.00:1."",""1:3.00."",""1:9.00.""]",2
+"A quarter-wave matching section has a characteristic impedance of 75.0 Ω. The input impedance is 50.0 Ω resistive. What is the resistive output impedance?","[""150 \u03a9"",""125 \u03a9"",""100 \u03a9"",""113 \u03a9""]",3
+"A resistive impedance of 75 Ω must be matched to a resistive impedance of 300 Ω. A quarter-wave section would need:","[""<i>Z<\/i>o = 188 \u03a9"",""<i>Z<\/i>o = 150 \u03a9"",""<i>Z<\/i>o = 225 \u03a9"",""<i>Z<\/i>o = 375 \u03a9""]",1
+"If there is reactance at the output of an impedance transformer:","[""The circuit will not work."",""There will be an impedance mismatch, no matter what the turns ratio of the transformer."",""A center tap must be used at the secondary."",""The turns ratio must be changed to obtain a match.""]",1
+"Infrared and optical wireless links work best:","[""Over distances exceeding 1000 miles."",""On a line of sight."",""At low radio frequencies."",""In situations with high levels of noise.""]",1
+"Which of the following devices or systems is <i>not </i>generally considered wireless?","[""A remote-control garage-door opener."",""An amateur radio station."",""A beeper\/pager."",""A telephone set that requires a wall jack.""]",3
+"A noise blanker can improve the quality of:","[""Radio reception."",""Radio transmission."",""Infrared reception."",""Infrared transmission.""]",0
+"In the United States, a license is required for:","[""Receiving on amateur-radio frequencies."",""Transmitting on amateur-radio frequencies."",""Using infrared wireless devices."",""Using a wireless automobile security system.""]",1
+"Noise in a wireless receiver can be minimized by:","[""Raising the temperature to very high values."",""Reducing the temperature to very low values."",""Maximizing the amplification."",""Minimizing the relative humidity.""]",1
+"As the data speed increases in a wireless system, all other factors being equal:","[""The signal bandwidth increases."",""The signal bandwidth decreases."",""The overall noise level increases."",""The overall noise level decreases.""]",0
+"wavelengths of approximately:","[""10 to 100 millimeters."",""100 millimeters to 1 meter."",""1 to 10 meters."",""10 to 100 meters.""]",3
+"In general, as the noise level in a wireless system increases:","[""Stronger incoming signals are needed to overcome it."",""Weaker signals can be received."",""The temperature of the system rises."",""The bandwidth of the system increases.""]",0
+"In a spectrum analyzer, the horizontal axis shows:","[""Voltage."",""Power."",""Frequency."",""Time.""]",2
+"A device consisting of a receiver and transmitter in the same box is called a:","[""Modem."",""Transverter."",""Transceiver."",""Transponder.""]",2
+"The use of direction-finding equipment to determine the latitude and longitude of a radio transmitter is an example of:","[""Radiolocation."",""IR wireless."",""The Global Positioning System."",""Packet radio.""]",0
+"A LAN in which each user’s computer stores its own data is called:","[""A wireless LAN."",""A wide-area LAN."",""LAN topology."",""A peer-to-peer LAN.""]",3
+"Which of the following constitutes illegal use of ham radio?","[""Selling cars by broadcasting prices to other hams."",""Talking about the weather and exchanging local forecasts."",""Talking about who might be the next president of the United States."",""Connecting a radio to the Internet.""]",0
+"An electromagnetic wave can be considered to fall in the shortwave band if its free-space wavelength is:","[""55 kilometers."",""55 meters."",""55 centimeters."",""55 millimeters.""]",1
+"In a cellular network, a base station is sometimes called a:","[""Transceiver."",""Cell."",""Repeater."",""Cell phone.""]",2
+"An advantage of conventional hard-wired telephone over cellular is:","[""Privacy."",""Portability."",""Ease of use in a car."",""LAN topology.""]",0
+"An advantage of cellular over conventional hard-wired telephone is:","[""Security."",""Lower cost."",""Mobility."",""Data speed.""]",2
+"Infrared waves are:","[""Longer than radio waves."",""Longer than visible-light waves."",""Shorter than visible-light waves."",""Inaccurately named; they are really heat rays.""]",1
+"The GPS might be useful:","[""For improving the performance of a LAN."",""For increasing the data speed in a wireless system."",""For minimizing noise in a wireless system."",""To a motorist who is lost.""]",3

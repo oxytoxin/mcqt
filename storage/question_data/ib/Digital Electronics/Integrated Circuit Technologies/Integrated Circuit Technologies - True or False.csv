@@ -1,0 +1,11 @@
+question,A,B,C,D,E,answer,explanation
+<p>The speed-power product provides a basis for the comparison of logic circuits when power dissipation and propagation delay are important considerations in the selection of the type of logic to be used.</p>,True,False,,,,A,
+<p>ECL IC technology is faster than TTL technology.</p>,True,False,,,,A,
+<p>CMOS is a more dominant IC technology than TTL.</p>,True,False,,,,A,
+<p>Unused TTL inputs should be tied LOW.</p>,True,False,,,,B,
+"<p>The greater the propagation delay, the higher the maximum frequency.</p>",True,False,,,,B,
+<p>A pull-down resistor must be used with open-collector TTL circuits.</p>,True,False,,,,B,
+<p>Metal-oxide semiconductor field-effect transistors (MOSFETs) are the active switching elements in CMOS circuits.</p>,True,False,,,,A,
+"<p>There are four different logic level ranges for TTL and CMOS: V<sub>IL</sub>, V<sub>IH</sub>, V<sub>OL</sub>, and V<sub>OH</sub>.</p>",True,False,,,,A,
+<p>Power dissipation is a measure of a circuit's noise immunity.</p>,True,False,,,,B,
+<p>The total sink current decreases with an increase in each load gate input.</p>,True,False,,,,B,

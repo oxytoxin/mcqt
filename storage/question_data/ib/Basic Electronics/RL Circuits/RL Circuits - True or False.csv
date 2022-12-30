@@ -1,0 +1,13 @@
+question,A,B,C,D,E,answer,explanation
+<p>As the frequency increases in a series <i>RL</i> circuit the impedance also increases.</p>,True,False,,,,A,
+"<p><p><img src=""/_files/images/basic-electronics/basics/tfq12_1001_1.gif""/></p><p>The impedance of the circuit in the given circuit is 110 <img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/> .</p></p>",True,False,,,,B,
+"<p>For series ac circuits containing both resistance and inductive reactance, total opposition to current can be found by simply adding ohmic values or oppositions to current.</p>",True,False,,,,B,
+<p>The phase angle will increase in a parallel <i>RL</i> circuit if the resistance is increased.</p>,True,False,,,,A,
+"<p><p><img src=""/_files/images/basic-electronics/basics/tfq12_1008_1.gif""/></p><p>The circuit in the given circuit is a low-pass filter.</p></p>",True,False,,,,A,
+<p>Phase angle is the difference in phase between the applied voltage (<i>V<sub></sub></i>S) and the circuit current (<i>I</i><sub>T</sub>).</p>,True,False,,,,A,
+"<p>If a 7.5 k<img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/> resistance is connected to a 10 k<img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/> inductive reactance in a series <i>RL</i> circuit, then the impedance equals 12.5 k<img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/> .</p>",True,False,,,,A,
+"<p>In a series <i>RL</i> circuit, a power factor of 0.5 results in less energy conversion to heat than does a power factor of 0.6.</p>",True,False,,,,A,
+"<p>If <i>Y</i> = 20 mS, then <i>Z</i> = 20.</p>",True,False,,,,B,
+<p>The current lags the source voltage in a series <i>RL</i> circuit.</p>,True,False,,,,A,
+<p>The phase angle will decrease in a series <i>RL</i> circuit if the inductance is increased.</p>,True,False,,,,B,
+<p>As frequency decreases in a parallel <i>RL</i> circuit the impedance also decreases.</p>,True,False,,,,A,

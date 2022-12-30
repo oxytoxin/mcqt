@@ -1,0 +1,11 @@
+question,A,B,C,D,E,answer,explanation
+<p>The output will be a LOW for any case when one or more inputs are zero in a(n):</p>,OR gate,NOT gate,AND gate,NAND gate,,C,
+"<p>If a signal passing through a gate is inhibited by sending a low into one of the inputs, and the output is HIGH, the gate is a(n):</p>",AND,NAND,NOR,OR,,B,
+<p>A single transistor can be used to build which of the following digital logic gates?</p>,AND gates,OR gates,NOT gates,NAND gates,,C,
+"<p>The logic gate that will have HIGH or ""1"" at its output when any one of its inputs is HIGH is a(n):</p>",OR gate,AND gate,NOR gate,NOT gate,,A,
+<p>How many NAND circuits are contained in a 7400  NAND IC?</p>,1,2,4,8,,C,
+<p>Exclusive-OR (XOR) logic gates can be constructed from what other logic gates?</p>,OR gates only,AND gates and NOT gates,"AND gates, OR gates, and NOT gates",OR gates and NOT gates,,C,
+<p>How many truth table entries are necessary for a four-input circuit?</p>,4,8,12,16,,D,
+<p>A NAND gate has:</p>,LOW inputs and a LOW output,HIGH inputs and a HIGH output,LOW inputs and a HIGH output,None of the these,,C,
+<p>The basic logic gate whose output is the complement of the input is the:</p>,OR gate,AND gate,INVERTER gate,comparator,,C,
+<p>What input values will cause an AND logic gate to produce a HIGH output?</p>,At least one input is HIGH.,At least one input is LOW.,All inputs are HIGH.,All inputs are LOW.,,C,

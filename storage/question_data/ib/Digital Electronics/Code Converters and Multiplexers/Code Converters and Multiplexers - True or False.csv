@@ -1,0 +1,11 @@
+question,A,B,C,D,E,answer,explanation
+"<p>In a multiplexer, the data select control inputs are responsible for determining which data input is selected to be transmitted to the data output line.</p>",True,False,,,,A,
+<p>Before you can make a design you must decide if you want an active-HIGH output.</p>,True,False,,,,A,
+<p>The microcontroller needs to use only three input lines to monitor eight separate points.</p>,True,False,,,,A,
+<p>A BCD is used for communication between a computer and a human being because it is too easy to deal with arithmetically.</p>,True,False,,,,B,
+<p>A demultiplexer takes a dual input data value and routes it to one of several outputs.</p>,True,False,,,,B,
+<p>The digit bus and display bus are each just a common set of conductors shared by the digit storage registers and display segments.</p>,True,False,,,,A,
+<p>The basic comparator evaluates two binary strings bit by bit and always outputs a 1.</p>,True,False,,,,B,
+"<p>In a priority encoder, the input with the highest priority is represented on the output.</p>",True,False,,,,A,
+<p>Exclusive-AND gates are needed for conversions between Gray code and binary code.</p>,True,False,,,,B,
+<p>The 74154 is a 1-of-16 decoder. It accepts a 4-bit binary input.</p>,True,False,,,,A,

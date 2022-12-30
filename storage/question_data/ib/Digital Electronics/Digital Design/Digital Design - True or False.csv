@@ -1,0 +1,11 @@
+question,A,B,C,D,E,answer,explanation
+<p>TTL requires a constant supply voltage of 8.0 V.</p>,True,False,,,,B,
+<p>A transfer function graph illustrates the most important specifications for the Schmitt trigger devices.</p>,True,False,,,,A,
+<p>The input levels to a flip-flop must be maintained for a minimum time period both before and after the edge of the clock signal is applied.</p>,True,False,,,,A,
+<p>There is no way to eliminate the effects of a switch bounce.</p>,True,False,,,,B,
+<p>Pull-up resistors and pull-down resistors are used to keep a floating terminal HIGH.</p>,True,False,,,,B,
+<p>The output of a phototransister is determined by the presence or absence of light at its base input.</p>,True,False,,,,A,
+<p>The term <i>race condition</i> describes the time that an active signal must be present at the input to a flip-flop before an active clock edge is applied.</p>,True,False,,,,B,
+<p>A Schmitt trigger has a positive feedback circuit and experiences a phenomenon called <i>hysteresis</i>.</p>,True,False,,,,B,
+<p>A series <i>RC</i> circuit can be used to generate a power-up (automatic) reset signal.</p>,True,False,,,,A,
+<p>The 7805 will get very hot if your circuit draws more than 0.5 A.</p>,True,False,,,,A,

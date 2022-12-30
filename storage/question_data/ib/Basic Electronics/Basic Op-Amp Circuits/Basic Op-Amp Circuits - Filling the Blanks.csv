@@ -1,0 +1,19 @@
+question,A,B,C,D,E,answer,explanation
+"<p><p><img src=""/_files/images/basic-electronics/basics/fbq19_1008.gif""/></p>
+<p>In the given circuit, <i>V</i><sub>IN1</sub> equals ______.</p></p>",+4 V,+20 V,–4 V,–20 V,,C,
+"<p><p><img src=""/_files/images/basic-electronics/basics/fbq19_1010.gif""/></p>
+<p>The rate of change of the output voltage in the given circuit equals ______.</p></p>","40 mV/<img align=""absmiddle"" alt=""mu.gif"" src=""/_files/images/basic-electronics/basics/mu.gif""/>s","5 V/<img align=""absmiddle"" alt=""mu.gif"" src=""/_files/images/basic-electronics/basics/mu.gif""/>s","0 V/<img align=""absmiddle"" alt=""mu.gif"" src=""/_files/images/basic-electronics/basics/mu.gif""/>s","40 V/<img align=""absmiddle"" alt=""mu.gif"" src=""/_files/images/basic-electronics/basics/mu.gif""/>s",,D,
+<p>A mathematical operation for finding the area under the curve of a graph is called __________.</p>,differentiation,integration,curve averaging,linear regression,,B,
+"<p><p><img src=""/_files/images/basic-electronics/basics/fbq19_1008.gif""/></p>
+<p>In the given circuit, if <i>R<sub>f</sub></i> is reduced to 8 k<img align=""absmiddle"" src=""/_files/images/basic-electronics/basics/omega.gif""/>, the circuit becomes the ______.</p></p>",digital-to-analog converter,averaging amplifier,scaling adder,summing amplifier with gain greater than unity,,B,
+"<p><p><img src=""/_files/images/basic-electronics/basics/fbq19_1007.gif""/></p>
+<p>The reference voltage for the comparator in the given circuit equals ______.</p></p>",0 V,+8.8 V,+16 V,+7.2 V,,B,
+"<p>Above the critical frequency (<i>f<sub>c</sub></i>) of a low-pass filter, the output voltage gain _______.</p>",does not change,doubles for every 1 kHz increase in frequency,increases,decreases,,D,
+"<p>In order to sustain oscillations in a feedback oscillator, the gain should be _________ so the <i>A<sub>cl</sub></i> _______.</p>","reduced, equals one","reduced, is less than one","increased, is more than one","increased, is much greater than one",,A,
+"<p><p><img src=""/_files/images/basic-electronics/basics/fbq19_1011.gif""/></p>
+<p>The given circuit is a two-pole, active ______ filter.</p></p>",high-pass,low-pass,band-pass,band-stop,,B,
+<p>The ______________ input makes the summing amplifier circuit possible.</p>,virtual ground at the noninverting,virtual ground at the inverting,low-voltage,high-voltage,,B,
+"<p><p><img src=""/_files/images/basic-electronics/basics/fbq19_1011.gif""/></p>
+<p>The critical frequency for the active filter in the given circuit is approximately _______.</p></p>",20.1 kHz,89.3 kHz,14.2 kHz,179 kHz,,A,
+<p>A mathematical operation that determines the rate of change of a curve is called __________.</p>,differentiation,integration,curve averaging,linear regression,,A,
+<p>A Wien-bridge oscillator uses _________.</p>,positive feedback,negative feedback,both types of feedback,an <i>LC</i> tank circuit,,C,

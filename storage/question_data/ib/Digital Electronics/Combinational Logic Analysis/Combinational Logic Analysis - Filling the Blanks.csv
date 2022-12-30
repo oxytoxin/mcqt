@@ -1,0 +1,13 @@
+question,A,B,C,D,E,answer,explanation
+"<p>Assume you have A, B, C, and D available but not their complements. The minimum number of 2-input NAND gates required to implement the equation <img src=""/_files/images/digital-electronics/digital-fundamentals/cuq5_00500.gif""/> is ________.</p>",3,4,5,6,,C,
+"<p><p>The symbol shown represents a(n) ________.</p>
+<p><img src=""/_files/images/digital-electronics/digital-fundamentals/cuq5_00200.gif""/><p></p></p></p>",AND gate,OR gate,NAND gate,NOR gate,,D,
+<p>A gate can drive a number of load gate inputs up to its specified ________.</p>,supply voltage,noise margin,fan-in,fan-out,,D,
+"<p>The expression <img src=""/_files/images/digital-electronics/digital-fundamentals/cuq5_00600.gif""/> can be directly implemented using only ________.</p>",an XOR gate,an XNOR gate,an AOI circuit,three 2-input NAND gates,,C,
+"<p><p>The symbol shown represents ________.</p>
+<p><img src=""/_files/images/digital-electronics/digital-fundamentals/cuq5_00100.gif""/></p></p>",AND-OR logic,AOI logic,XOR gate,XNOR gate,,A,
+"<p>If both inputs of a 2-input NOR gate are connected, the gate will function as an ________.</p>",OR gate,AND gate,inverter,any of the above,,C,
+<p>Assume that you have a 3-input NAND gate but need only a 2-input gate. The unused input should be ________.</p>,connected to ground,left open,connected to a HIGH,any of the above,,C,
+<p>A <i>node</i> is defined as ________.</p>,a common point in a circuit,a circuit implemented as a sum-of-products,the output signals from a circuit,a shorted input,,A,
+"<p>Using the universal property of a NAND gate, one or more NAND gates can be used to replace an ________.</p>",OR gate,AND gate,inverter,any of the above,,D,
+"<p>The expression <img src=""/_files/images/digital-electronics/digital-fundamentals/cuq5_00700.gif""/> can be directly implemented using only ________.</p>",an XOR gate,an XNOR gate,an AOI circuit,three 2-input NAND gates,,A,

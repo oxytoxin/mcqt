@@ -1,0 +1,11 @@
+question,A,B,C,D,E,answer,explanation
+<p>The output of a NAND gate is LOW when all inputs are HIGH at the same time.</p>,True,False,,,,A,
+"<p>When the output of an AND-OR circuit is complemented, it results in an AND-OR-Invert circuit.</p>",True,False,,,,A,
+"<p>If one input to a 2-input AND gate is HIGH, the output reflects the other input.</p>",True,False,,,,A,
+<p>A NAND gate can function as a negative-OR gate.</p>,True,False,,,,A,
+<p>An AND gate is a universal gate.</p>,True,False,,,,B,
+<p>A NOR gate is a universal gate.</p>,True,False,,,,A,
+<p>An exclusive-OR gate's output is HIGH when its inputs are equal.</p>,True,False,,,,B,
+<p>A VHDL component is a predefined logic function.</p>,True,False,,,,B,
+<p>The output of an AND gate is HIGH when any input is HIGH.</p>,True,False,,,,B,
+<p>A NOR gate's truth table is the opposite of that of an OR gate.</p>,True,False,,,,A,

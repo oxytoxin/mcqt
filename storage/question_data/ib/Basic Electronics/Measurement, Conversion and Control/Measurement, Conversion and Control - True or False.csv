@@ -1,0 +1,11 @@
+question,A,B,C,D,E,answer,explanation
+<p>A resistance temperature detector produces a voltage for a given change in temperature.</p>,True,False,,,,B,
+<p>The triac provides better dc power control than the SCR.</p>,True,False,,,,B,
+<p>The SCR is ideal for ac applications.</p>,True,False,,,,B,
+"<p>Displacement, velocity, and acceleration can all be measured by using specific motion transducers.</p>",True,False,,,,A,
+<p>A strain gauge uses the principle of capacitance for its operation.</p>,True,False,,,,B,
+<p>Thermocouple connections must be taken into account to ensure a high degree of accuracy.</p>,True,False,,,,A,
+<p>The change in value of the analog signal during the sampling process produces what is called the quantization error.</p>,True,False,,,,A,
+<p>Pressure transducers are devices that exhibit a change in resistance inversely proportional to a change in pressure.</p>,True,False,,,,B,
+"<p>A basic sample-and-hold circuit consists of an analog switch, a capacitor, and an instrumentation amplifier.</p>",True,False,,,,B,
+<p>Noncontacting displacement transducers include optical and capacitive transducers.</p>,True,False,,,,A,

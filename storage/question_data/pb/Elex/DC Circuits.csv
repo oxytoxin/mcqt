@@ -1,0 +1,452 @@
+﻿question,choices,answer
+"Determine the resistance of a busbar made of copper if the length is 10 meters long and the cross section is a 4 x 4 cm<sup>2</sup>. Use 1.7241 micro ohm-cm as the resistivity.","[""2.121 x 10<sup>-4<\/sup> \u03a9"",""4.312 x 10<sup>-4<\/sup> \u03a9"",""3.431 x 10<sup>-5<\/sup> \u03a9"",""1.078 x 10<sup>-4 <\/sup>\u03a9""]",3
+"One turn of a copper bar is produced by cutting copper washer along a radius and spreading the ends. The washer is cut from soft drawn copper having a resistivity at 20°C of 1.732 x 10<sup>-6</sup> ohm-cm. The washer is 0.125 inch thick and has inside diameter and outside diameter of 1 inch and 9 inches respectively. Calculate the exact resistance between the two ends of the turn to direct current, taking into account the non-uniform current distribution. Assume the contact along the ends of the turn to be perfect over the entire cross section.","[""12.74 x 10<sup>-6<\/sup> \u03a9"",""15.53 x 10<sup>-6<\/sup> \u03a9"",""17.22 x 10<sup>-6<\/sup> \u03a9"",""14.83 x 10<sup>-6<\/sup> \u03a9""]",1
+"Determine the resistance of a conductor 0.10 m long, with a uniform diameter of 1.0 cm and having a resistivity which varies as a function of length L measured from the one end of the conductor according to ρ = 0.003 + 10<sup>-4</sup> L<sup>2</sup> ohm-cm.","[""0.0852 ohm"",""0.0915 ohm"",""0.0806 ohm"",""0.0902 ohm""]",2
+"A coil has 6,000 turns of wire and a resistance of 380 ohms. The coil is rewound with the same quantity (weight) of wire, but has 13,400 turns. How many ohms will the new coil have?","[""1895 ohms"",""1825 ohms"",""1792 ohms"",""1905 ohms""]",0
+"A copper wire of unknown length has a resistance of 0.80 ohm. By successive passes through drawing dies, the length of the wire is increased by 2 ½ times its original value. Assuming that resistivity remains unchanged during the drawing process, determine the new value of its resistance.","[""4 ohms"",""3 ohms"",""5 ohms"",""6 ohms""]",2
+"A one-meter rod of 2-cm diameter is drawn until its resistance is 100 times the initial resistance. Its length afterwards is?","[""10 m"",""100 m"",""12.5 m"",""5 m""]",0
+"A kilometer of wire having a diameter of 11.7 mm and a resistance of 0.031 ohm is drawn down so that its diameter is 5.0 mm. What does its resistance become?","[""0.85 ohm"",""0.78 ohm"",""0.93 ohm"",""0.81 ohm""]",2
+"A certain wire has a resistance R. The resistance of another wire identical with the first except for having twice its diameter is","[""4R"",""R\/2"",""2R"",""R\/4""]",3
+"What is the size in square millimeter (mm<sup>2</sup>) is the cable of 250 MCM size?","[""118.656 mm<sup>2<\/sup>"",""126.675 mm<sup>2<\/sup>"",""112.565 mm<sup>2<\/sup>"",""132.348 mm<sup>2<\/sup>""]",1
+"The resistance of a copper wire at 30°C is 50 ohms. If the temperature coefficient of copper at 0°C is 0.00427, what is the resistance at 100°C?","[""72.26 ohms"",""54.25 ohms"",""63.24 ohms"",""58.15 ohms""]",2
+"The resistance of a wire is 126.48 Ω at 100°C and 100 Ω at 30°C. Determine the temperature coefficient of copper at 0°C.","[""0.00427\/\u00b0C"",""0.00615\/\u00b0C"",""0.0256\/\u00b0C"",""0.365\/\u00b0C""]",0
+"Two heating elements which is 500 ohms and 250 ohms are connected in series with temperature coefficients of 0.001 and 0.003 ohms per °C, respectively at 20°C. Calculate the effective temperature coefficient of the combination.","[""0.00215"",""0.00626"",""0.00712"",""0.00167""]",3
+"The insulation resistance of a kilometer of the cable having a diameter of 2 cm and an insulation thickness of 2 cm is 600 ohms. If the thickness of the insulation is increased to 3 cm, find the insulation resistance of the cable.","[""A, 725 ohms"",""850 ohms"",""757 ohms"",""828 ohms""]",2
+"It is required that a loading of 3 kW be maintained in a heating element at an initial temperature of 20°C, a voltage of 220 V is necessary for the purpose. After the element has settled down to steady state, it is found that a voltage of 240 volts is necessary to maintain the 3 kW loading. The element resistance temperature coefficient is 0.0006 per degree centigrade at 20°C. Calculate the final temperature of the heating element.","[""345.43\u00b0C"",""326.42\u00b0C"",""336.84\u00b0C"",""318.48\u00b0C""]",2
+"How long must a current of 5 A pass through a 10 ohm resistor until a charge of 12000 coulomb passes through?","[""1 min"",""2 min"",""3 min"",""4 min""]",3
+"What is the power required to transfer 97,000 coulombs of charge through a potential rise of 50 volts in one hour?","[""0.5 kW"",""0.9 kW"",""1.3 kW"",""2.8 kW""]",2
+"A round wire has 250 MCM. Find its diameter in inches.","[""\u00bd"",""\u00bc"",""0.16"",""0.08""]",0
+"In the American wire gauge, as the number of gauge increases, the diameter of wire _____","[""increases"",""decreases"",""does not change"",""become twice""]",1
+"In cgs system, what is the unit of emf where I is in abampere and P is in erg per second?","[""millivolt"",""kilovolt D"",""abvolt"","". volt""]",2
+"One (1) kW is equal to ____ hp.","[""0.746"",""1.34"",""550"",""1.5""]",1
+"Two copper conductors have equal length. The cross-sectional area of one conductor is three times that of the other. If the resistance of the conductor having smaller cross-sectional area is 20 Ω, what is the resistance of the other?","[""20\/3 \u03a9"",""60 \u03a9"",""180 \u03a9"",""20\/9 \u03a9""]",0
+"A copper bar has a length of 20 ft., width of 4 inches and thickness of 0.5 inch. If the resistivity of copper is 10.37 Ω-CM/ft, what is the resistance of the bar?","[""81.4 \u03bc\u03a9"",""8.14 \u03bc\u03a9"",""814 \u03bc\u03a9"",""0.814 \u03bc\u03a9""]",0
+"The resistance of the field winding of a DC machine is 0.25 Ω at 25°C. When operating at full-load, the temperature of the winding is 75°C. The temperature coefficient of resistance of copper is 0.00427 per °C at 0°C. Find the resistance of the field winding at full-load.","[""0.298 \u03a9"",""0.315 \u03a9"",""0.512 \u03a9"",""0.271 \u03a9""]",0
+"A coil of copper has resistance of 5.46 Ω at 75°C. What will be its resistance at 25°C?","[""4.58 \u03a9"",""4.84 \u03a9"",""5.02 \u03a9"",""4.35 \u03a9""]",0
+"A certain generator generates 1,500,000 joules per minute. What is the output in kW?","[""50"",""500"",""25"",""125""]",2
+"_____ is anything that has weight had occupies space. It may be solid, liquid or gas.","[""Amalgam"",""Alloy"",""Matter"",""Compound""]",2
+"It is defined as anything that occupies space and has weight.","[""atom"",""compound"",""molecule"",""matter""]",3
+"The lightest kind of atom or element","[""hydrogen"",""helium"",""titanium"",""oxygen""]",0
+"In order to have a good conductor material, such material shall have _____ valence electrons.","[""one"",""five"",""more than ten"",""twenty one""]",0
+"Electric power refers to _____","[""volt ampere"",""watt second"",""volt coulomb"",""joule""]",0
+"What composes all matter whether a liquid, solid or gas?","[""electrons"",""atoms"",""protons"",""neutrons""]",1
+"What is a physical combination of compounds or elements NOT chemically combined that can be separated by physical means?","[""substance"",""atom"",""mixture"",""molecule""]",2
+"Determine the equivalent work of 166 watt-second.","[""10 joules"",""100 joules"",""16.6 joules"",""166 joules""]",1
+"One of the following is the best conductor of electricity.","[""Air"",""Copper"",""Carbon"",""Silicon""]",1
+"What is the basic unit for measuring current flow?","[""coulomb"",""ampere"",""volt"",""atomic weight""]",1
+"______ has a unit of electron volt","[""Energy"",""Potential difference"",""Current"",""Charge""]",0
+"The motion of charged particles especially colloidal particles through a relative stationary liquid under the influence of an applied electric provided.","[""hysteresis"",""electrolysis"",""electrophoresis"",""electro analysis""]",2
+"What is a symbol that represents a quantity or a single object?","[""unit"",""number"",""item"",""base""]",0
+"Determine which of the following has the least number of electrons found at the outer shell.","[""semi-insulator"",""insulator"",""semiconductor"",""conductor""]",3
+"The term describes a material whose resistance remains relatively constant with changes in temperature","[""positive temperature coefficient"",""negative temperature coefficient"",""neutral temperature coefficient"",""zero temperature coefficient""]",3
+"Resulting effect when electron is made to move","[""dynamic electricity"",""static electricity"",""lines of force"",""magnetic lines""]",0
+"One of the following characteristics of a resistive material which do not change its resistive value with respect to time is its _____","[""fidelity"",""sensitivity"",""stability"",""selectivity""]",2
+"What do you call the element that conducts electricity very readily?","[""semi-conductors"",""conductors"",""insulators"",""dielectric""]",1
+"Which of the following material is referred to as a medium whereby electrons can move easily from atom to atom?","[""insulator"",""dielectric"",""mica"",""conductor""]",3
+"A chemical combination of elements can be separated by chemical means but not by physical means. It is created by chemically combining two or more elements.","[""molecules"",""compound"",""matter"",""mixture""]",1
+"A substance which cannot be reduced to a simpler substance by chemical means","[""atom"",""molecule"",""matter"",""element""]",3
+"Calculate the equivalent power in watt of 100 joules per second.","[""1.66 watts"",""100 watts"",""16.66 watts"",""1,000 watts""]",1
+"It is a neutral particle that has no electrical charge.","[""atom"",""proton"",""electron"",""neutron""]",3
+"Which material has more free electrons?","[""mica"",""insulator"",""conductor"",""dielectric""]",2
+"Thevenin’s theorem is ____ form on an equivalent circuit.","[""voltage"",""current"",""both voltage and current"",""none of these""]",0
+"Norton’s theorem is ____ Thevenin’s theorem.","[""A the same as."",""converse of"",""equal to"",""none of these""]",1
+"In the analysis of a vacuum tube circuit, we generally use ____.","[""superposition"",""Norton\u2019s"",""Thevenin\u2019s"",""reciprocity""]",2
+"Norton’s theorem is ____ form of an equivalent circuit","[""voltage"",""current"",""both voltage and current"",""none of these""]",1
+"In the analysis of a transistor circuit, we generally use ____.","[""Norton\u2019s"",""Thevenin\u2019s"",""reciprocity"",""superposition""]",0
+"For maximum power transfer, the relation between load resistance R<sub>L</sub> and internal resistance R<sub>i</sub> of the voltage source is ____.","[""R<sub>L<\/sub> = 2R<sub>i<\/sub>"",""R<sub>L<\/sub> = 0.5R<sub>i <\/sub>"",""R<sub>L<\/sub> = 1.5R<sub>i<\/sub>"",""R<sub>L<\/sub> = R<sub>i<\/sub>""]",3
+"Under the conditions of maximum power transfer, the efficiency is ____.","[""75%"",""100%"",""50%"",""25%""]",2
+"The open-circuited voltage at terminals of load R<sub>L</sub> is 30 V Under the conditions of maximum power transfer, the load voltage would be ____.","[""30 V"",""10 V"",""5 V"",""15 V""]",3
+"The maximum power transfer theorem is used in ____.","[""electronic circuits"",""power system"",""home lighting circuits"",""none of these""]",0
+"Under the conditions of maximum power transfer, a voltage source is delivering a power of 30 W to the load. The power generated by the source is ____.","[""45 W"",""30 W"",""60 W"",""90 W""]",2
+"The output resistance of a voltage source is 4 Ω. Its internal resistance will be ____.","[""4 \u03a9"",""2 \u03a9"",""1 \u03a9"",""infinite""]",0
+"Delta/star of star/delta transformation technique is applied to _____.","[""one terminal"",""two terminal"",""three terminal"",""none of these""]",2
+"Kirchhoff’s current law is applicable to only","[""closed loops in a network"",""electronic circuits"",""conjunctions in a network"",""electric circuits""]",2
+"Kirchhoff’s voltage law is concerned with","[""IR drops"",""battery e.m.f.s."",""junction voltages"",""both A and B""]",3
+"According to KVL, the algebraic sum of all IR drops and e.m.f.s in any closed loop of a network is always","[""zero"",""positive"",""negative"",""determined by the battery e.m.f.s""]",0
+"The algebraic sign of an IR drop is primarily dependent upon the","[""amount of current flowing through it"",""value of R"",""direction of current flow"",""battery connection""]",2
+"Maxwell’s loop current method of solving electrical networks","[""uses branch currents"",""utilizes Kirchhoff\u2019s voltage law"",""is confined to single-loop circuits"",""is a network reduction method""]",1
+"Point out the WRONG statement. In the node-voltage technique of solving networks, choice of a reference node does not","[""affect the operation of the circuit"",""change the voltage across any element"",""alter the p.d. between any pair of nodes"",""affect the voltages of various nodes""]",3
+"The nodal analysis is primarily based on the application of","[""KVL"",""KCL"",""Ohm\u2019s Law"",""both B and C""]",3
+"Superposition theorem is can be applied only to circuits having ____ elements.","[""non-linear"",""passive"",""linear bilateral"",""resistive""]",2
+"The Superposition theorem is essentially based on the concept of","[""duality"",""linearity"",""reciprocity"",""non-linearity""]",2
+"While Thevenizing a circuit between two terminals, V<sub>th</sub> equals","[""short-circuit terminal voltage"",""open circuit terminal voltage"",""EMF of the battery nearest to the terminal"",""net voltage available in the circuit""]",1
+"Thevenin resistance R<sub>th</sub> is found","[""between any two \u201copen\u201d terminals"",""by short-circuiting the given two terminals"",""by removing voltage sources along with their internal resistance"",""between same open terminals as for V<sub>th<\/sub>""]",3
+"While calculating R<sub>th</sub>, constant-current sources in the circuit are","[""replaced by \u201copens\u201d"",""replaced by \u201cshorts\u201d"",""treated in parallel with other voltage sources"",""converted into equivalent voltage sources""]",0
+"The Norton equivalent of a circuit consists of a 2 A current source in parallel with a 4 Ω resistor. Thevenin equivalent of this circuit is a ____ volt source in series with a 4 Ω resistor.","[""2"",""0.5"",""6"",""8""]",3
+"If two identical 3 A, 4 Ω Norton equivalent circuits are connected in parallel with like polarity to like, the combined Norton equivalent circuit is","[""6 A, 4 \u03a9"",""6 A, 2 \u03a9"",""3 A, 2 \u03a9"",""6 A, 8 \u03a9""]",3
+"Two 6 V, 2 Ω batteries are connected in series aiding. This combination can be replaced by a single equivalent current generator of ____ with a parallel resistance of ____ ohm.","[""3 A, 4 \u03a9"",""3 A, 2 \u03a9"",""3 A, 1 \u03a9"",""5 A, 2 \u03a9""]",1
+"Two identical 3 A, 1 Ω batteries are connected in parallel with like polarity with like polarity to like. The Norton equivalent circuit of the combination is","[""3 A, 0.5 \u03a9"",""6 A, 1 \u03a9"",""3 A, 1 \u03a9"",""6 A, 0.5 \u03a9""]",3
+"For a linear network containing generators and impedance, the ratio of the voltage to the current produced in other loop is the same as the ratio of voltage and current obtained when the positions of the voltage source and the ammeter measuring the current are interchanged. This network theorem is known as ____ theorem.","[""Millman\u2019s"",""Norton\u2019s"",""Tellegen\u2019s"",""Reciprocity""]",3
+"A 12 volt source with an internal resistance of 1.2 ohms is connected across a wire-wound resistor. Maximum power will be dissipated in the resistor when its resistance is equal to","[""zero"",""1.2 ohm"",""12 ohms"",""infinity""]",1
+"Three 3.33 Ω resistors are connected in wye. What is the value of the equivalent resistors connected in delta?","[""3.33 \u03a9"",""10 \u03a9"",""6.67 \u03a9"",""20 \u03a9""]",1
+"What do you call the head to tail connection of two or more op-amp circuits wherein the output of one op-amp is the input of another op-amp?","[""Parallel Op-Amps"",""Follow-Thru Connection"",""Cascade Connection"",""Series Op-Amps""]",2
+"If the voltage source (dependent or independent) is connected between two non-reference nodes, the two non-reference nodes form a ______.","[""Common Node"",""Supernode"",""Complex Node"",""Reference node""]",1
+"The theorem that states that “the voltage across or current through an element in a linear circuit is the algebraic sum of the voltages across or current through that element due to each independent source acting alone”.","[""Superposition Theorem"",""Thevenin\u2019s Theorem"",""Norton\u2019s Theorem"",""Reciprocity Theorem""]",0
+"Kirchhoff’s Current Law states that","[""the algebraic sum of the currents flowing into any point in a circuit must equal zero"",""the algebraic sum of the currents entering and leaving any point in a circuit must equal zero"",""the algebraic sum of the currents flowing away from any point in a circuit must equal zero"",""the algebraic sum of the currents around any closed path must equal zero""]",1
+"When applying Kirchhoff’s Current Law,","[""consider all the currents flowing into a branch point positive and all currents directed away from that point negative"",""consider all the currents flowing into a branch point negative and all currents directed away from that point positive"",""remember that the total of all the currents entering a branch point must always be greater than the sum of the currents leaving that point"",""the algebraic sum of the currents entering and leaving a branch point does not necessarily have to be zero""]",0
+"When applying Kirchhoff’s Voltage Law, a closed path is commonly referred to as a","[""node"",""principal node"",""loop"",""branch point""]",2
+"Kirchhoff’s Voltage Law states that","[""the algebraic sum of the voltage sources and IR voltage drops in any closed path must total zero"",""the algebraic sum of the voltage sources and IR voltage drops around any closed path can never equal zero"",""the algebraic sum of all the currents flowing around any closed path must equal zero"",""none of these""]",0
+"When applying Kirchhoff’s Voltage Law","[""consider any voltage whose positive terminal is reached first as negative and any voltage whose negative terminal is reached first as positive"",""always consider all voltage sources as positive and all resistor voltage drops as negative"",""consider any voltage whose negative terminal is reached first as negative and any voltage whose positive terminal is reached first as positive"",""always consider all resistor voltage drops as positive and all voltage sources as negative""]",2
+"The algebraic sum of +40 V and -30 V is","[""-10 V"",""+10 V"",""+70 V"",""-70 V""]",1
+"A principal node is","[""a closed path or loop where the algebraic sum of the voltages must equal zero"",""the simplest possible closed path around a circuit"",""a junction where branch current can combine or divide"",""none of these""]",2
+"How many equations are necessary to solve a circuit with two principal nodes?","[""3"",""2"",""4"",""1""]",3
+"The difference between a mesh current and a branch current is","[""a mesh current is an assumed current and a branch current is an actual current"",""the direction of the current themselves"",""a mesh current does not divide at a branch point"",""both A and B above""]",3
+"Using the method of mesh currents, any resistance common to two meshes has","[""two opposing mesh currents"",""one common mesh current"",""zero current"",""none of these""]",0
+"The fact that the sum of the resistor voltage drops equals the applied voltage in a series circuit is the basis for","[""Kirchhoff\u2019s Current Law"",""node voltage analysis"",""Kirchhoff\u2019s Voltage Law"",""the method of mesh currents""]",2
+"The fact that the sum of the individual branch currents equals the total current in a parallel circuit is the basis for","[""Kirchhoff\u2019s Current Law"",""node voltage analysis"",""Kirchhoff\u2019s Voltage Law"",""the method of mesh currents""]",0
+"If you do not go completely around the loop when applying Kirchhoff’s Voltage Law, then","[""the algebraic sum of the voltages will always be positive"",""the algebraic sum is the voltage between the start and finish points"",""the algebraic sum of the voltages will always be negative"",""the algebraic sum of the voltages cannot be determined""]",1
+"A resistor is an example of a(n)","[""bilateral component"",""active component"",""passive component"",""both A and C""]",3
+"To apply Superposition theorem, all components must be","[""the active type"",""both linear and bilateral"",""grounded"",""both nonlinear and unidirectional""]",1
+"When converting from a Norton-equivalent circuit to a Thevenin equivalent circuit or vice versa","[""R<sub>N<\/sub> and R<sub>TH<\/sub> have the same value"",""R<sub>N<\/sub> will always be larger than R<sub>TH<\/sub>"",""I<sub>N<\/sub> is shorted-circuit to find V<sub>TH<\/sub>"",""V<sub>TH<\/sub> is short-circuited to find I<sub>N<\/sub>""]",0
+"When solving for the Thevenin equivalent resistance, R<sub>TH</sub>,","[""all voltage sources must be opened"",""all voltage sources must be short-circuited"",""all voltage sources must be converted to current sources"",""none of these""]",1
+"Thevenin’s Theorem states that an entire network connected to a pair of terminals can be replaced with","[""a single current source in parallel with a single resistance"",""a single voltage source in parallel with a single resistance"",""a single voltage source in series with a single resistance"",""a single current source in series with a single resistance""]",1
+"Norton’s Theorem states that an entire network connected to a pair of terminals can be replaced with","[""a single current source in parallel with a single resistance"",""a single voltage source in parallel with a single resistance"",""a single voltage source in series with a single resistance"",""a single current source in series with a single resistance""]",0
+"With respect to terminals A and B in a complex network, the Thevenin voltage, V<sub>TH</sub>, is","[""the voltage across terminals A and B when they are short-circuited"",""the open-circuit voltage across terminals A and B"",""the same as the voltage applied to the complex network"",""none of these""]",1
+"With respect to terminals A and B in a complex network, the Norton current, I<sub>N</sub>, is","[""the current flowing between terminals A and B when they are open"",""the total current supplied by the applied voltage to the network"",""zero when terminals A and B are short-circuited"",""the current flowing terminals A and B when they are short-circuited""]",3
+"Which theorem provides a shortcut for finding the common voltage across any number of parallel branches with different sources?","[""The Superposition Theorem"",""Thevenin\u2019s Theorem"",""Norton\u2019s Theorem"",""Millman\u2019s Theorem""]",3
+"A d.c. circuit usually has ____ as the load","[""Resistance"",""Capacitance"",""Inductance"",""both inductance and capacitance""]",0
+"Electrical appliances are connected in parallel because it ____.","[""is a simple circuit"",""draws less current"",""results in reduce in power loss"",""makes the operation of appliances independent of each other""]",3
+"The purpose of load in an electric circuit is to ____","[""increase the circuit current"",""utilize electrical energy"",""decrease the circuit current"",""none of these""]",1
+"A passive network has","[""no emf source"",""no current source"",""neither emf nor current source"",""none of these""]",2
+"The relationship between voltage and current is the same for two opposite directions of current in case of","[""bilateral network"",""active network"",""unilateral network"",""passive network""]",2
+"Which of the following statement is not correct?","[""voltage source is an active element"",""current source is a passive element"",""resistance is a passive element"",""conductance is a passive element""]",1
+"A resistance R is connected across two batteries, A and B connected in parallel. The open circuit emfs and internal resistances of the batteries are 12 V, 2 ohms and 8 V, 1 ohm respectively. Determine the ohmic value of R if the power absorbed by R is 7.656 watts.","[""10 \u03a9"",""12 \u03a9"",""9 \u03a9"",""8 \u03a9""]",0
+"A network has 7 nodes and 5 independent loops. The number of branches in the network is","[""13"",""12"",""11"",""10""]",2
+"The nodal method of circuit analysis is based on","[""Kirchhoff\u2019s Voltage Law &amp; Ohm\u2019s law"",""Kirchhoff\u2019s Current Law &amp; Ohm\u2018s law"",""Kirchhoff\u2019s Current Law &amp; Kirchhoff\u2019s Voltage Law"",""Kirchhoff\u2019s Current Law &amp; Kirchhoff\u2019s Voltage Law &amp; Ohm\u2018s law""]",1
+"For a network of seven branches and four nodes, the number of independent loops will be","[""11"",""8"",""7"",""4""]",3
+"A network has b branches and nodes. For this mesh analysis will be simpler then node analysis if n is greater then","[""b"",""b + 1"",""(b\/2) + 1"",""b\/2""]",2
+"The number of independent loops for a network with n nodes and b branches is","[""n \u2013 1"",""b \u2013 n"",""b \u2013 n + 1"",""independent no. of nodes""]",2
+"The following constitutes a bilateral element","[""Resistor"",""FET"",""Vacuum Tube"",""metal rectifier""]",0
+"Kirchhoff’s Laws fail in the case of","[""linear networks"",""non-linear networks"",""dual networks"",""distributed parameter networks""]",3
+"Ohm’s law, Kirchhoff’s Current Law &amp; Kirchhoff’s Voltage will fail at","[""Low frequency"",""high frequency"",""high power"",""none of these""]",1
+"Total no, of mesh equations required is equal to","[""number of links"",""number of tree branches"",""number of nodes"",""none of these""]",0
+"When a resistor R is connected to a current source, it consumes a power of 18 W. When the same R is connected to a voltage source having same magnitude as the current source, the power absorbed by R is 4.5 W. The magnitude of the current source &amp; value of R are","[""\u221a18A &amp; 1 ohm"",""3 A &amp; 2 ohms"",""1 A &amp; 18 ohms"",""6 A &amp; 0.5 ohms""]",1
+"Power delivered by each source will be doubled","[""1, 2, 3, 4"",""1, 2"",""2, 3"",""1, 3, 4""]",1
+"For a given network, the number of independent mesh equation (Nm) and the number of independent node equation (Nn) obey the following:","[""Nm = Nn"",""Nm &gt; Nn"",""Nm &lt; Nn"",""any one of the above, depending on the network""]",3
+"Represents the current flow produced by one volt working across one ohm of resistance.","[""resistance"",""ampere"",""voltage"",""electromotive force""]",1
+"When an atom gains an additional _____, it results to a negative ion.","[""atom"",""neutron"",""proton"",""electron""]",3
+"The definite discrete amount of energy required to move an electron from a lower shell to higher shell.","[""quantum"",""positive energy"",""negative energy"",""quanta""]",3
+"What will happen to an atom if an electron is either taken out or taken into the same atom?","[""becomes a negative ion"",""becomes an ion"",""becomes a positive ion"",""nothing will happen""]",1
+"The energy in an electron that is called the energy of motion","[""electromotive force"",""kinematics"",""kinetic energy"",""potential energy""]",2
+"Electric charge of neutron is the same as ______.","[""atom"",""electron"",""current"",""proton""]",0
+"Ion is _____.","[""free electron"",""nucleus without protons"",""proton"",""an atom with unbalanced charges""]",3
+"An insulating element or material has capability of _____.","[""storing voltage"",""preventing short circuit between two conducting wires"",""conducting large current"",""storing high current""]",1
+"What is the value of a resistor with colors from left: Orange, Blue, Gold and Silver?","[""34 ohms + \/-10%"",""36 ohms +\/-10%"",""3.4 ohms +\/-10%"",""3.6 0hms +\/-10%""]",3
+"A three-terminal resistor with one or more sliding contacts which functions as an adjustable voltage divider","[""Rheostat"",""Bleeder resistor"",""Potentiometer"",""Voltage divider""]",2
+"A resistor which is used to draw a fixed amount of current","[""potentiometer"",""bleeder resistor"",""fixed resistor"",""rheostat""]",1
+"Find the value of a resistor with the following color codes: Orange, Yellow, Red, Red","[""34 k ohms +\/-5%"",""3.4 ohms +\/-2%"",""3.4 k ohms +\/-10%"",""34 k ohms +\/-20%""]",1
+"Electric energy refers to ______.","[""Joules divided by time"",""Volt-ampere"",""Watt"",""Volt-coulomb""]",3
+"What is the resistance of an open fuse circuit?","[""at least 1000 ohms"",""infinity"",""zero"",""100 ohms at standard temperature""]",1
+"When should a fuse be replaced with a higher rated unit?","[""when the fuse of the original value is small in size"",""when the original is not available"",""never"",""if it blows""]",2
+"The ability to do work","[""energy"",""kinetic"",""potential"",""voltage""]",0
+"Which type of variable resistor should you use for controlling large amount of current?","[""Potentiometer"",""Adjustable wirewound"",""Variac"",""Rheostat""]",1
+"What does the fourth loop of an electronic resistor color code represent?","[""Multiplier"",""Temperature"",""First digit of the equivalent value"",""Tolerance""]",3
+"Ten micro-microfarads is equivalent to _____","[""100 picofarads"",""100 nanofarad"",""1000 milli microfarad"",""10.0 picofarads""]",1
+"How much is the resistance of a germanium slag 10 cm long and cross sectional area of 1 square cm?","[""55 k ohms"",""5.5 k ohms"",""550 k ohms"",""550 ohms""]",3
+"A variable resistor normally used as a voltage divider","[""Carbon film resistor"",""Potentiometer"",""Adjustable resistor"",""Metal film resistor""]",1
+"Determine the equivalent horse power of 2.611 kilowatts.","[""3.50 hp"",""2.50 hp"",""2.25 hp"",""1.50 hp""]",0
+"Find the lowest resistance value of the following resistors.","[""White, black, black"",""Violet, gray, yellow, silver"",""Red, black, gold"",""Gray, gray, black""]",2
+"If the bands on a resistor are yellow, violet, red and gold, what is the resistance value?","[""470 ohms 5%"",""470 ohms 10%"",""47000 ohms 5%"",""4700 ohms 5%""]",3
+"Rust in electrical (wire) connections will result to _____","[""Conductance"",""Resistance"",""Voltage"",""Inductance""]",1
+"The area of a conductor whose diameter is 0.001 inch is equal to","[""One micron"",""One angstrom"",""One circular mil"",""One steradian""]",2
+"_____ is the term used to express the amount of electrical energy in an electrostatic field.","[""Joule"",""Coulomb"",""Volt"",""Watt""]",0
+"Which of the following statement is correct?","[""Potentiometer has two terminals"",""Transistor has two terminals"",""Typical power rating of a carbon-composition resistor ranged from 0.125 W to 2 W"",""Open resistor has small resistance""]",2
+"_____ is one factor that does not affect resistance.","[""Resistivity"",""Cross sectional area"",""Length"",""Mass""]",3
+"What is the value of a resistor having the following colored bands: Yellow-Gray-Red-Silver?","[""4800 ohms \u00b110%"",""480 ohms \u00b110%"",""3800 ohms \u00b11%"",""4.8 ohms \u00b11%""]",0
+"Find the value of resistor with the following color codes; Brown, White, Orange, Red","[""190 ohms 10%"",""19 k ohms 2%"",""1.9 k ohms 10%"",""19 k ohms 20%""]",3
+"Resistor with colored bands in the body","[""Adjustable resistor"",""Wire-wound resistor"",""Variable resistor"",""Carbon composition resistor""]",3
+"If the bands on a resistor are red, red, orange and silver, what is the resistance value?","[""220 ohms 5%"",""223 0hms 10%"",""22,000 ohms 10%"",""2200 ohms 20%""]",2
+"What does the second strip of an electronic resistor color code represent?","[""Tolerance"",""Second digit of the value"",""Temperature"",""Multiplier""]",1
+"The energy in an electron that is called the energy of position","[""Kinetic energy"",""Kinematics"",""Electromotive force"",""Potential energy""]",3
+"If an electronic resistor does not have the fourth color strip it means it has a tolerance of _____.","[""5%"",""20%"",""10%"",""1%""]",1
+"What happens to the resistance of a conductor wire when its temperature is lowered?","[""Decreased"",""Steady"",""Zero"",""Increased""]",0
+"Which of the following does not refer to electric energy?","[""Joule"",""Watt second"",""Volt coulomb"",""Volt ampere""]",3
+"Which of the following statement is incorrect?","[""open transistor has three (3) terminals"",""transistors have three (3) terminals"",""typical power rating of carbon-composition resistor ranged 0.001 W to 0.1 W"",""potentiometer has three (3) terminals""]",2
+"Term used in electronic measuring device when a metal increases resistance due to heat produced by current flowing through them.","[""positive resistance coefficient"",""positive temperature coefficient"",""negative temperature coefficient"",""negative resistance coefficient""]",1
+"A 1 km cable consists of 12 identical strands of aluminum each 3 mm in diameter. What is the resistance of the cable?","[""0.34 ohm"",""0.54 ohm"",""0.44 ohm"",""0.24 ohm""]",0
+"A piece of wire has a resistance of 0.5 ohm. The length is doubled and the area is increased four times. What is its resistance?","[""0.75 ohm"",""0.50 ohm"",""0.25 ohm"",""1 ohm""]",2
+"Copper wire of certain length and resistance is drawn out to four times its length without change in volume. What is the resistance of the bar?","[""unchanged"",""R\/16"",""16R"",""4R""]",2
+"Current is simply _____.","[""Flow of electrons"",""Flow of protons"",""Radiation"",""Emission""]",0
+"The resistance of a coil of wire is 1 kΩ at 20°C. If the coil is immersed into oil, the resistance falls to 880 Ω. If the wire has a temperature coefficient of 0.006 at 20°C, how much is the temperature of the liquid?","[""0\u00b0C"",""-20\u00b0C"",""17.6\u00b0C"",""none of these""]",0
+"The copper field coils of a motor was measured at 21°C and found to have a resistance of 68 Ω. After the motor has run for a given time, the resistance is found to be 96 Ω. What is the hot temperature of the winding?","[""106.36\u00b0C"",""166.30\u00b0C"",""103.66\u00b0C"",""none of these""]",3
+"A wire has a resistance of 30 Ω at 20°C. What will its resistance be at 60°C? Assume the temperature coefficient of resistance to be 0.000385 at 20°C.","[""34.26 \u03a9"",""36.42 \u03a9"",""32.46 \u03a9"",""none of these""]",3
+"Determine the length of a copper wire (ρ = 10.37 Ω- CM/ft) where diameter is 0.30 inch and resistance of 0.5 Ω at 20°C.","[""4,339 ft."",""5.225 ft."",""6,125 ft."",""none of these""]",0
+"An electric water heater has a rating of 1 kW, 230 V. The coil used as the heating element is 10 m long and has a resistivity of 1.724 x 10<sup>-6</sup> ohm-cm. Determine the required diameter of the wire in mils.","[""2.43 mils"",""2.52 mils"",""3.21 mils"",""1.35 mils""]",1
+"How many circular mils does a round copper rod of 0.25 inch diameter have?","[""196,000"",""62,500"",""1,963,500"",""49,000""]",1
+"A substance whose molecules consist of the same kind of atoms is called ______.","[""mixture"",""element"",""compound"",""none of these""]",1
+"The diameter of the atom is about ______.","[""10<sup>-10<\/sup> m"",""10<sup>-8<\/sup> m"",""10<sup>-2<\/sup> m"",""10<sup>-15<\/sup> m""]",0
+"The number of compounds available in nature is ______.","[""105"",""300"",""1000"",""unlimited""]",3
+"The mass of a proton is ____ the mass of an electron.","[""equal to"",""less than"",""about 1837 times"",""200 times""]",2
+"The maximum number of electrons that can be accommodated in the last orbit is ____.","[""4"",""8"",""18"",""2""]",1
+"The electrons in the last orbit of an atom are called _____ electrons.","[""free"",""bound"",""valence"",""thermionic""]",2
+"If the number of valence electrons of an atom is less than 4, the substance is usually ____.","[""a conductor"",""an insulator"",""a semiconductor"",""none of these""]",0
+"If the number of valence electrons of an atom is more than 4, the substance is usually ____.","[""a semiconductor"",""a conductor"",""an insulator"",""none of these""]",2
+"If the number of valence electrons of an atom is exactly 4, the substance is usually ____.","[""a semiconductor"",""an insulator"",""a conductor"",""a semiconductor""]",0
+"The number of valence electrons of an atom is less than 4. The substance will be probably ____.","[""a metal"",""a non-metal"",""an insulator"",""a semiconductor""]",0
+"One coulomb of charge is equal to the charge on ____ electrons.","[""628 x 10<sup>16<\/sup>"",""62.8 x 10<sup>16<\/sup>"",""6.28 x 10<sup>16<\/sup>"",""0.628 x 10<sup>16<\/sup>""]",0
+"One cc of copper has about _____ free electrons at room temperature.","[""200"",""20 x 10<sup>10<\/sup>"",""8.5 x 10<sup>22<\/sup>"",""3 x 10<sup>5<\/sup>""]",2
+"Electric current in a wire is the flow of ______.","[""free electrons"",""bound electrons"",""valence electrons"",""atoms""]",0
+"EMF in a circuit is ______.","[""cause current to flow"",""maintains potential difference"",""increases the circuit resistance"",""none of these""]",1
+"EMF has the unit of _____.","[""power"",""energy"",""charge"",""none of these""]",1
+"Potential difference has the unit of _____.","[""charge"",""power"",""energy"",""none of these""]",2
+"The resistance of a material is ____ its area of cross-section.","[""directly proportional to"",""inversely proportional to"",""independent of"",""none of these""]",1
+"If the length and area of cross-section of a wire are doubled up, then its resistance ______.","[""becomes four times"",""remains unchanged"",""becomes sixteen times"",""none of these""]",1
+"A length of wire has a resistance of 6 ohms. The resistance of a wire of the same material three times as long and twice the cross-sectional area will be ____.","[""36 ohms"",""12 ohms"",""9 ohms"",""1 ohm""]",2
+"The SI unit of specific resistance is ______.","[""mho"",""ohm-m"",""ohm-m<sup>2<\/sup>"",""ohm-cm""]",1
+"The specific resistance of a conductor ______ with rise in temperature.","[""increases"",""decreases"",""remains unchanged"",""none of these""]",0
+"The SI unit of conductivity is ______.","[""ohm-m"",""ohm\/m"",""mho-m"",""mho\/m""]",3
+"The SI unit of conductance is ______.","[""mho"",""ohm"",""ohm-m"",""ohm-cm""]",0
+"The resistance of a material 2 m long and 2 m<sup>2</sup> in cross-sectional area is 1.6 x 10<sup>-8 </sup>Ω. Its specific resistance will be ______.","[""3.2 x 10<sup>-8<\/sup> ohm-m"",""6.4 x 10<sup>-8<\/sup> ohm-m"",""1.6 x 10<sup>-8<\/sup> ohm-m"",""0.16 x 10<sup>-8<\/sup> ohm-m""]",2
+"Conductors have ______ temperature coefficient of resistance.","[""positive"",""negative"",""zero"",""none of these""]",0
+"Semiconductors have ______ temperature coefficient of resistance.","[""negative"",""positive"",""zero"",""none of these""]",0
+"The value of α (i.e. temperature coefficient of resistance) depends upon","[""length of the material"",""cross-sectional area of the material"",""volume of the material"",""nature of the material and temperature""]",3
+"The temperature coefficient of resistance of a conductor ______ with rise in temperature.","[""increases"",""decreases"",""remains unchanged"",""none of these""]",1
+"Insulators have ______ temperature coefficient of resistance.","[""zero"",""positive"",""negative"",""none of these""]",2
+"Eureka has ______ temperature coefficient of resistance.","[""positive"",""negative"",""almost zero"",""none of these""]",2
+"The value of α<sub>0</sub> of a conductor is 1/236 per °C. The value of α<sub>18</sub> will be _____.","[""1\/218 per \u00b0C"",""1\/272 per \u00b0C"",""1\/254 per \u00b0C"",""none of these""]",2
+"The value of α<sub>50</sub> of a conductor is 1/230 per °C. The value of α<sub>0</sub> will be ____.","[""1\/180 per \u00b0C"",""1\/280 per \u00b0C"",""1\/250 per \u00b0C"",""none of these""]",0
+"A good electric conductor is one that","[""has low conductance"",""is always made of copper wire"",""produces a minimum voltage drop"",""has few free electrons""]",2
+"Two wires A and B have the same cross-section and are made of the same material, R<sub>A</sub> = 600 Ω and R<sub>B</sub> = 100 Ω. The number of times A is longer than B is","[""6"",""2"",""4"",""5""]",0
+"A coil has a resistance of 100 Ω at 90°C. At 100°C, its resistance is 101 Ω. The temperature coefficient of wire at 90°C is","[""0.01"",""0.1"",""0.0001"",""0.001""]",3
+"Which of the following material has nearly zero temperature-coefficient of resistance?","[""carbon"",""porcelain"",""copper"",""manganin""]",3
+"Which of the following material has a negative temperature coefficient of resistance?","[""brass"",""copper"",""aluminum"",""carbon""]",3
+"A cylindrical wire 1 m in length, has a resistance of 100 Ω. What would be the resistance of a wire made from the same material both the length and the cross-sectional area are doubled?","[""200"",""400"",""100"",""50""]",2
+"Carbon composition resistors are most popular because they","[""cost the least"",""are smaller"",""can withstand overload"",""do not produce electric noise""]",0
+"A unique feature of a wire-wound resistor is its","[""lower power rating"",""low cost"",""high stability"",""small size""]",2
+"A coil has a resistance of 100 ohms at 90°C. At 100°C, its resistance is 101 ohms. What is the temperature coefficient of the wire at 90°C?","[""0.01"",""0.1"",""0.0001"",""0.001""]",3
+"What is the unit for charge (Q)?","[""Farad"",""Joule"",""Siemens"",""Coulomb""]",3
+"Two (2) 115-V incandescent lamps A and B are connected in series across a 230-V source. If lamp A is rated 75 watts and lamp B is rated 50 watts, determine the current drawn by the series connection.","[""0.52 A"",""0.64 A"",""0.48 A"",""0.57 A""]",0
+"Three resistors of 10, 15 and 20 ohms each are connected in parallel. What is the equivalent resistance?","[""45 ohms"",""17.2 ohms"",""0.22 ohm"",""4.62 ohms""]",3
+"Three resistors of 10, 15 and 20 ohms each are connected in parallel. What is the total conductance?","[""0.217 siemens"",""3.41 siemens"",""4.52 siemens"",""0.562 siemens""]",0
+"A 5-ohm resistance is connected in parallel with a 10-ohm resistance. Another set, a 6-ohm and an 8-ohm resistances are also connected in parallel. The two sets are connected in series. What is the equivalent resistance?","[""6.76 ohm"",""9.25 ohm"",""14.4 ohms"",""21.2 ohms""]",0
+"Two resistances of 10 and 15 ohms each respectively are connected in parallel. The two are then connected in series with a 5-ohm resistance. What is the equivalent resistance?","[""11 ohms"",""12 ohms"",""10 ohms"",""9 ohms""]",0
+"A 10-ohm and a 20-ohm resistance are connected in parallel. Another resistance of 5-ohm is connected in series with the two. If the supply voltage is 48 volts, what is the current through the 10-ohm resistor?","[""3.21 A"",""2.74 A"",""4.02 A"",""5.72 A""]",1
+"Two resistances of 10 and 15 ohms, each respectively are connected in parallel. The two are then connected in series with a 5-ohm resistance. It is then connected across a 12-V battery, what are the current and power?","[""1.2 A, 17.28 W"",""0.96 A, 11.52 W"",""1.09 A, 13.1 W"",""1.5 A, 20.25 W""]",2
+"Three resistors 10-Ω, 15-Ω and 20-Ω are connected in series across a 48-V source. What is the voltage across the 15-Ω resistor?","[""20 V"",""16 V"",""24 V"",""12 V""]",1
+"Three resistors 10-Ω, 15-Ω and 20-Ω are connected in parallel. What is the total resistance?","[""3.56 \u03a9"",""4.62 \u03a9"",""0.217 \u03a9"",""45 \u03a9""]",1
+"Two 10-Ω resistances are connected in parallel. The two are then connected in series with a 5-Ω resistance. It is then connected across a 24-volt battery; find the voltage across the 5-Ω resistor.","[""12 volts"",""24 volts"",""9 volts"",""15 volts""]",0
+"A circuit consists of three resistors rated 3-Ω, 4-Ω and 5-Ω connected in parallel. If the circuit is connected to a battery which has an internal resistance of 0.2-Ω, what would be the current through the 4-Ω resistor?","[""2.04 A"",""4.8 A"",""2.4 A"",""3.0 A""]",3
+"How many abvolts in 1 volt?","[""10<sup>8<\/sup> abvolts"",""10-8 abvolts"",""1 abvolt"",""10 abvolt""]",0
+"A total current of 60 A is divided among 3 parallel branches having resistances of 10 Ω, 6 Ω and 12 Ω, respectively. What is the current that flows through the branch with 10 Ω resistance?","[""17.1 A"",""28.6 A"",""14.3 A"",""42.9 A""]",0
+"Two 10-ohm parallel resistors are connected in series with a 5-ohm resistor. The combination is then connected across a 24 volts battery. Find the voltage drop across the 5-ohm resistor.","[""6 V"",""18 V"",""12 V"",""20 V""]",2
+"The theory of Ohm’s law is applied in a _____ circuit.","[""linear"",""exponential"",""trivalent"",""unilateral""]",0
+"Refers to the most important components in controlling flow of electrons","[""voltage, electromotive force and current"",""reactance, current and resistance"",""conductance, resistance and reactance"",""voltage, resistance and current""]",3
+"Which of the following is not a valid expression of ohm’s law?","[""E = IR"",""R = PI"",""R = E\/I"",""I = E\/R""]",1
+"A simple electronic equipment which takes a 2 amperes current from a power source has a total load resistance of 100 ohms. How much power does it use?","[""200 watts"",""100 watts"",""400 watts"",""50 watts""]",2
+"What do you expect when you use the two 20 kohms, 1 watt resistor in parallel instead of one 10 kohms, 1 watt?","[""Provide lighter current"",""Provide wider tolerance"",""Provide more power"",""Provide less power""]",2
+"The total resistance of a two similar wire conductors connected in parallel is ______","[""same resistance of one wire"",""double the resistance of one wire"",""one half the resistance of one wire"",""resistance of one wire multiplied by 4""]",2
+"When you increase the resistance in a circuit, the flow of electrons will ______.","[""be constant"",""flow faster"",""be stopped"",""be decreased""]",3
+"Which of the following allows more current if applied to the same voltage?","[""0.002 siemen"",""25 ohms"",""0.004 siemen"",""2.5 ohms""]",3
+"Ohm’s law refers to _____.","[""power is directly proportional to both voltage squared and the resistance"",""power is directly proportional to the resistance and inversely as the current squared"",""current varies directly as the voltage and inversely as the resistance"",""current is directly proportional to both voltage and resistance""]",2
+"A circuit which a break exists in the complete conduction pathway","[""Open circuit"",""Short circuit"",""Close circuit"",""Circuit""]",0
+"How much is the equivalent power in watts can a 3 horse power provide?","[""3000 watts"",""248.66 watts"",""1492 watts"",""2238 watts""]",3
+"The current needed to operate a soldering iron which has a rating of 600 watts at 110 volts is","[""18,200 A"",""0.182 A"",""66,000 A"",""5.455 A""]",3
+"Find the power across the resistor of 5 ohms delivered from a battery of an internal resistance of 3 ohms and a constant emf of 4 volts.","[""120 watts"",""100 watts"",""60 watts"",""1.25 watts""]",3
+"A series circuit in which desired portions of the source voltage may be tapped off for use equipment.","[""Voltage trap"",""Voltage selector"",""Voltage divider"",""Dividing network""]",2
+"An electronic device draws 300 watts from its 24 volt power source. Find effective resistance.","[""1.25 \u03a9"",""1.92 \u03a9"",""19.20 \u03a9"",""12.50 \u03a9""]",1
+"How much power does an electronic equipment consume, assuming a 5.50 amperes current flowing and a 120 volts power source?","[""125.5 watts"",""66 watts"",""660 watts"",""60 watts""]",2
+"What type of circuit whose parameters are constant which do not change with voltage or current?","[""Tuned circuit"",""Linear circuit"",""Reactive circuit"",""Lumped circuit""]",1
+"If three circuits, each with a value of 560 ohms are connected in parallel, what is the total resistance of the combination?","[""1680 ohms"",""560 ohms"",""18567 ohms"",""187 0hms""]",3
+"Other factors remaining constant, what would be the effect on the current flow in a given circuit if the applied potential were doubled?","[""It would double"",""It would increase 4 times"",""It would remain the same"",""It would be decrease by \u00bd""]",0
+"Find used power of a circuit whose power source supplies 20 volts and a load resistance of 200 ohms.","[""1 watt"",""4 kilowatts"",""10 watts"",""2 watts""]",3
+"When resistors are connected in series, what happens?","[""Nothing"",""The tolerance is decreased"",""The effective resistance is decreased"",""The effective resistance is increased""]",3
+"A condition in which the heat in of around the circuit increases beyond or to a higher than normal level.","[""Excessive heat condition"",""Open condition"",""Direct short"",""Grounded""]",0
+"A 33 kilo ohms resistor is connected in a series parallel combination made up of a 56 kilo ohm resistor and a 7.8 kilo ohm resistor. What is the total combined resistance of these three resistors?","[""39067 ohms"",""49069 ohms"",""63769 ohms"",""95800 ohms""]",0
+"If 3,300 ohms resistor and a 22,000 ohms resistor are connected in series, what is the total resistance?","[""18,700 ohms"",""25,300 ohms"",""5,500 ohms"",""2,870 ohms""]",1
+"A device that draws current","[""Source"",""No load"",""Load"",""Shunt""]",2
+"With the same voltage applied which of the following allows more current?","[""25 ohms"",""250 ohms"",""2.5 ohms"",""0.25 ohms""]",3
+"If 12 V are applied to a circuit that consumes 78 W, what is the current flow through the circuits?","[""6.5 A"",""936 A"",""0.15 A"",""9.36 A""]",0
+"Find the current that flows through the filament of a 400 watt flat iron connected to a 220 volt power line.","[""50 mA"",""500 mA"",""5 mA"",""5 A""]",1
+"Four equal resistances are connected in parallel across a certain supply producing P power. How much power will be produced if the resistances are now connected in series across the same supply?","[""16P"",""P\/16"",""4P"",""P\/4""]",1
+"A resistor R is connected across a 120 V supply. A voltmeter of 10,000 ohms resistance is connected between the center of the resistor and one side of the supply and reads 40 V. What is the value of the resistance R?","[""10,000 \u03a9"",""20,000 \u03a9"",""30,000 \u03a9"",""40,000 \u03a9""]",1
+"A 240 V motor requiring 2,000 W is located 1 km from a power source. What diameter of copper wire is to be used if the power loss is to be kept 5%?","[""0.49 cm"",""0.54 cm"",""0.39 cm"",""0.35 cm""]",1
+"Three resistors of 10, 12 and “x” ohms, respectively are connected in parallel across a constant current source of 8 A. Determine “x” if this resistor draws 2.5 A.","[""10 \u03a9"",""12 \u03a9"",""13 \u03a9"",""11 \u03a9""]",1
+"An arc lamp takes 10 A at 50 volts. A resistance R is to be place in series so that the lamp my burn correctly from a 110 V supply. Find the power wasted in this resistor.","[""800 watts"",""600 watts"",""700 watts"",""900 watts""]",1
+"A 20 Ω and 10 Ω resistors are connected in parallel and a 5 Ω resistor is connected in series with the parallel combination. The circuit is connected across a 48 V source with an internal resistance of 0.2 Ω. Calculate the current through the 5 Ω resistor.","[""5.57 amperes"",""4.04 amperes"",""3.58 amperes"",""7.63 amperes""]",1
+"A variable resistor R is connected in parallel with a fixed resistor of 1.25 ohms. The combination is then connected across a 12 V battery with internal resistance of 0.25 Ω. Solve for the maximum power that can delivered to R.","[""130.20 W"",""115.52 W"",""120.21 W"",""142.42 W""]",2
+"Ohm’s law is not applicable to","[""copper"",""silver"",""silicon carbide"",""aluminum""]",2
+"The practical unit of electrical energy is","[""watt"",""kilowatt"",""kilowatt-hour"",""megawatt""]",2
+"A 100 watt lamp working for 20 hours will consume ____ units.","[""200"",""20"",""2"",""5""]",2
+"The hot resistance of an incandescent lamp is about ____ its cold resistance.","[""10 times"",""2 times"",""100 times"",""50 times""]",0
+"A d.c. circuit usually has ______ as the load.","[""resistance"",""inductance"",""capacitance"",""both inductance and capacitance""]",0
+"The purpose of load in an electric circuit is to ______.","[""increase the circuit current"",""utilize electrical energy"",""decrease the circuit current"",""none of these""]",1
+"Electrical appliances are not connected in series because ______.","[""series circuit is complicated"",""appliances have different current rating"",""power loss is more"",""none of these""]",1
+"Electrical appliances are connected in parallel because it ______.","[""is a simple circuit"",""draws less current"",""results in reduce in power loss"",""makes the operation of appliances independent of each other""]",3
+"Inductance and capacitance are not relevant in a d.c. circuit because ______.","[""frequency of d.c. is zero"",""it is a simple circuit"",""they do not exist in a d.c. circuit"",""none of these""]",0
+"The hot resistance of a 100 watt, 250 V incandescent lamp would be","[""2.5 ohms"",""625 ohms"",""25 ohms"",""none of these""]",1
+"When a number of resistances are connected in parallel, the total resistance is ______.","[""less than the smaller resistance"",""greater than the smaller resistance"",""between the smaller and greatest resistance"",""none of these""]",0
+"Two resistances of 6 ohms and 3 ohms are connected in parallel. The total resistance is ______.","[""9 ohms"",""18 ohms"",""0.5 ohm"",""2 ohms""]",3
+"If 18 resistances, each of value 36 ohms, are connected in parallel, then the total resistance is ______.","[""2 ohms"",""54 ohms"",""36 ohms"",""none of these""]",0
+"Two incandescent lamps of 100 W, 200 V are in parallel across 200 V supply. The total resistance will be ____.","[""800 ohms"",""200 ohms"",""400 ohms"",""600 ohms""]",1
+"Two equal resistances are connected in series across a certain supply. If the resistances are now connected in parallel across the same supply, the power produced will be ____ that of series connection.","[""two times"",""four times"",""one-half"",""one-fourth""]",1
+"A 100-W, 110-V and a 50-W lamp are connected in series across a 220-V dc source. If the resistances of the two lamps are assumed to remain constant, the voltage across the 100-W lamp is ____ volt.","[""110"",""73.3"",""146.7"",""220""]",0
+"What do you call a resistor that does not obey Ohm’s Law?","[""Potentiometer"",""Carbon-Film Resistor"",""Wire-Wound Type"",""Non-linear Resistor""]",3
+"A 100 W, 110 V and 50 W, 110 V lamps are connected in series across a 220 V DC source. If the resistances of the two lamps are assumed to remain constant, the voltage across the 100 W lamp is _____ volt?","[""110 V"",""73.3 V"",""146.7 V"",""220 V""]",1
+"A potential divider of resistance of 50 ohms is connected across a 100 V DC source. A load resistance of 10 ohms is connected across a tap in the potential divider and the negative terminal of the source. If a current of 4 A flows towards the load, what is the current supplied by the source?","[""5.32 A"",""5.05 A"",""5.21 A"",""5.48 A""]",1
+"Two resistors A and B made of different materials have temperature coefficients of resistance at 20°C of 0.004 and 0.006 respectively. When connected across a voltage source at 20°C, they draw current equally. What percentage of the total current at 100°C does resistor A carry?","[""47.14%"",""52.86%"",""61.34%"",""38.66%""]",1
+"A conductor has a resistance of 7 ohms at 0°C. At 20°C, the resistance has become 7.5 ohms. Calculate the temperature coefficient of the conductor at 20°C.","[""1\/300 \/\u00b0C"",""1\/400 \/\u00b0C"",""1\/500 \/\u00b0C"",""1\/600 \/\u00b0C""]",0
+"Which of the following is a non-linear element?","[""diode"",""heater coil"",""transistor"",""electric arc with unlike electrode""]",0
+"An electric kettle was marked 500 W, 230 V found to take 15 minutes to bring 1 kilogram of water at 15°C to boiling point. Determine the heat efficiency of the kettle.","[""79.1%"",""75.3%"",""72.4%"",""74.8%""]",0
+"A process equipment contains 100 gallons of water at 25°C. It is required to bring it to boiling in 10 minutes. The heat loss is estimated to be 5%. What is the kW rating of the heater?","[""125 kW"",""252 kW"",""50.5 kW"",""207 kW""]",3
+"A total of 0.8 kg of water at 20°C is placed in a 1-kW electric kettle. How long a time in minute is needed to raise the temperature of the water to 100°C?","[""4.46 min"",""5.32 min"",""5.34 min"",""4,.56 min""]",0
+"How many calories does an electric heater of 100 watts generate per second?","[""10"",""1000"",""23.88"",""42.25""]",2
+"The electric energy required to raise the temperature of water in a pool is 1000 kWh. If the heat losses are 25%, the heating energy required will be ______.","[""1111 kWh"",""1266 kWh"",""1750 kWh"",""1333 kWh""]",3
+"An electric heater carries 12 A at 110 V, is submerged in 22.5 lbs of water for 30 minutes. What will be the final temperature of the water if its initial temperature is 35°F?","[""135.43\u00b0F"",""125.42\u00b0F"",""133.56\u00b0F"",""128.33\u00b0F""]",0
+"In an electric heater the inlet temperature is 15°C. Water is flowing at the rate of 300 grams per minute. The voltmeter measuring voltage across the heating element reads 120 volts and an ammeter measuring current taken reads 10 amperes. When steady state is finally reached, what is the final reading of the outlet thermometer?","[""57.6\u00b0C"",""68.4\u00b0C"",""72.6\u00b0C"",""42.6\u00b0C""]",2
+"Four cubic meters of water is to be heated by means of four 1.5 kW, 230-V immersion heating elements. Assuming the efficiency of the heater as 90%, determine the time required in boiling the water if the initial temperature is 20°C and if all four elements are connected in parallel.","[""71 hrs"",""63 hrs"",""69 hrs"",""66 hrs""]",2
+"Four cubic meters of water is to be heated by means of four 1.5 kW, 230-V immersion heating elements. Assuming the efficiency of the heater as 90%, determine the time required in boiling the water if the initial temperature is 20°C and if the elements are connected two in series in parallel with two in series.","[""275.6 hrs"",""295.3 hrs"",""252.2 hrs"",""264.4 hrs""]",0
+"How many joules per second are then in 10 watts?","[""10"",""5"",""20"",""24.5""]",0
+"10<sup>13</sup> ergs/sec is equal to how many kilowatts?","[""1,000"",""250"",""100"",""10""]",0
+"What is 1 kW-hr in BTU?","[""4,186"",""3,413"",""746"",""1,000""]",1
+"What is the work in ergs needed to raise a 10 g weight 100 m up?","[""4.9 x 10<sup>5<\/sup>"",""9.8 x 10<sup>7<\/sup>"",""98 x 10<sup>7<\/sup>"",""1.96 x 10<sup>7<\/sup>""]",1
+"The quantity of heat required to raise the temperature of water by 1°C.","[""energy"",""specific heat"",""calorie"",""BTU""]",2
+"When heat is transferred into any other form of energy or when other forms of energy are converted into heat, the total amount of energy is constant. This is known as","[""First law of thermodynamics"",""Boyle\u2019s law"",""Specific heat"",""Isothermal expansion""]",0
+"What is 10<sup>12</sup> ergs/sec in kW?","[""100 kW"",""1,000 kW"",""10 kW"",""10,000 kW""]",0
+"An electric heater is used to heat up 600 grams of water. It takes 14 minutes to raise the temperature of water by 40°C. If the supply voltage is 220 volts, what is the power rating of the heater neglecting heat losses?","[""180 W"",""120 W"",""200 W"",""60 W""]",1
+"A 100 liter of water is heated from 20°C to 40°C. How many kWHR of electricity is needed assuming no heat loss?","[""4.2"",""2.3"",""5.6"",""3.7""]",1
+"Ten (10) kW is equal to ____ gram-cal/sec.","[""156"",""436"",""2,388"",""425""]",2
+"Two heaters A and B are in parallel across supply voltage V. Heater A produces 500 kcal in 20 minutes and B produces 1000 kcal in 10 minutes. The resistance of A is 10 ohms. What is the resistance of B, if the same heaters are connected in series voltage V?","[""4.5 ohms"",""2.5 ohms"",""4.5 ohms"",""0.14 ohm""]",1
+"In the SI system of units, the unit of force is","[""kg-wt"",""Newton"",""Joule"",""N-m""]",1
+"The basic unit of electric charge is","[""ampere-hour"",""watt-hour"",""coulomb"",""farad""]",2
+"The SI unit of energy is","[""Joule"",""kWh"",""kcal"",""m-kg""]",0
+"The SI unit of energy is","[""Joule"",""kWh"",""kcal"",""m-kg""]",0
+"Two heating elements, each of 230-V, 3.5 kW rating are first joined in parallel and then in series to heat same amount of water through the same range of temperature. The ratio of the time taken in the two cases would be","[""1:2"",""2:1"",""1:4"",""4:1""]",2
+"If a 220 V heater is used on 110 V supply, heat produced by it will be ____ as much","[""one-half"",""twice"",""one-fourth"",""four times""]",2
+"For a given line voltage, four heating coils will produce maximum heat when connected","[""all in parallel"",""all in series"",""with two parallel pairs in series"",""one pair in parallel with the other two in series""]",0
+"The electric energy required to raise the temperature of a given amount of water is 1000 kWh. If heat losses are 25%, the total heating energy required is ____ kWh.","[""1500"",""1250"",""1333"",""1000""]",2
+"One kWh of energy equals nearly","[""1000 W"",""860 kcal"",""4186 J"",""735.5 W""]",1
+"A force of 10,000 N accelerates a body to velocity 0.1 km/s. The power developed is ____ kW.","[""1,000,000"",""36,000"",""3600"",""1000""]",3
+"A 100 W light bulb burns on an average of 10 hours a day for one week. The weekly consumption of energy will be ____ unit/s.","[""7"",""70"",""0.7"",""0.07""]",0
+"Two heaters, rated at 1000 W, 250 volts each, are connected in series across a 250 volt, 50 Hz A.C. mains. The total power drawn from the supply would be ____ watt.","[""1000"",""500"",""250"",""2000""]",1
+"One watt is equal to ____.","[""4.19 cal\/sec"",""778 BTU\/sec"",""10<sup>7<\/sup> ergs\/sec"",""10<sup>-7<\/sup> ergs\/sec""]",2
+"The current in an electric lamp is 5 amperes. What quantity of electricity flows toward the filament in 6 minutes?","[""30 C"",""3600 C"",""72 C"",""1800 C""]",3
+"An electric heater is rated at 120 volts, 1000 watts and is used to boil water. Calculate the time in minutes to raise the temperature of 1 liter of water from 15°C to boiling. The heater has an over-all efficiency of 92%.","[""6.4 minutes"",""5.4 minutes"",""4.4 minutes"",""3.4 minutes""]",0
+"Four heaters having the same voltage rating will produce maximum heat if connected in","[""Series"",""Parallel"",""Series-Parallel"",""Parallel-Series""]",1
+"1000 kW is equal to how many is ergs/sec.","[""2 x 10<sup>13<\/sup>"",""1 x 10<sup>16<\/sup>"",""1 x 10<sup>13<\/sup>"",""2 x 10<sup>10<\/sup>""]",2
+"When current flows through heater coil, it glows but supply wiring does not glow because","[""supply wiring is covered with insulation wiring"",""current through supply line flows at slower speed"",""supply wires are made of superior material"",""resistance of heater coil is more than that of supply wire""]",3
+"A load of 10 ohms was connected to a 12-volt battery. The current drawn was 1.18 amperes. What is the internal resistance of the battery?","[""0.35 ohm"",""0.20 ohm"",""0.25 ohm"",""0.30 ohm""]",1
+"The electromotive force of a standard cell is measured with a potentiometer that gives a reading of 1.3562 V. When a 1.0 megaohm resistor is connected across the standard cell terminals, the potentiometer reading drops to 1.3560 V, what is the internal resistance of the standard cell?","[""174.5 ohms"",""145.7 ohms"",""147.5 ohms"",""157.4 ohms""]",2
+"If a resistor rated at 5 watts and 6 volts are connected across a battery with an open circuit voltage of 6 volts. What is the internal resistance of the battery if the resulting current is 0.8 A?","[""0.30 ohm"",""0.26 ohm"",""0.23 ohm"",""0.03 ohm""]",0
+"A 12 V battery of 0.05-ohm resistance and another battery of 12 V and 0.075 ohm resistance supply power to a 2-ohm resistor. What is the current through the load?","[""5.85 A"",""5.63 A"",""5.72 A"",""5.91 A""]",3
+"The lead batteries “A” and “B” are connected in parallel. “A” has an open circuit voltage of 12 V and an internal resistance of 0.2 ohm. Battery “B” has an open circuit voltage of 12.2 V and an internal resistance of 0.3 ohm. The two batteries together deliver power to a 0.5 ohm power resistor. Neglecting effects of temperature, how much current is contributed by battery “A”?","[""29.62 A"",""16.00 A"",""12.85 A"",""25.24 A""]",2
+"A charger, a battery and a load are connected in parallel. The voltage across the charger is 12.5 volts and the battery has an emf of 12 volts and internal resistance of 0.1 ohm. The load consists of a 2 ohms resistor. Find the current through the charger.","[""6.61 A"",""6.25 A"",""6.42 A"",""6.50 A""]",3
+"A lead storage battery is rated at 12 volts. If the internal resistance is 0.01 ohm, what is the maximum power that can be delivered to the load?","[""1,200 W"",""3,600 W"",""7,200 W"",""1,800 W""]",1
+"A 120-V battery having an internal resistance of 0.5 ohm is connected through a line resistance of 0.5 ohms to a variable load resistor. What maximum power will the battery deliver to the load resistor?","[""36 watts"",""63 watts"",""630 watts"",""360 watts""]",3
+"A 12 volts battery has a 50 ampere-hour capacity. The internal resistance is 0.1 ohm. A 5 ohm load is connected for 5 hours. How many ampere-hours are still left?","[""28.51"",""41.24"",""38.23"",""35.92""]",2
+"Two-24 volt battery supply power to a 20 ohm load. One battery has 0.2 ohm internal resistance while the other has 0.4 ohm. What power does the load draws?","[""28.4 W"",""22.2 W"",""30.8 W"",""18.6 W""]",0
+"Which statement is not true?","[""Secondary cell can be recharged"",""The internal resistance of a cell limits the amount of output current"",""The negative terminal of a chemical cell has a charge of excess electrons"",""Two electrodes of the same metal provide the highest voltage output""]",3
+"In the operation of dry cell we normally refer to the supply of current load resistance where its current neutralizes the separated charges at the electrodes.","[""Aligning the cells"",""Charging the cells"",""Discharging the cells"",""Polarizing the cells""]",2
+"Refers to a power source or cell which can be rechargeable","[""Battery"",""Secondary"",""Primary"",""Storage""]",1
+"In the operation of dry cell we normally refer to the supply of current load resistance where its current neutralizes the separated charges at the electrodes.","[""Aligning the cells"",""Charging the cells"",""Discharging the cells"",""Polarizing the cells""]",2
+"The part of the cell of the solution that acts upon the electrodes providing a path for electron flow","[""Container"",""Electrolyte"",""Sealing way"",""Electrolysis""]",1
+"Type of cell used mostly for emergency equipment. It is light, small, and has a large capacity of power for its size.","[""Ni-Cd cell"",""Silver-cadmium cell"",""Silver-zinc cell"",""Mercury cell""]",2
+"The purpose of cells connected in parallel is to_____.","[""increase internal resistance"",""increase in voltage output"",""decrease current capacity"",""increase in current capacity""]",3
+"Find the output of a four (4) lead acid cells.","[""3.2 V"",""8.4 V"",""5.8 V"",""1.6 V""]",1
+"How many silver zinc cells in series are needed for a 9 V battery?","[""9"",""6"",""3"",""7""]",1
+"_____ is the specific gravity reading for a good lead acid cell.","[""1170"",""1270"",""1070"",""1370""]",1
+"Refers to a power source or cell that is not rechargeable?","[""Secondary"",""Primary"",""Storage"",""Battery""]",1
+"Which of the following is not a primary type cell?","[""Zinc-chloride"",""Silver-zinc"",""Silver oxide"",""Carbon zinc""]",1
+"A battery should not be charged or discharged at a high current in order to avoid this defect.","[""Corrosion"",""Sedimentation"",""Buckling"",""Sulphation""]",2
+"It is a cell in which the chemical action finally destroys one of the electrons electrodes, usually the negative and cannot be recharged.","[""Dry cell"",""Secondary cell"",""Wet cell"",""Primary cell""]",3
+"Which of the following statements is not true?","[""Output of solar cell is normally 0.5 V"",""Edison cell is storage type"",""The Ni-Cd cell is primary type"",""Primary cells can be charged""]",2
+"Which of the following statements is not true?","[""A primary cell has irreversible chemical reaction"",""A carbon zinc cell has unlimited shelf life"",""A storage cell has irreversible chemical reaction"",""A lead acid cell can be recharged""]",1
+"A device that transforms chemical energy into electrical energy","[""Battery"",""Cell"",""Primary battery"",""Secondary battery""]",1
+"What is the effect of connecting battery cells in parallel?","[""Current decreases"",""Voltage increases"",""Voltage decreases"",""Current increases""]",3
+"Determine how long a battery will last whose rating is 100 Ah, 24 volts and will run a 300 watts electronic equipment and a 50 watts light.","[""6.85 hours"",""50.05 hours"",""26.65 hours"",""12.00 hours""]",0
+"The process of reversing the current flow through the battery to store the battery to its original condition","[""Electrolysis"",""Ionization"",""Reverse flow"",""Battery charge""]",3
+"The type of cell commonly referred to as “flashlight battery”","[""Nickel-cadmium battery"",""Mercury cell"",""Dry cell"",""Lead acid cell""]",2
+"How does a battery behave whose cells are connected in series?","[""Increase current supply"",""Reduces total voltage"",""Increases voltage supply"",""Reduces internal resistance""]",2
+"Another very useful cell to solar cells however the junction is bombarded by beta particles from radioactive materials","[""Alkaline cells"",""Nucleus cells"",""Selenium cells"",""Lithium cells""]",2
+"The continuation of current flow within the cell there is no external load","[""Local action"",""Polarization"",""Self-discharge"",""Electrolysis""]",2
+"Type of power source in electronics that cannot be recharged after it has delivered its rated capacity","[""Cells"",""Primary cells"",""Battery"",""Secondary cells""]",1
+"Which has the largest diameter of the following dry cells?","[""Type C"",""Type AA"",""Type AAA"",""Type D""]",3
+"How many nickel-cadmium cells are needed in series for a 10 V battery?","[""8"",""12"",""5"",""10""]",0
+"Current in a chemical cell refers to the movement of _____.","[""Negative ions only"",""Negative and positive ions"",""Positive ions only"",""Negative hole charge""]",1
+"Find the output of a two (2) lead acid cells.","[""0.952 V"",""2.1 V"",""3.2 V"",""4.2 V""]",3
+"The liquid solution that forms ion charges in a lead acid battery","[""Electrolyte"",""Hydrochloric acid"",""Sulfuric acid"",""Nitric acid""]",0
+"Single device that converts chemical energy into electrical energy is called","[""Battery"",""Generator"",""Solar"",""Cell""]",3
+"There are _____ identical cells in parallel needed to double the current reading of each cells.","[""3"",""4"",""2"",""1""]",2
+"What is the effect of connecting battery cells in series?","[""Voltage increases"",""Current increases"",""Voltage decreases"",""Current decreases""]",0
+"How long can a battery last with capacity of 50 ampere-hour running equipment of 5 amperes?","[""250 hours"",""25 hours"",""100 hours"",""10 hours""]",3
+"How long will a battery need to operate a 240-watt equipment, whose capacity is 100 Ah and 24 volts rating?","[""10 hours"",""5 hours"",""1 hour"",""0.10 hour""]",0
+"What is affected when a lead battery is overcharged?","[""Carbon"",""Grid"",""Plates"",""Electrolytes""]",2
+"Refers to an action in the operation of secondary cells reforming the electrodes in a chemical reaction where dc voltage is supplied externally.","[""Polarizing cells"",""Charging cells"",""Aligning cells"",""Discharging cells""]",1
+"What type of cell that cannot be recharged which cannot restore chemical reaction?","[""Primary cell"",""Secondary cell"",""Lead-acid wet cell"",""Nickel-cadmium cell""]",1
+"An ordinary flashlight battery is which of the following?","[""A load"",""A dry cell"",""A storage cell"",""A wet cell""]",1
+"Refers to dry storage cell carbon zinc.","[""cell"",""Edison cell"",""Mercury cell"",""Nickel cadmium cell""]",3
+"What is the other term of the secondary cells considering its capability to accept recharging?","[""Reaction cell"",""Primary cell"",""Storage cell"",""Dry cell""]",2
+"Find the required battery capacity needed to operate an equipment of 30 amperes at 5 hours.","[""6"",""30"",""3"",""150""]",3
+"When batteries have cells connected in series the effect is","[""Reduced output voltage"",""Increased current supply"",""Increased voltage supply"",""Reduced internal resistance""]",2
+"Find the required battery capacity needed to operate on electronic equipment with power rating of 200 watts and 10 volts at 6 hours.","[""60"",""1200"",""20"",""120""]",3
+"A cell(s) that can be operated or used in a horizontal, vertical or any position where its electrolyte cannot be spilled in any position","[""Primary cells"",""Secondary cells"",""Dry cells"",""Battery""]",0
+"It is an indication of the current supplying capability of the battery for a specific period of time, e.g. 400 ampere-hour.","[""Rating"",""Capacity"",""Capability"",""Current load""]",1
+"Which of the following is not a secondary type cell?","[""Lithium"",""Lead-acid"",""Silver cadmium"",""Silver-zinc""]",0
+"How many lithium cells in series are needed for a 12 V battery?","[""12 cells"",""4 cells"",""8 cells"",""10 cells""]",1
+"Component of solar battery which uses light energy to produce electromagnetic force","[""Alkaline cell"",""Polymer cell"",""Lithium cell"",""Selenium cell""]",3
+"If a dry cell has an internal resistance of 0.50 ohm and emf of 2 volts, find power delivered in a one ohm resistor.","[""1.33 watts"",""1.66 watts"",""3.66 watts"",""1.77 watts""]",0
+"Parallel cells have the same voltage as one cell but have _____.","[""Unstable resistance"",""Less current capability"",""Fluctuating power output"",""More current capacity""]",3
+"A battery with capacity of 100 Ah and 12 volts rating will run an electronic equipment at exactly 20 hours, how much power is needed?","[""60 watts"",""20 watts"",""10 watts"",""30 watts""]",0
+"It is the output voltage of a carbon-zinc cell.","[""3.5 V"",""2.5 V"",""1.5 V"",""0.5 V""]",2
+"What is the reason why more cells can be stored in a given area with dynamic cells?","[""They consume less power"",""They are smaller"",""They are larger"",""They travel faster""]",1
+"A radio equipment will be used at 70% at 50 amperes rating for 5 hours. How much capacity of dry battery is needed?","[""35"",""17.5"",""250"",""175""]",3
+"The potential at the terminals of the battery falls from 9 V on open circuit to 6 volts when a resistor of 10 ohms is connected across its terminals. What is the internal resistance of the battery?","[""5 \u03a9"",""4 \u03a9"",""3 \u03a9"",""2 \u03a9""]",0
+"A battery is formed of five cells joined in series. When the external resistance is 4 ohms, the current is 1.5 A and when the external resistance is 9 ohms, the current falls to 0.75 A. Find the internal resistance of each cell.","[""0.5 ohm"",""1.0 ohm"",""0.2 ohm"",""0.3 ohm""]",2
+"A 12 V source with 0.05 Ω resistance is connected in series with another 12 volt with 0.075 Ω resistance with a load of 2 Ω. Calculate the power dissipated in the load.","[""365 watts"",""127 watts"",""105 watts"",""255 watts""]",3
+"A 24 V source with 0.05 Ω resistance is connected in parallel with another 24 V with 0.075 Ω resistance to a load of 2 Ω. Calculate the current delivered by the source with a 0.05 Ω resistor.","[""7 amperes"",""10 amperes"",""5 amperes"",""12 amperes""]",0
+"A battery can deliver 10 joules of energy to move 5 coulombs of charge. What is the potential difference between the terminals of the battery?","[""2 V"",""50 V"",""0.5 V"",""5 V""]",0
+"An ordinary dry cell can deliver about ____ continuously.","[""3 A"",""2 A"",""1\/8 A"",""none of these""]",2
+"Cells are connected in series when ____ is required.","[""high voltage"",""high current"",""high voltage as well as high current"",""none of these""]",0
+"Cells are connected in series–parallel when ____ is required.","[""high current"",""high voltage"",""high current as well a high voltage"",""none of these""]",2
+"Four cells, each of internal resistance 1 ohm, are connected in parallel. The battery resistance will be ____.","[""4 ohms"",""0.25 ohm"",""2 ohms"",""1 ohm""]",1
+"The e.m.f. of a cell depends upon ____.","[""nature of electrodes and electrolyte"",""size of electrodes"",""spacing between electrodes"",""none of these""]",0
+"In order to get maximum current in series – parallel grouping, the external resistance should be ____ the total internal resistance of the battery.","[""less than"",""more than"",""equal to"",""none of these""]",2
+"The positive terminal of a 6-V battery is connected to the negative terminal of a 12-V battery whose positive terminal is grounded. The potential at the negative terminal of the 6V battery is ____ volt.","[""+18"",""\u201312"",""-6"",""-18""]",3
+"The positive terminal of a 6-V battery is connected to the negative terminal of a 12-V battery whose positive terminal is grounded. The potential at the positive terminal of the 6-V battery is ____ volt.","[""+6"",""-6"",""-12"",""+12""]",2
+"Active materials of a lead-acid cell are","[""lead peroxide"",""sponge lead"",""dilute sulfuric acid"",""all of these""]",3
+"During the charging of lead-acid cell","[""its cathode becomes dark chocolate brown in colour"",""its voltage increases"",""it gives out energy"",""specific gravity of H<sub>2<\/sub>SO<sub>4<\/sub> is decreased""]",1
+"The ratio of Ah efficiency to Wh efficiency of a leadacid cell is","[""always less than one"",""just one"",""always greater than one"",""either A or B""]",2
+"The capacity of a cell is measured in","[""watt-hours"",""watts"",""amperes"",""ampere-hours""]",3
+"The capacity of a lead-acid cell does NOT depend on its","[""rate of charge"",""rate of discharge"",""temperature"",""quantity of active materials""]",0
+"As compared to constant-current system, the constant-voltage system of charging a lead-acid cell has the advantage of","[""avoiding excessive gassing"",""reducing time of charging"",""increasing cell capacity"",""both B and C""]",3
+"Sulphation in a lead-acid battery occurs due to","[""trickle charging"",""incomplete charging"",""heavy discharging"",""fast charging""]",1
+"The active materials of a nickel-iron battery are","[""nickel hydroxide"",""powdered iron and its oxides"",""21% solution of caustic potash"",""all of these""]",3
+"During charging and discharging of a nickel-iron cell","[""its e.m.f. remains constant"",""water is neither formed nor absorbed"",""corrosive fumes are produced"",""nickel hydroxide remains unsplit""]",1
+"As compared to a lead-acid cell, the efficiency of a nickel-iron cell is less due to its","[""lower e.m.f."",""smaller quantity of electrolyte used"",""higher internal resistance"",""compactness""]",2
+"Trickle charging of a storage battery helps to","[""prevent sulphation"",""keep it fresh and fully charged"",""maintain proper electrolyte level"",""increase its reserve capacity""]",1
+"A dead storage battery can be revived by","[""a dose of H<sub>2<\/sub>SO<sub>4<\/sub>"",""adding so-called battery restorer"",""adding distilled water"",""none of these""]",3
+"The sediment which accumulates at the bottom of a lead-acid battery consist largely of","[""lead-peroxide"",""lead-sulphate"",""antimony-lead alloy"",""graphite""]",2
+"The reduction of battery capacity at high rates of discharge is primarily due to","[""increase in its internal resistance"",""decrease in its terminal voltage"",""rapid formation of PbSO<sub>4<\/sub> on the plates"",""non-diffusion of acid to the inside active materials""]",2
+"Floating battery system are widely used for","[""power stations"",""emergency lighting"",""telephone exchange installation"",""all of these""]",3
+"Any charge given to the battery when taken off the vehicle is called","[""bench charge"",""step charge"",""float charge"",""trickle charge""]",0
+"Storage battery electrolyte is formed by the dissolving of ____ acid in water.","[""hydrochloric"",""sulfuric"",""acetic"",""atric""]",1
+"A 24 V battery of internal resistance r = 4 Ω is connected to a variable resistance R, the rate of heat dissipation in the resistor is maximum when the current drawn from the battery is I. Current drawn from the battery will be I/2 when R is equal to","[""8 \u2126"",""12 \u2126"",""16 \u2126"",""20 \u2126""]",1
+"What is the other term used for rechargeable battery?","[""primary"",""lead-acid"",""storage"",""nickel-cadmium""]",2
+"A circuit consisting of three resistors rated: 10 ohms, 15 ohms and 20 ohms are connected in delta. What would be the resistance of the equivalent wye connected load?","[""0.30, 0.23 &amp; 0.15 ohm"",""3.0, 4.0 &amp; 5.0 ohms"",""3.33, 4.44 &amp; 6.66 ohms"",""5.77, 8.66 &amp; 11.55 ohms""]",2
+"The equivalent wye element of a 3 equal resistors each equal to R and connected in delta is","[""R"",""3R\/2"",""R\/3"",""3R""]",2
+"A Barangay power station supplies 60 kW to a load over 2,500 ft, 100 mm<sup>2</sup>, two-conductor copper feeder, the resistance of which is 0.078 ohm per 1000 ft. The bus bar voltage is maintained constant at 600 V. Determine the load current.","[""105 A"",""108 A"",""110 A"",""102 A""]",1
+"An LRT car, 5 km distance from the Tayuman station, takes 100 A over a 100 mm hard drawn copper trolley wire having a resistance of 0.270 ohm per km. The rail and ground return has a resistance of 0.06 ohm per km. If the station voltage is 750 V, what is the voltage of the car?","[""585 V"",""590 V"",""595 V"",""580 V""]",0
+"The LRT trolley system 10 miles long is fed by two substations that generate 600 volts and 560 volts, respectively. The resistance of the trolley wire and rail return is 0.3 ohm per mile. If the car is located 4 miles from the 600 volt station draws 200 A from the line. How much is the current supplied by each station?","[""133.33 A, 66.67 A"",""123.67 A, 76.33 A"",""117.44 A, 82.56 A"",""125.54 A, 63.05 A""]",0
+"In Manila, the LRT runs between Gil Puyat Station and Tayuman Station, which is 4 km apart and maintains voltages of 420 volts and 410 volts respectively. The resistance of go and return is 0.05 ohm per km. The train draws a constant current of 300 A while in motion. What are the currents supplied by the two stations if the train is at the distance of minimum potential?","[""175 A, 125 A"",""183 A, 117 A"",""164 A, 136 A"",""172 A, 123 A""]",0
+"An LRT car, 5 km distance from the Tayuman station, takes 100 A over a 100 mm hard drawn copper trolley wire having a resistance of 0.270 ohm per km. The rail and ground return has a resistance of 0.06 ohm per km. If the station voltage is 750 V, what is the efficiency of transmission?","[""78%"",""81%"",""74%"",""79%""]",0
+"A barangay power station supplies 60 kW to a load over 2,500 ft of 0002-conductor copper feeder the resistance of which is 0.078 ohm per 1,000 ft. The bus bar voltage is maintained constant at 600 volts. Determine the maximum power which can be transmitted.","[""220.35 kW"",""230.77 kW"",""242.73 kW"",""223.94 kW""]",1
+"Twelve similar wires each of resistance 2 ohms are connected so as to form a cube. Find the resistance between the two diagonally opposite corners.","[""1.45 ohms"",""1.66 ohms"",""2.01 ohms"",""1.28 ohms""]",1
+"Twelve similar wires each of resistance 2 ohms are connected so as to form a cube. Find the resistance between the two corners of the same edge.","[""1.133 ohms"",""1.102 ohms"",""1.125 ohms"",""1.167 ohms""]",3
+"Twelve identical wires each of resistance 6 ohms are arranged to form the edge of a cube. A current of 40 mA is led into the cube at one corner and out at the other diagonally opposite corners. Calculate the potential difference developed between these corners.","[""0.20 V"",""0.28 V"",""0.22 V"",""0.24 V""]",0
+"In Kirchhoff’s current law, which terminal of a resistance element is assumed to be at a higher potential (more positive) than the other?","[""The terminal where the current exits the resistance elements"",""The terminal where the current enters the resistance elements"",""Either A or B can be arbitrarily selected"",""The terminal closest to the node being analyzed""]",1
+"According to Kirchhoff’s current law, what is the algebraic sum of all currents entering and exiting a node.","[""zero"",""a negative value"",""the algebraic sum of all currents"",""a positive value""]",0
+"Find the Thevenin’s impedance equivalent across R<sub>2</sub> of a linear close circuit having 10 volts supply in series with the resistors (R<sub>1</sub> = 100 ohms and R<sub>2</sub> =200 ohms).","[""6.66 ohms"",""6.666 kohms"",""66.6 ohms"",""666 ohms""]",2
+"What is a node?","[""A terminal point for a loop current"",""A connection point between two or more conductors"",""A formula"",""A mathematical fiction""]",1
+"If a resistance element is part of two loops, how many voltage drops must be calculated for that component?","[""Two"",""Three"",""One"",""None""]",0
+"How many nodes are needed to completely analyze a circuit according to Kirchhoff’s current law?","[""One"",""Two"",""One less than the total number of nodes in the circuit"",""All nodes in the circuit""]",3
+"Find the Thevenin’s impedance equivalent across R<sub>2</sub> of a linear close circuit having 10 volt supply in series with two resistors (R<sub>1</sub>=50 ohms and R<sub>2</sub> = 200 ohms).","[""400 ohms"",""40 ohms"",""4 ohms"",""4 kohms""]",1
+"In order to match the load to the generator means making load resistance ______.","[""lower than generator\u2019s internal resistance"",""increased to more generator\u2019s internal resistance"",""decreased"",""equal to generator\u2019s internal resistance""]",3
+"A circuit contains a 5 A current source in parallel with an 8 ohm resistor. What is the Thevenin’s voltage and Thevenin’s resistance of the circuit?","[""40 V, 8 \u03a9"",""5\/8 V, 40 \u03a9"",""5 V, 8 \u03a9"",""5\/8 V, 8 \u03a9""]",0
+"In the Norton’s equivalent circuit, the source is a","[""constant voltage source"",""constant current source"",""constant voltage, constant current"",""none of these""]",1
+"The superposition theorem requires as many circuits to be solved as there are","[""meshes"",""source"",""nodes"",""all of these""]",1
+"Three resistors of 6-ohm resistance are connected in delta. Inside the delta another 6-ohm resistors are connected in wye. Find its resistance between any two corners.","[""2 ohms"",""3 ohms"",""4 ohms"",""1 ohm""]",2
+"A 2-wire dc distribution line has sending end voltage of 240 V and total line resistance of 0.4 ohm. The maximum kW that can be transmitted by the line is ____.","[""108"",""72"",""36"",""144""]",2
+"An active element in a circuit is one which ____.","[""receives energy"",""supplies energy"",""both receives and supplies energy"",""none of these""]",1
+"An passive element in a circuit is one which ____.","[""supplies energy"",""receives energy"",""both receives and supplies energy"",""none of these""]",1
+"An electric circuit contains ____.","[""active elements only"",""passive element only"",""both active and passive elements"",""none of these""]",2
+"A linear circuit is one whose parameters (e.g. resistances etc.) ____.","[""change with change in current"",""change with change in voltage"",""do not change with change in voltage and current"",""none of these""]",2
+"The superposition theorem is used when the circuit contains","[""a single voltage source"",""a number of passive source"",""passive elements only"",""none of these""]",1

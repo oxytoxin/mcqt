@@ -1,0 +1,285 @@
+﻿question,choices,answer
+"A single resistor and a single capacitor can be connected to form a filter with a roll-off rate of","[""-20 dB\/decade"",""-40 dB\/decade"",""-6 dB\/decade"",""answers (a) and (c)""]",3
+"A band-pass response has","[""two critical frequencies"",""one critical frequency"",""a flat curve in the passband"",""a wide bandwidth""]",0
+"The lowest frequency passed by a low-pass filter is","[""1 Hz"",""0 Hz"",""10 Hz"",""dependent on the critical frequency""]",3
+"The quality factor (<i>Q</i>) of a band-pass filter depends on","[""the critical frequencies"",""only the bandwidth"",""the center frequency and the bandwidth"",""only the center frequency""]",2
+"The damping factor of an active filter determines","[""the voltage gain"",""the critical frequency"",""the response characteristic"",""the roll-off rate""]",2
+"A maximally flat frequency response is known as","[""Chebyshev"",""Butterworth"",""Bessel"",""Colpitts""]",1
+"The damping factor of a filter is set by","[""the negative feedback circuit"",""the positive feedback circuit"",""the frequency-selective circuit"",""the gain of the op-amp""]",0
+"The number of poles in a filter affect the","[""voltage gain"",""bandwidth"",""center frequency"",""roll-off rate""]",3
+"Sallen-Key low-pass filters are","[""single-pole filters"",""second-order filters"",""Butterworth filters"",""band-pass filters""]",1
+"In a high-pass filter, the roll-off occurs","[""above the critical frequency"",""below the critical frequency"",""during the mid range"",""at the center frequency""]",0
+"A two-pole Sallen-Key high-pass filter contains","[""one capacitor and two resistors"",""two capacitors and two resistors"",""a feedback circuit"",""answers (b) and (c)""]",3
+"A state-variable filter consists of","[""one op-amp with multiple-feedback paths"",""a summing amplifier and two integrators"",""a summing amplifier and two differentiators"",""three Butterworth stages""]",1
+"When the gain of a filter is minimum at its center frequency, it is","[""a band-pass filter"",""a band-stop filter"",""a notch filter"",""answers (b) and (c)""]",3
+"The high-frequency response of an amplifier is determined in part by","[""the gain-bandwidth product"",""the bypass capacitor"",""the internal transistor capacitances"",""the roll-off""]",2
+"The Miller input capacitance of an amplifier is dependent, in part, on","[""the input coupling capacitor"",""the voltage gain"",""the bypass capacitor"",""none of these""]",1
+"The decibel is used to express","[""power gain"",""voltage gain"",""attenuation"",""all of these""]",3
+"When the voltage gain is 70.7% of its midrange value, it is said to be","[""attenuated"",""down 6 dB"",""down 3 dB"",""down 1 dB""]",2
+"In an amplifier, the gain that occurs between the lower and upper critical frequencies is called the","[""critical gain"",""midrange gain"",""bandwidth gain"",""decibel gain""]",1
+"A certain amplifier has a voltage gain of 100 at midrange. If the gain decreases by 6 dB, it is equal to","[""50"",""70.7"",""0"",""20""]",0
+"The gain of a certain amplifier decreases by 6 dB when the frequency is reduced from 1 kHz to 10 Hz. The roll-off is","[""-3dB\/decade"",""-6dB\/decade"",""-3dB\/octave"",""-6dB\/octave""]",0
+"The gain of a particular amplifier at a given frequency decreases by 6 dB when the frequency is doubled. The roll-off is","[""-12dB\/decade"",""-20dB\/decade"",""-6dB\/octave"",""answers (b) and (c)""]",3
+"The lower critical frequency of a direct-coupled amplifier with no bypass capacitor is","[""variable"",""0 Hz"",""dependent on the bias"",""none of these""]",1
+"At the upper critical frequency, the peak output voltage of a certain amplifier is 10 V. The peak voltage in the midrange of the amplifier is","[""7.07 V"",""6.37 V"",""14.14 V"",""10 V""]",2
+"The high-frequency response of an amplifier is determined by the","[""coupling capacitors"",""bias circuit"",""transistor capacitances"",""all of these""]",2
+"The Miller input and output capacitances for a BJT inverting amplifier depend on","[""<i>Cbc<\/i>"",""\u03b2<i>ac<\/i>"",""<i>Av<\/i>"",""answers (a) and (c)""]",3
+"The bandwidth of an amplifier is determined by","[""the midrange gain"",""the critical frequencies"",""the roll-off rate"",""the input capacitance""]",1
+"An amplifier has the following critical frequencies: 1.2 kHz, 950 Hz, 8 kHz, and 8.5 kHz. The bandwidth is","[""7550 Hz"",""7300 Hz"",""6800 Hz"",""7050 Hz""]",2
+"Ideally, the midrange gain of an amplifier","[""increases with frequency"",""decreases with frequency"",""remains constant with frequency"",""depends on the coupling capacitors""]",2
+"The frequency at which an amplifier’s gain is 1 is called the","[""unity-gain frequency"",""midrange frequency"",""corner frequency"",""break frequency""]",0
+"When the voltage gain of an amplifier is increased, the bandwidth","[""is not affected"",""increases"",""decreases"",""becomes distorted""]",2
+"If the <i>fT </i>of the transistor used in a certain amplifier is 75 MHz and the bandwidth is 10 MHz, the voltage gain must be","[""750"",""7.5"",""10"",""1""]",1
+"In the midrange of an amplifier’s bandwidth, the peak output voltage is 6 V. At the lower critical frequency, the peak output voltage is","[""3 V"",""3.82 V"",""8.48 V"",""4.24 V""]",3
+"The dominant lower critical frequency of a multistage amplifier is the","[""lowest <i>fcl<\/i>"",""highest <i>fcl<\/i>"",""average of all the <i>fcl<\/i>\u2019s"",""none of these""]",1
+"When the critical frequencies of all of the stages are the same, the dominant critical frequency is","[""higher than any individual <i>fcl<\/i>"",""lower than any individual <i>fcl<\/i>"",""equal to the individual <i>fcl<\/i>\u2019s"",""the sum of all individual <i>fcl<\/i>\u2019s""]",0
+"In the step response of a noninverting amplifier, a longer rise time means","[""a narrower bandwidth"",""a lower <i>fcl<\/i>"",""a higher <i>fcu<\/i>"",""answers (a) and (b)""]",0
+"The parameter <i>hfe </i>corresponds to","[""<em>\u03b2dc<\/em>"",""<em>\u03b2ac<\/em>"",""<i>r\u2019e<\/i>"",""<i>r\u2019c<\/i>""]",1
+"If the dc emitter current in a certain transistor amplifier is 3 mA, the approximate value of is","[""3k\u2126"",""3\u2126"",""8.33\u2126"",""0.33\u2126""]",2
+"A certain common-emitter amplifier has a voltage gain of 100. If the emitter bypass capacitor is removed,","[""the circuit will become unstable"",""the voltage gain will decrease"",""the voltage gain will increase"",""the Q-point will shift""]",1
+"Assuming that <i>R</i>E is completely bypassed at the operating frequency, the voltage gain is","[""66.7"",""2.56"",""2.47"",""75""]",0
+"If a 10 mV signal is applied to the base of the emitter-follower circuit in Question 9, the output signal is approximately","[""100 mV"",""150 mV"",""1.5 V"",""10 mV""]",3
+"In a certain emitter-follower circuit, the current gain is 50. The power gain is approximately","[""50<i>AV<\/i>"",""50"",""1"",""answers (a) and (b)""]",3
+"The input resistance of a common-base amplifier is","[""very low"",""very high"",""the same as a CE"",""the same as a CC""]",0
+"Each stage of a four-stage amplifier has a voltage gain of 15. The overall voltage gain is","[""60"",""15"",""50,625"",""3078""]",2
+"A differential amplifier","[""is used in op-amps"",""has one input and one output"",""has two outputs"",""answers (a) and (c)""]",3
+"The zero-level detector is one application of a","[""comparator"",""differentiator"",""summing amplifier"",""diode""]",0
+"Noise on the input of a comparator can cause the output to","[""hang up in one state"",""go to zero"",""change back and forth erratically between two states"",""produce the amplified noise signal""]",2
+"A comparator with hysteresis","[""has one trigger point"",""has two trigger points"",""has a variable trigger point"",""is like a magnetic circuit""]",1
+"In a comparator with hysteresis,","[""a bias voltage is applied between the two inputs"",""only one supply voltage is used"",""a portion of the output is fed back to the inverting input"",""a portion of the output is fed back to the noninverting input""]",3
+"Using output bounding in a comparator","[""makes it faster"",""keeps the output positive"",""limits the output levels"",""stabilizes the output""]",2
+"In a scaling adder, the input resistors are","[""all the same value"",""all of different values"",""each proportional to the weight of its input"",""related by a factor of two""]",2
+"In an ideal integrator, the feedback element is a","[""resistor"",""capacitor"",""zener diode"",""voltage divider""]",1
+"For a step input, the output of an integrator is","[""a pulse"",""a triangular waveform"",""a spike"",""a ramp""]",3
+"The rate of change of an integrator’s output voltage in response to a step input is set by","[""the <i>RC <\/i>time constant"",""the amplitude of the step input"",""the current through the capacitor"",""all of these""]",3
+"In a differentiator, the feedback element is a","[""resistor"",""capacitor"",""zener diode"",""voltage divider""]",0
+"The output of a differentiator is proportional to","[""the <i>RC <\/i>time constant"",""the rate at which the input is changing"",""the amplitude of the input"",""answers (a) and (b)""]",3
+"When you apply a triangular waveform to the input of a differentiator, the output is","[""a dc level"",""an inverted triangular waveform"",""a square waveform"",""the first harmonic of the triangular waveform""]",2
+"In a pnp transistor, the p region are","[""In a pnp transistor, the p region are"",""base and emitter"",""base and collector"",""emitter and collector""]",2
+"For operation as an amplifier, the base of an npn transistor must be","[""positive with respect to the emitter"",""positive with respect to the collector"",""negative with respect to the emitter"",""0V""]",0
+"The emitter current is always","[""greater than the base current"",""less than the collector current"",""greater than the collector current"",""answers (a) and (c)""]",3
+"The <em>βdc</em> of a transistor is its","[""current gain"",""voltage gain"",""power gain"",""internal resistance""]",0
+"If <i>I</i>c is 50 times larger than <i>I</i>b, then <em>βdc</em> is","[""0.02"",""100"",""50"",""500""]",2
+"The approximate voltage across the forward-biased base-emitter junction of silicon BJT is","[""0V"",""0.7"",""0.3"",""VBB""]",1
+"The bias condition for a transistor to be used as a linear amplifier is called","[""forward-reverse"",""forward-forward"",""reverse-reverse"",""collector bias""]",0
+"If the output of a transistor amplifier is 5V rms and the input is 100mV rms, the voltage gain is","[""5"",""500"",""50"",""100""]",2
+"When a lowercase <i>r’</i> is used in relation to a transistor, it refers to","[""a low resistance"",""a wire resistance"",""an internal ac resistance"",""a source resistance""]",2
+"In a given transistor amplifier, Rc= 2.2 kΩ and <i>r’e</i> =20Ω, the voltage gain is","[""2.2"",""110"",""20"",""44""]",1
+"When operated in cutoff and saturation, the transistor acts like a","[""linear amplifier"",""switch"",""variable capacitor"",""variable resistor""]",1
+"In saturation, Vce is","[""0.7V"",""equal to Vcc"",""minimum"",""maximum""]",2
+"To saturate a BJT,","[""<i>I<\/i>b= <i>I<\/i>c(sat)"",""<i>I<\/i>b&gt;<i>I<\/i>c(sat)\/<em>\u03b2dc<\/em>"",""Vcc must be at least 10V"",""the emitter must be grounded""]",1
+"Once in saturation, a further increase in base current will","[""cause the collector current to increase"",""not affect the collector current"",""cause the collector current to decrease"",""turn the transistor off""]",1
+"In a phototransistor, base current is","[""set by a bias voltage"",""directly proportional to light intensity"",""inversely proportional to light intensity"",""not a factor""]",1
+"The relationship between the collector current and a light-generated base current is","[""<i>I<\/i>c= <em>\u03b2dc<\/em><i>I<\/i>\u03bb<b><\/b>"",""<i>I<\/i>c= <em>\u03b1dc<\/em><i>I<\/i>\u03bb<b><\/b>"",""<i>I<\/i>c= <i>\u03bb<\/i>\u03bb<b><\/b>"",""<i>I<\/i>c= <em>\u03b22dc<\/em><i>I<\/i>\u03bb<b><\/b>""]",0
+"An optocoupler usually consists of","[""two LEDs"",""an LED and a photodiode"",""an LED and a phototransistor"",""both (b) and (c)""]",3
+"In a transistor amplifier, if the base-emitter junction is open, the collector voltage is","[""Vcc"",""0V"",""floating"",""0.2V""]",0
+"A DMM measuring on open transistor junction shows","[""0V"",""0.7V"",""OL"",""Vcc""]",2
+"When a 60 Hz sinusoidal voltage is applied to the input of a half-wave rectifier, the output frequency is","[""120 Hz"",""30 Hz"",""60 Hz"",""0 Hz""]",2
+"The peak value of the input to a half-wave rectifier is 10 V. The approximate peak value of the output is","[""10 V"",""3.18 V"",""10.7 V"",""9.3 V""]",3
+"For the circuit in the previous question, the diode must be able to withstand a reverse voltage of","[""10 V"",""5 V"",""20 V"",""3.18 V""]",0
+"The average value of a full-wave rectified voltage with a peak value of 75 V is","[""53 V"",""47.8 V"",""37.5 V"",""23.9 V""]",1
+"When a 60 Hz sinusoidal voltage is applied to the input of a full-wave rectifier, the output frequency is","[""120 Hz"",""60 Hz"",""240 Hz"",""0 Hz""]",0
+"The total secondary voltage in a center-tapped full-wave rectifier is 125 V rms. neglecting the diode drop, the rms output voltage is","[""125 V"",""177 V"",""100 V"",""62.5 V""]",3
+"When the peak output voltage is 100 V, the PIV for each diode in a center-tapped full-wave rectifier is (neglecting the diode drop)","[""100 V"",""200 V"",""141 V"",""50 V""]",1
+"When the rms output voltage of a bridge full-wave rectifier is 20 V, the peak inverse voltage across the diodes is (neglecting the diode drop)","[""20 V"",""40 V"",""28.3 V"",""56.6 V""]",2
+"A certain power-supply filter produces an output with a ripple of 100 mV peak-to-peak and adc value of 20 V. The ripple factor is","[""0.05"",""0.005"",""0.00005"",""0.02""]",1
+"A 60 V peak full-wave rectified voltage is applied to a capacitor-input filter. If f = 120 Hz, RL= 10 kΩ, and C = 10µF, the ripple voltage is","[""0.6 V"",""6 mV"",""5.0 V"",""2.88 V""]",2
+"If the load resistance of a capacitor-filtered full-wave rectifier is reduced, the ripple voltage","[""increases"",""decreases"",""is not affected"",""has a different frequency""]",0
+"Line regulation is determined by","[""load current"",""zener current and load current"",""changes in load resistance and output voltage"",""changes in output voltage and input voltage""]",3
+"Load regulation is determined by","[""changes in load current and input voltage"",""changes in load current and output voltage"",""changes in load resistance and input voltage"",""changes in zener current and load current""]",1
+"In a certain biased limiter, the bias voltage is 5 V and the input is a 10 V peak sine wave. If the positive terminal of the bias voltage is connected to the cathode of the diode, the maximum voltage at the anode is","[""10 V"",""5 V"",""5.7 V"",""0.7 V""]",2
+"In a certain positive clamper circuit, a 120 V rms sine wave is applied to the input. The dc value of the output is","[""119.3 V"",""169 V"",""60 V"",""75.6 V""]",1
+"If the input voltage to a voltage tripler has an rms value of 12 V, the dc output voltage is approximately","[""36 V"",""50.9 V"",""33.9 V"",""32.4 V""]",1
+"In a rectifier circuit, if the secondary winding in the transformer opens, the output is","[""0 V"",""120 V"",""less than it should be"",""unaffected""]",0
+"If one of the diodes in a bridge full-wave rectifier opens, the output is","[""0 V"",""one-fourth the amplitude of the input voltage"",""a half-wave rectified voltage"",""a 120 Hz voltage""]",2
+"If you are checking a 60 Hz full-wave bridge rectifier and observe that the output has a 60 Hz ripple,","[""the circuit is working properly"",""there is an open diode"",""the transformer secondary is shorted"",""the filter capacitor is leaky""]",1
+"In a certain common-source (CS) amplifier, <i>Vds=</i> 3.2 Vrms and <i>Vgs</i> =280 mVrms. The voltage gain is","[""1"",""11.4"",""8.75"",""3.2""]",1
+"In a certain CS amplifier, RD = 1.0kΩ,RS = 560Ω, VDD = 10 V, AND gm = 4500 μS If the source resistor is completely bypassed, the voltage gain is","[""450"",""45"",""4.5"",""2.52""]",2
+"Ideally, the equivalent circuit of a FET contains","[""a current source in series with a resistance"",""a resistance between drain and source terminals"",""a current source between gate and source terminals"",""a current source between drain and source terminals""]",3
+"The value of the current source in Question 4 is dependent on the","[""transconductance and gate-to-source voltage"",""dc supply voltage"",""external drain resistance"",""answers (b) and (c)""]",0
+"A certain common-source amplifier has a voltage gain of 10. If the source bypass capacitor is removed,","[""the voltage gain will increase"",""the transconductance will increase"",""the voltage gain will decrease"",""the Q-point will shift""]",2
+"A CS amplifier has a load resistance of 10 kΩ and <i>R</i>D = 820Ω. If <i>gm </i> = 5 mS and <i>Vin = </i> 500 mV, the output signal voltage is","[""1.89 V"",""2.05 V"",""25 V"",""0.5 V""]",0
+"If the load resistance in Question 7 is removed, the output voltage will","[""stay the same"",""decrease"",""increase"",""be zero""]",2
+"A certain common-drain (CD) amplifier with RS= 1.0 kΩ has a transconductance of 6000 μS .The voltage gain is","[""1"",""0.86"",""0.98"",""6""]",1
+"The datasheet for the transistor used in a CD amplifier specifies <i>I</i>GSS = 5 nA at <i>V</i>GS = 10 V. If the resistor from gate to ground, <i>R</i>G, is 50MΩ, the total input resistance is approximately","[""50M\u2126"",""200M\u2126"",""40M\u2126"",""20.5M\u2126""]",0
+"The common-gate (CG) amplifier differs from both the CS and CD configurations in that it has a","[""much higher voltage gain"",""much lower voltage gain"",""much higher input resistance"",""much lower input resistance""]",3
+"much lower input resistance","[""If you are looking for both good voltage gain and high input resistance, you must use a"",""CS amplifier"",""CD amplifier"",""CG amplifier""]",0
+"A cascode amplifier consists of","[""a CD and a CS amplifier"",""a CS and a CG amplifier"",""a CG and a CD amplifier"",""two CG amplifiers""]",1
+"The class D amplifier is similar to","[""class C"",""class B"",""class A"",""none of these""]",3
+"The class D amplifier uses","[""frequency modulation"",""amplitude modulation"",""pulse-width modulation"",""duty cycle modulation""]",2
+"E-MOSFETs are generally used for switching applications because of their","[""threshold characteristic"",""high input resistance"",""linearity"",""high gain""]",0
+"A sampling circuit must sample a signal at a minimum of","[""one time per cycle"",""the signal frequency"",""twice the signal frequency"",""alternate cycles""]",2
+"The value of resistance emulated by a switched-capacitor circuit is a function of","[""voltage and capacitance"",""frequency and capacitance"",""gain and transconductance"",""frequency and transconductance""]",1
+"A basic CMOS circuit uses a combination of","[""<i>n<\/i>-channel MOSFETs"",""<i>p<\/i>-channel MOSFETs"",""<i>pnp <\/i>and <i>npn <\/i>BJTs"",""an <i>n<\/i>-channel and a <i>p<\/i>-channel MOSFET""]",3
+"CMOS is commonly used in","[""digital circuits"",""linear circuits"",""RF circuits"",""power circuits""]",0
+"If there is an internal open between the drain and source in a CS amplifier, the drain voltage is equal to","[""0 V"",""<i>V<\/i>DD"",""<i>V<\/i>GS"",""<i>V<\/i>GD""]",1
+"The channel of a JFET is between the","[""gate and drain"",""drain and source"",""gate and source"",""input and output""]",1
+"A JFET always operates with","[""the gate-to-source <i>pn <\/i>junction reverse-biased"",""the gate-to-source <i>pn <\/i>junction forward-biased"",""the drain connected to ground"",""the gate connected to the source""]",0
+"For <i>V</i>GS = 0 V, the drain current becomes constant when <i>V</i>DS exceeds","[""cutoff"",""<i>V<\/i>DD"",""<i>V<\/i>P"",""0 V""]",2
+"The constant-current region of a FET lies between","[""cutoff and saturation"",""cutoff and pinch-off"",""0 and <i>I<\/i>DSS"",""pinch-off and breakdown""]",3
+"<i>I</i>DSS is","[""the drain current with the source shorted"",""the drain current at cutoff"",""the maximum possible drain current"",""the midpoint drain current""]",2
+"Drain current in the constant-current region increases when","[""the gate-to-source bias voltage decreases"",""the gate-to-source bias voltage increases"",""the drain-to-source voltage increases"",""the drain-to-source voltage decreases""]",0
+"In a certain FET circuit, <i>V</i>GS = 0 V, <i>V</i>DD = 15 V, <i>I</i>DSS = 15 mA, and RD = 470Ω. If <i>R</i>D is decreased to 330Ω, <i>I</i>DSS is","[""19.5 mA"",""10.5 mA"",""15 mA"",""1 mA""]",2
+"At cutoff, the JFET channel is","[""at its widest point"",""completely closed by the depletion region"",""extremely narrow"",""reverse-biased""]",1
+"A certain JFET datasheet gives The pinch-off voltage, <i>V</i>P,","[""cannot be determined"",""is \u20134V"",""depends on <i>V<\/i>GS"",""is +4V""]",1
+"For a certain JFET, <i>I</i>GSS = 10 nA at <i>V</i>GS =10 V. The input resistance is","[""100 M\u2126"",""1 M\u2126"",""1000 M\u2126"",""1000 m\u2126""]",2
+"For a certain <i>p</i>-channel JFET, <i>V</i>GS(off ) = 8 V. The value of <i>V</i>GS for an approximate midpoint bias is","[""4 V"",""0 V"",""1.25 V"",""2.34 V""]",3
+"In a self-biased JFET, the gate is at","[""a positive voltage"",""0 V"",""a negative voltage"",""ground""]",1
+"The drain-to-source resistance in the ohmic region depends on","[""<i>V<\/i>GS"",""the Q-point values"",""the slope of the curve at the Q-point"",""all of these""]",3
+"To be used as a variable resistor, a JFET must be","[""an <i>n<\/i>-channel device"",""a <i>p<\/i>-channel device"",""biased in the ohmic region"",""biased in saturation""]",2
+"When a JFET is biased at the origin, the ac channel resistance is determined by","[""the Q-point values"",""<i>V<\/i>GS"",""the transconductance"",""answers (b) and (c)""]",3
+"A MOSFET differs from a JFET mainly because","[""of the power rating"",""the MOSFET has two gates"",""the JFET has a <i>pn <\/i>junction"",""MOSFETs do not have a physical channel""]",2
+"A D-MOSFET operates in","[""the depletion mode only"",""the enhancement mode only"",""the ohmic region only"",""both the depletion and enhancement modes""]",3
+"An <i>n</i>-channel D-MOSFET with a positive <i>V</i>GS is operating in","[""the depletion mode"",""the enhancement mode"",""cutoff"",""saturation""]",1
+"A certain <i>p</i>-channel E-MOSFET has a If <i>V</i>GS = 0 V, the drain current is","[""0 A"",""<i>I<\/i>D(on)"",""maximum"",""<i>I<\/i>DSS""]",0
+"In an E-MOSFET, there is no drain current until <i>V</i>GS","[""reaches <i>V<\/i>GS(th)"",""is positive"",""is negative"",""equals 0 V""]",0
+"All MOS devices are subject to damage from","[""excessive heat"",""electrostatic discharge"",""excessive voltage"",""all of these""]",3
+"An IGBT is generally used in","[""low-power applications"",""rf applications"",""high-voltage applications"",""low-current applications""]",2
+"An atom consists of","[""one nucleus and only one electron"",""one nucleus and one or more electrons"",""protons, electrons, and neutrons"",""answers (b) and (c)""]",3
+"The nucleus of an atom is made up of","[""protons and neutrons"",""electrons"",""electrons and protons"",""electrons and neutrons""]",0
+"Valence electrons are","[""in the closest orbit to the nucleus"",""in the most distant orbit from the nucleus"",""in various orbits around the nucleus"",""not associated with a particular atom""]",1
+"A positive ion is formed when","[""a valence electron breaks away from the atom"",""there are more holes than electrons in the outer orbit"",""two atoms bond together"",""an atom gains an extra valence electron""]",0
+"The most widely used semiconductive material in electronic devices is","[""germanium"",""carbon"",""copper"",""silicon""]",3
+"The difference between an insulator and a semiconductor is","[""a wider energy gap between the valence band and the conduction ban"",""the number of free electrons"",""the atomic structure"",""answers(a), (b), and (c)""]",3
+"The energy band in which free electrons exist is the","[""first band"",""second band"",""conduction band"",""valence band""]",2
+"In a semiconductor crystal, the atoms are held together by","[""the interaction of valence electrons"",""forces of attraction"",""covalent bonds"",""answers (a), (b), and (c)""]",3
+"The atomic number of silicon is","[""8"",""2"",""4"",""14""]",3
+"The atomic number of germanium is","[""8"",""2"",""4"",""32""]",3
+"The valence shell in a silicon atom has the number designation of","[""0"",""1"",""2"",""3""]",3
+"Each atom in a silicon crystal has","[""four valence electrons"",""four conduction electrons"",""eight valence electrons, four of its own and four shared"",""no valence electrons because all are shared with other atoms""]",2
+"Electron-hole pairs are produced by","[""recombination"",""thermal energy"",""ionization"",""doping""]",1
+"Recombination is when","[""an electron falls into a hole"",""and a negative ion bond together"",""a valence electron becomes a conduction electron"",""a crystal is formed""]",0
+"The current in a semiconductor is produced by","[""electrons only"",""holes only"",""negative ions"",""both electrons and holes""]",3
+"The process of adding an impurity to an intrinsic semiconductor is called","[""doping"",""recombination"",""atomic modification"",""ionization""]",0
+"A trivalent impurity is added to silicon to create","[""germanium"",""a p-type semiconductor"",""an n-type semiconductor"",""a depletion region""]",1
+"The purpose of a pentavalent impurity is to","[""reduce the conductivity of silicon"",""increase the number of holes"",""increase the number of free electrons"",""create minority carriers""]",2
+"The majority carriers in an n-type semiconductor are","[""holes"",""valence electrons"",""conduction electrons"",""protons""]",2
+"Holes in an n-type semiconductor are","[""minority carriers that are thermally produced"",""minority carriers that are produced by doping"",""majority carriers that are thermally produce"",""majority carriers that are produced by doping""]",0
+"A pn junction is formed by","[""the recombination of electrons and holes"",""ionization"",""the boundary of a p-type and an n-type material"",""the collision of a proton and a neutron""]",2
+"The depletion region is created by","[""ionization"",""diffusion"",""recombination"",""answers (a), (b), and (c)""]",3
+"The depletion region consists of","[""nothing but minority carriers"",""positive and negative ions"",""no majority carriers"",""answers(b) and (c)""]",3
+"The term <i>bias</i> means","[""the ratio majority carriers to minority carriers"",""the amount of current across a diode"",""a dc voltage is applied to control the operation of a device"",""neither (c), (c), nor (c)""]",2
+"To forward-bias a diode,","[""an external voltage is applied that is positive at the anode and negative at the cathode"",""an external voltage is applied that is negative at the anode and positive at the cathode"",""an external voltage is applied that is positive at the p region and positive at the n region"",""answers (a) and (c)""]",3
+"When a diode is forward-biased,","[""the only current is hole current"",""the only current is electron current"",""the only current is produced by majority carriers"",""the current is produced both holes and electrons""]",3
+"For a silicon diode, the value of the forward-bias voltage typically","[""must be greater than 0.3 V"",""must be greater than 0.7 V"",""depends on the width of the depletion region"",""depends on the concentration of majority carriers""]",1
+"When forward-biased, a diode","[""blocks current"",""conducts current"",""has high resistance"",""drops a large voltage""]",1
+"A diode is normally operated in","[""reverse breakdown"",""the forward-bias region"",""the reverse-bias region"",""either (b) or (c)""]",3
+"The dynamic resistance can be important when a diode is","[""reverse-biased"",""forward-biased"",""in reverse breakdown"",""unbiased""]",1
+"The <i>V-I</i> curve for a diode shows","[""the voltage across the diode for a given current"",""the amount of current for a given bias voltage"",""the power dissipation"",""none of these""]",0
+"Ideally, a diode can be represented by a","[""voltage source"",""resistance"",""switch"",""all of these""]",2
+"In the practical diode model,","[""the barrier potential is taken into account"",""the forward dynamic resistance is taken into account"",""none of these"",""both (a) and (b)""]",0
+"In the complete diode model,","[""the barrier potential is taken into account"",""the forward dynamic resistance is taken into account"",""the reverse resistance is taken into account"",""all of these""]",3
+"When a silicon diode is working properly in forward-bias, a DMM in the diode test position will indicate","[""0 V"",""OL"",""approximately 0.7 V"",""approximately 0.3 V""]",2
+"When a silicon diode is open, a DMM will generate indicate","[""0 V"",""OL"",""approximately 0.7 V"",""approximately 0.3V""]",1
+"One condition for oscillation is","[""a phase shift around the feedback loop of 180\u00b0"",""a gain around the feedback loop of one-third"",""a phase shift around the feedback loop of 0\u00b0"",""a gain around the feedback loop of less than 1""]",2
+"A second condition for oscillation is","[""no gain around the feedback loop"",""a gain of 1 around the feedback loop"",""the attenuation of the feedback circuit must be one-third"",""the feedback circuit must be capacitive""]",1
+"In a certain oscillator, The attenuation of the feedback circuit must be","[""1"",""0.01"",""10"",""0.02""]",3
+"For an oscillator to properly start, the gain around the feedback loop must initially be","[""1"",""less than 1"",""greater than 1"",""equal to <i>B<\/i>""]",2
+"Wien-bridge oscillators are based on","[""positive feedback"",""negative feedback"",""the piezoelectric effect"",""high gain""]",0
+"The Wien-bridge oscillator’s positive feedback circuit is","[""an <i>RL <\/i>circuit"",""an <i>LC <\/i>circuit"",""a voltage divider"",""a lead-lag circuit""]",3
+"A phase-shift oscillator has","[""three <i>RC <\/i>circuits"",""three <i>LC <\/i>circuits"",""a T-type circuit"",""a -type circuit""]",0
+"Colpitts, Clapp, and Hartley are names that refer to","[""types of <i>RC <\/i>oscillators"",""inventors of the transistor"",""types of <i>LC <\/i>oscillators"",""types of filters""]",2
+"The main feature of a crystal oscillator is","[""economy"",""reliability"",""stability"",""high frequency""]",2
+"An oscillator whose frequency is changed by a variable dc voltage is known as","[""a crystal oscillator"",""a VCO"",""an Armstrong oscillator"",""a piezoelectric device""]",1
+"The operation of a relaxation oscillator is based on","[""the charging and discharging of a capacitor"",""a highly selective resonant circuit"",""a very stable supply voltage"",""low power consumption""]",0
+"A certain class A power amplifier delivers 5 W to a load with an input signal power of 100 mW. The power gain is","[""100"",""50"",""250"",""5""]",1
+"The peak current a class A power amplifier can deliver to a load depends on the","[""maximum rating of the power supply"",""quiescent current"",""current in the bias resistors"",""size of the heat sink""]",1
+"For maximum output, a class A power amplifier must maintain a value of quiescent current that is","[""one-half the peak load current"",""twice the peak load current"",""at least as large as the peak load current"",""just above the cutoff value""]",0
+"A certain class A power amplifier has The maximum signal power output is","[""6 W"",""12 W"",""1 W"",""0.707 W""]",1
+"The efficiency of a power amplifier is the ratio of the power delivered to the load to the","[""input signal power"",""power dissipated in the last stage"",""power from the dc power supply"",""none of these answers""]",2
+"The maximum efficiency of a class A power amplifier is","[""25%"",""50%"",""79%"",""98%""]",0
+"The transistors in a class B amplifier are biased","[""into cutoff"",""in saturation"",""at midpoint of the load line"",""right at cutoff""]",3
+"Crossover distortion is a problem for","[""class A amplifiers"",""class AB amplifiers"",""class B amplifiers"",""all of these amplifiers""]",2
+"A BJT class B push-pull amplifier with no transformer coupling uses","[""two <i>npn <\/i>transistors"",""two <i>pnp <\/i>transistors"",""complementary symmetry transistors"",""none of these""]",2
+"A current mirror in a push-pull amplifier should give an <i>I</i>CQ that is","[""equal to the current in the bias resistors and diodes"",""twice the current in the bias resistors and diodes"",""half the current in the bias resistors and diodes"",""zero""]",0
+"The maximum efficiency of a class B push-pull amplifier is","[""25%"",""50%"",""79%"",""98%""]",2
+"The output of a certain two-supply class B push-pull amplifier has a <i>V</i>CC of 20 V. If the load resistance is the value of <i>Ic</i>(<i>sat</i>) is","[""5 mA"",""0.4 A"",""4 mA"",""40 mA""]",1
+"The maximum efficiency of a class AB amplifier is","[""higher than a class B"",""the same as a class B"",""about the same as a class A"",""slightly less than a class B""]",3
+"The power dissipation of a class C amplifier is normally","[""very low"",""very high"",""the same as a class B"",""the same as a class A""]",0
+"The efficiency of a class C amplifier is","[""less than class A"",""less than class B"",""less than class AB"",""greater than classes A, B, or AB""]",3
+"The transistor in a class C amplifier conducts for","[""more than 180 degree of the input cycle"",""one-half of the input cycle"",""a very small percentage of the input cycle"",""all of the input cycle""]",2
+"If a certain zener diode has a zener voltage of 3.6 V, it operates in","[""regulated breakdown"",""zener breakdown"",""forward conduction"",""avalanche breakdown""]",1
+"For a certain 12 V zener diode, 10 mA change in zener current produces a 0.1 V change in zener voltage. The zener impedance for this current range is","[""1\u2126"",""100\u2126"",""10\u2126"",""0.1\u2126""]",2
+"The datasheet for particular zener gives Vz = 10V at Iz = 500 mA. Zz for these condition is","[""50 \u2126"",""20 \u2126"",""10 \u2126"",""unknown""]",1
+"A no-load condition means that","[""the load has infinite resistance"",""the load has zero resistance"",""the output terminals are open"",""answers(a) and (c)""]",3
+"A varactor diode exhibits","[""a variable capacitance that depends on reverse voltage"",""a variable resistance that depends on reverse voltage"",""a variable capacitance that depends on forward current"",""a constant capacitance over a range of reverse voltages""]",0
+"An LED","[""emits light when reverse-biased"",""senses light when reverse-biased"",""emits light when forward-biased"",""acts as a variable resistance""]",2
+"Compared to a visible red LED, an infrared LED","[""produces light with shorter wavelengths"",""produces light of all wavelengths"",""produces only one color of light"",""produces light with longer wavelengths""]",3
+"Compared to incandescent bulbs, high-intensity LEDs","[""are brighter"",""have a much longer life"",""use less power"",""all of the above""]",3
+"An OLED differs from a conventional LED in that it","[""requires no bias voltage"",""as layers of organic material in the place of a pn junction"",""can be implemented using an inkjet printing process"",""both (b) and (c)""]",3
+"An infrared LED is optically coupled to a photodiode. When the LED is turned off, the reading on an ammeter in series with the reverse-biased photodiode will","[""not change"",""decrease"",""increase"",""fluctuate""]",1
+"The internal resistance of a photodiode","[""increases with light intensity when reverse-biased"",""decreases with light intensity when reverse-biased"",""increases with light intensity when forward-biased"",""decreases with light intensity when forward-biased""]",1
+"A laser diode produces","[""incoherent light"",""coherent light"",""monochromatic light"",""both (b) and (c)""]",3
+"A diode that has a negative resistance characteristic is the","[""Schottky diode"",""tunnel diode"",""laser diode"",""hot-carrier diode""]",1
+"Typically, an instrumentation amplifier has an external resistor used for","[""establishing the input impedance"",""setting the voltage gain"",""setting the current gain"",""interfacing with an instrument""]",1
+"Instrumentation amplifiers are used primarily in","[""high-noise environments"",""medical equipment"",""test instruments"",""filter circuits""]",0
+"The two parts of a basic isolation amplifier are","[""amplifier and filter"",""input stage and coupling stage"",""input stage and output stage"",""gain stage and offset stage""]",2
+"The stages of many isolation amplifiers are connected by","[""copper strips"",""a capacitor"",""microwave links"",""current loops""]",1
+"The characteristic that allows an isolation amplifier to amplify small signal voltages in the presence of much greater noise voltages is its","[""CMRR"",""high gain"",""high input impedance"",""magnetic coupling between input and output""]",0
+"The term <i>OTA </i>means","[""operational transistor amplifier"",""operational transformer amplifier"",""operational transconductance amplifier"",""output transducer amplifier""]",2
+"In an OTA, the transconductance is controlled by","[""the dc supply voltage"",""the input signal voltage"",""the manufacturing process"",""a bias current""]",3
+"The voltage gain of an OTA circuit is set by","[""a feedback resistor"",""the transconductance only"",""the transconductance and the load resistor"",""the bias current and supply voltage""]",2
+"An OTA is basically a","[""voltage-to-current amplifier"",""current-to-voltage amplifier"",""current-to-current amplifier"",""voltage-to-voltage amplifier""]",0
+"The operation of a logarithmic amplifier is based on","[""the nonlinear operation of an op-amp"",""the logarithmic characteristic of a <i>pn <\/i>junction"",""the reverse breakdown characteristic of a <i>pn <\/i>junction"",""the logarithmic charge and discharge of an <i>RC <\/i>circuit""]",1
+"If the input to an antilog amplifier is <i>x</i>, the output is proportional to","[""eln<i>x<\/i>"",""e<sup>x<\/sup>"",""ln <i>x<\/i>"",""e<sup><i>-x<\/i><\/sup>""]",1
+"A peak detector consists of","[""a comparator, a transistor, and a capacitor"",""a comparator, a diode, and a capacitor"",""a comparator, a diode, and an inductor"",""an integrator, a diode, and a capacitor""]",1
+"Which of the following characteristics does not necessarily apply to an op-amp?","[""High gain"",""Low power"",""High input impedance"",""Low output impedance""]",1
+"A differential amplifier","[""is part of an op-amp"",""has one input and one output"",""has two outputs"",""answers (a) and (c)""]",3
+"When an op-amp is operated in the single-ended differential mode,","[""the output is grounded"",""one input is grounded and a signal is applied to the other"",""both inputs are connected together"",""the output is not inverted""]",1
+"In the double-ended differential mode,","[""a signal is applied between the two inputs"",""the gain is 1"",""the outputs are different amplitudes"",""only one supply voltage is used""]",0
+"In the common mode,","[""both inputs are grounded"",""the outputs are connected together"",""an identical signal appears on both inputs"",""the output signals are in-phase""]",2
+"Common-mode gain is","[""very high"",""very low"",""always unity"",""unpredictable""]",1
+"If <i>Aol =</i> 3500 and <i>Acm </i>= 0.35, the CMRR is","[""1225"",""10,000"",""80 dB"",""answers (b) and (c)""]",3
+"With zero volts on both inputs, an op-amp ideally should have an output equal to","[""the positive supply voltage"",""the negative supply voltage"",""zero"",""the CMRR""]",2
+"Of the values listed, the most realistic value for open-loop gain of an op-amp is","[""1"",""2000"",""80 dB"",""100,000""]",3
+"A certain op-amp has bias currents of 50μA and 49.3μA. The input offset current is","[""700 nA"",""99.3\u03bcA"",""49.7\u03bcA"",""none of these""]",0
+"The output of a particular op-amp increases 8 V in 12μs. The slew rate is","[""96 V\/\u03bcs"",""0.67 V\/\u03bcs"",""1.5 V\/\u03bcs"",""none of these""]",1
+"The purpose of offset nulling is to","[""reduce the gain"",""equalize the input signals"",""zero the output error voltage"",""answers (b) and (c)""]",2
+"The use of negative feedback","[""reduces the voltage gain of an op-amp"",""makes the op-amp oscillate"",""makes linear operation possible"",""answers (a) and (c)""]",3
+"For an op-amp with negative feedback, the output is","[""equal to the input"",""increased"",""fed back to the inverting input"",""fed back to the noninverting input""]",2
+"A certain noninverting amplifier has an <i>Ri </i>of and an <i>Rf </i>of The closed-loop gain is","[""100,000"",""1000"",""101"",""100""]",2
+"If the feedback resistor in Question 16 is open, the voltage gain","[""increases"",""decreases"",""is not affected"",""depends on <i>Ri<\/i>""]",0
+"A certain inverting amplifier has a closed-loop gain of 25. The op-amp has an open-loop gain of 100,000. If another op-amp with an open-loop gain of 200,000 is substituted in the configuration, the closed-loop gain","[""doubles"",""drops to 12.5"",""remains at 25"",""increases slightly""]",2
+"A voltage-follower","[""has a gain of 1"",""is noninverting"",""has no feedback resistor"",""has all of these""]",3
+"Negative feedback","[""increases the input and output impedances"",""increases the input impedance and the bandwidth"",""decreases the output impedance and the bandwidth"",""does not affect impedances or bandwidth""]",1
+"Bias current compensation","[""reduces gain"",""reduces output error voltage"",""increases bandwidth"",""has no effect""]",1
+"The midrange open-loop gain of an op-amp","[""extends from the lower critical frequency to the upper critical frequency"",""extends from 0 Hz to the upper critical frequency"",""rolls off at 20 dB\/decade beginning at 0 Hz"",""answers (b) and (c)""]",1
+"The frequency at which the open-loop gain is equal to 1 is called","[""the upper critical frequency"",""the cutoff frequency"",""the notch frequency"",""the unity-gain frequency""]",3
+"Phase shift through an op-amp is caused by","[""the internal <i>RC <\/i>circuits"",""the external <i>RC <\/i>circuits"",""the gain roll-off"",""negative feedback""]",0
+"Each <i>RC </i>circuit in an op-amp","[""causes the gain to roll off at"",""causes the gain to roll off at"",""reduces the midrange gain by 3 dB"",""answers (a) and (b)""]",3
+"If a certain op-amp has a midrange open-loop gain of 200,000 and a unity-gain frequency of 5 MHz, the gain-bandwidth product is","[""200,000 Hz"",""5,000,000 Hz"",""1 x 1012 Hz"",""not determinable from the information""]",1
+"The bandwidth of an ac amplifier having a lower critical frequency of 1 kHz and an upper critical frequency of 10 kHz is","[""1 kHz"",""9 kHz"",""10 kHz"",""11 kHz""]",1
+"The bandwidth of a dc amplifier having an upper critical frequency of 100 kHz is","[""100 kHz"",""unknown"",""infinity"",""0 kHz""]",0
+"When negative feedback is used, the gain-bandwidth product of an op-amp","[""increases"",""decreases"",""stays the same"",""fluctuates""]",2
+"If a certain op-amp has a closed-loop gain of 20 and an upper critical frequency of 10 MHz, the gain-bandwidth product is","[""200 MHz"",""10 MHz"",""the unity-gain frequency"",""answers (a) and (c)""]",3
+"Common types of thyristors include","[""BJTs and SCRs"",""UJTs and PUTs"",""FETs and triacs"",""diacs and triacs""]",3
+"A 4-layer diode turns on when the anode-to-cathode voltage exceeds","[""0.7 V"",""the gate voltage"",""the forward-breakover voltage"",""the forward-blocking voltage""]",2
+"Once it is conducting, a 4-layer diode can be turned off by","[""reducing the current below a certain value"",""disconnecting the anode voltage"",""answers (a) and (b)"",""neither answer (a) nor (b)""]",2
+"An SCR differs from the 4-layer diode because","[""it has a gate terminal"",""it is not a thyristor"",""it does not have four layers"",""it cannot be turned on and off""]",0
+"In the forward-blocking region, the SCR is","[""reverse-biased"",""in the <i>off <\/i>state"",""in the <i>on <\/i>state"",""at the point of breakdown""]",1
+"The specified value of holding current for an SCR means that","[""the device will turn on when the anode current exceeds this value"",""the device will turn off when the anode current falls below this value"",""the device may be damaged if the anode current exceeds this value"",""the gate current must equal or exceed this value to turn the device on""]",1
+"The diac is","[""a thyristor"",""a bilateral, two-terminal device"",""like two parallel 4-layer diodes in reverse directions"",""answers (a), (b), and (c)""]",3
+"The triac is","[""like a bidirectional SCR"",""a four-terminal device"",""not a thyristor"",""answers (a) and (b)""]",0
+"The SCS differs from the SCR because","[""it does not have a gate terminal"",""its holding current is less"",""it can handle much higher currents"",""it has two gate terminals""]",3
+"The SCS can be turned on by","[""an anode voltage that exceeds forward-breakover voltage"",""a positive pulse on the cathode gate"",""a negative pulse on the anode gate"",""either (b) or (c)""]",3
+"The SCS can be turned off by","[""a negative pulse on the cathode gate and a positive pulse on the anode gate"",""reducing the anode current to below the holding value"",""answers (a) and (b)"",""a positive pulse on the cathode gate and a negative pulse on the anode gate""]",2
+"Which of the following is <i>not </i>a characteristic of the UJT?","[""intrinsic standoff ratio"",""negative resistance"",""peak-point voltage"",""bilateral conduction""]",3
+"The PUT is","[""much like the UJT"",""not a thyristor"",""triggered on and off by the gate-to-anode voltage"",""not a four-layer device""]",2
+"Ideally, a dc load line is a straight line drawn on the collector characteristic curves between","[""the Q-point and cutoff"",""the Q-point and saturation"",""<i>V<\/i>CE(cutoff) and <i>I<\/i>C(sat)"",""<i>IB <\/i>= 0 and <i>IB<\/i> = <i>I<\/i>C \/ <em>\u03b2dc<\/em>""]",2
+"The input resistance at the base of a biased transistor depends mainly on","[""<em>\u03b2dc<\/em>"",""<i>R<\/i>B"",""<i>R<\/i>E"",""<em>\u03b2dc <\/em>and <i>R<\/i>E""]",3
+"In a certain voltage-divider biased <i>npn </i>transistor, <i>V</i>B is 2.95 V. The dc emitter voltage is approximately","[""2.25 V"",""2.95 V"",""3.65 V"",""0.7 V""]",0
+"Voltage-divider bias","[""cannot be independent of <em>\u03b2dc<\/em>"",""can be essentially independent of <em>\u03b2dc<\/em>"",""is not widely used"",""requires fewer components than all the other methods""]",1
+"Emitter bias is","[""essentially independent of <em>\u03b2dc<\/em>"",""very dependent on"",""provides a stable bias point"",""answers (a) and (c)""]",3
+"In an emitter bias circuit, the emitter current","[""is 5.3 mA"",""is 2.7 mA"",""is 180 mA"",""cannot be determined""]",0
+"The disadvantage of base bias is that","[""it is very complex"",""it produces low gain"",""it is too beta dependent"",""it produces high leakage current""]",2
+"Collector-feedback bias is","[""based on the principle of positive feedback"",""based on beta multiplication"",""based on the principle of negative feedback"",""not very stable""]",2
+"In a voltage-divider biased <i>npn </i>transistor, if the upper voltage-divider resistor (the one connected to <i>V</i>CC) opens,","[""the transistor goes into cutoff"",""the transistor goes into saturation"",""the transistor burns out"",""the supply voltage is too high""]",0
+"In a voltage-divider biased <i>npn </i>transistor, if the lower voltage-divider resistor (the one connected to ground) opens,","[""the transistor is not affected"",""the transistor may be driven into cutoff"",""the transistor may be driven into saturation"",""the collector current will decrease""]",2
+"In the case of load regulation,","[""when the temperature varies, the output voltage stays constant"",""when the input voltage changes, the load current stays constant"",""when the load changes, the load current stays constant"",""when the load changes, the output voltage stays constant""]",3
+"The basic difference between a series regulator and a shunt regulator is","[""the amount of current that can be handled"",""the position of the control element"",""the type of sample circuit"",""the type of error detector""]",1
+"In a basic series regulator, is determined by","[""the control element"",""the sample circuit"",""the reference voltage"",""answers (b) and (c)""]",3
+"The main purpose of current limiting in a regulator is","[""protection of the regulator from excessive current"",""protection of the load from excessive current"",""to keep the power supply transformer from burning up"",""to maintain a constant output voltage""]",0
+"In a linear regulator, the control transistor is conducting","[""a small part of the time"",""half the time"",""all of the time"",""only when the load current is excessive""]",2
+"In a basic shunt regulator, is determined by","[""the control element"",""the sample circuit"",""the reference voltage"",""answers (b) and (c)""]",3
+"In a switching regulator, the control transistor is conducting","[""part of the time"",""all of the time"",""only when the input voltage exceeds a set limit"",""only when there is an overload""]",0
+"An external pass transistor is used for","[""increasing the output voltage"",""improving the regulation"",""increasing the current that the regulator can handle"",""short-circuit protection""]",2

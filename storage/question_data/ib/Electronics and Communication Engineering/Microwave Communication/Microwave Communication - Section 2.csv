@@ -1,0 +1,166 @@
+question,A,B,C,D,E,answer,explanation
+"<p>The directivity in a receiving antenna <ol style=""list-style-type: decimal; padding-bottom:10px;""><li style=""padding-top:10px;"">increases the intercept area in forward direction</li><li style=""padding-top:10px;"">reduces the noise picked up from other sources</li><li style=""padding-top:10px;"">provides a means of discriminating against undesired signals originating in directions other than in which the desired transmitter lies.</li></ol> Which of the above statements are correct?</p>",1 only,1 and 2 only,"1, 2 and 3",2 and 3 only,,C, <p>All the three are correct.</p> 
+<p><p><b>Assertion (A):</b>  PIN diode can be used as attenuator and limiter.</p><p><b>Reason (R):</b> PIN diode has a thin intrinsic layer.</p></p>,Both A and R are correct and R is correct explanation of A,Both A and R are correct but R is not correct explanation of A,A is correct but R is wrong,A is wrong but R is correct,,B," <p>A PIN diode has an intrinsic (<i>i</i>) layer between <i>p</i> and <i>n</i> layers. When reverse bias is applied depletion layers are formed at <i>p-i</i> and <i>i-n</i> junctions. </p>
+<p>The effective/width of depletion layer increases by the width of <i>i</i> layer. It can be used as a voltage controlled attenuator. </p>
+<p>At high frequencies the rectification effect ceases and impedance of diode is effectively that of <i>i</i> layer. </p>
+<p>This impedance varies with the applied bias. It is used in high frequency switching circuits, limiters, modulators etc.</p> "
+<p>The bunching action which occurs in multicavity klystron amplifier can be represented by Applegate diagram</p>,True,False,,,,A," <p>A Klystron is a vacuum tube used for generation/amplification of microwaves. </p>
+<p>An electron beam is produced by oxide coated indirectly heated cathode and is focussed and accelerated by focussing electrode. </p>
+<p>This beam is transmitted through a glass tube. The input cavity where the beam enters the glass tube is called buncher. </p>
+<p>As electrons move ahead they see an accelerating field for half cycle and retarding field for the other half cycle. </p>
+<p>Therefore, some electrons are accelerated and some are retarded. This process is called velocity modulation. </p>
+<p>The velocity modulation causes bunching of electrons. This bunching effect converts velocity modulation into density modulation of beam. </p>
+<p>The input is fed at buncher cavity and output is taken at catcher cavity. </p>
+<p>In a two cavity klystron only buncher and catcher cavity are used. In multi cavity klystron one or more intermediate cavities are also used. </p>
+<p>The features of a multicavity klystron are :</p>
+<p>1. Frequency range - 0.25 GHz to 100 GHz</p>
+<p>2. Power output - 10 kW to several hundred kW</p>
+<p>3. Power gain - 60 dB (nominal value)</p>
+<p>4. Efficiency - about 40%.</p>
+<p>A multicavity klystron is used in UHF TV transmitters, Radar transmitter and satellite communication.</p> "
+<p>The cut off wavelength in circular waveguide</p>,guide diameter,square of guide diameter,cube of guide diameter,square root of guide diameter,,A," <p>Some applications require dual polarization capability. Circular waveguide has this capability. </p>
+<p>These analysis uses cylindrical coordinates. </p>
+<p>In circular waveguide TE<sub>11</sub> mode has the lowest cut off frequency and is the dominant mode. </p>
+<p>If D is diameter of waveguide</p>
+<p>λ<i><sub>c</sub></i> = 1.706 D for TE<sub>11</sub> mode</p>
+<p>λ<i><sub>c</sub></i> = 1.029 D for TE<sub>21</sub> mode</p>
+<p>λ<i><sub>c</sub></i> = 0.82 D for TE<sub>01</sub> mode</p>
+<p>λ<i><sub>c</sub></i> = 1.306 D for TM<sub>01</sub> mode.</p> "
+<p>In Reflex Klystron oscillator the focussing electrode is at a high potential</p>,True,False,,,,B," <p>It uses a single cavity resonator for generating microwave oscillations. </p>
+<p>Its parts are electron gun, resonator, repeller and output coupling.</p>
+<p>It operates on the principle of positive feed back. </p>
+<p>The repeller electrode is at negative potential and sends the partially bunched electron beam back to resonator cavity. </p>
+<p>This positive feedback supports oscillations. Its feature are: </p>
+<p>1. Frequency range - 2 to 100 GHz</p>
+<p>2. Power output - 10 MW to about 2 W</p>
+<p>3. Efficiency - 10 - 20 %</p>
+<p>Its applications include radar receivers, local oscillator in microwave devices, oscillator for microwave measurements in laboratories etc.</p> "
+"<p>Consider the following statements <ol style=""list-style-type: decimal; padding-bottom:10px;""><li style=""padding-top:10px;"">Impedance of Gunn diode is about tens of ohms.</li><li style=""padding-top:10px;"">Impedance of Impatt diode is a few ohms.</li><li style=""padding-top:10px;"">Impedance of Impatt diode are of the same order.</li><li style=""padding-top:10px;"">Impedance of Impatt diode is more than that of Gunn diode.</li></ol> Which of the above statement are correct?</p>",all,1 and 2 only,"1, 2 and 3","1, 2 and 4",,B," <p>A Gunn diode uses GaAs which has a negative differential mobility, <i>i</i>.<i>e</i>., a decrease in carrier velocity with increase in electric field. </p>
+<p>This effects is called transferred electron effect. The impedance of a Gunn diode is tens of ohms.</p>
+<p>A Gunn diode oscillator has a resonant cavity, an arrangement to couple Gunn diode to cavity, biasing arrangement for Gunn diode and arrangement to couple RF power to load.</p>
+<p>Applications of Gunn diode oscillator include continuous wave radar, pulsed radar and microwave receivers. </p>
+<p>An Impatt diode has <i>n</i><sup>+</sup> - <i>p</i> - <i>i</i> - <i>p</i> <sup>+</sup> structure and is used with reverse bias. </p>
+<p>It exhibits negative resistance and operates on the principle of avalanche breakdown. Impatt diode circuits are classified as broadly tunable circuit, low Q circuit and high Q circuit. </p>
+<p>The impedance of Impatt diode is a few ohms. The word Impatt stands for Impact Avalanche Transit Time diode. </p>
+<p>The features of Impatt diode oscillator are : Frequency 1 to 300 GHz, Power output (0.5 W to 5 W for single diode circuit and upto 40 W for combination of several diodes), efficiency about 20%. </p>
+<p>Its applications include police radar systems, low power microwave transmitter etc.</p> "
+"<p>In high frequency circuits impedance matching can be done by <ol style=""list-style-type: decimal; padding-bottom:10px;""><li style=""padding-top:10px;"">open circuited stubs</li><li style=""padding-top:10px;"">short circuited stubs</li><li style=""padding-top:10px;""><img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/23-315-3.png""/>transformer</li></ol> Which of the above correct?</p>","1, 2 and 3",1 and 2 only,1 and 3 only,2 and 3 only,,A, <p>All the three can be used for impedance matching in high frequency circuits.</p> 
+<p>The directive gain of a transmitting antenna is proportional to</p>,its cross-sectional area,square of cross-sectional area,square root of cross-sectional area,cube root of cross-sectional area,,A," <p><img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/28-62.png""/> and is thus proportional to cross sectional area.</p> "
+"<p>In a loss line R<sub>L</sub> &lt; Z<sub>0</sub>, then</p>",Reflection coefficient is zero,Reflection coefficient is ∞,Reflection coefficient is negative,Reflection coefficient is positive,,C," <p><img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/29-210.png""/> Since R<sub>L</sub> &lt; Z<sub>0</sub>, <span class=""symbol"">r</span><i><sub>v</sub></i> is negative.</p> "
+<p><p><b>Assertion (A):</b> A backward wave oscillator can be used as a sweep generator.</p><p><b>Reason (R):</b> The frequency of oscillation of a backward wave oscillator can be changed by varying the voltage which controls the beam velocity.</p></p>,Both A and R are correct and R is correct explanation of A,Both A and R are correct but R is not correct explanation of A,A is correct but R is wrong,A is wrong but R is correct,,A," <p>It is somewhat similar to TWT and can deliver microwave power over a wide frequency band. </p>
+<p>It has an electron gun and a helix structure. However the interaction between electron beam and RF wave is different than in TWT. </p>
+<p>The growing RF wave travels in opposite direction to the electron beam. </p>
+<p>The frequency of wave can be changed by changing the voltage which controls the beam velocity. </p>
+<p>Moreover the amplitude of oscillations can be decreased continuously to zero by changing the beam current. </p>
+<p>It features are:</p>
+<p>1. Frequency range - 1 GHz to 1000 GHz.</p>
+<p>2. Power output - 10 mV to 150 mW (continuous wave) 250kW (pulsed).</p>
+<p>It is used as signal source in transmitters and instruments.</p> "
+"<p>If a line having Z<sub>0</sub> = 300 ∠ 0 W is open circuited at far end, VSWR is</p>",0,1,∞,2,,C," <p>If line is o.c. |<span class=""symbol"">r</span><i><sub>v</sub></i>| = 1 and VSWR <img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/28-34.png""/> = ∞.</p> "
+"<p>If <i>f</i> is the frequency of electromagnetic wave, <i>f</i><i><sub>c</sub></i> is cutoff frequency, then in a rectangular waveguide</p>",attenuation is low when <i>f</i> &gt; <i>f</i><i><sub>c</sub></i>,attenuation is low when <i>f</i> &lt; <i>f</i><i><sub>c</sub></i>,attenuation is high when <i>f</i> &lt; <i>f</i><i><sub>c</sub></i>,either (b) or (c),,A," <p>Wavelength should be less than cutoff wavelengths. </p>
+<p>Therefore frequency should be higher than cutoff frequency for minimum attenuation.</p> "
+<p><p><b>Assertion (A):</b>  The condition of minimum distortion in a transmission line is L = <i>RC/G</i>.</p><p><b>Reason (R):</b> Line loading means addition of inductance to satisfy the condition L = <i>RC/G</i>.</p></p>,Both A and R are correct and R is correct explanation of A,Both A and R are correct but R is not correct explanation of A,A is correct but R is wrong,A is wrong but R is correct,,B," <p>Oscillator circuits using vacuum tubes (triodes, pentodes) have the following limitations at very high frequencies (microwave region). </p>
+<p>The stray capacitances and inductances become important and affect the operation of the circuit. </p>
+<p>At low frequencies the transit time between cathode and anode is a small fraction of period of oscillation. </p>
+<p>However, at microwave frequencies this transit time becomes comparable to time period of oscillations.</p> "
+<p>A magnetron has a cylindrical cathode surrounded by an anode structure having cavities opening into interaction space by means of slots</p>,True,False,,,,A," <p>It is somewhat similar to TWT and can deliver microwave power over a wide frequency band. </p>
+<p>It has an electron gun and a helix structure. However the interaction between electron beam and RF wave is different than in TWT. </p>
+<p>The growing RF wave travels in opposite direction to the electron beam. </p>
+<p>The frequency of wave can be changed by changing the voltage which controls the beam velocity. </p>
+<p>Moreover the amplitude of oscillations can be decreased continuously to zero by changing the beam current. </p>
+<p>It features are:</p>
+<p>1. Frequency range - 1 GHz to 1000 GHz.</p>
+<p>2. Power output - 10 mV to 150 mW (continuous wave) 250kW (pulsed).</p>
+<p>It is used as signal source in transmitters and instruments.</p> "
+<p>The correct sequence of parts in klystron amplifier are</p>,"anode, catcher cavity, cathode, buncher cavity","cathode, buncher cavity, catcher cavity, cavity","anode, buncher cavity, catcher cavity, cathode","cathode, catcher cavity, anode, buncher cavity",,B, <p>Cathode is the first part and anode is the last.</p> 
+<p>A transmission line has <i>Z</i><i><sub>0</sub></i> = 300 Ω and <i>Z</i><sub>L</sub> = (300 - <i>j</i>300) ohm. The transmission coefficient is</p>,1.265 ∠ - 18.43°,1.01 ∠ - 10°,1.14 ∠ 66.68°,1.09 ∠ 66.68°,,A," <p>Transmission coefficient <img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/28-130-1.png""/> <img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/28-130-2.png""/> = 1.265 ∠- 18.43°.</p> "
+"<p>In a reflex klystron oscillator, repeller electrode is at</p>",low positive potential,high positive potential,negative potential,zero potential,,C," <p>It uses a single cavity resonator for generating microwave oscillations. </p>
+<p>Its parts are electron gun, resonator, repeller and output coupling.</p>
+<p>It operates on the principle of positive feed back. </p>
+<p>The repeller electrode is at negative potential and sends the partially bunched electron beam back to resonator cavity. </p>
+<p>This positive feedback supports oscillations. Its feature are: </p>
+<p>1. Frequency range - 2 to 100 GHz</p>
+<p>2. Power output - 10 MW to about 2 W</p>
+<p>3. Efficiency - 10 - 20 %</p>
+<p>Its applications include radar receivers, local oscillator in microwave devices, oscillator for microwave measurements in laboratories etc.</p> "
+<p>A quarter wave line short circuited at load end behaves as</p>,an inductance,an inductance and capacitance in series,a capacitance,an inductance and capacitance in parallel,,D, <p>A quarter wave line short-circuited at far end behaves as a parallel tuned circuit.</p> 
+<p>A (75 - <i>J</i>50) ohm load is connected to a coaxial of Z<sub>0</sub> = 75 ohm at 10 GHz. The best method of matching is to connect</p>,an inductance at load,a short circuited stub at load,a short circuited stub at specific distance from load,a capacitance at specific distance from load,,C, <p>A short-circuited stub is a suitable method of matching.</p> 
+<p>The width of a radio beam from a 1 m diameter parabolic antenna at 1 GHz is about</p>,100°,50°,5°,2°,,B," <p>Beam width between nulls of a parabolic antenna <img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/28-56.png""/>. Therefore 50° is the nearest value.</p> "
+<p>Which one of the following is transferred locking electron device <i>C</i> antenna?</p>,BARITT diode,IMPATT diode,Gunn diode,Step recovery diode,,C," <p>A Gunn diode uses GaAs which has a negative differential mobility, <i>i</i>.<i>e</i>., a decrease in carrier velocity with increase in electric field. </p>
+<p>This effects is called transferred electron effect. The impedance of a Gunn diode is tens of ohms.</p>
+<p>A Gunn diode oscillator has a resonant cavity, an arrangement to couple Gunn diode to cavity, biasing arrangement for Gunn diode and arrangement to couple RF power to load.</p>
+<p>Applications of Gunn diode oscillator include continuous wave radar, pulsed radar and microwave receivers.</p> "
+<p>A magnetron requires an external magnetic field with flux lines parallel to axis of cathode</p>,True,False,,,,A," <p>It is somewhat similar to TWT and can deliver microwave power over a wide frequency band. </p>
+<p>It has an electron gun and a helix structure. However the interaction between electron beam and RF wave is different than in TWT. </p>
+<p>The growing RF wave travels in opposite direction to the electron beam. </p>
+<p>The frequency of wave can be changed by changing the voltage which controls the beam velocity. </p>
+<p>Moreover the amplitude of oscillations can be decreased continuously to zero by changing the beam current. </p>
+<p>It features are:</p>
+<p>1. Frequency range - 1 GHz to 1000 GHz.</p>
+<p>2. Power output - 10 mV to 150 mW (continuous wave) 250kW (pulsed).</p>
+<p>It is used as signal source in transmitters and instruments.</p> "
+"<p>When a line short circuited at far end, the minimum voltage occurs at</p>",far end,source end,midway between source and far end,none of the above,,A," <p>When a line is short-circuited at far end, the voltage at far end is zero.</p> "
+<p>In a TWT the axial component of electric field advances along the tube</p>,at a velocity that is almost equal to speed of light,at a velocity that is a small fraction of speed of light,at a velocity that is about 50% of speed of light,at a velocity that may be even more than speed of light,,B," <p>In a klystron the resonant structure limits the bandwidth. </p>
+<p>A TWT is a broadband device. Its main components are electron gun (to produce the electron beam) and a structure supporting the slow electromagnetic wave. </p>
+<p>The velocity of wave propagation along the helix structure is less than velocity of light. </p>
+<p>The beam and wave travel along the structure at the same speed. </p>
+<p>Thus interaction occurs between beam and wave and the beam delivers energy to the RF wave. </p>
+<p>Therefore the signal gets strengthened and amplified output is delivered at the other end of tube. </p>
+<p>The main features of TWT are :</p>
+<p>1. Frequency range - 0.5 GHz to 90 GHz</p>
+<p>2. Power output - 5 mW at low frequencies(less than 20 GHz) 250 kW (continuous wave) at 3 GHz 10 MW (pulsed) at 3 GHz</p>
+<p>3. Efficiency - about 5 to 20%</p>
+<p>4. Noise - about 5 dB for low power TWT 25 dB for high power TWT </p>
+<p>TWT is used as RF amplifier in broadband microwave receivers, repeater amplifier in broad band communication systems, communication satellites etc.</p> "
+"<p>If other parameter are constant, transmission loss at 5 GHz as compared to that at 0.5 GHz is</p>",20 dB more,20 dB less,700 dB more,100 dB less,,A," <p>As frequency increases, transmission loss increases slightly.</p> "
+<p>For a circular wave guide</p>,cutoff frequency for TE<sub>10</sub> and TE<sub>01</sub> modes are same,cutoff frequency for TE<sub>10</sub> and TE<sub>01</sub> modes are different,cutoff frequency for TE<sub>10</sub> mode = twice the cutoff frequency for TE<sub>20</sub> mode,cutoff frequency for TE<sub>10</sub> mode = haf the cutoff frequency for TE<sub>20</sub> mode,,A," <p>When a circular waveguide is rotated by 90°, the configuration remain the same.</p> "
+"<p>In the given figure the reflected voltage wave after first reflection is<br/><img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/18-193.png""/></p>",18 V,-18 V,30 V,-30 V,,B," <p><img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/29-198.png""/>.</p> "
+<p><p><b>Assertion (A):</b>  A half wavelength line can be used as a 1 : 1 transformer.</p><p><b>Reason (R):</b> The input impedance of a half wavelength line is equal to load impedance.</p></p>,Both A and R are correct and R is correct explanation of A,Both A and R are correct but R is not correct explanation of A,A is correct but R is wrong,A is wrong but R is correct,,A," <p>Since a half wavelength line has an input impedance equal to load impedance, the impedance transformation ratio is 1:1.</p> "
+<p>The magnitudes of OC and SC input impedances of a transmission line an 100 Ω and 25 Ω. The characteristic impedance is</p>,25 Ω,50 Ω,75 Ω,100 Ω,,B," <p><img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/29-188.png""/></p> "
+<p>A loss less line is terminated in a circular lines are E lines</p>,SWR = 0,SWE = 0,SWR is finite,SWR = ∞,,C," <p><img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/29-209.png""/> = finite number and VSWR <img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/29-209-1.png""/> = finite number.</p> "
+<p>Which of the following terminations makes the input impedance of a line equal to characteristic impedance Z<sub>0</sub>?</p>,line open circuited at far end,line terminated in Z<sub>0</sub>,line short circuited at far end,line terminated in inductance,,B," <p>If Z<sub>L</sub> is load impedance and Z<sub>0</sub> is characteristic impedance.</p>
+<p>Input impedance =<img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/28-26.png""/>. If Z<sub>L</sub> = Z<sub>0</sub> the input impedance = Z<sub>0</sub>.</p> "
+<p>In microwave system the function of mode filter is</p>,to suppress modes with lower cut off frequencies,to suppress modes with higher cut off frequencies,to change mode of wave transmission,both (b) and (c),,D, <p>Mode filter suppress modes with lower cutoff frequencies.</p> 
+"<p>For the strip line in the given figure the capacitance per unit length =<br/><img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/18-216.png""/></p>","<img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/19-216-1.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/19-216-2.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/19-216-3.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/19-216-4.png""/>",,A," <p><img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/29-216.png""/> frads/unit length.</p> "
+<p>The total field developed by an antenna array at a distant point is</p>,phasor sum of fields produced by individual antennas of the array,algebraic sum of fields produced by individual antennas of the array,either (a) or (b) depending on type of array,neither (a) nor (b),,A, <p>Since field is a phasor quantity we have to take phasor sum.</p> 
+<p>High speed logic circuits use</p>,pulses with very small width,pulses with very large width,pulses whose width is neither small nor large,either (b) or (c),,A, <p>High speed means time period is small. Therefore pulses should also have small width.</p> 
+<p>To couple a coaxial line to a parallel wire line it is best to use</p>,slotted line,balun,directional coupler,λ/4 transformer,,B, <p>A balun gives 4 : 1 impedance transformation.</p> 
+<p><p><b>Assertion (A):</b>  A quarter wave transformer is used to match a resistive load to a transmission line.</p><p><b>Reason (R):</b> A quarter wave transformer is a transmission line of quarter wave length.</p></p>,Both A and R are correct and R is correct explanation of A,Both A and R are correct but R is not correct explanation of A,A is correct but R is wrong,A is wrong but R is correct,,B," <p>A line of length <img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/30-368.png""/> is called quarter wavelength line. Such a line is used for impedance matching.</p>
+<p>If <img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/30-368-1.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/30-368-2.png""/></p>
+<p>A quarter wave line can match a source impedance Z<sub>in</sub> with load impedance <i>Z<sub>L</sub></i> by selecting a proper value of Z<sub>0</sub> so as to satisfy equation. </p>
+<p>Such a line is also called <img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/30-368-3.png""/> transformer.</p> "
+"<p><p><b>Assertion (A):</b>  Magnetron is generally used in <i>n</i> mode.</p><p><b>Reason (R):</b> Frequency for <span class=""symbol"">p</span> mode can be easily separated from adjacent modes.</p></p>",Both A and R are correct and R is correct explanation of A,Both A and R are correct but R is not correct explanation of A,A is correct but R is wrong,A is wrong but R is correct,,A," <p>It is somewhat similar to TWT and can deliver microwave power over a wide frequency band. </p>
+<p>It has an electron gun and a helix structure. However the interaction between electron beam and RF wave is different than in TWT. </p>
+<p>The growing RF wave travels in opposite direction to the electron beam. </p>
+<p>The frequency of wave can be changed by changing the voltage which controls the beam velocity. </p>
+<p>Moreover the amplitude of oscillations can be decreased continuously to zero by changing the beam current. </p>
+<p>It features are:</p>
+<p>1. Frequency range - 1 GHz to 1000 GHz.</p>
+<p>2. Power output - 10 mV to 150 mW (continuous wave) 250kW (pulsed).</p>
+<p>It is used as signal source in transmitters and instruments.</p> "
+<p>A balun should have</p>,low SWR at both ports,high SWR at both ports,high SWR at input port and low SWR at output port,low SWR at input port and high SWR at output,,A, <p>Turn ratio is so selected as to give low SWR at both ports.</p> 
+"<p><p><b>Assertion (A):</b>  The velocity factor of a line is the ratio of wave velocity on the line to speed of light.</p><p><b>Reason (R):</b> If the conductors of a line are immersed in a non magnetic insulating liquid, the wave velocity increases.</p></p>",Both A and R are correct and R is correct explanation of A,Both A and R are correct but R is not correct explanation of A,A is correct but R is wrong,A is wrong but R is correct,,C, <p>R is wrong because wave velocity decreases.</p> 
+"<p>In mode filter of the given figure which of the following modes is unaffected<br/><img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/20-236.png""/></p>",TE<sub>01</sub>,TE<sub>10</sub>,TE<sub>11</sub>,all TM,,A, <p>TE<sub>01</sub> mode is unaffected because its horizontally oriented electric field is every where perpendicular to the conducting strips.</p> 
+<p>The directive gain of a transmitting antenna is</p>,proportional to wavelength,inversely proportional to wavelength,proportional to square of wavelength,inversely proportional to square of wavelength,,D," <p><img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/28-63.png""/></p> "
+<p>A duplexer is used to</p>,couple two antennas to a transmitter,isolate the antenna from the local oscillator,prevent interference between two antennas connected to receiver,use an antenna for reception or transmission without interference,,D, <p>Same antenna is used for transmission and reception.</p> 
+<p>A branched duplexer requires</p>,TR tubes,ATR tube,both TR and ATR tube,none of the above,,C," <p>A branched duplexer funds use in narrow bandwidth applications. </p>
+<p>TR tube stands for transmit-receive tube and ATR tube stands for antitransmit receive tube. </p>
+<p>Both these tubes are used in branched duplexer.</p> "
+<p>In a backward wave oscillator the wave</p>,travelling along the line winds itself back and forth,progresses only in forward direction,progresses only in backward direction,either (a) or (c),,A," <p>It is somewhat similar to TWT and can deliver microwave power over a wide frequency band. </p>
+<p>It has an electron gun and a helix structure. However the interaction between electron beam and RF wave is different than in TWT. </p>
+<p>The growing RF wave travels in opposite direction to the electron beam. </p>
+<p>The frequency of wave can be changed by changing the voltage which controls the beam velocity. </p>
+<p>Moreover the amplitude of oscillations can be decreased continuously to zero by changing the beam current. </p>
+<p>It features are:</p>
+<p>1. Frequency range - 1 GHz to 1000 GHz.</p>
+<p>2. Power output - 10 mV to 150 mW (continuous wave) 250kW (pulsed).</p>
+<p>It is used as signal source in transmitters and instruments.</p> "
+<p>A coaxial line has L = 500 <i>n</i>H/m and C = 50 <i>p</i>F/m. The characteristic impedance is</p>,500 Ω,250 Ω,100 Ω,50 Ω,,C," <p><img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/29-203.png""/>.</p> "
+<p>The main feature of a parametric amplifier is</p>,low noise,very high gain,broad bandwidth,both (b) and (c),,C," <p>Since reactance does not contribute thermal noise to the circuit, it is a low noise device.</p> "
+<p><p><b>Assertion (A):</b>  PIN diode is commonly used for microwave control.</p><p><b>Reason (R):</b> A PIN diode uses heavily doped <i>p</i> and <i>n</i> materials.</p></p>,Both A and R are correct and R is correct explanation of A,Both A and R are correct but R is not correct explanation of A,A is correct but R is wrong,A is wrong but R is correct,,B," <p>A PIN diode has an intrinsic (<i>i</i>) layer between <i>p</i> and <i>n</i> layers. When reverse bias is applied depletion layers are formed at <i>p-i</i> and <i>i-n</i> junctions. </p>
+<p>The effective/width of depletion layer increases by the width of <i>i</i> layer. It can be used as a voltage controlled attenuator. </p>
+<p>At high frequencies the rectification effect ceases and impedance of diode is effectively that of <i>i</i> layer. </p>
+<p>This impedance varies with the applied bias. It is used in high frequency switching circuits, limiters, modulators etc.</p> "
+"<p>In a vacuum tube, the transit time of electron between cathode and anode is important at</p>",low frequencies,high frequencies,both (a) and (b),frequencies which are neither very low nor very high,,B, <p>At high frequencies transit time is large as compared to the period of microwave signal.</p> 
+"<p><p><b>Assertion (A):</b>  A line of length <img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/25-340-1.png""/> and short circuited at far end has an input impedance of infinity.</p><p><b>Reason (R):</b> A line of length <img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/25-340-1.png""/> and short circuited at far end behaves as a parallel resonant circuit.</p></p>",Both A and R are correct and R is correct explanation of A,Both A and R are correct but R is not correct explanation of A,A is correct but R is wrong,A is wrong but R is correct,,A, <p>A parallel tuned circuit has an infinite impedance if R is zero.</p> 

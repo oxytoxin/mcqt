@@ -1,0 +1,53 @@
+question,A,B,C,D,E,answer,explanation
+<p>A Schmitt trigger is</p>,a comparator with only one trigger point.,a comparator with hysteresis.,a comparator with three trigger points.,none of the above.,,B,
+"<p>Refer to the given figure. This circuit is known as
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq13_1015_1b.jpeg""/></p>",a noninverting amplifier.,a differentiator.,an integrator.,a summing amplifier.,,C,
+<p>The output of a Schmitt trigger is a</p>,pulse waveform.,sawtooth waveform.,sinusoidal waveform.,triangle waveform.,,A,
+"<p>Refer to the given figure. This circuit is known as
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq13_1015_1a.jpeg""/></p>",a noninverting amplifier.,a differentiator.,an integrator.,a summing amplifier.,,B,
+"<p>Refer to the given figure. A square-wave input is applied to this amplifier. The output voltage is most likely to be
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq13_1015_1b.jpeg""/></p>",a square wave.,a triangle wave.,a sine wave.,no output.,,B,
+"<p>Refer to the given figure. What is the output voltage?
+
+<br/><br/><img <="""" p="""" src=""/_files/images/electronic-devices-and-circuit-theory/mcq13_1008_1b.jpg""/></p>",2 V,–2 V,+V<sub>sat</sub>,–V<sub>sat</sub>,,D,
+"<p>If an op-amp comparator has a gain of 100,000, an input difference of 0.2 mV above reference, and a supply of <img src=""/_files/images/electronic-devices-and-circuit-theory/plusminus.gif""/>12 V, the output will be</p>",20 V.,12 V.,10 V.,15 V.,,B,
+<p>A comparator with a Schmitt trigger has</p>,two trigger levels.,a fast response.,a slow response.,one trigger level.,,A,
+"<p>Refer to the given figure. Determine the upper trigger point.
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq13_1013_1a.jpeg""/></p>",V<sub>(out)max</sub>,–V<sub>(out)max</sub>,–1.41 V,+1.41 V,,D,
+"<p>In a(n) ________, when the input voltage exceeds a specified reference voltage, the output changes state.</p>",integrator,differentiator,summing amplifier,comparator,,D,
+"<p>Refer to the given figure. If V<sub>in</sub> = 5 V, the rate of change of the output voltage in response to a single pulse input is:
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq13_1015_1b.jpeg""/></p>","15.2 mV/<img src=""/_files/images/electronic-devices-and-circuit-theory/mu.gif""/>s","1.52 V/<img src=""/_files/images/electronic-devices-and-circuit-theory/mu.gif""/>s","1.52 mV/<img src=""/_files/images/electronic-devices-and-circuit-theory/mu.gif""/>s","15.2 V/<img src=""/_files/images/electronic-devices-and-circuit-theory/mu.gif""/>s",,C,
+"<p>In a flash A/D converter, the priority encoder is used to</p>",select the first input.,select the highest value input.,select the lowest value input.,select the last input.,,B,
+<p>What circuit produces an output that approximates the area under the curve of an input function?</p>,integrator,differentiator,summing amplifier,comparator,,A,
+"<p>An op-amp has an open-loop gain of 90,000. V<sub>sat</sub> = ±13 V. A differential voltage of 0.1 V <sub>p-p</sub> is applied between the inputs. What is the output voltage?</p>",13 V,–13 V,13 V<sub>p-p</sub>,26 V<sub>p-p</sub>,,D,
+"<p>Refer to the given figure. Determine the output voltage.
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq13_1008_1a.jpg""/></p>",1 V,–1 V,+V<sub>sat</sub>,–V<sub>sat</sub>,,C,
+<p>A good example of hysteresis is a(n)</p>,AM radio.,thermostat.,alarm clock.,none of the above,,B,
+"<p>To reduce the effects of noise resulting in erratic switching of output states of a comparator, you can use</p>",the upper trigger point.,the lower trigger point.,nonzero-level detection.,hysteresis.,,D,
+"<p>Refer to the given figure. With the inputs shown, determine the output voltage.
+
+<br/><br/><img <="""" p="""" src=""/_files/images/electronic-devices-and-circuit-theory/mcq13_1008_1c.jpg""/></p>",7 V,–7 V,+V<sub>sat</sub>,–V<sub>sat</sub>,,C,
+"<p>Refer to the given figure. Determine the output voltage, V<sub>OUT</sub>.
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq13_1011_1b.jpeg""/></p>",1.05 V,–0.35 V,0.35 V,–1.05 V,,A,
+<p>What is (are) the necessary component(s) for the design of a bounded comparator?</p>,rectifier diodes,zener diodes,both of the above,,,B,
+"<p>Refer to the given figure. What is the output voltage?
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq13_1011_1a.jpeg""/></p>",0.5 V,–0.5 V,2 V,–2 V,,B,
+<p>What type(s) of circuit(s) use comparators?</p>,summer,nonzero-level detector,averaging amplifier,summer and nonzero-level detector,,B,
+<p>A differentiator is used to measure</p>,the sum of the input voltages.,the difference between two voltages.,the area under a curve.,the rate of change of the input voltage.,,D,
+"<p>Refer to the given figure. Determine the lower trigger point.
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq13_1013_1b.jpeg""/></p>",+V<sub>(out)max</sub>,–V<sub>(out)max</sub>,–2.47 V,+2.47 V,,C,
+<p>A(n) ________ amplifier is a summing amplifier with a closed-loop gain equal to the reciprocal of the number of inputs.</p>,averaging,scaling,none of the above,,,A,
+<p>________ is a mathematical process for determining the rate of change of a function.</p>,Integration,Differentiation,Summing,Comparatoring,,B,
+<p>An integrator circuit</p>,uses a resistor in its feedback circuit.,uses an inductor in its feedback circuit.,uses a capacitor in its feedback circuit.,uses a resistor in its feedback circuit or uses a capacitor in its feedback circuit,,C,
+"<p>In a comparator with output bounding, what type of diode is used in the feedback loop?</p>",Schottky,junction,zener,varactor,,C,
+<p>A comparator with hysteresis is sometimes known as a(n)</p>,integrator.,differentiator.,Schmitt trigger.,none of the above,,C,
+<p>Which of the following are variations of the basic summing amplifier?</p>,averaging amplifier,scaling amplifier,both of the above,,,C,

@@ -1,0 +1,1159 @@
+﻿question,choices,answer
+"How many carrier frequencies are used in BPSK?","[""0"",""1"",""2"",""none of the above""]",1
+"The constellation diagram of 16-QAM has ______ dots.","[""4"",""8"",""16"",""none of the above""]",2
+"AM and FM are examples of ________ conversion.","[""analog-to-analog"",""digital-to-digital"",""analog-to-digital"",""digital-to-analog""]",0
+"The Federal Communications Commission (FCC) allows ______ kHz for each FM station.","[""20"",""100"",""200"",""none of the above""]",1
+"Analog-to-analog conversion is needed if the available bandwidth is _______.","[""band-pass"",""low-pass"",""either (a) or (b)"",""neither (a) nor (b)""]",0
+"In _____ transmission, the frequency of the carrier signal is modulated to follow the changing voltage level (amplitude) of the modulating signal. The peak amplitude and phase of the carrier signal remain constant, but as the amplitude of the information signal changes, the frequency of the carrier changes correspondingly.","[""AM"",""FM"",""PM"",""none of the above""]",1
+"How many carrier frequencies are used in QPSK?","[""0"",""2"",""1"",""none of the above""]",1
+"Which of the following is not a digital-to-analog conversion?","[""FSK"",""ASK"",""AM"",""PSK""]",2
+"_______ conversion is the process of changing one of the characteristics of an analog signal based on the information in the digital data.","[""Analog-to-analog"",""Digital-to-digital"",""Digital-to-analog"",""Analog-to-digital""]",2
+"If the baud rate is 400 for a QPSK signal, the bit rate is ________ bps.","[""100"",""400"",""800"",""1600""]",2
+"In ________, the phase of the carrier is varied to represent two or more different signal elements. Both peak amplitude and frequency remain constant.","[""PSK"",""FSK"",""ASK"",""QAM""]",0
+"Which of the following is not an analog-to-analog conversion?","[""QAM"",""AM"",""PM"",""FM""]",0
+"How many carrier frequencies are used in BASK?","[""0"",""1"",""2"",""none of the above""]",1
+"Quadrature amplitude modulation (QAM) is a combination of ___________.","[""PSK and FSK"",""ASK and FSK"",""ASK and PSK"",""none of the above""]",2
+"In _________, the frequency of the carrier signal is varied to represent data. Both peak amplitude and phase remain constant.","[""ASK"",""FSK"",""PSK"",""QAM""]",1
+"If the bit rate for an ASK signal is 1200 bps, the baud rate is ________.","[""1200"",""600"",""400"",""300""]",0
+"The constellation diagram of BPSK has ______ dots.","[""0"",""1"",""2"",""none of the above""]",2
+"The constellation diagram of QPSK has ______ dots.","[""4"",""2"",""1"",""none of the above""]",0
+"In _______, the peak amplitude of one signal level is 0; the other is the same as the amplitude of the carrier frequency.","[""OOK"",""PSK"",""FSK"",""none of the above""]",0
+"If the bit rate for a 16-QAM signal is 4000 bps, what is the baud rate?","[""1200"",""1000"",""400"",""300""]",1
+"ASK, PSK, FSK, and QAM are examples of ________ conversion.","[""analog-to-analog"",""digital-to-digital"",""analog-to-digital"",""digital-to-analog""]",3
+"If the bit rate for an FSK signal is 1200 bps, the baud rate is ________.","[""1200"",""600"",""400"",""300""]",0
+"The constellation diagram of BASK has ______ dots.","[""0"",""1"",""2"",""none of the above""]",2
+"The Federal Communications Commission (FCC) allows ______kHz for each AM station.","[""20"",""10"",""5"",""none of the above""]",1
+"How many carrier frequencies are used in BFSK?","[""2"",""1"",""0"",""none of the above""]",0
+"In _____ transmission, the phase of the carrier signal is modulated to follow the changing voltage level (amplitude) of the modulating signal.","[""AM"",""FM"",""PM"",""none of the above""]",2
+"_________ conversion is the representation of analog information by an analog signal.","[""Analog-to-analog"",""Digital-to-digital"",""Analog-to-digital"",""Digital-to-analog""]",0
+"In _____ transmission, the carrier signal is modulated so that its amplitude varies with the changing amplitudes of the modulating signal.","[""PM"",""FM"",""AM"",""none of the above""]",2
+"In QAM, both ________ of a carrier frequency are varied.","[""phase and frequency"",""amplitude and phase"",""frequency and amplitude"",""none of the above""]",1
+"________ uses two carriers, one in-phase and the other quadrature.","[""QAM"",""ASK"",""FSK"",""PSK""]",0
+"Given an AM radio signal with a bandwidth of 10 KHz and the highest-frequency component at 705 KHz, what is the frequency of the carrier signal?","[""710 KHz"",""705 KHz"",""700 KHz"",""Cannot be determined from given information""]",2
+"A constellation diagram shows us the __________ of a signal element, particularly when we are using two carriers (one in-phase and one quadrature).","[""amplitude and frequency"",""amplitude and phase"",""frequency and phase"",""none of the above""]",1
+"If the baud rate for a 64-QAM signal is 2000, what is the bit rate?","[""12000"",""1000"",""400"",""300""]",0
+"In synchronous TDM, for n signal sources of the same data rate, each frame contains _______ slots.","[""n + 1"",""n \u2013 1"",""0 to n"",""n""]",3
+"Which multiplexing technique transmits digital signals?","[""WDM"",""FDM"",""TDM"",""None of the above""]",2
+"The sharing of a medium and its link by two or more devices is called _______.","[""modulation"",""multiplexing"",""encoding"",""line discipline""]",1
+"_______ is designed to be used in wireless applications in which stations must be able to share the medium without interception by an eavesdropper and without being subject to jamming from a malicious intruder.","[""Multiplexing"",""Spread spectrum"",""Modulation"",""None of the above.""]",1
+"______ is an analog multiplexing technique to combine optical signals.","[""WDM"",""FDM"",""TDM"",""None of the above""]",0
+"FDM is an _________technique.","[""digital"",""analog"",""either (a) or (b)"",""none of the above""]",1
+"______ can be applied when the bandwidth of a link (in hertz) is greater than the combined bandwidths of the signals to be transmitted.","[""TDM"",""FDM"",""Both (a) or (b)"",""Neither (a) or (b)""]",1
+"In TDM, the transmission rate of the multiplexed path is usually _______ the sum of the transmission rates of the signal sources.","[""equal to"",""less than"",""greater than"",""not related to""]",2
+"In a multiplexed system, ____ lines share the bandwidth of _____ link.","[""1; n"",""n; 1"",""1; 1"",""n; n""]",1
+"_________ utilization is the use of available bandwidth to achieve specific goals.","[""Amplitude"",""Frequency"",""Bandwidth"",""None of the above""]",2
+"____ is designed to use the high bandwidth capability of fiber-optic cable.","[""WDM"",""FDM"",""TDM"",""None of the above""]",0
+"We can divide ____ into two different schemes: synchronous or statistical.","[""WDM"",""TDM"",""FDM"",""none of the above""]",1
+"In ________ TDM, each input connection has an allotment in the output even if it is not sending data.","[""isochronous"",""statistical"",""synchronous"",""none of the above""]",2
+"In ________ TDM, slots are dynamically allocated to improve bandwidth efficiency.","[""isochronous"",""synchronous"",""statistical"",""none of the above""]",2
+"The word ______ refers to the portion of a _______ that carries a transmission.","[""line; channel"",""channel; link"",""link; channel"",""line; link""]",1
+"Which multiplexing technique shifts each signal to a different carrier frequency?","[""FDM"",""TDM"",""Both (a) and (b)"",""None of the above""]",0
+"Which multiplexing technique transmits analog signals?","[""WDM"",""TDM"",""FDM"",""(a) and (c)""]",3
+"________ is the set of techniques that allows the simultaneous transmission of multiple signals across a single data link.","[""Demodulating"",""Multiplexing"",""Compressing"",""None of the above""]",1
+"________ can be achieved by using multiplexing; ______ can be achieved by using spreading.","[""Privacy and antijamming; efficiency"",""Privacy and efficiency; antijamming"",""Efficiency; privacy and antijamming"",""Efficiency and antijamming; privacy""]",2
+"The ______ technique expands the bandwidth of a signal by replacing each data bit with n bits.","[""DSSS"",""FHSS"",""FDM"",""TDM""]",0
+"________ is a digital process that allows several connections to share the high bandwidth of a link.","[""WDM"",""TDM"",""FDM"",""None of the above""]",1
+"_______ is a digital multiplexing technique for combining several low-rate channels into one high-rate one.","[""WDM"",""TDM"",""FDM"",""None of the above""]",1
+"In ________, we combine signals from different sources to fit into a larger bandwidth.","[""line coding"",""block coding"",""spread spectrum"",""none of the above""]",2
+"Which multiplexing technique involves signals composed of light beams?","[""WDM"",""FDM"",""TDM"",""none of the above""]",0
+"The _______ defines the maximum data rate of the traffic.","[""peak data rate"",""maximum burst size"",""effective bandwidth"",""none of the above""]",0
+"In Frame Relay, the _____________ defines an average rate in bits per second.","[""access rate"",""committed burst size"",""committed information rate"",""excess burst size""]",2
+"In ________ congestion control, policies are applied to prevent congestion before it happens.","[""open-loop"",""closed-loop"",""either (a) or (b)"",""neither (a) nor (b)""]",0
+"In ________ we try to avoid traffic congestion.","[""congestion control"",""quality of service"",""either (a) or (b)"",""both (a) and (b)""]",0
+"_________ is a characteristic that a flow needs. Lack of it means losing a packet or acknowledgment, which entails retransmission.","[""Reliability"",""Delay"",""Jitter"",""Bandwidth""]",0
+"In a network, after the load reaches the capacity, throughput _______.","[""increases sharply"",""increases proportionally with the load"",""declines sharply"",""declines proportionally with the load""]",2
+"In _________ queuing, the packets are assigned to different classes and admitted to different queues. The queues, however, are weighted based on the priority of the queues; higher priority means a higher weight. The system processes packets in each queue in a round-robin fashion with the number of packets selected from each queue based on the corresponding weight.","[""FIFO"",""priority"",""weighted fair"",""none of the above""]",2
+"In ATM, the _________ class is a best-effort delivery service that does not guarantee anything.","[""CBR"",""VBR"",""ABR"",""UBR""]",3
+"The________ normally refers to the maximum length of time the traffic is generated at the peak rate.","[""peak data rate"",""maximum burst size"",""effective bandwidth"",""none of the above""]",1
+"In _______ congestion control, mechanisms are used to alleviate congestion after it happens.","[""open-loop"",""closed-loop"",""either (a) or (b)"",""neither (a) nor (b)""]",1
+"_______ happens in any system that involves waiting.","[""Congestion"",""Jamming"",""Error"",""none of the above""]",0
+"In the ________ algorithm of TCP, the size of the congestion window increases exponentially until it reaches a threshold.","[""slow-start"",""congestion avoidance"",""congestion detection"",""none of the above""]",0
+"In Frame Relay, the user can never exceed the_________.","[""access rate"",""committed burst size"",""committed information rate"",""excess burst size""]",0
+"In the ___________ algorithm of TCP, the size of the threshold is dropped to one-half, a multiplicative decrease.","[""slow-start"",""congestion avoidance"",""congestion detection"",""none of the above""]",2
+"In _________, when a source makes a reservation, it needs to define a flow specification.","[""Integrated Services"",""Differentiated Services"",""Connectionless"",""Connection-Oriented""]",0
+"A _________ traffic model has a data rate that does not change.","[""constant bit rate"",""variable bit rate"",""bursty"",""none of the above""]",0
+"________ is the variation in delay for packets belonging to the same flow.","[""Reliability"",""Delay"",""Jitter"",""Bandwidth""]",2
+"A ___________ is a packet sent by a node to the source to inform it of congestion.","[""backpressure"",""choke packet"",""implicit signaling"",""explicit signaling""]",1
+"In ATM, the _________ class delivers cells at a minimum rate. If more network capacity is available, this minimum rate can be exceeded.","[""CBR"",""VBR"",""ABR"",""UBR""]",2
+"In the ________ traffic model, the rate of the data flow changes in time, with the changes smooth instead of sudden and sharp.","[""constant bit rate"",""variable bit rate"",""bursty"",""none of the above""]",1
+"In __________, there is no communication between the congested node or nodes and the source. The source guesses that there is a congestion somewhere in the network from other symptoms.","[""backpressure"",""choke packet"",""implicit signaling"",""explicit signaling""]",2
+"In a network, when the load reaches the network capacity, the delay _______.","[""increases sharply"",""decreases sharply"",""remains constant"",""cannot be predicted""]",0
+"The technique of ________refers to a congestion control mechanism in which a congested node stops receiving data from the immediate upstream node or nodes.","[""backpressure"",""choke packet"",""implicit signaling"",""explicit signaling""]",0
+"In ________ queuing, packets are first assigned to a priority class. Each class has its own queue.","[""FIFO"",""priority"",""weighted fair"",""none of the above""]",1
+"In ________, queuing packets wait in a buffer (queue) until the node (router or switch) is ready to process them.","[""FIFO"",""priority"",""weighted fair"",""none of the above""]",0
+"Traditionally, ________types of characteristics are attributed to a flow.","[""two"",""three"",""four"",""five""]",2
+"In Frame Relay, the ___________ is the maximum number of bits in excess of Bc that a user can send during a predefined time.","[""access rate"",""committed burst size"",""committed information rate"",""excess burst size""]",3
+"In a network, when the load is below the capacity of the network, the throughput ______________.","[""increases sharply"",""increases proportionally with the load"",""declines sharply"",""declines proportionally with the load""]",1
+"In the __________ method, the signal is included in the packets that carry data.","[""backpressure"",""choke packet"",""implicit signaling"",""explicit signaling""]",3
+"In a network, when the load is much less than the capacity of the network, the delay is _________.","[""at a maximum"",""at a minimum"",""constant"",""none of the above""]",1
+"Congestion in a network or internetwork occurs because routers and switches have _______.","[""tables"",""queues"",""crosspoints"",""none of the above""]",1
+"In _________, we try to create an appropriate environment for the traffic.","[""congestion control"",""quality of service"",""either (a) or (b)"",""both (a) and (b)""]",1
+"In Frame Relay, the ________ bit warns the sender of congestion in the network.","[""BECN"",""FECN"",""either (a) or (b)"",""neither (a) nor (b)""]",0
+"In Frame Relay, the ________ bit is used to warn the receiver of congestion in the network.","[""BECN"",""FECN"",""either (a) or (b)"",""neither (a) nor (b)""]",1
+"The ________ is a function of three values: average data rate, peak data rate, and maximum burst size.","[""peak data rate"",""maximum burst size"",""effective bandwidth"",""none of the above""]",2
+"In the _________ algorithm of TCP, the size of the congestion window increases additively until congestion is detected.","[""slow-start"",""congestion avoidance"",""congestion detection"",""none of the above""]",1
+"In ATM, the _________ class is divided into two subclasses: real-time (VBR-RT) and non-real-time (VBR-NRT). VBR-RT is designed for those users who need real-time services (such as voice and video transmission) and use compression techniques to create a variable bit rate. VBR-NRT is designed for those users who do not need real-time services but use compression techniques to create a variable bit rate.","[""CBR"",""VBR"",""ABR"",""UBR""]",1
+"Traffic ______ are qualitative values that represent a data flow.","[""controls"",""descriptors"",""values"",""none of the above""]",1
+"_________ is a class-based QoS model designed for IP.","[""Integrated Services"",""Differentiated Services"",""Connectionless"",""Connection-Oriented""]",1
+"In the ______ bucket algorithm, bursty chunks are stored in the bucket and sent out at an average rate.","[""leaky"",""token"",""either (a) or (b)"",""neither (a) nor (b)""]",0
+"The _______ bucket algorithm allows idle hosts to accumulate credit for the future in the form of tokens.","[""leaky"",""token"",""either (a) or (b)"",""neither (a) nor (b)""]",1
+"In ATM, the _________ class is designed for customers who need real-time audio or video services. The service is similar to that provided by a dedicated line such as a T line.","[""CBR"",""VBR"",""ABR"",""UBR""]",0
+"In the ______ traffic model, the data rate changes suddenly in a very short time.","[""constant bit rate"",""variable bit rate"",""bursty"",""none of the above""]",2
+"In Frame Relay, a ___________ is the maximum number of bits in a predefined time that the network is committed to transfer without discarding any frame or setting the DE bit.","[""access rate"",""committed burst size"",""committed information rate"",""excess burst size""]",1
+"A _______ is a device that operates only in the physical layer.","[""bridge"",""router"",""passive hub"",""repeater""]",3
+"A ______ switch is a faster and more sophisticated router.","[""two-layer"",""four-layer"",""three-layer"",""none of the above""]",2
+"_________ is just a connector.","[""A passive hub"",""An active hub"",""either (a) or (b)"",""neither (a) nor (b)""]",0
+"A ______ normally connects LANs and WANs in the Internet and has a table that is used for making decisions about the route.","[""router"",""bridge"",""repeater"",""none of the above""]",0
+"A _______ regenerates a signal, connects segments of a LAN, and has no filtering capability.","[""router"",""repeater"",""bridge"",""none of the above""]",1
+"In a(n) _______ configuration, the administrator types the port numbers, the IP addresses, or other characteristics, using the VLAN software.","[""automatic"",""manual"",""semiautomatic"",""none of the above""]",1
+"A _______ LAN allows several LANs to be connected.","[""wired"",""wireless"",""backbone"",""none of the above""]",2
+"A backbone is usually a ______.","[""star"",""bus"",""either (a) or (b)"",""neither (a) nor (b)""]",2
+"A bridge can use the _________ algorithm to create a loopless topology.","[""multiway tree"",""binary tree"",""spanning tree"",""none of the above""]",2
+"In a _____ backbone, the backbone is just one switch.","[""star"",""bus"",""ring"",""none of the above""]",0
+"A spanning tree is a graph in which there is no _____.","[""arc"",""loop"",""node"",""branch""]",1
+"A ________ bridge can forward and filter frames and automatically build its forwarding table.","[""dual"",""transparent"",""simple"",""none of the above""]",1
+"A virtual local area network (VLAN) is configured by _________.","[""hardware"",""physical wiring"",""software"",""none of the above""]",2
+"A ________ is normally a computer that operates in all five layers of the Internet model or seven layers of OSI model.","[""gateway"",""router"",""bridge"",""repeater""]",0
+"A ________ is a device in which the stations are completely unaware of its existence.","[""simple bridge"",""transparent bridge"",""passive hub"",""repeater""]",1
+"A ______ has a table used in filtering decisions.","[""bridge"",""passive hub"",""repeater"",""none of the above""]",0
+"In a star-topology Ethernet LAN, _______ is just a point where the signals coming from different stations collide; it is the collision point.","[""A passive hub"",""An active hub"",""either (a) or (b)"",""neither (a) nor (b)""]",0
+"VLANs can_________.","[""provide an extra measure of security"",""reduce network traffic"",""either (a) or (b)"",""both (a) and (b)""]",3
+"A ________ link acts as a LAN in a remote backbone connected by remote bridges.","[""multidrop"",""point-to-point"",""multipoint"",""none of the above""]",1
+"A _______ is a connecting device that operates in the physical and data link layers of the Internet model.","[""router"",""repeater"",""bridge"",""none of the above""]",2
+"A _______ can check the MAC addresses contained in the frame.","[""repeater"",""bridge"",""router"",""passive hub""]",1
+"________ is part of the media; its location in the Internet model is below the physical layer.","[""A passive hub"",""An active hub"",""either (a) or (b)"",""neither (a) nor (b)""]",0
+"In a(n) _____ configuration, the stations are automatically connected or disconnected from a VLAN using criteria defined by the administrator.","[""automatic"",""semiautomatic"",""manual"",""none of the above""]",0
+"IEEE 802.1d specification, defines _________ criteria for a transparent bridges.","[""two"",""four"",""three"",""none of the above""]",2
+"A two-layer switch is a ______.","[""router"",""repeater"",""bridge"",""none of the above""]",2
+"In a bridged LAN, the _______ algorithm creates a topology in which each LAN can be reached from any other LAN through one path only.","[""binary tree"",""spanning tree"",""unary tree"",""none of the above""]",1
+"A _____ can be used as a connecting device between two internetworks that use different models.","[""gateway"",""router"",""bridge"",""repeater""]",0
+"Membership in a VLAN can be based on _________.","[""MAC addresses"",""IP addresses"",""port numbers"",""all of the above""]",3
+"A ________receives a signal and, before it becomes too weak or corrupted, regenerates the original bit pattern. It then sends the refreshed signal.","[""router"",""bridge"",""repeater"",""passive hub""]",2
+"In a(n) ______ configuration, the initializing is done manually, with migrations done automatically.","[""automatic"",""semiautomatic"",""manual"",""none of the above""]",1
+"A _______ is a three-layer device that handles packets based on their logical addresses.","[""router"",""repeater"",""bridge"",""none of the above""]",0
+"A three-layer switch is a kind of ________.","[""bridge"",""router"",""repeater"",""none of the above""]",1
+"Some new two-layer switches, called _______ switches, have been designed to forward the frame as soon as they check the MAC addresses in the header of the frame.","[""come-through"",""go-through"",""cut-through"",""none of the above""]",2
+"A(n) ______ algorithm transforms ciphertext to plaintext.","[""encryption"",""decryption"",""either (a) or (b)"",""neither (a) nor (b)""]",1
+"The ________ is the message after transformation.","[""ciphertext"",""plaintext"",""secret-text"",""none of the above""]",0
+"A(n) _______ algorithm transforms plaintext to ciphertext.","[""encryption"",""decryption"",""either (a) or (b)"",""neither (a) nor (b)""]",0
+"The ________ method provides a one-time session key for two parties.","[""Diffie-Hellman"",""RSA"",""DES"",""AES""]",0
+"A(n) ______ is a keyless substitution cipher with N inputs and M outputs that uses a formula to define the relationship between the input stream and the output stream.","[""S-box"",""P-box"",""T-box"",""none of the above""]",0
+"A ________ cipher replaces one character with another character.","[""substitution"",""transposition"",""either (a) or (b)"",""neither (a) nor (b)""]",0
+"The ________ cipher reorders the plaintext characters to create a ciphertext.","[""substitution"",""transposition"",""either (a) or (b)"",""neither (a) nor (b)""]",1
+"_______ is a round cipher based on the Rijndael algorithm that uses a 128-bit block of data.","[""AEE"",""AED"",""AER"",""AES""]",3
+"The ________is the original message before transformation.","[""ciphertext"",""plaintext"",""secret-text"",""none of the above""]",1
+"A modern cipher is usually a complex _____cipher made of a combination of different simple ciphers.","[""round"",""circle"",""square"",""none of the above""]",0
+"The _________ attack can endanger the security of the Diffie-Hellman method if two parties are not authenticated to each other.","[""man-in-the-middle"",""ciphertext attack"",""plaintext attack"",""none of the above""]",0
+"A combination of an encryption algorithm and a decryption algorithm is called a ________.","[""cipher"",""secret"",""key"",""none of the above""]",0
+"In an asymmetric-key cipher, the receiver uses the ______ key.","[""private"",""public"",""either a or b"",""neither (a) nor (b)""]",0
+"AES has _____ different configurations.","[""two"",""three"",""four"",""five""]",1
+"DES is a(n) ________ method adopted by the U.S. government.","[""symmetric-key"",""asymmetric-key"",""either (a) or (b)"",""neither (a) nor (b)""]",0
+"DES uses a key generator to generate sixteen _______ round keys.","[""32-bit"",""48-bit"",""54-bit"",""42-bit""]",1
+"The Caesar cipher is a _______cipher that has a key of 3.","[""transposition"",""additive"",""shift"",""none of the above""]",2
+"ECB and CBC are ________ ciphers.","[""block"",""stream"",""field"",""none of the above""]",0
+"A(n) _______is a keyless transposition cipher with N inputs and M outputs that uses a table to define the relationship between the input stream and the output stream.","[""S-box"",""P-box"",""T-box"",""none of the above""]",1
+"________ DES was designed to increase the size of the DES key.","[""Double"",""Triple"",""Quadruple"",""none of the above""]",1
+"________ is the science and art of transforming messages to make them secure and immune to attacks.","[""Cryptography"",""Cryptoanalysis"",""either (a) or (b)"",""neither (a) nor (b)""]",0
+"DES has an initial and final permutation block and _________ rounds.","[""14"",""15"",""16"",""none of the above""]",2
+"The DES function has _______ components.","[""2"",""3"",""4"",""5""]",2
+"In a(n) ________ cipher, the same key is used by both the sender and receiver.","[""symmetric-key"",""asymmetric-key"",""either (a) or (b)"",""neither (a) nor (b)""]",0
+"_________ ciphers can be categorized into two broad categories: monoalphabetic and polyalphabetic.","[""Substitution"",""Transposition"",""either (a) or (b)"",""neither (a) nor (b)""]",0
+"The _______ cipher is the simplest monoalphabetic cipher. It uses modular arithmetic with a modulus of 26.","[""transposition"",""additive"",""shift"",""none of the above""]",2
+"In an asymmetric-key cipher, the sender uses the__________ key.","[""private"",""public"",""either (a) or (b)"",""neither (a) nor (b)""]",1
+"In a(n) ________ cipher, a pair of keys is used.","[""symmetric-key"",""asymmetric-key"",""either (a) or (b)"",""neither (a) nor (b)""]",1
+"The _______ is a number or a set of numbers on which the cipher operates.","[""cipher"",""secret"",""key"",""none of the above""]",2
+"In a(n) ________, the key is called the secret key.","[""symmetric-key"",""asymmetric-key"",""either (a) or (b)"",""neither (a) nor (b)""]",0
+"In Go-Back-N ARQ, if frames 4, 5, and 6 are received successfully, the receiver may send an ACK _______ to the sender.","[""6"",""7"",""5"",""any of the above""]",1
+"The Stop-And-Wait ARQ, Go-Back-N ARQ, and the Selective Repeat ARQ are for ______ channels.","[""noiseless"",""noisy"",""either (a) or (b)"",""neither (a) nor (b)""]",1
+"The _________Protocol, adds a simple error control mechanism to the _______Protocol.","[""Selective Repeat ARQ; Go-Back-N ARQ"",""Go-Back-N ARQ; Stop-and-Wait"",""Stop-and-Wait ARQ; Stop-and-Wait"",""none of the above""]",2
+"In PPP, the ________ is responsible for establishing, maintaining, configuring, and terminating links.","[""PAP"",""CHAP"",""LCP"",""NCP""]",2
+"HDLC is an acronym for _______.","[""Half-duplex digital link combination"",""Host double-level circuit"",""High-duplex line communication"",""High-level data link control""]",3
+"In Selective Repeat ARQ, if 5 is the number of bits for the sequence number, then the maximum size of the receive window must be _____.","[""1"",""15"",""16"",""31""]",2
+"In Go-Back-N ARQ, if 5 is the number of bits for the sequence number, then the maximum size of the send window must be _____.","[""1"",""15"",""16"",""31""]",3
+"In Stop-and-Wait ARQ, the acknowledgment number always announces in ______ arithmetic the sequence number of the next frame expected.","[""modulo-m"",""modulo-2"",""modulo-4"",""none of the above""]",1
+"In Selective Repeat ARQ, if 5 is the number of bits for the sequence number, then the maximum size of the send window must be _____.","[""1"",""15"",""16"",""31""]",2
+"_______ control refers to a set of procedures used to restrict the amount of data that the sender can send before waiting for acknowledgment.","[""Flow"",""Error"",""Transmission"",""none of the above""]",0
+"In the Go-Back-N Protocol, if the size of the sequence number field is 8, the sequence numbers are in ________ arithmetic,","[""modulo-256"",""modulo- 8"",""modulo-2"",""none of the above""]",0
+"______ control refers to methods of error detection and correction.","[""Flow"",""Error"",""Transmission"",""none of the above""]",1
+"In a Go-Back-N ARQ, if the window size is 63, what is the range of sequence numbers?","[""1 to 63"",""1 to 64"",""0 to 63"",""0 to 64""]",2
+"Both Go-Back-N and Selective-Repeat Protocols use a _________.","[""sliding window"",""sliding frame"",""sliding packet"",""none of the above""]",0
+"In _________, the configuration is balanced. The link is point-to-point, and each station can function as a primary and a secondary.","[""ARM"",""ABM"",""NBM"",""NRM""]",1
+"Byte stuffing means adding a special byte to the data section of the frame when there is a character with the same pattern as the ______.","[""trailer"",""flag"",""header"",""none of the above""]",1
+"The ______ Protocol has neither flow nor error control.","[""Selective-Repeat ARQ"",""Go-Back-N ARQ"",""Stop-and-Wait"",""Simplest""]",3
+"The most common protocol for point-to-point access is the Point-to-Point Protocol (PPP), which is a _________protocol.","[""byte-oriented"",""bit-oriented"",""character-oriented"",""none of the above""]",0
+"For Stop-and-Wait ARQ, for 10 data packets sent, _______ acknowledgments are needed.","[""less than 10"",""more than 10"",""exactly 10"",""none of the above""]",2
+"_________framing uses two categories of protocols: character-oriented and bit-oriented.","[""Standard"",""Fixed-size"",""Variable-size"",""None of the above""]",2
+"_______ control refers to a set of procedures used to restrict the amount of data that the sender can send before waiting for acknowledgment.","[""Flow"",""Error"",""Transmission"",""none of the above""]",0
+"In a ________ protocol, the data section of a frame is a sequence of characters.","[""bit-oriented"",""character-oriented"",""either (a) or (b)"",""none of the above""]",1
+"In _______ framing, there is no need for defining the boundaries of frames.","[""standard"",""fixed-size"",""variable-size"",""none of the above""]",1
+"The _______Protocol has both flow control and error control.","[""Stop-and-Wait"",""Selective-Repeat ARQ"",""Go-Back-N ARQ"",""both (b) and (c)""]",3
+"In _________, the station configuration is unbalanced. We have one primary station and multiple secondary stations.","[""ARM"",""NBM"",""NRM"",""ABM""]",2
+"In a _________ protocol, the data section of a frame is a sequence of bits.","[""bit-oriented"",""byte-oriented"",""either (a) or (b)"",""none of the above""]",0
+"In ________ framing, we need a delimiter (flag) to define the boundary of two frames.","[""standard"",""fixed-size"",""variable-size"",""none of the above""]",2
+"High-level Data Link Control (HDLC) is a _______ protocol for communication over point-to-point and multipoint links.","[""byte-oriented"",""bit-oriented"",""character-oriented"",""none of the above""]",1
+"Bit stuffing means adding an extra 0 to the data section of the frame when there is a sequence of bits with the same pattern as the ________.","[""trailer"",""flag"",""header"",""none of the above""]",1
+"In the _________Protocol, if no acknowledgment for a frame has arrived, we resend all outstanding frames.","[""Go-Back-N ARQ"",""Selective-Repeat ARQ"",""Stop-and-Wait ARQ"",""none of the above""]",0
+"The Simplest Protocol and the Stop-and-Wait Protocol are for ______ channels.","[""noiseless"",""noisy"",""either (a) or (b)"",""neither (a) nor (b)""]",0
+"The _______Protocol has flow control, but not error control.","[""Selective-Repeat ARQ"",""Stop-and-Wait"",""Simplest"",""Go-Back-N ARQ""]",1
+"In Stop-and-Wait ARQ, we use sequence numbers to number the frames. The sequence numbers are based on __________arithmetic.","[""modulo-m"",""modulo-2"",""modulo-4"",""none of the above""]",1
+"In the _____ Protocol, the sender sends its frames one after another with no regard to the receiver.","[""Simplest"",""Selective-Repeat ARQ"",""Stop-and-Wait"",""Go-Back-N ARQ""]",0
+"_________control in the data link layer is based on automatic repeat request, which is the retransmission of data.","[""Flow"",""Error"",""Transmission"",""none of the above""]",1
+"In PPP, _______ is a three-way hand-shaking authentication protocol in which the password is kept secret; it is never sent online.","[""PAP"",""LCP"",""NCP"",""CHAP""]",3
+"In PPP, ________ is a simple authentication procedure with a two-step process:","[""CHAP"",""PAP"",""LCP"",""NCP""]",1
+"In the _________ protocol we avoid unnecessary transmission by sending only frames that are corrupted.","[""Selective-Repeat ARQ"",""Stop-and-Wait ARQ"",""Go-Back-N ARQ"",""none of the above""]",0
+"In ________ protocols, we use ________.","[""byte-oriented; bit stuffing"",""bit-oriented; bit stuffing"",""character-oriented; bit stuffing"",""none of the above""]",1
+"In the _____ Protocol, the sender sends one frame, stops until it receives confirmation from the receiver, and then sends the next frame.","[""Simplest"",""Stop-and-Wait"",""Selective-Repeat ARQ"",""Go-Back-N ARQ""]",1
+"Stop-and-Wait ARQ is a special case of Go-Back-N ARQ in which the size of the send window is ___.","[""1"",""2"",""8"",""none of the above""]",0
+"ARQ stands for _______.","[""Acknowledge repeat request"",""Automatic retransmission request"",""Automatic repeat quantization"",""Automatic repeat request""]",3
+"_______ in the data link layer separates a message from one source to a destination, or from other messages going from other sources to other destinations.","[""Controlling"",""Framing"",""Digitizing"",""none of the above""]",1
+"Data link control deals with the design and procedures for ______ communication.","[""node-to-node"",""process-to-process"",""host-to-host"",""none of the above""]",0
+"In _________ protocols, we use ________.","[""bit-oriented; character stuffing"",""character-oriented; bit stuffing"",""character-oriented; byte stuffing"",""none of the above""]",2
+"If the maximum amplitude of a sine wave is 2 V, the minimum amplitude is ________ V.","[""2"",""1"",""-2"",""between -2 and 2""]",2
+"_________ can impair a signal.","[""Noise"",""Attenuation"",""Distortion"",""All of the above""]",3
+"________is the rate of change with respect to time.","[""Time"",""Frequency"",""Amplitude"",""Voltage""]",1
+"A signal is measured at two different points. The power is P1 at the first point and P2 at the second point. The dB is 0. This means ________.","[""P2 equals P1"",""P2 is zero"",""P2 is much larger than P1"",""P2 is much smaller than P1""]",0
+"Baseband transmission of a digital signal is possible only if we have a ____ channel.","[""bandpass"",""low-pass"",""high rate"",""low rate""]",1
+"________ is a type of transmission impairment in which the signal loses strength due to the resistance of the transmission medium.","[""Distortion"",""Attenuation"",""Noise"",""Decibel""]",1
+"A sine wave in the ______ domain can be represented by one single spike in the _____ domain.","[""time; phase"",""frequency; time"",""time; frequency"",""phase; time""]",2
+"If the bandwidth of a signal is 5 KHz and the lowest frequency is 52 KHz, what is the highest frequency?","[""5 KHz"",""47 KHz"",""57 KHz"",""10 KHz""]",2
+"In a time-domain plot, the horizontal axis is a measure of ________.","[""phase"",""signal amplitude"",""frequency"",""time""]",3
+"_______ data are continuous and take continuous values.","[""digital"",""analog"",""(a) or (b)"",""none of the above""]",1
+"Frequency and period are ______.","[""proportional to each other"",""inverse of each other"",""the same"",""none of the above""]",1
+"When propagation speed is multiplied by propagation time, we get the ________.","[""wavelength of the signal"",""throughput"",""distance a signal or bit has traveled"",""distortion factor""]",2
+"A _________ sine wave is not useful in data communications; we need to send a _______ signal.","[""single-frequency; composite"",""composite; single-frequency This is the correct answer."",""single-frequency; double-frequency"",""none of the above""]",0
+"The _________ product defines the number of bits that can fill the link.","[""delay-amplitude"",""frequency-amplitude"",""bandwidth-period"",""bandwidth-delay""]",3
+"_______ signals can have only a limited number of values.","[""Digital"",""Analog"",""(a) or (b)"",""None of the above""]",0
+"Before data can be transmitted, they must be transformed to ________.","[""periodic signals"",""electromagnetic signals"",""aperiodic signals"",""low-frequency sine waves""]",1
+"Data can be ________.","[""digital"",""analog"",""(a) or (b)"",""none of the above""]",2
+"________ is a type of transmission impairment in which the signal loses strength due to the different propagation speeds of each frequency that makes up the signal.","[""Noise"",""Distortion"",""Attenuation"",""Decibel""]",1
+"Signals can be ________.","[""digital"",""analog"",""either (a) or (b)"",""neither (a) nor (b)""]",2
+"A sine wave is ________.","[""periodic and discrete"",""aperiodic and discrete"",""periodic and continuous"",""aperiodic and continuous""]",2
+"_______ data have discrete states and take discrete values.","[""Analog"",""Digital"",""(a) or (b)"",""None of the above""]",1
+"For a ______ channel, we need to use the Shannon capacity to find the maximum bit rate.","[""noiseless"",""noisy"",""low-pass"",""bandpass""]",1
+"What is the bandwidth of a signal that ranges from 1 MHz to 4 MHz?","[""1 KHz"",""3 MHz"",""4 MHz"",""none of the above""]",1
+"_____ signals can have an infinite number of values in a range.","[""Analog"",""Digital"",""(a) or (b)"",""None of the above""]",0
+"A(n)_________ signal is a composite analog signal with an infinite bandwidth.","[""digital"",""analog"",""either (a) or (b)"",""neither (a) nor (b)""]",0
+"A periodic signal completes one cycle in 0.001 s. What is the frequency?","[""1 Hz"",""100 Hz"",""1 KHz"",""1 MHz""]",2
+"The _____ of a composite signal is the difference between the highest and the lowest frequencies contained in that signal.","[""period"",""bandwidth"",""frequency"",""amplitude""]",1
+"________ is a type of transmission impairment in which an outside source such as crosstalk corrupts a signal.","[""Noise"",""Distortion"",""Attenuation"",""Decibel""]",0
+"_______ describes the position of the waveform relative to time 0.","[""Amplitude"",""Phase"",""Frequency"",""Voltage""]",1
+"Given two sine waves A and B, if the frequency of A is twice that of B, then the period of B is ________ that of A.","[""one-half"",""twice"",""the same as"",""indeterminate from""]",1
+"As frequency increases, the period ________.","[""increases"",""decreases"",""doubles"",""remains the same""]",1
+"If the available channel is a ______ channel, we cannot send a digital signal directly to the channel.","[""low-pass"",""low rate"",""bandpass"",""high rate""]",2
+"For a ______ channel, the Nyquist bit rate formula defines the theoretical maximum bit rate.","[""low-pass"",""bandpass"",""noisy"",""noiseless""]",3
+"In a frequency-domain plot, the horizontal axis measures the ________.","[""phase"",""frequency"",""slope"",""peak amplitude""]",1
+"If the frequency spectrum of a signal has a bandwidth of 500 Hz with the highest frequency at 600 Hz, what should be the sampling rate, according to the Nyquist theorem?","[""200 samples\/s"",""500 samples\/s"",""1000 samples\/s"",""1200 samples\/s""]",3
+"In asynchronous transmission, the gap time between bytes is _______.","[""variable"",""fixed"",""zero"",""a function of the data rate""]",0
+"______ substitutes eight consecutive zeros with 000VB0VB.","[""B4B8"",""B8ZS"",""HDB3"",""none of the above""]",1
+"The most common technique to change an analog signal to digital data is called __________.","[""sampling"",""PAL"",""PCM"",""none of the above""]",2
+"The minimum bandwidth of Manchester and differential Manchester is ______ that of NRZ.","[""the same as"",""twice"",""thrice"",""none of the above""]",1
+"The signal rate is sometimes called the ____ rate.","[""bit"",""baud"",""signal"",""none of the above""]",1
+"Unipolar, bipolar, and polar encoding are types of _______ encoding.","[""line"",""block"",""NRZ"",""Manchester""]",0
+"________ is normally referred to as mB/nB coding; it replaces each m-bit group with an n-bit group.","[""Line coding"",""Block coding"",""Scrambling"",""None of the above""]",1
+"In ______ schemes, the voltages are on the both sides of the time axis. For example, the voltage level for 0 can be positive and the voltage level for 1 can be negative.","[""unipolar"",""bipolar"",""polar"",""all of the above""]",2
+"The ________ rate defines the number of data elements sent in 1s; the ______ rate is the number of signal elements sent in 1s.","[""signal; data"",""data; signal"",""baud; bit"",""none of the above""]",1
+"The idea of RZ and the idea of NRZ-L are combined into the ________ scheme.","[""Manchester"",""differential Manchester"",""both (a) and (b)"",""neither (a) nor (b)""]",0
+"________ provides synchronization without increasing the number of bits.","[""Line coding"",""Block coding"",""Scrambling"",""None of the above""]",2
+"The Nyquist theorem specifies the minimum sampling rate to be_______.","[""equal to the lowest frequency of a signal"",""equal to the highest frequency of a signal"",""twice the bandwidth of a signal"",""twice the highest frequency of a signal""]",3
+"PCM is an example of _______ conversion.","[""analog-to-analog"",""analog-to-digital"",""digital-to-digital"",""digital-to-analog""]",1
+"There are three sampling methods: __________.","[""ideal, natural, and flat-top"",""ideal, sampled, and flat-top"",""quantized, sampled, and ideal"",""none of the above""]",0
+"In _______encoding, we use three levels: positive, zero, and negative.","[""unipolar"",""polar"",""bipolar"",""none of the above""]",2
+"Block coding can help in _______ at the receiver.","[""Synchronization"",""Error detection"",""Attenuation"",""(a) and (b)""]",3
+"In Manchester and differential Manchester encoding, the transition at the middle of the bit is used for __________.","[""bit transfer"",""synchronization"",""baud transfer"",""none of the above""]",1
+"_______ encoding has a transition at the beginning of each 0 bit.","[""Differential Manchester"",""Manchester"",""RZ"",""All the above""]",0
+"In ______, the change or lack of change in the level of the voltage determines the value of the bit.","[""NRZ-L"",""NRZ-I"",""both (a) and (b)"",""neither (a) nor (b)""]",1
+"In ___________ there is always a transition at the middle of the bit, but the bit values are determined at the beginning of the bit. If the next bit is 0, there is a transition; if the next bit is 1, there is none.","[""Manchester"",""differential Manchester"",""both (a) and (b)"",""neither (a) nor (b)""]",1
+"In _______ encoding, the duration of the bit is divided into two halves. The voltage remains at one level during the first half and moves to the other level in the second half. The transition at the middle of the bit provides synchronization.","[""Manchester"",""differential Manchester"",""both (a) and (b)"",""neither (a) nor (b)""]",2
+"The ________ mode provides synchronization for the entire stream of bits must. In other words, it guarantees that the data arrive at a fixed rate.","[""isochronous"",""synchronous"",""asynchronous"",""none of the above""]",0
+"The idea of RZ and the idea of NRZ-I are combined into the ________ scheme.","[""Manchester"",""differential Manchester"",""both (a) and (b)"",""neither (a) nor (b)""]",1
+"In decoding a digital signal, the receiver calculates a running average of the received signal power, called the _______.","[""base"",""line"",""baseline"",""none of the above""]",2
+"In _________ transmission, we send bits one after another without start or stop bits or gaps. It is the responsibility of the receiver to group the bits.","[""synchronous"",""asynchronous"",""isochronous"",""none of the above""]",0
+"______ finds the value of the signal amplitude for each sample; ____ finds the change from the previous sample.","[""DM; CM"",""DM; PCM"",""PCM; DM"",""none of the above""]",2
+"______ substitutes four consecutive zeros with 000V or B00V.","[""HDB3"",""B4B8"",""B8ZSf"",""none of the above""]",0
+"The ______ scheme uses three levels (+V, 0, and -V) and three transition rules to move between the levels.","[""4B5B"",""MLT-3"",""2B1Q"",""none of the above""]",1
+"While there is (are) only _____ way(s) to send parallel data, there is (are) _____ subclass(es) of serial transmission.","[""one; two"",""one; three"",""two; three"",""none of the above""]",1
+"Which quantization level results in a more faithful reproduction of the signal?","[""2"",""8"",""16"",""32""]",3
+"A _________ digital signal includes timing information in the data being transmitted.","[""self-synchronizing"",""self-transmitted"",""self-modulated"",""none of the above""]",0
+"In _______ transmission, bits are transmitted over a single wire, one at a time.","[""asynchronous serial"",""synchronous serial"",""parallel"",""(a) and (b)""]",3
+"The first step in PCM is ________.","[""quantization"",""sampling"",""modulation"",""none of the above""]",1
+"_______ encoding has a transition at the middle of each bit.","[""Manchester"",""Differential Manchester"",""RZ"",""All the above""]",3
+"In ______ transmission, we send 1 start bit (0) at the beginning and 1 or more stop bits (1s) at the end of each byte.","[""synchronous"",""asynchronous"",""isochronous"",""none of the above""]",1
+"In _______ transmission, bits are transmitted simultaneously, each across its own wire.","[""Asynchronous serial"",""Synchronous serial"",""Parallel"",""(a) and (b)""]",2
+"Which encoding method uses alternating positive and negative values for 1s?","[""AMI"",""RZ"",""NRZ-I"",""Manchester""]",0
+"The data rate is sometimes called the ___ rate.","[""bit"",""baud"",""signal"",""none of the above""]",0
+"_______ provides redundancy to ensure synchronization and inherent error detection.","[""Line coding"",""Block coding"",""Scrambling"",""None of the above""]",1
+"In _______ transmission, a start bit and a stop bit frame a character byte.","[""synchronous serial"",""asynchronous serial"",""parallel"",""(a) and (b)""]",1
+"Two common scrambling techniques are ________.","[""B8ZS and HDB3"",""AMI and NRZ"",""NRZ and RZ"",""Manchester and differential Manchester""]",0
+"___________ conversion involves three techniques: line coding, block coding, and scrambling.","[""Analog-to-analog"",""Analog-to-digital"",""Digital-to-analog"",""Digital-to-digital""]",3
+"The _____ scheme uses data patterns of size 2 and encodes the 2-bit patterns as one signal element belonging to a four-level signal.","[""MLT-3"",""4B5B"",""2B1Q"",""none of the above""]",2
+"In _____, the level of the voltage determines the value of the bit.","[""NRZ-I"",""NRZ-L"",""both (a) and (b)"",""neither (a) nor (b)""]",1
+"________ is the process of converting digital data to a digital signal.","[""Line coding"",""Block coding"",""Scrambling"",""None of the above""]",0
+"In a _____ scheme, all the signal levels are on one side of the time axis, either above or below.","[""unipolar"",""polar"",""bipolar"",""all of the above""]",0
+"A ________ server loads all information from the primary server.","[""primary"",""secondary"",""zone"",""none of the above""]",1
+"The first level in the generic domains section allows ______ possible labels.","[""10"",""12"",""16"",""none of the above""]",3
+"If a label is not terminated by a null string, it is called a __________.","[""PQDN"",""FQDN"",""SQDN"",""none of the above""]",0
+"What a server is responsible for or has authority over is called a _________.","[""domain"",""label"",""zone"",""none of the above""]",2
+"DNS can use the services of ________ using the well-known port 53.","[""UDP"",""TCP"",""either (a) or (b)"",""none of the above""]",2
+"In the domain name chal.atc.fhda.edu, _______ is the most specific label.","[""chal"",""atc"",""fhda"",""none of the above""]",0
+"The root of the DNS tree is _______.","[""a string of characters"",""a string of 63 characters"",""an empty string"",""none of the above""]",2
+"When the secondary downloads information from the primary, it is called ______ transfer.","[""domain"",""zone"",""label"",""none of the above""]",1
+"A _______ is a server whose zone consists of the whole tree.","[""domain server"",""zone server"",""root server"",""none of the above""]",2
+"A pointer query involves the _______ domain.","[""inverse"",""reverse"",""root"",""none of the above""]",0
+"Each node in the tree has a _______, which is a string with a maximum of ___ characters.","[""label; 127"",""name; 255"",""label; 63"",""none of the above""]",2
+"To have a hierarchical name space, a ______________ was designed.","[""domain space"",""domain name"",""domain name space"",""none of the above""]",2
+"The _______ domains define registered hosts according to their generic behavior.","[""generic"",""country"",""inverse"",""none of the above""]",0
+"In a _________name space, each name is made of several parts.","[""flat"",""hierarchical"",""organized"",""none of the above""]",1
+"In a _______ name space, a name is assigned to an address. A name in this space is a sequence of characters without structure.","[""flat"",""hierarchical"",""organized"",""Connection-Oriented""]",0
+"The _________ domain is used to map an address to a name.","[""generic"",""country"",""inverse"",""none of the above""]",2
+"The ____________ domain section uses two-character country abbreviations.","[""generic"",""country"",""inverse"",""Bandwidth""]",1
+"A _________ is a subtree of the domain name space.","[""label"",""name"",""domain"",""none of the above""]",2
+"In the DNS, the names are defined in ___________ structure.","[""a linear list"",""an inverted-tree"",""a graph"",""none of the above""]",1
+"If a label is terminated by a null string, it is called a __________.","[""PQDN"",""FQDN"",""SQDN"",""none of the above""]",1
+"In the Internet, the domain name space (tree) is divided into _______ different sections:","[""three"",""two"",""four"",""none of the above""]",0
+"In __________ resolution, the server returns the IP address of the server that it thinks can resolve the query.","[""iterative"",""recursive"",""straight"",""none of the above""]",0
+"In the domain name chal.atc.fhda.edu, _______ is the least specific label.","[""chal"",""atc"",""edu"",""none of the above""]",2
+"A host with the domain name pit.arc.nasa.gov. is on the _______ level of the DNS hierarchical tree. (The root is level one.)","[""third"",""fourth"",""fifth"",""none of the above""]",2
+"In __________ resolution, the resolver expects the server to supply the final answer.","[""iterative"",""recursive"",""straight"",""none of the above""]",1
+"A ________ server loads all information from the disk file.","[""primary"",""secondary"",""zone"",""none of the above""]",0
+"The checksum of 1111 and 1111 is _________.","[""0000"",""1111"",""1110"",""0111""]",0
+"In modulo-11 arithmetic, we use only the integers in the range ______, inclusive.","[""1 to 10"",""0 to 10"",""1 to 11"",""none of the above""]",1
+"In cyclic redundancy checking, the divisor is _______ the CRC.","[""one bit less than"",""one bit more than"",""The same size as"",""none of the above""]",1
+"The ________ between two words is the number of differences between corresponding bits.","[""Hamming rule"",""Hamming code"",""Hamming distance"",""none of the above""]",2
+"The _______ of a polynomial is the highest power in the polynomial.","[""range"",""power"",""degree"",""none of the above""]",2
+"In modulo-2 arithmetic, __________ give the same results.","[""addition and subtraction"",""addition and multiplication"",""addition and division"",""none of the above""]",0
+"In cyclic redundancy checking, what is the CRC?","[""The quotient"",""The dividend"",""The divisor"",""The remainder""]",3
+"Which error detection method consists of just one redundant bit per data unit?","[""CRC"",""Checksum"",""Simple parity check"",""Two-dimensional parity check""]",2
+"In _____ coding, we divide our message into blocks, each of k bits, called ___.","[""block; blockwords"",""block; datawords"",""linear; datawords"",""none of the above""]",1
+"A _____ error means that two or more bits in the data unit have changed.","[""burst"",""double-bit"",""single-bit"",""none of the above""]",0
+"Adding 1 and 1 in modulo-2 arithmetic results in _________.","[""0"",""1"",""2"",""none of the above""]",0
+"In ________ error correction, the receiver corrects errors without requesting retransmission.","[""onward"",""forward"",""backward"",""none of the above""]",1
+"If the Hamming distance between a dataword and the corresponding codeword is three, there are _____ bits in error.","[""5"",""4"",""3"",""none of the above""]",2
+"A simple parity-check code can detect __________ errors.","[""an odd-number of"",""an even-number of"",""two"",""no errors""]",0
+"The Hamming distance between equal codewords is _________.","[""0"",""1"",""n"",""none of the above""]",0
+"In a linear block code, the _______ of any two valid codewords creates another valid codeword.","[""ANDing"",""XORing"",""ORing"",""none of the above""]",1
+"In ________ error correction, the receiver asks the sender to send the data again.","[""forward"",""backward"",""retransmission"",""none of the above""]",2
+"We can divide coding schemes into two broad categories: ________ and ______coding.","[""linear; nonlinear"",""block; convolution"",""block; linear"",""none of the above""]",1
+"In modulo-2 arithmetic, we use only ______.","[""1 and 2"",""0 and 1"",""0 and 2"",""none of the above""]",1
+"To guarantee correction of up to 5 errors in all cases, the minimum Hamming distance in a block code must be ________.","[""11"",""6"",""5"",""none of the above""]",0
+"The _____of errors is more difficult than the ______.","[""detection; correction"",""correction; detection"",""creation; correction"",""creation; detection""]",1
+"In block coding, if k = 2 and n = 3, we have _______ invalid codewords.","[""4"",""8"",""2"",""none of the above""]",0
+"The checksum of 0000 and 0000 is __________.","[""0000"",""1111"",""0111"",""1110""]",1
+"In one’s complement arithmetic, if positive 7 is 0111, then negative 7 is ________.","[""1101"",""1000"",""1111"",""none of the above""]",1
+"In block coding, if n = 5, the maximum Hamming distance between two codewords is ________.","[""5"",""3"",""2"",""none of the above""]",0
+"Which error detection method uses one’s complement arithmetic?","[""Checksum"",""CRC"",""Simple parity check"",""Two-dimensional parity check""]",0
+"The divisor in a cyclic code is normally called the _________.","[""redundancy"",""degree"",""generator"",""none of the above""]",2
+"In modulo-2 arithmetic, we use the ______ operation for both addition and subtraction.","[""OR"",""XOR"",""AND"",""none of the above""]",1
+"We add r redundant bits to each block to make the length n = k + r. The resulting n-bit blocks are called _________.","[""codewords"",""datawords"",""blockwords"",""none of the above""]",0
+"To guarantee the detection of up to 5 errors in all cases, the minimum Hamming distance in a block code must be _______.","[""11"",""5"",""6"",""none of the above""]",2
+"A generator that contains a factor of ____ can detect all odd-numbered errors.","[""x"",""1"",""x + 1"",""none of the above""]",2
+"_______codes are special linear block codes with one extra property. If a codeword is rotated, the result is another codeword.","[""Convolution"",""Cyclic"",""Non-linear"",""none of the above""]",1
+"The Hamming distance between 100 and 001 is ________.","[""0"",""1"",""2"",""none of the above""]",2
+"______ refers to the physical or logical arrangement of a network.","[""Topology"",""Mode of operation"",""Data flow"",""None of the above""]",0
+"A ______ is a data communication system spanning states, countries, or the whole world.","[""MAN"",""WAN"",""LAN"",""none of the above""]",1
+"A _______ connection provides a dedicated link between two devices.","[""primary"",""multipoint"",""point-to-point"",""secondary""]",2
+"Which topology requires a multipoint connection?","[""Bus"",""Star"",""Mesh"",""Ring""]",0
+"A ________ is a set of rules that governs data communication.","[""protocol"",""forum"",""standard"",""none of the above""]",0
+"In a ______ connection, two and only two devices are connected by a dedicated link.","[""multipoint"",""point-to-point"",""(a) and (b)"",""none of the above""]",1
+"The information to be communicated in a data communications system is the _______.","[""Medium"",""Protocol"",""Message"",""Transmission""]",2
+"________ defines how a particular pattern to be interpreted, and what action is to be taken based on that interpretation.","[""Syntax"",""Semantics"",""Timing"",""None of the above""]",1
+"Frequency of failure and network recovery time after a failure are measures of the _______of a network.","[""Performance"",""Security"",""Reliability"",""Feasibility""]",2
+"A television broadcast is an example of _______ transmission.","[""half-duplex"",""simplex"",""full-duplex"",""automatic""]",1
+"Data flow between two devices can occur in a _______ way.","[""simplex"",""half-duplex"",""full-duplex"",""all of the above""]",3
+"_______ are special-interest groups that quickly test, evaluate, and standardize new technologies.","[""Standards organizations"",""Regulatory agencies"",""Forums"",""All of the above""]",2
+"Which agency developed standards for physical connection interfaces and electronic signaling specifications?","[""ISO"",""ITU-T"",""ANSI"",""EIA""]",3
+"A _______ is a data communication system within a building, plant, or campus, or between nearby buildings.","[""LAN"",""MAN"",""WAN"",""none of the above""]",0
+"_______ refers to two characteristics: when data should be sent and how fast it can be sent.","[""Semantics"",""Timing"",""Syntax"",""none of the above""]",1
+"This was the first network.","[""CSNET"",""NSFNET"",""ARPANET"",""ANSNET""]",2
+"Devices may be arranged in a ______ topology.","[""mesh"",""ring"",""bus"",""all of the above""]",3
+"_______ is the protocol suite for the current Internet.","[""UNIX"",""NCP"",""TCP\/IP"",""ACM""]",2
+"________ is a collection of many separate networks.","[""A WAN"",""An internet"",""A LAN"",""None of the above""]",1
+"In a ________ connection, three or more devices share a link.","[""point-to-point"",""multipoint"",""(a) and (b)"",""none of the above""]",1
+"Which organization has authority over interstate and international commerce in the communications field?","[""FCC"",""IEEE"",""ITU-T"",""ISOC""]",0
+"In the original ARPANET, _______ were directly connected together.","[""routers"",""host computers"",""networks"",""IMPs""]",3
+"Communication between a computer and a keyboard involves ______________ transmission.","[""simplex"",""half-duplex"",""full-duplex"",""automatic""]",0
+"Which topology requires a central controller or hub?","[""Mesh"",""Bus"",""Star"",""Ring""]",2
+"The _______ is the physical path over which a message travels.","[""Protocol"",""Signal"",""Medium"",""All the above""]",2
+"In a _______ connection, more than two devices can share a single link.","[""multipoint"",""point-to-point"",""primary"",""secondary""]",0
+"_______ refers to the structure or format of the data, meaning the order in which they are presented.","[""Semantics"",""Syntax"",""Timing"",""All of the above""]",1
+"An unauthorized user is a network _______ issue.","[""Security"",""Reliability"",""Performance"",""All the above""]",0
+"________ is an idea or concept that is a precursor to an Internet standard.","[""RCF"",""ID"",""RFC"",""none of the above""]",2
+"In _______ transmission, the channel capacity is shared by both communicating devices at all times.","[""simplex"",""half-duplex"",""full-duplex"",""half-simplex""]",2
+"When there is more than one source, the _______ identifier defines the mixer.","[""synchronization source"",""contributor"",""timestamp"",""none of the above""]",0
+"__________ is the protocol designed to handle real-time traffic on the Internet.","[""TCP"",""UDP"",""RTP"",""none of the above""]",2
+"Jitter is introduced in real-time data by the _______________.","[""error caused during transmission"",""delay between packets"",""both a and b"",""none of the above""]",1
+"In a real-time video conference, data from the server is _______ to the client sites.","[""unicast"",""multicast"",""broadcast"",""none of the above""]",1
+"An RTP packet is encapsulated in _______.","[""a UDP user datagram"",""a TCP segment"",""an IP datagram"",""none of the above""]",3
+"A _______ changes the format of a high-bandwidth video signal to a lower quality narrow-bandwidth signal.","[""timestamp"",""sequence number"",""translator"",""none of the above""]",2
+"____________ is used to compress video.","[""MPEG"",""JPEG"",""either a or b"",""none of the above""]",0
+"Real-time traffic needs the support of ____________.","[""broadcasting"",""multicasting"",""both a and b"",""none of the above""]",1
+"_______ are used to number the packets of a real-time transmission.","[""Timestamps"",""Playback buffers"",""Sequence numbers"",""none of the above""]",2
+"The third phase of JPEG is ___________.","[""DCT transformation"",""quantization"",""data compression"",""none of the above""]",2
+"The second phase of JPEG is ___________.","[""DCT transformation"",""quantization"",""data compression"",""none of the above""]",1
+"A __________on each packet is required for real-time traffic.","[""timestamp"",""sequence number"",""both a and b"",""none of the above""]",2
+"To prevent _________, we can timestamp the packets and separate the arrival time from the playback time.","[""error"",""jitter"",""either a or b"",""none of the above""]",1
+"__________ means combining several streams of traffic into one stream.","[""Translation"",""Mixing"",""both a and b"",""none of the above""]",1
+"A real-time video performance lasts 10 min. If there is jitter in the system, the viewer spends _______ minutes watching the performance.","[""less than 10"",""more than 10"",""exactly 10"",""none of the above""]",1
+"___________ audio/video refers to the broadcasting of radio and TV programs through the Internet.","[""Interactive"",""Streaming live"",""Streaming stored"",""none of the above""]",1
+"__________ means changing the encoding of a payload to a lower quality to match the bandwidth of the receiving network.","[""Translation"",""Mixing"",""both a and b"",""none of the above""]",0
+"____________ is used to compress images.","[""MPEG"",""JPEG"",""either a or b"",""none of the above""]",1
+"A ________buffer is required for real-time traffic.","[""playback"",""reordering"",""sorting"",""none of the above""]",0
+"In ________ encoding, the differences between the samples are encoded instead of encoding all the sampled values.","[""predictive"",""perceptual"",""both a and b"",""none of the above""]",0
+"__________ encoding is based on the science of psychoacoustics, which is the study of how people perceive sound.","[""Predictive"",""Perceptual"",""both a and b"",""none of the above""]",1
+"_________ audio/video refers to the use of the Internet for interactive audio/video applications.","[""Interactive"",""Streaming live"",""Streaming stored"",""none of the above""]",0
+"According to the Nyquist theorem, we need to sample an analog signal ________times the highest frequency.","[""three"",""two"",""four"",""none of the above""]",1
+"___________ is an application protocol that establishes, manages, and terminates a multimedia session.","[""RIP"",""SIP"",""DIP"",""none of the above""]",1
+"_________ is not suitable for interactive multimedia traffic because it retransmits packets in case of errors.","[""UDP"",""TCP"",""both a and b"",""none of the above""]",1
+"RTCP uses an odd-numbered _______ port number that follows the port number selected for RTP.","[""UDP"",""TCP"",""both a and b"",""none of the above""]",0
+"We can divide audio and video services into _______ broad categories.","[""three"",""two"",""four"",""none of the above""]",0
+"RTP uses a temporary even-numbered _______ port.","[""UDP"",""TCP"",""both a and b"",""none of the above""]",0
+"________ audio/video refers to on-demand requests for compressed audio/video files.","[""Streaming live"",""Streaming stored"",""Interactive"",""none of the above""]",1
+"___________ is a protocol for controlling the flow and quality of data.","[""RTP"",""RTCP"",""UDP"",""none of the above""]",1
+"A _______ adds signals from different sources to create a single signal.","[""timestamp"",""sequence number"",""mixer"",""none of the above""]",2
+"A _______ shows the time a packet was produced relative to the first or previous packet.","[""timestamp"",""playback buffer"",""sequence number"",""none of the above""]",0
+"The first phase of JPEG is ___________.","[""DCT transformation"",""quantization"",""data compression"",""none of the above""]",0
+"In ______, the chance of collision can be reduced if a station senses the medium before trying to use it.","[""CSMA"",""MA"",""CDMA"",""FDMA""]",0
+"In the _______ method, the stations in a network are organized in a logical ring.","[""polling"",""token passing"",""reservation"",""none of the above""]",1
+"In _______, the sequences are generated using orthogonal codes such the Walsh tables.","[""TDMA"",""CDMA"",""FDMA"",""none of the above""]",1
+"__________ augments the CSMA algorithm to detect collision.","[""CSMA\/CD"",""CSMA\/CA"",""either (a) or (b)"",""both (a) and (b)""]",0
+"In the _________ method, after the station finds the line idle, it sends its frame immediately. If the line is not idle, it continuously senses the line until it finds it idle.","[""p-persistent"",""nonpersistent"",""1-persistent"",""none of the above""]",2
+"In the _____ method, time is divided into intervals. In each interval, a reservation frame precedes the data frames sent in that interval.","[""token passing"",""reservation"",""polling"",""none of the above""]",1
+"In the _______ method, each station has a predecessor and a successor.","[""token passing"",""polling"",""reservation"",""none of the above""]",0
+"The vulnerable time for CSMA is the ________propagation time.","[""three times"",""two times"",""the same as"",""none of the above""]",2
+"In the _________ method, a special packet called a ______ circulates through the ring.","[""polling: poll request"",""token passing: token"",""reservation: control frame"",""none of the above""]",1
+"In ________, the available bandwidth is divided into frequency bands.","[""TDMA"",""CDMA"",""FDMA"",""none of the above""]",2
+"In ___________ methods, no station is superior to another station and none is assigned the control over another.","[""controlled access"",""random access"",""channelization"",""none of the above""]",1
+"In the ________method, a station that has a frame to send senses the line. If the line is idle, it sends immediately. If the line is not idle, it waits a random amount of time and then senses the line again.","[""1-persistent"",""nonpersistent"",""p-persistent"",""none of the above""]",1
+"In ______, each station is allocated a band to send its data. In other words, each band is reserved for a specific station, and it belongs to the station all the time.","[""CDMA"",""FDMA"",""TDMA"",""none of the above""]",1
+"In the _______method, after the station finds the line idle it sends or refrain from sending based on the outcome of a random number generator. If the line is busy, it tries again.","[""p-persistent"",""nonpersistent"",""1-persistent"",""none of the above""]",0
+"To avoid collisions on wireless networks, ________was invented.","[""CSMA\/CD"",""CSMA\/CA"",""either (a) or (b)"",""both (a) and (b)""]",1
+"In _____, each station is allocated a time slot during which it can send data. Each station transmits its data in its assigned time slot.","[""TDMA"",""CDMA"",""FDMA"",""none of the above""]",0
+"In the _______ method, the primary device controls the link; the secondary devices follow its instructions.","[""token passing"",""reservation"",""polling"",""none of the above""]",2
+"In _____, each station transmits its data in its assigned time slot.","[""TDMA"",""CDMA"",""FDMA"",""none of the above""]",0
+"We discussed ________ channelization protocols.","[""four"",""three"",""two"",""none of the above""]",1
+"In the ______ method, all data exchanges must be made through the primary device even when the ultimate destination is a secondary device.","[""polling"",""token passing"",""reservation"",""none of the above""]",0
+"We discussed ______ popular controlled-access methods.","[""four"",""three"",""two"",""none of the above""]",1
+"In __________, each station is forced to send only at the beginning of the time slot.","[""pure ALOHA"",""slotted ALOHA"",""both (a) and (b)"",""neither (a) nor (b)""]",1
+"In _______ methods, the stations consult one another to find which station has the right to send.","[""channelization"",""random access"",""controlled access"",""none of the above""]",2
+"In ________ each station sends a frame whenever it has a frame to send.","[""slotted ALOHA"",""pure ALOHA"",""both (a) and (b)"",""neither (a) nor (b)""]",1
+"In ______, the stations use different codes to achieve multiple access.","[""CDMA"",""TDMA"",""FDMA"",""none of the above""]",0
+"In _______, collisions are avoided through the use of three strategies: the interframe space, the contention window, and acknowledgments.","[""CSMA\/CD"",""CSMA\/CA"",""either (a) or (b)"",""both (a) and (b)""]",1
+"In the ________ method, a station needs to make a reservation before sending data. Time is divided into intervals.","[""token passing"",""polling"",""reservation"",""none of the above""]",2
+"In pure ALOHA, the vulnerable time is ______ the frame transmission time.","[""two times"",""three times"",""the same as"",""none of the above""]",0
+"The maximum throughput for slotted ALOHA is ________ per cent.","[""36.8"",""18.4"",""12.2"",""none of the above""]",0
+"_________ is a multiple-access method in which the available bandwidth of a link is shared in time, frequency, or through code, between different stations.","[""Controlled access"",""Channelization"",""Random access"",""none of the above""]",1
+"________ requires that each station first listen to the medium before sending.","[""FDMA"",""CDMA"",""MA"",""CSMA""]",3
+"We have categorized access methods into _______ groups.","[""five"",""three"",""four"",""two""]",1
+"In _______ methods, a station cannot send unless it has been authorized by other stations.","[""controlled access"",""channelization"",""random access"",""none of the above""]",0
+"In slotted ALOHA, the vulnerable time is ______ the frame transmission time.","[""two times"",""three times"",""the same as"",""none of the above""]",2
+"In ________, a station monitors the medium after it sends a frame to see if the transmission was successful. If so, the station is finished. If, however, there is a collision, the frame is sent again.","[""CSMA\/CD"",""CSMA\/CA"",""either (a) or (b)"",""both (a) and (b)""]",0
+"_______ is based on coding theory and uses sequences of numbers called chips.","[""TDMA"",""CDMA"",""FDMA"",""none of the above""]",1
+"IGMP is _______ protocol.","[""an error reporting"",""a group management"",""a transmission"",""none of the above""]",1
+"If the sender is a host and wants to send a packet to another host on the same network, the logical address that must be mapped to a physical address is ______.","[""the destination IP address in the datagram header"",""the IP address of the router found in the routing table"",""either a or b"",""none of the above""]",0
+"The target hardware address on an Ethernet is _______ in an ARP request.","[""0x000000000000"",""0.0.0.0"",""variable"",""class dependent""]",0
+"If four hosts on a network belong to the same group, a total of _______ sent in response to a general query message.","[""one membership report is"",""two membership reports are"",""three membership reports are"",""none of the above""]",1
+"The _______ is used by a router in response to a received leave report.","[""general query message"",""special query message"",""membership report"",""none of the above""]",1
+"Which of the following is true about ICMP messages?","[""An ICMP error message may be generated for an ICMP error message."",""An ICMP error message may be generated only for the first fragment."",""An ICMP error message may be generated for a multicast datagram."",""none is true""]",1
+"An IGMP packet is carried in an __________ packet.","[""UDP"",""IP"",""Ethernet frame"",""none of the above""]",1
+"An IGMP query is sent from a _______ to a _______.","[""host; host"",""host; router"",""router; host or router"",""none of the above""]",2
+"In _______, a table associating a logical address with a physical address is updated manually.","[""static mapping"",""dynamic mapping"",""physical mapping"",""none of the above""]",0
+"A multicast message is sent from _______ to _______.","[""one source; one destination"",""one source; multiple destinations"",""multiple sources; one destination"",""none of the above""]",1
+"An ARP request is normally _______.","[""broadcast"",""multicast"",""unicast"",""none of the above""]",0
+"If the sender is a host and wants to send a packet to another host on another network, the logical address that must be mapped to a physical address is ______.","[""the destination IP address in the datagram header"",""the IP address of the router found in the routing table"",""either a or b"",""none of the above""]",1
+"The _______ field of the IGMP message is all zeros in a query message.","[""version"",""type"",""group address"",""none of the above""]",2
+"A technique called ______ is used to create a subnetting effect.","[""ARP"",""RARP"",""proxy ARP"",""none of the above""]",2
+"A ________ is a local address. Its jurisdiction is over a local network.","[""physical"",""logical"",""a and b"",""none of the above""]",0
+"The sender is a router that has received a datagram destined for a host on another network. The logical address that must be mapped to a physical address is ______.","[""the destination IP address in the datagram header"",""the IP address of the router found in the routing table"",""either a or b"",""none of the above""]",1
+"The sender is a router that has received a datagram destined for a host on the same network. The logical address that must be mapped to a physical address is ______.","[""the destination IP address in the datagram header"",""the IP address of the router found in the routing table"",""either a or b"",""none of the above""]",0
+"IGMP operates __________.","[""locally"",""globally"",""both a and b"",""none of the above""]",0
+"IGMP helps a ________ router create and update a list of loyal members related to each router interface.","[""broadcast"",""unicast"",""multicast"",""none of the above""]",2
+"In IGMP, the general query message ___________________ group.","[""does not define a particular"",""explicitly defines a"",""can define more than one"",""none of the above""]",0
+"A _______ is an ARP that acts on behalf of a set of hosts.","[""ARP"",""RARP"",""proxy ARP"",""none of the above""]",0
+"IGMP is a companion to the ______ protocol.","[""UDP"",""TCP"",""ICM"",""none of the above""]",3
+"ICMP is a _________ layer protocol.","[""data link"",""transport"",""network"",""none of the above""]",2
+"An ARP reply is normally _______.","[""broadcast"",""multicast"",""unicast"",""none of the above""]",2
+"_______ is a dynamic mapping protocol in which a physical address is found for a given logical address.","[""ARP"",""RARP"",""both a and b"",""none of the above""]",0
+"ICMP messages are divided into two broad categories: _____________.","[""query and error reporting messages"",""request and response messages"",""request and reply messages"",""none of the above""]",0
+"An ICMP message has _____ header and a variable-size data section.","[""a 16-byte"",""a 32-byte"",""an 8-byte"",""none of the above""]",0
+"The logical addresses in the Internet are called _______ addresses.","[""port"",""IP"",""Email"",""none of the above""]",1
+"Which of the following is true about ICMP messages?","[""An ICMP error message may be generated for an ICMP error message."",""An ICMP error message may be generated for each fragment."",""An ICMP error message may be generated for a multicast datagram."",""none is true""]",3
+"In networks that do not support physical multicast addressing, multicasting can be accomplished through _______.","[""mapping"",""queries"",""tunneling"",""none of the above""]",2
+"The least significant 23 bits in a 48-bit Ethernet address identify a ________.","[""multicast router"",""host"",""multicast group"",""none of the above""]",2
+"A _______ address is an internetwork address with universal jurisdiction.","[""physical"",""logical"",""a and b"",""none of the above""]",1
+"In IGMP, a membership report is sent _______.","[""once"",""twice"",""three times"",""none of the above""]",1
+"The input and output ports of a router perform the ________ layer functions of the router.","[""physical and data link"",""network"",""transport"",""none of the above""]",0
+"_________ broadcasts packets, but creates loops in the systems.","[""Forwarding"",""Flooding"",""Backwarding"",""none of the above""]",1
+"CBT is a ________ protocol that uses a core as the root of the tree.","[""source-based"",""group-shared"",""a or b"",""none of the above""]",1
+"RPF guarantees that each network receives only ____ of the multicast packet.","[""one copy"",""two copies"",""a or b"",""none of the above""]",3
+"Routing between autonomous systems is referred to as ____________.","[""interdomain routing"",""intradomain routing"",""both a and b"",""none of the above""]",0
+"DVMRP is a ________routing protocol, based on RIP.","[""source-based"",""group-shared"",""both a and b"",""none of the above""]",0
+"In _______, the router may forward the received packet through several of its interfaces.","[""unicasting"",""multicasting"",""broadcasting"",""none of the above""]",1
+"__________ is an implementation of multicast distance vector routing. It is a source-based routing protocol, based on RIP.","[""MOSPF"",""DVMRP"",""CBT"",""none of the above""]",1
+"In multicast routing, each involved router needs to construct a ________ path tree for each group.","[""average"",""longest"",""shortest"",""none of the above""]",2
+"In ________, the multicast packet must reach only those networks that have active members for that particular group.","[""RPF"",""RPB"",""RPM"",""none of the above""]",2
+"In ________, each node maintains a vector (table) of minimum distances to every node.","[""path vector"",""distance vector"",""link state"",""none of the above""]",1
+"A _______ message tells an upstream router to start sending multicast messages for a specific group through a specific router.","[""weed"",""graft"",""prune"",""none of the above""]",1
+"RPB guarantees that each destination receives _________ of the packet.","[""one copy"",""no copies"",""multiple copies"",""none of the above""]",0
+"Emulation of ________ through ___________ is not efficient and may create long delays.","[""unicasting; multiple unicasting"",""multicasting; multiple unicasting"",""broadcasting; multicasting"",""none of the above""]",1
+"MOSPF is a _______ protocol.","[""data-driven"",""command-driven"",""both a and b"",""none of the above""]",0
+"RPB creates a shortest path _______ tree from the source to each destination.","[""unicast"",""multicast"",""broadcast"",""none of the above""]",2
+"The _______ protocol allows the administrator to assign a cost, called the metric, to each route.","[""OSPF"",""RIP"",""BGP"",""none of the above""]",0
+"A one-to-all communication between one source and all hosts on a network is classified as a _______ communication.","[""unicast"",""multicast"",""broadcast"",""none of the above""]",2
+"For purposes of routing, the Internet is divided into ___________.","[""wide area networks"",""autonomous networks"",""autonomous systems"",""none of the above""]",2
+"The metric used by _______ is the hop count.","[""OSPF"",""RIP"",""BGP"",""none of the above""]",1
+"A static table is one _______.","[""with manual entries"",""which is updated automatically"",""either a or b"",""none of the above""]",0
+"The idea of address aggregation was designed to alleviate the increase in routing table entries when using ________.","[""classful addressing"",""classless addressing"",""both a and b"",""none of the above""]",1
+"In _______ forwarding, the full IP address of a destination is given in the routing table.","[""next-hop"",""network-specific"",""host-specific"",""default""]",2
+"The Routing Information Protocol (RIP) is an intradomain routing based on _________ routing.","[""distance vector"",""link state"",""path vector"",""none of the above""]",0
+"____________ is a group of networks and routers under the authority of a single administration.","[""An autonomous system"",""An area"",""both a and b"",""none of the above""]",0
+"In the group-shared tree approach, _________ involved in multicasting.","[""only the core router is"",""all routers are"",""only some routers are"",""none of the above""]",0
+"In OSPF, a ________ link is a network is connected to only one router.","[""point-to-point"",""transient"",""stub"",""none of the above""]",2
+"_______ adds pruning and grafting to _______ to create a multicast shortest path tree that supports dynamic membership changes.","[""RPM; RPB"",""RPB; RPM"",""RPF: RPM"",""none of the above""]",0
+"In OSPF, when the link between two routers is broken, the administration may create a _________ link between them using a longer path that probably goes through several routers.","[""point-to-point"",""transient"",""stub"",""none of the above""]",3
+"The Open Shortest Path First (OSPF) protocol is an intradomain routing protocol based on _______ routing.","[""distance vector"",""link state"",""path vector"",""none of the above""]",1
+"In unicast routing, each router in the domain has a table that defines a ______ path tree to possible destinations.","[""average"",""longest"",""shortest"",""none of the above""]",2
+"In _______, a logical tunnel is established by encapsulating the multicast packet inside a unicast packet.","[""UNIBONE"",""MULTBONE"",""MBONE"",""none of the above""]",2
+"_______ deals with the issues of creating and maintaining routing tables.","[""Forwarding"",""Routing"",""Directing"",""none of the above""]",1
+"To create a neighborhood relationship, a router running BGP sends an ________ message.","[""open"",""update"",""keep alive"",""none of the above""]",0
+"The Multicast Open Shortest Path First (MOSPF) protocol is an extension of the OSPF protocol that uses multicast routing to create source-based trees. The protocol is based on _______ routing.","[""distance vector"",""link state"",""path vector"",""none of the above""]",1
+"RPF eliminates the ________ in the flooding process.","[""forwarding"",""backwarding"",""flooding"",""none of the above""]",3
+"A _______ routing table is updated periodically using one of the dynamic routing protocols.","[""static"",""dynamic"",""hierarchical"",""none of the above""]",1
+"A one-to-many communication between one source and a specific group of hosts is classified as a _______ communication.","[""unicast"",""multicast"",""broadcast"",""none of the above""]",1
+"A one-to-one communication between one source and one destination is classified as a _______ communication.","[""unicast"",""multicast"",""broadcast"",""none of the above""]",0
+"A _______ routing table contains information entered manually.","[""static"",""dynamic"",""hierarchical"",""none of the above""]",0
+"PIM-DM is used in a _______ multicast environment, such as a LAN.","[""dense"",""sparse"",""a or b"",""none of the above""]",0
+"In distance vector routing, each node periodically shares its routing table with _________ and whenever there is a change.","[""every other node"",""its immediate neighbors"",""one neighbor"",""none of the above""]",1
+"Routing inside an autonomous system is referred to as _______________.","[""interdomain routing"",""intradomain routing"",""both a and b"",""none of the above""]",1
+"In RPF, a router forwards only the copy that has traveled the _______ path from the source to the router.","[""shortest"",""longest"",""average"",""none of the above""]",0
+"In ________ routing, we assume that there is one node (or more) in each autonomous system that acts on behalf of the entire autonomous system.","[""distant vector"",""path vector"",""link state"",""none of the above""]",1
+"___________ is an interdomain routing protocol using path vector routing.","[""BGP"",""RIP"",""OSPF"",""none of the above""]",0
+"In OSPF, a ________ link connects two routers without any other host or router in between.","[""point-to-point"",""transient"",""stub"",""none of the above""]",0
+"In _______ forwarding, the routing table holds the address of just the next hop instead of complete route information.","[""next-hop"",""network-specific"",""host-specific"",""default""]",0
+"In _______ forwarding, the destination address is a network address in the routing table.","[""next-hop"",""network-specific"",""host-specific"",""default""]",1
+"Pruning and grafting are strategies used in _______.","[""RPF"",""RPB"",""RPM"",""none of the above""]",2
+"The task of moving the packet from the input queue to the output queue in a router is done by _________.","[""input and output ports"",""routing processor"",""switching fabrics"",""none of the above""]",2
+"In _______ delivery, both the deliverer of the IP packet and the destination are on the same network.","[""a connectionless"",""a direct"",""an indirect"",""none of the above""]",1
+"In _______ forwarding, the mask and destination addresses are both 0.0.0.0 in the routing table.","[""next-hop"",""network-specific"",""host-specific"",""default""]",3
+"In the _______ tree approach, each router needs to have one shortest path tree for each group.","[""group-shared"",""source-based"",""a or b"",""none of the above""]",1
+"The use of hierarchy in routing tables can ________ the size of the routing tables.","[""reduce"",""increase"",""both a and b"",""none of the above""]",0
+"In _______ routing, the least cost route between any two nodes is the route with the minimum distance.","[""path vector"",""distance vector"",""link state"",""none of the above""]",1
+"Multicast link state routing uses the _______ tree approach.","[""source-based"",""group-shared"",""a or b"",""none of the above""]",0
+"A dynamic table is one _______.","[""with manual entries"",""which is updated automatically"",""either a or b"",""none of the above""]",1
+"In ______, the router forwards the received packet through only one of its interfaces.","[""unicasting"",""multicasting"",""broadcasting"",""none of the above""]",0
+"In OSPF, a _______ link is a network with several routers attached to it.","[""point-to-point"",""transient"",""stub"",""none of the above""]",1
+"The _________ routing uses the Dijkstra algorithm to build a routing table.","[""distance vector"",""link state"",""path vector"",""none of the above""]",1
+"An area is _______.","[""part of an AS"",""composed of at least two ASs"",""another term for an AS"",""none of the above""]",0
+"The principle of ________ states that the routing table is sorted from the longest mask to the shortest mask.","[""first mask matching"",""shortest mask matching"",""longest mask matching"",""none of the above""]",2
+"PIM-SM is used in a _______multicast environment such as a WAN.","[""dense"",""sparse"",""a or b"",""none of the above""]",1
+"The routing processor of a router performs the ________ layer functions of the router.","[""physical and data link"",""network"",""transport"",""none of the above""]",1
+"A _______ message tells an upstream router to stop sending multicast messages for a specific group through a specific router.","[""weed"",""graft"",""prune"",""none of the above""]",2
+"In IPv4 header, an HLEN value of decimal 10 means _______.","[""there are 10 bytes of options"",""there are 40 bytes of options"",""there are 10 bytes in the header"",""there are 40 bytes in the header""]",3
+"In IPv4, an HLEN value of decimal 10 means _______.","[""there are 10 bytes of options"",""there are 40 bytes of options"",""there are 40 bytes in the header"",""none of the above""]",2
+"In IPv6, the _______ field in the base header and the sender IP address combine to indicate a unique path identifier for a specific flow of data.","[""flow label"",""next header"",""hop limit"",""destination IP address""]",0
+"In IPv4, what is the value of the total length field in bytes if the header is 28 bytes and the data field is 400 bytes?","[""428"",""407"",""107"",""427""]",0
+"The term ________ means that IP provides no error checking or tracking. IP assumes the unreliability of the underlying layers and does its best to get a transmission through to its destination, but with no guarantees.","[""reliable delivery"",""connection-oriented delivery"",""best-effort delivery"",""none of the above""]",2
+"The ________ protocol is the transmission mechanism used by the TCP/IP suite.","[""ARP"",""IP"",""RARP"",""none of the above""]",1
+"In IPv4, what is the length of the data field given an HLEN value of 12 and total length value of 40,000?","[""39,988"",""40,012"",""40,048"",""39,952""]",3
+"In IPv4, what is needed to determine the number of the last byte of a fragment?","[""Identification number"",""Offset number"",""Total length"",""(b) and (c)""]",3
+"The IPv4 header size _______.","[""is 20 to 60 bytes long"",""is 20 bytes long"",""is 60 bytes long"",""none of the above""]",0
+"In IPv6, when a datagram needs to be discarded in a congested network, the decision is based on the _______ field in the base header.","[""hop limit"",""priority"",""next header"",""none of the above""]",1
+"In IPv4, which field or bit value unambiguously identifies the datagram as a fragment?","[""Do not fragment bit ? 0"",""More Fragment bit ? 0"",""Fragment offset = 1000"",""none of the above""]",2
+"Which of the following is a necessary part of the IPv6 datagram?","[""Base header"",""Extension header"",""Data packet from the upper layer"",""(a) and (c)""]",0
+"In IPv4, when a datagram is encapsulated in a frame, the total size of the datagram must be less than the _______.","[""MUT"",""MAT"",""MTU"",""none of the above""]",2
+"In IPv6, options are inserted between the _________ and the ___________ data.","[""base header; extension header"",""base header; upper-layer data"",""base header; frame header"",""none of the above""]",1
+"An IPv4 datagram is fragmented into three smaller datagrams. Which of the following is true?","[""The do not fragment bit is set to 1 for all three datagrams."",""The more fragment bit is set to 0 for all three datagrams."",""The identification field is the same for all three datagrams."",""The offset field is the same for all three datagrams.""]",2
+"In IPv4, if the fragment offset has a value of 100, it means that _______.","[""the datagram has not been fragmented"",""the datagram is 100 bytes in size"",""the first byte of the datagram is byte 100"",""the first byte of the datagram is byte 800""]",3
+"IP is _________ datagram protocol.","[""an unreliable"",""a connectionless"",""both a and b"",""none of the above""]",2
+"IPv6 allows _________ security provisions than IPv4.","[""more"",""less"",""the same level"",""none of the above""]",0
+"The IPv4 header field formerly known as the service type field is now called the _______ field.","[""IETF"",""checksum"",""differentiated services"",""none of the above""]",2
+"A best-effort delivery service such as IPv4 includes _______.","[""error checking"",""error correction"",""datagram acknowledgment"",""none of the above""]",3
+"The IPv4 header size _______.","[""is 20 to 60 bytes long"",""is 20 bytes long"",""is 60 bytes long"",""none of the above""]",0
+"What is the first address of a block of classless addresses if one of the addresses is 12.2.2.76/10?","[""12.0.0.0"",""12.2.0.0"",""12.2.2.2"",""none of the above""]",0
+"In IPv6, the___________ address is generally used by a normal host as a unicast address.","[""provider-based unicast"",""link local"",""site local"",""none of the above""]",0
+"Find the number of addresses in a block of classless addresses if one of the addresses is 12.2.2.7/24.","[""32"",""64"",""256"",""none of the above""]",2
+"The number of addresses in a class C block is _______.","[""65,534"",""16,777,216"",""256"",""none of the above""]",2
+"In classless addressing, the prefix length defines the _____________.","[""netid"",""hostid"",""mask"",""none of the above""]",2
+"What is the result of ANDing 255 and 15?","[""255"",""15"",""0"",""none of the above""]",1
+"In IPv6, _______ address defines a single computer.","[""a unicast"",""a multicast"",""an anycast"",""none of the above""]",0
+"What is the result of ANDing 254 and 15?","[""254"",""14"",""0"",""none of the above""]",1
+"An IPv6 address can have up to __________ colons.","[""8"",""7"",""4"",""none of the above""]",1
+"Which address could be the beginning address of a block of 16 classless addresses?","[""2.4.6.5"",""2.4.6.15"",""2.4.6.62"",""none of the above""]",3
+"Identify the class of the following IPv4 address: 229.1.2.3.","[""A"",""B"",""D"",""none of the above""]",2
+"What is the default mask for class A in CIDR notation?","[""\/9"",""\/8"",""\/16"",""none of the above""]",1
+"What is the first address of a block of classless addresses if one of the addresses is 12.2.2.127/28?","[""12.2.2.0"",""12.2.2.96"",""12.2.2.112"",""none of the above""]",2
+"What is the default mask for class B in CIDR notation?","[""\/9"",""\/8"",""\/16"",""none of the above""]",2
+"Identify the class of the following IPv4 address: 191.1.2.3.","[""A"",""B"",""C"",""none of the above""]",1
+"In IPv6, a ______address is used if a site with several networks uses the Internet protocols but is not connected to the Internet for security reasons.","[""link local"",""site local"",""mapped"",""none of the above""]",1
+"In IPv6, _________ address defines a group of computers.","[""a unicast"",""a multicast"",""an anycast"",""none of the above""]",1
+"The number of addresses assigned to an organization in classless addressing _______.","[""can be any number"",""must be a multiple of 256"",""must be a power of 2"",""none of the above""]",2
+"Find the number of addresses in a block of classless addresses if one of the addresses is 12.2.2.7/30.","[""2"",""4"",""8"",""none of the above""]",1
+"In IPv6, ____ address defines a group of computers with addresses that have the same prefix.","[""a unicast"",""a multicast"",""an anycast"",""none of the above""]",2
+"An organization is granted a block of classless addresses with the starting address 199.34.76.128/29. How many addresses are granted?","[""8"",""16"",""32"",""none of the above""]",0
+"An organization is granted a block of classless addresses with the starting address 199.34.76.64/28. How many addresses are granted?","[""8"",""16"",""32"",""none of the above""]",1
+"An organization is granted a block; one address is 2.2.2.64/20. The organization needs 10 subnets. What is the subnet prefix length?","[""\/20"",""\/24"",""\/25"",""none of the above""]",1
+"What is the default mask for class C in CIDR notation?","[""\/24"",""\/8"",""\/16"",""none of the above""]",0
+"In hexadecimal colon notation, a 128-bit address is divided into _______ sections, each _____ hexadecimal digits in length.","[""8: 2"",""8: 3"",""8: 4"",""none of the above""]",2
+"In a block, the mask is 255.255.192.0; what is the prefix length?","[""\/20"",""\/28"",""\/18"",""none of the above""]",2
+"An organization is granted a block of classless addresses with the starting address 199.34.32.0/27. How many addresses are granted?","[""8"",""16"",""32"",""none of the above""]",2
+"Which one is not a contiguous mask?","[""255.255.255.254"",""255.255.224.0"",""255.148.0.0"",""all are""]",2
+"To make addresses more readable, IPv6 specifies ____________notation.","[""dotted decimal"",""hexadecimal colon"",""both a and b"",""none of the above""]",1
+"In a block, the prefix length is /15; what is the mask?","[""255.254.0.0"",""255.255.255.0"",""255.255.255.128"",""none of the above""]",0
+"An IPv6 address can have up to __________ hexadecimal digits.","[""16"",""32"",""8"",""none of the above""]",1
+"In IPv6, a ___________ address is an address of 96 bits of zero followed by 32 bits of IPv4 address.","[""link local"",""site local"",""mapped"",""none of the above""]",3
+"In classless addressing, the _______ is the varying part (similar to the hostid).","[""suffix"",""prefix"",""hostid"",""none of the above""]",0
+"Which address could be the beginning address of a block of 256 classless addresses?","[""2.4.6.5"",""2.4.6.15"",""2.4.6.0"",""none of the above""]",2
+"What is the result of ANDing 0 and 15?","[""255"",""15"",""0"",""none of the above""]",2
+"What is the first address of a block of classless addresses if one of the addresses is 12.2.2.76/27?","[""12.2.2.0"",""12.2.2.32"",""12.2.2.64"",""none of the above""]",2
+"An IPv4 address consists of _______ bits.","[""4"",""8"",""32"",""64""]",2
+"In classless addressing, the ______ is another name for the common part of the address range.","[""suffix"",""prefix"",""netid"",""none of the above""]",1
+"An IPv6 address is _________ bits long.","[""32"",""64"",""128"",""none of the above""]",2
+"The number of addresses in a class A block is _______.","[""65,534"",""16,777,216"",""256"",""none of the above""]",1
+"What is the last address of a block of classless addresses if one of the addresses is 12.2.2.6/30?","[""12.2.2.2"",""12.2.2.6"",""12.2.2.7"",""none of the above""]",2
+"Which address could be the beginning address of a block of 32 classless addresses?","[""2.4.6.5"",""2.4.6.16"",""2.4.6.64"",""none of the above""]",2
+"In IPv6, a _______ address is used if a LAN uses the Internet protocols but is not connected to the Internet for security reasons.","[""link local"",""site local"",""mapped"",""none of the above""]",0
+"What is the result of ANDing 192 and 65?","[""192"",""65"",""64"",""none of the above""]",2
+"In IPv4, class _______ has the greatest number of addresses in each block.","[""A"",""B"",""C"",""D""]",0
+"The first address assigned to an organization in classless addressing _______.","[""must be a power of 4"",""must be evenly divisible by the number of addresses"",""must belong to one of the A, B, or C classes"",""none of the above""]",1
+"In IPv6, a _________address comprises 80 bits of zero, followed by 16 bits of one, followed by the 32-bit IPv4 address.","[""link local"",""site local"",""mapped"",""none of the above""]",2
+"The number of addresses in a class B block is _______.","[""65,536"",""16,777,216"",""256"",""none of the above""]",0
+"What is the last address of a block of classless addresses if one of the addresses is 12.2.2.127/28?","[""12.2.2.16"",""12.2.2.112"",""12.2.2.127"",""none of the above""]",2
+"In IPv6, the ________ prefix defines the purpose of the address.","[""type"",""purpose"",""both a and b"",""none of the above""]",0
+"In a block, the prefix length is /24; what is the mask?","[""255.255.255.0"",""255.255.242.0"",""255.255.0.0"",""none of the above""]",0
+"An IPv6 address consists of ________ bytes (octets);","[""4"",""8"",""16"",""none of the above""]",2
+"An organization is granted a block; one address is 2.2.2.64/25. If the subnet prefix length is /28, what is the maximum number of subnets?","[""2"",""4"",""8"",""none of the above""]",2
+"An SNMP agent can send _______ messages.","[""Response"",""GetRequest"",""SetRequest"",""none of the above""]",0
+"SMI uses another standard, ___________, to encode data to be transmitted over the network.","[""MIB"",""ANS.1"",""BER"",""none of the above""]",2
+"We can compare the task of network management to the task of writing a program. Both tasks need variable declarations. In network management this is handled by _________.","[""SMNP"",""MIB"",""SMI"",""none of the above""]",1
+"We can compare the task of network management to the task of writing a program. Both tasks need rules. In network management this is handled by ___________.","[""SMNP"",""MIB"",""SMI"",""none of the above""]",2
+"The _______ data types are atomic data types.","[""structure"",""simple"",""both a and b"",""none of the above""]",1
+"An SNMP agent can send _______ messages.","[""GetRequest"",""SetRequest"",""Trap"",""none of the above""]",2
+"Which is a manager duty?","[""Retrieve the value of an object defined in an agent."",""Store the value of an object defined in an agent."",""a and b"",""none of the above""]",2
+"We can compare the task of network management to the task of writing a program. Both tasks have actions performed by statements. In network management this is handled by _______.","[""SMNP"",""MIB"",""SMI"",""none of the above""]",0
+"An agent is a host or computer that runs the SNMP _______ process.","[""client"",""server"",""both a and b"",""none of the above""]",1
+"The Trap PDU is sent from the ______ to the _______ to report an event.","[""server; client"",""client; server"",""network; host"",""none of the above""]",0
+"To name objects globally, SMI uses an object identifier, which is a hierarchical identifier based on a _______ structure.","[""linear"",""tree"",""graph"",""none of the above""]",1
+"INTEGER, OCTET STRING, and Object Identifier are _______ definitions used by SMI.","[""MIB"",""SNMP"",""ASN.1"",""none of the above""]",2
+"The Response PDU is sent from the ______ to the ______ in response to GetRequest or GetNextRequest.","[""server; client"",""client; server"",""network; host"",""none of the above""]",0
+"SMI emphasizes three attributes to handle an object: _____, ________, and _________.","[""name; data type; size"",""name; size; encoding method"",""name; data type; encoding method"",""none of the above""]",2
+"SNMP uses the services of UDP on two well-known ports, _______ and _______.","[""161; 162"",""160; 161"",""160; 162"",""none of the above""]",0
+"SNMP uses two other protocols:________ and _________.","[""MIB; SMTP"",""SMI; MIB"",""FTP; SMI"",""none of the above""]",1
+"_______ runs the SNMP client program; _______ runs the SNMP server program.","[""A manager; a manager"",""An agent; an agent"",""A manager; an agent"",""An agent; a manager""]",2
+"An object id defines a _______. Add a zero suffix to define the _______.","[""variable; table"",""table; variable"",""variable; variable contents"",""none of the above""]",2
+"The _______ field in the SNMP PDU consists of a sequence of variables and their corresponding values.","[""version"",""community"",""VarBindList"",""none of the above""]",2
+"SMI defines two structured data types: ________ and _________.","[""sequence; atomic"",""sequence; sequence of"",""a sequence of; array"",""none of the above""]",1
+"The _______ field in the SNMP PDU reports an error in a response message.","[""community"",""enterprise"",""error status"",""none of the above""]",2
+"All objects managed by SNMP are given an object identifier. The object identifier always starts with _______.","[""1.3.6.1.2.1"",""1.3.6.1.2.2"",""1.3.6.1.2.3"",""none of the above""]",0
+"Which of the following could be a legitimate MIB object identifier?","[""1.3.6.1.2.1.1"",""1.3.6.1.2.2.1"",""2.3.6.1.2.1.2"",""none of the above""]",0
+"SMI has two broad categories of data type: _______ and _______.","[""simple; complex"",""simple; structured"",""structured; unstructured"",""none of the above""]",1
+"The _______ field in the SNMP PDU is an offset that points to the variable in error.","[""community"",""enterprise"",""error index"",""none of the above""]",2
+"SNMP defines the ___________________ to be sent from a manager to an agent and vice versa.","[""format of the packets"",""encoding of the packets"",""number of packets"",""none of the above""]",0
+"The GetRequest PDU is sent from the _______ to the __________ to retrieve the value of a variable or a set of variables.","[""client; server"",""server; client"",""server; network"",""none of the above""]",0
+"The _________ ordering enables a manager to access a set of variables one after another by defining the first variable.","[""lexicographic"",""linear"",""non-linear"",""none of the above""]",0
+"To define the data type, SMI uses fundamental _______ definitions and adds some new definitions.","[""AMS.1"",""ASN.1"",""ASN.2"",""none of the above""]",1
+"________ defines the general rules for naming objects, defining object types, and showing how to encode objects and values.","[""MIB"",""BER"",""SMI"",""none of the above""]",2
+"For a 1-byte length field, what is the maximum value for the data length?","[""127"",""128"",""255"",""none of the above""]",0
+"Which of the following is an application layer service?","[""File transfer and access"",""Mail service"",""Remote log-in"",""All the above""]",3
+"When data are transmitted from device A to device B, the header from A’s layer 4 is read by B’s _______ layer.","[""Transport"",""Application"",""Physical"",""None of the above""]",0
+"__________ provides full transport layer services to applications.","[""UDP"",""TCP"",""ARP"",""none of the above""]",1
+"The process-to-process delivery of the entire message is the responsibility of the _______ layer.","[""Transport"",""Application"",""Physical"",""Network""]",0
+"The ______ layer is responsible for moving frames from one hop (node) to the next.","[""transport"",""data link"",""physical"",""none of the above""]",1
+"The _______ layer is responsible for delivering data units from one station to the next without errors.","[""physical"",""data link"",""transport"",""network""]",1
+"The session, presentation, and application layers are the ______ support layers.","[""user"",""network"",""both (a) and (b)"",""neither (a) nor (b)""]",0
+"The physical, data link, and network layers are the ______ support layers.","[""network"",""user"",""both (a) and (b)"",""neither (a) nor (b)""]",0
+"The ________ layer is responsible for the process-to-process delivery of the entire message.","[""transport"",""physical"",""network"",""data link""]",0
+"The _______ layer lies between the network layer and the application layer.","[""Data link"",""Transport"",""Physical"",""None of the above""]",1
+"The Internetworking Protocol (IP) is a ________ protocol.","[""connection-oriented"",""reliable"",""both a and b"",""none of the above""]",3
+"The _______ layer links the network support layers and the user support layers.","[""session"",""transport"",""data link"",""network""]",1
+"ICMPv6 includes _______.","[""IGMP"",""ARP"",""RARP"",""a and b""]",3
+"The ____ address uniquely defines a host on the Internet.","[""IP"",""port"",""specific"",""physical""]",0
+"The _______ layer coordinates the functions required to transmit a bit stream over a physical medium.","[""data link"",""transport"",""network"",""physical""]",3
+"The ______ layer is responsible for the source-to-destination delivery of a packet across multiple network links.","[""network"",""physical"",""data link"",""transport""]",0
+"Mail services are available to network users through the _______ layer.","[""Transport"",""Physical"",""Data link"",""Application""]",3
+"The ____ created a model called the Open Systems Interconnection, which allows diverse systems to communicate.","[""IEEE"",""ISO"",""OSI"",""none of the above""]",1
+"The _______ layer changes bits into electromagnetic signals.","[""Physical"",""Transport"",""Data link"",""None of the above""]",0
+"IPv6 has _______ -bit addresses.","[""128"",""32"",""64"",""variable""]",0
+"The_____ address identifies a process on a host.","[""specific"",""port"",""IP"",""physical""]",1
+"The_________ layer is responsible for the delivery of a message from one process to another.","[""transport"",""network"",""physical"",""none of the above""]",0
+"The _________ layer enables the users to access the network.","[""application"",""physical"",""data link"",""transport""]",0
+"Message _______ means that the receiver is ensured that the message is coming from the intended sender, not an imposter.","[""confidentiality"",""integrity"",""authentication"",""none of the above""]",2
+"A(n) ________function creates a message digest out of a message.","[""encryption"",""decryption"",""hash"",""none of the above""]",2
+"The secret key between members needs to be created as a ______ key when two members contact KDC.","[""public"",""session"",""complimentary"",""none of the above""]",1
+"The ________ criterion ensures that a message cannot easily be forged.","[""one-wayness"",""weak-collision-resistance"",""strong-collision-resistance"",""none of the above""]",1
+"A(n) _____ is a trusted third party that assigns a symmetric key to two parties.","[""KDC"",""CA"",""KDD"",""none of the above""]",0
+"A witness used in entity authentication is ____________.","[""something known"",""something possessed"",""something inherent"",""all of the above""]",3
+"A _______ message digest is used as an MDC.","[""keyless"",""keyed"",""either (a) or (b)"",""neither (a) nor (b)""]",0
+"A(n)______ creates a secret key only between a member and the center.","[""CA"",""KDC"",""KDD"",""none of the above""]",1
+"________ means to prove the identity of the entity that tries to access the system’s resources.","[""Message authentication"",""Entity authentication"",""Message confidentiality"",""none of the above""]",1
+"A ________ signature is included in the document; a _______ signature is a separate entity.","[""conventional; digital"",""digital; digital"",""either (a) or (b)"",""neither (a) nor (b)""]",0
+"If _________ is needed, a cryptosystem must be applied over the scheme.","[""integrity"",""confidentiality"",""nonrepudiation"",""authentication""]",1
+"Digital signature provides ________.","[""authentication"",""nonrepudiation"",""both (a) and (b)"",""neither (a) nor (b)""]",2
+"Digital signature cannot provide ________ for the message.","[""integrity"",""confidentiality"",""nonrepudiation"",""authentication""]",1
+"To authenticate the data origin, one needs a(n) _______.","[""MDC"",""MAC"",""either (a) or (b)"",""neither (a) nor (b)""]",1
+"A(n) _________ can be used to preserve the integrity of a document or a message.","[""message digest"",""message summary"",""encrypted message"",""none of the above""]",0
+"Challenge-response authentication can be done using ________.","[""symmetric-key ciphers"",""asymmetric-key ciphers"",""keyed-hash functions"",""all of the above""]",3
+"The _______criterion ensures that we cannot find two messages that hash to the same digest.","[""one-wayness"",""weak-collision-resistance"",""strong-collision-resistance"",""none of the above""]",2
+"A digital signature needs a(n)_________ system.","[""symmetric-key"",""asymmetric-key"",""either (a) or (b)"",""neither (a) nor (b)""]",1
+"A(n) ________is a federal or state organization that binds a public key to an entity and issues a certificate.","[""KDC"",""Kerberos"",""CA"",""none of the above""]",2
+"Message ________ means that the sender and the receiver expect privacy.","[""confidentiality"",""integrity"",""authentication"",""none of the above""]",0
+"In ________ authentication, the claimant proves that she knows a secret without actually sending it.","[""password-based"",""challenge-response"",""either (a) or (b)"",""neither (a) nor (b)""]",1
+"In _______, a claimant proves her identity to the verifier by using one of the three kinds of witnesses.","[""message authentication"",""entity authentication"",""message confidentiality"",""message integrity""]",1
+"The _______ criterion states that it must be extremely difficult or impossible to create the message if the message digest is given.","[""one-wayness"",""weak-collision-resistance"",""strong-collision-resistance"",""none of the above""]",0
+"A(n) ______ is a hierarchical system that answers queries about key certification.","[""KDC"",""PKI"",""CA"",""none of the above""]",2
+"_________ means that a sender must not be able to deny sending a message that he sent.","[""Confidentiality"",""Integrity"",""Authentication"",""Nonrepudiation""]",3
+"A hash function must meet ________ criteria.","[""two"",""three"",""four"",""none of the above""]",1
+"__________ is a popular session key creator protocol that requires an authentication server and a ticket-granting server.","[""KDC"",""Kerberos"",""CA"",""none of the above""]",1
+"Password-based authentication can be divided into two broad categories: _______ and _______.","[""fixed; variable"",""time-stamped; fixed"",""fixed; one-time"",""none of the above""]",2
+"To accomplish flow control, TCP uses a ___________ window protocol.","[""limited-size"",""sliding"",""fixed-size"",""none of the above""]",1
+"UDP and TCP are both _______ layer protocols.","[""data link"",""network"",""transport"",""none of the above""]",2
+"In TCP, one end can stop sending data while still receiving data. This is called a ______.","[""half-close"",""half-open"",""one-way termination"",""none of the above""]",0
+"In SCTP, the acknowledgment number and window size are part of each ________.","[""data chunk"",""control chunk"",""a or b"",""none of the above""]",1
+"A connection in SCTP is called an ____________.","[""negotiation"",""association"",""transmission"",""none of the above""]",1
+"An ACK segment, if carrying no data, consumes ______ sequence number(s).","[""no"",""one"",""two"",""none of the above""]",0
+"The association identifier in SCTP is __________________.","[""a unique verification tag"",""a combination of logical and port addresses"",""either a or b"",""none of the above""]",0
+"In SCTP, a data chunk is numbered using ________.","[""a TSN"",""an SI"",""an SSN"",""none of the above""]",0
+"The bytes of data being transferred in each connection are numbered by TCP. The numbering starts with a __________________.","[""0"",""1"",""randomly generated number"",""none of the above""]",2
+"In the sending computer, UDP receives a data unit from the _______ layer.","[""application"",""transport"",""IP"",""none of the above""]",0
+"SCTP allows __________ service in each association.","[""single stream"",""multistream"",""double stream"",""none of the above""]",1
+"TCP is a ___________ protocol.","[""connection-oriented"",""connectionless"",""both a and b"",""none of the above""]",0
+"UDP uses ________ to handle outgoing user datagrams from multiple processes on one host.","[""flow control"",""multiplexing"",""demultiplexing"",""none of the above""]",1
+"Because the sending and the receiving processes may not write or read data at the same speed, TCP ________.","[""speeds up the slower process"",""slows down the faster process"",""uses buffers"",""none of the above""]",2
+"SCTP association allows _____________ for each end.","[""only one IP address"",""multiple IP addresses"",""only two IP address"",""none of the above""]",1
+"UDP needs the _______ address to deliver the user datagram to the correct application process.","[""port"",""application"",""internet"",""none of the above""]",0
+"In an SCTP packet, control chunks come ___________ data chunks.","[""after"",""before"",""a or b"",""none of the above""]",1
+"TCP is a(n) _______ transport protocol.","[""unreliable"",""best-effort delivery"",""reliable"",""none of the above""]",2
+"TCP delivers _______ out-of-order segments to the process.","[""all"",""no"",""some"",""none of the above""]",1
+"Multiply the header length field by _______ to find the total number of bytes in the TCP header.","[""2"",""4"",""6"",""none of the above""]",1
+"Which of the following does UDP guarantee?","[""flow control"",""connection-oriented delivery"",""either a or b"",""none of the above""]",3
+"TCP allows the sending process to deliver data as a _______of bytes and allows the receiving process to obtain data as a _________ of bytes.","[""message; message"",""stream; stream"",""block; block"",""none of the above""]",1
+"To distinguish between different data chunks belonging to the same stream, SCTP uses ___________.","[""TSNs"",""SIs"",""SSNs"",""none of the above""]",2
+"The ports ranging from 49,152 to 65,535 can be used as temporary or private port numbers. They are called the ________ ports.","[""well-known"",""registered"",""dynamic"",""none of the above""]",2
+"UDP does not add anything to the services of IP except for providing _______ communication.","[""node-to-node"",""process-to-process"",""host-to-host"",""none of the above""]",1
+"The combination of an IP address and a port number is called a ____________.","[""transport address"",""network address"",""socket address"",""none of the above""]",2
+"The options field of the TCP header ranges from 0 to _______ bytes.","[""10"",""20"",""40"",""none of the above""]",2
+"A port address in UDP is _______bits long.","[""8"",""16"",""32"",""none of the above""]",1
+"The FIN segment consumes ____ sequence numbers if it does not carry data.","[""two"",""three"",""no"",""none of the above""]",3
+"The inclusion of the checksum in the TCP segment is ________.","[""optional"",""mandatory"",""at the discretion of the application program"",""none of the above""]",1
+"The FIN + ACK segment consumes _____ sequence number(s) if it does not carry data.","[""two"",""three"",""one"",""none of the above""]",2
+"TCP uses _________________ to check the safe and sound arrival of data.","[""an acknowledgment mechanism"",""out-of-band signaling"",""the services of another protocol"",""none of the above""]",0
+"ACK segments consume _______ sequence number(s) and _______ acknowledged.","[""no; are not"",""one; are not"",""no; are"",""none of the above""]",0
+"In SCTP, acknowledgment numbers are used to acknowledge _____________.","[""both data chunks and control chunks"",""only control chunks"",""only data chunks"",""none of the above""]",2
+"The source port address on the UDP user datagram header defines _______.","[""the sending computer"",""the receiving computer"",""the process running on the sending computer"",""none of the above""]",2
+"__________ control regulates the amount of data a source can send before receiving an acknowledgment from the destination.","[""Error"",""Flow"",""Congestion"",""none of the above""]",1
+"To use the services of UDP, we need ________ socket addresses.","[""four"",""two"",""three"",""none of the above""]",1
+"The value of the window size is determined by _________.","[""the sender"",""the receiver"",""both the sender and receiver"",""none of the above""]",1
+"TCP assigns a sequence number to each segment that is being sent. The sequence number for each segment is the number of the _______ byte carried in that segment.","[""first"",""last"",""middle"",""none of the above""]",0
+"An SCTP packet can carry __________.","[""only one data chunk"",""several data chunks"",""no data chunks"",""none of the above""]",1
+"UDP is an acronym for _______.","[""User Delivery Protocol"",""User Datagram Procedure"",""User Datagram Protocol"",""none of the above""]",2
+"A SYN + ACK segment cannot carry data; it consumes _____ sequence number(s).","[""no"",""three"",""two"",""none of the above""]",3
+"TCP groups a number of bytes together into a packet called a ___________.","[""user datagram"",""segment"",""datagram"",""none of the above""]",1
+"There is no need for a header length field in SCTP because ________________.","[""there are no options in the general header"",""the size of the header is fixed"",""both a and b"",""none of the above""]",2
+"Connection establishment in TCP is called __________ handshaking.","[""two-way"",""four-way"",""one-way"",""none of the above""]",3
+"UDP packets are encapsulated in ___________.","[""an Ethernet frame"",""an TCP segment"",""an IP datagram"",""none of the above""]",2
+"The checksum in SCTP is ________ bits.","[""16"",""32"",""64"",""none of the above""]",1
+"TCP sliding windows are __________ oriented.","[""packet"",""segment"",""byte"",""none of the above""]",2
+"If a segment carries data along with an acknowledgment, this is called _______.","[""backpacking"",""piggybacking"",""piggypacking"",""none of the above""]",1
+"If the ACK value is 200, then byte _______ has been received successfully.","[""199"",""200"",""201"",""none of the above""]",0
+"A TCP segment is encapsulated in __________.","[""an IP datagram"",""an Ethernet frame"",""a UDP user datagram"",""none of the above""]",0
+"TCP is a __________protocol.","[""stream-oriented"",""message-oriented"",""block-oriented"",""none of the above""]",0
+"UDP packets are called __________.","[""user datagrams"",""segments"",""frames"",""none of the above""]",0
+"In the sending computer, UDP sends a data unit to the _______ layer.","[""application"",""transport"",""IP"",""none of the above""]",2
+"In SCTP, control information and data information are carried in _______ chunks.","[""the same chunk"",""different chunks"",""either a or b"",""none of the above""]",1
+"TCP has ____________; SCTP has ____________.","[""packets; segments"",""segments; packets"",""segments; frames"",""none of the above""]",1
+"One of the responsibilities of the transport layer protocol is to create a ______ communication.","[""host-to-host"",""process-to-process"",""node-to-node"",""none of the above""]",1
+"The control information in SCTP is included in the ________.","[""header control field"",""control chunks"",""data chunks"",""none of the above""]",1
+"Communication in TCP is ___________.","[""simplex"",""half-duplex"",""full-duplex"",""none of the above""]",2
+"Stream Control Transmission Protocol (SCTP) is a new _____________protocol.","[""reliable, character-oriented"",""reliable, message-oriented"",""unreliable, message-oriented"",""none of the above""]",1
+"To distinguish between different streams, SCTP uses ___________.","[""a TSN"",""an SI"",""an SSN"",""none of the above""]",1
+"Which of the following functions does UDP perform?","[""process-to-process communication"",""host-to-host communication"",""end-to-end reliable data delivery"",""none of the above""]",0
+"IP is responsible for _______ communication while TCP is responsible for _______ communication.","[""host-to-host; process-to-process"",""process-to-process; host-to-host"",""process-to-process; network-to-network"",""none of the above""]",0
+"The connection establishment procedure in TCP is susceptible to a serious security problem called the _________ attack.","[""ACK flooding"",""FIN flooding"",""SYN flooding"",""none of the above""]",2
+"UDP is called a _____________transport protocol.","[""connectionless, reliable"",""connection-oriented, unreliable"",""connectionless, unreliable"",""none of the above""]",2
+"In SCTP, ___________ can be carried in a packet that carries an INIT chunk.","[""only data chunks"",""only control chunks"",""no other chunk"",""none of the above""]",2
+"UDP packets have a fixed-size header of _______ bytes.","[""16"",""8"",""40"",""none of the above""]",1
+"The SYN flooding attack belongs to a group of security attacks known as a _____ attack.","[""denial of service"",""replay"",""man-in-the middle"",""none of the above""]",0
+"When the IP layer of a receiving host receives a datagram, _______.","[""delivery is complete"",""a transport layer protocol takes over"",""a header is added"",""none of the above""]",1
+"The value of the acknowledgment field in a segment defines the number of the ______byte a party expects to receive.","[""first"",""last"",""next"",""none of the above""]",2
+"A SYN segment cannot carry data; it consumes _____ sequence number(s).","[""no"",""one"",""two"",""none of the above""]",1
+"The acknowledgment number is ________.","[""independent"",""randomly generated"",""cumulative"",""none of the above""]",2
+"The local host and the remote host are defined using IP addresses. To define the processes, we need second identifiers called ____________.","[""UDP addresses"",""transport addresses"",""port addresses"",""none of the above""]",2
+"Although there are several ways to achieve process-to-process communication, the most common is through the __________ paradigm.","[""client-server"",""client-client"",""server-server"",""none of the above""]",0
+"A(n) _________ machine is a machine that goes through a limited number of states.","[""infinite state"",""finite state"",""both a and b"",""none of the above""]",1
+"UDP uses _______ to handle incoming user datagrams that go to different processes on the same host.","[""flow control"",""multiplexing"",""demultiplexing"",""none of the above""]",2
+"The actual mail transfer is done through ____________.","[""UAs"",""MTAs"",""MAAs"",""none of the above""]",1
+"If the sender wants an option enabled by the receiver, it sends a _______ command.","[""WILL"",""DO"",""WONT"",""none of the above""]",1
+"When the sender is connected to the mail server via a LAN or a WAN, we need ______________.","[""two MTA"",""two UAs and two pairs of MTAs"",""two UAs and a pair of MTAs"",""none of the above""]",1
+"The ________ usually contains the sender address, the receiver address, and other information.","[""message"",""envelope"",""both a and b"",""none of the above""]",1
+"NVT uses two sets of characters, one for _____and one for __________.","[""sending; receiving"",""request; reply"",""data; control"",""none of the above""]",2
+"In FTP, ASCII, EBCDIC, and image define an attribute called _______.","[""file type"",""data structure"",""transmission mode"",""none of the above""]",0
+"The third stage in an email transfer needs a ________ protocol.","[""pull"",""push"",""both a and b"",""none of the above""]",0
+"_______ is the standard mechanism provided by TCP/IP for copying a file from one host to another.","[""TELNET"",""SMTP"",""TFTP"",""none of the above""]",3
+"In the _______ mode, each character typed is sent by the client to the server.","[""default"",""character"",""line"",""none of the above""]",1
+"The _______ is software residing on the remote system that allows the remote system to receive characters from a TELNET server.","[""terminal driver"",""pseudoterminal driver"",""TELNET client"",""none of the above""]",1
+"FTP uses the services of ________.","[""UDP"",""IP"",""TCP"",""none of the above""]",2
+"For the control connection, FTP uses the __________ character set.","[""regular ASCII"",""EBCDIC"",""NVT ASCII"",""none of the above""]",2
+"In FTP, when we _______, it is copied from the client to the server.","[""retrieve a file"",""store a file"",""retrieve a list"",""none of the above""]",1
+"During an FTP session the data connection is opened _______.","[""exactly once"",""exactly twice"",""as many times as necessary"",""none of the above""]",2
+"In FTP, _______ is the service type used by the IP protocol because this is an interactive connection between a user (human) and a server.","[""maximize throughput"",""minimize delay"",""minimize error"",""none of the above""]",1
+"When a user wants to access an application program or utility located on a remote machine, he or she performs ___________ login.","[""local"",""remote"",""temporary"",""none of the above""]",1
+"The third stage in an email transfer uses a(n) ________ protocol.","[""UA"",""MTA"",""MAA"",""none of the above""]",2
+"TELNET uses only one TCP connection. The server uses ________ port and the client uses ________ port.","[""a well-known; another well-known"",""an ephemeral; another ephemeral"",""a well-known; an ephemeral"",""none of the above""]",2
+"For control, NVT uses US ASCII characters with the highest order bit set to ______.","[""1"",""0"",""a or b"",""none of the above""]",0
+"The formal protocol that defines the MTA client and server in the Internet is called ___________.","[""SMTP"",""SNMP"",""TELNET"",""none of the above""]",0
+"_________ is a supplementary protocol that allows non-ASCII data to be sent through email.","[""JPEG"",""MPEG"",""MIME"",""none of the above""]",2
+"Which of the following services is not provided by a UA?","[""composing messages"",""reading messages"",""replying messages"",""all are""]",3
+"If the sender wants to enable an option, it sends a _______ command.","[""WILL"",""DO"",""WONT"",""none of the above""]",0
+"In FTP, when we _______, it is copied from the server to the client.","[""retrieve a file"",""retrieve a list"",""a and b"",""none of the above""]",2
+"TELNET is an abbreviation for ____________.","[""terminal network"",""telephone network"",""telecommunication network"",""none of the above""]",0
+"When a user logs into a local time-sharing system, it is called ________ login.","[""local"",""remote"",""temporary"",""none of the above""]",0
+"Which part of the mail created by the UA contains the sender and receiver names?","[""envelope"",""address"",""header"",""none of the above""]",2
+"________ is part of a local hard drive, a special file with permission restrictions.","[""A message"",""A response"",""An agent"",""none of the above""]",3
+"________ provides service to the user to make the process of sending and receiving a message easier.","[""An MTA"",""An MAA"",""A UA"",""none of the above""]",2
+"The message contains the ________ and the __________.","[""header; envelop"",""header; body"",""envelop; body"",""none of the above""]",1
+"In the ____ mode, line editing (echoing, character erasing, line erasing, and so on) is done by the client.","[""default"",""character"",""line"",""none of the above""]",2
+"The MIME _______ header uses text to describe the type of data in the body of the message.","[""content-type"",""content-transfer-encoding"",""content-description"",""none of the above""]",2
+"If the sender wants to disable an option, it sends a _______ command.","[""WILL"",""DO"",""WONT"",""none of the above""]",2
+"SMTP is a __________protocol.","[""pull"",""push"",""both a and b"",""none of the above""]",1
+"In FTP, there are three types of _______: stream, block, and compressed.","[""file types"",""data structures"",""transmission modes"",""none of the above""]",2
+"For data, NVT uses US ASCII characters with the highest order bit set to ______.","[""1"",""0"",""a or b"",""none of the above""]",1
+"The _______ translates NVT characters into a form acceptable by the remote operating system.","[""terminal driver"",""TELNET client"",""TELNET server"",""none of the above""]",2
+"When the sender and the receiver of an email are on the same system, we need only ___________.","[""one UA"",""two UAs"",""one UA and one MTA"",""none of the above""]",1
+"In the Internet, the email address consists of two parts: a _______ and a _______.","[""local part; domain name"",""global part; domain name"",""label; domain name"",""none of the above""]",0
+"To distinguish data from control characters, each sequence of control characters is preceded by a special control character called ________.","[""ICA"",""IAC"",""AIC"",""none of the above""]",1
+"When the sender and the receiver of an email are on different systems, we need only _____________.","[""one MTA"",""two UAs"",""two UAs and one pair of MTAs"",""none of the above""]",2
+"During an FTP session the control connection is opened _______.","[""exactly once"",""exactly twice"",""as many times as necessary"",""none of the above""]",0
+"If the sender wants an option disabled by the receiver, it sends a _______ command.","[""WILL"",""DO"",""DONT"",""none of the above""]",2
+"The _______ translates local characters into NVT form.","[""terminal driver"",""TELNET client"",""TELNET server"",""none of the above""]",1
+"Currently two message access protocols are available: _______ and _________.","[""POP3; IMAP2"",""POP4; IMAP1"",""POP3; IMAP4"",""none of the above""]",2
+"TELNET is a ________ client-server application program.","[""specific-purpose"",""general-purpose"",""both a and b"",""none of the above""]",1
+"In FTP, a file can be organized into records, pages, or a stream of bytes. These are types of an attribute called _______.","[""file types"",""data structures"",""transmission modes"",""none of the above""]",1
+"The process of transferring a mail message occurs in ________ phases.","[""two"",""four"",""five"",""none of the above""]",3
+"In FTP, the well-known port ____ is used for the control connection and the well-known port ________ for the data connection.","[""21; 22"",""21; 20"",""20; 21"",""none of the above""]",1
+"In the _______ mode, the echoing is done by the client.","[""default"",""character"",""line"",""none of the above""]",0
+"There are two types of user agents: _________ and ___________.","[""command-driven; data-driven"",""command-driven; GUI-based"",""command-based and data-based"",""none of the above""]",1
+"_______ is more powerful and complex than _______.","[""POP3; IMAP4"",""IMAP4; POP3"",""SMTP; POP3"",""none of the above""]",1
+"A linear SONET network can be __________.","[""multipoint"",""point-to-point"",""either (a) or (b)"",""neither (a) nor (b)""]",2
+"The path overhead consists of ______ bytes.","[""18"",""9"",""6"",""1""]",1
+"_______ is a standard developed by ITU-T.","[""SONET"",""SDH"",""either (a) or (b)"",""neither (a) nor (b)""]",1
+"A ______ is the portion of the network between two multiplexers.","[""line"",""path"",""section"",""none of the above""]",0
+"A ________ is a repeater.","[""ADM"",""regenerator"",""STS multiplexer\/demultiplexer"",""none of the above""]",1
+"The ______ layer is responsible for the movement of a signal across a physical section.","[""path"",""section"",""photonic"",""line""]",1
+"In ______ APS, there is one working line and one protection line. The data are normally sent on the working line until it fails.","[""one-to-one"",""one-plus-one"",""one-to-many"",""none of the above""]",0
+"Line overhead consists of ________ bytes.","[""18"",""9"",""6"",""1""]",0
+"In SONET, for each frame, the bytes are transmitted __________.","[""from left to the right, bottom to top"",""from left to the right, top to bottom"",""from right to the left, top to bottom"",""from right to the left, bottom to top""]",1
+"Each ________in a SONET frame can carry a digitized voice channel.","[""frame"",""bit"",""byte"",""none of the above""]",2
+"An STS-1 frame is made ______columns.","[""90"",""9"",""1"",""none of the above""]",0
+"The ______ layer is responsible for the movement of a signal from its optical source to its optical destination.","[""line"",""path"",""photonic"",""section""]",1
+"The ____ layer is responsible for the movement of a signal across a physical line.","[""line"",""path"",""photonic"",""section""]",0
+"An STS multiplexer is a ______ device.","[""four-layer"",""three-layer"",""two-layer"",""one-layer""]",0
+"A ring SONET network can be _________.","[""bidirectional"",""unidirectional"",""either (a) or (b)"",""neither (a) nor (b)""]",2
+"_______ is a standard developed by ANSI for fiber-optic networks.","[""SDH"",""SONET"",""either (a) or (b)"",""neither (a) nor (b)""]",1
+"An add/drop multiplexer is a ______ device.","[""four-layer"",""three-layer"",""two-layer"",""one-layer""]",1
+"In SONET, for each byte, the bits are transmitted ____________.","[""from most significant to the least significant"",""from least significant to the most significant"",""three at a time"",""two at a time""]",0
+"A ______is the end-to-end portion of the network between two STS multiplexers.","[""line"",""path"",""section"",""none of the above""]",1
+"The _______ layer corresponds to the physical layer of the OSI model.","[""photonic"",""path"",""line"",""section""]",0
+"SONET is a _______ TDM system.","[""statistical"",""asynchronous"",""synchronous"",""none of the above""]",2
+"An STS-3 frame is made of ______ rows.","[""27"",""9"",""1"",""none of the above""]",1
+"SONET defines _______ layers.","[""five"",""four"",""three"",""two""]",1
+"In ________ APS, there are normally two lines: one working line and one protection line. Both lines are active all the time.","[""one-to-one"",""one-to-many"",""one-plus-one"",""none of the above""]",2
+"__________ allow insertion and extraction of signals.","[""STS multiplexer\/demultiplexers"",""regenerators"",""ADMs"",""none of the above""]",2
+"An STS-3 frame is made of ________ columns.","[""270"",""90"",""9"",""none of the above""]",0
+"SONET has defined a hierarchy of signals called ________.","[""STMs"",""STSs"",""either (a) or (b)"",""neither (a) nor (b)""]",1
+"An ______ signal is the optical modulation of an STS-n (or STM-n) signal.","[""FDM-n"",""OC-n"",""TDM-n"",""none of the above""]",1
+"A regenerator is a ________ device.","[""three-layer"",""one-layer"",""two-layer"",""four-layer""]",2
+"An STS-1 frame is made of ________ rows","[""90"",""9"",""1"",""none of the above""]",1
+"SDH has defined a hierarchy of signals called ________.","[""STMs"",""STSs"",""either (a) or (b)"",""neither (a) nor (b)""]",0
+"To make SONET backward-compatible with the current hierarchy, its frame design includes a system of ____.","[""VTs"",""STSs"",""STMs"",""OCs""]",0
+"SONET network topologies can be __________.","[""ring"",""mesh"",""linear"",""all of the above""]",3
+"SONET sends ________ frames per second.","[""8000"",""4000"",""2000"",""1000""]",0
+"A SONET system can use _________.","[""regenerators"",""add\/drop multiplexers"",""STS multiplexers"",""all of the above""]",3
+"In ________APS, there is only one protection line for many working lines. When a failure occurs in one of the working lines, the protection line takes control until the failed line is repaired.","[""one-to-one"",""one-plus-one"",""one-to-many"",""none of the above""]",2
+"The section overhead consists of ______octets.","[""18"",""9"",""6"",""1""]",1
+"IKE creates SAs for _____.","[""SSL"",""PGP"",""IPSec"",""VP""]",2
+"______ provides either authentication or encryption, or both, for packets at the IP level.","[""AH"",""ESP"",""PGP"",""SSL""]",1
+"One security protocol for the e-mail system is _________.","[""IPSec"",""SSL"",""PGP"",""none of the above""]",2
+"Typically, ______ can receive application data from any application layer protocol, but the protocol is normally HTTP.","[""SSL"",""TLS"",""either (a) or (b)"",""both (a) and (b)""]",3
+"IKE is a complex protocol based on ______ other protocols.","[""two"",""three"",""four"",""five""]",1
+"IPSec defines two protocols: _______ and ________.","[""AH; SSL"",""PGP; ESP"",""AH; ESP"",""all of the above""]",2
+"In the ______ mode, IPSec protects information delivered from the transport layer to the network layer.","[""transport"",""tunnel"",""either (a) or (b)"",""neither (a) nor (b)""]",0
+"______ is the protocol designed to create security associations, both inbound and outbound.","[""SA"",""CA"",""KDC"",""IKE""]",3
+"A _______network is used inside an organization.","[""private"",""public"",""semi-private"",""semi-public""]",0
+"SSL provides _________.","[""message integrity"",""confidentiality"",""compression"",""all of the above""]",3
+"The Internet authorities have reserved addresses for _______.","[""intranets"",""internets"",""extranets"",""none of the above""]",3
+"An _________ is a network that allows authorized access from outside users.","[""intranet"",""internet"",""extranet"",""none of the above""]",2
+"_________ is a collection of protocols designed by the IETF (Internet Engineering Task Force) to provide security for a packet at the network level.","[""IPSec"",""SSL"",""PGP"",""none of the above""]",0
+"IKE uses _______.","[""Oakley"",""SKEME"",""ISAKMP"",""all of the above""]",3
+"IPSec uses a set of SAs called the ________.","[""SAD"",""SAB"",""SADB"",""none of the above""]",2
+"An ________ is a private network that uses the Internet model.","[""intranet"",""internet"",""extranet"",""none of the above""]",0
+"______ is actually an IETF version of _____.","[""TLS; TSS"",""SSL; TLS"",""TLS; SSL"",""SSL; SLT""]",2
+"In ______, there is a single path from the fully trusted authority to any certificate.","[""X509"",""PGP"",""KDC"",""none of the above""]",0
+"The combination of key exchange, hash, and encryption algorithms defines a ________ for each SSL session.","[""list of protocols"",""cipher suite"",""list of keys"",""none of the above""]",1
+"A ______ provides privacy for LANs that must communicate through the global Internet.","[""VPP"",""VNP"",""VNN"",""VPN""]",3
+"_______ uses the idea of certificate trust levels.","[""X509"",""PGP"",""KDC"",""none of the above""]",1
+"IPSec in the ______ mode does not protect the IP header.","[""transport"",""tunnel"",""either (a) or (b)"",""neither (a) nor (b)""]",0
+"________ provides privacy, integrity, and authentication in e-mail.","[""IPSec"",""SSL"",""PGP"",""none of the above""]",2
+"In _____, there can be multiple paths from fully or partially trusted authorities.","[""X509"",""PGP"",""KDC"",""none of the above""]",1
+"______ provides authentication at the IP level.","[""AH"",""ESP"",""PGP"",""SSL""]",0
+"In _______, the cryptographic algorithms and secrets are sent with the message.","[""IPSec"",""SSL"",""TLS"",""PGP""]",3
+"______ is designed to provide security and compression services to data generated from the application layer.","[""SSL"",""TLS"",""either (a) or (b)"",""both (a) and (b)""]",3
+"_______ provide security at the transport layer.","[""SSL"",""TLS"",""either (a) or (b)"",""both (a) and (b)""]",3
+"The _______ mode is normally used when we need host-to-host (end-to-end) protection of data.","[""transport"",""tunnel"",""either (a) or (b)"",""neither (a) nor (b)""]",0
+"In the _______ mode, IPSec protects the whole IP packet, including the original IP header.","[""transport"",""tunnel"",""either (a) or (b)"",""neither (a) nor (b)""]",1
+"______ was invented by Phil Zimmerman.","[""IPSec"",""SSL"",""PGP"",""none of the above""]",2
+"A _______ layer security protocol provides end-to-end security services for applications.","[""data link"",""network"",""transport"",""none of the above""]",2
+"In PGP, to exchange e-mail messages, a user needs a ring of _______ keys.","[""secret"",""public"",""either (a) or (b)"",""both (a) and (b)""]",1
+"In __________, each packet is treated independently of all others.","[""circuit switching"",""datagram switching"",""frame switching"",""none of the above""]",1
+"Based on the Clos criteria, if N = 200, then k must be equal to or greater than _________.","[""19"",""21"",""31"",""41""]",0
+"In _________, resources are allocated on demand.","[""circuit switching"",""datagram switching"",""frame switching"",""none of the above""]",1
+"In _______ switching, the paths in the circuit are separated from one another spatially.","[""time-division"",""two-dimensional"",""space-division"",""three-dimensional""]",2
+"In a ________ network, two types of addressing are involved: global and local.","[""datagram"",""virtual-circuit"",""circuit-switched"",""none of the above""]",1
+"In a three-stage space division switch, if N = 200, the number of crosspoints is ______.","[""40,000"",""less than 40,000"",""greater than 40,000"",""greater than 100,000""]",1
+"A ________ network is made of a set of switches connected by physical links, in which each link is divided into n channels.","[""circuit-switched"",""line-switched"",""frame-switched"",""none of the above""]",0
+"In a banyan switch, for 8 inputs and 8 outputs, we have _____ micro-switches at each stage.","[""2"",""3"",""4"",""8""]",2
+"In _________, there is no resource allocation for a packet.","[""circuit switching"",""datagram switching"",""frame switching"",""none of the above""]",1
+"A _________ network is a cross between a circuit-switched network and a datagram network. It has some characteristics of both.","[""packet-switched"",""frame-switched"",""virtual-circuit"",""none of the above""]",2
+"The most popular technology in time-division switching is called the _________.","[""TSI"",""STI"",""ITS"",""none of the above""]",0
+"A switched WAN is normally implemented as a _______ network.","[""virtual-circuit"",""datagram"",""circuit-switched"",""none of the above""]",0
+"We can say that a packet switch has _______ types of components.","[""four"",""three"",""two"",""none of the above""]",0
+"In a one-stage space division switch, if N = 200, the number of crosspoints is ______.","[""20,000"",""40,000"",""30,000"",""10,000""]",1
+"In a banyan switch, for 8 inputs and 8 outputs, we have _____ stages.","[""2"",""3"",""4"",""8""]",1
+"A switch in a datagram network uses a routing table that is based on the ______ address.","[""destination"",""source"",""local"",""none of the above""]",0
+"Traditionally, _____ methods of switching have been important.","[""six"",""five"",""four"",""three""]",3
+"The network layer in the Internet is designed as a __________ network.","[""circuit-switched"",""datagram"",""virtual-circuit"",""none of the above""]",1
+"A ________ switch combines space-division and time-division technologies to take advantage of the best of both.","[""SSS"",""TST"",""TTT"",""none of the above""]",1
+"In _______, the resources need to be reserved during the setup phase; the resources remain dedicated for the entire duration of data transfer phase until the teardown phase.","[""frame switching"",""datagram switching"",""circuit switching"",""none of the above""]",2
+"Based on the Clos criteria, if N = 200, then n must be equal to or greater than ____.","[""40"",""30"",""20"",""10""]",3
+"Circuit switching takes place at the ________ layer.","[""physical"",""data line"",""network"",""transport""]",0
+"A ________ switch combines crossbar switches in several (normally three) stages.","[""multiple path"",""multiple crossbar"",""multistage"",""none of the above""]",2
+"In _______ there are no setup or teardown phases.","[""circuit switching"",""datagram switching"",""frame switching"",""none of the above""]",1
+"We can divide today’s networks into ____ broad categories.","[""five"",""four"",""three"",""two""]",2
+"A ________ switch is a multistage switch with microswitches at each stage that route the packets based on the output port represented as a binary string.","[""TSI"",""banyan"",""crossbar"",""none of the above""]",1
+"The _______ address in the header of a packet in a datagram network normally remains the same during the entire journey of the packet.","[""destination"",""source"",""local"",""none of the above""]",0
+"Based on the Clos criteria, if N = 200, then the minimum number of crosspoints is greater than or equal to _______.","[""42,000"",""20,000"",""18,000"",""15,200""]",3
+"The simplest type of switching fabric is the ______ switch.","[""crossbar"",""crosspoint"",""TSI"",""STS""]",0
+"A local telephone network is an example of a _______ network.","[""packet-switched"",""message-switched"",""circuit-switched"",""none of the above""]",2
+"A traditional cable TV network transmits signals ______.","[""downstream"",""upstream"",""upstream and downstream"",""none of the above""]",0
+"The traditional cable TV system used ________cable end to end.","[""twisted-pair"",""fiber-optic"",""coaxial"",""none of the above""]",2
+"The telephone network is made of ______ major components.","[""4"",""3"",""2"",""none of the above""]",1
+"Data from a computer are _______; the local loop handles _______ signals.","[""analog; analog"",""digital; digital"",""digital; analog"",""analog; digital""]",2
+"The original telephone network, which is referred to as the plain old telephone system (POTS), was an ________ system.","[""analog"",""digital"",""digital as well as analog"",""none of the above""]",0
+"The protocol that is used for signaling in the telephone network is called ______.","[""SSS"",""SS7"",""POP"",""none of the above""]",1
+"_______technology is a set of technologies developed by the telephone companies to provide high data rate transmission.","[""LDS"",""ASL"",""DSL"",""none of the above""]",2
+"The local loop has _______ cable that connects the subscriber telephone to the nearest end office.","[""fiber-optic"",""coaxial"",""twisted-pair"",""none of the above""]",2
+"The second generation of cable networks is called a(n) _________ network.","[""HCF"",""HFC"",""CFH"",""none of the above""]",1
+"The largest portion of the bandwidth for ADSL carries _______.","[""upstream data"",""downstream data"",""control data"",""voice communication""]",1
+"_______ is suitable for businesses that require comparable upstream and downstream data rates.","[""SDSL"",""ADSL"",""VDSL"",""(b) and (c)""]",0
+"The carrier that handles intra-LATA services is called a(n) _____ .","[""IXC"",""LEC"",""POP"",""none of the above""]",1
+"DMT is a modulation technique that combines elements of _______ and _______.","[""FDM; QAM"",""FDM; TDM"",""PSK; FSK"",""QDM; QAM""]",0
+"The carrier that handles inter-LATA services is called a(n) _______.","[""IXC"",""LEC"",""POP"",""none of the above""]",0
+"The modern telephone network is now ________.","[""digital"",""digital as well as analog"",""analog"",""none of the above""]",1
+"In an HFC network, the upstream data are modulated using the _______ modulation technique.","[""ASK"",""PCM"",""QAM"",""QPSK""]",3
+"_______ was designed as an alternative to the T-1 line.","[""ADSL"",""HDSL"",""VDSL"",""SDSL""]",1
+"HDSL encodes data using _______.","[""2B1Q"",""1B2Q"",""4B\/5B"",""6B\/8T""]",0
+"In an HFC network, the downstream data are modulated using the _______ modulation technique.","[""PCM"",""QAM"",""PSK"",""ASK""]",1
+"Another name for the cable TV office is the _______.","[""head end"",""combiner"",""fiber node"",""splitter""]",0
+"The term modem is a composite word that refers to the two functional entities that make up the device: a signal _______ and a signal _______.","[""demodulator; modulator"",""modulator; demodulator"",""modern; demo"",""none of the above""]",1
+"The two most common digital services are ________ service and ______.","[""switched\/56; DDS"",""switched\/56; switched\/64"",""DDS; switched 64"",""leased; out-of-band""]",0
+"The United States is divided into many _______.","[""IXCs"",""LECs"",""LATAs"",""none of the above""]",2
+"The standard for data transmission over an HFC network is called _______.","[""ADSL"",""CMTS"",""DOCSIS"",""MCNS""]",2
+"In ________signaling, a portion of the bandwidth is used for signaling and another portion for data.","[""mixed"",""in-band"",""out-of-band"",""none of the above""]",2
+"Telephone companies provide two types of analog services: analog _______ services and analog _____services.","[""leased; out-of-band"",""out-of-band; in-band"",""switched; in-band"",""switched; leased""]",3
+"The HFC network uses _______ cable.","[""coaxial"",""twisted-pair"",""fiber-optic"",""a combination of (a) and (c)""]",3
+"In ______signaling, the same circuit is used for both signaling and data.","[""mixed"",""out-of-band"",""in-band"",""none of the above""]",2
+"Most popular modems available are based on the ________standards.","[""X-series"",""V-series"",""VX-series"",""none of the above""]",1
+"Transmission media lie below the __________ layer.","[""application"",""transport"",""network"",""physical""]",3
+"_________ cable consists of an inner copper core and a second conducting outer sheath.","[""Twisted-pair"",""Shielded twisted-pair"",""Coaxial"",""Fiber-optic""]",2
+"__________ consists of a central conductor and a shield.","[""Twisted-pair"",""Coaxial"",""Fiber-optic"",""none of the above""]",1
+"_______ cable can carry signals of higher frequency ranges than _______ cable.","[""Coaxial; twisted-pair"",""Twisted-pair; fiber-optic"",""Coaxial; fiber-optic"",""none of the above""]",0
+"_________ are used for cellular phone, satellite, and wireless LAN communications.","[""Radio waves"",""Infrared waves"",""Microwaves"",""none of the above""]",2
+"The inner core of an optical fiber is _________ in composition.","[""copper"",""glass or plastic"",""bimetallic"",""liquid""]",1
+"What is the major factor that makes coaxial cable less susceptible to noise than twisted-pair cable?","[""insulating material"",""inner conductor"",""diameter of cable"",""outer conductor""]",3
+"Signals with a frequency below 2 MHz use _______ propagation.","[""line-of-sight"",""sky"",""ground"",""none of the above""]",2
+"In an optical fiber, the inner core is _________ the cladding.","[""less dense than"",""denser than"",""the same density as"",""another name for""]",1
+"________ cable consists of two insulated copper wires twisted together.","[""Twisted-pair"",""Coaxial"",""Fiber-optic"",""none of the above""]",0
+"In fiber optics, the signal is __________ waves.","[""radio"",""light"",""infrared"",""very low-frequency""]",1
+"Signals with a frequency above 30 MHz use _______propagation.","[""line-of-sight"",""sky"",""ground"",""none of the above""]",0
+"A parabolic dish antenna is a(n) ___________ antenna.","[""unidirectional"",""bidirectional"",""omnidirectional"",""horn""]",0
+"A(n) _______ medium provides a physical conduit from one device to another.","[""unguided"",""guided"",""either (a) or (b)"",""none of the above""]",1
+"________ cable is used for voice and data communications.","[""Twisted-pair"",""Coaxial"",""Fiber-optic"",""none of the above""]",0
+"Signals with a frequency between 2 MHz and 30 MHz use _______ propagation.","[""ground"",""line-of-sight"",""sky"",""none of the above""]",2
+"Transmission media are usually categorized as ___________.","[""determinate or indeterminate"",""fixed or unfixed"",""guided or unguided"",""metallic or nonmetallic""]",2
+"________ are used for short-range communications such as those between a PC and a peripheral device.","[""Radio waves"",""Infrared waves"",""Microwaves"",""none of the above""]",1
+"_________ media transport electromagnetic waves without the use of a physical conductor.","[""Guided"",""Unguided"",""Either (a) or (b)"",""None of the above""]",1
+"________ cables are composed of a glass or plastic inner core surrounded by cladding, all encased in an outside jacket.","[""Twisted-pair"",""Coaxial"",""Fiber-optic"",""none of the above""]",2
+"Which of the following primarily uses guided media?","[""radio broadcasting"",""satellite communications"",""local telephone system"",""cellular telephone system""]",2
+"When a beam of light travels through media of two different densities, if the angle of incidence is greater than the critical angle, _______ occurs.","[""refraction"",""reflection"",""criticism"",""incidence""]",1
+"Which of the following is not a guided medium?","[""fiber-optic cable"",""coaxial cable"",""twisted-pair cable"",""atmosphere""]",3
+"Microwaves are _________.","[""omnidirectional"",""bidirectional"",""unidirectional"",""none of the above""]",2
+"________ cables carry data signals in the form of light.","[""Twisted-pair"",""Coaxial"",""Fiber-optic"",""none of the above""]",2
+"Radio waves are _________.","[""unidirectional"",""omnidirectional"",""bidirectional"",""none of the above""]",1
+"In a fiber-optic cable, the signal is propagated along the inner core by __________.","[""refraction"",""reflection"",""modulation"",""none of the above""]",1
+"In Frame Relay, an address can be ________ bytes.","[""2 to 3"",""2 to 4"",""only f2"",""none of the above""]",1
+"In ATM, the _____ layer defines the transmission medium, bit transmission, encoding, and electrical-to-optical transformation.","[""AAL"",""physical"",""ATM layer"",""none of the above""]",1
+"A(n) ______ is the interface between a user and an ATM switch.","[""NNN"",""UNI"",""NNI"",""None of the above""]",1
+"In Frame Relay, when a _____ is selected, the corresponding table entry is recorded for all switches by the administrator.","[""SVC"",""PVC"",""either (a) or (b)"",""neither (a) nor (b)""]",1
+"In ATM, the _______layer accepts transmissions from upper-layer services and maps them into ATM cells.","[""AAL"",""physical"",""ATM"",""none of the above""]",0
+"The VPI of a UNI is _______ bits in length.","[""32"",""16"",""12"",""8""]",3
+"The ATM standard defines ______ layers.","[""five"",""four"",""three"",""two""]",2
+"________ technology can be adapted for use in a LAN (ATM LAN).","[""ATM"",""X.25"",""Frame Relay"",""none of the above""]",0
+"VCIs in Frame Relay are called ______.","[""SVC"",""DLCIs"",""PVC"",""none of the above""]",1
+"The AAL is divided into _______ sublayers.","[""four"",""three"",""two"",""none of the above""]",2
+"_________ is the interface between two ATM switches.","[""NNI"",""NNN"",""UNI"",""none of the above""]",0
+"Frame Relay networks offer an option called ______________ that sends voice through the network.","[""FRAD"",""VOFR"",""MUX"",""none of the above""]",1
+"A _______ is defined as a small, fixed-size block of information.","[""packet"",""cell"",""frame"",""none of the above""]",1
+"In ATM, the ______ layer provides routing, traffic management, switching, and multiplexing services.","[""ATM"",""AAL"",""physical"",""none of the above""]",0
+"In ATM, _____ is for conventional packet switching (virtual-circuit approach or datagram approach).","[""AAL5"",""AAL3\/4"",""AAL2"",""AAL1""]",1
+"Frame Relay provides ________.","[""SVCs"",""PVCs"",""either (a) or (b)"",""neither (a) nor (b)""]",2
+"In Frame Relay, the EA field defines the number of bytes; it is _____ in the last byte of the address.","[""0"",""1"",""2"",""3""]",1
+"In a _____ ATM LAN, an ATM switch connects stations.","[""legacy"",""pure"",""mixed architecture"",""none of the above""]",1
+"The VPI of an NNI is _______ bits in length.","[""24"",""16"",""12"",""8""]",2
+"At the data link layer, Frame Relay uses a protocol that supports _____control.","[""error"",""flow"",""either (a) or (b)"",""neither (a) nor (b)""]",3
+"________ is the cell relay protocol designed by the corresponding Forum and adopted by the ITU-T.","[""Frame Relay"",""ATM"",""X.25"",""none of the above""]",1
+"In Frame Relay, when ______ is selected, it requires establishing and terminating phases.","[""a PVC"",""an SVC"",""either (a) or (b)"",""neither (a) nor (b)""]",1
+"In a _______ ATM LAN, the backbone that connects traditional LANs uses ATM technology.","[""legacy"",""pure"",""mixed architecture"",""none of the above""]",0
+"In ATM, connection between two endpoints is accomplished through _______.","[""VCs"",""TPs"",""VPs"",""all of the above""]",3
+"Frame Relay has _______.","[""the physical, data link, and network layers"",""the physical and data link layers"",""only the data link"",""only the physical layer""]",1
+"In ATM, ______ is for packets requiring no sequencing and no error control mechanism.","[""AAL5"",""AAL3\/4"",""AAL2"",""AAL1""]",0
+"______ eliminates the varying delay times associated with different-size packets.","[""Frame Relay"",""ATM"",""X.25"",""all of the above""]",1
+"In ATM, ______ is for constant-bit-rate data.","[""AAL5"",""AAL3\/4"",""AAL2"",""AAL1""]",3
+"________ is a virtual-circuit wide-area network that was designed in response to demands for a new type of WAN in the late 1980s and early 1990s.","[""ATM"",""Frame Relay"",""X.25"",""none of the above""]",1
+"The ATM data packet is a cell composed of ______ bytes.","[""53"",""52"",""43"",""42""]",0
+"In a URL, the _______ is the client-server program used to retrieve the document.","[""path"",""protocol"",""host"",""none of the above""]",1
+"A _______ document is created by a Web server whenever a browser requests the document.","[""static"",""dynamic"",""active"",""none of the above""]",1
+"One way to create an active document is to use __________.","[""CGI"",""Java stand-alone programs"",""Java applets"",""none of the above""]",2
+"A cookie is made by the ________ and eaten by the _________.","[""client; client"",""client; server"",""server; server"",""none of the above""]",2
+"A _______ document is a fixed-content document that is created and stored in a server. The client can get a copy of the document only.","[""static"",""dynamic"",""active"",""none of the above""]",0
+"The _________ is a standard for specifying any kind of information on the Internet.","[""URL"",""ULR"",""RLU"",""none of the above""]",0
+"_________ is a repository of information linked together from points all over the world.","[""The WWW"",""HTTP"",""HTML"",""none of the above""]",0
+"Which of the following is present in both an HTTP request line and a status line?","[""HTTP version number"",""URL"",""status code"",""none of the above""]",0
+"Active documents are sometimes referred to as _________ dynamic documents.","[""client-site"",""server-site"",""both a and b"",""none of the above""]",0
+"HTTP uses the services of _________ on well-known port 80.","[""UDP"",""IP"",""TCP"",""none of the above""]",2
+"Dynamic documents are sometimes referred to as _________ dynamic documents.","[""client-site"",""server-site"",""both a and b"",""none of the above""]",1
+"For many applications, we need a program or a script to be run at the client site. These are called _______________ documents.","[""static"",""dynamic"",""active"",""none of the above""]",2
+"In HTTP, a _______ server is a computer that keeps copies of responses to recent requests.","[""regular"",""proxy"",""both a and b"",""none of the above""]",1
+"The HTTP request line contains a _______ method to get information about a document without retrieving the document itself.","[""HEAD"",""POST"",""COPY"",""none of the above""]",0
+"A response message always contains _______.","[""a header and a body"",""a request line and a header"",""a status line and a header"",""none of the above""]",2
+"In a URL, an optional ________ can be inserted between the host and the path, and it is separated from the host by a colon.","[""path"",""protocol"",""host"",""none of the above""]",3
+"An applet is _______ document application program.","[""a static"",""an active"",""a passive"",""a dynamic""]",1
+"The documents in the WWW can be grouped into ______ broad categories.","[""two"",""three"",""four"",""none of the above""]",1
+"_____________ is a language for creating Web pages.","[""HTTP"",""HTML"",""FTTP"",""none of the above""]",1
+"___________ is a technology that creates and handles dynamic documents.","[""GIC"",""CGI"",""GCI"",""none of the above""]",1
+"The HTTP request line contains a _______ method to request a document from the server.","[""GET"",""POST"",""COPY"",""none of the above""]",0
+"In a ___________connection, the server leaves the connection open for more requests after sending a response.","[""persistent"",""nonpersistent"",""both a and b"",""none of the above""]",0
+"An HTTP request message always contains _______.","[""a header and a body"",""a request line and a header"",""a status line, a header, and a body"",""none of the above""]",1
+"In a ___________ connection, one TCP connection is made for each request/response.","[""persistent"",""nonpersistent"",""both a and b"",""none of the above""]",1
+"In a URL, the _______ is the full name of the file where the information is located.","[""path"",""protocol"",""host"",""none of the above""]",0
+"In a URL, the ______ is the computer on which the information is located.","[""path"",""protocol"",""host"",""none of the above""]",2
+"HTTP version 1.1 specifies a _________connection by default.","[""persistent"",""nonpersistent"",""both a and b"",""none of the above""]",0
+"In HTTP, the first line in a request message is called a _______ line; the first line in the response message is called the ________ line.","[""request; response"",""response; request"",""response; status"",""none of the above""]",3
+"The WWW today is a _______ client-server service, in which a client using a browser can access a service using a server.","[""limited"",""vast"",""distributed"",""none of the above""]",2
+"1000Base-SX, 1000Base-LX, and 1000Base-CX use _________ block coding and ________ line coding.","[""8B\/10B; NRZ"",""4B\/5B; NRZ"",""8B\/10B; MLT-3"",""4B\/5B; MLT-3""]",0
+"_________ uses two fiber-optic cables.","[""100Base-FX"",""100Base-T4"",""100Base-TX"",""none of the above""]",0
+"__________ uses two optical fibers and a short-wave laser source.","[""1000Base-LX"",""1000Base-SX"",""1000Base-T"",""none of the above""]",1
+"In Ethernet addressing, if all the bits are 1s, the address is _________.","[""multicast"",""broadcast"",""unicast"",""none of the above""]",1
+"If an Ethernet destination address is 07:01:02:03:04:05, then this is a ______ address.","[""broadcast"",""unicast"",""multicast"",""any of the above""]",2
+"Gigabit Ethernet has a data rate of ________Mbps.","[""10,000"",""1000"",""100"",""10""]",1
+"In the Ethernet frame, the _______ field contains error detection information.","[""address"",""preamble"",""CRC"",""none of the above""]",2
+"100Base-T4 uses ________ line coding.","[""8B6T"",""Manchester"",""MLT-3"",""NRZ""]",0
+"________uses long-wave 1310-nm single mode fiber.","[""10GBase-E"",""10GBase-S"",""10GBase-L"",""none of the above""]",2
+"______defines a protocol data unit (PDU) that is somewhat similar to that of HDLC.","[""LLC"",""LLU"",""MAC"",""none of the above""]",0
+"100Base-TX uses _________ block coding and ________ line coding.","[""8B\/10B; NRZ"",""4B\/5B; MLT-3"",""4B\/5B; NRZ"",""8B\/10B; MLT-3""]",1
+"The _____ sublayer is responsible for the operation of the CSMA/CD access method and framing.","[""MAC"",""MII"",""LLC"",""none of the above""]",0
+"In Ethernet addressing, if the least significant bit of the first byte is 1, the address is _________.","[""multicast"",""broadcast"",""unicast"",""none of the above""]",0
+"Gigabit Ethernet access methods include _______ mode.","[""full-duplex"",""half-duplex"",""both (a) and (b)"",""neither (a) nor (b)""]",2
+"_________ uses four pairs of voice-grade, or higher, twisted-pair cable.","[""100Base-T4"",""100Base-FX"",""100Base-TX"",""none of the above""]",0
+"Standard Ethernet (10-Mbps) uses _______ encoding.","[""AMI"",""Manchester"",""NRZ"",""differential Manchester""]",1
+"In _________, auto negotiation allows two devices to negotiate the mode or data rate of operation.","[""Ten-Gigabit Ethernet"",""Gigabit Ethernet"",""Fast Ethernet"",""Standard""]",2
+"If an Ethernet destination address is 08:07:06:05:44:33, then this is a ______ address.","[""broadcast"",""unicast"",""multicast"",""any of the above""]",1
+"________ uses short-wave 850-nm multimode fiber.","[""10GBase-E"",""10GBase-L"",""10GBase-S"",""none of the above""]",2
+"Which of the following could not be an Ethernet multicast destination?","[""7B:AA:C1:23:45:32"",""7C:56:21:1A:DE:F4"",""83:32:21:21:4D:34"",""B7:7B:6C:DE:10:00""]",1
+"__________ uses thin coaxial cable.","[""10Base2"",""10Base5"",""10Base-F"",""10Base-T""]",0
+"In the Ethernet, the _______field is actually added at the physical layer and is not (formally) part of the frame.","[""address"",""CRC"",""preamble"",""none of the above""]",2
+"Fast Ethernet has a data rate of ________Mbps.","[""10,000"",""1000"",""100"",""10""]",2
+"The purpose of the _______ is to provide flow and error control for the upper-layer protocols that actually demand these services.","[""LLC"",""LLU"",""MAC"",""none of the above""]",0
+"__________ uses two pairs of twisted-pair cable.","[""100Base-T4"",""100Base-TX"",""100Base-FX"",""none of the above""]",1
+"________ uses fiber-optic cable.","[""10Base2"",""10Base-F"",""10Base-T"",""10Base5""]",1
+"In Ethernet addressing, if the least significant bit of the first byte is 0, the address is _________.","[""broadcast"",""multicast"",""unicast"",""none of the above""]",2
+"________ uses 1550-mm single mode fiber.","[""10GBase-E"",""10GBase-S"",""10GBase-L"",""none of the above""]",0
+"1000Base-T uses ________ line coding.","[""MLT-3"",""4D-PAM5"",""Manchester"",""8B6T""]",1
+"The maximum frame length for 10-Mbps Ethernet is ________ bytes.","[""1200"",""1518"",""1500"",""none of the above""]",1
+"The minimum frame length for 10-Mbps Ethernet is _______bytes.","[""128"",""80"",""32"",""none of the above""]",3
+"__________uses two optical fibers and a long-wave laser source.","[""1000Base-T"",""1000Base-SX"",""1000Base-LX"",""none of the above""]",2
+"The _______ layer of Ethernet consists of the LLC sublayer and the MAC sublayer.","[""network"",""data link"",""physical"",""none of the above""]",1
+"100Base-FX uses _________ block coding and ________ line coding.","[""8B\/10B; NRZ"",""4B\/5B; MLT-3"",""8B\/10B; MLT-3"",""4B\/5B; NRZ-I""]",3
+"Which of the following could not be an Ethernet unicast destination?","[""46:56:21:1A:DE:F4"",""43:7B:6C:DE:10:00"",""48:32:21:21:4D:34"",""44:AA:C1:23:45:32""]",1
+"_________ uses thick coaxial cable.","[""10Base2"",""10Base5"",""10Base-F"",""10Base-T""]",1
+"The IEEE 802.3 Standard defines _________ CSMA/CD as the access method for first-generation 10-Mbps Ethernet.","[""non-persistent"",""p-persistent"",""1-persistent"",""none of the above""]",2
+"_________ uses four twisted-pair cables that connect each station to a common hub.","[""10Base-F"",""10Base-T"",""10Base5"",""10Base2""]",1
+"In IEEE 802.11, when a frame is going from a station to an AP, the address flag is _____.","[""01"",""10"",""11"",""00""]",1
+"In IEEE 802.11, when a frame is going from one station in a BSS to another without passing through the distribution system, the address flag is _________.","[""11"",""00"",""10"",""01""]",1
+"In IEEE 802.11, the access method used in the PCF sublayer is ______.","[""polling"",""controlled"",""contention"",""none of the above""]",0
+"In IEEE 802.11, a BSS without an AP is called an _________.","[""an infrastructure network"",""an ad hoc architecture"",""either (a) or (b)"",""neither (a) nor (b)""]",1
+"In IEEE 802.11, the addressing mechanism can include up to ______addresses.","[""six"",""five"",""four"",""none of the above""]",2
+"In Bluetooth, the _______ layer is roughly equivalent to the physical layer of the Internet model.","[""baseband"",""radio"",""L2CAP"",""none of the above""]",1
+"In IEEE 802.11, a station with ________ mobility is either stationary (not moving) or moving only inside a BSS.","[""ESS-transition"",""no-transition"",""BSS-transition"",""none of the above""]",1
+"In Bluetooth, the L2CAP sublayer, is roughly equivalent to the LLC sublayer in LANs.","[""baseband"",""L2CAP"",""radio"",""none of the above""]",1
+"In IEEE 802.11, when a frame is going from one AP to another AP in a wireless distribution system, the address flag is _____.","[""10"",""01"",""11"",""00""]",2
+"A Bluetooth network is called a ________.","[""scatternet"",""bluenet"",""piconet"",""none of the above""]",2
+"A Bluetooth network consists of _____ primary device(s) and up to ____ secondary devices.","[""one; seven"",""one; five"",""five; three"",""two; six""]",0
+"In Bluetooth, the current data rate is ____Mbps.","[""11"",""5"",""2"",""none of the above""]",3
+"In IEEE 802.11, a BSS with an AP is sometimes referred to as ____________.","[""an infrastructure network"",""an ad hoc architecture"",""either (a) or (b)"",""neither (a) nor (b)""]",0
+"In IEEE 802.11, the ______ is a timer used for collision avoidance.","[""BSS"",""ESS"",""NAV"",""none of the above""]",2
+"In IEEE 802.11, the MAC layer frame has ______ fields.","[""four"",""six"",""five"",""none of the above""]",3
+"Bluetooth uses ______method in the physical layer to avoid interference from other devices or other networks.","[""FHSS"",""DSSS"",""FDMA"",""none of the above""]",0
+"In Bluetooth, the _____ link is used when data integrity is more important than avoiding latency.","[""SCL"",""ACO"",""ACL"",""SCO""]",2
+"IEEE has defined the specifications for a wireless LAN, called _______, which covers the physical and data link layers.","[""IEEE 802.5"",""IEEE 802.11"",""IEEE 802.2"",""IEEE 802.3""]",1
+"In IEEE 802.11, a station with ________ mobility can move from one ESS to another.","[""BSS-transition"",""ESS-transition"",""no-transition"",""none of the above""]",1
+"The IEEE 802.11g, uses _________.","[""DSSS"",""OFDM"",""FHSS"",""either (a) or (c)""]",1
+"In IEEE 802.11, the access method used in the DCF sublayer is _________.","[""CSMA\/CA"",""CSMA\/CD"",""ALOHA"",""none of the above""]",0
+"The RTS and CTS frames in CSMA/CA ____ solve the hidden station problem. The RTS and CTS frames in CSMA/CA ____ solve the exposed station problem.","[""cannot; cannot"",""can; cannot"",""cannot; can"",""can; can""]",1
+"In IEEE 802.11, communication between two stations in two different BSSs usually occurs via two ________.","[""ESSs"",""APs"",""BSSs"",""none of the above""]",1
+"Bluetooth is a _______ technology that connects devices (called gadgets) in a small area.","[""VLAN"",""wired LAN"",""wireless LAN"",""none of the above""]",2
+"The original IEEE 802.11, uses _________.","[""FHSS"",""OFDM"",""DSSS"",""either (a) or (c)""]",3
+"The IEEE 802.11a, uses _________.","[""DSSS"",""OFDM"",""FHSS"",""either (a) or (c)""]",1
+"In IEEE 802.11, a ___ is made of stationary or mobile wireless stations and an optional central base station, known as the access point (AP).","[""BSS"",""CSS"",""ESS"",""none of the above""]",0
+"The IEEE 802.11 standard for wireless LANs defines two services: ______ and _______.","[""ESS; SSS"",""BSS; ESS"",""BSS; ASS"",""BSS; DCF""]",1
+"In Bluetooth, the _____ link is used when avoiding latency (delay in data delivery) is more important than integrity (error-free delivery).","[""SCL"",""ACL"",""ACO"",""SCO""]",3
+"IEEE 802.11b, has a data rate of _____Mbps.","[""5.5"",""2"",""1"",""none of the above""]",0
+"IEEE 802.11g, has a data rate of _____Mbps.","[""22"",""11"",""2"",""1""]",0
+"In IEEE 802.11, a station with ________mobility can move from one BSS to another, but the movement is confined inside one ESS.","[""ESS-transition"",""no-transition"",""BSS-transition"",""none of the above""]",2
+"The access method in Bluetooth is ________.","[""TDD-TDMA"",""CDMA"",""FDMA"",""none of the above""]",0
+"The IEEE 802.11 wireless LANs use ________ types of frames.","[""five"",""six"",""four"",""none of the above""]",3
+"In IEEE 802.11, _______ is an optional access method that can be implemented in an infrastructure network (not in an ad hoc network).","[""PCF"",""DCF"",""either (a) or (b)"",""neither (a) nor (b)""]",0
+"In IEEE 802.11, when a frame is coming from an AP and going to a station, the address flag is _______.","[""00"",""11"",""10"",""01""]",3
+"In Bluetooth, multiple ________ form a network called a _________.","[""piconets: bluenet"",""scatternet; piconets"",""piconets: scatternet"",""bluenet; scatternet""]",2
+"The IEEE 802.11b, uses _________.","[""OFDM"",""FHSS"",""DSSS"",""either (a) or (b)""]",2
+"IEEE 802.11a, has a data rate of _____Mbps.","[""6"",""2"",""1"",""none of the above""]",0
+"________ satellites can provide direct universal voice and data communications for handheld terminals.","[""Teledesic"",""GPS"",""Iridium"",""none of the above""]",2
+"GSM allows a reuse factor of _______.","[""7"",""5"",""3"",""1""]",2
+"In the third generation of cellular phones, ________ uses CDMA2000.","[""IMT-MC"",""IMT-TC"",""IMT-SC"",""IMT-DS""]",0
+"In an IS-95 system, the frequency-reuse factor is normally _____.","[""7"",""5"",""3"",""1""]",3
+"___________ is a second-generation cellular phone system used in Europe.","[""IS-95"",""GSM"",""D-AMPS"",""none of the above""]",1
+"A GEO is at the ________ orbit and revolves in phase with Earth.","[""inclined"",""polar"",""equatorial"",""none of the above""]",2
+"_______ is a first-generation cellular phone system.","[""GSM"",""AMPS"",""D-AMPS"",""none of the above""]",1
+"____________ is a digital version of AMPS.","[""GSM"",""IS-95"",""D-AMPS"",""none of the above""]",2
+"In the third generation of cellular phones, _______ uses TDMA.","[""IMT-TC"",""IMT-SC"",""IMT-MC"",""IMT-DS""]",1
+"In a ______ handoff, a mobile station can communicate with two base stations at the same time.","[""soft"",""hard"",""medium"",""none of the above""]",0
+"IS-95 uses the ISM _______band.","[""800-MHz"",""900-MHz"",""1900-MHz"",""either (a) or (c)""]",3
+"________ satellites provide time and location information for vehicles and ships.","[""Teledesic"",""GPS"",""Iridium"",""none of the above""]",1
+"There is (are) _____ orbit(s) for a GEO satellite.","[""two"",""one"",""many"",""none of the above""]",1
+"GPS satellites are ________ satellites.","[""MEO"",""LEO"",""GEO"",""none of the above""]",0
+"The period of a satellite, the time required for a satellite to make a complete trip around the Earth, is determined by _________ law.","[""Ohm\u2019s"",""Newton\u2019s"",""Kepler\u2019s"",""none of the above""]",2
+"LEO satellites are normally below an altitude of ________ km.","[""3000"",""2000"",""1000"",""none of the above""]",1
+"__________ is a second-generation cellular phone system.","[""GSM"",""AMPS"",""D-AMPS"",""none of the above""]",2
+"In AMPS, each band is divided into ______ channels.","[""1000"",""900"",""800"",""none of the above""]",3
+"In the third generation of cellular phones, _______ uses W-CDMA.","[""IMT-TC"",""IMT-DS"",""IMT-SC"",""IMT-MC""]",1
+"In a ______ handoff, a mobile station only communicates with one base station.","[""soft"",""medium"",""hard"",""none of the above""]",2
+"AMPS uses ______ to divide each 25-MHz band into channels.","[""TDMA"",""FDMA"",""CDMA"",""none of the above""]",1
+"______ is based on a principle called trilateration.","[""Iridium"",""Teledesic"",""GPS"",""none of the above""]",2
+"________ satellites will provide universal broadband Internet access.","[""Teledesic"",""GPS"",""Iridium"",""none of the above""]",0
+"The __________ cellular phone system will provide universal personal communication.","[""second-generation"",""third-generation"",""first-generation"",""none of the above""]",1
+"AMPS has a frequency reuse factor of _______.","[""7"",""5"",""3"",""1""]",0
+"AMPS operates in the ISM _____ band.","[""1800-MHz"",""900-MHz"",""800-MHz"",""none of the above""]",2
+"Low-Earth-orbit (LEO) satellites have _____ orbits.","[""polar"",""inclined"",""equatorial"",""none of the above""]",0
+"The signal from a satellite is normally aimed at a specific area called the _________.","[""effect"",""footprint"",""path"",""none of the above""]",1
+"_______ is an analog cellular phone system using FDMA.","[""GSM"",""AMPS"",""D-AMPS"",""none of the above""]",1
+"Teledesic satellites are _________satellites.","[""MEO"",""LEO"",""GEO"",""none of the above""]",1
+"GSM is a digital cellular phone system using ________.","[""FDMA"",""CDMA"",""TDMA"",""both (a) and (c)""]",3
+"In the third generation of cellular phones, ______ uses a combination of W-CDMA and TDMA.","[""IMT-TC"",""IMT-SC"",""IMT-DS"",""IMT-MC""]",0
+"MEO satellites are located at altitudes between km.","[""5000 and 10,000"",""5000 and 15,000"",""3000 and 5000"",""none of the above""]",1
+"IS-95 is based on ____________.","[""DSSS"",""FDMA"",""CDMA"",""all of the above""]",3
+"D-AMPS uses ______ to divide each 25-MHz band into channels.","[""FDMA"",""CDMA"",""TDMA"",""both (a) and (c)""]",3

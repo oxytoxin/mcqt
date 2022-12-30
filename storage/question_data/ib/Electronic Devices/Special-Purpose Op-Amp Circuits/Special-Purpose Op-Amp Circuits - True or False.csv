@@ -1,0 +1,11 @@
+question,A,B,C,D,E,answer,explanation
+<p>One of the key characteristics of an instrumentation amplifier is high input impedance.</p>,True,False,,,,A,
+<p>Instrumentation amplifiers are commonly used in environments with high common-mode noise.</p>,True,False,,,,A,
+<p>A constant-current source delivers a load current that remains constant only when the load resistance remains constant.</p>,True,False,,,,B,
+<p>An OTA is primarily a current-to-voltage amplifier.</p>,True,False,,,,B,
+<p>One of the principal areas of application for an isolation amplifier is power plant instrumentation.</p>,True,False,,,,A,
+<p>An isolation amplifier provides ac isolation between input and output.</p>,True,False,,,,B,
+<p>The main purpose of an instrumentation amplifier is to amplify small signals riding on large common-mode voltages.</p>,True,False,,,,A,
+"<p>In an isolation amplifier, the third op-amp is used as a unity-gain differential amplifier.</p>",True,False,,,,B,
+<p>OTA stands for operational transistor amplifier.</p>,True,False,,,,B,
+"<p>To construct an instrumentation amplifier, two op-amps and seven resistors are needed.</p>",True,False,,,,B,

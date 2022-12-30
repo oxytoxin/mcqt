@@ -1,0 +1,38 @@
+question,A,B,C,D,E,answer,explanation
+<p>The temperature at which some materials become superconductors is called</p>,Transition temperature,Curie temperature,Neel temperature,Onnes temperature,,A,
+"<p>In Fermi-Dirac statistics, the probability of electron occupation of an energy level equal to Fermi level is</p>",0,0.25,0.5,1,,C,
+<p>The quantum numbers associated with electron motion are designed as</p>,"<i>a, b, c </i>","<i>h, k, l </i>","<i>n, m, l</i>","<i>h, n, l </i>",,C,
+<p>The carrier mobility in a semiconductor is 0.4 m<sup>2</sup>/Vs. Its diffusion constant at 300 K will be (in m<sup>2</sup>/s)</p>,0.40,0.16,0.04,0.01,,D,
+<p>Which of these has lowest dielectric strength?</p>,Dry air,Wet air,Cotton,Paper,,B, <p>Cotton and paper have higher dielectric strength than air. Moisture decreases dielectric strength.</p> 
+"<p>As per Curie-Weiss law, the magnetic susceptibility of a material varies as</p>",T<sup>-2</sup>,"<img src=""/_files/images/electronics-and-communication-engineering/materials-and-components/264-1.png""/>",T,T<sup>2</sup>,,B,
+<p>The amount of time between the creation and recombination of a free electron and hole is called</p>,relaxation time,life time,lorentz time,collision time,,B,
+<p>A photoconductor is a</p>,conductor,semiconductor,insulator,superconductor,,B,
+<p><p><b>Assertion (A):</b>  Both sodium and ferrous are ferromagnetic.</p><p><b>Reason (R):</b>  Both sodium and ferrous have body centred cubic structure.</p></p>,Both A and R are true and R is correct explanation of A,Both A and R are true but R is not correct explanation of A,A is true but R is false,A is false but R is true,,B,
+"<p>For iron, the ferromagnetic Curie temperature is</p>",about 20 K,about 100°C,about -20°C,about 1000 K,,D,
+<p>As regards dielectric constant <i>ε<sub>r</sub></i></p>,the units are farads/m,the units are newton/coulomb,it is dimensionless,the units are farads,,C, <p><i>ε<sub>r</sub></i> is only a number and does not have any units.</p> 
+"<p>A parallel plate capacitor having C = 200 x 10<sup>-12</sup> F has loss dielectric having tan δ = 4 x 10<sup>-4</sup>. At an ac voltage of <i>f</i> = 10<sup>6</sup> Hz and peak value 2 V, the dielectric losses are</p>",10<sup>-8</sup> W,10<sup>-6</sup> W,10<sup>-4</sup> W,10<sup>-2</sup> W,,B, <p>Dielectric losses = <i>v</i><sup>2</sup> ω<i>C</i> tan δ.</p> 
+"<p>In ferromagnetic materials, the orientation between neighbouring permanent dipoles is parallel.</p>",True,False,,,,A,
+"<p>Resistivity of copper is lower than that of nickel. When a small percentage of copper is added to nickel, the resistivity</p>",increases,decreases,may increase or decrease,remains the same,,A,
+<p>Lines of magnetic field attract each other.</p>,True,False,,,,B, <p>Lines of magnetic field repel each other.</p> 
+<p>The maximum temperature limit of class B insulation is</p>,90°C,105°C,120°C,130°C,,D,
+"<p>Resistivity of metals consists of two parts, one part constant and the other temperature dependent.</p>",True,False,,,,A,
+<p>The number of valence electrons in germanium atom is</p>,4,2,1,zero,,A,
+<p><p><b>Assertion (A):</b>  ∈<sub>0</sub> has the dimensions of farad per meter.</p><p><b>Reason (R):</b>  D = ∈<sub>0</sub>∈<sub><i>r</i></sub> E.</p></p>,Both A and R are true and R is correct explanation of A,Both A and R are true but R is not correct explanation of A,A is true but R is false,A is false but R is true,,B, <p>The dimensions of ∈<sub>0</sub> can be derived from the expression D = ∈<sub>0</sub>∈<sub><i>r</i></sub> <i>E</i>.</p> 
+"<p>When temperature is more than ferromagnetic curie temperature, the behaviour of a ferromagnetic material is similar to that of paramagnetic material.</p>",True,False,,,,A,
+"<p>If ω<sub>0</sub> is the angular frequency of rotation of electron in the absence of magnetic field, the angular frequency ω, when a magnetic field B is acting is ω ≅ ω<sub>0</sub> + (<i>e</i>/2<i>m</i>)B.</p>",True,False,,,,A,
+<p>The resistance of a superconductor is</p>,low,very low,very very low,zero,,D,
+"<p>Dielectric constant, under the condition of alternating fields, is a complex quantity.</p>",True,False,,,,A,
+"<p>In an homogeneous dielectric subjected to an electric field E, the dipole moment per unit volume is ∈<sub>0</sub>(∈<sub><i>r</i></sub> - 1) E.</p>",True,False,,,,A,
+"<p>For a superconductor, magnetisation M in a field H is</p>",extremely small,- H,- I,zero,,B,
+<p>The probability of recombination of electrons and holes in a semiconductor is proportional to</p>,density of electrons,density of holes,density of electrons and holes,none of the above,,C,
+<p><p><b>Assertion (A):</b>  The regular or irregular stacking of atoms has importanteffect on properties of materials.</p><p><b>Reason (R):</b>  The arrangement of atoms in a given material can be studied using X-rays.</p></p>,Both A and R are true and R is correct explanation of A,Both A and R are true but R is not correct explanation of A,A is true but R is false,A is false but R is true,,B,
+"<p>If temperature is increased, the temperature coefficient of a metal</p>",increases,decreases,may increase or decrease,remains constant,,B,
+<p>The application of magnetic field to superconducting material</p>,increases transition temperature,decreases transition temperature,has no effect on transition temperature,may increase or decrease the transition temperature,,B,
+<p>Automobile ignition systems use the principle of</p>,resistance,self inductance,mutual inductance,capacitance,,C, <p>A high voltage is induced due to mutual inductance because the number of turns in secondary coil is very high.</p> 
+"<p>In a valence crystal, the valence electrons</p>",are not shared,are shared between neighbouring atoms,are shared by all atoms,any of the above,,B," <p>In true valence crystals the binding between the atoms is accomplished by the sharing of valence electrons. </p>
+<p>This sharing can only be between neighbouring atoms only.</p> "
+<p>Transformer oil is</p>,refined vegetable oil,refined mineral oil,mixture of vegetable and mineral oil,none of the above,,B,
+<p><p><b>Assertion (A):</b>  Drift velocity of electrons is proportional to the applied electric field E.</p><p><b>Reason (R):</b>  The average drift velocity per unit field is called mobility.</p></p>,Both A and R are true and R is correct explanation of A,Both A and R are true but R is not correct explanation of A,A is true but R is false,A is false but R is true,,B,
+<p>The materials having low retentivity are suitable for making</p>,temporary smagnets,weak magnets,permanent magnets,both temporary and permanent magnets,,A,
+"<p>If ∈<sub><i>r</i></sub> = ∈<sub><i>r</i></sub><sup><i>'</i></sup> - <i>j</i>∈<sub><i>r</i></sub><sup><i>""</i></sup> tan δ = <img src=""/_files/images/electronics-and-communication-engineering/materials-and-components/397-1.png""/>.</p>",True,False,,,,A,
+"<p><p><b>Assertion (A):</b>  Electron concentration <i>n</i>, hole concentration <i>p</i> and charge concentration <i>n</i><sub><i>i</i></sub> are related by <i>n</i><sub><i>i</i></sub><sup>2</sup> = <i>np</i>.</p><p><b>Reason (R):</b> <i>p</i> type semiconductor is obtained by adding trivalent impurity to intrinsic semiconductor.</p></p>",Both A and R are true and R is correct explanation of A,Both A and R are true but R is not correct explanation of A,A is true but R is false,A is false but R is true,,B,

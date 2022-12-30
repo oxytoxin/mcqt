@@ -1,0 +1,13 @@
+question,A,B,C,D,E,answer,explanation
+<p>A certain fiber-optic cable has the following characteristics: n<sub>1</sub> = 1.82 and n<sub>2</sub> = 1.73. What is the value of θ<sub>c</sub>?</p>,71.90º,0.95º,18.1º,1.81º,,A,
+<p>An AM demodulator can be implemented with a linear multiplier followed by a ________ filter.</p>,low-pass,high-pass,band-pass,band-stop,,A,
+<p>The intermediate frequency in a standard AM receiver is</p>,455 Hz.,455 kHz.,4.55 MHz.,none of the above,,B,
+"<p>In order for a light ray to propagate along a fiber-optic cable, what must the relationship be between the angle of incidence and the critical angle?</p>",θ<sub>i</sub> &gt; θ<sub>c</sub>,θ<sub>i</sub> &lt; θ<sub>c</sub>,θ<sub>i</sub> = θ<sub>c</sub>,none of the above,,A,
+<p>Light may be propagated along a fiber-optic cable in which of the following modes?</p>,multimode step index,single-mode step index,multimode graded index,all of the above,,D,
+"<p>In AM, the carrier is changed by a modulating signal. What parameter of the carrier is changed?</p>",amplitude,frequency,pulse width,phase,,A,
+"<p>For a four-quadrant linear multiplier, what is the output voltage, given input voltages of V<sub>x</sub> = +2 V and V<sub>y</sub> = –10 V?</p>",+2 V,+1 V,–2 V,–1 V,,C,
+<p>The output spectrum of a ________ modulator includes upper-side and lower-side frequencies and the carrier frequency.</p>,balanced,standard amplitude,none of the above,,,B,
+<p>Amplitude modulation is a ________ process.</p>,multiplication,division,sum/difference,,,A,
+<p>What does VCO stand for?</p>,Visually-Controlled Organization,Voltage-Controlled Oscillator,Voltage-Centered Oscilloscope,,,B,
+<p>A phase-locked loop (PLL) is a feedback circuit consisting of a</p>,phase detector.,low-pass filter.,VCO.,all of the above,,D,
+"<p>If a 1 MHz carrier is amplitude modulated with a 5 kHz audio signal, the upper-side frequency is ________ kHz.</p>",1005,1000,995,none of the above,,A,

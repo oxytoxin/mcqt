@@ -1,0 +1,12 @@
+question,A,B,C,D,E,answer,explanation
+"<p>The number 560,000 is expressed in scientific notation.</p>",True,False,,,,B,
+<p>Subtracting 18 × 10<sup>2</sup> from 480 × 10<sup>1</sup> results in 30 × 10<sup>2</sup>.</p>,True,False,,,,A,
+<p>The coulomb is the unit for charge.</p>,True,False,,,,A,
+"<p>Voltage, not current, determines the severity of an electrical shock.</p>",True,False,,,,B,
+<p>Only electrical quantities have symbols associated with them.</p>,True,False,,,,B,
+<p>0.00015 V can be expressed in powers of ten as 1.5 × 10<sup>–4</sup> V.</p>,True,False,,,,A,
+<p>Precision refers to the difference between the measured value and the accepted value.</p>,True,False,,,,B,
+<p>4200 W is the same as 4.2 kW.</p>,True,False,,,,A,
+<p>Multiplying 5 × 10<sup>6</sup> by 4 × 10<sup>3</sup> results in 20 × 10<sup>18</sup>.</p>,True,False,,,,B,
+<p>The metric prefix <i><b>giga</b></i> is used to represent one billion.</p>,True,False,,,,A,
+"<p>The number 24.5, rounded to two significant digits, is 25.</p>",True,False,,,,B,

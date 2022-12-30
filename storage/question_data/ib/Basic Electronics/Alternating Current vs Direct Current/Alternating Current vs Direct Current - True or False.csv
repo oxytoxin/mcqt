@@ -1,0 +1,10 @@
+question,A,B,C,D,E,answer,explanation
+"<p>DC current flows in one direction, while ac current rises from zero to a maximum, then falls to zero in one direction, then rises to a maximum, then falls to zero in the opposite direction.</p>",True,False,,,,A,
+<p>A square and a rectangular waveform appear to have a step voltage transition.</p>,True,False,,,,A,
+"<p>The duty cycle of a square wave with a pulse width of 3 <img align=""absmiddle"" alt=""mu.gif"" src=""/_files/images/basic-electronics/complete/mu.gif""/>s and a period of 9 <img align=""absmiddle"" alt=""mu.gif"" src=""/_files/images/basic-electronics/complete/mu.gif""/>s is 40%.</p>",True,False,,,,B,
+<p>The rms value of a sine wave is .707 x peak-to-peak value/2.</p>,True,False,,,,A,
+<p>DC current transfers better over longer distances than ac current.</p>,True,False,,,,B,
+"<p>An ac wave shape could be a sine wave, square wave, or sawtooth wave.</p>",True,False,,,,A,
+<p>A sawtooth voltage waveform has a linear ramp that changes voltage level with respect to time.</p>,True,False,,,,A,
+"<p>The period of a 10 kHz sine wave is 10 <img align=""absmiddle"" alt=""mu.gif"" src=""/_files/images/basic-electronics/complete/mu.gif""/>s.</p>",True,False,,,,B,
+<p>The average value of a sine wave is .707 times the peak value.</p>,True,False,,,,B,

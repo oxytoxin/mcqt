@@ -1,0 +1,11 @@
+question,A,B,C,D,E,answer,explanation
+<p>Precise timing is not important in digital signals.</p>,True,False,,,,B,
+<p>A plot of voltage versus time is called a timing diagram.</p>,True,False,,,,A,
+<p>The CMOS uses bipolar transistors instead of MOSFET.</p>,True,False,,,,B,
+<p>Most modern digital systems are based on semiconductor technology.</p>,True,False,,,,A,
+<p>The SO package is available for the most popular TTL and CMOS digital logic and analog IC devices.</p>,True,False,,,,A,
+"<p>The ability to manufacture smaller, more dense components has been fulfilled by SMD.</p>",True,False,,,,A,
+<p>An electromechanical relay is operated manually.</p>,True,False,,,,B,
+<p>Serial communications cannot be sped up.</p>,True,False,,,,B,
+<p>Manual switches and relays have identical ON and OFF resistances.</p>,True,False,,,,B,
+<p>The frequency of the clock waveform is defined as the reciprocal of the clock period.</p>,True,False,,,,A,

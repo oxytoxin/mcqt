@@ -1,0 +1,31 @@
+question,A,B,C,D,E,answer,explanation
+"<p>If the voltage across a resistor ___, the current flowing through it will increase.</p>",increases,decreases,stays the same,Not enough information,,A,
+"<p>The voltage across a ___ resistor is 12 V and the current through it is 500 <img align=""absmiddle"" alt=""mu.gif"" src=""/_files/images/basic-electronics/basics/mu.gif""/>A.</p>","600 <img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/>","2.4 k<img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/>","6 k<img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/>","24 k<img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/>",,D,
+"<p><p><img src=""/_files/images/basic-electronics/basics/fbq3_1005_1.gif""/></p> <p>The voltage supplying the current in the given circuit is _____.</p></p>",2.5 V,25 V,250 V,2.5 kV,,B," <p>V = IR<br/>
+<br/>
+= 250 x 10^-6 x 100 x 10^3<br/>
+<br/>
+= 250 x 100 x 10^(-6+3)<br/>
+<br/>
+= 250 x 100 x 10^-3<br/>
+<br/>
+= 25 x 1000 x 10^-3<br/>
+<br/>
+= 25 x 10^3 x 10^-3<br/>
+<br/>
+= 25 x 10^0<br/>
+<br/>
+= 25 x 1 [Anything power 0 is 1]<br/>
+<br/>
+= 25 volts.</p> "
+"<p>The voltage across a 2.2 k<img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/> resistor is ___ if 3 mA of current is flowing through it.</p>",6.6 V,7.33 V,1.4 V,0.8 V,,A,
+"<p><p><img src=""/_files/images/basic-electronics/basics/fbq3_1009_1a.gif""/></p>
+<p>The power rating for the resistor in the given circuit should be at least ___.</p></p>",1/4 W,1/2 W,1 W,2 W,,B,
+<p>The ___ rating of a resistor will increase with an increase in the surface area of the resistor.</p>,resistance,current,power,voltage,,C,
+<p>The number of joules used in 1 second is always equal to the number of _______.</p>,siemens,coulombs,amperes,watts,,D,
+<p>The power is ___ if 200 J of energy are used in 10 s.</p>,2 W,5 W,20 W,50 W,,C,
+"<p><p><img src=""/_files/images/basic-electronics/basics/fbq3_1009_1b.gif""/></p>
+<p>The power rating for the resistor in the given circuit should be at least ______.</p></p>",1/4 W,1/2 W,1 W,2 W<br/><br/><br/>,,D,
+<p>Resistance and current are _________.</p>,directly proportional,inversely proportional,not related,similar to voltage,,B,
+"<p>___ is a better way of expressing 7,500,000 W.</p>",7.5 kW,"7,500 MW","7,500 GW",7.5 MW,,D,
+"<p>The current is ___ if the voltage across a 5 k<img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/> resistor is 25 V.</p>",200 mA,125 mA,75 mA,5 mA,,D,

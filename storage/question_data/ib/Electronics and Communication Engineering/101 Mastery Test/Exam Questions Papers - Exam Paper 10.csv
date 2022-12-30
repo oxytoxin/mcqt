@@ -1,0 +1,231 @@
+question,A,B,C,D,E,answer,explanation
+"<p>A lossless 50 Ω transmission line is terminated 30 + <i>j</i>25 Ω, then voltage reflection coefficient and current reflection coefficient are</p>","062 ∠82.88, - 0.62 ∠82.88","10.36 ∠11.296, - 10.36 ∠111.296","0.23 ∠49.1, - 0.23 ∠ + 49.1","- 10.36 ∠111.296, 10.36 ∠111.296",,D," <p>Voltage reflection coefficient </p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/3-09-38-1.png""/></p>
+<p>Current reflection coefficient : <span class=""symbol"">r</span><i><sub>i</sub></i> = - <span class=""symbol"">r</span><i><sub>v</sub></i> = + 10.36 ∠111.296.</p> "
+"<p>Find value of i<br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-02-18.png""/></p>",1A,0A,0.45 A,None of these,,C," <p>The given circuit can be compared to a Wheatstone's Bridge.</p>
+<p>This bridge is balanced.</p>
+<p><b>∴</b> R<sub><i>eq</i></sub> = (10 + 10) || (20 + 20) = 20 || 40 = 13.33 Ω</p>
+<p><b>∴</b> <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-06-18.png""/>.</p> "
+"<p>The circuit shown in the figure has 4 boxes each described by inputs P, Q, R and outputs Y, Z with<br/>Y = P ⊕ Q ⊕ R, Z = RQ + <span style=""text-decoration:overline;"">P</span> R + Q <span style=""text-decoration:overline;"">P</span><br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/14-03-33.png""/><br/>The circuit is a</p>",4 bit adder giving P + Q,4 bit subtractor giving P - Q,4 bit subtractor giving Q - P,4 bit adder giving P + Q + R,,B," <p>Let P = 1101 Q = 1101</p>
+<p>Y<sub><i>n</i></sub> = P<sub><i>n</i></sub> ⊕ Q<sub><i>n</i></sub> ⊕ R<sub><i>n</i></sub></p>
+<p>Z = R<sub><i>n</i></sub> Q<sub><i>n</i></sub> + <span style=""text-decoration:overline;"">P</span><sub><i>n</i></sub> R<sub><i>n</i></sub> + Q<sub><i>n</i></sub> <span style=""text-decoration:overline;"">P</span><sub><i>n</i></sub></p>
+<p>Constructing truth table</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/14-06-33.png""/></p>
+<p>So that, R<sub><i>n</i> + 1</sub> = Z<sub><i>n</i></sub> 1 ≥ <i>n</i> ≥ 3</p>
+<p>Z<sub>4</sub> = R<sub>5</sub>(MSB)</p>
+<p>Hence, output is 00010 which show that it is a 4 bit subtractor giving P - Q.</p> "
+<p>Find the electric charge required on the earth and moon to balance their gravitational attraction if the charge on the earth is 12.5 times that on the moon.<br/>Mass of moon = 6.7 x 10<sup>22</sup> K<i>g</i><br/>Mass of earth = 6 x 10<sup>24</sup> K<i>g</i><br/>Distance between moon and earth = 380 K<i>m</i><br/>Universal gravitational constant = 6.7 x 10<sup>-11</sup> N<i>m</i><sup>2</sup>/K<i>g</i><sup>2</sup></p>,48.9 TC,4.89 GC,4.89 TC,48.9 GC,,C," <p>Using law of gravitations, the force between two point masses is F = <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-793-23-1.png""/></p>
+<p>M<sub>1</sub> = mass of moon = 6.7 x 10<sup>22</sup> <i>kg</i></p>
+<p>M<sub>2</sub> = mass of earth = 6 x 10<sup>24</sup><i> kg</i></p>
+<p><i>r</i> = distance between masses = 380 <i>km</i></p>
+<p>G = universal gravitational constant</p>
+<p>= 6.7 x 10<sup>- 11</sup> N<i>m</i><sup>2</sup>/<i>Kg</i><sup>2</sup></p>
+<p>Let Q<sub>1</sub> and Q<sub>2</sub> be the charge on moon and earth respectively. Now the gravitational force must be balanced by the force of repulsion.</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-793-23-2.png""/></p>
+<p>Q<sub>1</sub>Q<sub>2</sub> = 4<span class=""symbol"">p</span>ε<sub>0</sub>M<sub>1</sub>M<sub>2</sub>G</p>
+<p>but Q<sub>2</sub> = 12.5Q<sub>1</sub></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-793-23-3.png""/> = 12.5 x 4<span class=""symbol"">p</span>ω<sub>0</sub>M<sub>1</sub>M<sub>2</sub>G</p>
+<p> <b>∴</b> Q<sub>2</sub> = 6.11 x 10<sup>14</sup></p>
+<p> Q<sub>2</sub> = 61.11 TC</p>
+<p> Q<sub>1</sub> = 4.89 TC.</p> "
+<p>When <i>x</i>(<i>n</i>) is real then the Fourier series coefficients are correlated as __________ .</p>,<i>a</i><sub>-<i>k</i></sub> = <i>a</i><i><sub>k</sub></i><sup>*</sup>,<i>a</i><i><sub>k</sub></i> = <i>a</i><i>k</i><sup>*</sup>,<i>a</i><sub><i>k</i>+1</sub> = <i>a</i><i><sub>k</sub></i><sub>*</sub>,<i>a</i><sub>-<i>k</i>+1</sub> = <i>a</i><i><sub>k</sub></i><sup>*</sup>,,A," <p><i>a</i><sub>-<i>k</i></sub> = <i>a</i><sup>*</sup><sub>k</sub> for all values of <i>k</i>. </p>
+<p>In fact, this equality holds whenever <i>x</i>[<i>n</i>] is real.</p> "
+"<p>The transfer function Y(<i>s</i>)/R(<i>s</i>) of the system shown is<br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/7-02-17.png""/></p>",0,"<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/7-02-17-2.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/7-02-17-3.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/7-02-17-4.png""/>",,B," <p>Construct a signal flow graph</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/7-07-17.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/7-07-17-1.png""/>.</p> "
+<p>A lossless transmission line with air dielectric is 6 m long. What is the line length at 30 MHz?</p>,1 wavelength long,0.5 wavelength long,0.6 wavelength long,0.25 wavelength long,,C," <p>V = 3 x 10<sup>8</sup> m/s for lossless line</p>
+<p> <b>∴</b> <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/12-04-23.png""/></p>
+<p><b>∴</b> Line length = <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/12-04-23-1.png""/> = 0.6 wave length long.</p> "
+"<p>Given that <i>F</i>(<i>s</i>) is the one-sided Laplace transform of <i>f</i>(<i>t</i>), the Laplace transform of <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/6-1.png""/><i>f</i>(<span class=""symbol"">t</span>)d<span class=""symbol"">t</span> is</p>",<i>s</i>F<i>s</i> - <i>f</i>(0),"<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/6-03-24-2.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/6-2.png""/> F(<span class=""symbol"">t</span>)d<span class=""symbol"">t</span>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/6-03-24-4.png""/>",,B, <p>Since it is one-sided Laplace transform.</p> 
+"<p>The antenna current of an AM broad cast transmitter, modulated to a depth of 40% by an audio sine wave is 11 amperes. It increased to 12 ampere as a result of simultaneous modulation by another sine wave. The modulation index due to this second sine wave is :</p>",0.4,0.757,0.643,0.8,,C," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/11-04-20.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/11-04-20-1.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/11-04-20-2.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/11-04-20-3.png""/></p>
+<p>μ<sup>2</sup> = 0.57057, μ<sub>1</sub><sup>2</sup> + 0.16 = 0.57057</p>
+<p>⇒ μ<sub>1</sub> = 0.64 .</p> "
+"<p>Two <i>D</i> flip-flop as shown below are to be connected as a synchronous counter that goes through the following Q<sub>1</sub>Q<sub>0</sub> sequence<br/>00 → 01 → 11 → 10 → 00 → __________ <br/>The inputs D<sub>0</sub> and D<sub>1</sub> respectively should be connected as<br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/14-03-30.png""/></p>","<span style=""text-decoration:overline;"">Q</span><sub>1</sub> and Q<sub>0</sub>","<span style=""text-decoration:overline;"">Q</span><sub>0</sub> and Q<sub>1</sub>","<span style=""text-decoration:overline;"">Q</span><sub>1</sub> Q<sub>0</sub> and <span style=""text-decoration:overline;"">Q</span><sub>1</sub> Q<sub>0</sub>","<span style=""text-decoration:overline;"">Q</span><sub>1</sub> <span style=""text-decoration:overline;"">Q</span><sub>0</sub> and Q<sub>1</sub> Q<sub>0</sub>",,A," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/14-06-30.png""/></p> "
+"<p>The z-transform of a signal is given by <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/16-03-29.png""/>. Its final value is :</p>",1/4,zero,1,infinity,,C," <p>Final value is <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/16-06-29.png""/>.</p> "
+"<p>The residue of the function <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/5-03-26.png""/> at <i>z</i> = 2 is</p>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/5-03-26-1.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/5-03-26-2.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/5-03-26-3.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/5-03-26-4.png""/>",,A," <p>Residue at <i>z</i> = 2</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/5-11-26.png""/>.</p> "
+"<p>The number of variables in a function is odd and the number of minterms with even number of 0's are same as the number of minterms with odd number at 1's, the expression formed can be represented in __________ as well as __________ form.</p>","Ex - OR, NOR","Equivalence, Ex - OR","AND, Coincidence","OR, Ex - OR",,B," <p>With odd number of variables (<i>n</i>)</p>
+<p>Let <i>n</i> = 3, by using <i>k</i> map</p>
+<p><span style=""text-decoration:overline;"">A</span> (B ⊕ C) + A(BC + <span style=""text-decoration:overline;"">B</span> <span style=""text-decoration:overline;"">C</span>)</p>
+<p><span style=""text-decoration:overline;"">A</span>D + A<span style=""text-decoration:overline;"">D</span></p>
+<p>= A ⊕ D </p>
+<p>D = B⊕C</p>
+<p><span style=""text-decoration:overline;"">D</span> = <span style=""text-decoration:overline;"">B⊕C</span></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/14-04-1.png""/></p>
+<p>This can be represented by EX-NOR of EX-OR expressions.</p>
+<p>EX-NOR means equivalence.</p> "
+"<p>In a number system with radix <i>r</i>, the decimal value of 110 is equal to 4<i>r</i>. The decimal values of 111 and <i>r</i> respective are equal to</p>","20, 5","16, 4","13, 3","8, 2",,C," <p>(110)<sub><i>r</i></sub> = 4<i>r</i></p>
+<p>⇒ <i>r</i><sup>2</sup> + <i>r</i> = 4<i>r</i></p>
+<p><i>r</i>(<i>r</i> - 3) = 0 ⇒ <i>r</i> ≠ 0, <i>r</i> = 3</p>
+<p>(lll)<sub><i>r</i></sub> = 3<sup>2</sup> + 3 + 1 = 13.</p> "
+"<p>The electric field of uniform plane wave is given by <span style=""text-decoration:overline;"">E</span> = 20 sin (2 <span class=""symbol"">p</span> x 10<sup>8</sup><i>t</i>- <span class=""symbol"">p</span><i>z</i>) <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/3-06-76.png""/><sub>x</sub> + 20 cos (2 <span class=""symbol"">p</span> x 10<sup>8</sup><i>t</i> - <span class=""symbol"">p</span><i>z</i>) <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/3-06-76.png""/><sub>y</sub>. Find phase velocity</p>",2 x 10<sup>8</sup> m/s,"<span class=""symbol"">p</span> x 10<sup>8</sup> m/s","2<span class=""symbol"">p</span> x 10<sup>8</sup> m/s",none of these,,A," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/3-14-76.png""/> = 2 x 10<sup>8</sup> m/s.</p> "
+<p>A conductor in <i>x-y</i> plane and having length 1 m is moving with a velocity V = (2<i>i</i> + 3<i>j</i> + <i>k</i>) m/sec. A magnetic induction field B = (<i>i</i> + 2<i>j</i>) Wb/m<sup>2</sup> is applied to the conductor. The potential difference between the ends of the conductor is</p>,0,4.88 V,"<span class=""root"">6</span> V",None of these,,C," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/12-01-3.png""/> = - (V x B) = - (2<i>i</i> + 3<i>j</i> + <i>k</i>) x (<i>i</i> + 2<i>j</i>)</p>
+<p><b>∴</b> |<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/12-01-3.png""/>| = (E<sup>2</sup><sub><i>x</i></sub> + E<sup>2</sup><sub><i>y</i></sub> + E<sup>2</sup><sub><i>z</i></sub>) = <span class=""root"">6</span> v/m</p>
+<p><b>∴</b> Potential Difference across 1 m length = <span class=""root"">6</span>.</p> "
+<p>A 1000 <i>k</i>H<i>z</i> carrier wave modulated 40% at 4000 H<i>z</i> is applied to a resonant circuit tuned to a carrier frequency and having <i>Q</i> = 140. What is the degree of modulation after passing the wave through this circuit?</p>,0.4,0.2,0.27,0.554,,C," <p>Resulting depth of modulation is given by :</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-793-31-5.png""/></p>
+<p>when δ = <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-793-31-1.png""/></p>
+<p><i>f</i><sub><i>c</i></sub> = 1000 x 10<sup>3</sup> H<i>z</i></p>
+<p><i>f</i><sub><i>m</i></sub> = 4 x 10<sup>3</sup> H<i>z</i></p>
+<p>δ = <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-793-31-2.png""/></p>
+<p><i>m<sub>0</sub></i> =<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-793-31-3.png""/></p>
+<p>=<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-793-31-4.png""/> = 0.27 .</p> "
+"<p>The V<sub>TH</sub> at terminals A and B is equal to, <br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-01-5.png""/></p>",0 V,5 V,- 5 V,None of these,,B," <p>Apply KVL to loop 1</p>
+<p>5V - 3I<sub>1</sub> - 2(I<sub>1</sub> - I<sub>2</sub>) - 5V = 0</p>
+<p><b>∴</b> I<sub>2</sub> = 0</p>
+<p>5 - 3I<sub>1</sub> - 2I<sub>1</sub> - 5V = 0</p>
+<p><b>∴</b> I<sub>1</sub> = 0</p>
+<p><b>∴</b> V<sub>AB</sub> = 5V.</p> "
+"<p>If <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/7-03-26.png""/>, then <i>y</i> has <i>a</i></p>",maximum at <i>x</i> = <i>e</i>,minimum at <i>x</i> = <i>e</i>,maximum at <i>x</i> = <i>e<sup>-1</sup></i>,minimum at <i>x</i> = <i>e</i><sup>-l</sup>,,A," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/7-08-26.png""/>.</p> "
+"<p>If <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-03-35.png""/>. <i>d</i><span class=""symbol"">t</span>, then <i>F</i>[<i>y</i>(<i>t</i>)] is</p>",<i>- jsgn(f)</i>. <i>x(f)</i>,"<i>j</i>2<span class=""symbol"">p</span><i>f</i> . <i>e</i><sup><i>-j<span class=""symbol"">p</span>tf</i></sup> . <i>x</i>(<i>f</i>)","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-03-35-3.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-03-35-4.png""/>",,A," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-09-35.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-09-35-1.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-09-35-2.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-09-35-3.png""/></p>
+<p>⇒ F{Y(<i>t</i>)} = Y(<i>f</i>) = X(<i>f</i>) x <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-09-35-4.png""/></p>
+<p>sin (t) ⇌ <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-09-35-5.png""/></p>
+<p>By duality :<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-09-35-6.png""/>⇌ sgn + (- <i>f</i>)</p>
+<p>⇒ <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-09-35-7.png""/> ⇌ <i>j</i>sgn (- <i>f</i>)</p>
+<p><b>∴</b><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-09-35-7.png""/>⇌ - <i>j</i> sgn (<i>f</i>)</p>
+<p>∵ sgn(<i>- f</i>) = - sgn(<i>f</i>)</p>
+<p>⇒ Y(<i>f</i>) = X(<i>f</i>). [- <i>j</i> sgn(<i>f</i>)].</p> "
+"<p>If the sequence <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-753-2-1.png""/> converges, then the series <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-753-2-2.png""/> converges absolutely is</p>",Ratio test,Root test,Divergence test,Convergence test,,B," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-753-2-1.png""/> This is the Root test. Since the signal magnitude is raised to the power of 1/<i>n</i>.</p> "
+"<p>Open loop transfer function of a system is<br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-787-39-1.png""/><br/>The phase cross over frequency ω<sub><i>c</i></sub> is</p>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-787-39-2.png""/>",1,zero,"<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-787-39-3.png""/>",,B," <p>GH = - tan<sup>- 1</sup> ω - tan<sup>- 1</sup> 2ω - tan<sup>- 1</sup> 3ω </p>
+<p>= - <span class=""symbol"">p</span> </p>
+<p>tan<sup>- 1</sup> ω + tan<sup>- 1</sup> 2ω = <span class=""symbol"">p</span> - tan<sup>- 1</sup> 3ω </p>
+<p>tan<sup>- l</sup><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-794-39-1.png""/> = <span class=""symbol"">p</span> - tan<sup>- 1</sup> 3ω </p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-794-39-1.png""/> = - 3ω </p>
+<p>ω = 1 <i>rad/sec</i>.</p> "
+"<p>The two numbers represent in signed 2's complement form are P = 11101101 and Q = 111001110. If Q subtracted from P, the value obtained in signed 2's complement form is</p>",100000111,00000111,11111001,111111001,,C," <p>P = 11101101 = - 25</p>
+<p>Q = 11100110 = - 18</p>
+<p>Thus P - Q = - 25 - (- 18) = - 7</p>
+<p>Thus '- 7's two complement representation is 11111001.</p> "
+"<p>The transfer function <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/16-02-15.png""/> of an RLC circuit is given by <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/16-02-15-1.png""/> quality factor (Q-factor) of this circuit is :</p>",25,50,100,5000,,B," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/16-05-15.png""/> </p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/16-05-15-1.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/16-05-15-2.png""/>.</p> "
+"<p>Consider the circuit shown below of 2 : 1 MUX is given by the function <i>g</i> = <i>ac</i> + <i><span style=""text-decoration:overline;"">bc</span></i><br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/3-06-72.png""/><br/>Then <i>f</i> is :</p>",X ⊕ Y,"X<span style=""text-decoration:overline;"">Y</span> + E<span style=""text-decoration:overline;"">X</span>Y","XE + X<span style=""text-decoration:overline;"">Y</span>",none of these,,B," <p>Since <i>g</i> = <i>ac</i> + <i>b<span style=""text-decoration:overline;"">c</span></i></p>
+<p>i.e. when <i>c</i> = 0, <i>g</i> = <i>b</i> and <i>c</i> = 1, <i>g</i> = <i>a</i> </p>
+<p>Now we evaluate</p>
+<p><i>f</i> = (E)(<span style=""text-decoration:overline;"">X</span>) + (0)(X) = E<span style=""text-decoration:overline;"">X</span></p>
+<p><i>f</i> = (X)(<span style=""text-decoration:overline;"">Y</span>) + (E<span style=""text-decoration:overline;"">X</span>)(Y) = X<span style=""text-decoration:overline;"">Y</span> + E<span style=""text-decoration:overline;"">X</span>Y.</p> "
+"<p>All the four of the 2 x 2 matrix <i>p</i> = <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/5-01-1.png""/> are non zero, and one of its eigen values is zero. Which of the following statements is true?</p>",<i>P</i><sub>11</sub><i>P</i><sub>22</sub> - <i>P</i><sub>12</sub><i>P</i><sub>21</sub> = 1,<i>P</i><sub>11</sub><i>P</i><sub>22</sub> - <i>P</i><sub>12</sub><i>P</i><sub>21</sub> = - 1,<i>P</i><sub>11</sub><i>P</i><sub>22</sub> - <i>P</i><sub>12</sub><i>P</i><sub>21</sub> = 0,<i>P</i><sub>11</sub><i>P</i><sub>22</sub> + <i>P</i><sub>12</sub><i>P</i><sub>21</sub> = 1,,C," <p>Use [λI - P] = 0</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/5-10-1.png""/></p>
+<p>⇒(λ - P<sub>11</sub>)(λ - P<sub>22</sub>) - P<sub>21</sub>P<sub>12</sub> = 0</p>
+<p>Putting λ = 0, we get P<sub>11</sub>P<sub>22</sub> - P<sub>21</sub>P<sub>12</sub> = 0.</p> "
+"<p>The value of the integral of the function g(<i>x, y</i>) = 4<i>x</i><sup>3</sup> + 10<i>y</i><sup>4</sup> along the straight line segment from the point (0, 0) to the point (1, 2) in the x-y plane is</p>",33,35,40,56,,A," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/5-4.png""/>(4<i>x</i><sup>3</sup> + 10<i>y</i><sup>4</sup>)</p>
+<p><i>y</i> = 2<i>x</i></p>
+<p>⇒<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/5-5.png""/>[4<i>x<sup>3</sup></i> + 10(2<i>x</i>)<sup>4</sup>]<i>dx</i> = 33</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/5-12-30.png""/></p> "
+"<p>For the gear train, <br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-791-84-1.png""/><br/>If θ<sub>1</sub> = 2 <i>rad</i>. clockwise and the torque of gear 1 is 10 lb-ft, what is the displacement and torque of gear 7.</p>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-791-84-2.png""/> rad CW, 7.5 lb-ft","4 rad CW, 5 lb-ft","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-791-84-3.png""/> rad CW, 7.5 lb-ft","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-791-84-4.png""/> rad CW, 7.5 lb-ft",,B," <p>Number of teeths on any gear is proportional to its radius, </p>
+<p>i.e. <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-798-84-1.png""/> </p>
+<p>and also displacement on all gear must be same </p>
+<p>=&gt; <i>r<sub>1</sub></i>θ<sub>1</sub> = <i>r<sub>7</sub></i>θ<sub>7</sub> </p>
+<p>=&gt; <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-798-84-2.png""/> </p>
+<p>=&gt; <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-798-84-3.png""/> </p>
+<p><b>∴</b> <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-798-84-4.png""/> </p>
+<p><b>∴</b> <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-798-84-5.png""/><i>rad</i> CW </p>
+<p>Now, work done by one gear is equal to other, </p>
+<p><b>∴</b> T<sub>1</sub>θ<sub>1</sub> = T<sub>7</sub>θ<sub>7</sub> </p>
+<p>=&gt; <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-798-84-6.png""/>.</p> "
+<p>The following system which is static is __________ .</p>,"<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-01-7-1.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-01-7-2.png""/>",<i>y</i>(<i>t</i>) = <i>x</i>(<i>n</i> - 1),<i>y</i>(<i>t</i>) = <i>e</i><sup><i>x(t)</i></sup>,,D," <p>The system represented by expression <i>e<sup>x(t)</sup></i> is static (memoryless) ∵ output at time = '<i>t</i>' dependent only. </p>
+<p>In case of derivative, if we take the laplace transform we have to consider initial conditions. </p>
+<p>Hence memory is required.</p> "
+"<p>The minimal function that can detect a ""divisible by 3"" 8421 BCD code digit (representation D<sub>8</sub>D<sub>4</sub>D<sub>2</sub>D<sub>1</sub>) is given by</p>",D<sub>8</sub>D<sub>1</sub> + D<sub>4</sub>D<sub>2</sub> + D<sub>8</sub>D<sub>2</sub>D<sub>1</sub>,"D<sub>8</sub>D<sub>1</sub> + D<sub>4</sub>D<sub>2</sub> <span style=""text-decoration:overline;"">D</span><sub>1</sub> + <span style=""text-decoration:overline;"">D</span><sub>4</sub>D<sub>2</sub>D<sub>1</sub> + <span style=""text-decoration:overline;"">D</span><sub>8</sub><span style=""text-decoration:overline;"">D</span><sub>4</sub><span style=""text-decoration:overline;"">D</span><sub>2</sub><span style=""text-decoration:overline;"">D</span><sub>1</sub>","D<sub>4</sub>D<sub>1</sub> + D<sub>4</sub>D<sub>2</sub> + D<sub>8</sub><span style=""text-decoration:overline;"">D</span><sub>4</sub> <span style=""text-decoration:overline;"">D</span><sub>2</sub>D<sub>1</sub>","D<sub>4</sub>D<sub>2</sub><span style=""text-decoration:overline;"">D</span><sub>1</sub> + <span style=""text-decoration:overline;"">D</span><sub>4</sub>D<sub>2</sub>D<sub>1</sub> + D<sub>8</sub>D<sub>4</sub>D<sub>2</sub>D<sub>1</sub>",,B," <p>Now the problem can be solved using <i>k</i>-map method.</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/4-794-36-1.png""/> </p>
+<p>The function can be expressed as Σ<i>m</i>(0, 3, 6, 9) + <i>d</i>(10, 11, 12, 13, 14, 15) </p>
+<p><b>∴</b> K-map is </p>
+<p><b>∴</b> The function is </p>
+<p><span style=""text-decoration:overline;"">D</span><sub>8</sub><span style=""text-decoration:overline;"">D</span><sub>4</sub><span style=""text-decoration:overline;"">D</span><sub>2</sub><span style=""text-decoration:overline;"">D</span><sub>1</sub> + <span style=""text-decoration:overline;"">D</span><sub>4</sub>D<sub>2</sub>D<sub>1</sub> + D<sub>4</sub>D<sub>2</sub><span style=""text-decoration:overline;"">D</span><sub>1</sub> + D<sub>8</sub>D<sub>1</sub> .</p> "
+<p>A delta modulation system is designed to operate at 3 times the Nyquist rate for a signal with a 3 KHz bandwidth. The quantization step size is 250 mv. The maximum amplitude of a 1 KHz input sinusoidal for which the delta modulator does not show slope overload is :</p>,716.2 mV,500 mV,647.87 mV,400 mV,,A," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/11-04-41.png""/>.</p> "
+"<p>Values of <i>i</i><sub>L</sub>, <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-04-39.png""/>, V<sub>C</sub> and <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-04-39-1.png""/> at <i>t</i> = 0 are given by, <br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-04-39-2.png""/></p>","4 Amp, - 4 Amp/sec, 12 volts, - 4 volts/s","4 Amp, 4 Amp/sec, -12 volts, - 12 volts/s","6 Amp, - 2 Amp/sec, 0 volts, - 2 volts/sec","6 Amp, 0 Amp/sec, - 2 volts, - 2 volts/sec",,C," <p>For <i>t</i> = 0 <sup>+</sup></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-10-39.png""/></p>
+<p><i>i</i><sub>L</sub>(0<sup>-</sup>) = <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-10-39-1.png""/> = 6 A</p>
+<p>V<sub>C</sub>(0<sup>-</sup>) = 0 V</p>
+<p>For <i>t</i> = 0<sup>+</sup></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-10-39-2.png""/></p>
+<p><i>i</i><sub>L</sub>(0<sup>+</sup>) = 6</p>
+<p>V<sub>C</sub>(0<sup>+</sup>) = 0</p>
+<p>Apply KCL at node V</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-10-39-3.png""/></p>
+<p>6 - V = (6 + v)<sup>2</sup></p>
+<p>6 - V = 12 + 2V</p>
+<p>- 6 = 3V</p>
+<p>V = V<sub>L</sub> = - 2V</p>
+<p>At <i>t</i> = 0<sup>+</sup>, <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-10-39-4.png""/> = -2 </p>
+<p><b>∴</b> <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-10-39-5.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-10-39-6.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-10-39-10.png""/></p>
+<p><b>∴</b> <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-10-39-7.png""/></p>
+<p><b>∴</b> <i>i</i><sub>L</sub> = 6 Amp</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-10-39-8.png""/></p>
+<p>V<sub>C</sub> = 0 V</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/13-10-39-9.png""/>.</p> "
+"<p>A continuous time LTI system is described by<br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/7-05-41.png""/><br/>Assuming zero initial conditions, the response <i>y</i>(<i>t</i>) of the above system for the input <i>x</i>(<i>t</i>) = <i>e</i><sup>-2<i>t</i></sup> <i>u</i>(<i>t</i>) is given by</p>",(<i>e<sup>t</sup></i> - <i>e</i><sup>3<i>t</i></sup>) <i>u</i>(<i>t</i>),(<i>e</i><sup>-<i>t</i></sup> - 3<i>e</i><sup>-3<i>t</i></sup>) <i>u</i>(<i>t</i>),(<i>e</i><sup>-<i>t</i></sup> + <i>e</i><sup>-3<i>t</i></sup>) <i>u</i>(<i>t</i>),(<i>e</i><sup><i>t</i></sup> + <i>e</i><sup>3<i>t</i></sup>) <i>u</i>(<i>t</i>),,B," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/7-09-41.png""/></p>
+<p><i>y</i>(<i>t</i>) = <i>(e<sup>-t</sup> - e<sup>-3t</sup>) u(t)</i>.</p> "
+"<p>The analog signal given below is sampled by 600 samples per second<br/><i>m</i>(<i>t</i>) = 2 sin 480<span class=""symbol"">p</span><i>t</i> + 3 sin 720<span class=""symbol"">p</span><i>t</i><br/>The folding (maximum) frequency is __________ .</p>",600 Hz,120 Hz,300 Hz,360 Hz,,C," <p>Folding frequency (max.)<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-07-9.png""/>.</p> "
+"<p>In the circuit shown, the power supplied by the voltage source<br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/7-04-34.png""/></p>",0 W,5 W,10 W,100 W,,A," <p>KVL → 10 = 2(<i>i</i> + 3) + 2(<i>i</i> + 2)</p>
+<p>10 = 10 + 4<i>i</i> ⇒ <i>i</i> = 0</p>
+<p><b>∴</b> Power = 0</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/7-08-34.png""/></p> "
+"<p>In analog signal given below is sampled at such a rate that the samples of signal can be given to a collection of buffers having capacity of either 24 samples/sec. or 25 samples/sec. The sampling rate is minimum such that it fully utilizes the collection of both types of buffers <i>m(t)</i> = 2 sin 480<span class=""symbol"">p</span><i>t</i> + 3 sin 720 <span class=""symbol"">p</span><i>t</i> <br/> The folding (maximum) frequency is</p>",600 H<i>z</i>,300 H<i>z</i>,1200 H<i>z</i>,2400 H<i>z</i>,,B," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-769-89-1.png""/></p>
+<p>LCM of 24 and 25 is 600 which will give maximum utilization of the buffers</p>
+<p><b>∴</b> Sampling frequency is 600</p>
+<p><b>∴</b> Folding frequency = 600/2 = 300.</p> "
+"<p>The system with given T.F. <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-757-51-1.png""/> to be stable will be</p>",causal,anticausal,both sided,non causal,,D," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-765-51-1.png""/> </p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/2-765-51-2.png""/></p>
+<p><b>∴</b> Pole zero plot diagram is ROC should contain unit circle. Hence system is noncausal.</p> "
+"<p>For a Gaussian process, auto-correlation also implies</p>",statistical dependence,statistical independence,ergodic process,none of the above,,B," <p>Statistical independence:</p>
+<p>Suppose that <i>A<sub>j</sub></i> and <i>B<sub>k</sub></i> are the possible outcomes of two successive experiments or the joint outcome of a single experiment. </p>
+<p>And suppose that it turns out that the probability of the occurrence of outcome <i>B<sub>k</sub></i> simply does not depend at all on which outcome <i>A<sub>j</sub></i> accompanies it. </p>
+<p>Then we say that the outcomes <i>A<sub>j</sub></i> and <i>B<sub>k</sub></i> are independent.</p>
+<p>Auto correlation also implies comparison of two signals of same source. </p>
+<p>Hence for random Gaussian process. Auto correlation also implies statistical independence.</p> "
+<p>The eigen values of a skew symmetric matrix are</p>,always zero,always pure imaginary,either zero or pure imaginary,always real,,C, <p>For a real skew symmetric matrix the non-zero eigen values are all pure imaginary and thus occurs in complex conjugate pair.</p> 
+"<p>An LTI system having transfer function <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/6-05-44.png""/> and input <i>x</i>(<i>t</i>) = sin (<i>t</i> + 1) is in steady state. The output is sampled at a rate ω<sub><i>s</i></sub> rad/s to obtain the final output {<i>y</i>(<i>k</i>)}. Which of the following is true?</p>",<i>y</i>(.) is zero for all sampling frequencies ω<sub><i>s</i></sub>,<i>y</i>(.) is nonzero for all sampling frequencies ω<sub><i>s</i></sub>,"<i>y</i>(.) is nonzero for ω<sub><i>s</i></sub> &gt; 2, but zero for ω<sub><i>s</i></sub> &gt; 2",<i>y</i>(.) is zero for ω<sub><i>s</i></sub> &gt; 2 but nonzero for ω<sub><i>s</i></sub> &gt; 2,,A," <p>ω = 1, <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/6-08-44.png""/> Thus output is zero for all sampling frequencies.</p> "
+"<p>The current I for the network <br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/1-745-34-1.png""/></p>",0 mA,10.72 mA,10.94 mA,11.32 mA,,B," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/1-751-34-1.png""/> .</p> "
+<p>A switch tail ring counter is made by using a single D FF. The resulting circuit is a</p>,SR FF,JK FF,D FF,T FF,,C," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/14-06-36.png""/></p>
+<p>In both case input will always opposite to each other hence it is D FF.</p> "
+"<p>The driving point impedance of the following network is given by <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/5-03-22-1.png""/>. The component values are<br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/5-03-22.png""/></p>","L = 5H, R = 0.5Ω, C = 0.1F","L = 0.1H, R = 0.5Ω, C = 5F","L = 5H, R = 2Ω, C = 0.1F","L = 0.1H, R = 2Ω, C = 5F",,A," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/5-11-22.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/5-11-22-1.png""/></p>
+<p>Comparing it with given equation</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/5-11-22-2.png""/></p>
+<p>C = 0.1</p>
+<p>RC = 0.05</p>
+<p>R = 0.54</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/5-11-22-3.png""/></p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/5-11-22-4.png""/>.</p> "
+"<p>Consider a baseband binary PAM receiver shown below. The additive channel noise <i>n</i>(<i>t</i>) is whit with power spectral density S<sub>N</sub>(<i>f</i>) = N<sub>0</sub>/2 = 10<sup>-20</sup> W/Hz. The low-pass filter is ideal with unity gain and cutoff frequency 1 MHz. Let Y<sub><i>k</i></sub> represent the random variable <i>y</i>(<i>t<sub>k</sub></i>).<br/>Y<sub><i>k</i></sub> = nN<sub><i>k</i></sub> if transmitted bit b<sub><i>k</i></sub> = 0<br/>Y<sub><i>k</i></sub> = <i>a</i> + N<sub><i>k</i></sub> if transmitted bit b<sub><i>k</i></sub> = 1<br/>Where <i>N<sub>k</sub></i> represents the noise sample value. The noise sample has a probability density function, P<sub>N<i>k</i></sub>(<i>n</i>) = 0.5<span class=""symbol"">a</span><i>e</i><sup>-a|<i>n</i>|</sup> (This has mean zero and variance 2/<span class=""symbol"">a</span><sup>2</sup>). Assume transmitted bits to be equiprobable and threshold <i>z</i> is set to <span class=""symbol"">a</span>/2 = 10<sup>-6</sup> V.<br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/7-06-54.png""/><br/>The probability of bit error is</p>",0.5 x <i>e</i><sup>-3.5</sup>,0.5 x <i>e</i><sup>-5</sup>,0.5 x <i>e</i><sup>-7</sup>,0.5 x <i>e</i><sup>-10</sup>,,D," <p>Probability of error</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/7-09-55.png""/></p>
+<p>= 0.5<i>e</i><sup>-10<sup>7</sup> x 10 <sup>-6</sup></sup> = 0.5<i>e</i><sup>-10</sup>.</p> "
+"<p>In a synchro error detector, the output voltage is proportional to [ω(<i>t</i>)]<sup><i>n</i></sup>, where ω(<i>t</i>) is the rotor velocity and <i>n</i> equals :</p>",-2,-1,1,2,,C," <p>In a synchro detector, output voltage is proportional to ω(<i>t</i>)</p>
+<p><i>v</i><sub>0</sub> <span class=""symbol"">a</span> ω(<i>t</i>)</p>
+<p>So, <i>n</i> must be equal to one.</p> "
+"<p>If the closed-loop transfer function <i>T</i>(<i>s</i>) of a unity negative feedback system is given by <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/16-03-25.png""/> then the steady state error for a unit ramp input is :</p>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/16-03-25-1.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/16-03-25-2.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/16-03-25-3.png""/>",∞,,D," <p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/16-06-25.png""/>.</p> "
+"<p>In 8085 microprocessor system, can an input and output port have same port address?</p>",Yes,No,Insufficient data,None of these,,A," <p>Since microprocessor differentiates between an input or output operation on a port depending upon control signals <span style=""text-decoration:overline;"">RD</span> and <span style=""text-decoration:overline;"">WR</span> . </p>
+<p>Therefore in a microprocessor system same port address can be given to two different input and output ports.</p> "
+"<p>5 skilled workers can build a wall in 20 days; 8 semi-skilled worker can build a wall in 25days; 10 unskilled workers can build a wall in 30 days, If a team has 2 killed, 6 semi-skilled and 5 unskilled workers, how long will it take to build the wall?</p>",20 days,18 days,16 days,15 days,,D," <p>Given, 5 skilled workers can build a wall in 20 days i.e., 1 skilled worker can the wall build in 100 days</p>
+<p><b>∴</b> The capacity of each skilled worker is <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/7-10-63.png""/></p>
+<p>8 semi-skilled workers can build a wall in 25 days i.e., 1 semi-skilled worker can build a wall in 200 days</p>
+<p><b>∴</b> The capacity of each semi-skilled worker is <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/7-10-63-1.png""/></p>
+<p>Similarly, The capacity of 1 unskilled worker is <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/7-10-63-2.png""/></p>
+<p>Now, The capacity of 2 skilled + 6 semi-skilled + 5 unskilled workers is</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/7-10-63-3.png""/></p>
+<p><b>∴</b> The required numbers of days is 15.</p> "
+"<p>The fourier transform of the half cosine pulse as shown below is __________ <br/><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-03-30.png""/></p>",0.5 {sin [0.5(<i>f</i> - 1)] + sin [0.5 (<i>f</i> + 1)]},0.25 [sin c[0.25 (<i>f</i> - 2)1 + sin c[0.25(<i>f</i> + 2)]],0.5 {sin c [0.5 (<i>f</i> - 1)] + sin c [0.5 (<i>f</i> + 1)]},sin c(<i>f</i> - 0.5) + sin c (<i>f</i> + 0.5),,C," <p>The given signal can be expressed as multiplication of <i>x</i><sub>1</sub>(<i>t</i>) and <i>x</i><sub>2</sub>(<i>t</i>) as shown below, where A = 2, T/2 = 0.25 ⇒ T = 0.5</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-08-30.png""/></p>
+<p><b>∴</b> <i>x(t)</i> = <i>x</i><sub>1</sub>(<i>t</i>) x <i>x<sub>2</sub></i>(<i>t</i>)</p>
+<p>⇒ X(<i>f</i>) = X<sub>1</sub>(<i>f</i>) * X<sub>2</sub>(<i>f</i>)</p>
+<p>Now X<sub>1</sub>(<i>f</i>) = <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-08-30-1.png""/>[δ(<i>f</i> - <i>f</i><sub>0</sub>) + δ(<i>f</i> + <i>f</i><sub>0</sub>)]</p>
+<p>where <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-08-30-2.png""/></p>
+<p>and X<sub>2</sub>(<i>f</i>) = T . sin <i>c</i>[<i>f</i>T]</p>
+<p>⇒ X(<i>f</i>) = <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-08-30-1.png""/>[δ(<i>f</i> - <i>f</i><sub>0</sub>) + δ(<i>f</i> + <i>f</i><sub>0</sub>)]</p>
+<p>*T. sin<i>c</i>(<i>f</i>T)</p>
+<p>= <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-09-30-3.png""/>[sin<i>c</i>[T(<i>f - f<sub>0</sub></i>)] + sin<i>c</i> [T(<i>f + f<sub>0</sub></i>)]]</p>
+<p>Now, A = 2, T = 0.5</p>
+<p>and <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/10-09-30-4.png""/></p>
+<p>⇒ X(<i>f</i>) = 0.5[sin <i>c</i>(0.5(<i>f - 1</i>)) + sin<i>c</i>(0.5(<i>f</i> + 1))].</p> "
+<p>A lossless transmission line is 50 cm long and operates at a frequency of 500 MHz. Inductance and capacitances present in a line are 0.5 μH/m and 200 pF/m. Phase constant and phase velocity are respectively.</p>,"5<span class=""symbol"">p</span>, 2<span class=""symbol"">p</span> x 10<sup>8</sup> m/sec","5<span class=""symbol"">p</span>, 10<sup>8</sup> m/sec","31.4, 10<sup>8</sup> m/sec","31.4, 2<span class=""symbol"">p</span> x 10<sup>8</sup> m/sec",,B," <p>β = ω<span class=""root"">LC</span> = 10<sup>6</sup> x 2<span class=""symbol"">p</span> x 500 x <img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/1-751-65-1.png""/>
+</p>
+<p><img src=""/_files/images/electronics-and-communication-engineering/exam-question-papers/1-751-65-2.png""/></p> "

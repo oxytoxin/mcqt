@@ -1,0 +1,11 @@
+question,A,B,C,D,E,answer,explanation
+<p>The feedback component in an <b><i>op-amp integrator</i></b> is a capacitor.</p>,True,False,,,,A,
+"<p>When the capacitance in an <b><i>active high-pass filter</i></b> increases, the critical frequency decreases.</p>",True,False,,,,A,
+<p>The control element in a basic shunt voltage regulator is a zener diode.</p>,True,False,,,,B,
+<p>The output voltage of a summing amplifier is proportional to the product of the input voltages.</p>,True,False,,,,B,
+"<p>When used as a <b><i>comparator</i></b>, an op-amp is wired in a closed-loop configuration.</p>",True,False,,,,B,
+"<p>To operate properly, an oscillator requires an external ac input signal.</p>",True,False,,,,B,
+"<p>For a <b><i>Wien-bridge oscillator</i></b> to produce a sustained sine-wave output, the phase shift around the positive feedback loop must be greater than 0°.</p>",True,False,,,,B,
+<p>The effectiveness of a filter in rejecting signals beyond cutoff frequency is a function of the filter roll-off rating.</p>,True,False,,,,A,
+<p>A two-pole active filter produces a roll-off rate of <b><i>–20 dB/decade</i></b>.</p>,True,False,,,,B,
+<p>A <b><i>zero-level detector</i></b> is a type of comparator circuit.</p>,True,False,,,,A,

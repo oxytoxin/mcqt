@@ -1,0 +1,12 @@
+question,A,B,C,D,E,answer,explanation
+"<p><img src=""/_files/images/basic-electronics/basics/fbq7_1001_1.gif""/><br/> When the current through a coil reverses direction, the magnetic field around the coil _____.</p>",does not change,disappears,increases in strength,reverses direction,,D,
+<p>The flux density is ___ when the magnetic flux is 9 µWb and the cross-sectional area of the magnetic field is 5 × 10<sup>–3</sup> m<sup>2</sup>.</p>,1800 µT,555.56 T,9 µT,5 × 10<sup>–3</sup> T,,A,
+"<p>After the magnetizing force has been removed, the ratio of the remaining magnetic flux to the saturated magnetic flux is called _____________.</p>",saturation,retentivity,hysteresis,coercivity,,B,
+<p>You can determine the direction of the lines of force surrounding a conductor by using _____.</p>,the right-hand rule,the left-hand rule,Lenz's law,Faraday's law,,A,
+<p>A group of force lines going from the north pole to the south pole of a magnet is called the magnetic ___.</p>,retentivity,reluctance,hysteresis,flux,,D,
+<p>The induced voltage across a stationary conductor in a stationary magnetic field ___.</p>,equals 0 V,is usually very large,varies with time,depends on the strength of the magnetic field,,A,
+"<p>When the speed at which a conductor is moved through a magnetic field is increased, the induced voltage will _____.</p>",not be affected,equal 0 V,decrease,increase<br/><br/><br/>,,D,
+<p>___ is the ability of a material to remain magnetized after removal of the magnetizing force.</p>,Reluctance,Hysteresis,Retentivity,Induction,,C,
+<p>Ferromagnetic materials have minute magnetic ___ created within their atomic structure by the orbital motion and spin of electrons.</p>,forces,flux lines,domains,tapes,,C,
+<p>The ___ is an electromagnetic device that contains a coil rotating on a jeweled bearing mount.</p>,permanent-magnet speaker,d'Arsonval movement,"single-pole, double-throw relay",crankshaft position sensor,,B,
+"<p><img src=""/_files/images/basic-electronics/basics/fbq7_1003_1.gif""/><br/> The movable part in a relay is the _____.</p>",plunger,armature,cone,brushes,,B,

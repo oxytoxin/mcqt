@@ -1,0 +1,6 @@
+question,A,B,C,D,E,answer,explanation
+<p>There are five steps in the PLD prototyping process.</p>,True,False,,,,A,
+<p>SLDs and PLDs are digital logic ICs that can have their function changed through programming.</p>,True,False,,,,B,
+<p>Both the AND and OR arrays in a PAL are programmable.</p>,True,False,,,,B,
+<p>CAD software can be used to create a detailed logic circuit that will perform like an actual PLD.</p>,True,False,,,,A,
+<p>A FPGA is an array of programmable logic blocks that are interconnected by OR gates.</p>,True,False,,,,B,

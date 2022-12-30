@@ -1,0 +1,195 @@
+﻿question,choices,answer
+"What are the coordinates of the center of the curve x<sup>2</sup> + y<sup>2</sup> – 2x – 4y – 31 = 0?","[""(-1, -1)"",""(-2, -2)"",""(1, 2)"",""(2, 1)""]",2
+"A circle whose equation is x<sup>2</sup> + y<sup>2</sup> + 4x +6y – 23 = 0 has its center at","[""(2, 3)"",""(3, 2)"",""(-3, 2)"",""(-2, -3)""]",3
+"What is the radius of a circle with the ff. equation: x<sup>2</sup> – 6x + y<sup>2</sup> – 4y – 12 = 0","[""3.46"",""7"",""5"",""6""]",2
+"The diameter of a circle described by 9x<sup>2</sup> + 9y<sup>2</sup> = 16 is?","[""4\/3"",""16\/9"",""8\/3"",""4""]",2
+"How far from the y-axis is the center of the curve 2x<sup>2</sup> + 2y<sup>2</sup> +10x – 6y – 55 = 0","[""-2.5"",""-3.0"",""-2.75"",""-3.25""]",0
+"What is the distance between the centers of the circles x<sup>2</sup> + y<sup>2</sup> + 2x + 4y – 3 = 0 and x<sup>2</sup> + y<sup>2</sup> – 8x – 6y + 7 = 0?","[""7.07"",""7.77"",""8.07"",""7.87""]",0
+"The shortest distance from A (3, 8) to the circle x<sup>2</sup> + y<sup>2</sup> + 4x – 6y = 12 is equal to?","[""2.1"",""2.3"",""2.5"",""2.7""]",0
+"The equation circle x<sup>2</sup> + y<sup>2</sup> – 4x + 2y – 20 = 0 describes:","[""A circle of radius 5 centered at the origin."",""An eclipse centered at (2, -1)."",""A sphere centered at the origin."",""A circle of radius 5 centered at (2, -1).""]",3
+"The center of a circle is at (1, 1) and one point on its circumference is (-1, -3). Find the other end of the diameter through (-1, -3).","[""(2, 4)"",""(3, 5)"",""(3, 6)"",""(1, 3)""]",1
+"Find the area (in square units) of the circle whose equation is x<sup>2</sup> + y<sup>2</sup> = 6x – 8y.","[""20 \u03c0"",""22 \u03c0"",""25 \u03c0"",""27 \u03c0""]",2
+"Determine the equation of the circle whose radius is 5, center on the line x = 2 and tangent to the line 3x – 4y + 11 = 0.","[""(x \u2013 2)<sup>2<\/sup> + (y \u2013 2)<sup>2<\/sup> = 5"",""(x \u2013 2)<sup>2<\/sup> + (y + 2)<sup>2<\/sup> = 25"",""(x \u2013 2)<sup>2<\/sup> + (y + 2)<sup>2<\/sup> = 5"",""(x \u2013 2)<sup>2<\/sup> + (y \u2013 2)<sup>2<\/sup> = 25""]",1
+"Find the equation of the circle with the center at (-4, -5) and tangent to the line 2x + 7y – 10 = 0.","[""x<sup>2<\/sup> + y<sup>2<\/sup> + 8x \u2013 10y \u2013 12 = 0"",""x<sup>2<\/sup> + y<sup>2<\/sup> + 8x \u2013 10y + 12 = 0"",""x<sup>2<\/sup> + y<sup>2<\/sup> + 8x + 10y \u2013 12 = 0"",""x<sup>2<\/sup> + y<sup>2<\/sup> \u2013 8x + 10y + 12 = 0""]",2
+"Find the value of k for which the equation x<sup>2</sup> + y<sup>2</sup> + 4x – 2y – k = 0 represents a point circle.","[""5"",""6"",""-6"",""-5""]",3
+"3x<sup>2</sup> + 2x – 5y + 7 = 0. Determine the curve.","[""Parabola"",""Ellipse"",""Circle"",""Hyperbola""]",0
+"The focus of the parabola y<sup>2</sup> = 16x is at","[""(4, 0)"",""(0, 4)"",""(3, 0)"",""(0, 3)""]",0
+"Where is the vertex of the parabola x<sup>2</sup> = 4(y – 2)?","[""(2, 0)"",""(0, 2)"",""(3, 0)"",""(0, 3)""]",1
+"Find the equation of the directrix of the parabola y<sup>2</sup> = 16x.","[""x = 2"",""x = -2"",""x = 4"",""x = -4""]",3
+"Given the equation of a parabola 3x + 2y<sup>2</sup> – 4y + 7 = 0. Locate its vertex.","[""(5\/3, 1)"",""(5\/3, -1)"",""-(5\/3, -1)"",""(-5\/3, 1)""]",3
+"In the equation y = – x<sup>2</sup> + x + 1, where is the curve facing?","[""Upward"",""Facing left"",""Facing right"",""Downward""]",3
+"Find the location of the focus of the parabola y<sup>2</sup> + 4x – 4y – 8 = 0.","[""(2.5, -2)"",""(3, 1)"",""(2, 2)"",""(-2.5, -2)""]",2
+"Find the equation of the axis of symmetry of the function y = 2x<sup>2</sup> – 7x + 5.","[""7x + 4 = 0"",""4x + 7 = 0"",""4x \u2013 7 = 0"",""x \u2013 2 = 0""]",2
+"A parabola has its focus at (7, -4) and directrix y = 2. Find its equation.","[""x<sup>2<\/sup> + 12y \u2013 14x + 61 = 0"",""x<sup>2<\/sup> \u2013 14y + 12x + 61 = 0"",""x<sup>2<\/sup> \u2013 12x + 14y + 61 = 0"",""none of these""]",0
+"A parabola has its axis parallel to the x-axis, vertex at (-1, 7) and one end of the latus rectum at (-15/4, 3/2). Find its equation.","[""y<sup>2<\/sup> \u2013 11y + 11x \u2013 60 = 0"",""y<sup>2<\/sup> \u2013 11y + 14x \u2013 60 = 0"",""y<sup>2<\/sup> \u2013 14y + 11x + 60 = 0"",""none of these""]",2
+"Compute the focal length and the length of the latus rectum of the parabola y<sup>2</sup> + 8x – 6y + 25 = 0.","[""2, 8"",""4, 16"",""16, 64"",""1, 4""]",0
+"Given a parabola (y – 2)<sup>2</sup> = 8(x – 1). What is the equation of its directrix?","[""x = -3"",""x = 3"",""y = -3"",""y = 3""]",1
+"The general equation of a conic section is given by the following equation: Ax<sup>2</sup> + Bxy + Cy<sup>2</sup> + Dx + Ey + F = 0. A curve maybe identified as an ellipse by which of the following conditions?","[""B<sup>2<\/sup> \u2013 4AC &lt; 0"",""B<sup>2<\/sup> \u2013 4AC = 0"",""B<sup>2<\/sup> \u2013 4AC &gt; 0"",""B<sup>2<\/sup> \u2013 4AC = 1""]",0
+"What is the area enclosed by the curve 9x<sup>2</sup> + 25y<sup>2</sup> – 225 = 0?","[""47.1"",""50.2"",""63.8"",""72.3""]",0
+"Point P (x, y) moves with a distance from point (0, 1) one-half of its distance from line y = 4. The equation of its locus is?","[""2x<sup>2<\/sup> \u2013 4y<sup>2<\/sup> = 5"",""4x<sup>2<\/sup> + 3y<sup>2<\/sup> = 12"",""2x<sup>2<\/sup> + 5y<sup>3<\/sup> = 3"",""x<sup>2<\/sup> + 2y<sup>2<\/sup> = 4""]",1
+"The lengths of the major and minor axes of an ellipse are 10 m and 8 m, respectively. Find the distance between the foci.","[""3"",""4"",""5"",""6""]",3
+"The equation 25x<sup>2</sup> + 16y<sup>2</sup> – 150x + 128y + 81 = 0 has its center at?","[""(3, -4)"",""(3, 4)"",""(4, -3)"",""(3, 5)""]",0
+"Find the major axis of the ellipse x<sup>2</sup> + 4y<sup>2</sup> – 2x – 8y + 1 = 0.","[""2"",""10"",""4"",""6""]",2
+"An ellipse with an eccentricity of 0.65 and has one of its foci 2 units from the center. The length of the latus rectum is nearest to?","[""3.5 units"",""3.8 units"",""4.2 units"",""3.2 units""]",0
+"An earth satellite has an apogee of 40,000 km and a perigee of 6,600 km. Assuming the radius of the earth as 6,400 km, what will be the eccentricity of the elliptical path described by the satellite with the center of the earth at one of the foci?","[""0.46"",""0.49"",""0.52"",""0.56""]",3
+"The major axis of the elliptical path in which the earth moves around the sun is approximately 168,000,000 miles and the eccentricity of the ellipse is 1/60. Determine the apogee of the earth.","[""93,000,000 miles"",""91,450,000 miles"",""94,335,100 miles"",""94,550,000 miles""]",3
+"The earth’s orbit is an ellipse with the sun at one of the foci. If the farthest distance of the sun from the earth is 105.5 million km and the nearest distance of the sun from the earth is 78.25 million km, find the eccentricity of the ellipse.","[""0.15"",""0.25"",""0.35"",""0.45""]",0
+"An ellipse with center at the origin has a length of major axis 20 units. If the distance from center of ellipse to its focus is 5, what is the equation of its directrix?","[""x = 18"",""x = 20"",""x = 15"",""x = 16""]",1
+"What is the length of the latus rectum of 4x<sup>2</sup> + 9y<sup>2</sup> + 8x – 32 = 0?","[""2.5"",""2.7"",""2.3"",""2.9""]",1
+"4x<sup>2</sup> – y<sup>2</sup> = 16 is the equation of a/an?","[""parabola"",""hyperbola"",""circle"",""ellipse""]",1
+"Find the eccentricity of the curve 9x<sup>2</sup> – 4y<sup>2</sup> – 36x + 8y = 4.","[""1.80"",""1.92"",""1.86"",""1.76""]",0
+"How far from the x-axis is the focus F of the hyperbola x<sup>2</sup> – 2y<sup>2</sup> + 4x + 4y + 4 = 0?","[""4.5"",""3.4"",""2.7"",""2.1""]",2
+"Find the equation of the hyperbola whose asymptotes are y = ± 2x and which passes through (5/2, 3).","[""4x<sup>2<\/sup> + y<sup>2<\/sup> + 16 = 0"",""4x<sup>2<\/sup> + y<sup>2<\/sup> \u2013 16 = 0"",""x<sup>2<\/sup> \u2013 4y<sup>2<\/sup> \u2013 16 = 0"",""4x<sup>2<\/sup> \u2013 y<sup>2<\/sup> = 16""]",3
+"Find the equation of the hyperbola with vertices (-4, 2) and (0, 2) and foci (-5, 2) and (1, 2).","[""5x<sup>2<\/sup> \u2013 4y<sup>2<\/sup> + 20x +16y \u2013 16 = 0"",""5x<sup>2<\/sup> \u2013 4y<sup>2<\/sup> + 20x \u2013 16y \u2013 16 = 0"",""5x<sup>2<\/sup> \u2013 4y<sup>2<\/sup> \u2013 20x +16y + 16 = 0"",""5x<sup>2<\/sup> + 4y<sup>2<\/sup> \u2013 20x +16y \u2013 16 = 0""]",0
+"Find the distance between P1 (6, -2, -3) and P2 (5, 1, -4).","[""11"",""\u221a11"",""12"",""\u221a12""]",1
+"The point of intersection of the planes x + 5y – 2z = 9; 3x – 2y + z = 3 and x + y + z = 2 is at?","[""(2, 1, -1)"",""(2, 0, -1)"",""(-1, 1, -1)"",""(-1, 2, -1)""]",0
+"What is the radius of the sphere center at the origin that passes the point 8, 1, 6?","[""10"",""9"",""\u221a101"",""10.5""]",2
+"The equation of a sphere with center at (-3, 2, 4) and of radius 6 units is?","[""x<sup>2<\/sup> + y<sup>2<\/sup> + z<sup>2<\/sup> +6x \u2013 4y \u2013 8z = 36"",""x<sup>2<\/sup> + y<sup>2<\/sup> + z<sup>2<\/sup> +6x \u2013 4y \u2013 8z = 7"",""x<sup>2<\/sup> + y<sup>2<\/sup> + z<sup>2<\/sup> +6x \u2013 4y + 8z = 6"",""x<sup>2<\/sup> + y<sup>2<\/sup> + z<sup>2<\/sup> +6x \u2013 4y + 8z = 36""]",1
+"Find the polar question of the circle, if its center is at (4, 0) and the radius 4.","[""r \u2013 8 cos \u03b8 = 0"",""r \u2013 6 cos \u03b8 = 0"",""r \u2013 12 cos \u03b8 = 0"",""r \u2013 4 cos \u03b8 = 0""]",0
+"What are the x and y coordinates of the focus of the iconic section described by the following equation? (Angle θ corresponds to a right triangle with adjacent side x, opposite side y and the hypotenuse r.) <strong>r sin<sup>2</sup> θ = cos θ</strong>","[""(1\/4, 0)"",""(0, \u03c0\/2)"",""(0, 0)"",""(-1\/2, 0)""]",0
+"Find the polar equation of the circle of radius 3 units and center at (3, 0).","[""r = 3 cos \u03b8"",""r = 3 sin \u03b8"",""r = 6 cos \u03b8"",""r = 9 sin \u03b8""]",2
+"Given the polar equation r = 5 sin θ. Determine the rectangular coordinate (x, y) of a point in the curve when θ is 30º.","[""(2.17, 1.25)"",""(3.08, 1.5)"",""(2.51, 4.12)"",""(6, 3)""]",0
+"The length of the latus rectum of the parabola y<sup>2</sup> = 4px is:","[""4p"",""2p"",""P"",""-4p""]",0
+"Given the equation of the parabola: y<sup>2</sup> – 8x – 4y – 20 = 0. The length of its latus rectum is:","[""2"",""4"",""6"",""8""]",3
+"What is the length of the latus rectum of the curve x<sup>2</sup> = –12y?","[""12"",""-3"",""3"",""-12""]",0
+"Find the equation of the directrix of the parabola y<sup>2</sup> = 6x.","[""x = 8"",""x = 4"",""x = -8"",""x = -4""]",3
+"The curve y = –x<sup>2</sup> + x + 1 opens:","[""Upward"",""To the left"",""To the right"",""Downward""]",3
+"The parabola y = –x<sup>2</sup> + x + 1 opens:","[""To the right"",""To the left"",""Upward"",""Downward""]",3
+"Find the equation of the axis of symmetry of the function y = 2x<sup>2</sup> – 7x + 5.","[""4x + 7 = 0"",""x \u2013 2 = 0"",""4x \u2013 7 = 0"",""7x + 4 = 0""]",2
+"Find the equation of the locus of the center of the circle which moves so that it is tangent to the y-axis and to the circle of radius one (1) with center at (2,0).","[""x<sup>2<\/sup> + y<sup>2<\/sup> \u2013 6x + 3 = 0"",""x<sup>2<\/sup> \u2013 6x + 3 = 0"",""2x<sup>2<\/sup> + y<sup>2<\/sup> \u2013 6x + 3 = 0"",""y<sup>2<\/sup> \u2013 6x + 3 = 0""]",3
+"Find the equation of the parabola with vertex at (4, 3) and focus at (4, -1).","[""y<sup>2<\/sup> \u2013 8x + 16y \u2013 32 = 0"",""y<sup>2<\/sup> + 8x + 16y \u2013 32 = 0"",""y<sup>2<\/sup> + 8x \u2013 16y + 32 = 0"",""x<sup>2<\/sup>\u2013 8x + 16y \u2013 32 = 0""]",3
+"Find the area bounded by the curves x<sup>2</sup> + 8y + 16 = 0, x – 4 = 0, the x-axis, and the y-axis.","[""10.67 sq. units"",""10.33 sq. units"",""9.67 sq. units"",""8 sq. units""]",0
+"Find the area (in sq. units) bounded by the parabolas x<sup>2</sup> – 2y = 0 and x<sup>2</sup> + 2y – 8 = 0","[""11.7"",""10.7"",""9.7"",""4.7""]",1
+"The length of the latus rectum of the curve (x – 2)<sup>2</sup> / 4 = (y + 4)<sup>2</sup> / 25 = 1 is:","[""1.6"",""2.3"",""0.80"",""1.52""]",0
+"If the length of the major and minor axes of an ellipse is 10 cm and 8 cm, respectively, what is the eccentricity of the ellipse?","[""0.50"",""0.60"",""0.70"",""0.80""]",1
+"The eccentricity of the ellipse x<sup>2</sup>/4 + y<sup>2</sup> / 16 = 1 is:","[""0.725"",""0.256"",""0.689"",""0.866""]",3
+"An ellipse has the equation 16x<sup>2</sup> + 9y<sup>2</sup> + 32x – 128 = 0. Its eccentricity is:","[""0.531"",""0.66"",""0.824"",""0.93""]",1
+"The center of the ellipse 4x<sup>2</sup> + y<sup>2</sup> – 16x – 6y – 43 = 0 is at:","[""(2, 3)"",""(4, -6)"",""(1, 9)"",""(-2, -5)""]",0
+"The area of the ellipse 9x<sup>2</sup> + 25y<sup>2</sup> – 36x – 189 = 0 is equal to:","[""15\u03c0 sq. units"",""20\u03c0 sq. units"",""25\u03c0 sq. units"",""30\u03c0 sq. units""]",0
+"The area of the ellipse is given as A = 3.1416 a b. Find the area of the ellipse 25x<sup>2</sup> + 16y<sup>2</sup> – 100x + 32y = 284","[""86.2 square units"",""62.8 square units"",""68.2 square units"",""82.6 square units""]",1
+"The semi-major axis of an ellipse is 4 and its semi-minor axis is 3. The distance from the center to the directrix is:","[""6.532"",""6.047"",""0.6614"",""6.222""]",1
+"Given an ellipse x<sup>2</sup> / 36 + y<sup>2</sup> / 32 = 1. Determine the distance between foci.","[""2"",""3"",""4"",""8""]",2
+"How far apart are the directrices of the curve 25x<sup>2</sup> + 9y<sup>2</sup> – 300x – 144y + 1251 = 0?","[""12.5"",""14.2"",""13.2"",""15.2""]",0
+"The major axis of the elliptical path in which the earth moves around the sun is approximately 186,000,000 miles and the eccentricity of the ellipse is 1/60. Determine the apogee of the earth.","[""94,550,000 miles"",""94,335.100 miles"",""91,450,000 miles"",""93,000,000 miles""]",0
+"Find the equation of the ellipse whose center is at (-3, -1), vertex at (2, -1), and focus at (1, -1).","[""9x<sup>2<\/sup> + 36y<sup>2<\/sup> \u2013 54x + 50y \u2013 116 = 0"",""4x<sup>2<\/sup> + 25y<sup>2<\/sup> + 54x \u2013 50y \u2013 122 = 0"",""9x<sup>2<\/sup> + 25y<sup>2<\/sup> + 50x + 50y + 109 = 0"",""9x<sup>2<\/sup> + 25y<sup>2<\/sup> + 54x + 50y \u2013 119 = 0""]",3
+"Point P(x, y) moves with a distance from point (0, 1) one-half of its distance from line y = 4, the equation of its locus is","[""4x<sup>2<\/sup> + 3y<sup>2<\/sup> = 12"",""2x<sup>2<\/sup> \u2013 4y<sup>2<\/sup> = 5"",""x<sup>2<\/sup> + 2y<sup>2<\/sup> = 4"",""2x<sup>2<\/sup> + 5y<sup>3<\/sup> = 3""]",0
+"The chords of the ellipse 64<sup>2</sup> + 25y<sup>2</sup> = 1600 having equal slopes of 1/5 are bisected by its diameter. Determine the equation of the diameter of the ellipse.","[""5x \u2013 64y = 0"",""64x \u2013 5y = 0"",""5x +64y = 0"",""64x + 5y = 0""]",3
+"Find the equation of the upward asymptote of the hyperbola whose equation is (x – 2)<sup>2</sup> / 9 – (y + 4)<sup>2</sup> / 16","[""3x + 4y \u2013 20 = 0"",""4x \u2013 3y \u2013 20 = 0"",""4x + 3y \u2013 20 = 0"",""3x \u2013 4y \u2013 20 = 0""]",1
+"The semi-conjugate axis of the hyperbola (x<sup>2</sup>/9) – (y<sup>2</sup>/4) = 1 is:","[""2"",""-2"",""3"",""-3""]",0
+"What is the equation of the asymptote of the hyperbola (x<sup>2</sup>/9) – (y<sup>2</sup>/4) = 1.","[""2x \u2013 3y = 0"",""3x \u2013 2y = 0"",""2x \u2013 y = 0"",""2x + y = 0""]",0
+"The graph y = (x – 1) / (x + 2) is not defined at:","[""0"",""2"",""-2"",""1""]",2
+"The equation x<sup>2</sup> + Bx + y<sup>2</sup> + Cy + D = 0 is:","[""Hyperbola"",""Parabola"",""Ellipse"",""Circle""]",3
+"The general second degree equation has the form Ax<sup>2</sup> + Bxy + Cy<sup>2</sup> + Dx + Ey + F = 0 and describes an ellipse if:","[""B<sup>2<\/sup> \u2013 4AC = 0"",""B<sup>2<\/sup> \u2013 4AC &gt; 0"",""B<sup>2<\/sup> \u2013 4AC = 1"",""B<sup>2<\/sup> \u2013 4AC &lt; 0""]",3
+"Find the equation of the tangent to the circle x<sup>2</sup> + y<sup>2</sup> – 34 = 0 through point (3, 5).","[""3x + 5y -34 = 0"",""3x \u2013 5y \u2013 34 = 0"",""3x + 5y + 34 = 0"",""3x \u2013 5y + 34 = 0""]",0
+"Find the equation of the tangent to the curve x<sup>2</sup> + y<sup>2</sup> + 4x + 16y – 32 = 0 through (4, 0).","[""3x \u2013 4y + 12 = 0"",""3x \u2013 4y \u2013 12 = 0"",""3x + 4y + 12 = 0"",""3x + 4y \u2013 12 = 0""]",3
+"Find the equation of the normal to the curve y<sup>2</sup> + 2x + 3y = 0 though point (-5,2)","[""7x + 2y + 39 = 0"",""7x \u2013 2y + 39 = 0"",""2x \u2013 7y \u2013 39 = 0"",""2x + 7y \u2013 39 = 0""]",1
+"Determine the equation of the line tangent to the graph y = 2x<sup>2</sup> + 1, at the point (1, 3).","[""y = 4x + 1"",""y = 4x \u2013 1"",""y = 2x \u2013 1"",""y = 2x + 1""]",1
+"Find the equation of the tangent to the curve x<sup>2</sup> + y<sup>2</sup> = 41 through (5, 4).","[""5x + 4y = 41"",""4x \u2013 5y = 41"",""4x + 5y = 41"",""5x \u2013 4y = 41""]",0
+"Find the equation of a line normal to the curve x<sup>2</sup> = 16y at (4, 1).","[""2x \u2013 y \u2013 9 = 0"",""2x \u2013 y + 9 ="",""2x + y \u2013 9 = 0"",""2x + y + 9 = 0""]",2
+"What is the equation of the tangent to the curve 9x<sup>2</sup> + 25y<sup>2</sup> – 225 = 0 at (0, 3)?","[""y + 3 = 0"",""x + 3 = 0"",""x \u2013 3 = 0"",""y \u2013 3 = 0""]",3
+"What is the equation of the normal to the curve x<sup>2</sup> + y<sup>2</sup> = 25 at (4, 3)?","[""3x \u2013 4y = 0"",""5x + 3y = 0"",""5x \u2013 3y = 0"",""3x + 4y = 0""]",0
+"The polar form of the equation 3x + 4y – 2 = 0 is:","[""3r sin \u0472 + 4r cos \u0472 = 2"",""3r cos \u0472 + 4r sin \u0472 = -2"",""3r cos \u0472 + 4r sin \u0472 = 2"",""3r sin \u0472 + 4r tan \u0472 = -2""]",2
+"The polar form of the equation 3x + 4y – 2 = 0 is:","[""r<sup>2<\/sup> = 8"",""r = \u0472\/(cos<sup>2<\/sup> \u0472 + 2)"",""r = 8"",""r<sup>2<\/sup> = 8\/(cos<sup>2<\/sup> \u0472 + 2)""]",3
+"the distance between points (5, 30°) and (-8, -50°) is:","[""9.84"",""10.14"",""6.13"",""12.14""]",1
+"Convert Ѳ = π/3 to Cartesian equation.","[""x = \u221a3 x"",""y = x"",""3y = \u221a3 x"",""y =\u221a3 x""]",3
+"The point of intersection of the planes x + 5y – 2z = 9, 3x – 2y + z = 3, and x + y + z = 2 is:","[""(2, 1, -1)"",""(2, 0, -1)"",""(-1, 1, -1)"",""(-1, 2, 1)""]",0
+"A warehouse roof needs a rectangular skylight with vertices (3, 0, 0), (3, 3, 0), (0, 3, 4), and (0, 0, 4). If the units are in meter, the area of the skylight is:","[""12 sq. m."",""20 sq. m."",""15 sq. m."",""9 sq. m.""]",2
+"The distance between points in space coordinates are (3, 4, 5) and (4, 6, 7) is:","[""1"",""2"",""3"",""4""]",2
+"What is the radius of the sphere with center at origin and which passes through the point (8, 1, 6)?","[""10"",""9"",""\u221a101"",""10.5""]",2
+"Find the distance between A (4, –3) and B (–2, 5).","[""11"",""9"",""10"",""8""]",2
+"If the distance between points (3, y) and (8, 7) is 13, then y is equal to","[""5 or \u20135"",""5 or 19"",""19"",""\u20135 or 19""]",3
+"Find the coordinate of a point equidistant from (1, -6), (5, -6) and (6, -1).","[""(2, -2)"",""(3, -2)"",""(3, -3)"",""(2, -3)""]",2
+"The line segment connecting (x, 6) and (9, y) is bisected by the point (7, 3). Find the values of x and y.","[""14, 6"",""33, 12"",""5, 0"",""14, 6""]",2
+"If (-2, -4) is the midpoint of (6, -7) and (x, y), then the values of x and y are","[""x = 2, y = 1"",""x = -10, y = -1"",""x = 10, y = -1"",""x = -8, y = -1""]",1
+"Determine the coordinates of the point which is three-fifths of the way from the point (2, -5) to the point (-3, 5).","[""(-1, 1)"",""(-2, -1)"",""(-1, -2)"",""(1, -1)""]",0
+"The segment from (-1, 4) to (2, -2) is extended three times its own length. The terminal point is","[""(11, -24)"",""(-11, -20)"",""(11, -18)"",""(11, -20)""]",3
+"The points (a, 1), (b, 2) and (c, 3) are collinear. Which of the following is true?","[""c \u2013 b = c \u2013 a"",""c \u2013 b = b \u2013 a"",""c \u2013 a = a \u2013 b"",""c \u2013 a = b \u2013 a""]",1
+"If the slope of the line connecting the origin and point P is ¾, find the abscissa of P if its ordinate is 6.","[""2"",""6"",""7"",""8""]",3
+"Find the inclination of the line passing through (-5, 3) and (10, 7).","[""14.73"",""14.93"",""14.83"",""14.63""]",1
+"Find the angle formed by the lines 2x + y – 8 = 0 and x + 3y + 4 = 0.","[""30\u00b0"",""35\u00b0"",""45\u00b0"",""60\u00b0""]",2
+"Find the angle between the lines 3x + 2y = 6 and x + y = 6.","[""12\u00b0 20\u2019"",""11\u00b0 19\u2019"",""14\u00b0 25\u2019"",""13\u00b0 06\u2019""]",1
+"What is the acute angle between the lines y = 3x + 2 and y = 4x + 9?","[""4.4\u00b0"",""28.3\u00b0"",""5.2\u00b0"",""18.6\u00b0""]",0
+"Find the distance of the line 3x + 4y = 5 from the origin.","[""4"",""3"",""2"",""1""]",3
+"The two points on the lines 2x = 3y + 4 = 0 which are at a distance 2 from the line 3x + 4y – 6 = 0 are?","[""(-5, 1) and (-5, 2)"",""(64, -44) and (4, -4)"",""(8, 8) and (12, 12)"",""(44, -64) and (-4, 4)""]",1
+"The distance from the point (2, 1) to the line 4x – 3y + 5 = 0 is?","[""1"",""2"",""3"",""4""]",1
+"Determine the distance from (5, 10) to the line x – y = 0.","[""3.33"",""3.54"",""4.23"",""5.45""]",1
+"The distance from a point (1, 3) to the line 4x + 3y + 12 = 0 is","[""4 units"",""5 units"",""6 units"",""7 units""]",1
+"Find the distance between the given lines 4x – 3y = 12 and 4x – 3y = -8.","[""3"",""4"",""5"",""6""]",1
+"Find the distance between the lines, 3x + y – 12 = 0 and 3x + y – 4 = 0.","[""16\/\u221a10"",""12\/\u221a10"",""4\/\u221a10"",""8\/\u221a10""]",3
+"What is the length of the line with a slope of 4/3 from a point (6, 4) to the y-axis?","[""10"",""25"",""50"",""75""]",0
+"Find the slope of the line defined by y – x = 5.","[""1"",""1\/4"",""-1\/2"",""5 + x""]",0
+"What is the slope of the line 3x + 2y + 1 = 0?","[""3\/2"",""2\/3"",""-3\/2"",""-2\/3""]",2
+"In a Cartesian coordinates, the vertices of a triangle are defined by the following points: (-2, 0) and (3, 3). What is the area?","[""8 sq. units"",""9 sq. units"",""10 sq. units"",""11 sq. units""]",1
+"Given three vertices of a triangle whose coordinates are A (1, 1), B (3, -3) and (5, -3). Find the area of the triangle.","[""3"",""4"",""5"",""6""]",1
+"In a Cartesian coordinates, the vertices of a square are: (1, 1), (0, 8), (4, 5) and (-3, 4). What is the area?","[""20 sq. units"",""30 sq. units"",""25 sq. units"",""35 sq. units""]",2
+"A line passes thru (1, -3) and (-4, 2). Write the equation of the line in slope-intercept form.","[""y \u2013 4 = x"",""y = -x \u2013 2"",""y = x \u2013 4"",""y \u2013 2 = x""]",1
+"What is the x-intercept of the line passing through (1, 4) and (4, 1)?","[""4.5"",""5"",""4"",""6""]",1
+"Find the equation of the straight line with a slope of 3 and a y-intercept of 1.","[""3x + y \u2013 1 = 0"",""3x \u2013 y + 1 = 0"",""x + 3y + 1 = 0"",""x \u2013 3y \u2013 1 = 0""]",1
+"If the points (-2, 3), (x, y) and (-3, 5) lie on a straight line, then the equation of the line is _______.","[""x \u2013 2y \u2013 1 = 0"",""2x + y \u2013 1 = 0"",""x + 2y \u2013 1 = 0"",""2x + y + 1 = 0""]",3
+"The equation of a line that intercepts the x-axis at x = 4 and the y-axis at y = -6 is,","[""3x + 2y = 12"",""2x \u2013 3y = 12"",""3x \u2013 2y = 12"",""2x \u2013 3y = 12""]",2
+"A line with an inclination of 45º passes through (-5/2, -9/2). What is the x-coordinate of a point on the line if its corresponding y-coordinate is 6?","[""6"",""7"",""8"",""9""]",2
+"Find the equation of the line passing through the origin and with a slope of 6?","[""y \u2013 6x = 0"",""y = -6"",""x + y = -6"",""6x + y = 0""]",0
+"Find the equation of the line if the x-intercept and y-intercept are -2 and 4, respectively.","[""y \u2013 2x \u2013 4 = 0"",""y + 2x \u2013 4 = 0"",""y \u2013 2x + 4 = 0"",""y + 2x + 4 = 0""]",1
+"Determine B such that 3x + 2y – 7 = 0 is perpendicular to 2x – By + 2 = 0.","[""5"",""4"",""3"",""2""]",2
+"The line 2x – 3y + 2 = 0 is perpendicular to another line L1 of unknown equation. Find the slope of L1.","[""3\/2"",""-3\/2"",""2\/3"",""-2\/3""]",1
+"A line through (-5, 2) and (1, -4) is perpendicular to the line through (x, -7) and (8, 7). Find the x.","[""-4"",""-5"",""-6"",""-19\/3""]",2
+"What is the equation of the line that passes thru (4, 0) and is parallel to the line x – y – 2 = 0?","[""x \u2013 y + 4 = 0"",""x + y + 4 = 0"",""x \u2013 y \u2013 4 = 0"",""x \u2013 y = 0""]",2
+"Find the equation of the line through point (3, 1) and is perpendicular to the line x + 5y +5 = o.","[""5x \u2013 2y = 14"",""5x \u2013 y = 14"",""2x \u2013 5y = 14"",""2x + 5y = 14""]",1
+"Find the equation of the perpendicular bisector of the line joining (5, 0) and (-7, 3).","[""8x + 2y + 11 = 0"",""8x \u2013 2y + 11 = 0"",""8x \u2013 y + 11 = 0"",""8x + y + 11 = 0""]",1
+"Which of the following lines is parallel to the line 3x – 2y + 6 = 0?","[""3x + 2y \u2013 12 = 0"",""4x \u2013 9y = 6"",""12x + 18y = 15"",""15 x \u2013 10y \u2013 9 = 0""]",3
+"The equation of the line through (-3, -5) parallel to 7x + 2y – 4 = 0 is","[""7x + 2y + 31 = 0"",""7x \u2013 2y + 30 = 0"",""7x \u2013 2y \u2013 4 = 0"",""2x + 7y + 30 = 0""]",0
+"What is the equation of the line joining the points (3, -2) and (-7, 6)?","[""2x + 3y = 0"",""4x \u2013 5y = 22"",""4x + 5y = 2"",""5x + 4y = 7""]",2
+"What is the equation of the line passing through (-2, 6) with the x-intercept half the y-intercept?","[""x \u2013 y = 6"",""2x + 2y + 2 = 0"",""3x \u2013 y + 2 = 0"",""2x + y \u2013 2 = 0""]",3
+"Find the slope of a line having a parametric equation of x = 2 + t and y = 5 – 3t.","[""2"",""3"",""-2"",""-3""]",3
+"Find the slope of the line having a parametric equation y = 4t + 6 and x = t + 1.","[""1"",""2"",""3"",""4""]",3
+"Two vertices of a triangle are (2, 4) and (-2, 3) and the area is 2 square units, the locus of the third vertex is?","[""4x \u2013 y = 14"",""4x + 4y = 14"",""x + 4y = 12"",""x \u2013 4y = -14""]",3
+"Find the area of the triangle which the line 2x – 3y + 6 = 0 forms with the coordinate axis.","[""3"",""4"",""5"",""2""]",0
+"A line passes through point (2, 2). Find the equation of the line if the length of the line segment intercepted by the coordinate axes is the square root of 5.","[""2x + y \u2013 2 = 0"",""2x \u2013 y \u2013 2 = 0"",""2x \u2013 y + 2 = 0"",""2x + y + 2 = 0""]",1
+"Of what quadrant is A, if sec A is positive and csc A is negative?","[""III"",""I"",""IV"",""II""]",2
+"The segment from (-1, 4) to (2, -2) is extended three times its own length. The terminal point is","[""(11, -18)"",""(11, -24)"",""(11, -20)"",""(-11, -20)""]",2
+"The midpoint of the line segment between P1(x, y) and P2(-2, 4) is Pm(2, -1). Find the coordinate of P1.","[""(6, -5)"",""(5, -6)"",""(6, -6)"",""(-6, 6)""]",2
+"Find the coordinates of the point P(2,4) with respect to the translated axis with origin at (1,3).","[""(1, -1)"",""(1, 1)"",""(-1, -1)"",""(-1, 1)""]",1
+"Find the median through (-2, -5) of the triangle whose vertices are (-6, 2), (2, -2), and (-2, -5).","[""3"",""4"",""5"",""6""]",2
+"Find the centroid of a triangle whose vertices are (2, 3), (-4, 6) and (2, -6).","[""(0, 1)"",""(0, -1)"",""(1, 0)"",""(-1, 0)""]",0
+"Find the area of triangle whose vertices are A (-3, -1), B(5, 3) and (2, -8)","[""34"",""36"",""38"",""32""]",2
+"Find the distance between the points (4, -2) and (-5, 1)","[""4.897"",""8.947"",""7.149"",""9.487""]",3
+"Find the distance between A(4, -3) and B(-2, 5).","[""11"",""8"",""9"",""10""]",3
+"If the distance between the points (8, 7) and (3, y) is 13, what is the value of y?","[""5"",""-19"",""19 or -5"",""5 or -19""]",2
+"The distance between the points (sin x, cos x) and (cos x, -sin x) is:","[""1"",""\u221a2"",""2 sin x cos x"",""4 sin x cos x""]",1
+"Find the distance from the point (2, 3) to the line 3x + 4y + 9 = 0.","[""5"",""5.4"",""5.8"",""6.2""]",1
+"Find the distance from the point (5, -3) to the line 7x – 4y – 28 = 0.","[""2.62"",""2.36"",""2.48"",""2.54""]",1
+"How far is the line 3x – 4y + 15 = 0 from the origin?","[""1"",""2"",""3"",""4""]",2
+"Determine the distance from (5, 10) to the line x – y = 0","[""3.86"",""3.54"",""3.68"",""3.72""]",1
+"The two points on the lines 2x + 3y +4 = 0 which are at distance 2 from the line 3x + 4y – 6 = 0 are:","[""(-8, -8) and (-16, -16)"",""(-44, 64) and (-5, 2)"",""(-5.5, 1) and (-5, 2)"",""(64, -44) and (4, -4)""]",3
+"The intercept form for algebraic straight-line equation is:","[""(a\/x) + (y\/b) = 1"",""y = mx + b"",""Ax + By + C = 0"",""(x\/a) + (y\/b) = 1""]",3
+"Find the slope of the line defined by y – x = 5","[""1"",""-1\/2"",""\u00bc"",""5 + x""]",0
+"The slope of the line 3x + 2y + 5 = 0 is:","[""-2\/3"",""-3\/2"",""3\/2"",""2\/3""]",1
+"Find the slope of the line whose parametric equation is y = 5 – 3t and x = 2 + t.","[""3"",""-3"",""2"",""-2""]",1
+"Find the angle that the line 2y – 9x – 18 = 0 makes with the x-axis.","[""74.77\u00b0"",""4.5\u00b0"",""47.77\u00b0"",""77.47\u00b0""]",3
+"Which of the following is perpendicular to the line x/3 + y/4 = 1?","[""x \u2013 4y \u2013 8 = 0"",""4x \u2013 3y \u2013 6 = 0"",""3x \u2013 4y \u2013 5 = 0"",""4x + 3y \u2013 11 = 0""]",2
+"Find the equation of the bisector of the obtuse angle between the lines 2x + y = 4 and 4x – 2y = 7","[""4y = 1"",""8x = 15"",""2y = 3"",""8x + 4y = 6""]",0
+"The equation of the line through (1, 2) and parallel to the line 3x – 2y + 4 = 0 is:","[""3x \u2013 2y + 1 = 0"",""3x \u2013 2y \u2013 1 = 0"",""3x + 2y + 1 = 0"",""3x + 2y \u2013 1 = 0""]",0
+"If the points (-3, -5), (x, y), and (3, 4) lie on a straight line, which of the following is correct?","[""3x + 2y \u2013 1 = 0"",""2x + 3y + 1 = 0"",""2x + 3y \u2013 1 = 0"",""3x \u2013 2y \u2013 1 = 0""]",3
+"One line passes through the points (1, 9) and (2, 6), another line passes through (3, 3) and (-1, 5). The acute angle between the two lines is:","[""30\u00b0"",""45\u00b0"",""60\u00b0"",""135\u00b0""]",1
+"The two straight lines 4x – y + 3 = 0 and 8x – 2y + 6 = 0","[""Intersects at the origin"",""Are coincident"",""Are parallel"",""Are perpendicular""]",1
+"A line which passes through (5, 6) and (-3. -4) has an equation of","[""5x + 4y + 1 = 0"",""5x \u2013 4y \u2013 1 = 0"",""5x \u2013 4y + 1 = 0"",""5x + y \u2013 1 = 0""]",1
+"Find the equation of the line with slope of 2 and y-intercept of -3.","[""y = -3x + 2"",""y = 2x \u2013 3"",""y = 2\/3 x + 1"",""y = 3x \u2013 2""]",2
+"What is the equation of the line that passes through (4, 0) and is parallel to the line x – y – 2 = 0?","[""y + x + 4 = 0"",""y \u2013 x + 4 = 0"",""y \u2013 x \u2013 4 = 0"",""y + x \u2013 4 = 0""]",2
+"Determine B such that 3x + 2y – 7 = 0 is perpendicular to 2x – By + 2 = 0","[""2"",""3"",""4"",""5""]",2
+"The equation of a line that intercepts the x-axis at x = 4 and the y-axis at y = -6 is:","[""2x \u2013 3y = 12"",""3x + 2y = 12"",""3x \u2013 2y = 12"",""2x \u2013 37 = 12""]",2
+"How far from the y-axis is the center of the curve 2×2 + 2y2 + 10x – 6y – 55 = 0?","[""-3.0"",""2.75"",""-3.25"",""2.5""]",3
+"Find the area of the circle whose center is at (2,-5) and tangent to the line 4x + 3y – 8 = 0.","[""6\u03c0"",""9\u03c0"",""3\u03c0"",""12\u03c0""]",0
+"Determine the area enclosed by the curve x<sup>2</sup> – 10x + 4y + y<sup>2</sup> = 196","[""15\u03c0"",""225\u03c0"",""12\u03c0"",""144\u03c0""]",1
+"Find the shortest distance from the point (1, 2) to appoint on the circumference of the circle defined by the equation x<sup>2</sup> + y<sup>2</sup> + 10x + 6y + 30 = 0.","[""5.61"",""5.71"",""5.81"",""5.91""]",2
+"Determine the length of the chord common to the circles x<sup>2</sup> + y<sup>2</sup> = 64 and x<sup>2</sup> + y<sup>2</sup> – 16x – 0.","[""13.86"",""12.82"",""13.25"",""12.28""]",0
+"If (3, -2) is on a circle with center (-1, 1), then the area of the circle is:","[""5\u03c0"",""25\u03c0"",""4\u03c0"",""3\u03c0""]",1
+"The radius of the circle 2x<sup>2</sup> + 2y<sup>2</sup> – 3x + 4y – 1 = 0 is:","[""(\u221a33)\/4"",""33\/16"",""(\u221a33)\/3"",""17""]",0
+"x<sup>2</sup> – 6x + y<sup>2</sup> – 4y – 12 = 0","[""3.46"",""5"",""7"",""6""]",1
+"The diameter of a circle described by 9x<sup>2</sup> + 9y<sup>2</sup> = 16 is:","[""16\/9"",""4\/3"",""4"",""8\/3""]",3
+"Find the center of the circle x<sup>2</sup> + y<sup>2</sup> – 6x + 4y – 23 = 0.","[""(3, -2)"",""(3, 2)"",""(-3, 2)"",""(-3, -2)""]",0
+"Determine the equation of the circle whose center is at (4, 5) and tangent to the circle whose equation is x<sup>2</sup> + y<sup>2</sup> + 4x + 6y – 23 = 0.","[""x<sup>2<\/sup> + y<sup>2<\/sup> \u2013 8x + 10y \u2013 25 = 0"",""x<sup>2<\/sup> + y<sup>2<\/sup> + 8x \u2013 10y + 25 = 0"",""x<sup>2<\/sup> + y<sup>2<\/sup> \u2013 8x \u2013 10y + 25 = 0"",""x<sup>2<\/sup> + y<sup>2<\/sup> \u2013 8x \u2013 10y \u2013 25 = 0""]",2
+"The equation of the circle with center at (-2, 3) and which is tangent to the line 20x – 21y – 42 = 0.","[""x<sup>2<\/sup> + y<sup>2<\/sup> + 4x \u2013 6y \u2013 12 = 0"",""x<sup>2<\/sup> + y<sup>2<\/sup> + 4x \u2013 6y + 12 = 0"",""x<sup>2<\/sup> + y<sup>2<\/sup> + 4x + 6y \u2013 12 = 0"",""x<sup>2<\/sup> + y<sup>2 <\/sup>\u2013 4x \u2013 6y \u2013 12 = 0""]",0
+"A circle has a diameter whose ends are at (-3, 2) and (12, -6). Its Equation is:","[""4x<sup>2<\/sup> + 4y<sup>2<\/sup> \u2013 36x + 16y + 192 = 0"",""4x<sup>2<\/sup> + 4y<sup>2<\/sup> \u2013 36x + 16y \u2013 192 = 0"",""4x<sup>2<\/sup> + 4y<sup>2<\/sup> \u2013 36x \u2013 16y \u2013 192 = 0"",""4x<sup>2<\/sup> + 4y<sup>2<\/sup> \u2013 36x \u2013 16y + 192 = 0""]",1
+"Find the equation of the circle with center on x + y = 4 and 5x + 2y + 1 = 0 and having a radius of 3.","[""x<sup>2<\/sup> + y<sup>2<\/sup> + 6x \u2013 16y + 64 = 0"",""x<sup>2<\/sup> + y<sup>2<\/sup> + 8x \u2013 14y + 25 = 0"",""x<sup>2<\/sup> + y<sup>2<\/sup> + 6x \u2013 14y + 49 = 0"",""x<sup>2<\/sup> + y<sup>2<\/sup> + 6x \u2013 14y + 36 = 0""]",2
+"If (3, -2) lies on the circle with center (-1, 1) then the equation of the circle is:","[""x<sup>2<\/sup> + y<sup>2<\/sup> + 2x \u2013 2y \u2013 23 = 0"",""x<sup>2<\/sup> + y<sup>2<\/sup> + 4x \u2013 2y \u2013 21 = 0"",""x<sup>2<\/sup> + y<sup>2<\/sup> + 2x \u2013 y \u2013 33 = 0"",""x<sup>2<\/sup> + y<sup>2<\/sup> + 4x \u2013 2y \u2013 27 = 0""]",0
+"Find the equation of k for which the equation x<sup>2</sup> + y<sup>2</sup> + 4x – 2y – k = 0 represents a point circle.","[""5"",""-5"",""6"",""-6""]",1

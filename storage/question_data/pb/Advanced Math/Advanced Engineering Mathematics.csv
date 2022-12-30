@@ -1,0 +1,34 @@
+﻿question,choices,answer
+"Simplify: i<sup>29</sup> + i<sup>21</sup> + i","[""3i"",""1 \u2013 i"",""1 + i"",""2i""]",0
+"Write in the form a + bi the expression i<sup>3217</sup> – i<sup>427</sup> + i<sup>18</sup>","[""2i + 1"",""-1 + i"",""2i \u2013 1"",""1 + i""]",2
+"The expression 3 + 4i is a complex number. Compute its absolute value.","[""4"",""5"",""6"",""7""]",1
+"Write the polar form of the vector 3 + j4.","[""6 \u2220 53.1\u00b0"",""10 \u2220 53.1\u00b0"",""5 \u2220 53.1\u00b0"",""8 \u2220 53.1\u00b0""]",2
+"Evaluate the value of √-10 x √-7","[""i"",""-\u221a70"",""\u221a70"",""\u221a17""]",1
+"Simplify (3 – i)<sup>2</sup> – 7(3 – i) + 10","[""\u2013(3 + i)"",""3 + i"",""3 \u2013 i"",""\u2013(3 \u2013 i)""]",3
+"If A = 40e<sup>j120°</sup>, B = 20 ∠ -40°, C = 26.46 + j0, solve for A + B + C.","[""27.7 \u2220 45\u00b0"",""35.1 \u2220 45\u00b0"",""30.8 \u2220 45\u00b0"",""33.4 \u2220 45\u00b0""]",2
+"What is 4i cube times 2i square","[""-8i"",""8i"",""-8"",""-8i<sup>2<\/sup>""]",1
+"What is the simplified expression (4.33 + j2.5) square?","[""12.5 + j21.65"",""20 + j20"",""15 + j20"",""21.65 + j12.5""]",0
+"Find the value of (1 + i)<sup>5</sup>, where <i>i</i> is an imaginary number.","[""1 \u2013 i"",""-4(1 + i)"",""1 + i"",""4(1 + i)""]",1
+"Find the principal 5<sup>th</sup> root of [50(cos 150° + jsin 150°)].","[""1.9 + j1.1"",""3.26 \u2013 j2.1"",""2.87 + j2.1"",""2.25 \u2013 j1.2""]",0
+"What is the quotient when 4 + 8i is divided by i<sup>3</sup>?","[""8 \u2013 4i"",""8 + 4i"",""-8 + 4i"",""-8 \u2013 4i""]",2
+"If A = -2 – 3i, and B = 3 + 4i, what is A / B?","[""(18 \u2013 i) \/ 25"",""(-18 \u2013 i) \/ 25"",""(-18 + i) \/ 25"",""(18 + i) \/ 25""]",1
+"Rationalize ((4 + 3i) / (2 – i))","[""1 + 2i"",""(11 + 10i) \/ 5"",""(5 + 2i) \/ 5"",""2 + 2i""]",0
+"What is the simplified expression of the complex number (6 + j2.5) / (3 + j4)?","[""-0.32 + j0.66"",""1.12 + j0.66"",""0.32 \u2013 j0.66"",""-1.75 + j1.03""]",1
+"Perform the operation: 4(cos 60° + i sin 60°) divided by 2(cos 30° + i sin 30°) in rectangular coordinates.","[""Square root of 3 \u2013 2i"",""Square root of 3 \u2013 i"",""Square root of 3 + i"",""Square root of 3 + 2i""]",2
+"Find the quotient of (50 + j35) / (8 + j5)","[""6.47 \u2220 3\u00b0"",""4.47 \u2220 3\u00b0"",""7.47 \u2220 30\u00b0"",""2.47 \u2220 53\u00b0""]",0
+"Three vectors A, B and C are related as follows: A / B = 2 at 180°, A + C = -5 + j15, C = conjugate of B. Find A.","[""5 \u2013 j5"",""-10 + j10"",""10 \u2013 j10"",""15 + j15""]",1
+"Evaluate cosh [j(π/4)]","[""0.707"",""1.41 + j0.866"",""0.5 + j0.707"",""j0.707""]",0
+"Evaluate cosh [j(π/3)]","[""0.5 + j1.732"",""j0.866"",""j1.732"",""0.5 + j0.866""]",2
+"Evaluate ln (2 + j3)","[""1.34 + j0.32"",""2.54 + j0.866"",""2.23 + j0.21"",""1.28 + j0.98""]",3
+"Evaluate the terms of a Fourier series 2 e<sup>j10πt</sup> + 2 e<sup>-j10πt</sup> at t = 1.","[""2 + j"",""2"",""4"",""2 + j2""]",2
+"What relation can you draw from these series?","[""e<sup>x<\/sup> = cos x + sin x"",""e<sup>ix<\/sup> = cos x + i sin x"",""e<sup>ix<\/sup> = icos x + sin x"",""ie<sup>x<\/sup> = icos x + i sin x""]",1
+"One term of a Fourier series in cosine form is 10 cos 40πt. Write it in exponential form.","[""5 e<sup>j40\u03c0t<\/sup>"",""5 e<sup>j40\u03c0t<\/sup> + 5 e<sup>-j40\u03c0t<\/sup>"",""10 e<sup>-j40\u03c0t<\/sup> 0"",""10 e<sup>j40\u03c0t<\/sup>""]",1
+"Given the equations: x + y + z = 2, 3x – y – 2z = 4, 5x – 2y + 3z = -7. Solve for y by determinants.","[""1"",""-2"",""3"",""0""]",2
+"Solve the equations by Cramer’s Rule: 2x – y + 3z = -3, 3x + 3y – z = 10, -x – y + z = -4.","[""(2, 1, -1)"",""(2, -1, -1)"",""(1, 2, -1)"",""(-1, -2, 1)""]",2
+"k divided by s<sup>2</sup> + k<sup>2</sup> is the inverse Laplace transform of,","[""cos kt"",""sin kt"",""e<sup>kt<\/sup>"",""1.0""]",1
+"The Laplace transform of cos wt is,","[""s \/ (s<sup>2<\/sup> + w<sup>2<\/sup>)"",""w \/ (s<sup>2<\/sup> + w<sup>2<\/sup>)"",""w \/ (s + w)"",""s \/ (s + w)""]",0
+"Find the laplace transform of [ 2 / (s + 1) ] – [ 4 / (s + 3) ].","[""2e<sup>-t<\/sup> \u2013 4e<sup>-3t<\/sup>"",""e<sup>-2t<\/sup> + e<sup>-3t<\/sup>"",""e<sup>-2t<\/sup> \u2013 e<sup>-3t<\/sup>"",""(2e<sup>-t<\/sup>) (1 \u2013 2e<sup>-3t<\/sup>)""]",0
+"Determine the inverse Laplace transform of I(s) = 200 / (s<sup>2</sup> – 50s + 10625)","[""I(s) = 2e<sup>-25t<\/sup> sin 100t"",""I(s) = 2te<sup>-25t<\/sup> sin 100t"",""I(s) = 2e<sup>-25t<\/sup> cos 100t"",""I(s) = 2te<sup>-25t<\/sup> cos 100t""]",0
+"The inverse Laplace transform of s / ( s<sup>2</sup> + w<sup>2</sup> )","[""sin wt"",""w"",""e<sup>wt<\/sup>"",""cos wt""]",3
+"The inverse Laplace transform of ( 2s – 18 ) / ( s<sup>2</sup> + 9 )","[""2 cos x \u2013 sin 3x"",""2 cos 3x \u2013 6 sin 3x"",""3 cos 2x \u2013 2 sin 6x"",""6 cos x \u2013 3 sin 2x""]",1
+"Determine the inverse Laplace transform of 1 / ( 4s<sup>2</sup> – 8s ).","[""\u00bc e<sup>t<\/sup> sinh t"",""\u00bd e<sup>2t<\/sup> sinh t"",""\u00bc e<sup>t<\/sup> cosh t"",""\u00bd e<sup>2t<\/sup> cosh t""]",0

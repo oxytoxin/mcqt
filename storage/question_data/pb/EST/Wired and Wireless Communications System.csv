@@ -1,0 +1,628 @@
+﻿question,choices,answer
+"The maximum intelligibility for voice frequency is located between","[""250 and 500 Hz"",""1000 and 3000 Hz"",""500 and 1000 Hz"",""3000 and 5000 Hz""]",1
+"The maximum voice energy is located between","[""250 and 500 Hz"",""1000 and 3000 Hz"",""500 and 1000 Hz"",""3000 and 5000 Hz""]",0
+"A device used to measure speech volume.","[""speech meter"",""volume meter"",""volume unit meter"",""speedometer""]",2
+"By definition, for a sine wave","[""0 dBm = 0 V.U."",""0 dBW = 0 V.U."",""0 dBa = 0 V.U."",""0 dBf = 0 V.U.""]",0
+"Presently, this is the “standard” frequency bandwidth for voice transmission.","[""0 to 4000 Hz"",""100 to 3400 Hz"",""300 to 3400 Hz"",""300 to 3000 Hz""]",2
+"Which of the following is commonly used wire for subscriber loop design?","[""AWG # 19"",""AWG # 18"",""AWG # 30"",""AWG # 33""]",0
+"The resistance limit for No. 2 Crossbar Exchange (US) is","[""2000 \u2126"",""1300 \u2126"",""1250 \u2126"",""1200 \u2126""]",1
+"AWG # 26 has a typical loss of","[""0.21 dB\/1000 ft."",""0.32 dB\/1000 ft."",""0.41 dB\/1000 ft."",""0.51 dB\/1000 ft.""]",3
+"What is the standard voice channel spacing?","[""44 MHz"",""40 kHz"",""4 kHz"",""40 MHz""]",2
+"Which tester is used to measure SWR?","[""Multimeter"",""Oscilloscope"",""Spectrum analyzer"",""Reflectometer""]",3
+"What is singing?","[""The result of intermodulating two or more signals of different frequencies to produce a tone having a frequency equal to the sum of the frequencies of the signals intermodulated."",""The result of intermodulating two or more signals of different frequencies to produce a tone having a frequency higher than that of the signal having the highest frequency."",""An undesired self-sustained oscillation in a system, generally caused by excessive positive feedback."",""An art or form of entertainment that can make one rich.""]",2
+"Which stage increases the selectivity of the circuit in an AM receiver?","[""Detector"",""IF stage"",""Modulator"",""Mixer""]",1
+"The ________ of radio receiver amplify weak signal and produce a desirable intelligence at the output speaker.","[""sensitivity"",""selectivity"",""reliability"",""fidelity""]",0
+"Full-duplex transmission means","[""One-way transmission"",""24-hour transmission"",""Broadcast transmission"",""Two-way simultaneous transmission""]",3
+"What is a multidrop line?","[""A piece of wire with a thick insulating material that serves to protect the conductive materials from damage in the event the wire is dropped."",""A line designed to withstand high pressure."",""A line or circuit interconnecting several situations."",""A bus line""]",2
+"A passive _________ is an electronic device which reduces signal strength by a specified amount in dB.","[""Splitter"",""Filter"",""Trimmer"",""Attenuator""]",3
+"The signal quality of the calls is constantly monitored by the base station, when the quality of the calls drops below a certain specified level. The base request the MTSO to try and find a better cell site.","[""Hand-off"",""Cell splitting"",""Roaming"",""Frequency reuse""]",2
+"A digital identification associated with a cellular system.","[""SAT"",""SID"",""ESN"",""MIN""]",3
+"How many seconds does facsimile transmit a stranded page?","[""5"",""10"",""20"",""25""]",3
+"A kind of recording used in facsimile.","[""Electrolytic recording"",""Electrothermal recording"",""Electropercussive recording"",""Electrostatic recording""]",0
+"A type of distortion a facsimile produce when it becomes out of synchronization?","[""Pincushion"",""Barrel"",""Skewing"",""Fattening""]",2
+"What is an acoustic coupler?","[""A device that radiates audible signals via a transmitting antenna"",""A device that converts electric signals into audio signals, enabling data to be transmitted over the public telephone network via a conventional telephone handset"",""A device that receives audible signals and retransmits them at VHF frequencies"",""A transducer""]",1
+"Cause a herringbone pattern in facsimile","[""Single-frequency interference"",""Crosstalk"",""Phase jitter"",""Noise""]",1
+"The _______ in an FM receiver causes a stronger signal to dominate over a weaker signal on the same frequency.","[""Capture effect"",""Flywheel effect"",""Hall effect"",""Skin effect""]",0
+"A device that converts a 2-wire circuit to a 4-wire circuit.","[""RS-232 interface"",""Hybrid circuit"",""Balun"",""Stub""]",1
+"______ theory is deciding between a set of hypothesis when given a collection of imperfect measurements.","[""Estimation"",""Traffic"",""Decision"",""Nyquist""]",2
+"______ of a data reduction says that when reducing a set of data into the form of an underlying mode, one should be maximally non-committal with respect to missing data.","[""Jaynes maximum entropy principle"",""Kullback principle of minimum discrimination"",""Minimum discrimination"",""Maximum entropy""]",0
+"_______ is selecting the best value of a parameter from a continuum of possible values when gives a collection if imperfect measurements","[""Estimation"",""Traffic"",""Decision"",""Nyquist""]",0
+"Combination of madulator, channel, and detector.","[""Transceiver"",""Transponder"",""T\/R channel"",""Discrete channel""]",3
+"What is the frequency band of DECT?","[""1.28 \u2013 1.30 GHz"",""1.68 \u2013 1.70 GHz"",""1.48 \u2013 1.50 GHz"",""1.88 \u2013 1.90 GHz""]",3
+"How many simultaneous calls does each DECT system can support?","[""96"",""12"",""24"",""49""]",1
+"How many simultaneous calls does a DECT radio transceiver can assess at any given time?","[""120"",""240"",""480"",""960""]",0
+"The AGC voltage of a radio receiver is always _______.","[""Present before adjustments can be made"",""DC, but may have either polarity positive DC"",""Positive DC"",""Negative""]",1
+"What is a concentrator?","[""A system that improves the signal-to-noise ratio by compressing the volume range of a signal."",""A device that varies the characteristics of a carrier signal in accordance with the waveform of a modulating signal which contains useful information"",""A switching system that lets a large number of telephone or data processing subscribers use a lesser number of transmission lines or a narrow bandwidth"",""Equipment in the central office.""]",2
+"If you find that an SAW filter output is 6 dB down from the input of a receiver during test, ______","[""This is normal."",""The device if faulty"",""The receiver is improperly terminated"",""The filter is not resonating""]",0
+"A triple conversion superheterodyne receiver, diode mixer stages are","[""Operated in the linear region"",""Operated in the nonlinear region"",""Operated as Class-A amplifiers"",""Operated as Class-B amplifiers""]",1
+"What is a leased line?","[""A piece of wire used in a local area network in one building"",""A piece of wire connecting a telephone set to a PABX"",""A temporary connection of one computer to a mainframe via a modern and a telephone line"",""A permanent circuit for a private use within a communication network""]",3
+"If two FM signals of different strengths are received on the same frequency","[""One steady heterodyne will appear in the AM output"",""Both will appear in the AF output"",""Only the stronger will appear in the AF output"",""Neither signal will be intelligence unless the weaker signal is at least 10 times""]",2
+"Cellular mobile system was first operated in","[""1979"",""1981"",""1983"",""1985""]",2
+"TACS is a cellular system with ______ channels.","[""666"",""1000"",""832"",""200""]",1
+"Supervisory Audio Tone (SAT) has _______ frequency.","[""5960 Hz"",""6000 Hz"",""6040 Hz"",""1004 z""]",1
+"What is the number of channels of a cellular system with an allocated spectrum of 25 MHz and with a channel of 30 kHz bandwidth?","[""833"",""240"",""1000"",""666""]",0
+"GSM uses what digital modulation technique?","[""QAM"",""GFSK"",""BPSK"",""GMSK""]",1
+"What is the power output of Personal Communication System (PCS)?","[""10 mW"",""75 mW"",""150 mW"",""10 W""]",0
+"RG-B8 cable has a loss of about ______ dB at cellular frequencies up to 15 ft. length.","[""2"",""1"",""4"",""3""]",3
+"The signals designed to keep the receivers and transmitters aligned.","[""Carrier frequencies"",""Pilot carrier signals"",""Synchronizing signals"",""Reference signals""]",1
+"If the spacing of a two-wire open air transmission line is 12 inches and the conductor diameter is 0.25 inch, the characteristic impedance is","[""547 \u2126"",""357 \u2126"",""273 \u2126"",""300 \u2126""]",0
+"The impedance of the quarterwave transformer used to match a 600 Ω line to a 300 Ω load is","[""382 \u2126"",""424 \u2126"",""565 \u2126"",""712 \u2126""]",1
+"When a line and a load are match the reflection coefficient is","[""Unity"",""Zero"",""Positive infinity"",""Negative infinity""]",1
+"A device used to measure speech volume","[""volume unit meter"",""volume milliammeter"",""volume pulse meter"",""volume intensity meter""]",0
+"The communications between two or three central offices is called","[""interoffice calling"",""trunk"",""interoffice link"",""loop""]",2
+"In telephony, the –48 V dc voltage was used rather than ac voltages because","[""to prevent power supply hum"",""to allow service to continue in the event of power outage"",""because people are afraid of ac"",""all of these""]",3
+"Category of signaling message that indicates a request of service, such as going off-hook or ringing in the destination telephone","[""dial tone"",""signaling"",""supervising"",""alerting""]",3
+"Occurs in coherent SSBSC systems, such as those using frequency division multiplexing when the received carrier is not reinserted with the exact phase relationship to the received signal as the transmit carrier possessed.","[""phase delay distortion"",""phase jitter distortion"",""phase intercept distortion"",""all of these""]",2
+"It is simply the dedicated cable facility used to connect an instrument at a subscriber’s station to the closest telephone office.","[""subscriber lines"",""local loops"",""subscriber loops"",""any of these""]",1
+"A telephone call completed within a single local exchange is called","[""intraoffice call"",""intraexchange call"",""intraswitch call"",""any of these""]",3
+"Type of Class 4 toll center usually had only outward operator service or perhaps no operator service at all.","[""Class 2"",""Class 4P"",""Class 1"",""Class 3""]",1
+"In a 4-wire telephone set connection, (used to connect telephone set to office central switching) the yellow coded wire is used _______________.","[""as ground wire"",""to transmit the signal"",""to receive the signal from the far end"",""as a spare or for special purpose applications""]",3
+"When the image at the receiving end of a facsimile transmission us elongated horizontally,","[""the transmitter IOC is less than the receiver IOC"",""the transmitter IOC is greater than the receiver IOC"",""the transmitter IOC is equal to the receiver IOC"",""the IOC is not a factor""]",1
+"It is a special balanced transformer used to convert a two-wire circuit into a four-wire circuit and vice-versa.","[""equalizer circuit"",""balanced transformer"",""balanced modulator"",""hybrid network""]",3
+"It is a method originally used to transfer digits in the telephone set to the local switch.","[""tone dialing"",""dial pulsing"",""battery and ground pulsing"",""reverse battery pulsing""]",1
+"It is the time required to propagate a change in an AM envelope through a transmission medium","[""envelope delay distortion"",""phase delay"",""envelope delay"",""propagation time""]",2
+"It is the primary source of transmission errors in data circuits","[""impulse noise"",""crosstalk"",""gain hits"",""interference""]",0
+"It eliminates the echo by electrically subtracting it from the original signal rather than disabling the amplifier in the return circuit.","[""echo suppressors"",""echo limiters"",""echo cancellers"",""any of these""]",3
+"In telephony, functions that involve the actual transmission of a subscriber’s messages and any necessary control signals.","[""transmission functions"",""signaling functions"",""maintenance functions"",""calling functions""]",0
+"The first computer-controlled central office switching system used in PSTN","[""No.7 ESS"",""No.2 ESS"",""No.5 ESS"",""No. 1 ESS""]",3
+"It is an exchange without a local loops connected to it","[""double office"",""tandem office"",""exchange office"",""local office""]",1
+"The 5-class switching hierarchy is a __________ scheme that establishes an end-to-end route mainly through trial and error.","[""interleaved switching"",""progressive switching"",""point-to-point switching"",""step-by-step switching""]",1
+"The frequency range of maximum voice energy is between","[""150 and 300 Hz"",""300 and 3400 Hz"",""250 and 500 Hz"",""100 and 300 Hz""]",2
+"The oldest of the automatic switching system","[""manual switching"",""step-by-step"",""common control"",""Electronic""]",1
+"Group 3 fax used which modulation?","[""QAM"",""FSK"",""Vestigial sideband AM"",""FM""]",0
+"Signals that provides information in the form of announcements, such as number changed to another number, a number no longer in service, and so on","[""addressing"",""ringing"",""controlling"",""supervising""]",2
+"The switch closure in an off-hook condition causes a range of dc current to flow on the loop, what is that range of current?","[""23 mA to 50 mA"",""15 mA to 30 mA"",""10 mA to 20 mA"",""20 mA to 80 mA""]",3
+"These are unused sections of cables that are connected in shunt working cable pair, such as a local loop. They are used for party lines to connect to the same local loop.","[""cross-connect loop"",""drop wire tap"",""bridge tap"",""wire tap""]",2
+"The time delay encountered by a signal as it propagates from a source to a destination is called ____________.","[""propagation time"",""phase delay"",""holding time"",""system delay time""]",0
+"It is the decrease in gain of more than 12 dB lasting longer than 4 ms and is a characteristics of temporary open circuit conditions and are generally caused by deep fades in radio facilities or by switching delays.","[""echo"",""jitter"",""gain hits"",""dropouts""]",3
+"It is similar to the local loop except that it is used to interconnect two telephone offices.","[""trunk lines"",""subscriber loop"",""local lines"",""subscriber lines""]",0
+"Calls that are placed between two stations that are connected to different local exchanges.","[""interoffice calls"",""interswitch calls"",""interexchange calls"",""any of these""]",3
+"_________ is defined as a momentary on-hook condition that causes loop making and breaking from the telephone set dialer toward the central office.","[""dial tone"",""dial pulsing"",""on-hook"",""off-hook""]",1
+"In facsimile technology, it is a number derived from the width-height ratio.","[""numerical aperture"",""scanning spot"",""index of cooperation"",""cut-off frequency""]",2
+"In RJ-11, the RJ stands for","[""Recommended Jack"",""Released Jack"",""Registered Jack"",""Radio Jack""]",2
+"A cross-connect point used to distribute the larger feeder cable into smaller distribution cables","[""SLIC"",""serving area interface"",""LATA"",""cross-connect cabinet""]",1
+"The process used to improve a basic telephone channel is called","[""line turnaround"",""line conditioning"",""line sensing"",""line improvement""]",1
+"In telephony, functions that identify and connect subscribers to a suitable transmission path","[""transmission functions"",""signaling functions"",""switching functions"",""calling functions""]",2
+"The telephone switching plan that allows a certain degree of route selection when establishing a phone call.","[""NPA"",""switching hierarchy"",""toll hierarchy"",""interoffice hierarchy""]",1
+"It provides access to the SS7 network access to databases used by switches inside and outside of the network, and transfer of SS7 messages to other signaling points within the network.","[""point codes"",""signaling points"",""service points"",""switching points""]",1
+"The connection between the subscriber and his own particular central office.","[""trunk"",""line"",""signaling"",""pulsing""]",1
+"It is a measure of how well we can distinguish closely spaced objects or identify small items on a print.","[""resolution"",""legibility"",""contrast"",""hue""]",0
+"It is the exchange of signaling messages over local loops between stations and telephone company switching machines","[""loop signaling"",""station signaling"",""interoffice signaling"",""pulse signaling""]",1
+"Modern paging system uses what modulation technique?","[""FSK and QPSK"",""PSK and QAM"",""ASK and FSK"",""FSK and PSK""]",3
+"The talker hears a returned portion of the signal as an echo, what is the round-trip time of delay for an echo to quite annoying?","[""15 msec"",""25 msec"",""35 msec"",""45 msec""]",3
+"When subscriber initiates a long distance calls, the local exchange connects the caller to the toll office through a facility called ________.","[""interoffice toll trunk"",""intraoffice toll trunk"",""interoffice exchange trunk"",""intraoffice exchange trunk""]",0
+"Range of speech power","[""100 \u2013 1000 \u00b5W"",""10 \u2013 100 \u00b5W"",""10 \u2013 1000 \u00b5W"",""1000 \u2013 10000 \u00b5W""]",2
+"Which resolution produces the best quality fax?","[""96 lpi"",""150 lpi"",""200 lpi"",""400 lpi""]",3
+"Facsimile standards are set by the","[""FCC"",""DOD"",""CCITT"",""IEEE""]",2
+"Telephone set component placed directly across the tip and ring to alert the designation party of an incoming call","[""transmitter"",""receiver"",""ringer"",""dialer""]",2
+"The reference frequency of a typical voice-band circuit is typically around _________.","[""1500 Hz"",""1300 Hz"",""1700 Hz"",""1800 Hz""]",3
+"The most versatile and popular crossbar switch was __________.","[""#4YB"",""5#YB"",""#5XB"",""#5ZB""]",2
+"A device that combines the transmitter and the receiver to operate over the same wire pair.","[""balancing network"",""diaphragm"",""hybrid"",""relay""]",2
+"Group 2 fax that uses fax standard is","[""SSB"",""FSK"",""Vestigial sideband AM"",""PSK""]",2
+"A signal sent from the central office to a subscriber whenever there is an incoming call","[""busy signal"",""ringing signal"",""ringback signal"",""dial tone""]",1
+"It is defined as the optimum level of a test tone on a channel at some point in a communications system.","[""transmission level point"",""data level point"",""voice level point"",""baseband transmission point""]",0
+"A type of crosstalk which is caused by inadequate control of the frequency response of the transmission system, poor filter design, or poor filter performance.","[""single-channel crosstalk"",""transmittance crosstalk"",""linear crosstalk"",""coupling crosstalk""]",1
+"Class of switching office that could provide service to geographical regions varying in size from part of the state to all of several states, depending on population density.","[""sectional center"",""end office"",""regional center"",""toll center""]",0
+"By definition, speech power is equal to v.u. reading minus 1.4 dB plus log of N, where N is","[""The number of lines used"",""The number of transmitters used"",""The number of persons speaking"",""The number of listeners listening""]",2
+"The most commonly used light sensor in a modern fax machine is a","[""Phototube"",""Phototransistor"",""Liquid-crystal display"",""Charged coupled device""]",3
+"Systems that are simplex wireless communications systems designed to alert subscribers of awaiting messages","[""paging"",""searching"",""texting"",""calling""]",0
+"It can be defined as any disturbance created in a communications channel by signals in other communications channel.","[""crosstalk"",""interference"",""hits"",""jitter""]",0
+"Type of Class 4 toll center which provides human operators for both outward and inward calling service.","[""Class 4P"",""Class 5"",""Class 4C"",""Class 1""]",2
+"A type of signaling was developed as an alternative to loop signaling.","[""ear and mouth"",""duplex"",""loop pulsing"",""interoffice calling""]",0
+"Signals that provide the routing information, such as calling and called numbers.","[""routing"",""calling"",""controlling"",""addressing""]",3
+"Phase jitters occur at what frequency?","[""less than 300 Hz"",""more than 300 Hz"",""more than 400 Hz"",""more than 300 Hz but less than 400 Hz""]",0
+"10 or more subscribers connected in a central office exchange using same local loop","[""wire tapping"",""party lines"",""eaves dropping lines"",""monitor lines""]",1
+"He designed and built the first transmitter and receiver for a telephone set.","[""Alexander Graham Bell"",""Alexander Bain"",""Antonio Meucci"",""Philipp Reis""]",2
+"If a switching machine is set to accept pulses at a rate of 10 pulses per second with a 60% break, find the make interval of the switch.","[""60 ms"",""100 ms"",""40 ms"",""25 ms""]",2
+"How many point-to-point links are required to connect 50 telephones together?","[""2255"",""1225"",""2250"",""1552""]",1
+"The first commercial switchboard was installed in","[""Connecticut"",""Boston"",""Pennsylvania"",""Washington""]",0
+"Where is a fax scanner found?","[""at the end of fax signals"",""at origin of fax signals"",""at receive end of fax system"",""at the input of a fax transmitter""]",1
+"What is the standard scanning LPI rates?","[""120"",""25"",""400"",""195""]",0
+"What tone is used to start fax?","[""400 Hz"",""100 Hz"",""300 Hz"",""500 Hz""]",2
+"What tone is used to stop fax?","[""450 Hz"",""500 Hz"",""150 Hz"",""250 Hz""]",0
+"What tones carry map information using facsimile?","[""1300 Hz and 2400 Hz"",""2400 Hz and 2500 Hz"",""1200 Hz and 2400 Hz"",""1500 Hz and 2300 Hz""]",3
+"The following frequencies are developed using 1.8 kHz used for scanner in facsimile, except:","[""300 Hz"",""100 Hz"",""450 Hz"",""60 Hz""]",1
+"To what is the output of a scanner fed in fax?","[""transmitter"",""receiver"",""mixer"",""oscillator""]",0
+"Basically, in facsimile, what is a scanner helix?","[""clear sided drum with one turn scratch"",""clear sided drum with two turn scratch"",""opaque sided drum with one turn scratch"",""opaque sided drum with two turn scratch""]",2
+"A recorder helix in facsimile?","[""insulated drum with one turn wire"",""opaque drum with one turn scratch"",""clear sided with one turn wire"",""insulated drum with one turn scratch""]",0
+"In fax, the following are scanner signals where the switcher switch in except:","[""300 Hz"",""phasing signal"",""90 Hz"",""map signals""]",2
+"With what type transmitter is fax transmitted on HF?","[""AM"",""FM"",""PM"",""SSB""]",3
+"With what type transmitter is fax transmitted on VHF?","[""FM"",""PM"",""SSB"",""AM""]",0
+"The helix wire forms one end of the circuit of facsimile; what forms the other?","[""insulated wire"",""drum"",""blade"",""transmit circuit""]",2
+"What emf is required across the circuit in facsimile to form a dark spot?","[""40 V"",""60 V"",""25 V"",""70 V""]",1
+"In a facsimile recorder what is used to make 1,500-Hz ac stronger than 2300 Hz?","[""non-linear slope filter"",""linear slope filter"",""active slope filter"",""passive slope filter""]",1
+"In a recorder of facsimile, what is used to generate 60-Hz ac?","[""3.0 kHz oscillator and logic gates"",""2.4 kHz mixer and logic gates"",""3.0 kHz oscillator and logic divider"",""2.4 kHz oscillator and logic divider""]",3
+"If the tuning meter reads full scale, what would this indicate in facsimile?","[""1300 signal"",""2400 signal"",""1400 signal"",""1500 signal""]",3
+"If the tuning meter reads midscale, what would this indicate in facsimile?","[""average"",""mistuned"",""peak"",""minimum""]",0
+"If the tuning meter reads low-scale, what would this indicate in facsimile?","[""1500 signal"",""1700 signal"",""2300 signal"",""2400 signal""]",2
+"Why is the blade an endless loop in facsimile?","[""wears faster"",""wears slower"",""wears average speed"",""never wears""]",1
+"What should bring the left margin of the map to the left side of the paper in the recorder of facsimile?","[""map signals"",""phasing signals"",""automatic switch"",""90 Hz""]",1
+"The signal heard on the telephone line that indicates readiness of the central office in receiving address or telephone number.","[""Dial tone"",""Ringing tone"",""Busy tone"",""Congestion tone""]",0
+"The signal heard on the telephone line which indicates that the called subscriber set is in use.","[""Dial tone"",""Ringing tone"",""Busy tone"",""Congestion tone""]",2
+"BORSCHT stands for","[""Battery, over-voltage protection, ringing, supervision, coding, hybrid and testing"",""Battery, over-hook regulator, ringing, surge protect, circuit, hybrid and test"",""Name of the leading manufacturer of telephone system"",""Acronym for the developers of computer""]",0
+"Request for service from the telephone is detected at the Central Office as","[""Dial pulses"",""Ringing signal"",""Flow of loop current"",""Battery reversal""]",2
+"The location where all subscriber lines are terminated and switching equipment facility is installed.","[""Central office"",""Toll office"",""Gate way"",""Tandem""]",0
+"A private line communications channel of the type provided by communication common carrier for linking two or more points together.","[""Party line"",""Tie line"",""DID line"",""Trunk line""]",1
+"The attenuation loss limit of the subscriber loop is set at 6 dB. What is the maximum length if a 26H88 loading coil with an attenuation of 0.80 dB per kilometer is added?","[""1.5 km"",""3.5 km"",""5.5 km"",""7.5 km""]",3
+"The first number of the loaded cable designation 19H44 indicates","[""Spacing"",""Coil inductance"",""Wire gauge"",""Attenuation""]",2
+"The letter of the loaded cable designation 24B88 indicates","[""Spacing"",""Coil inductance"",""Wire gauge"",""Attenuation""]",0
+"The last two digits of the loaded cable designation 22E66 indicates","[""Spacing"",""Coil inductance"",""Wire gauge"",""Attenuation""]",1
+"A condition of a telephone handset, in which it can be called, is _______ condition.","[""On-hook"",""Off-hook"",""Busy"",""None of these""]",0
+"When digits 3 is dialed using touch tone system, the amount of time needed to send the tone is","[""0.1 sec"",""50 msec"",""0.25 sec"",""0.25 sec""]",1
+"A telephone number perform the following operations except","[""To route the call"",""To activate the necessary apparatus for proper call charging"",""To order clearing of connection"",""None of the above""]",2
+"The number to be dialed or called to reach a subscriber in the same local network or numbering area is","[""Local code"",""Area code"",""Toll access code"",""Subscriber No.""]",3
+"That part of the telephone network between the telephone instrument at the subscriber premises and the central office equipment is called the _______________.","[""Inter-office trunk"",""Tie line"",""Subscriber loop"",""Service drop wire""]",2
+"A line linking telephone central offices is called _____________ line.","[""Tie"",""Inter-office trunk"",""Routing"",""Connector""]",1
+"A signalling technique wherein a number of voice paths is carried over one common channel instead of having individual voice channels.","[""In band signalling"",""Out of band signalling"",""Common channel signalling"",""Alternate channel signalling""]",2
+"___________ is a unit of telephone traffic defined as one user making a call of one second duration.","[""CCS"",""Call-second"",""Erlangs"",""Call-hour""]",1
+"During a busy hour in a telephone system an average of one call is lost, then the grade of service is considered to be:","[""1.01"",""10%"",""0.10%"",""0.01""]",3
+"If a busy counts are made during the span of 15 minutes, and the average number of occupied circuit is found to be 8, then the traffic, in Erlang, is:","[""2"",""8"",""6"",""4""]",0
+"In a standard CCITT group, 12 channels FDM, the carrier frequency of the channel No. 1 is _______________.","[""100 kHz"",""102 kHz"",""108 kHz"",""60 kHz""]",2
+"In the FDM hierarchy, a mastergroup is composed of ten supergroups and is equivalent to","[""600 channels"",""60 channels"",""180 channels"",""120 channels""]",0
+"The approximation process in PCM creates noise called:","[""Thermal"",""White noise"",""Quantizing noise"",""Agitation noise""]",2
+"The criteria to be considered in designing a telephone system","[""Attenuation limit"",""Resistance limit"",""A or B"",""A and B""]",3
+"This refers to loop AC reference frequency measured in decibels","[""Signalling limits"",""Resistance limits"",""Attenuation limits"",""All of these""]",2
+"An inuction coil which is multiple winding transformer intended to interface a 2-wire circuit to be a 4-wire circuit to permit two-way transmission of signals.","[""Hybrid function"",""Speech transformer"",""Transmission regulation circuit"",""A or B""]",3
+"A subscriber loop signalling method in which signalling information is indicated by the presence and absence of a battery and ground condition on the line at the called end of the trunk.","[""Wet-Dry"",""Reverse Battery"",""High-Low"",""Supervisory""]",0
+"An arrangement where the only possible connection between a number of exchanges is through a single tandem or transit exchange where they are all connected.","[""Mesh"",""Star"",""Composite"",""Ring""]",1
+"CCITT recommendation E-161 recommends that not more than ________ digits make up an international number, excluding the international prefix.","[""10"",""12"",""16"",""20""]",1
+"The following are the transmission media used for telephone systems except:","[""Parallel wire"",""Coaxial wire"",""Fiber optics"",""None of these""]",3
+"The subscriber loop provides the following except:","[""Talk battery"",""Ringing voltage"",""Telephone dial"",""Current during on hook""]",3
+"A method of multiplexing in which the total frequency spectrum available is used by each channel, but not part of the time.","[""FDM"",""TDM"",""SDM"",""GSM""]",1
+"The primary cause of echo and singing is","[""Intermodulation noise"",""Crosstalk"",""Impedance mismatch"",""Thermal noise""]",2
+"For crosstalk to be considered intelligible, at least ________ words are intelligible to the listener in a seven second period.","[""5"",""6"",""4"",""3""]",2
+"Noise that is non-continuous, consisting of irregular pulse or noise spikes of short duration and of relatively high amplitude.","[""Solar"",""Intermodulation"",""Impulse"",""Crosstalk""]",2
+"The signal to noise ratio for voice based on customer satisfaction is","[""30 db"",""35 db"",""15 db"",""20 db""]",0
+"dBa is a noise unit which uses a tone of 1000 Hz and a power level of","[""-85 dBm"",""-90 dBm"",""85 dBm"",""-80 dBm""]",0
+"The average intensity in one or more traffic paths occupied in the busy hour by one 2-minute call for an aggregate duration of two minutes.","[""CCS"",""Cm"",""Erlang"",""EBHC""]",3
+"A method of handling lost calls wherein a call failing to immediately find a server, waits enters a queue until one becomes available.","[""Lost Calls Cleared"",""Lost Calls Held"",""Lost Calls Delayed"",""None of these""]",2
+"The main terminal used as cross connection point for cables 300 pairs and above.","[""MTTC"",""MDF"",""DP"",""TTC""]",1
+"For PCM, the sampling theorem states that the sampling frequency must be _________ the highest frequency contained in the analog signal.","[""twice"",""more than twice"",""less than twice"",""equal to""]",1
+"a group of sixty voice channels with bandwidth of 240 kHz is called a","[""group"",""supergroup"",""mastergroup"",""jumbogroup""]",1
+"On the subscriber’s telephone set employing the touch tone technique, how many signals are transmitted to the telephone exchange for every button that is pressed?","[""2 VHF signals"",""1 VHF and 1 AF"",""2 AF tones"",""16 AF tones""]",2
+"An electronic circuit which is inserted into the 4-wire trunk path effectively to block the passage of reflected signal energy","[""Echo suppressor"",""Loading coil"",""Loop extender"",""Telephone amplifier""]",0
+"The following are signalling functions except:","[""Ringing signals"",""Address signals"",""Supervisory signals"",""None of these""]",3
+"The standard spacing for 19-D-88 cable loading code is","[""700 ft."",""6000 ft."",""4500 ft."",""3000 ft.""]",2
+"A telephone exchange has a subscriber loop limit of 1800 ohms, excluding the telephone instrument. What is the farthest distance, in miles, that a subscriber can be located away from the telephone exchange, if AWG 26 cable, which has a resistance of 431 ohms/loop mile, is used?","[""5.95"",""8.18"",""3.9"",""4.18""]",3
+"The Strowger or step-by-step system falls under what type of switching control system?","[""Manual"",""Progressive"",""Common"",""Automatic""]",1
+"For building telephone facilities, the size of entrance conduit shall not be less than _______ in diameter.","[""30 mm"",""50 mm"",""60 mm"",""75 mm""]",1
+"In telephony, tone dialing takes ________ time than pulse dialing.","[""Less"",""More"",""About the same"",""Can\u2019t be determined""]",0
+"A telephone service wherein calls are rerouted into a preassigned station is called _________.","[""Camp-On"",""Call Forwarding"",""Call Barring"",""Abbreviated Dialing""]",1
+"What type of control system crossbar switches are operating?","[""Manual"",""Progressive"",""Common"",""Automatic""]",2
+"PABX stands for","[""Private All-purpose Broadcasting Exchange"",""Private Automatic Branch Exchange"",""Public Access Bidirectional Exchange"",""Public Address Broadcasting Exchange""]",1
+"A trunk is","[""The base of a communication tower"",""A telephone line connecting two C.O.\u2019s"",""A line connecting one telephone set to the PABX"",""The structure where antenna are attached""]",1
+"The voice frequency channel pass band is:","[""0 to 4000 Hz"",""300 to 3000 Hz"",""To carry only speech"",""All of the preceding""]",0
+"What is used to transmit more than one conversation over a path?","[""Hybrid"",""Tandem"",""Multiplexing"",""All of the above""]",2
+"The common channel interoffice signalling method","[""Uses the same channel for signalling as for the related conversation"",""Is used on local loops"",""Uses a separate channel for signalling only"",""Comes the signalling for one related conversation""]",2
+"Telephone switching is accomplished by","[""Manual Switchboard"",""Step-by-step Switches"",""Crossbar switches"",""Any of the these""]",3
+"The telephone was invented by","[""James Watson"",""Alexander Graham Bell"",""Phillip Reis"",""Almon Strowger""]",1
+"A switching network capable of providing a path from every inlet link to every outlet link in the absence of traffic.","[""Concentration"",""Blocking"",""Full availability switch"",""Crosspoint""]",2
+"An exchange primarily used as a switching point for traffic between other exchanger is","[""Transfer system"",""Transit Exchange"",""Connecting point"",""Local Exchange""]",1
+"A telephone switch is an example of ________ switching","[""Packet"",""Message"",""Circuit"",""Virtual circuit""]",2
+"The local loop of a telephone system is","[""A two\u2013wire communication circuit between a customer\u2019s premise and the central office"",""A group of wires connecting a telephone set to a modem"",""A four wire circuit connecting a fax machine to a computer"",""A single piece of wire connecting the subscriber\u2019s telephone to another telephone set.""]",0
+"Identical telephone numbers in different parts of the country are distinguished by their","[""Access codes"",""Country codes"",""Trunk prefixes"",""Area codes""]",3
+"A telephone switching system with a capacity of 100 lines could assign telephone numbers from","[""0001 \u2013 1000"",""000 \u2013 999"",""0000 \u2013 1000"",""001 \u2013 999""]",1
+"The following are the building blocks of a Step-by-step Switching System except:","[""Marker"",""Line finder"",""Selector"",""Connector""]",0
+"Which has longer subscriber loop length, the Central Office Switching equipment having a resistance limit of","[""5000 ohms"",""1000 ohms"",""1500 ohms"",""2000 ohms""]",3
+"A fax transmission is usually at a _________ mode.","[""Simplex"",""Half duplex"",""Full duplex"",""Multiplex""]",1
+"A permanent circuit for private use within a communications network","[""Two-wire"",""4-wire"",""Switched"",""Leased""]",3
+"The class of exchange with the primary function of connecting central offices when a direct trunk is not available","[""Local"",""Gateway"",""Toll"",""Tandem""]",3
+"Dial tone, busy tone and ring back tones are example of __________ signals.","[""Supervisory"",""Address"",""Musical"",""Digital""]",0
+"How much time in seconds is saved if we use Touch Tone Dialing instead of Pulse Dialing to call telephone number 781-10-05?","[""3.55"",""7.75"",""7.55"",""7.15""]",1
+"With attenuation limit at 6 dB, what is the length of cable using gauge 26 with attenuation of 1.61 dB per km.","[""1.3 km"",""4.7 km"",""3.7 km"",""2.5 km""]",2
+"The maximum length for 1300-ohm signalling or loop resistance using AWG No. 26 wire with 133.9 ohm per km.","[""5.2 km"",""4.7 km"",""7.5 km"",""9.7 km""]",3
+"The minimum size for an entrance conduit for building telephone facilities.","[""50 mm"",""50 cm"",""65 mm"",""65 cm""]",0
+"The size of entrance conduit for a 100 pair entrance cable.","[""50 mm"",""65 mm"",""75 mm"",""100 mm""]",0
+"The backboard color for the house or riser cable","[""Yellow"",""White"",""Blue"",""Red""]",0
+"The maximum span from telephone pole to the building for an aerial entrance cable.","[""45 m"",""600 mm"",""30 m"",""5.5 m""]",2
+"The sampling period for telephone signals","[""8000 Hz"",""125 \u00b5sec"",""6400 Hz"",""100 \u00b5sec""]",1
+"The inability to interconnect two idle lines connected to a switching network due to all possible paths are in use","[""Concentration"",""Blocking"",""Full availability"",""Crosspoint""]",1
+"The minimum depth for an underground entrance conduit under areas used for vehicular traffic inside private property","[""300 mm"",""600 mm"",""50 mm"",""1 m""]",1
+"The minimum clearance for aerial entrance cables over areas accessible to pedestrians is","[""4.5 m"",""5.5 m"",""3.5 m"",""6.5 m""]",2
+"The steel gauge of the outdoor MTTC","[""16"",""18"",""20"",""22""]",0
+"PAM is:","[""A pulse system immune from noise"",""A digital system"",""A popular system for telephone transmissions"",""An analog system""]",3
+"A suitable sampling rate for a signal containing frequency components between 40 Hz and 4 kHz would be:","[""10 kHz"",""80 Hz"",""90 Hz"",""4.04 kHz""]",0
+"Quantization noise can be reduced by:","[""Taking samples at a faster rate"",""Using a PCM system"",""Increasing the number of standard amplitude"",""Using higher amplitude signals""]",2
+"The name of the device invented by Johann Philipp Reis in 1860 which could transmit a musical tone over a wire to a distance point.","[""Harmonic telegraph"",""Phonograph"",""Telephone"",""Radio""]",2
+"When was the first complete sentence ever transmitted by the telephone?","[""1860"",""1876"",""1892"",""1905""]",1
+"Who invented the first practical system for the electrical switching of calls installed in 1892?","[""Bell"",""Watson"",""Edison"",""Strowger""]",3
+"What part of the conventional telephone set transmitter and receiver unit are located?","[""Dial"",""Base"",""Keypad"",""Handset""]",3
+"The type of transmitter widely used in the conventional telephone set.","[""Carbon"",""Ceramic"",""Piezoelectric"",""Electromagnetic""]",0
+"Who invented the first carbon type transmitter?","[""Bell"",""Watson"",""Gray"",""Edison""]",3
+"The type of receiver widely used in the conventional telephone set","[""Electromagnetic"",""Ceramic"",""Carbon"",""Piezoelectric""]",0
+"How many unique tones are used for the 12-key dual-tone multi-frequency keypad?","[""2"",""4"",""7"",""12""]",2
+"In the telephone industry, BORSCHT functions are performed by","[""Subscriber line interface"",""Cross point matrix"",""Switching network"",""Connector switch""]",0
+"In the telephone unit, what is produced when the balancing network in a hybrid circuit is intentionally unbalanced slightly so that small amount of transmitted signal is fed to the receiver of the talking phone?","[""Dial tone"",""Side tone"",""Echo"",""Singing""]",1
+"The type of dialing possible for telephone set with rotary dial.","[""Tone dialing"",""Pulse dialing"",""Loop dialing"",""E &amp; m dialing""]",1
+"A 300 ohms line is terminated in a resistance load of 200 ohms, the VSWR is","[""0.65"",""1.5"",""Unity"",""Zero""]",1
+"If the reflection coefficient is 0.5, the standing wave ratio is","[""0.33"",""Unity"",""3"",""Zero""]",2
+"To least the fault of the given line, a signal is fed to the line, 30 µs later the signal returned. What is the distance of the fault?","[""9000 m"",""300 m"",""100 m"",""4500 m""]",3
+"The telephone set is powered by the central office on the ring side at","[""42 to 52 Vdc"",""\u201342 to -52 Vdc"",""24 to 64 Vdc"",""\u201324 to \u2013 64 Vdc""]",1
+"The telephone voice band frequency is from","[""300 to 4 kHz"",""400 to 3400 Hz"",""300 to 3400 Hz"",""400 to 4 kHz""]",2
+"Which of the following wire is used to transmit the signal?","[""Black"",""Yellow"",""Red"",""Green""]",3
+"The corresponding frequency for digit 7 in the touch tone telephone is","[""770 &amp; 1477 Hz"",""852 &amp; 1209 Hz"",""852 &amp; 1336 Hz"",""770 &amp; 1336 Hz""]",1
+"The physical connection between the telephone set and the switching equipment is called the","[""Trunk line"",""Link"",""Subscriber loop"",""Leased line""]",2
+"What is the local loop of a telephone system?","[""It is a two-wire or four-wire communication circuit between the customer\u2019s premise and the central office"",""It is a group of wires connecting a telephone set to a modern"",""It is a four-wire circuit connecting a facsimile machine to a computer"",""It is a single piece of wire connecting the subscriber\u2019s telephone set to another set in an adjacent room.""]",0
+"Which of the ff. equipment is used in long loop design?","[""Dial long lines"",""Voice repeater"",""Loop range extender"",""All of the above""]",3
+"What is a two-wire circuit?","[""A circuit usually in the subscriber loop, between the telephone set and the local central office."",""A circuit having only two terminals, both terminals having the same instantaneous voltage."",""A circuit with one input terminal, one output terminal, and a common ground."",""A circuit consisting of two transmission lines.""]",0
+"1 mW is equal to","[""90 dBm"",""0 dBm"",""-30 dBm"",""120 dBm""]",0
+"Which of the following responds to the request of a subscriber by sending a dial tone?","[""Line finder"",""First selector"",""Connector"",""Line equipment""]",1
+"The other name of Class 2 office in the North American Switching Plan.","[""Primary center"",""Section"",""Regional center"",""Toll points""]",1
+"A cell in the cellular telephone system means","[""A power source"",""Small area"",""Large area"",""Service area""]",1
+"What is the linking point between cell phone and regular telephone?","[""Base station"",""Control office"",""C.O."",""MTSO""]",3
+"What is the typical power output of a cellular phone?","[""5 W"",""10 W"",""1 W"",""3 W""]",3
+"When a single cell is divided into smaller cells that process is called","[""Cell splitting"",""Cell division"",""Reuse"",""Cell sharing""]",0
+"The first cell shape is a square","[""Square"",""Circle"",""Rectangle"",""Triangle""]",1
+"In order to provide 100% coverage without overlap, cellular telephone system can use","[""Hexagon cell shape"",""Triangle"",""Rectangular"",""All of the above""]",3
+"What is the beamwidth of the reflector of the receiving antenna in the base station","[""20 degrees"",""30 degrees"",""50 degrees"",""60 degrees""]",3
+"A cellular phone operates on","[""Half duplex"",""Full duplex"",""Echoplex"",""Lincomplex""]",1
+"Cellular phones transmit in the band from","[""825 to 845 MHz"",""835 to 855 MHz"",""825 to 855 MHz"",""825 to 865 MHz""]",0
+"Cell phone receives in the band from","[""860 to 880 MHz"",""870 to 890 MHz"",""870 to 880 MHz"",""860 to 890 MHz""]",1
+"What is the frequency separation between the transmit and the receive channels?","[""30 MHz"",""45 MHz"",""55 MHz"",""40 MHz""]",1
+"For channel 1, transmit/receive frequency is","[""825.030\/870.030 MHz"",""835.03\/880.03 MHz"",""825.015\/870.015 MHz"",""825.15\/870.15 MHz""]",2
+"The number of transmit/receive channels in the cellular system is","[""625"",""645"",""655"",""666""]",3
+"The transmission range of cellular telephony is generally about","[""80 km"",""65 km"",""160 km"",""16 km""]",0
+"One of the following is not an advantage of a cellular telephone system","[""Privacy"",""Large service area"",""No interference"",""Mobility""]",1
+"When the message is transferred from one cell site transmitter to another cell site transmitter as the caller crosses a boundary __________ process takes place.","[""Shifting"",""Hand off"",""Give off"",""Turn over""]",1
+"What is the sensitivity of a cellular receiver?","[""20 dB"",""40 dB"",""50 dB"",""60 dB""]",2
+"What is the frequency deviation of the cellular telephone system?","[""\u00b115 kHz"",""\u00b130 kHz"",""\u00b112 kHz"",""\u00b175 kHz""]",2
+"Hailing channel is otherwise known as","[""Conversation channel"",""Calling channel"",""Signaling channel"",""Remote channel""]",1
+"What is an Erlang?","[""It is a unit of magnetic field intensity measured around a conductor"",""It is the number of erroneous bits received per unit of time"",""It a unit of electrical energy radiated in space."",""It is equal to the number of simultaneous calls originated during a specific hourly period.""]",3
+"All of the cell base stations are linked together by _______ which serves as the central office and management node for the group.","[""MTS"",""IMTS"",""MSTO"",""MTSO""]",3
+"Provides interface between the mobile telephone switching office and the mobile units.","[""Database"",""Cell site"",""Terrestrial link"",""Radio transmitter""]",1
+"A phone call over the cellular network actually requires","[""Simplex channels"",""Half duplex channels"",""Full duplex channels"",""Full\/full duplex""]",2
+"A method of expressing the amplitudes of complex non-periodic signals such as speech.","[""Volume"",""Pitch"",""Frequency"",""Wavelength""]",0
+"_______ is signal returned to the talker after one or more round trips between the talker and the listener.","[""Singing"",""Echo"",""Jitter"",""Crosstalk""]",1
+"______ is a voice operated device that inserts a high loss in the opposite direction of transmission of the talking party.","[""Hybrid"",""2-wire circuit"",""Echo suppressor"",""VNL""]",2
+"_____ is picking up of the same station at two nearby points on the receiver dial.","[""Double spotting"",""Hot shot"",""Image frequency"",""Bail shot""]",0
+"When one channel picks up the signal carried by another channel.","[""Echo"",""Crosstalk"",""Party line"",""Crosslink""]",1
+"What type of connector arrangement wherein a customer may move to another location and still retain the same telephone number.","[""TPL"",""Bridge"",""TPS"",""Party line""]",2
+"It is an advantage of sidetone.","[""Transmission efficiency is increased"",""Speaker increase his voice resulting in a strengthened signal"",""No dissipation of energy in the balancing network"",""Assures the customer that the telephone is working""]",3
+"Radio communications between points using a single share frequency.","[""Simplex"",""Full duplex"",""Half-duplex"",""Full\/full duplex""]",2
+"The transmission of information from multiple sources occurring on the same facility but not as the same time.","[""FDM"",""TDM"",""WDM"",""CDM""]",1
+"When human voice and music are transmitted, the type of communication employed is known as","[""Radiotechnology"",""Audio frequency"",""Wired audio"",""Radiotelephony""]",3
+"Printed documents to be transmitted by fax are converted into baseband electric signal by the process of","[""Copying"",""Scanning"",""Modulation"",""Light variation""]",1
+"What is the most commonly used light sensor in a modern fax machine?","[""Phototube"",""Phototransistor"",""Liquid-crystal display"",""Charge couple device""]",3
+"Which resolution produces the best quality fax?","[""96 lines per inch"",""150 lines per inch"",""200 lines per inch"",""400 lines per inch""]",3
+"Group 2 fax uses which modulation?","[""SSB"",""FSK"",""Vestigial sideband AM"",""PSK""]",2
+"The most widely used fax standard is","[""Group 1"",""Group 2"",""Group 3"",""Group 4""]",2
+"Group 3 fax uses which modulation?","[""QAM"",""ASK"",""PSK"",""GFSK""]",0
+"Block calls held condition specified the held probability at a time period equal to an average holding time.","[""Erlang B"",""Erlang C"",""Erlang D"",""Poisson""]",3
+"What is an Echo?","[""A signal of the same amplitude but 180 degrees out of phase from the original signal and mixed with the original signal at the transmitter to produce a more intelligible output signal"",""A wave which has been reflected or otherwise returned with the sufficient magnitude and delay for it to be perceptible in some manner as a wave distinct from that directly transmitted."",""The signal having a higher frequency than the original and transmitted back to earth by a passive satellite."",""A reflected signal.""]",1
+"What is the system used by Personal Communication Network (PCN)?","[""TACS"",""Modified GSM"",""AMPS"",""CDMA""]",1
+"Termination refers to","[""Cutting both ends of a conductor"",""Disconnecting a line from a transmitter"",""Looking back impedance of a line with no load"",""Load connected to the output end of a transmission line""]",3
+"The multiple access used by Digital European Cordless Telephone (DECT)","[""CDMA"",""FDMA"",""TDMA"",""CDMA\/FDMA""]",2
+"Blocked calls delay condition specified delay probability","[""Erlang B"",""Erlang C"",""Erlang D"",""Poisson""]",1
+"Status information provided by telephone signaling.","[""Busy tone, dial tone and ringing"",""Congestion and call charge data"",""All of the above"",""None of the above""]",3
+"The modulation technique used by DECT.","[""GFSK"",""ASK"",""QAM"",""PSK""]",0
+"What is a four-wire circuit?","[""Is used between serving central offices for long-distance connections, with one pair being used for each direction of transmission."",""Is a circuit with three output terminals and one input terminal"",""Is an oscillator that produces four different frequencies simultaneously"",""A circuit consisting of four transmission lines.""]",0
+"Cellular CDMA system uses what modulation method?","[""GFSK"",""ASK"",""QAM"",""BPSK""]",3
+"PABX means","[""Private All-purpose Broadcasting Exchange"",""Private Automatic Branch Exchange"",""Public Access Bi-directional Exchange"",""Public Automatic Branch Exchange""]",1
+"What is the voted cellular digital standard at TIA?","[""Digital AMPS"",""GSM"",""CDMA"",""TACS""]",0
+"What is the number of channels for Band A and for Band B in Digital AMPS","[""832"",""416"",""666"",""888""]",1
+"The mobile-to-base frequency assignment for GSM system is","[""890-915 MHz"",""935-960 MHz"",""870-890 MHz"",""825-845 MHz""]",0
+"The range (in miles) of a cellular CDMA system.","[""13"",""30"",""45"",""20""]",0
+"In a cellular system, ________ is used to measure the spectrum efficiency.","[""Radio efficiency"",""Diversity"",""Frequency reuse"",""Radio capacity""]",3
+"Which of the following echo is completely out of control?","[""Worst echo"",""Reverberation"",""Singing"",""Feedback""]",2
+"Which of the following devices increase the battery voltage on a loop and extends its signaling range?","[""Loop extender"",""VF repeater"",""VF amplifier"",""All of these""]",0
+"Under ordinary circumstances, the CCITT recommends that the number of circuits in tandem must not exceed","[""9"",""10"",""11"",""12""]",3
+"What is the system capacity of AMPS?","[""30,000"",""60,000"",""100,000"",""120,000""]",2
+"NAM means","[""Non Alternable Memory"",""Numeric Allocation Module"",""Numeric Assignment Module"",""Numeric Access Module""]",2
+"A mobile telephone service using trunked channels but not cellular nature","[""IMTS"",""MTSO"",""IMSI"",""IMEI""]",0
+"The GSM cellular radio system uses GMSK in a 200-kHz, with a channel data rate of 270.833 kbps. Calculate the frequency shift between mark and space in kHz?","[""135.4165"",""153.6514"",""315.4651"",""513.1654""]",0
+"A cellular system is capable of coping with a handoffs once every 2 minutes. What is the maximum cell radius if the system must be capable of working with cars traveling at highway speed of 120 km/hr?","[""3 km"",""1 km"",""4 km"",""6 km""]",1
+"Radio communication operation service between mobile and land stations or between mobile stations.","[""land mobile"",""land mobile satellite service"",""mobile service"",""maritime mobile service""]",2
+"A multiple access technique used in GSM cellular system.","[""FDMA"",""CDMA"",""TDMA"",""TACS""]",2
+"This is the Nordic analog mobile radio telephone system originally used in Scandinavia","[""NMT"",""GSM"",""PCN"",""PCS""]",0
+"The combination of the mobile cellular phone and the cell-site radio equipment is known as","[""forward link"",""base transceiver station"",""air interface"",""base station controller""]",2
+"The duplex frequency of GSM","[""40 MHz"",""80 MHz"",""120 MHz"",""30 MHz""]",1
+"The channel separation of GSM channel","[""270 kHz"",""200 kHz"",""120 kHz"",""60 kHz""]",1
+"The number of control channels for AMPS","[""25"",""23"",""21"",""19""]",2
+"The modulation technique used audio signal for TACS","[""FM"",""FSK"",""TFSK"",""QAM""]",0
+"Speech coding rate for GSM","[""80 kbps"",""25 kbps"",""21 kbps"",""13 kbps""]",3
+"Number of channels for GSM","[""333"",""666"",""124"",""248""]",2
+"It is a database that contains information about the identity of mobile equipment that prevents calls from stolen, unauthorized, or defective mobile stations.","[""Equipment Identity Register"",""Authentication Center"",""Home Location Register"",""Visitor Location Register""]",0
+"It provides all the control functions and physical links between the MSC and BTS","[""OSS"",""OMC"",""MSC"",""BSC""]",3
+"It is the functional entity from which the operator monitors and controls the mobile communication system.","[""Operation and Maintenance System"",""Mobile Switching Center"",""Gateway Mobile Switching Center"",""Operation and Support System""]",3
+"A node in the switching system of GSM that provides integrated voice, fax and data messaging.","[""Gateway Mobile Switching Center"",""Mobile Service Node"",""GSM Internetworking Unit"",""Message Center""]",3
+"It is a node in the switching system of GSM that handles mobile intelligent network services.","[""Message Center"",""Gateway Mobile Switching Center"",""Mobile Service Unit"",""Mobile Switching Center""]",2
+"The modulation scheme used for NADC","[""NFSK"",""Quarter wavelength Shifted QPSK"",""GFSK"",""Trellis coding""]",1
+"What type of modulation is used by a standard analog cordless telephone?","[""AM"",""FM"",""PSK"",""WAM""]",1
+"It is the process in which the same set of frequencies can be allocated to more than one cell, provided that the cells are separated by a sufficient distance","[""frequency reuse"",""handoff"",""clustering"",""radio survey""]",0
+"The maximum frequency deviation of an FM cellular transmitter is","[""6 kHz"",""12 kHz"",""30 kHz"",""45 kHz""]",1
+"The number of dedicated lines used to interconnect 100 parties","[""99 lines"",""1250 lines"",""4950 lines"",""3450 lines""]",2
+"These are unused sections of cables that are connected in shunt working cable pair, such as a local loop. They are used for party lines to connect to the same local loop.","[""cross-connect loop"",""drop wire tap"",""bridge tap"",""wire tap""]",2
+"The central office detects a request for service from a telephone by","[""A flow of loop current"",""No loop current"",""A ringing signal"",""Dial pulses""]",0
+"Which office local is the local central office?","[""2"",""3"",""4"",""5""]",3
+"Which exchange is used to connect between central offices when a direct trunk is not available?","[""Local"",""Tandem"",""Toll"",""Any of the above""]",1
+"Which of the following is a type of dc signaling?","[""Loop current"",""Reverse battery"",""E and M"",""All of the above""]",3
+"The voice frequency channel pass band is","[""0 to 4000 Hz"",""300 to 3000 Hz"",""8140 to 8188 Hz"",""None of the above""]",0
+"What is used to transmit more than one conversation over a path?","[""Hybrid"",""Tandem"",""Multiplexing"",""All of the above""]",2
+"The common channel signaling method","[""Uses the same channel for signaling as for the related conversation"",""Uses a separate channel for signaling only"",""Carries the signaling for only one related conversation"",""Is used on local loops""]",1
+"Telephone switching is accomplished by","[""Manual switchboard"",""Step-by-step switches"",""Crossbar switches"",""Any of the above""]",3
+"The step-by-step switch","[""Was invented by Strowger"",""Generates much noise"",""Cannot operate directly from DTMF tones"",""All of the above""]",3
+"Time division multiplexing is used for","[""Analog transmission"",""Digital transmission"",""Both of the above"",""None of the above""]",1
+"What type of transmitter is most commonly used in a conventional telephone handset?","[""Carbon"",""Electromagnetic"",""Electret"",""Ceramic""]",0
+"Which component in the telephone set has the primary function of compensating for the local loop length?","[""Resistor"",""Varistor"",""Capacitor"",""Induction coil""]",1
+"What type of receiver is most commonly used in a conventional telephone handset?","[""Carbon"",""Electromagnetic"",""Electret"",""Ceramic""]",1
+"Which component in the telephone set has the primary function of interfacing the handset to the local loop?","[""Resistor"",""Varistor"",""Capacitor"",""Induction coil""]",3
+"How many unique tones are used for the 12-key dual-tone multi-frequency keypad?","[""2"",""3"",""7"",""12""]",2
+"Which of the following are important for the proper interface of a DTMF generator to the telephone line?","[""Impedance"",""Tone amplitude"",""Loop current"",""All of the above""]",3
+"The anti-tinkle circuit","[""Prevents tampering with the telephone"",""Prevents dial pulsing from ringing the bell"",""Prevents speech signals from ringing the bell"",""All of the above""]",1
+"The sidetone is","[""A type of feedback"",""Determined by the balancing network"",""Permits the talker to hear his\/her own voice"",""All of the above""]",3
+"On-hook current must be kept low so that the","[""Line relays in the central office will not mistake it for off-hook current"",""Comparatively small wires in the cables will not overheat"",""Ringer will not ring incorrectly"",""Carbon microphone will not be damaged""]",0
+"Overvoltage protection is","[""Needed in the telephone set because of the high ringing voltage"",""Is nearly always incorporated in the IC chip"",""Is primarily a central office function"",""Needed because of transients from dial pulsing, lightning, induction or short circuit""]",3
+"A special rectifier bridge is used in electronic telephone because","[""The ac power must be converted to dc to simulate a battery"",""it is necessary to shunt the speech frequencies and keep them off of the loop"",""the voltage drop across conventional bridges leaves too little voltage to operate the set"",""All of the above""]",2
+"Voltage and current regulation","[""Is provided by the central office"",""Is needed to ensure proper IC operation"",""Can be performed by circuits built into the IC"",""B and C above""]",3
+"Memory is added to the telephone set to","[""Allow more digits to be dialed"",""Allow faster dialing"",""Allow automatic redialing of the last number dialed"",""None of the above""]",2
+"What is the function of the diode rectifier bridge in the line circuit?","[""Lower the voltage to the telephone electronics"",""Raise the voltage to the telephone electronics"",""Short out the line when the set is on-hook"",""Protect the set against polarity reversals on the line""]",3
+"What bad electrical effect happens when the switch-hook is opened?","[""A high voltage transient is generated"",""The line is shorted out"",""The line is opened"",""No bad effects happen""]",0
+"Pulse dialing occurs at the rate of","[""20 pulses per minute"",""10 pulses per minute"",""10 pulses per second"",""80 pulses per second""]",2
+"How many different tones may be produced by a four-column DTMF keypad?","[""2"",""8"",""4"",""16""]",3
+"What is the advantage of electronic ringers?","[""Louder volume"",""Smaller size"",""Good directionality"",""Greater weight""]",1
+"What function are provided in a multi-tone ringing generator?","[""Anti-tinkle circuitry"",""Tone generation"",""Output amplifier"",""All of the above""]",3
+"The DTMF generator in an electronic phone produces tones using a(an)","[""LC circuit"",""RC circuit"",""Digital divider circuit"",""Digital multiplier circuit""]",3
+"Which function is not required in an integrated telephone circuit?","[""Regulator"",""Dialer"",""Visual display"",""Speech network""]",2
+"Transient protection is provided for integrated telephone circuits is typically provided by","[""Bridge rectifiers"",""Zener diodes"",""Inductors"",""Capacitors""]",1
+"Speakerphones operate in","[""Full-duplex mode"",""Half-duplex mode"",""Open-duplex mode"",""Computer mode""]",1
+"Sampling the analog wave produces","[""Impulse noise"",""Phase distortion"",""Pulse amplitude modulation"",""Frequency coherence""]",2
+"The simplest form of coding is","[""Diphase"",""Hybrid"",""Compressed"",""Linear""]",3
+"In digital multiplexing systems, bit interleaving is used in","[""Lower level systems"",""Higher level systems"",""To interleave a code word"",""All of the above""]",1
+"Synchronous multiplexed systems have the time placement of bits","[""Dedicated"",""Unassigned"",""Random"",""As required""]",0
+"A synchronous multiplexed systems are used","[""Mostly for voice transmission"",""Mostly for data transmission"",""To carry only speech information"",""All of the above""]",1
+"Fold-over distortion or aliasing is","[""Eliminated by filtering out the frequencies below 300 Hz"",""Another name for crosstalk"",""The presence of spurious frequencies caused by having too high frequencies in the sampled signal"",""None of the above""]",2
+"Multiplexer systems used in the public network are of the ______ type.","[""Synchronous"",""Plesiochronous"",""Asynchronous"",""Isochronous""]",0
+"The line coding scheme used for the DS-1 signal is","[""Non-return-to-zero"",""Binary 3 zero-substitutions"",""Ternary"",""Bipolar""]",3
+"Modems are required to connect to telephone lines because","[""The telephone network bandwidth is too high"",""The telephone network will not pass direct current"",""Telephone company rules require them"",""None of the above""]",1
+"The most common technique for binary data transmission","[""Bisynchronous transmission"",""Synchronous transmission"",""Asynchronous transmission"",""Plesiochronous transmission""]",2
+"Asynchronous data transmission requires a clock","[""At the transmitter end"",""At the receiver end"",""At neither end"",""At both ends""]",3
+"What kind of modulation is used in modems?","[""Phase modulation"",""Frequency modulation"",""Amplitude modulation"",""All of the above""]",3
+"The parameter that most affects transmission of the high speed modem data is","[""Phase distortion"",""Amplitude distortion"",""Frequency shift"",""Impulse noise""]",0
+"Protocols may be","[""Bit oriented"",""Byte oriented"",""Character oriented"",""All of the above""]",3
+"The telephone network is being converted to digital operation primarily to","[""Carry digital computer data"",""Reduce costs"",""Improve speech quality"",""Increase system capacity""]",1
+"A code for a 64-interval must produce how many bits?","[""2"",""10"",""8"",""7""]",3
+"Mobile cellular transmitter have a maximum output power of","[""1 mW"",""10 W"",""3 W"",""500 mW""]",2
+"A province in the Philippines has an area of 2000 sq km. it has to be covered by cellular mobile telephone service using cells with a radius of 2 km. assuming hexagonal cells, find the number of cell sites needed.","[""154"",""144"",""145"",""132""]",2
+"IS-95 system uses direct sequence spread spectrum with a chipping rate of","[""1.23 MHz"",""200 kHz"",""500 MHz"",""10.7 MHz""]",0
+"Modulation scheme used by cellular CDMA system","[""BPSK"",""QPSK"",""QAM"",""GFSK""]",0
+"How often will hand-offs occur when vehicle travels through a CMTS at 100 km per hour speed if the distance between cell sites is 10 km?","[""6 mins"",""12 mins"",""395 sec"",""10 hrs""]",1
+"The TACS base station frequency range of operation","[""821-849 MHz and 869-894 MHz"",""890-915 MHz and 935-960 MHz"",""870-885 MHz and 925-940 MHz"",""825-890 MHz and 925-970 MHz""]",1
+"The antenna separation required in a cellular system when the antenna height at the base is 15 m is","[""5.477 m"",""1.364 m"",""4.869 m"",""2.434 m""]",1
+"What type of modulation is used by a standard analog cordless telephone?","[""AM"",""FM"",""PSK"",""WAM""]",1
+"Cellular communication began in","[""1977"",""1956"",""1983"",""1999""]",2
+"When calculating the data rates for LMDS, capacity is the number of cell sites multiplied by which of the following?","[""The capacity per cell site"",""The number of cells"",""The number of sectors in the cell site"",""The sector capacity""]",0
+"The name for an alternative form of cellular communication which operates in specialized mobile radio band just adjacent to the cellular frequency band. It is a blend of wireless interconnects and dispatch services which makes it very unique compared to existing cellular and PCS systems","[""iDEN"",""CDMA"",""JTACS"",""PDC""]",0
+"The MTSO is responsible for ______.","[""Connecting the cell with the telephone central office"",""Assigning channels for retransmission"",""Billing function"",""All of the above""]",3
+"The master control center for a cellular telephone system is the","[""Cell site"",""Mobile telephone switching office"",""Central office"",""Branch office""]",1
+"The IS-54 system uses TDMA with three calls per 30 kHz channel. The modulation used is","[""PSK"",""FM"",""DQPSK"",""QAM""]",2
+"Which of the following is used to estimate the distance that a subscriber can be located while still achieving acceptable reliability?","[""Call-size selection"",""Link budget"",""Capital cost model"",""Cell design""]",1
+"It is a spread spectrum technology that relies on time-division duplexing","[""IS-661"",""IS-136"",""PCS 1900"",""PDC""]",0
+"Which of the following is not a 3G system?","[""IMT-2000"",""WCDMA"",""UMTS"",""TDMA IS-136""]",3
+"The unlicensed national information infrastructure band","[""5 GHz"",""54 GHz"",""2.4 GHZ"",""880 MHz""]",0
+"Cellular radios use FM with a maximum deviation of plus or minus __","[""12 kHz"",""20 kHz"",""15 kHz"",""30 kHz""]",0
+"IS-136, IS-95 and iDEN belong to","[""1G"",""2G"",""2.5G"",""3G""]",1
+"A wireless data communication service, standard or technology in which data packets are transmitted","[""EDGE"",""GPRS"",""CDMAOne"",""IS-136""]",1
+"IEEE standard pertaining to wireless networks","[""802.6"",""802.11"",""802.12"",""802.15""]",1
+"Soft handoff is a flawless handoff which normally takes ___., which is imperceptible to voice telephone users.","[""300 ms"",""600 ms"",""200 ms"",""500 ms""]",2
+"A Bluetooth network can have ___ master(s).","[""One"",""Two"",""Three"",""Eight""]",0
+"The GSM system uses the 890- to 915- and 935- to 960-MHz frequency range. There are 124 25 kHz channels spaced 200 kHz intervals. The modulation is ______.","[""GMSK"",""QPSK"",""MSK"",""GFSK""]",0
+"Which of the following is not included in the LMDS network management?","[""Fault management"",""Configuration management"",""Accounting management"",""Tower management""]",3
+"A ___ is a computerized center that is responsible for connecting calls, recording call information and billing","[""Base station"",""Mobile switching center"",""Cell"",""Mobile station""]",1
+"What determine the size of the cell?","[""The area terrain"",""The area population"",""The number of MTSOs"",""All of the above""]",1
+"LDMS is an acronym for which of the following?","[""Link multipoint digital service"",""Local multipoint distribution service"",""Low-speed multiple data streams"",""Local multimedia distribution service""]",3
+"In ___, a mobile station always communicates with just one base station.","[""Roaming"",""A hard handoff"",""A soft handoff"",""A roaming handoff""]",1
+"LDMS optimizes frequency reuses by optimizing which of the following?","[""Minimizing multipathing"",""Cross polarization"",""Sectoring the distribution system"",""All of the above""]",3
+"In cellular telephony, a service area is divided into small regions called _____.","[""Cells"",""Cell offices"",""MTSOs"",""Relay sites""]",0
+"_______ is a first generation cellular phone system","[""AMPS"",""D-AMPS"",""GSM"",""IS-95""]",0
+"______ is a cellular telephone system popular in Europe.","[""AMPS"",""D-AMPS"",""GSM"",""IS-95""]",2
+"IS-95 has a frequency reuse factor of","[""1"",""5"",""7"",""95""]",0
+"________ base stations use GPS for synchronization.","[""AMPS"",""D-AMPS"",""GSM"",""IS-95""]",3
+"NMT is a cellular standard developed by the Nordic countries of Sweden. Denmark, Finland, and Norway in ______.","[""1983"",""1989"",""1981"",""1980""]",2
+"Cellular receiver sensitivity","[""50 dB"",""40 dB"",""20 dB"",""35 dB""]",0
+"When a single cell is subdivided into smaller cells, the process is called","[""Cell division"",""Cell sharing"",""Cell splitting"",""Cell reuse""]",2
+"What modulation technique uses digital modulation technique?","[""BPSK"",""QPSK"",""GFSK"",""GMSK""]",3
+"Supervisor audio tone frequency","[""6000 Hz"",""6010 Hz"",""5960 Hz"",""6040 Hz""]",0
+"Spacing between the simultaneously used transmit and receive frequencies is","[""45 MHz"",""30 kHz"",""12kHz"",""200 kHz""]",0
+"Each cell site contains a","[""Repeater"",""Control computer"",""Direct link to a branch exchange"",""Touch-tone processor""]",0
+"Cellular telephones use what type of operation?","[""Simplex"",""Half-duplex"",""Full-duplex"",""Triplex""]",2
+"In a cellular radio, the duplexer is a","[""Ferrite isolator"",""Waveguide assemble"",""Pair of TR\/ATR tubes"",""Pair of sharp bandpass filters""]",3
+"The output of a cellular radio is controlled by the","[""User or caller"",""Cell site"",""AMPS"",""MTSO""]",3
+"What is the system used by Personal Communications Network?","[""PCS 1900"",""Modified GSM"",""AMPS"",""DCS 1800""]",1
+"Multiple access scheme used by DECT","[""CDMA"",""FDMA\/CDMA"",""TDMA"",""FDMA""]",2
+"Voted cellular digital standard at TIA","[""IS-136"",""AMPS"",""PCS 1900"",""PDC""]",0
+"The chipping rate of WCDMA (UMTS)","[""1.25 Mcps"",""3.6484 Mcps"",""3.84 Mcps"",""1.22 Mcps""]",2
+"A technique that divides the group of channels into smaller groupings or segments of mutually exclusive frequencies; cell sites, which are within the reuse distance is assigned their own segment of the channel group","[""sectoring"",""dualization"",""partitioning"",""segmentation""]",3
+"The actual voice channel where mobile users communicate directly with other mobile or wireline subscriber through the base station","[""control channel"",""forward channel"",""reverse channel"",""voice channel""]",3
+"Supervisory Audio Tones(SAT) have the following frequencies except:","[""5940 Hz"",""5970 Hz"",""6000 Hz"",""6030 Hz""]",0
+"Each cell site contains a","[""Repeater"",""Control computer"",""Direct-link to a branch exchange"",""Touch-tone processor""]",0
+"A class II mobile phone using AMPS has an ERP of","[""\u20136 dBW"",""\u20134 dBW"",""2 dBW"",""6 dBW""]",2
+"The wideband designation in Wideband-CDMA (WCDMA) denotes a bandwidth of","[""2.5 MHz"",""3 MHz"",""4.5 MHz"",""5 MHz""]",3
+"An automobile travels at 60 km/hr. Find the time between fades in the car uses a PCS phone at 1900 MHz.","[""2.4 ms"",""3.4 ms"",""4.7 ms"",""5.1 ms""]",2
+"A cellular system is capable of coping with handoffs once every 2 minutes. Suppose this system is in the city with maximum car speeds of 65km/hr. What is the maximum cell radius for this urban system?","[""1.08 km"",""3 km"",""5 km"",""2 km""]",0
+"How wide is the spectrum bandwidth of a single GSM carrier?","[""16 kHz"",""200 kHz"",""100 kHz"",""50 kHz""]",1
+"Changing the time order of digital information before transmission to reduce the effect of burst errors in the channel.","[""progression"",""interleaving"",""epoch"",""raking""]",1
+"The bandwidth of WCDMA is ___ times larger than GSM.","[""5"",""15"",""20"",""25""]",3
+"It is the process in which the same set of frequencies can be allocated to more than one cell, provided that the cells are separated by a sufficient distance","[""frequency reuse"",""handoff"",""clustering"",""radio survey""]",0
+"A connection is momentarily broken during the cell-to-cell transfer is called ______.","[""hard handoff"",""soft handoff"",""medium handoff"",""light handoff""]",0
+"Transmission from mobile stations to the base stations is called","[""forward link"",""reverse link"",""control link"",""user link""]",1
+"It is a database in the PCS network that stores information about the user, including home subscription information and what supplementary services the user is subscribed to.","[""visitor location register"",""home location register"",""equipment identification register"",""authentication register""]",1
+"Determine the transmit power for a CDMA mobile unit that is receiving a signal from the base station at 100 dBm","[""12 dBm"",""24 dBm"",""36 dBm"",""14 dBm""]",1
+"When transmitting digital information, voice transmission is inhibited, this is called ______.","[""quieting"",""muting"",""blank-and-burst"",""any of these""]",2
+"A metropolitan area of 1000 square km is to be covered by cells with a radius of 2 km. How many cell sites would be required, assuming hexagonal cells?","[""72"",""73"",""74"",""75""]",1
+"Refers to a land station in a maritime mobile services","[""coast station"",""maritime station"",""coast earth station"",""ship earth station""]",0
+"Class of orthogonal spreading coded used in CDMA communication.","[""Color code"",""Walsh code"",""PCS code"",""CDMA""]",1
+"In a spread spectrum system, the tendency for a stronger signals to interfere with the reception of weaker signals.","[""near-far field"",""near-far effect"",""direct-sequence"",""spread-spectrum""]",1
+"Macrocells have base stations transmit power between _____.","[""3 W to 7 W"",""1 W to 6 W"",""2 W to 8 W"",""0.1 W to 5 W""]",1
+"It is when the area of a cell, or independent component coverage areas of a cellular system, is further divided, thus creating more cell areas.","[""cell splitting"",""cell clustering"",""cell partitioning"",""cell sectoring""]",0
+"It is when a mobile unit moves from one cell to another from one company’s service area to another company’s service area.","[""roaming"",""handoff"",""handover"",""paging""]",0
+"It is a 34-bit binary code that represents the 10-digit telephone number","[""electronic serial number"",""system identification"",""digital color code"",""mobile identification number""]",3
+"The bandwidth of WCDMA is __ times larger than CDMAone.","[""4"",""5"",""6"",""7""]",0
+"Receive channel 22 is 870.66 MHz. Receive channel 23 is","[""870.36 MHz"",""870.63 MHz"",""870.96 MHz"",""870.69 MHz""]",3
+"In mobile wireless communication, the radio equipment and the propagation path","[""FSL"",""air interface"",""direct link"",""mobile interface""]",1
+"The signaling one may be transmitted on the voice channel during a call in what frequency?","[""25 kHz"",""20 kHz"",""15 kHz"",""10 kHz""]",3
+"Station in the mobile service not intended to be used while in motion.","[""base station"",""fixed station"",""coast station"",""land station""]",3
+"In the GSM system, a “smart card” containing all user information, which is inserted into the phone before use.","[""IMSI"",""IMEI"",""IMTS"",""SIM""]",3
+"Determine the number of channels per cluster of a cellular telephone area comprised of 10 clusters with seven cells in each cluster and 10 channels in each cell.","[""70 channels per cluster"",""700 channels per cluster"",""7000 channels per cluster"",""7 channels per cluster""]",0
+"Determine the channel capacity if 7 macrocells with 10 channels per cell is split into 4 minicells","[""120 channels per area"",""360 channels per area"",""280 channels per area"",""460 channels per area""]",2
+"Technique of spread spectrum that breaks message into fixed-size blocks of data with each block transmitted in sequence except on the different carrier frequency.","[""spread spectrum"",""time-division multiplexing"",""frequency-hopping"",""direct sequence""]",2
+"A base and mobile is separated by 5 km. What is the propagation time for a signal traveling between them?","[""14.5 \u00b5sec"",""18.9 \u00b5sec"",""20.8 \u00b5sec"",""16.7 \u00b5sec""]",3
+"A digital identification associated with a cellular system","[""MIN"",""ESN"",""SAT"",""SIM""]",0
+"A new regulation issued by the National Telecommunications Commission providing for the guideline for mobile personal communication having a global coverage using satellite.","[""NMT"",""GMPCS"",""GSM"",""TACS""]",1
+"The following are the typical cluster size except","[""3"",""7"",""12"",""15""]",3
+"Provides a centralized administration and maintenance point for the entire network end interfaces with the public telephone network through the telephone wireline voice trunks and data links","[""PSTN"",""MTSO"",""central offices"",""MSC""]",1
+"It is a digital telephone exchange located in the MTSO that is the heart of a telephone system","[""mobile switching center"",""electronic switching center"",""gateway switching center"",""electronic mobile switching center""]",1
+"A database in the PCS network that stores information pertaining to the identification and type of equipment that exist in the mobile unit.","[""visitor location register"",""home location register"",""equipment identification register"",""authentication register""]",2
+"When a signal from a mobile cellular unit drops below a certain level, what action occurs?","[""The unit is \u201chanded off\u201d to a closer cell."",""The call is terminated."",""The MTSO increases power level."",""The cell site switches antenna.""]",0
+"A method of transmitting data on AMPS cellular telephone voice channels that are temporary unused.","[""cellular digital packet data"",""digital color code"",""control mobile attenuation code"",""electronic serial code""]",0
+"A vehicle travels through a cellular system at 100 km per hour. Approximately how often will handoffs occur if the cell radius is 10 km.","[""12 min"",""14 min"",""16 min"",""18 min""]",0
+"In the GSM system, a telephone number that is unique to a given user, worldwide.","[""IMTS"",""IMEI"",""IMSI"",""SIM""]",2
+"An area divided into hexagonal shapes that fit together to form a honeycomb pattern is called ______.","[""cluster"",""transport area"",""cell"",""area of responsibility""]",2
+"Determine the channel capacity of a cellular telephone area comprised of twelve macrocell with ten channels per cell","[""12 channels per area"",""120 channels per area"",""1200 channels per area"",""12000 channels per area""]",1
+"Transmission from base stations to mobile stations is called ____.","[""forward link"",""reverse link"",""control link"",""user link""]",0
+"EDGE channel size is about","[""250 kHz"",""200 kHz"",""150 kHz"",""100 kHz""]",1
+"A switching facility connecting cellular telephone base stations to each other and to the public switched telephone network.","[""MTSO"",""MSC"",""VLR"",""AuC""]",1
+"A radio land station in the land mobile service","[""land station"",""ship earth station"",""base station"",""mobile station""]",2
+"Transmission of brief text messages, such as pages or e-mail, by cellular radio or PCS.","[""SMS"",""MMS"",""paging"",""raking""]",0
+"The point when the cell reaches maximum capacity occurs when the number of subscribers wishing to place a call at any given time equals the number of channels in the cell","[""saturation"",""blocking traffic"",""maximum traffic load"",""any of these""]",2
+"In IS-41 standard, it is a process where the mobile unit notifies a serving MTSO of its presence and location through a base station controller.","[""dependent registration"",""autonomous registration"",""air interface"",""BTS to BSC interface""]",1
+"Cellular telephones use which operation?","[""simplex"",""half-duplex"",""full-duplex"",""triplex""]",2
+"A receiver capable of receiving several versions of the same signal with different arrival times and combining the received versions into a single signal with better quality","[""scanners"",""rake receivers"",""mobile subscriber unit"",""mobile stations""]",1
+"In CMTS, the most important database for GSM is ____.","[""VLR"",""HLR"",""BTS"",""AUC""]",1
+"In CMTS, the number of duplex voice channels for AMPS is ____.","[""676"",""285"",""395"",""790""]",2
+"A geographic cellular radio coverage area containing three of more group of cells","[""cluster"",""cell"",""radio channel"",""MSC\/VLR area""]",0
+"A flawless cell-to-cell transfer is called ____.","[""hard handoff"",""soft handoff"",""heavy handoff"",""light handoff""]",1
+"The bit length of System Identification (SID)","[""32"",""15"",""10"",""8""]",1
+"The RF power output of a transmitter in a cellular mobile telephone system authorized by NTC for use in the Philippines.","[""20.5 dBm"",""31.5 dBm"",""34.8 dBm"",""22.1 dBm""]",3
+"A class III mobile phone using AMPS has an ERP of","[""4 W"",""1.6 W"",""600 mW"",""1.4 W""]",2
+"____ is measuring the propagated field strength over the projected service area.","[""radio monitoring"",""radio sounding"",""radio survey"",""none of these""]",2
+"Transmission of data in two directions on a channel by using different time slots for each directions.","[""time-division multiplexing"",""time-division multiple access"",""time-division duplexing"",""time-division""]",2
+"When the cluster size is reduced with a constant cell size, what happens to the total channel capacity?","[""decreases"",""increases"",""stays constant"",""depends on the number of cell cites""]",1
+"The transfer of a mobile unit from one base station’s control to another base station’s control","[""handoff"",""paging"",""roaming"",""dualization""]",0
+"What is the frequency deviation of AMPS?","[""12 kHz"",""6 kHz"",""3 kHz"",""18 kHz""]",0
+"The bit length of Digital Color Code (DCC)","[""2"",""3"",""4"",""5""]",0
+"A transmit channel has a frequency of 837.6 MHz. The receive channel frequency is","[""729.6 MHz"",""837.6 MHz"",""867.6 MHz"",""882.6 MHz""]",3
+"A frequency-hopping spread-spectrum system hops to each of 100 frequencies every 10 seconds. How long does it spread on each frequency?","[""0.2 sec\/hop"",""0.4 sec\/hop"",""0.3 sec\/hop"",""0.1 sec\/hop""]",3
+"What is the transmission rate of a GSM cellular system?","[""128 kbps"",""240 kbps"",""64 kbps"",""270 kbps""]",3
+"A card with an embedded integrated circuit that can be used for functions such as storing subscriber information for a PCS system.","[""smart card"",""SIM"",""Intelligent card"",""Credit card""]",0
+"It is a means of avoiding full-cell splitting where the entire area would otherwise need to be segmented into smaller cells.","[""segmentations"",""dualization"",""sectoring"",""splitting""]",1
+"A channel used for transferring control and diagnostic information between mobile users and a central cellular telephone switch through the base stations.","[""forward channel"",""voice channel"",""control channel"",""reverse channel""]",2
+"It is the provision of voice communication using internet protocol technology, instead of traditional circuit switched technology.","[""WAP"",""GPRS"",""VOIP"",""WIFI""]",2
+"Determine the total number of channel capacity of a cellular telephone area comprised of 10 clusters with seven cells in each cluster and 10 channels in each cell.","[""7 channels"",""70 channels"",""700 channels"",""7000 channels""]",2
+"Technique used in spread spectrum that adds a high-bit rate pseudorandom code to a low bit rate information signal to generate a high-bit rate pseudorandom signal closely resembling noise that contains both the original data signal and pseudorandom noise.","[""direct-sequence"",""frequency-division multiplexing"",""frequency hopping"",""CDMA""]",0
+"Refers to the first generation of local loop system in telecommunication technology","[""TACS"",""DECT"",""Analog cellular"",""GSM""]",2
+"An information sent by the base station in a cellular radio system set the power level of the mobile transmitter.","[""cellular digital packet data"",""digital color code"",""control mobile attenuation code"",""electronic serial code""]",2
+"A 32-bit binary code permanently assigned to each of the mobile unit","[""supervisory audio tone"",""station class mark"",""electronic serial number"",""visitor location register""]",2
+"It serves as central control for all users within that cell","[""base stations"",""antennas"",""transceivers"",""mobile subscriber units""]",0
+"What modulation technique is used by Advanced Mobile Phone System (AMPS)","[""WBFM"",""VSB"",""NBFM"",""FSK""]",2
+"A database in the PCS network that stores information about subscribers in a particular MTSO serving area","[""international mobile subscriber identification"",""visitor location register"",""home location register"",""authentication register""]",1
+"In cellular phone, a memory location that stores the telephone number(s) to be used on the system.","[""EPROM"",""UVPROM"",""EEPROM"",""NAM""]",3
+"A province in the Philippines has an area 2000 sq. kms. It has to be covered by a cellular mobile telephone service using cells with a radius of 3 kms. Assuming hexagonal cells, find the number of cell sites needed.","[""100"",""500"",""166"",""145""]",3
+"The modulation technique used by GSM cellular system.","[""QAM"",""Phase Shift Keying"",""Gaussian Minimum Shift Keying"",""Frequency Shift Keying""]",2
+"Microcells have base stations transmit power between ____.","[""0.4 W to 0.7 W"",""1 W to 6 W"",""0.5 W to 8 W"",""0.1 W to 1 W""]",3
+"Determine the receive carrier frequencies for AMPS channel 3 and channel 991","[""870.09 MHz and 869.04 MHz"",""879.09 MHz and 859.04 MHz"",""869.09 MHz and 870.04 MHz"",""869.04 MHz and 870.09 MHz""]",0
+"Decreasing co-channel interference while increasing capacity by using directional antenna is called ____.","[""clustering"",""splitting"",""partitioning"",""sectoring""]",3
+"Soft handoff normally takes ____ of time delay.","[""400 ms"",""300 ms"",""200 ms"",""100 ms""]",2
+"Component of a cellular telephone network that manages each of the radio channels at each site.","[""base station controllers"",""base transceiver stations"",""mobile switching center"",""mobile telephone switching center""]",0
+"The bit length of Station Class Mark (SCM).","[""4"",""5"",""8"",""10""]",0
+"The master control center for a cellular telephone system is the","[""Cell site"",""MTSO"",""Central office"",""Branch office""]",1
+"The maximum frequency deviation of an FM cellular transmitter is","[""6 kHz"",""12 kHz"",""30 kHz"",""45 kHz""]",1
+"A receiver channel has a frequency is 872.4 MHz. to develop an 82.2 MHz IF, the frequency synthesizer must apply an local oscillator signal of ____ (The local oscillator is usually higher than the receive frequency)","[""790.2 MHz"",""827.4 MHz"",""954.6 MHz"",""967.4 MHz""]",2
+"A class I mobile phone using AMPS has an ERP of","[""6 dBW"",""2 dBW"",""-2 dBW"",""-6 dBW""]",0
+"_______ are local telephone switches equipped with SS7-compatible software and terminating signal links","[""switching points"",""service points"",""point codes"",""service switching points""]",3
+"A PABX is normally connected to the central office via an interface device called","[""branch exchange unit"",""subscriber loop unit"",""foreign exchange unit"",""local exchange unit""]",2
+"The most widely used fax standard is","[""group 1"",""group 2"",""group 3"",""group 4""]",2
+"The modern Touch-tone telephone is called","[""600-type telephone set"",""2500-type telephone set"",""2800-type telephone set"",""1500-type telephone set""]",1
+"Signals that provides call status information, such as busy or ringback signals","[""supervising"",""hybriding"",""controlling"",""ringing""]",0
+"A signal sent back to the calling party at the same time the ringing signal is sent to the called party","[""busy signal"",""ringing signal"",""ringback signal"",""dial tone""]",2
+"It is comprised of two or more facilities, interconnected in tandem, to provide a transmission path between a source and a destination","[""telephone line"",""telephone set"",""telephone circuit"",""telephone trunk""]",2
+"The drum diameter of a facsimile machine is 90.2 mm and the scanning pitch is 0.2 mm per scan. Find the index of cooperation according to CCITT","[""451"",""2.22 x 10^-3"",""1417"",""144""]",0
+"It is the ratio in dB of the power of a signal at that point to the power the same signal would be 0-dBm at any point in the transmission system","[""data level"",""baseband level"",""voice level"",""transmission level""]",3
+"It is an indirect method of evaluating the phase delay characteristics of the circuit","[""phase delay distortion"",""envelope delay distortion"",""non-linear distortion"",""linear distortion""]",1
+"It is characterized by high-amplitude peaks of short duration having an approximately flat frequency response","[""crosstalk"",""interference"",""impulse noise"",""drop out""]",2
+"It is the presence of one or more continuous, unwanted tones within the message channels, the tones are often caused by crosstalk or cross modulation between adjacent channels in a transmission system due to system nonlinearities.","[""multiple-frequency interference"",""single-frequency interference"",""co-channel interference"",""desensitizing""]",1
+"That portion of the local loop that is strung between the poles","[""aerial"",""distribution cable"",""feeder cable"",""twisted-pair""]",0
+"It is the primary cause of attenuation and phase distortion on a telephone circuit","[""local line"",""local loop"",""subscriber loop"",""any of these""]",3
+"It is simply the frequency response of a transmission medium referenced to a 1004 -Hz test tone","[""attenuation distortion"",""differential gain"",""1004-Hz deviation"",""any of these""]",3
+"The time delay measured in angular units, such as degrees or radians is called __________","[""propagation time"",""phase delay"",""holding time"",""system delay time""]",1
+"It is a communications term that indicates the presence of a signal power comparable to the power of an actual message transmission","[""dynamic range"",""loaded"",""node"",""reference""]",1
+"It is any device used to originate and terminate calls and to transmit and receive signals into and out of the telephone network","[""instrument"",""station equipment"",""station"",""any of these""]",3
+"Exchanges connected directly to the local loops are called ______________","[""central office"",""local exchange"",""exchange offices"",""any of these""]",3
+"It provides functionality of communicating with the voice switch by creating the packets or signal units necessary for transmission over the SS7 network","[""switching points"",""service points"",""point codes"",""service switching points""]",3
+"In a 4-wire telephone set connection, (used to connect telephone set to central office switching) the green coded wire is used _______________","[""as ground wire"",""to transmit the signal"",""to receive the signal from the far end"",""as a spare or for special purpose applications""]",1
+"A technique where the called subscriber is served by any other central office, the switching equipment will have to transfer the digit dialed to the called switching equipment.","[""loop signaling"",""step-by-step switching"",""interoffice calling"",""duplex signaling""]",2
+"Electromagnetic coupling between two or more physically interconnected transmission media is what type of crosstalk?","[""coupling crosstalk"",""transmission crosstalk"",""linear crosstalk"",""non-linear crosstalk""]",0
+"The number of dedicated lines used to interconnect 100 parties","[""99 lines"",""1250 lines"",""4950 lines"",""3450 lines""]",2
+"Class of switching office which is the local exchange where the subscriber loops terminated and received dial tone.","[""Class 5"",""Class 4C"",""Class 3"",""Class 1""]",0
+"The maximum intelligibility of voice frequency is between","[""2000 and 3000 Hz"",""1000 and 3000 Hz"",""2500 and 4000 Hz"",""1000 and 2500 Hz""]",1
+"It is the state of the telephone when it is idle.","[""on-hook"",""off-hook"",""semi-hook"",""hook-in""]",0
+"Type of loop signaling which is widely used in new switching systems to supervise trunks between two central offices.","[""battery and ground pulsing"",""reverse battery signaling"",""loop pulsing"",""duplex signaling""]",1
+"Printed documents to be transmitted by fax are converted into a baseband electrical signal by the process of","[""reflection"",""scanning"",""modulation"",""light variations""]",1
+"The transmission speed of group 4 fax is","[""4800 baud"",""9600 baud"",""56 kbps"",""192 kbps""]",2
+"It is a distortion formed if SSB is used where the information bandwidth is greater than half of the carrier frequency.","[""near-far effect"",""hauffman effect"",""kendall effect"",""herringbone effect""]",2
+"It is simply an unshielded twisted pair transmission line consisting of two insulated conductors twisted together.","[""local loop"",""local line"",""subscriber loop"",""any of these""]",3
+"It is an audible signal comprised of two frequencies: 350 Hz and 440 Hz","[""dial tone"",""ringback signal"",""busy tone"",""call waiting tone""]",0
+"It enables the destination station of a telephone call to display the name of the telephone number of the calling party before the telephone is answered.","[""conference call"",""call wait"",""call forwarding"",""caller id""]",3
+"The largest cable used in a local loop, usually 3600 pair of copper wires placed underground or in conduit.","[""feeder cable"",""distribution cable"",""drop wire"",""drop-wire cross-connect cables""]",0
+"A weighting technique that assumes a perfect receiver only, therefore its weighting curve corresponds to the frequency response of the ear only.","[""relative noise weighting"",""above relative noise weighting"",""C-message noise weighting"",""psophometric noise weighting""]",3
+"The difference between the absolute delays of all frequencies.","[""relative phase delay"",""phase delay distortion"",""absolute phase delay"",""phase distortion""]",3
+"A special type of line conditioning that sets the minimum requirements for signal-to-noise ratio a nonlinear distortion.","[""A-type line conditioning"",""B-type line conditioning"",""C-type line conditioning"",""D-type line conditioning""]",3
+"It is a form of incidental phase modulation – a continuous uncontrolled variations in the zero crossings of a signal.","[""crosstalk"",""co-channel interference"",""phase jitter"",""spikes""]",2
+"A type of crosstalk which is a direct result of nonlinear amplification in analog communications system","[""linear crosstalk"",""transmittance crosstalk"",""nonlinear crosstalk"",""coupling crosstalk""]",2
+"The operator of the telephone instrument","[""subscriber"",""destination"",""source"",""terminal""]",0
+"It is a system of sensors, switches and other electronic and electrical devices that allow subscriber to give instructions directly to the switch without having to go through the operator.","[""manual switching system"",""automated switching system"",""common switching system"",""crossbar switching system""]",1
+"Toll offices are connected to other toll offices with _____________","[""intertoll trunks"",""intratoll trunks"",""interoffice trunks"",""intraoffice trunks""]",0
+"The highest ranking office in the DDD network in term of size of the geographical area served and the trunk options available.","[""End office"",""Sectional center"",""Regional center"",""Toll center""]",2
+"He invented the automatic line selector, which led to the automatic telephone system.","[""Alexander Bain"",""Alexander Graham Bell"",""Thomas Edison"",""Almon Strowger""]",3
+"It allows customers to change to a different service and still keep the same phone number","[""changing"",""porting"",""transporting"",""portability""]",1
+"By definition, speech power is equal to v.u. reading minus ___________","[""1.8 dB"",""4 dB"",""1.4 dB"",""3 dB""]",2
+"When the telephone set is in the ____________ state, a direct current from the central office (CO) flows through the transmitter and receiver of the handset.","[""on-hook"",""off-hook"",""semi-hook"",""hook-in""]",1
+"Type of loop signaling which involves opening and closing the loop to dial to or through the central office.","[""ear and mouth"",""duplex"",""loop pulsing"",""interoffice calling""]",2
+"In FM fax, the frequencies for black and white are","[""1300 and 2400 Hz"",""2200 and 1500 Hz"",""1500 and 2300 Hz"",""1070 and 1270 Hz""]",2
+"It is a measure of the faithful reproduction of scanned prints in a facsimile communications.","[""fidelity"",""contrast"",""legibility"",""chroma""]",1
+"The feedback signals that help prevent the speaker from talking too loudly.","[""busy tone"",""ringback tone"",""dial tone"",""sidetone""]",3
+"It is the exchange of signaling messages between switching machines","[""loop signaling"",""station signaling"",""interoffice signaling"",""pulse signaling""]",2
+"A signal sent from the switching machine back to the calling station whenever the system cannot complete call because of equipment unavailability.","[""busy tone"",""call waiting tone"",""fax tone"",""congestion tone""]",3
+"The final length of cable pair that terminates at the SNI","[""aerial"",""drop wire"",""distribution cable"",""cross-connect cables""]",1
+"It is the difference in circuit gain experienced at a particular frequency with respect to the circuit gain of a reference frequency.","[""dynamic range"",""absorption distortion"",""attenuation distortion"",""selective fading""]",2
+"In telephone systems, a special type of line conditioning that pertains to line impairments for which compensation can be made with filters and equalizers.","[""A-line conditioning"",""B-line conditioning"",""C-line conditioning"",""D-line conditioning""]",2
+"An envelope delay distortion test on a basic telephone channel indicated that an 1800-Hz carrier experienced the minimum absolute delay of 400 µs. The maximum envelope delay for a basic telephone channel is 1750 µs within the frequency range 800 Hz to 2600 Hz. What is the maximum envelope delay?","[""2150 \u00b5s"",""2550 \u00b5s"",""3000 \u00b5s"",""3400 \u00b5s""]",0
+"In SS7 signaling points, codes that are carried in signaling messages exchanged between signaling points to identify the source and destination of each message","[""signaling points"",""service points"",""switching points"",""point codes""]",3
+"Stage of the step-by-step switching system that is composed of switches to complete the connection to the called subscriber.","[""line equipment"",""switch train"",""connectors"",""switching network""]",2
+"____________ is the switching system that is a branch of the local central office.","[""local exchange"",""branch exchange"",""subscriber loop"",""line""]",1
+"Most fax printers are of which type?","[""Impact"",""Thermal"",""Electrosensitive"",""Laser xerographic""]",1
+"Aside from tip and ring used in local loops the third wire when used is called __________.","[""reserve"",""sleeve"",""ground"",""none of these""]",1
+"Acknowledgement and status signals that ensure the process necessary to set up and terminate a telephone call are completed in an orderly and timely manner,","[""call progress tones and signals"",""call waiting tones and signals"",""incoming call tones and signals"",""call termination tones and signals""]",0
+"POCSAG stands for","[""Post Office Code Standardization Advisory Group"",""Post Office Code System Advisory Group"",""Paging Operation Code Standardization Advisory Group"",""Paging Operation Code System Advisory Group""]",0
+"The location where individual cable pairs within a distribution cable are separated and extended to the subscriber’s location on a drop wire","[""feeder cable and distribution cable"",""drop wire and aerial cable"",""distribution cable and drop-wire cross-connect cables"",""distribution cable and aerial cable""]",2
+"What is the standard bandwidth of voice channel according to CCITT recommendations?","[""300 \u2013 3.4 kHz"",""200 \u2013 3.3 kHz"",""20 \u2013 20 kHz"",""30 \u2013 30 kHz""]",0
+"A the receiver, the phase difference at the different carrier frequencies is called _________.","[""propagation time"",""phase delay"",""envelope delay"",""envelope delay distortion""]",3
+"It is a sudden, random changes in the phase of the signal. They are classified as temporary variations in the phase of the signal lasting longer than 4 ms.","[""phase hits"",""phase jitter"",""interference"",""distortion""]",0
+"Circuits that are designed and configured for their use only and often referred to as private circuits or dedicated circuits.","[""switched circuits"",""leased circuits"",""virtual circuits"",""switched virtual circuits""]",1
+"It is a programmable matrix that allows circuits to be connected to one another.","[""circuit switch"",""tap switch"",""equipment switch"",""cross switch""]",0
+"Interstate long distance telephone calls require a small telephone office called _________.","[""sectional office"",""regional office"",""toll office"",""end office""]",2
+"A call that cannot be completed because the necessary trunk circuits or switching paths are not available.","[""blocking"",""holding"",""storing"",""none of these""]",0
+"A mandate that requires all telephone companies to support the porting of telephone number.","[""national number portability"",""regional number portability"",""local number portability"",""sectional number portability""]",2
+"The connection between the telephone and the central office’s switching equipment.","[""line sensors"",""relay circuits"",""subscriber loop"",""supervisory relay""]",2
+"An exact reproduction of a document or picture provided at the receiving end.","[""television"",""telecommunication"",""facsimile transmission"",""mobile communication""]",2
+"What type of graphics are commonly transmitted by radio fax?","[""Newspaper text"",""Architectural drawings"",""Cable movies"",""Satellite weather photos""]",3
+"It is comprised of a transmitter, receiver, an electrical network for equalization, associated circuitry to control sidetone levels and to regulate signal power and necessary signaling circuitry.","[""telephone"",""television"",""facsimile"",""computer""]",0
+"Early paging system uses what modulation technique?","[""pulse modulation"",""amplitude modulation"",""phase modulation"",""frequency modulation""]",3
+"A device that serves as a demarcation point between local telephone company responsibility and subscriber responsibility for telephone service.","[""standard network interface"",""subscriber line interface card"",""system network architecture"",""network interface card""]",0
+"It is the actual time required for a particular frequency to propagate from a source to a destination through a communications channel.","[""relative phase delay"",""phase delay distortion"",""absolute phase delay"",""phase distortion""]",2
+"It is a sudden, random change in the gain of the circuit resulting in a temporary change in the signal level.","[""spikes"",""gain hits"",""jitter"",""echo""]",1
+"A typical echo suppressor suppresses the returned echo by how much?","[""10 dB"",""30 dB"",""45 dB"",""60 dB""]",3
+"In telephony, functions that supply and interpret control and supervisory signals needed to perform the operation","[""calling functions"",""maintenance functions"",""signaling functions"",""transmission functions""]",2
+"It is a central location where subscribers are interconnected, either temporarily or on a permanent basis.","[""central offices"",""exchange offices"",""exchanges"",""any of these""]",3
+"It is simply a path between two subscribers and is comprised of one or more switches, two local loops or possibly one or more trunk circuits.","[""way"",""route"",""path"",""mode""]",1
+"It defines the procedures and protocols necessary to exchange information over the PSTN using a separate digital signaling network to provide wireless and wireline telephone call setup, routing and control.","[""C7"",""common channel signaling system no. 7"",""SS7"",""any of these""]",3
+"In a 4-wire telephone set connection, (used to connect telephone set to central office switching) the red coded wire is used __________.","[""as ground wire"",""to transmit the signal"",""to receive the signal from the far end"",""as a spare or for special purpose applications""]",2
+"The connection between two central offices","[""line"",""trunk"",""loop"",""signaling""]",1
+"In facsimile, the length of time required to transmit a document","[""propagation time"",""transmission rate"",""holding time"",""transmission time""]",3
+"It is a combination of passive components that are used to regulate the amplitude and frequency response of the voice signals.","[""equalizer circuit"",""balanced transformer"",""balanced modulator"",""hybrid network""]",0
+"A signal that is sent from the switching machine back to the calling station whenever the called telephone number is off-hook.","[""dial tone signal"",""ringback signal"",""busy signal"",""off-hook signal""]",2
+"A smaller version of the feeder cable containing less wire pairs.","[""aerial"",""drop wire"",""feeder cable"",""distribution cable""]",3
+"It is a parameter equivalent to TLP except that it is used as a reference for data transmission.","[""transmission level point"",""data level point"",""voice level point"",""baseband transmission point""]",1
+"He developed the first instrument that transmitted music over a wire","[""Philipp Reis"",""Antonio Meucci"",""Thomas Edison"",""Almon Strowger""]",0
+"It is used to convert two-wire circuits to four-wire circuits which is similar to hybrid coil found in standard telephone sets.","[""balanced transformer"",""hybrid circuits"",""balanced modulator"",""hybrid transformers""]",1
+"A switchboard with four digits can accommodate how many telephone numbers?","[""1,000"",""10,000"",""100,000"",""9999""]",0
+"The trunk circuits that are terminated in tandem switches are called","[""tie trunks"",""tandem trunks"",""office trunks"",""exchange trunks""]",1

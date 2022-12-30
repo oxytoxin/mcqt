@@ -1,0 +1,466 @@
+﻿question,choices,answer
+"Is the most common technique where apartment house, hotels, schools, condominiums, and multi-unit buildings distribute TV and FM signals to a number of receivers, using a single head-end.","[""CCTV"",""CATV"",""MATV"",""Antenna""]",0
+"TV channel 2, 4 and 5 belong to","[""Low band UHF"",""High band VHF"",""Mid band UHF"",""Low band VHF""]",3
+"A mechanism or device which enables the TV camera to move in lateral and tilting motion","[""Panning device"",""Scanner"",""Tilting"",""Pan\/tilt device""]",3
+"Which of the following is a solid state imaging device?","[""VIDICON"",""ICONOSCOPE"",""Charge couple device"",""CCTV""]",2
+"What class of TV camera lens used to cover short distances?","[""Normal"",""Wide angle"",""Telephoto"",""Zoom""]",1
+"What class of TV camera lens used to cover long distances?","[""Normal"",""Wide angle"",""Telephoto"",""Zoom""]",2
+"What is the local oscillator frequency in commercial AM broadcast if it is equal to 455 kHz?","[""0 to 1500 kHz"",""0 to 455 kHz"",""540 to 1600 kHz"",""955 to 2055 kHz""]",3
+"What is the allowable deviation ratio of commercial FM broadcast?","[""20"",""75"",""5"",""25""]",2
+"The maximum power suggested by KBP on 919-1312 AM broadcast station in Metro Manila is","[""5 kW"",""10 kW"",""15 kW"",""20 kW""]",3
+"KBP radio code mandates that station must provide a minimum of ___ minutes","[""30"",""45"",""50"",""60""]",1
+"What is the chroma subcarrier signal frequency for color television?","[""3.8 MHz"",""6.8 MHz"",""7.8 MHz"",""8.8 MHz""]",0
+"What is the frequency tolerance of an FM Radio Broadcast station?","[""\u00b1 20000 Hz"",""\u00b1 20 Hz"",""\u00b1 200 Hz"",""\u00b1 2000 Hz""]",3
+"The minimum frequency separation between frequency of AM broadcasting station","[""9 kHz"",""18 kHz"",""36 kHz"",""72 kHz""]",2
+"The aspect ratio HDTV is","[""4:3"",""18:5"",""14:8"",""16:9""]",3
+"A newscast is a distinct unit of a program with a minimum news content of _____ minute(s) excluding intro, extro, headline and commercial load","[""1"",""2"",""3"",""4""]",0
+"In accordance with existing provision of law and the KBP rules and the regulations, all stations shall actively promote the growth ands the development of Filipino music by playing _____ OPM every clock hour.","[""1"",""2"",""3"",""4""]",3
+"Commercial load for radio shall not exceed ____ minutes for a one-hour program outside Metro Manila","[""15"",""20"",""25"",""30""]",0
+"Commercial load for radio shall not exceed _____ minutes for a one-hour program outside Metro Manila.","[""15"",""16"",""17"",""20""]",2
+"Program interruption for airing of commercial in Metro Manila shall not exceed _____ breaks in every program hour","[""5"",""6"",""7"",""8""]",1
+"Program interruption for the airing of commercial outside Metro Manila shall not exceed _____ breaks in every program hour","[""5"",""6"",""7"",""8""]",1
+"For Metro manila, the classification of prime time blocks for FM shall be","[""6:00 AM to 8:00 PM"",""6:00 AM to 12:00 NN"",""6:00 AM to 6:00 PM"",""12:00 NN to 12:00 MN""]",0
+"For provincial station, the classification of prime time blocks for FM radio shall be","[""6:00 AM to 8:00 PM"",""6:00 AM to 12:00 NN"",""6:00 AM to 6:00 PM"",""12:00 NN to 12:00 MN""]",0
+"All airtime classifications shall be submitted to and subject for approval by the","[""NTC"",""KBP-SA"",""DOTC"",""CCITT""]",1
+"_____ is the time circulation for one horizontal trace","[""52 us"",""62 us"",""48 us"",""50 us""]",0
+"Listing of the date and time of events, programs, equipment, tests, malfunctions and corrections in communications system.","[""Reporting"",""Documentation"",""Log"",""File""]",2
+"Which of the following is not a low impedance microphone?","[""Dynamic"",""Velocity"",""Condenser"",""Crystal""]",3
+"Facsimile permits remote duplications of which of the following items?","[""Map"",""Pictures"",""Printed page"",""All of these""]",3
+"Television has a lot of features in common with","[""FM stereo"",""Telephone service"",""Motion picture"",""Magazine""]",2
+"The major component of the TV signal waveform is the","[""Video"",""Radar"",""Stereo"",""Antenna""]",0
+"For NTSC TV system, the image is scanned from","[""Top to bottom"",""Left to right"",""Right to left"",""Choices A and B above""]",3
+"One completes NTSC scanning cycle called field consists of how many lines","[""500"",""525"",""625"",""60""]",1
+"The field rate in the NTSC television system","[""30 Hz"",""120 Hz"",""60 Hz"",""15.75 Hz""]",2
+"What is the horizontal synchronous blanking pulse rate?","[""30 Hz"",""60 Hz"",""15.75 Hz"",""120 Hz""]",2
+"What is the vertical blanking pulse rate?","[""30 Hz"",""60 Hz"",""15.75 Hz"",""120 Hz""]",1
+"The pulses riding on the vertical blanking pulse","[""Equalizing (sync) pulses"",""Serrated vertical sync pulses"",""Black level pulses"",""Choices A and B above""]",3
+"Television camera pickup tube is called","[""Vidicon"",""Image orthicon"",""Plumbicon"",""All of the above""]",3
+"The television picture tube magnetic fields can be used for","[""Beam focusing"",""Beam deflection"",""Beam production"",""Beam modulation""]",3
+"What is the purpose of an indirectly-heated cathode in a cathode ray tube?","[""Beam focusing"",""Beam deflection"",""Beam production"",""Beam modulation""]",2
+"Video modulation for television is","[""Amplitude modulation"",""Frequency modulation"",""Vestigial sideband"",""Both amplitude modulation and vestigial sideband""]",3
+"Audio modulation for television is","[""Amplitude modulation"",""Frequency modulation"",""Vestigial sideband"",""Both amplitude modulation and vestigial sideband""]",1
+"What is the maximum frequency deviation for audio modulation in TV transmission?","[""25 kHz"",""30 kHz"",""50 kHz"",""75 kHz""]",0
+"The video carrier and the audio carrier are separated by ____ MHz.","[""4.5"",""5.5"",""6.5"",""7.5""]",0
+"In a practical image scanned at the NTSC rate, the spectrum will include components clustered at the fundamentals and harmonics of _____ kHz","[""15.75"",""30"",""12.25"",""45.5""]",0
+"Brightness of an image is known as","[""Radiance"",""Chrominance"",""Reflectance"",""Luminance""]",3
+"The colors at the vertices of the color triangle are referred to as","[""Primary"",""White"",""Desaturated"",""All of the above""]",0
+"A color signal which originate in the camera itself with color television pickup?","[""Red"",""Green"",""Blue"",""All of these""]",3
+"What are the three separate signals derived from a matrix in a color TV transmitter?","[""Y, I and Q"",""P, D and Q"",""M, N and O"",""R, S and T""]",0
+"Range of a VHF television transmitter","[""54 \u2013 98 MHz"",""54 \u2013 216 MHz"",""54 \u2013 128 MHz"",""54 \u2013 166 MHz""]",1
+"Range of a UHF television transmitter","[""470 \u2013 670 MHz"",""470 \u2013 770 MHz"",""470 \u2013 890 MHz"",""470 \u2013 980 MHz""]",2
+"What is the width of an AM broadcast channel?","[""30 kHz"",""25 kHz"",""15 kHz"",""200 kHz""]",0
+"The following are designations of service areas of AM broadcast station, except:","[""Primary"",""Secondary"",""Tertiary"",""Intermittent""]",2
+"The following are parts of the AM broadcast day, except:","[""Daytime"",""Night time"",""Mid-day"",""Experimental period""]",2
+"Why is it desirable to have broadcast antennas on marshy land?","[""For better reflection"",""For ground wave radiation"",""For greater absorption"",""For sky wave propagation""]",1
+"What is another name for a console pot?","[""Attenuator"",""Gain control"",""Fader"",""Any of these""]",3
+"The highest peaks of modulation in AM should be held between what two percentages?","[""85 \u2013 100%"",""65 \u2013 70%"",""50 \u2013 75%"",""75 \u2013 90%""]",0
+"What is the name of the second transmitter used when a station operates 24 hours a day?","[""Alternate"",""Reserve"",""Spare"",""Diversity""]",0
+"What is a combo operator?","[""Announcer"",""Disk jockey"",""Engineer"",""All of these""]",3
+"What term is used to indicate intercom operation in a broadcast station?","[""Communication"",""Talk-back"",""Respond"",""Remote talk""]",1
+"What does a red light glowing in a studio indicate?","[""Off the air"",""Floating"",""Experimental"",""On the air""]",3
+"What is the attenuator which controls the the output of the program amplifier called?","[""Master gain control"",""Auxiliary gain control"",""Reserve frequency control"",""Auxiliary frequency control""]",0
+"The following are important operational requirements during a broadcast, except:","[""Timing"",""Modulation"",""Fidelity"",""AF amplitude""]",1
+"What are the names of two unbalanced pads used in broadcasting?","[""T and L"",""K and P"",""R and I"",""H and L""]",0
+"What is the advantage of using balanced lines in audio systems?","[""Receive balanced sound"",""Improve fidelity"",""Reduce noise pickup"",""Improve carrier level""]",2
+"What is the advantage of using T-pad attenuators over potentiometers?","[""Better energy conversion"",""Better attenuation"",""Match impedance better"",""Any of these""]",2
+"What device is used to make up for the high-frequency losses in long AF lines?","[""Signal booster"",""Noise suppressor"",""Line equalizer"",""Compander""]",2
+"What is another term meaning “operating power”","[""Licensed power"",""Sideband power"",""Audio power"",""Harmonic power""]",0
+"What does maximum rated carrier power referred to?","[""Buffer amplifier power rating"",""Intermediate amplifier power rating"",""Speech amplifier power rating"",""Final-amplifier power rating""]",3
+"When are equipment tests made?","[""Mid-day"",""Daytime"",""Night time"",""Experimental period""]",3
+"What is the maximum allowable distortion at 80% modulation?","[""3%"",""4%"",""5%"",""6%""]",2
+"On what are proof-of-performance tests in broadcasting made?","[""Omnidirectional antennas"",""Directive antennas"",""High gain antennas"",""Any of these""]",1
+"Within what limits must the antenna current ratios of a directional antenna be held?","[""3%"",""5%"",""4%"",""1%""]",1
+"What monitor is required at the operating position in a broadcast station?","[""Frequency"",""Modulation"",""Fidelity"",""Carrier""]",1
+"What monitor may also give an indication of carrier amplitude regulation?","[""Modulation"",""Carrier"",""Fidelity"",""Frequency""]",0
+"What device can give the most accurate instantaneous peak-of-modulation indications?","[""Spectrum analyzer"",""Fourier analyzer"",""CRT oscilloscope"",""Frequency probe""]",2
+"The item required in program log?","[""Identification"",""Program description"",""Sponsors and network name"",""All of these""]",3
+"The item required in an operating log?","[""Antenna power and programs on-off"",""EBS tests"",""Antenna lights and meter readings"",""Any of these""]",3
+"The item required in a maintenance log?","[""Meter replacements"",""Antenna current checks"",""Light inspection and experimental period operation"",""Any of these""]",3
+"What is the minimum time broadcast station logs must be held?","[""One year"",""Two years"",""Three years"",""Five years""]",1
+"What class operator has no restrictions on technical work in a broadcast station?","[""1st phone"",""2nd phone"",""3rd phone"",""4th phone""]",0
+"What classes of operators are restricted on technical work in a broadcast station?","[""3rd phone"",""2nd phone"",""4th phone"",""2nd and 3rd phone""]",3
+"If improper transmitter indications are given at the remote-control point, what should be done?","[""First phone operator to transmitter"",""Second phone operator to transmitter"",""Third phone operator to transmitter"",""Fourth phone to transmitter""]",0
+"How often must IDs be made in a broadcast station?","[""Quarter of an hour"",""Half an hour"",""On the hour"",""On the day""]",2
+"Where must station license be posted?","[""Tower"",""Modulators"",""Transmitter"",""Receiver""]",2
+"Where operator licenses must be posted?","[""Operating desk"",""Operating position"",""Operating console"",""Anywhere""]",1
+"What device is usually used today to measure the frequency of a broadcast station?","[""Multivibrators"",""Counter"",""Ripper"",""Wave meter""]",1
+"What does EBS stand for?","[""Electronic Broadcast System"",""Emergency Broadcast System"",""Electronic Base Station"",""Emergency Base Station""]",1
+"How often must EBS tests be made?","[""Weekly"",""Daily"",""Monthly"",""Yearly""]",0
+"What must non-EBS station have?","[""EBS signal monitor"",""EAN signal monitor"",""EAT signal monitor"",""CPCS signal monitor""]",1
+"What stylus material is used in broadcast station?","[""Ruby"",""Gamet"",""Emerald"",""Diamond""]",3
+"What advantage is there to having heavy turntables?","[""Constant speed"",""Less vibration"",""Rumble"",""All of these""]",3
+"What is the width of recording tapes?","[""0.5 inch"",""0.75 inch"",""0.125 inch"",""1 inch""]",2
+"What frequency is used to erase tapes?","[""Supersonic"",""Subsonic"",""Ultrasonic"",""Infrasonic""]",0
+"What tape speed produces highest fidelity of audio?","[""20 in\/sec"",""15 in\/sec"",""10 in\/sec"",""5 in \/sec""]",1
+"What should be used to clean recording heads?","[""Methanol"",""Ethyl Alcohol"",""Isopropyl alcohol"",""Rubbing alcohol""]",2
+"What impedance is usually used with broadcast microphones?","[""All of these"",""150 ohms"",""250 ohms"",""600 ohms""]",0
+"In what log is antenna-light information entered?","[""Maintenance log"",""Program log"",""Operating log"",""Logging log""]",0
+"What was the name of the first TV camera tube?","[""Vidicon"",""Iconoscope"",""Image orthicon"",""Kinescope""]",1
+"Which camera tube requires electron multipliers?","[""Vidicon"",""Iconoscope"",""Image orthicon"",""Kinescope""]",2
+"The colors found around the perimeter of the color triangle are said to be","[""Saturated"",""Dark"",""Light"",""Monochrome""]",0
+"At what position on the color triangle will saturated yellow be located?","[""Between red and blue"",""Between red and green"",""Between blue and green"",""At the center""]",1
+"What is the phase difference between the I and Q color signal carriers?","[""0\u00b0"",""45\u00b0"",""60\u00b0"",""90\u00b0""]",3
+"_____ is the most effective filter for separating luminance and chrominance frequency components.","[""Low pass"",""Band pass"",""Notch"",""Comb""]",3
+"The chrominance processing circuits can be deactivated when monochrome broadcasts are received by the","[""Color killer"",""SAW filter"",""NOT gate"",""All of the above""]",0
+"What is the standard video level, in percent PEV, for blanking?","[""25 %"",""0 %"",""12.5 %"",""75 %""]",3
+"What is the percent video level, in percent PEV, for black?","[""0 %"",""25 %"",""12.5 %"",""70 %""]",3
+"What is the standard video level, in percent PEV, for white?","[""0 %"",""12.5 %"",""25 %"",""70 %""]",0
+"One should first perform _____ before a convergence setup is performed.","[""Gray tracking"",""Screen setting"",""Alignment"",""Degaussing""]",3
+"If there are too many harmonics, one should check the","[""Coupling"",""Tuning of circuits"",""Shielding"",""Any of these""]",3
+"In transmitter amplifier design, an even-order harmonics can be prevented or reduced by","[""Using a push-pull amplifier"",""Operating class C"",""Operating class AB"",""All of these""]",0
+"The vertical and horizontal pulses are separated at the","[""Sync separator"",""AFC"",""High voltage"",""AGC""]",0
+"The reason why buffer stage is included in a transmitter is to","[""Present a constant load to the oscillator stage"",""Present a low impedance to the oscillator stage"",""Stop the oscillator from generating parasitic oscillations"",""All of these""]",0
+"Where is the operating position of a radio station?","[""On the bridge"",""At the control point"",""At the location of the receiver"",""At the location of the transmitter""]",0
+"The alignment of the three color guns to a common point is known as","[""Blooming"",""Confetti"",""Demodulation"",""Convergence""]",3
+"A _____ is equivalent to 525 scanning lines","[""Field"",""Frame"",""Cycle"",""Interface set""]",1
+"A _____ represents one set of 262 ½ scanning lines","[""Field"",""Frame"",""Cycle"",""Interface set""]",0
+"The number of scanning lines is _____ per second","[""14750"",""15570"",""15750"",""16550""]",2
+"Picture frames are repeated at the rate of _____ per second","[""25"",""30"",""40"",""50""]",1
+"Lack of raster is an indication of no","[""AGC"",""High voltage"",""Video signal"",""Television signal""]",1
+"The sound and video signals are separated at the _____ of the TV receiver","[""IF stage"",""Video amplifier"",""Video detector"",""Burst separator""]",2
+"The presence of color bars is an indication that there is a problem in the _____ circuit","[""Horizontal"",""Reactor"",""Burst separator"",""Chroma amplifier""]",1
+"Type of emission produced when a frequency modulated transmitter is modulated by a TV signal","[""A3F"",""F3F"",""A3C"",""F3C""]",1
+"What is emission A3F?","[""RTTY"",""SSB"",""TV"",""Modulated CW""]",2
+"What is emission F3F?","[""Facsimile"",""Modulated CW"",""Television"",""RTTY""]",2
+"Cause of slow rising white “hum bars” is the television","[""Pad filter"",""Bad rectifier"",""Bad picture tube"",""High voltage transformer""]",0
+"Adjusting the _____ may eliminate color confetti","[""Color chroma amplifier"",""Color killer"",""Color detector"",""Color oscillator""]",1
+"Video signal amplitude determine the picture quality called","[""Chrominance"",""Brightness"",""Contrast"",""Luminance""]",2
+"Part of broadcast day from midnight to local sunrise","[""Daytime"",""Experimental"",""Nighttime"",""Dawntime""]",1
+"Part of broadcast day from local sunset to local sunrise","[""Dawntime"",""Nighttime"",""Daytime"",""Experimental""]",1
+"What causes snow in television?","[""High Q in the tuned circuit"",""Excessive gain"",""Random noise in the signal"",""Insufficient wave traps""]",2
+"Vestigial sideband is known as _____ type of emission","[""CF3"",""C3F"",""B8E"",""A3E""]",1
+"Vestigial sideband modulation is commonly used in","[""TV broadcasting"",""Monaural broadcasting"",""Stereo broadcasting"",""HF point-to-point communications""]",0
+"Which of the following filters block FM radio band for TV channels (2 to 13)?","[""High-pass filter"",""Low-pass filter"",""Band pass filter"",""Band-reject filter""]",3
+"The FM broadcast band is from","[""535 to 1600 kHz"",""30 to 300 kHz"",""88 to 108 MHz"",""300 to 2000 MHz""]",2
+"The type of emission used by standard AM radio broadcast","[""A5C"",""A0"",""A3"",""F3""]",2
+"The standard AM radio broadcast belongs to which frequency band?","[""MF"",""HF"",""VHF"",""LF""]",0
+"When were UHF channels (14 – 83) of television added?","[""1902"",""1945"",""1947"",""1952""]",3
+"When was colored TV standards established in the United States?","[""1904"",""1945"",""1953"",""1960""]",2
+"What synchronizes the horizontal line of the TV picture tube?","[""HFC"",""HSC"",""HAFC"",""All of these""]",2
+"A measure of how well the receiver can respond to every weak signals/","[""Selectivity"",""Sensitivity"",""Fidelity"",""Quality factor""]",1
+"What is the allowable frequency deviation of a commercial FM broadcast band?","[""15 kHz"",""75 kHz"",""5 kHz"",""100 kHz""]",1
+"The final amplifier of either FM or AM transmitter is operated as","[""Class A"",""Class B"",""Class C"",""Class D""]",2
+"Standard AM broadcasting use _____ for greater and efficient coverage","[""Circular polarized wave antenna"",""Horizontal polarized wave antenna"",""Both vertical and horizontal polarized wave antenna"",""Vertical polarized wave antenna""]",3
+"Receiver sensitivity means","[""The frequency allocation of the system"",""Input impedance of the receiver"",""The ability of picking up weak signal"",""The power to deliver the information""]",2
+"The main functions of the RF amplifier in a superheterodyne receiver is to","[""Provide improved tracking"",""Permit better adjacent-channel rejection"",""Improve the rejection of the image frequency"",""All of these""]",2
+"Local oscillator of a broadcast receiver always tunes to a frequency higher than the incoming frequency in order","[""To help the image frequency rejection"",""To allow easy tracking"",""To allow adequate frequency coverage without switching"",""All of these""]",2
+"Type of filter used in TV receivers that separates the chroma signal from the colorplexed video signal but leaves intact the Y-component","[""Comb filter"",""Bandpass filter"",""Color filter"",""Low pass filter""]",0
+"What is the first letter-symbol for emission of unmodulated carrier?","[""A"",""N"",""H"",""F""]",1
+"The frequency range for cable TV channel T-13","[""23.75 \u2013 29.75 MHz"",""60 \u2013 66 MHz"",""41.75 \u2013 47.55 MHz"",""5.75 \u2013 11.75 MHz""]",0
+"Channel 8 frequency range allocation in cable TV","[""54 \u2013 60 MHz"",""66 \u2013 72 MHz"",""180 \u2013 186 MHz"",""204 \u2013 210 MHz""]",2
+"The _____ of a television system is a measure of its ability to delineate picture detail","[""Contrast"",""Resolution"",""Hue"",""Pixels""]",1
+"CCIR standards for the internal exchange of programmes on film for television used","[""Rec 265-6"",""Rec 407-4"",""Rec 408-5"",""Rec 450-1""]",0
+"CCIR transmission standards for FM sound broadcasting at VHF","[""Rec 601.2"",""Rec 501.2"",""Rec 500.4"",""Rec 450.1""]",3
+"ISO Rec 23 in 1976 is the standard for","[""Recorded characteristics for magnetic sound records on full cost 16 mm motion picture film"",""Projector usage of 16 mm motion picture films for direct front projector"",""Camera usage of 35 mm motion picture film"",""Camera usage of 16 mm motion picture film""]",2
+"International broadcasting (short wave) uses frequency between _____ accordance with international agreements","[""7012 and 26100 kHz"",""6409 and 26100 kHz"",""5950 and 26100 kHz"",""10950 and 26100 kHz""]",2
+"Which of the following station below is a regional channel?","[""Class I-A"",""Class II-D"",""Class III-B"",""Class IV""]",2
+"The permissible power in kW of station II-A during nighttime is","[""0.25 \u2013 50"",""10 \u2013 50"",""1 \u2013 5"",""None of these""]",0
+"The television frequency which are now allocated to the land mobile services","[""806 and 192 MHz"",""800 and 806 MHz"",""668 and 674 MHz"",""776 and 782 MHz""]",0
+"Numerical frequency band designation of channel 9","[""488 \u2013 494 MHz"",""530 \u2013 536 MHz"",""632 \u2013 638 MHz"",""186 \u2013 192 MHz""]",3
+"Cable TV systems originate from","[""Germany"",""Dallas, Texas"",""Pennsylvania"",""Japan""]",2
+"A term applied to third and higher order products, which can greatly degrade the performance of a system","[""Composite triple beat"",""Single dual mode"",""Field strength"",""Noise""]",0
+"A station similar to a translator station in terms of equipment and service area but is permitted to originate originate programming from virtually any source","[""DME"",""LPTV"",""HDTV"",""ITFS""]",1
+"Three stations are licensed to eligible educational entities for the distribution of program material to students enrolled in instructional curricula","[""Translator"",""LPTV"",""HDTV"",""ITFS""]",3
+"ITFS means","[""International Television Frequency Standard"",""Instructional Telephone Frequency Service"",""Instructional Television Fixed Service"",""International telecommunications Frequency Standard""]",2
+"MDS means","[""Multipoint Distribution Service"",""Multipoint Digital Service"",""Maritime Data Standards"",""Multipoint Drop Standards""]",0
+"Direct broadcast satellite based allocation","[""12.2 \u2013 12.7 GHz downlink"",""17.3 \u2013 17.8 GHz for uplink"",""3.7 \u2013 4.2 GHz for downlink"",""12.2 \u2013 12.7 GHz for downlink and 17.3 \u2013 17.8 GHz for uplink""]",3
+"What is the channel number of an FM station with 88.1 MHz carrier?","[""201"",""202"",""203"",""204""]",0
+"What is the carrier frequency of an FM station with channel number of 300?","[""107.5 MHz"",""101.1 MHz"",""107.9 MHz"",""99.5 MHz""]",2
+"If an FM station has an effective radiated power of 100 kW then it is under what class?","[""Class A"",""Class B"",""Class C"",""Class D""]",2
+"The video signal amplitude determines the quality of the picture otherwise known as","[""Hue"",""Luminance"",""Chrominance"",""Contrast""]",3
+"_____ is defined as to “send out in all direction”","[""Broadcast"",""Announce"",""Media"",""All of these""]",0
+"The ultimate Dolby surround system is the","[""Dolby NR"",""Dolby Prologic"",""dBx"",""hall matrix""]",1
+"With vertical retrace time of 635 us, the number of complete horizontal lines scanned during vertical flyback is","[""10"",""20"",""30"",""63""]",0
+"One-half line spacing between the start positions for scanning even and odd fields produces","[""Linear scanning"",""Linear pairing"",""Fishtailing"",""Exact interlacing""]",3
+"In facsimile transmission, if the drum diameter is 60 mm and scanning pitch is 0.1 mm, calculate the index of cooperation using IEEE recommendation.","[""1885"",""600"",""1900"",""984""]",0
+"In the interlaced frame, alternate lines are skipped during vertical scanning because the","[""Trace is slower than retrace"",""Vertical scanning frequency is doubled from the 30-Hz frame rate to the 60-Hz field rate"",""Horizontal scanning is slower than vertical scanning"",""Frame has the aspect ratio of 4:3""]",1
+"With ten percent for horizontal flyback, this time equals","[""10 us"",""5 us"",""6.4 us"",""83 us""]",2
+"Which of the following is not true?","[""Line pairing indicates poor interlacing"",""People will look tall and thin on square raster on the picture tube screen"",""A person can appear to have one shoulder wider than the other because of nonlinear horizontal scanning"",""The keystone effect produces a square raster""]",3
+"The width of a vertical sync pulse with its serrations includes the time of","[""6 half lines or 3 lines"",""Three half lines"",""Five lines"",""Five half lines""]",0
+"Sawtooth generator circuits produce scanning raster, but the sync pulse are needed for","[""Linearity"",""Timing"",""Keystoning"",""Line pairing""]",1
+"Which of the following frequencies is wrong?","[""15, 750 90 Hz for horizontal sync and scanning"",""60 Hz for vertical sync and scanning"",""31, 500 Hz for equalizing pulses and serrations in the vertical sync pulse"",""31, 500 Hz for the vertical scanning frequency""]",3
+"The modulated picture carrier wave includes the composite video signal as the","[""Average carrier level"",""Symmetrical envelope of amplitude variations"",""Lower sideband without upper sideband"",""Upper envelope without the lower envelope""]",1
+"Which of the following statements is true?","[""Negative transmission means the carrier amplitude decrease for black"",""Negative transmission means the carrier amplitude decreases for white"",""Vestigial sideband transmission means both upper and lower sidebands are transmitted for all modulating frequencies"",""Vestigial sideband transmission means the modulated picture carrier signal has only the upper envelope""]",1
+"With 2 MHz video signal modulating the picture carrier for channel $ (66 to 72 MHz), which of the following is transmitted?","[""66- MHZ carrier and 68-MHz upper side frequency"",""71.75 MHz carrier, with 69- and 73- MHz carrier"",""67.25-MHz carrier, with 65.25- and 69.25- MHz side frequencies"",""67.25 MHz carrier and 69.25 MHz upper side frequency""]",3
+"With 0.5 MHz video signal modulating the picture carrier,","[""Both upper and lower side frequencies are transmitted"",""Only the upper side frequency is transmitted"",""Only the lower side frequency is transmitted"",""No side frequency are transmitted""]",0
+"In all standard television broadcast channels he difference between picture and sound carrier frequencies is","[""0.25 MHz"",""1.25 MHz"",""4.5 MHz"",""6 MHz""]",2
+"The difference between sound carrier frequencies in two adjacent channels equals","[""0,25 MHz"",""1.25 MHz"",""4.5 MHz"",""6 MHz""]",3
+"With 7% black setup, maximum black in picture corresponds to what percent amplitude in the modulated carrier signal?","[""5"",""68"",""75"",""95""]",1
+"Line-of-sight transmission is a characteristic of propagation for the","[""VHF and UHF bands"",""VHF bands but not the UHF band"",""Low radio frequencies below a MHz"",""AM picture signal but not the FM sound signal""]",0
+"In channel 14, 3.58 MHz color signal is transmitted at the frequency of","[""471.25 MHz"",""473.25 MHz"",""474.83 MHz"",""475. 25 MHz""]",2
+"The difference between the sound carrier and color subcarrier frequencies is","[""4.5 MHz"",""1.25 MHz"",""0.92 MHz"",""0.25 MHz""]",2
+"Brightness variations of the picture information are in which signal?","[""I"",""Q"",""Y"",""R-Y""]",2
+"The hue 1800 out of phase with red is","[""Cyan"",""Yellow"",""Green"",""Blue""]",0
+"Greater peak-to-peak amplitude of the 3.58-MHz chrominance signal indicates more","[""White"",""Yellow"",""Hue"",""Saturation""]",3
+"The interesting beat frequency of 920 kHz is between the 3.58-MHz color subcarrier and","[""4.5- MHz intercarrier sound"",""Picture carrier"",""Lower adjacent sound"",""Upper adjacent picture""]",0
+"The hue of color sync phase is","[""Red"",""Cyan"",""Blue"",""Yellow-green""]",3
+"Which signal has color information for 1.5 MHz bandwidth?","[""I"",""Y"",""R \u2013 Y"",""B \u2013 Y""]",0
+"Which of the following is false?","[""I video hues are orange or cyan"",""The transmitter matrix output includes Y, I and Q video"",""A three-gun picture tube can serve as a matrix"",""A full saturated color is mostly white""]",3
+"The color with the most luminance is","[""Red"",""Yellow"",""Green"",""Blue""]",1
+"What is the hue of the color 90 degrees leading sync burst phase?","[""Yellow"",""Cyan"",""Blue"",""Orange""]",1
+"The average voltage value of the 3.58 MHZ modulated chrominance signal is","[""Zero for most colors"",""Close to black for yellow"",""The brightness of the color"",""The saturation of the color""]",2
+"The IF value for the color in receivers, for any station, is","[""0.5 MHz"",""1.5 MHz"",""3.58 MHz"",""4.5 MHz""]",2
+"If the 3.58 MHz C amplifier in the receiver does not operate, the result will be","[""No color"",""No red"",""Too much blue"",""Too much yellow""]",0
+"Which of the following is not tuned to 3.58 MHz?","[""Burst amplifier"",""Video preamplifier"",""Chroma amplifier"",""Color demodulator input""]",1
+"When B – Y and Y signal are combined, the result is","[""Blue video"",""3.58 MHz chroma"",""Red video"",""Green video""]",0
+"The phase angle between B – Y and R – Y is","[""180\u00b0"",""57\u00b0"",""0\u00b0"",""90\u00b0""]",3
+"Which of the following applies for a monochrome program?","[""Chroma amplifier on"",""Y video amplifier off"",""Color killer on"",""Picture tube off""]",2
+"The manual color control is generally in which circuit?","[""Red video output"",""Y video output"",""Chroma bandpass amplifier"",""R \u2013 Y demodulator""]",2
+"The contrast control is generally in which circuit","[""Red video output"",""Y video output"",""Chroma bandpass amplifier"",""R \u2013 Y demodulator""]",1
+"If the color oscillator does not operate, the result will be","[""No picture"",""No color"",""Incorrect hues"",""No color sync""]",1
+"The hue of the color sync burst phase is","[""Red"",""Blue"",""Magenta"",""Yellow-green""]",3
+"The balance for Y video signals to the three guns in the picture tube is set by the","[""Drive controls"",""Contrast control"",""Screen control"",""Color control""]",0
+"The voltage wave shape in the output of the vertical amplifier is a","[""Trapezoid"",""Sawtooth"",""Rectangle"",""Square""]",0
+"An auto transformer in the vertical output circuit","[""Steps up voltage for the scanning coils"",""Isolates the scanning coils for B+ voltage in the primary"",""Isolates the oscillator and output stages"",""Does not isolate the secondary from dc voltage in the primary""]",3
+"Vertical flyback pulses at the plate of the vertical output tube are for retrace blanking at the picture tube","[""Cathode"",""Control grid"",""Screen grid"",""Anode""]",0
+"The top of the picture is stretched with too much height. To correct this","[""Vary the vertical hold control"",""Reduce height with the vertical linearity control"",""Increase height with the size control"",""Replace the vertical oscillator tube""]",1
+"Peak-to-peak sawtooth scanning current in the vertical coils can be","[""0.7 mA"",""0.7 A"",""50 A"",""150 uA""]",1
+"A push-pull amplifier in the vertical output circuit","[""Usually operates class C"",""Can use PNP and NPN transistor"",""Cannot be used"",""Generally uses two beam-power pentodes""]",1
+"Which stage is not necessary for producing horizontal output?","[""Horizontal oscillator"",""Horizontal amplifier"",""Damper"",""Horizontal AFC""]",3
+"The frequency of the sawtooth current in the horizontal amplifier is","[""60 Hz"",""10500 Hz"",""15750 Hz"",""70 kHz""]",2
+"When the horizontal amplifier is conducting peak plate current, the electron scanning beam is at the","[""Left edge of the raster"",""Right edge of the raster"",""Center of trace"",""Center of flyback""]",1
+"What is the maximum transmitting power permitted an amateur station in beacon operation?","[""10 W PEP output"",""100 W PEP output"",""500 W PEP output"",""1500 W PEP output""]",1
+"What kind of emission would your FM transmitter produce if its microphone failed to work?","[""An unmodulated carrier"",""A phase modulated carrier"",""An amplitude-modulated carrier"",""A frequency modulated carrier""]",0
+"The main function of the RF amplifier in superheterodyne receiver is to","[""Provide improved tracking"",""Permits better adjacent channel rejection"",""Improve the rejection of the image frequency"",""All of these""]",2
+"Local oscillator of a broadcast receiver always tunes to a frequency higher than the incoming frequency in order","[""To help the image frequency rejection"",""To allow easy tracking"",""To allow adequate frequency coverage without switching"",""All of these""]",2
+"What is the first letter symbol for emission of unmodulated carrier?","[""A"",""N"",""H"",""F""]",1
+"International broadcasting (short wave) uses frequency between _____ in accordance with international agreements.","[""7012 and 26100 kHz"",""6409 and 26100 kHz"",""5950 and 26100 kHz"",""10950 and 26100 kHz""]",2
+"Which of the class station below is a regional channel?","[""Class I-A"",""Class II-D"",""Class III-B"",""Class IV""]",2
+"The permissible power in kW of stations II-A during nighttime is","[""0.25 \u2013 50"",""10 \u2013 50"",""1 \u2013 5"",""None of these""]",0
+"A term applied to third and higher order products, which can greatly degrade the performance of a system","[""Composite triple beat"",""Single dual mode"",""Field strength"",""Noise""]",0
+"A station similar to a translator station in terms of equipment and service area, but is permitted to originate programming from virtually any source","[""DME"",""LPTV"",""HDTV"",""ITFS""]",1
+"MDS means","[""Multipoint Distribution Service"",""Multipoint Digital Service"",""Multipoint Data Standard"",""Multipoint Drop Standards""]",0
+"What is the channel number of an FM station with 88.1 MHz carrier?","[""201"",""202"",""203"",""204""]",0
+"If an FM station has an effective radiated power of 100 kW then it is under what class?","[""Class A"",""Class B"",""Class C"",""Class D""]",2
+"What is the range of an AM broadcast frequency tolerance above or below its assigned frequency?","[""25 kHz"",""20 Hz"",""60 kHz"",""120 kHz""]",1
+"What type of emission is produced when amplitude modulated transmitter is modulated by a television signal?","[""A3F"",""F3C"",""F3F"",""A3C""]",0
+"How would you best describe an example of a pilot tone system used in commercial frequency modulation broadcast radio stations?","[""Frequency simplex"",""Time division"",""Stereo multiplex"",""QSK""]",2
+"What type of emission is produced when a frequency modulated transmitter is modulated by a facsimile signal?","[""A3F"",""F3F"",""A3C"",""F3C""]",3
+"What is the highest assigned carrier frequency for standard AM broadcast?","[""107 kHz"",""535 kHz"",""540 kHz"",""1600 kHz""]",3
+"One of the following refers to the standard frequency band limits of AM broadcast band.","[""30 \u2013 300 MHz"",""88 \u2013 108 MHz"",""3 \u2013 30 MHz"",""535 \u2013 1605 kHz""]",3
+"What do you call the service area of a standard AM broadcast where fading is not allowed?","[""Secondary"",""Tertiary"",""Primary"",""Experimental""]",2
+"In basic transmitter, ____ is a kind of transmitter that develops type B emission.","[""Arc"",""Spark"",""Alexanderson"",""High end""]",1
+"High speed network as defined by the NTC memorandum circular are network in ICT that have a capacity of at least _______.","[""2.048 Mbps"",""3.048 Mbps"",""20.48 Mbps"",""5.05 Mbps""]",0
+"Type of radio communication transmission utilizing frequency modulation technique","[""Television"",""Broadcasting in 535-1606 kHz"",""Single side band HF transmission"",""Television Audio""]",3
+"What frequency standard can be used to calibrate the tuning dial of the receiver?","[""A sweep generator"",""A deviation meter"",""A calibrated voltmeter"",""Signals from WWV and WWVH""]",3
+"In stereo FM, a 38 kHz subcarrier is used for the L-R signal. It is derive from a pilot subcarrier of","[""9.5 kHz"",""38 kHz"",""19 kHz"",""76 kHz""]",2
+"An area characterized to have no interference but with fading or intermittent variations in intensity is ___.","[""Primary service area"",""Intermediate service area"",""Tertiary service area"",""Secondary service area""]",3
+"Where does the FM broadcast band located in the spectrum band?","[""ELF band"",""UHF band"",""HF band"",""WHF band""]",3
+"What is the reason why Frequency modulation is used in the broadcast video recording on tape?","[""High capacity"",""Low noise"",""Compressed bandwidth"",""Faster recording""]",1
+"As part of the KBP Technical Requirement for FM which polarization was not recommended for use?","[""Horizontal"",""Vertical"",""Circular"",""Elliptical""]",1
+"Antenna current, as specified in KBP definitions, is defined as a condition of","[""No modulation"",""80% modulation"",""85% modulation"",""100% modulation""]",0
+"ABS-CBN’s DXAB medium frequency broadcast station operates in …","[""Luzon"",""Visaya"",""Mindanao"",""Manila""]",2
+"International broadcast stations…","[""Broadcast on shortwave frequencies between 5.95 MHz and 26.1 MHz"",""Can be operated by both government and private entities"",""Has transmissions which are intended to be received directly by the general public in foreign countries"",""Is licensed by the NTC only when operated by private entities""]",0
+"Two FM broadcast stations are in Quezon City and another in Manila proper may be authorized to operate with a frequency separation less than 800 kHz.","[""True"",""False"",""Cannot tell"",""Sometimes""]",1
+"For Philippines AM broadcasting, according to standards, the maximum allowed modulation for satisfactory operation","[""75%"",""85%"",""90%"",""100%""]",1
+"A third symbol radio emission represents telephone transmission including sound broadcasting.","[""W"",""F"",""C"",""E""]",3
+"Which broadcast parameter of the primary FM station is allowed to be changed in the operation of FM broadcast translator?","[""Frequency"",""Power"",""Information content"",""A and B""]",3
+"Input power, as defined by KBP, in the product of the voltage and current at the output of the last radio stage, measured…","[""At 85 % modulation"",""Without modulation"",""At 90% modulation"",""At 100% modulation""]",1
+"In determining an antenna’s height above average terrain (HAAT), how many radial directions from the site are involved in the computation?","[""4"",""8"",""12"",""16""]",1
+"If DZFE 89.7’s antenna height above average terrain (HAAT) is 190 feet, what is the depression angle of the radio horizon?","[""0.17\u00b0"",""0.21\u00b0"",""0.27\u00b0"",""0.31\u00b0""]",1
+"The method of generating FM used by broadcasting station is","[""Direct"",""All of these"",""Indirect"",""Insertion""]",2
+"The maximum power suggested by KBP on 919-1312 AM broadcast station in Metro Manila","[""10 kW"",""20 kW"",""15 kW"",""5 kW""]",1
+"Production of radiation by transmitting station","[""Monitoring"",""Emission"",""Radiation"",""Transmission""]",1
+"A form of single emission where the degree of carrier suppression enables the carrier to be reconstituted and be used for demodulation.","[""Half carrier single sideband emission"",""Full carrier single sideband emission"",""Reduced carrier single sideband emission"",""Double sideband emission""]",2
+"When does a broadcast station conduct an equipment test?","[""During day time"",""At any time"",""During night time"",""During experimental period""]",3
+"The lowest resistance grounding on earth.","[""Sand"",""Limestone"",""Surface loam soil"",""Clay""]",2
+"The frequency spectrum of the stereophonic FM signal.","[""67 kHz"",""59.5 kHz \u2013 74.5 kHz"",""19 kHz \u2013 38 kHz"",""30 kHz \u2013 53 kHz""]",3
+"What is the maximum color TV bandwidth?","[""1.6 MHz"",""0.5 MHz"",""1.5 MHz"",""1.3 MHz""]",3
+"A beam antenna has a height of 10 meters over a service area. Determine the beam tilt angle.","[""0.088\u00b0"",""8.8\u00b0"",""9.2\u00b0"",""0.9\u00b0""]",0
+"Listing of the date and time of events, programs, equipment, test, malfunctions, and corrections in communication system.","[""File"",""Documentation"",""Reporting"",""Log""]",3
+"Sawtooth generator circuits produce the scanning raster but the sync pulses are needed for","[""linearity"",""timing"",""keystoning"",""line pairing""]",1
+"Which of the following camera tubes has minimum lag?","[""Vidicon"",""Plumbicon"",""Saticon"",""Iconoscope""]",1
+"The service are in standard AM broadcast is described as ______ if there is no fading of signal.","[""Class A"",""Secondary"",""Class B"",""Primary""]",3
+"The vertical field-scanning frequency is ______ Hz.","[""30"",""60"",""525"",""15,750""]",1
+"A 4.5-MHz signal which is equal to the difference between the picture and sound RF carrier frequencies in a 6-MHz TV channel.","[""Audio frequency"",""Video frequency"",""Intercarrier frequency"",""Subcarrier frequency""]",2
+"A system where the modulated RF picture and sound carrier signals are distributed in a cable network, instead of wireless system.","[""CCTV"",""MATV"",""CATV"",""SATV""]",2
+"A class A FM station is limited in antenna height of ______ feet above average terrain.","[""1000"",""2000"",""4000"",""5000""]",1
+"What circuit in the TV receiver is used to develop the high voltage needed to operate the picture tube?","[""Low-voltage power supply"",""Horizontal output"",""Vertical sweep"",""Sync separator""]",1
+"The modulated picture carrier wave includes the composite video signal as the","[""Average carrier level"",""Symmetric envelope of amplitude variations"",""Lower sideband without the upper sideband"",""Upper envelope without the lower envelope""]",1
+"With which emission type is the capture-effect more pronounced?","[""CW"",""FM"",""SSB"",""AM""]",1
+"The hue of color sync phase is","[""red"",""cyan"",""blue"",""yellow green""]",3
+"How much is the equivalent internal resistance of the electron beam with a 1.2-mA beam current at 25 kV?","[""48 nano ohms"",""30 ohms"",""20.8 mega ohms"",""15.6 kilo ohms""]",2
+"The difference between the picture and sound carrier frequencies for channel 3 is ______ MHz.","[""3.58"",""64.5"",""4.5"",""6.75""]",2
+"Refers to the deviation of the operating frequency of a crystal oscillator from its nominal value due to temperature variations.","[""drift"",""flashover"",""frequency deviation"",""deviation ratio""]",0
+"It is the measure of how many picture elements can be reproduced","[""definition"",""resolution"",""detail"",""any of these""]",3
+"A 3.58-MHz subcarrier signal for color in television","[""Hue signal"",""Video signal"",""Audio signal"",""Chroma signal""]",3
+"A class D FM station shall have an authorized power not exceeding ______ watts.","[""20"",""15"",""10"",""5""]",2
+"Which of the following is not a benefit of cable TV?","[""Lower-cost reception"",""Greater stability"",""Less noise, stronger signal"",""Premium cable channels""]",0
+"The width of the vertical sync pulse in the Philippine TV system is","[""21H"",""3H"",""H"",""0.5H""]",1
+"Term in communication which is referred, “to send out in all direction”","[""announce"",""broadcast"",""transmit"",""media""]",1
+"The number of frames per second in the Philippine TV system is","[""60"",""262 \u00bd"",""4.5"",""30""]",3
+"It means multiple outlines of edges to the right in the picture.","[""ghosting"",""ringing"",""fading"",""snowing""]",0
+"In the Sawtooth waveform for linear scanning,","[""the linear rise is for flyback"",""the complete cycle includes trace and retrace"",""the sharp reversal in amplitude produces trace"",""the beam moves faster during trace and retrace""]",1
+"The purpose of pre-emphasis and de-emphasis in FM broadcasting is to:","[""increase the high frequency amplitude"",""improve the audio harmonic"",""decrease the low frequency amplitude"",""improve the S\/N ratio""]",3
+"The part of the visible spectrum where camera pickup tubes have the greatest output is","[""red"",""blue"",""yellow-green"",""infrared""]",2
+"The type of modulation of the sound carrier signal is ______.","[""Pulse motion"",""Phase modulation"",""Amplitude modulation"",""Frequency modulation""]",3
+"A video or audio signal that can be used directly to reproduce the picture and sound.","[""Baseband signal"",""Broadband signal"",""Electromagnetic wave signal"",""Modulated signal""]",0
+"Class B FM station should have an ERP not exceeding ______ kW.","[""50"",""40"",""30"",""20""]",2
+"What technique is used to permit hundreds of TV signals to share a common cable?","[""Frequency modulation"",""Mixing"",""Frequency division multiplexing"",""Time division multiplexing""]",2
+"Another name for the horizontal retrace in a TV receiver is the","[""ringing"",""burst"",""damper"",""flyback""]",3
+"In the Philippine color television system, the intercarrier frequency, in MHz, is","[""3.58"",""3.579645"",""4.5"",""45.75""]",2
+"In channel 14 (470 to 476 MHz), the 3.58-MHz color signal is transmitted at","[""471.25 MHz"",""473.25 MHz"",""474.83 MHz"",""475.25 MHz""]",2
+"Interlaced scanning eliminates","[""snowing"",""flicker"",""distortion"",""fading""]",1
+"Beam alignment magnets for the camera tube are adjusted while rocking which color?","[""Optical focus"",""Electrical focus"",""Beam current"",""Shading""]",1
+"What is a frequency discriminator?","[""An FM generator"",""A circuit for detecting FM"",""A circuit for filtering two closely adjacent signals"",""An automatic bandwidth circuit""]",1
+"A system used in television field operation to make on-the-spot video tape recordings using portable TV cameras and VTRs.","[""SNG"",""ENG"",""HAFC"",""MATV""]",1
+"Class B FM station shall have an authorized transmitter power not exceeding ______ kW.","[""10"",""100"",""1000"",""10000""]",0
+"The total bandwidth of an NTSC TV signal is","[""3.58 MHz"",""4.5 MHz"",""6 MHz"",""10.7 MHz""]",2
+"Referred to the oscillator signal “leak through” from a property neutralized amplifier such as a master oscillator power amplifier.","[""carrier"",""stray signal"",""back wave"",""loss wave""]",2
+"Interlacing is used in television to","[""produce the illusion of motion"",""ensure that all lines on the screen are scanned, not merely the alternate ones"",""simply the vertical sync pulse train"",""avoid flicker""]",3
+"Coaxial cable for distribution system has an impedance of","[""50 ohms"",""75 ohms"",""150 ohms"",""300 ohms""]",1
+"The average voltage value of the 3.58-MHz modulated chrominance signal is","[""zero for most colors"",""close to black for yellow"",""the brightness of the color"",""the saturation of the color""]",2
+"When does broadcast station conduct an equipment test?","[""during day time"",""during night time"",""during experimental period"",""at any time""]",2
+"It causes the picture information to spread out or crowded at one end of the rater compared to the opposite end.","[""Linear scanning"",""Interlaced scanning"",""Non-linear scanning"",""Retrace""]",2
+"If the camera cannot be placed far away enough to include everything in the scene, change the lens to one with a","[""lower f rating"",""higher f rating"",""longer focal length"",""shorter focal length""]",3
+"Type of radio communication transmission utilizing frequency modulation technique","[""television video"",""broadcasting in 535-1606 kHz"",""single sideband HF transmission"",""television audio""]",0
+"The amount of color in the picture or color intensity in the ______.","[""color level"",""chroma level"",""saturation"",""any of these""]",3
+"One of the early radio transmitters which produced keyed carrier generating purer waveform than spark transmitter, used for high powered RF transmission and are limited to radio frequency of about 500 kHz.","[""Arc transmitter"",""Hartley transmitter"",""Spark transmitter"",""Frequency transmitter""]",0
+"A technique where segments of videotape are joined by electronic erasing and recording to create a single program.","[""masking"",""segmenting"",""editing"",""programming""]",2
+"The assembly around the neck of a picture tube that produces the magnetic fields that deflect and scan the electron beams is called the _________.","[""shadow mask"",""phosphor"",""electron gun"",""yoke""]",3
+"An odd number of lines per frame form part of every one of the world’s TV systems. This is _____________________.","[""done to assist interface"",""purely an accident"",""to ensure that line and frame frequencies can be obtained from the same original source"",""done to minimize interference with the chroma subcarrier""]",0
+"The difference between the sound carrier and the color signal is","[""4.5 MHz"",""1.25 MHz"",""0.92 MHz"",""0.25 MHz""]",2
+"In color television, it is made for uniform color in the raster.","[""beam-landing adjustment"",""degaussing"",""internal blanking adjustment"",""background control""]",0
+"Which of the following camera tubes uses lead oxide for the photoconductive target plate?","[""vidicon"",""plumbicon"",""saticon"",""image orthicon""]",1
+"The number of fields is ______ per frame.","[""2"",""60"",""525"",""262.5""]",0
+"An RF carrier wave that is frequency – modulated by the baseband audio signal in TV broadcasting.","[""Audio signal"",""Video signal"",""Intercarrier signal"",""Color signal""]",0
+"A class B FM station is limited in antenna height of ____ feet.","[""1000"",""500"",""250"",""100""]",1
+"The HV anode supply for the picture tube of a TV receiver is generated in the","[""mains transformer"",""vertical output stage"",""horizontal output stage"",""horizontal deflection oscillator""]",2
+"A tap for the subscriber drop line has a","[""high insertion loss"",""high tap loss"",""low tap loss"",""300-ohm impedance""]",0
+"Which system can be used for both recording and playback?","[""CED"",""VHD"",""laser disk"",""VHS""]",3
+"The hue 180 degrees out of phase with red is ______.","[""cyan"",""yellow"",""green"",""blue""]",0
+"It is used around the phosphor dots to make a darker black which improves contrast in the picture.","[""black masking"",""convergence adjustment"",""shadow masking"",""color parity adjustment""]",0
+"A lens with lower f rating is _____ lens that allows more light input.","[""slower"",""wider"",""narrower"",""faster""]",3
+"Picture frames are repeated at the rate of ___ per second.","[""30"",""60"",""45"",""50""]",0
+"The effective radiated power of a class A FM station should not exceed ______ kW.","[""125"",""30"",""10"",""1""]",0
+"In television, 4:3 represents the","[""interface ratio"",""maximum horizontal deflection"",""aspect ratio"",""ration of the two diagonals""]",2
+"Titling the video head gaps is necessary with the","[""color under"",""zero guard bands"",""FM luminance signal"",""Long \u2013 play tapes""]",1
+"It is a special camera tube with a test pattern printed in the image plate.","[""vidicon"",""monoscope"",""oscilloscope"",""iconoscope""]",1
+"The number of lines scanned per frame in the raster on the picture tube screen is","[""525"",""262 \u00bd"",""20"",""10""]",0
+"One of the following is a high powered RF ac basic transmitter that has two or more stages, the oscillator stage which determines the frequency of operation and RF amplifier stage or stages that develop the high power output. The purpose of which is to develop a good frequency stability.","[""MOPA"",""Hartley"",""Alexanderson"",""Goldsmith""]",0
+"Camera signal output without sync is called ______.","[""black burst"",""generator lock video"",""composite video"",""non-composite video""]",3
+"The tint of the color is its _____.","[""brightness"",""contrast"",""chroma"",""hue""]",3
+"Which frequency band is the standard AM radio broadcast?","[""HF"",""UHF"",""MF"",""VHF""]",2
+"The I and Q composite color signals are multiplexed onto the picture carrier by modulating a 3.58 MHz subcarrier using","[""FM"",""PM"",""DSB AM"",""Vestigial sideband AM""]",2
+"The shadow mask in color picture tube is used to","[""Reduce X-ray emission"",""Ensure that each beam hits only its dots"",""Increase screen brightness"",""Provide degaussing for the screen""]",1
+"The video heads rotate at high velocity to increase the","[""tape speed"",""writing speed"",""reel rotation"",""tape tension""]",1
+"How do you eliminate radio frequency variation of an oscillator transmitter caused by its supply voltage?","[""use of a regulated power supply"",""use of a new power supply"",""use of high capacitor in the supply circuit"",""loosen power supply shielding""]",0
+"The composite video signal includes the camera signal with the following except","[""picture information"",""sync pulses"",""blanking pulses"",""camera signal""]",3
+"A lens has an 8-cm focal length and 4-cm diameter. Its f rating is","[""2"",""4"",""8"",""32""]",0
+"Which of the following is a possible cause for an abrupt frequency variation in a self – excited transmitter oscillator circuits resulting poor frequency stability to hold a constant frequency oscillation?","[""DC and RF AC heating of resistor which cause a change in values"",""Heating and expansion of oscillator coil"",""Heating of capacitor in the oscillator"",""Power supply voltage changes""]",3
+"How long does it take to scan 2 picture elements when 400 are scanned in 50 microseconds?","[""25 microsec"",""0.25 microsec"",""2.5 microsec"",""0.5 microsec""]",1
+"Anode voltage for the picture tube, developed from the output of the horizontal deflection circuit.","[""Yoke voltage"",""Flyback voltage"",""Aquadag voltage"",""Tube voltage""]",1
+"The channel spacing in the Philippine FM broadcast standards","[""400 kHz"",""800 kHz"",""600 kHz"",""200 kHz""]",1
+"What is the black-and-white or monochrome brightness signal in TV called?","[""RGB"",""Color subcarrier"",""Q an I"",""Luminance Y""]",3
+"Which of the following is a midband cable TV channel?","[""6"",""7"",""14"",""23""]",2
+"What is the primary purpose of an RF amplifier in a receiver?","[""to vary the receiver image rejection by utilizing the AGC"",""to provide most of the receiver gain"",""to develop the AGC voltage"",""to improve the receiver\u2019s noise figure""]",3
+"The color with the most luminance is","[""red"",""yellow"",""green"",""blue""]",1
+"It is the light flux intercepted by a one-foot-square surface that is one-foot from a one-candlepower source.","[""candela"",""footcandle"",""lux"",""lumens""]",1
+"Refers to the possible cause of an abrupt frequency variations in a self-excited transmitter oscillator circuit resulting to a poor frequency stability to hold a constant oscillator.","[""poor soldered connections"",""heating of capacitor in the oscillator"",""DC and AC heating of resistors which cause change in values"",""Aging which cause change in condition in parts characteristics""]",0
+"It is the difference in intensity between the black parts and white parts of the picture.","[""brightness"",""hue"",""contrast"",""illumination""]",2
+"The stereophonic subcarrier suppression level in the Philippines standards","[""less than 4% modulation of the main carrier"",""less than 3% modulation of the main carrier"",""less than 2% modulation of the main carrier"",""less than 1% modulation of the main carrier""]",3
+"The sound IF in a TV receiver is","[""4.5 MHz"",""10.7 MHz"",""41.25 MHz"",""45.75 MHz""]",2
+"The circuit the separates sync pulse from the composite video waveforms is","[""the keyed AGC amplifier"",""a clipper"",""an integrator"",""a differentiator""]",1
+"In the CED system, the disk capacitance varies with the","[""pit depth"",""disk size"",""speed of rotation"",""wavelength of the scanning light""]",0
+"The final power amplifier in an FM transmitter usually operates class ______.","[""AB"",""C"",""B"",""A""]",1
+"In a picture tube, it is the total angle that the beam can be deflected without touching the sides of the envelope.","[""screen angle"",""tube angle"",""picture angle"",""deflection angle""]",3
+"It is necessary to time the scanning with respect to picture information","[""flyback"",""synchronization"",""blanking"",""scanning""]",1
+"The intermediate frequency used in for FM broadcasting Philippine standards.","[""455 kHz"",""10.7 MHz"",""11.4 MHz"",""12.5 MHz""]",1
+"In basic radio transmitter, the main advantage of a single-tube transmitter is","[""Frequency instability"",""Non-portable"",""Heating effect"",""Bulky""]",0
+"The carrier transmitted 1.25 MHz above the bottom frequency in a Philippine TV channel is the","[""Sound carrier"",""Chroma carrier"",""Intercarrier"",""Picture carrier""]",3
+"In camera tubes, it means that the old image remains too long after the picture information on the target plate has changed.","[""Light lag"",""Switch lag"",""Image lag"",""Camera lag""]",2
+"What is the maximum color TV bandwidth?","[""1.6 MHz"",""0.5 MHz"",""1.0 MHz"",""1.3 MHz""]",3
+"Class of FM station where its authorized power should not exceed 15 kW.","[""Class A"",""Class B"",""Class C"",""Class D""]",0
+"What is the name of the solid state imaging device used in TV cameras that converts the light in a scene into an electrical signal?","[""CCD"",""Phototube matrix"",""Vidicon"",""MOSFET array""]",0
+"The signals sent by the transmitter to ensure correct scanning in the receiver is called","[""Sync"",""Chroma"",""Luminance"",""Video""]",0
+"What signals are transmitted by a SSBSC transmitter when no modulating signal is present?","[""The upper sideband only"",""Both the upper and lower sideband"",""The lower sideband"",""No signal transmitted""]",3
+"The second IF value for color in receivers, for any station, is","[""0.5 MHz"",""1.3 MHz"",""3.58 MHz"",""4.5 MHz""]",2
+"In the frame for which interfaced scanning is used, alternate lines are skipped during vertical scanning because","[""The trace is slower than retrace"",""The vertical scanning frequency is doubled from 30 to 60 Hz"",""The horizontal scanning is slower than vertical scanning"",""The frame has a 4:3 aspect ratio""]",1
+"A typical value of vidicon dark current is","[""0.2 microampere"",""About 200 microampere"",""8 milliampere"",""800 milliampere""]",0
+"The smallest are of light or shade in the image is a picture element called","[""Chroma"",""Hue"",""Contrast"",""Pixel""]",3
+"An entry of the time the station begins to supply power to the antenna and the time it stops.","[""Operating log entries"",""Program log entries"",""Operating schedule"",""Any of these""]",3
+"What type of circuit is used to modulate and demodulate the color signals?","[""Phase-locked loop"",""Differential peak detector"",""Quadrature detector"",""Balanced modulator""]",3
+"This is referred to as a fixed radio station that broadcast program material from audio to transmitter by radio link.","[""Aural BC intercity relay"",""Aural broadcast STL"",""Short wave station"",""Remove pick-up""]",1
+"Indicate which of the following frequencies will not be found in the output of a normal TV receiver tuner.","[""4.5 MHz"",""41.25 MHz"",""45.75 MHz"",""42.17 MHz""]",0
+"In all standard television broadcast channels , the difference between the picture and sound carrier frequencies is","[""0.25 MHz"",""1.25 MHz"",""4.5 MHz"",""6 MHz""]",2
+"It is caused by phase distortion for video frequencies of about 100 kHz and lower.","[""Streaking"",""Snowing"",""Ringing"",""Fading""]",0
+"Special effects and production switching are done by the","[""CCU"",""ENG camera"",""SEG"",""Sync generator""]",2
+"A picture has 400 horizontal and 300 vertical picture elements. What is the total number of details in the picture?","[""120,000"",""700"",""0.75"",""100""]",0
+"After the IF stages have been aligned, the next stage to align in FM receiver is","[""Local oscillator"",""Limiter stage"",""RF amplifier"",""Mixer stage""]",0
+"What ensures proper color synchronization at the receiver?","[""Sync pulses"",""Quadrature modulation"",""4.5-MHz intercarrier sound"",""3.58-MHz color burst""]",3
+"The interfering beat frequency of 920 kHz is between the 3.58-MHz color subcarrier and the","[""4.5-MHz intercarrier sound"",""Picture carrier"",""Lower adjacent sound"",""Upper adjacent picture""]",0
+"Light is converted to video signal by the _____ tube.","[""Camera tube"",""Picture tube"",""Anode tube"",""Cathode tube""]",0
+"The frequency spectrum of the stereophonic FM signal.","[""67 kHz"",""59.5 to 74.5 kHz"",""19 to 38 kHz"",""30 to 53 kHz""]",3
+"Equalizing pulses in TV are sent during","[""Horizontal blanking"",""Vertical blanking"",""The serrations"",""The horizontal retrace""]",1
+"Which signal has color information for 1.3 MHz bandwidth?","[""I"",""Y"",""R-Y"",""B-Y""]",0
+"It is the distance from the center of the lens of the camera to the point at which parallel rays from a distant object come to a common focal point.","[""Focal length"",""Latus rectum"",""Major axis"",""Minor axis""]",0
+"The method of generating FM used by broadcast station is","[""Direct"",""Indirect"",""Insertion"",""All of these""]",1
+"The picture and sound carrier frequencies in a TV receiver IF are respectively.","[""41.25 and 45.75 MHz"",""45.75 and 41.25 MHz"",""41.75 and 45.25 MHz"",""45.25 and 41.75 MHz""]",1
+"The channel width in the Philippine TV system, in MHz, is","[""41.25"",""6"",""4.5"",""3.58""]",1
+"The cable converter output or the TV receiver is usually on channel","[""3"",""6"",""7"",""9""]",0
+"One-half line spacing between the start positions for scanning even and odd fields produces","[""Linear scanning"",""Line pairing"",""Fishtailing"",""Exact interlacing""]",3
+"Precise scanning size and linearity are most important in","[""A black-and-white camera"",""Plumbicon"",""A single-tube color pickup"",""A saticon""]",2
+"A signal in which the sum of all signals which frequency-modulates the main carrier.","[""Composite baseband signal"",""FM baseband"",""Main channel signal"",""Stereophonic signal""]",0
+"What is the total number of interlaced scan lines in one complete frame of a NTSC Philippine TV signal?","[""262 \u00bd"",""525"",""480"",""625""]",1
+"The video voltage applied to the picture tube of a television receiver is fed in","[""Between grid and ground"",""To the yoke"",""To the anode"",""Between the grid and cathode""]",3
+"How many dBmV units correspond to a 1-mV signal level?","[""0"",""1"",""3"",""6""]",0
+"In color television, it is made to maintain neutral white from low to high levels of brightness.","[""Internal color adjustment"",""Color-temperature adjustments"",""Shadow masking"",""Convergence adjustment""]",1
+"Average power of a radio transmitter supplied to the antenna transmission line by a transmitter during one radio frequency cycle taken under the condition or no modulation.","[""Peak envelope power"",""Rated power"",""Carrier power"",""Mean power""]",2
+"The number of scanning lines is ____ per second.","[""525"",""262 \u00bd"",""15,750"",""30""]",2
+"The ratio of the actual frequency swing to the frequency swing defined as 100 percent modulation, expressed in percentage.","[""Modulation index"",""Deviation ration"",""Maximum deviation"",""Percentage modulation""]",3
+"In a TV receiver, the color killer","[""Cuts off the chroma stages during monochrome reception"",""Ensures that no color is transmitted to monochrome receivers"",""Prevents color coding"",""Make sure that the color burst is not mistaken for sync pulses, by cutting off reception during the back porch.""]",0
+"How many TV fields are recorded on one slant track of tape?","[""1"",""2"",""4"",""60""]",0
+"A communication circuit using class C amplifier is considered a narrow band amplifier if the bandwidth is less than _____ % of its resonant frequency.","[""15"",""13"",""10"",""20""]",2
+"The width of a vertical sync pulse with its serrations includes the time of","[""Six half-lines, or three lines"",""Five lines"",""Three half-lines"",""Five half-lines""]",0
+"A low-contrast picture in which white seems flat and lacking in detail suggests","[""Low beam current"",""High gain in the pre-amplifier"",""Excessive gamma"",""Insufficient scanning width""]",0
+"The product of the transmitter power multiplied by the antenna power gain of the antenna field gain squared.","[""Field intensity"",""Field gain"",""ERP"",""Electric field strength""]",2
+"What keeps the scanning process at the receiver in step with the scanning in the picture tube at the receiver?","[""Nothing"",""Sync pulses"",""Color burst"",""Deflection oscillators""]",1
+"In a basic transmitter, ________is a kind of transmitter that develops type B emission.","[""Arc"",""Spark"",""Alexanderson"",""High end""]",1
+"It is a number that indicates how contrast is expanded or compressed.","[""Alpha"",""Beta"",""Gamma"",""Sigma""]",2
+"Color picture tubes have ______ guns for its phosphors.","[""1"",""2"",""3"",""4""]",2
+"The FM broadcast band is divided into _____ channels are suggested by KBP.","[""200"",""100"",""50"",""25""]",3
+"The output of the vertical amplifier, applied to the yoke in a TV receiver, consists of","[""Direct current"",""Amplified vertical sync pulse"",""A sawtooth voltage"",""A sawtooth current""]",3
+"The frequency spectrum of the stereophonic FM signal.","[""67 kHz"",""59.5 kHz to 74.5 kHz"",""19 kHz to 38 kHz"",""30 kHz to 53 kHz""]",3
+"What is the video frequency response corresponding to the horizontal resolution of 200 lines?","[""4 MHz"",""1.5 MHz"",""4.5 MHz"",""2.5 MHz""]",3
+"The gamma of the picture tube is","[""0.4545"",""1.0"",""1.4"",""2.2""]",3
+"It is the instantaneous departure of the frequency of the emitted wave from the center frequency resulting from modulation.","[""Deviation"",""Frequency swing"",""Phase shift"",""Deviation ratio""]",1
+"If a TV sound transmitter has a carrier frequency of 197.75 MHz, the picture carrier is","[""191.75 MHz"",""193.25 MHz"",""202.25 MHz"",""203.75 MHz""]",1
+"The number of lines per field in the Philippine TV system is","[""262 \u00bd"",""525"",""30"",""60""]",0
+"What is the best site of an AM broadcast transmitter?","[""Marshy land"",""Dry land"",""Highly elevated"",""Average terrain""]",0
+"What is the hue of a color 90 degrees leading sync burst phase?","[""Yellow"",""Cyan"",""Blue"",""Orange""]",1
+"The two black conductive coatings of picture tubes are made up of","[""Phosphor"",""Aquadag"",""Cavity"",""Nickel""]",1
+"The maximum power allocation of AM transmitter in Metro Manila in kW is","[""10 kW"",""20 kW"",""40 kW"",""30 kW""]",3
+"The function of the serrations in the composite video waveforms is to","[""Equalize the change in the integrator before the start of vertical retrace"",""Help vertical synchronization"",""Help horizontal synchronization"",""Simplify the generation of the vertical sync pulse""]",2
+"Which system uses a light beam for playback?","[""CED"",""VHD"",""Betamax"",""VLP""]",3
+"Weak emission from one cathode in a tricolor picture tube causes","[""A weak picture"",""A long warm-up time"",""A color imbalance in the raster and picture"",""All of these""]",3
+"In AM broadcast, the current carrier shift at any percentage of modulation shall not exceed","[""5%"",""15%"",""20%"",""2.5%""]",0
+"Indicate which voltages are not found in the output of a normal monochrome receiver video detector.","[""Sync"",""Video"",""Sweep"",""Sound""]",2
+"The sawtooth waveform for deflection provides _______.","[""Horizontal deflection"",""Distortions"",""Linear scanning"",""Flicker""]",2
+"In AM broadcast, the transmitter must be capable of maintaining the operating frequency within the limits of ______.","[""+\/- 10 Hz"",""+\/- 20 Hz"",""+\/- 25 Hz"",""+\/- 75 Hz""]",1
+"How much illumination in lux a 400-candlepower make that is 3 meters from the surface?","[""133.3"",""1200"",""200"",""44.4""]",3
+"Brightness variations of the picture information are in which signal?","[""I"",""Q"",""Y"",""R-Y""]",2
+"How many octaves is the frequency range of 1 to 8 MHz?","[""1"",""2"",""3"",""8""]",2
+"For television, the maximum deviation of the FM sound signal in kHz.","[""10"",""25"",""75"",""100""]",1
+"Indicate which of the following signals is not transmitted in color TV","[""Y"",""Q"",""R"",""I""]",2
+"Emission outside of the assigned channel, as a result of the modulation process.","[""Over modulation"",""Spurious emission"",""Out-of-band emission"",""In band emission""]",1
+"Determine which of the following is not part of RF section of a radio transmitter.","[""Master oscillator"",""Buffer amplifier"",""AF voltage amplifier"",""Frequency amplifier""]",2
+"The power of any conducted spurious emission shall be attenuated below the maximum level of carrier frequency in accordance with the following formula:","[""Attenuation (dB) = 43 + 20 log P"",""Attenuation (dB) = 43 + log P"",""Attenuation (dB) = 43 + 10 log P"",""Attenuation (dB) = 43 + log P\/10""]",2
+"In television, gamma affects _____","[""Color"",""Contrast"",""Brightness"",""Hue""]",1
+"In the IRE scale for the composite video signal, what is the number of IRE units for sync?","[""7.5"",""92.5"",""40"",""10""]",2
+"As prescribed by the technical standards for Cable Television operation and in order to be compatible for any value added services in the future, Trunk cable should have a minimum diameter of _______.","[""0.25 inch"",""0.5 inch"",""0.75 inch"",""1.0 inch""]",1
+"Compared with 100 percent saturation, the desaturated color have","[""More luminance for the Y signal"",""Less luminance for the Y signal"",""More chrominance for the C signal"",""Less hue for the C signal""]",0
+"What is the practical baseband frequency for the color video signal?","[""1 MHz"",""2 MHz"",""0.2 MHz"",""0.5 MHz""]",3
+"What is the diagonal screen size for the 19CP4 picture tube?","[""21"",""23"",""4"",""19""]",3
+"What is the phase angle between B – Y and R – Y?","[""180 deg"",""45 deg"",""90 deg"",""270 deg""]",2
+"How many gray scale steps are in the EIA test pattern in television?","[""10"",""40"",""50"",""15""]",0
+"In TV, degaussing is done with _____.","[""Direct current"",""Pulsed current"",""Alternating current"",""Any of these""]",2
+"R, G and B video drive controls set for ________.","[""Black"",""Dark gray"",""White"",""Light gray""]",2
+"What is the phase difference between the color sync burst and the B – Y video?","[""180 deg"",""45 deg"",""90 deg"",""270 deg""]",0
+"What is the hue of the color sync burst?","[""Yellow-green"",""Red"",""Blue"",""Orange""]",0
+"What synchronizes the horizontal of the TV picture tube?","[""HSC"",""HAFC"",""HFC"",""HAC""]",1
+"What is the typical anode voltage for a 25-inch color picture tube?","[""3 kV"",""20 kV"",""10 kV"",""30 kV""]",3
+"In television, what is the phosphor number for monochrome picture tube?","[""P4"",""P21"",""P22"",""P3""]",0
+"In television picture tube, what is the color of the P1 phosphor?","[""Red"",""Green"",""Yellow"",""Blue""]",1
+"What video frequency corresponds to 240 lines of horizontal resolution?","[""1 MHz"",""3 MHz"",""2 MHz"",""4 MHz""]",1
+"The minimum FM broadcast transmitter power in metro manila and metro cebu is","[""25 kW"",""10 kW"",""1 kW"",""30 kW""]",1
+"The maximum power suggested by KBP on 919-1312 AM broadcast station in Metro Manila.","[""10 kW"",""20 kW"",""15 kW"",""5 kW""]",1

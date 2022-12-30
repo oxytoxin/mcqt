@@ -1,0 +1,101 @@
+﻿question,choices,answer
+"In how many minutes after <strong>7 o’clock</strong> will the hands be directly opposite each other for the first time?","[""5.22 minutes"",""5.33 minutes"",""5.46 minutes"",""5.54 minutes""]",2
+"What time after <strong>3 o’clock</strong> will the hands of the clock are together for the first time?","[""3:02.30"",""3:17.37"",""3:14.32"",""3:16.36""]",3
+"At what time after <strong>12:00 noon</strong> will the hour hand and minute hand of the clock first form an angle of 120o?","[""12:18.818"",""12:21.818"",""12:22.818"",""12:24.818""]",1
+"At what time between <strong>8 and 9 o’clock</strong> will the minute hand coincide with the hour hand?","[""8:42.5"",""8:43.2"",""8:43.6"",""8:43.9""]",2
+"A man left his home at past <strong>3:00 o’clock PM</strong> as indicated in his wall clock, between 2 to 3 hours after, he returns home and noticed the hands of the clock interchanged. At what time did the man leave his home?","[""3:31.47"",""3:21.45"",""3:46.10"",""3:36.50""]",0
+"Form the time <strong>6:15 PM to the time 7:45 PM</strong> of the same day, the minute hand of a standard clock describes an arc of?","[""60\u00b0"",""90\u00b0"",""180\u00b0"",""540\u00b0""]",3
+"A storage battery discharges at a rate which is proportional to the charge. If the charge is reduced by <strong>50%</strong> of its original value at the end of 2 days, how long will it take to reduce the charge to 25% of its original charge?","[""3"",""4"",""5"",""6""]",0
+"The resistance of a wire varies directly with its length and inversely with its area. If a certain piece of wire 10 m long and 0.10 cm in diameter has a resistance of 100 ohms, what will its resistance be if its is uniformly stretched so that its length becomes <strong>12 m</strong>?","[""80"",""90"",""144"",""120""]",2
+"Given that “<strong>w</strong>” varies directly as the product of “<strong>x</strong>” and “<strong>y</strong>” and inversely as the square of “<strong>z</strong>” and that w = 4 when x = 2, y = 6 and z = 3. Find the value of “w” when x = 1, y = 4 and z = 2.","[""3"",""4"",""5"",""6""]",0
+"If <strong>x</strong> varies directly as <strong>y</strong> and inversely as <strong>z</strong>, and x = 14 when y =7 and z = 2, find the value of x when y = 16 and z = 4.","[""14"",""4"",""16"",""8""]",2
+"The electric power which a transmission line can transmit is proportional to the product of its design voltage and current capacity, and inversely to the transmission distance. A 115-kilovolt line rated at 100 amperes can transmit 150 megawatts over 150 km. How much power, in megawatts can a 230 kilovolt line rated at 150 amperes transmit over 100 km?","[""785"",""485"",""675"",""595""]",2
+"The time required for an elevator to lift a weight varies directly with the weight and the distance through which it is to be lifted and inversely as the power of the motor. If it takes 30s seconds for a 10hp motor to lift 100 lbs through 50 feet, what size of motor is required to lift 800 lbs in 40s seconds through 40 feet?","[""42"",""44"",""46"",""48""]",3
+"The selling price of TV set is double that of its cost. If the TV set was sold to a customer at a profit of <strong>25%</strong> of the net cost, how much discount was given to the customer?","[""33.7%"",""35.7%"",""37.7%"",""34.7%""]",2
+"A group of EE examinees decided to hire a mathematics tutor from Excel Review Center and planned to contribute equal amount for the tutor’s fee. If there were 10 more examinees, each would have paid P2 less. However, if there were 5 less examinees, each would have paid P2 more. How many examinees are there in the group?","[""14"",""16"",""18"",""20""]",3
+"A bookstore purchased a best selling price book at <strong>P200.00</strong> per copy. At what price should this book be sold so that, giving a 20% discount, the profit is 30%?","[""P 450"",""P 500"",""P 357"",""P 400""]",2
+"Jojo bought a second hand Betamax VCR and then sold it to Rudy at a profit of 40%. Rudy then sold the VCR to Noel at a profit of 20%. If Noel paid P2, 856 more than it cost to Jojo, how much did Jojo paid for the unit?","[""P 4,000"",""P 4,100"",""P 4,200"",""P 4,300""]",2
+"In a certain community of 1,200 people, 60% are literate. Of the males, 50% are literate and of the females 70% are literate. What is the female population?","[""850"",""500"",""550"",""600""]",3
+"A merchant has three items on sale, namely a radio for P50, a clock for P30 and a flashlight for P1. At the end of the day, he sold a total of 100 of the three items and has taken exactly P1000 on the total sales. How many radios did he sale?","[""16"",""20"",""18"",""24""]",0
+"The sum of three arithmetic means between <strong>34 and 42</strong> is?","[""114"",""124"",""134"",""144""]",0
+"Gravity causes a body to fall 16.1 ft in the first second, 48.3 in the 2nd second, 80.5 in the 3rd second. How far did the body fall during the 10th second?","[""248.7 ft"",""308.1 ft"",""241.5 ft"",""305.9 ft""]",3
+"If the first term of arithmetic progression is 25 and the fourth term is 13, what is the third term?","[""17"",""18"",""19"",""20""]",0
+"Find the 30th term of the arithmetic progression 4, 7, 10, ….","[""75"",""88"",""90"",""91""]",3
+"How many terms of the progression 3, 5, 7, … must be taken in order that their sum will be 2600?","[""48"",""49"",""50"",""51""]",2
+"In pile of logs, each layer contains one more log than the layer above and the top contains just one log. If there are 105 logs in the pile, how many layers are there?","[""11"",""12"",""13"",""14""]",3
+"What is the sum of the progression 4, 9, 14, 19 … up to the 20th term?","[""1030"",""1035"",""1040"",""1045""]",0
+"A stack of bricks has 61 bricks in the bottom layer, 58 bricks in the second layer, 55 bricks in the third layer, and so on until there are 10 bricks in the last layer. How many bricks are there all together?","[""638"",""637"",""639"",""640""]",2
+"Determine the sum of the progression if there are 7 arithmetic mean between <strong>3 and 35</strong>.","[""171"",""182"",""232"",""216""]",0
+"A besiege fortress is held by <strong>5700 men</strong> who have provisions for 66 days. If the garrison losses 20 men each day, for how many days can the provision hold out?","[""72"",""74"",""76"",""78""]",2
+"In the recent “Gulf War” in the Middle East, the allied forces captured 6400 of Saddam’s soldiers and with provisions on hand it will last for <strong>216 meals</strong> while feeding 3 meals a day. The provision lasted 9 more days because of daily deaths. At an average, how many died per day?","[""15"",""16"",""17"",""18""]",3
+"A Geodetic Engineering student got a score of <strong>30%</strong> on Test 1 of the five number test in Surveying. On the last number he got 90% in which a constant difference more on each number that he had on the immediately preceding one. What was his average score in Surveying?","[""50"",""55"",""60"",""65""]",2
+"If the sum of 220 and the first term is 10, find the common difference if the last term is 30.","[""2"",""5"",""3"",""2\/3""]",0
+"Once a month, a man puts some money into the cookie jar. Each month he puts 50 centavos more into the jar than the month before. After 12 years, he counted his money, he had P5, 436. How much money did he put in the jar in the last month?","[""P 73.50"",""P 75.50"",""P 74.50"",""P 72. 50""]",0
+"A girl on a bicycle coasts downhill is covering 4 feet the first second, 12 feet the second second, and in general, 8 feet more each second than the previous second. If she reaches the bottom at the end of 14 seconds, how far did she coasts?","[""782 feet"",""780 feet"",""784 feet"",""786 feet""]",2
+"When all odd numbers from <strong>1 to 101</strong> are added, the result is?","[""2500"",""2601"",""2501"",""3500""]",1
+"How many times will a grandfather’s clock strikes in one day if it strikes only at the hours and strike once at 1 o’clock, twice at 2 o’clock, thrice at 3 o’clock and so on?","[""210"",""24"",""156"",""300""]",2
+"To conserve energy due to the present energy crisis, the Meralco tried to re-adjust their charges to electrical energy users who consume more than 2000 kw-hrs. For the first 100 kw-hr, they charged 40 centavos and increasing at a constant rate more than the preceding one until the fifth 100 kw-hr, the charge is 76 centavos. How much is the average charge for the electrical energy per 100 kw-hr?","[""58 centavos"",""60 centavos"",""62 centavos"",""64 centavos""]",0
+"The 3rd term of a harmonic progression is <strong>15</strong> and the 9th term is 6. Find the 11th term.","[""4"",""5"",""6"",""7""]",1
+"Find the <strong>fourth term</strong> of the progression ½, 0.2, 0.125, . . .","[""1\/10"",""1\/11"",""0.102"",""0.099""]",1
+"Find the <strong>9th term</strong> of the harmonic progression 3, 2, 3/2….","[""3\/5"",""3\/8"",""4\/5"",""4\/9""]",0
+"Find the sum of <strong>4 geometric means</strong> between 160 and 5.","[""130"",""140"",""150"",""160""]",2
+"The fourth term of a G.P. is 216 and the 6th term is 1944. Find the 8th term.","[""17649"",""17496"",""16749"",""17964""]",1
+"Determine x so that: x, 2x + 7, 10x – 7 will be a geometric progression.","[""7, -7\/12"",""7, -5\/6"",""7, -14\/5"",""7, -7\/6""]",3
+"If one third of the air in a tank is removed by each stroke of an air pump, what fractional part of the total air is removed in 6 strokes?","[""0.7122"",""0.9122"",""0.6122"",""0.8122""]",1
+"A product has a current selling of P325.00. If it’s selling price is expected to decline at the rate of 10% per annum because of obsolescence, what will be its selling price four years hence?","[""P 213.33"",""P 202.75"",""P 302.75"",""P156.00""]",0
+"The numbers 28, x + 2, 112 form a G.P. What is the 10th term?","[""14336"",""13463"",""16433"",""16344""]",0
+"The sum of the first 10 terms of geometric progression 2, 4, 8, …","[""1023"",""2046"",""225"",""1596""]",1
+"If the first term of G.P. is <strong>9</strong> and the common ration is -2/3, find the fifth term.","[""8\/5"",""16\/9"",""15\/7"",""13\/4""]",1
+"The seventh term is <strong>56</strong> and the twelfth term is <strong>-1792</strong> of a geometric progression. Find the common ratio and the first term. Assume the rations are equal.","[""-2, 5\/8"",""-1, 5\/8"",""-1, 7\/8"",""-2, 7\/8""]",3
+"A person has 2 parents, 4 grandparents, 8 great grandparents and so on. How many ancestors during the 15 generations preceding his own, assuming no duplication?","[""131070"",""65534"",""32766"",""16383""]",1
+"If the PBA three-point shootout-contest, the committee decided to give a prize in the following manner. A price of P1 for the first basket made, P2 for the second, P4 for the third, P8 for the fourth and so on. If the contestant wants to win a prize of no less than a million pesos, what is the minimum number of baskets to be converted?","[""20"",""19"",""18"",""21""]",0
+"In a benefit show, a number of wealthy men agreed that the first one to arrive would pay 10 centavos to enter and each later arrive would pay twice as much as the preceding man. The total amount collected from all of them was <strong>P 104,857.50</strong>. How many wealthy men paid?","[""18"",""19"",""20"",""21""]",2
+"A man mailed 10 chain letters to ten of his friends with a request to continue by sending similar letter to each of their ten friends. If this continue for 6 sets of letters and if all responded, how much will the Phil. Postal Office earn if minimum postage costs P4 per letter?","[""P 6,000,000"",""P 60,000"",""P 2,222,220"",""P 4,444,440""]",3
+"Under the favourable condition, single cell bacteria divided into two about <strong>every 20 minutes</strong>. If the same rate of division is maintained for 10 hours, how many organisms is produced from a single cell?","[""1,073,741"",""1,730.74"",""1,073,741,823"",""1,037,417""]",2
+"A rubber ball is made to fall from a height of <strong>50 feet</strong> and is observed to rebound 2/3 of the distance it falls. How far will the ball travel before coming to rest if the ball continues to fall in this manner?","[""200 feet"",""225 feet"",""250 feet"",""275 feet""]",2
+"Find the sum of the infinite geometric progression 6, -2, 2/3, . . .","[""9\/2"",""5\/2"",""7\/2"",""11\/2""]",0
+"Find the ratio of an infinite geometric progression if the sum is <strong>2</strong> and the first term is <strong>½</strong>.","[""1\/3"",""1\/2"",""3\/4"",""1\/4""]",2
+"If equal spheres are piled in the form of a complete pyramid with an equilateral; triangle as base, find the total number of spheres in the pile if each side of the base contains <strong>4 spheres</strong>.","[""15"",""20"",""18"",""21""]",1
+"Find the <strong>6th term</strong> of the sequence 55, 40, 28, 19, 13, . . .","[""10"",""9"",""8"",""11""]",0
+"In the series 1, 1, ½, 1/6, 1/24, . . .determine the <strong>6th term</strong>.","[""1\/80"",""1\/74"",""1\/100"",""1\/120""]",3
+"The sum of the progression 5, 8, 11, 14 …. is 1025. How many terms are there?","[""22"",""23"",""24"",""25""]",3
+"There are seven arithmetic means between 3 and 35. Find the sum of all terms.","[""169"",""171"",""167"",""173""]",1
+"There are line (9) arithmetic means between 11 and 51. The sum of the progression is:","[""279"",""341"",""376"",""254""]",1
+"The sum of all even numbers from 0 to 420 is:","[""43410"",""44300"",""44310"",""44130""]",2
+"Which of the following numbers should be changed to make all the numbers form an arithmetic progression when properly arranged?","[""27\/14"",""33\/28"",""45\/28"",""20\/14""]",2
+"The first term of an arithmetic progression (A.P.) is 6 and the 10th term is 3 times the second number. What is the common difference?","[""1"",""2"",""3"",""4""]",1
+"The sum of five arithmetic means between 34 and 42 is:","[""150"",""160"",""190"",""210""]",2
+"The positive values of a so that 4x, 5x + 4, 3x<sup>2</sup> – 1will be in arithmetic progression is:","[""2"",""3"",""4"",""5""]",2
+"Solve for x if x + 3x + 5x + 7x + … + 49x = 625","[""\u00bc"",""\u00bd"",""1"",""1 \u00bc""]",2
+"The 10th term of the series a, a – b, a – 2b, … is:","[""a \u2013 6b"",""a \u2013 9b"",""2a \u2013 b"",""a + 9b""]",1
+"If the sum of the first 13 terms of two arithmetic progressions are in the ratio 7:3, find the ratio of their corresponding 7th term.","[""3:7"",""1:3"",""7:3"",""6:7""]",2
+"If 1/x, 1/y, 1/z are in arithmetic progression, then y is equal to:","[""x \u2013 z"",""\u00bd(x + 2z)"",""(x + z)\/2xz"",""2xz\/(x + z)""]",3
+"Find the 30th term of the A.P. 4, 7, 10 …","[""88"",""91"",""75"",""90""]",1
+"Find the 100th term of the sequence 1.01, 1.00, 0.99….","[""0.05"",""0.04"",""0.03"",""0.02""]",3
+"The sum of all numbers between 0 and 10000 which is exactly divisible by 77 is:","[""546546"",""645568"",""645645"",""645722""]",2
+"What is the sum of the following finite sequence of terms? 18, 25, 32, 39, .., 67.","[""234"",""181"",""213"",""340""]",3
+"Find x in the series: 1, 1/3, 0.2, x.","[""1\/6"",""1\/8"",""1\/7"",""1\/9""]",2
+"Find the fourth term of the progression ½, 0.2, 0.125, …","[""0.102"",""1\/10"",""1\/11"",""0.099""]",2
+"The 10th term of the progression 6/4, 4/3, 3/2, … is:","[""12"",""10\/3"",""12\/3"",""13\/3""]",0
+"The geometric mean of 4 and 64 is:","[""48"",""16"",""34"",""24""]",1
+"The geometric mean of a and b is:","[""\u221aab"",""(a+b)\/2"",""1\/b"",""ab\/2""]",0
+"Determine the sum of the infinite geometric series of 1, -1/5,+1/25, …?","[""4\/5"",""5\/7"",""4\/6"",""5\/6""]",3
+"There are 6 geometric means between 4 and 8748. Find the sum of all terms.","[""13120"",""15480"",""10250"",""9840""]",0
+"Find the sum of the infinite progression 6, -2, -2/3 …","[""5\/2"",""9\/2"",""7\/2"",""11\/2""]",1
+"Find the sum of the first 10 terms of the Geometric Progression 2, 4, 8, 16 …","[""1023"",""2046"",""1596"",""225""]",1
+"The 1st, 4th, 8th terms of an A.P. are themselves geometric progression (G.P.). What is the common ratio of the G.P.?","[""4\/3"",""5\/3"",""2"",""7\/3""]",0
+"Determine x so that x, 2x + 7, 10x – 7 will form a geometric progression.","[""-7"",""6"",""7"",""-6""]",2
+"The fourth term of a geometric progression is 189 and the sixth term is 1701, the 8th term is:","[""5103"",""1240029"",""45927"",""15309""]",3
+"The sum of the numbers in arithmetical progression is 45. If 2 is added to the first number, 3 to the second and 7 to the third, the new numbers will be in geometrical progression. Find the common difference in A.P.","[""-5"",""10"",""6"",""5""]",3
+"The geometric mean and the harmonic mean of two numbers are 12 and 36/5 respectively. What are the numbers?","[""36 &amp; 4"",""72 &amp; 8"",""36 &amp; 8"",""72 &amp; 4""]",0
+"If x, 4x + 8, 30x + 24 are in geometrical progression, find the common ratio.","[""2"",""4"",""6"",""8""]",2
+"A besiege fortress is held by 5700 men who have provision for 66 days. If the garrison loses 20 men each day, for how many days can the provision hold out?","[""60"",""72"",""76"",""82""]",2
+"If one third of the air in the tank is removed by each stroke of an air pump, what fractional part of the total air is removed in 6 strokes?","[""0.9122"",""0.0877"",""0.8211"",""0.7145""]",0
+"A rubber ball is dropped from a height of 15 m. On each rebound, it rises 2/3 of the height from which it last fell. Find the distance traveled by the ball before it becomes to rest.","[""75 m"",""96 m"",""100 m"",""85 m""]",0
+"In the recent Bosnia conflict, The NATO forces captured 6400 soldiers. The provisions on hand will last for 216 meals while feeding 3 meals a day. The provisions lasted 9 more days because of daily deaths. At an average, how many died per day?","[""15.2"",""17.8"",""18.3"",""19.4""]",1
+"To build a dam, 60 men must work 72 days. If all 60 men are employed at the start but the number is decreased by 5 men at the end of each 12-day period, how long will it take to complete the dam?","[""108 days"",""9 days"",""94 days"",""60 days""]",0
+"In a benefit show, a number of wealthy men agreed that the first one to arrive would pay 10 centavos to enter and each later arrival would pay twice as much as the preceding man. The total amount collected from all of them was P104857.50. How may wealthy men had paid?","[""18"",""19"",""20"",""21""]",2
+"In a class of 40 students, 27 students like Calculus and 25 like Geometry. How many students liked both Calculus and Geometry?","[""10"",""14"",""11"",""12""]",3
+"A class of 40 took examination in Algebra and Trigonometry. If 30 passed Algebra, 36 passed Trigonometry, and 2 failed in both subjects, the number of students who passed the two subjects is:","[""2"",""8"",""28"",""25""]",2
+"The probability for the ECE board examinees from a certain school to pass the Mathematics subject is 3/7 and that for the Communications subject is 5/7. If none of the examinees failed in both subjects and there are 4 examinees who pass both subjects, how many examinees from the school took the examination?","[""28"",""27"",""26"",""32""]",0
+"In a commercial survey involving 1000 persons on brand preferences, 120 were found to prefer brand x only, 200 persons prefer brand y only, 150 persons prefer brand z only, 370 prefer either brand x or y not z, 450 prefer brand y or z but not x, and 370 prefer wither brand z or x but not y, and none prefer all the three brands at a time. How many persons have no brand preference with any of the three brands?","[""120"",""280"",""70"",""320""]",1

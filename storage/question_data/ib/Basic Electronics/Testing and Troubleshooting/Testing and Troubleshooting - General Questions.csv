@@ -1,0 +1,13 @@
+question,A,B,C,D,E,answer,explanation
+<p>A series of gradually decreasing sine wave oscillations is called:</p>,ringing,slew,overshooting,undershooting,,A,
+<p>The determination of a digital signal's frequency and       waveshape is best accomplished with which test equipment?</p>,an oscilloscope,a multimeter,a spectrum analyzer,a frequency generator,,A,
+"<p>A logic probe is placed on the output of a gate and the display indicator is dim. A logic pulser is used on each of the input terminals, but the output indication does not change. What is wrong?</p>",The dim indication on the logic probe indicates that the supply voltage is probably low.,The output of the gate appears to be open.,The LOW indication is the result of a bad ground connection on the logic probe.,The gate is a tri-state device.,,B,
+"<p>A +5 V PCB power source that has been ""pulled down"" to a +3.4 V level may be due to:</p>",a circuit open,a faulty regulator,the half-split method,a circuit short,,D,
+<p>Measurement of pulse width should be taken at a 50% mean of the:</p>,overshoot and undershoot,rise and fall,damping and ringing,leading and trailing amplitude,,B,
+<p>Which test equipment best allows a comparison between input and output signals?</p>,an oscilloscope,a logic probe,a spectrum analyzer,a multitrace oscilloscope,,D,
+<p>The duty cycle of a pulse is determined by which formula?</p>,"Duty Cycle = <img align=""absmiddle"" alt=""mca22_1007a1.gif"" src=""/_files/images/basic-electronics/complete/mca22_1007a1.gif""/>","Duty Cycle = <img align=""absmiddle"" alt=""mca22_1007b1.gif"" src=""/_files/images/basic-electronics/complete/mca22_1007b1.gif""/>","Duty Cycle = <img align=""absmiddle"" alt=""mca22_1007c1.gif"" src=""/_files/images/basic-electronics/complete/mca22_1007c1.gif""/>","Duty Cycle = <img align=""absmiddle"" alt=""mca22_1007d1.gif"" src=""/_files/images/basic-electronics/complete/mca22_1007d1.gif""/>",,A,
+<p>What is the next step after discovering a faulty gate within an IC?</p>,repair the gate,resolder the tracks,replace the IC involved,recheck the power source,,C,
+<p>The use of a multimeter with digital circuits allows the measurement of:</p>,pulse width,voltage or resistance,current,pulse trains,,B,
+<p>The use of triggered sweep when using an oscilloscope provides more accuracy in which area?</p>,frequency,amplitude,graticule activity,timing,,D,
+<p>The time needed for a pulse to increase from 10% to 90% of its amplitude defines:</p>,pulse width,propagation delay,rise time,duty cycle,,C,
+<p>Which device would best aid in shorted track detection?</p>,multimeter,current tracer,logic pulser,oscilloscope,,B,

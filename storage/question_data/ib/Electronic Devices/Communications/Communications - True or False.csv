@@ -1,0 +1,11 @@
+question,A,B,C,D,E,answer,explanation
+<p>The purpose of the balanced modulator is to remove the carrier frequency.</p>,True,False,,,,A,
+<p>The mixer takes the RF signal along with the audio signal to produce the IF signal.</p>,True,False,,,,B,
+<p>The IF of an FM receiver operates at a center frequency of 455 kHz.</p>,True,False,,,,B,
+<p>A balanced modulator is used in standard AM to obtain the sum and difference frequencies.</p>,True,False,,,,B,
+<p>The demodulator recovers the audio signal from the IF output.</p>,True,False,,,,A,
+<p>Selectivity in a receiver is provided by the resonant circuits of the IF section.</p>,True,False,,,,A,
+"<p>An AM signal is made up of a carrier, an upper-side frequency, and a lower-side frequency.</p>",True,False,,,,A,
+<p>Frequency modulation is achieved by varying the frequency of an oscillator with a modulating signal.</p>,True,False,,,,A,
+<p>A VCO is a variable capacitance oscillator.</p>,True,False,,,,B, A voltage-controlled oscillator or VCO is an electronic oscillator designed to be controlled in oscillation frequency by a voltage input. 
+<p>Amplitude modulation is the process of varying the radio frequency with the modulating frequency.</p>,True,False,,,,B,

@@ -1,0 +1,43 @@
+question,A,B,C,D,E,answer,explanation
+"<p>Refer to this figure. Determine the minimum value of I<sub>B</sub> that will produce saturation.
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq4_1015_1.jpeg""/></p>",0.25 mA,"5.325 <img src=""/_files/images/electronic-devices-and-circuit-theory/mu.gif""/>A","1.065 <img src=""/_files/images/electronic-devices-and-circuit-theory/mu.gif""/>A","10.425 <img src=""/_files/images/electronic-devices-and-circuit-theory/mu.gif""/>A",,D,
+"<p>A transistor amplifier has a voltage gain of 100. If the input voltage is 75 mV, the output voltage is:</p>",1.33 V,7.5 V,13.3 V,15 V,,B,
+"<p>Refer to this figure. If V<sub>CE</sub> = 0.2 V, I<sub>C(sat)</sub> is:
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq4_1015_1.jpeg""/></p>",0.05 mA,2.085 mA,1.065 mA,7.4 mA,,B,
+<p>What is the ratio of I<sub>C</sub> to I<sub>B</sub>?</p>,"<img src=""/_files/images/electronic-devices-and-circuit-theory/beta.gif""/><sub>DC</sub>",h<sub>FE</sub>,"<img src=""/_files/images/electronic-devices-and-circuit-theory/alpha.gif""/><sub>DC</sub>","either <img src=""/_files/images/electronic-devices-and-circuit-theory/beta.gif""/><sub>DC</sub> or h<sub>FE</sub>, but not <img src=""/_files/images/electronic-devices-and-circuit-theory/alpha.gif""/><sub>DC</sub>",,D,
+"<p>For normal operation of a pnp BJT, the base must be ________ with respect to the emitter and ________ with respect to the collector.</p>","positive, negative","positive, positive","negative, positive","negative, negative",,C,
+"<p>Refer to this figure. The value of V<sub>BC</sub> is:<br/><br/>
+<img src=""/_files/images/electronic-devices-and-circuit-theory/mcq4_1012_1.jpeg""/></p>",9.2 V,9.9 V,–9.9 V,–9.2 V,,D,
+"<p>When a transistor is used as a switch, it is stable in which two distinct regions?</p>",saturation and active,active and cutoff,saturation and cutoff,none of the above,,C,
+<p>The term BJT is short for</p>,base junction transistor.,binary junction transistor.,both junction transistor.,bipolar junction transistor.,,D,
+"<p>For a silicon transistor, when a base-emitter junction is forward-biased, it has a nominal voltage drop of</p>",0.7 V.,0.3 V.,0.2 V.,V<sub>CC</sub>.,,A,
+"<p>A certain transistor has I<sub>C</sub> = 15 mA and I<sub>B</sub> = 167 <img src=""/_files/images/electronic-devices-and-circuit-theory/mu.gif""/>A; <img src=""/_files/images/electronic-devices-and-circuit-theory/beta.gif""/><sub>DC</sub> is:</p>",15,167,0.011,90,,D,
+"<p>Refer to this figure. The value of V<sub>CE</sub> is:<br/><br/>
+<img src=""/_files/images/electronic-devices-and-circuit-theory/mcq4_1012_1.jpeg""/></p>",9.9 V,9.2 V,0.7 V,19.3 V,,A,
+"<p>What does <img src=""/_files/images/electronic-devices-and-circuit-theory/beta.gif""/><sub>DC</sub> vary with?</p>",I<sub>C</sub>,ºC,both I<sub>C</sub> and ºC,"I<sub>C</sub>, but not ºC",,C,
+"<p>A BJT has an I<sub>B</sub> of 50 <img src=""/_files/images/electronic-devices-and-circuit-theory/mu.gif""/>A and a <img src=""/_files/images/electronic-devices-and-circuit-theory/beta.gif""/><sub>DC</sub> of 75; I<sub>C</sub> is:</p>",375 mA,37.5 mA,3.75 mA,0.375 mA,,C,
+"<p>Refer to this figure. The value of V<sub>BE</sub> is:<br/><br/>
+<img src=""/_files/images/electronic-devices-and-circuit-theory/mcq4_1012_1.jpeg""/></p>",0.6 V,0.7 V,1.2 V,0.079 V,,B,
+<p>What are the two types of bipolar junction transistors?</p>,npn and pnp,pnn and nnp,ppn and nnp,pts and stp,,A,
+"<p>In this circuit <img src=""/_files/images/electronic-devices-and-circuit-theory/beta.gif""/><sub>DC</sub> = 100 and V<sub>IN</sub> = 8 V. The value of R<sub>B</sub> that will produce saturation is:
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq4_1018_1.jpeg""/></p>","92 k<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>","9.1 M<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>","100 k<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>","150 k<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>",,A,
+"<p>The value of <img src=""/_files/images/electronic-devices-and-circuit-theory/beta.gif""/><sub>DC</sub></p>",is fixed for any particular transistor.,varies with temperature.,varies with I<sub>C</sub>.,varies with temperature and I<sub>C</sub>.,,D,
+"<p>A transistor data sheet usually identifies <img src=""/_files/images/electronic-devices-and-circuit-theory/beta.gif""/><sub>DC</sub> as</p>",h<sub>re</sub>.,h<sub>FE</sub>.,I<sub>C</sub>.,V<sub>CE</sub>.,,B,
+<p>What is the ratio of I<sub>C</sub> to I<sub>E</sub>?</p>,"<img src=""/_files/images/electronic-devices-and-circuit-theory/beta.gif""/><sub>DC</sub>","<img src=""/_files/images/electronic-devices-and-circuit-theory/beta.gif""/><sub>DC</sub> / (<img src=""/_files/images/electronic-devices-and-circuit-theory/beta.gif""/><sub>DC</sub> + 1)","<img src=""/_files/images/electronic-devices-and-circuit-theory/alpha.gif""/><sub>DC</sub>","either <img src=""/_files/images/electronic-devices-and-circuit-theory/beta.gif""/><sub>DC</sub> / (<img src=""/_files/images/electronic-devices-and-circuit-theory/beta.gif""/><sub>DC</sub> + 1) or <img src=""/_files/images/electronic-devices-and-circuit-theory/alpha.gif""/><sub>DC</sub>, but not <img src=""/_files/images/electronic-devices-and-circuit-theory/beta.gif""/><sub>DC</sub>",,D,
+"<p>Refer to this figure. The value of <img src=""/_files/images/electronic-devices-and-circuit-theory/beta.gif""/><sub>DC</sub> = 100 and V<sub>IN</sub> = 8 V. Determine I<sub>C(sat)</sub>.
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq4_1018_1.jpeg""/></p>",18 mA,7.92 mA,1.8 mA,"8 <img src=""/_files/images/electronic-devices-and-circuit-theory/mu.gif""/>A",,B,
+<p>Which of the following is true for an npn or pnp transistor?</p>,I<sub>E</sub> = I<sub>B</sub> + I<sub>C</sub>,I<sub>B </sub>= I<sub>C</sub>+ I<sub>E</sub>,I<sub>C</sub> = I<sub>B</sub> + I<sub>E</sub>,none of the above,,A,
+"<p>What is the order of doping, from heavily to lightly doped, for each region?</p>","base, collector, emitter","emitter, collector, base","emitter, base, collector","collector, emitter, base",,B,
+<p>In what range of voltages is the transistor in the linear region of its operation?</p>,0 &lt; V<sub>CE</sub>,0.7 &lt; V<sub>CE</sub> &lt; V<sub>CE(max)</sub>,V<sub>CE(max) </sub>&gt; V<sub>CE</sub>,none of the above,,B,
+<p>The magnitude of dark current in a phototransistor usually falls in what range?</p>,mA,μA,nA,pA,,C,
+"<p>A 35 mV signal is applied to the base of a properly biased transistor with an r'<sub>e</sub> = 8 <img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/> and R<sub>C</sub> = 1 k<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>. The output signal voltage at the collector is:</p>",3.5 V,28.57 V,4.375 mV,4.375 V,,D,
+<p>What is (are) general-purpose/small-signal transistors case type(s)?</p>,TO-18,TO-92,TO-39,TO-52,all of the above,E,
+<p>What is (are) common fault(s) in a BJT-based circuit?</p>,opens or shorts internal to the transistor,open bias resistor(s),external opens and shorts on the circuit board,all of the above,,D,
+<p>The dc load line on a family of collector characteristic curves of a transistor shows the</p>,saturation region.,cutoff region.,active region.,all of the above,,D,
+"<p>Refer to this figure. Determine the minimum value of V<sub>IN</sub> from the following that will saturate this transistor.
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq4_1015_1.jpeg""/></p>",13.21 V,12.51 V,0.7 V,9.4 V,,A,

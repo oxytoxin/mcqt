@@ -1,0 +1,15 @@
+question,A,B,C,D,E,answer,explanation
+<p>The optically coupled isolator interrupter module is used to transfer switching information between two electrically isolated points.</p>,True,False,,,,B,
+<p>A photodiode is a device that produces light.</p>,True,False,,,,B,
+"<p>To turn an SCR off, simply remove the gate voltage.</p>",True,False,,,,B,
+<p>A thermistor is a semiconductor device that acts like a piezoresistive resistor.</p>,True,False,,,,B,
+"<p>A silicon-controlled rectifier (SCR) has 3 terminals labeled base, collector, and emitter.</p>",True,False,,,,B,
+<p>The DIAC conducts in only one direction when gated on.</p>,True,False,,,,B,
+<p>A DIAC is a bidirectional diode that has a symmetrical switching mode.</p>,True,False,,,,A,
+<p>A transducer does not convert energy from one form to another.</p>,True,False,,,,B,
+<p>A semiconductor using the hall effect will detect magnetic fields.</p>,True,False,,,,A,
+"<p>The silicon-controlled rectifier (SCR) is a three-layer device consisting of a gate, an anode, and a cathode.</p>",True,False,,,,B," A silicon-controlled rectifier (or semiconductor-controlled rectifier) is a four-layer solid state device that controls current. The name ""silicon controlled rectifier"" or SCR is General Electric's trade name for a type of thyristor. The SCR was developed by a team of power engineers led by Gordon Hall and commercialized by Frank W. ""Bill"" Gutzwiller in 1957. "
+<p>The gate of a TRIAC can turn it on to have current flow in either direction.</p>,True,False,,,,A,
+<p>SCRs are four-layer devices that are either fully conducting or not conducting.</p>,True,False,,,,A,
+<p>A TRIAC will control AC voltage during the positive half cycle only.</p>,True,False,,,,B,
+<p>A TRIAC can be triggered or activated by either a positive or a negative input gate trigger.</p>,True,False,,,,A,

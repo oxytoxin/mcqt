@@ -1,0 +1,12 @@
+question,A,B,C,D,E,answer,explanation
+<p>It is best to check a transistor in-circuit before removing it.</p>,True,False,,,,A,
+"<p>A BJT consists of three regions: base, emitter, and collector.</p>",True,False,,,,A,
+"<p>BJT transistors are of two general types, npn and pnp.</p>",True,False,,,,A,
+"<p>In saturation, both the base-collector and base-emitter junctions are forward-biased.</p>",True,False,,,,A,
+"<p><img src=""/_files/images/electronic-devices-and-circuit-theory/beta.gif""/><sub>DC</sub> is the ratio of I<sub>C</sub> to I<sub>E</sub>.</p>",True,False,,,,B,
+"<p>P<sub>D(max) </sub>is usually specified at 25°C. For higher temperatures, the value of P<sub>D(max)</sub> is greater.</p>",True,False,,,,B,
+<p>Both junctions of a BJT should be forward-biased for linear operation.</p>,True,False,,,,B,
+"<p>If maximum I<sub>C</sub> and maximum V<sub>CE</sub> are applied to a BJT, maximum power dissipation will not be exceeded.</p>",True,False,,,,B,
+"<p><img src=""/_files/images/electronic-devices-and-circuit-theory/alpha.gif""/> <sub>DC</sub> = I<sub>E</sub>/I<sub>C</sub></p>",True,False,,,,B,
+"<p>A<sub>v</sub> <img src=""/_files/images/electronic-devices-and-circuit-theory/approxequal.gif""/> R<sub>C</sub>/r<sup>'</sup><sub>e</sub></p>",True,False,,,,A,
+<p>Phototransistors usually respond only to light in the red or infrared spectrum.</p>,True,False,,,,A,

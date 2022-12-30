@@ -1,0 +1,52 @@
+question,A,B,C,D,E,answer,explanation
+<p>What are the two main applications for ac?</p>,"direct, pulsating","electric, magnetic","power, information","static, dynamic",,C,
+<p>The distance that a signal's energy can travel in the time it takes for one cycle to occur is called the signal's:</p>,amplitude,frequency,wavelength,period,,C,
+<p>One oscilloscope selector knob that allows the major and minor divisions of the graticule to be used to determine a signal amplitude value is called the:</p>,time/cm control,position control,intensity control,volts/cm control,,D,
+"<p>If current varies periodically from zero to a maximum, back to zero, and then repeats, the signal is:</p>",direct,alternating,pulsating,repetitive,,C,
+<p>What voltage will an ac voltmeter display?</p>,rms,average,peak,peak-to-peak,,A,
+<p>What is the peak value of a household appliance that uses a 230 V ac source?</p>,163 V,230 V,325 V,480 V,,C,
+<p>What is the waveform period difference between the 60 Hz electricity used in this country and the 50 Hz used in Europe?</p>,3 ms,16 ms,4 ms,20 ms,,A,
+<p>Test equipment selection enables the technician to both generate signals and:</p>,change circuit conditions,inject signals,sense circuit conditions,change signal frequencies,,C,
+<p>Why is ac current transfer more effective than dc current transfer over long distances?</p>,due to the height of power lines,due to the use of ac generators,due to step-up and step-down transformers reducing I<sup>2</sup>R losses,due to very high voltages,,C,
+<p>A sine wave reaches maximum positive voltage at:</p>,90°,0°,–90°,360°,,A,
+<p>Which percentages of full-amplitude rise time are used for a pulse wave?</p>,0 to 50 percent,0 to 100 percent,5 to 95 percent,10 to 90 percent,,D,
+<p>What is the average value of a 12 V peak wave?</p>,3.82 V,4.24 V,7.64 V,9.42 V,,C,
+"<p>A test equipment item that has the ability to produce either square, triangular, or sawtooth waveforms is called:</p>",a function generator,a radio frequency generator,an audio frequency generator,a frequency meter or counter,,A,
+"<p>The current is flowing in what direction?<br/><br/><img alt=""mcq6_1005_1.gif"" src=""/_files/images/basic-electronics/complete/mcq6_1005_1.gif""/></p>",clockwise,counterclockwise,in both directions at the same time,50% of the time clockwise and 50% of the time counterclockwise,,D,
+<p>What does the CRT oscilloscope display?</p>,voltage and period,current and frequency,rms voltage and current,frequency and voltage,,A,
+"<p>Power companies supply ac, not dc, because:</p>",it is easier to transmit ac,there is no longer a need for dc,dc is more dangerous,there are not enough batteries,,A,
+"<p>If a waveform period is determined to be 10 microseconds in duration, what is the frequency of the signal?</p>",100 Hz,1000 Hz,10 kHz,100 kHz,,D,
+<p>The phase difference between sine waves of different frequencies is:</p>,equal to their frequency differences,the difference in their fixed time displacement,the same throughout time,constantly changing,,B,
+"<p>If a sine wave signal is 100 mV peak-to-peak, how many volts would be measured by a voltmeter?</p>",14.14 mV,35.4 mV,63.7 mV,70.7 mV,,B,
+<p>What term expresses the frequency of a rectangular wave?</p>,Hz,period,PRF,PRT,,C,
+<p>AC effective voltage is named:</p>,average,peak,peak-to-peak,root mean square,,D,
+"<p>If a voltmeter measures a sine wave as 500 mV, what would be its average value?</p>",159.0 mV,318.5 mV,353.5 mV,451.0 mV,,D," <p>Some AC Voltage Conversion: </p>
+<br/>
+<p>Peak to rms:     multiply peak by 0.707.</p>
+<p>Peak to average: multiply peak by 0.637.</p>
+<p>Rms to peak:     multiply rms  by 1.414.</p>
+<p>Rms to average:  multiply rms  by 0.9.</p>
+<p>Average to rms:  multiply avg  by 1.111.</p>
+<p>Average to peak: multiply avg  by 1.567.</p>
+<br/>
+<p>Mostly voltmeter shows rms value. So, Vav = 0.9*Vrms </p>
+<p> = 0.9*500.</p>
+<p> = 450mV ~ [D] 451 mV.</p> "
+<p>One adjustable knob on the oscilloscope that allows the trace to be aligned with a reference graticule is called the:</p>,position control,focus control,intensity control,volts/cm control,,A,
+<p>Signal comparisons may be most easily seen when using which item of test equipment?</p>,spectrum analyzer,multimeter,function generator,dual trace oscilloscope,,D,
+<p>The magnitude that an alternation varies from zero is called its:</p>,altitude,amplitude,attitude,polarity,,B,
+<p>The power that is distributed from a power plant to your home is:</p>,high voltage to high voltage,low voltage to high voltage,high voltage to low voltage,low voltage to low voltage,,C,
+<p>A rectangular wave that has a duty cycle of 50 percent could be called a:</p>,c wave,sawtooth wave,square wave,triangle wave,,C,
+<p>A triangle wave consists of repeating:</p>,positive ramps only,negative ramps only,positive and negative ramps of equal value,positive and negative ramps of unequal value,,C,
+<p>What is the name of a device used to directly measure the frequency of a periodic wave?</p>,oscilloscope,frequency meter or counter,audio frequency generator,radio frequency generator,,B,
+<p>Which control should be moved to display more cycles of a signal on an oscilloscope?</p>,horizontal position to left or right,volts/cm to a smaller number,vertical position to top or bottom,time/cm to a higher setting,,D,
+<p>What is the name of a device that converts sound waves to electrical waves?</p>,an amplifier,an antenna,a filter,a microphone,,D,
+"<p>If the frequency of a radio wave is increased, then its wavelength will:</p>",increase,decrease,remain the same,cannot tell,,B,
+<p>What is the rms voltage value of an ac signal whose peak oscilloscope display uses 3 major divisions above the zero setting? (V/cm = 5)</p>,5.3 V,10.6 V,15.0 V,21.2 V,,B,
+<p>What is the peak-to-peak current value when an ammeter measures a 20 mA value?</p>,14 mA,28 mA,40 mA,57 mA,,D,
+"<p>How long would it take to transmit an electromagnetic wave to a receiving antenna 1,000 miles away?</p>",5.38 ms,10.8 ms,53.8 ms,108 ms,,A,
+<p>What is the waveform period of a square wave signal that horizontally covers 3 major divisions per cycle? (time/cm = 50 ms)</p>,50 ms,100 ms,150 ms,200 ms,,C,
+<p>A sine wave has:</p>,four quadrants,two alternations,one period,all of the above,,D,
+<p>What is the peak-to peak voltage of a 56 V<sub>rms</sub> ac voltage?</p>,158 V,164 V,82 V,79 V,,A,
+<p>One oscilloscope selector knob that allows the major and minor divisions of the graticule to be used to determine a waveform period is called a:</p>,focus control,time/cm control,intensity control,volts/cm control,,B,
+<p>What is the period of a 16 MHz sine wave?</p>,196 ns,62.5 ns,31.25 ns,19.9 ns,,B,

@@ -1,0 +1,11 @@
+question,A,B,C,D,E,answer,explanation
+<p>Decimal numbers can be converted into binary by dividing by two and recording the remainders.</p>,True,False,,,,A,
+"<p>In the gray code, each number is 3 greater than the binary representation of that number.</p>",True,False,,,,B,
+<p>The process of converting a decimal number to its binary equivalent is called binary conversion.</p>,True,False,,,,B,
+<p>Base is the same as radix.</p>,True,False,,,,A," In mathematical numeral systems, the base or radix for the simplest case is the number of unique digits, including zero, that a positional numeral system uses to represent numbers. For example, for the decimal system (the most common system in use today) the radix is ten, because it uses the ten digits from 0 through 9. In any numeral system, the base is written as ""10"". In a base ten numeral system, ""10"" represents the number ten; in a base two system, ""10"" represents the number two. "
+"<p>The most significant digit is the rightmost, largest-weight digit in a number.</p>",True,False,,,,B,
+<p>When using the excess-3 code a value of 3 is added to each column of decimal digits before it is converted to a 4-bit binary code.</p>,True,False,,,,B,
+<p>ASCII codes are used strictly for representing the letters in the alphabet.</p>,True,False,,,,B,
+<p>64 hexadecimal equals 100 decimal.</p>,True,False,,,,A,
+<p>The addition 1 + 0 doesn't generate a carry bit; one does not exist.</p>,True,False,,,,B,
+"<p>If you borrow from a position that contains a 0, you must borrow from the more significant bit that contains a 1. All 0s up to that point become 1s, and the digit last borrowed from becomes a 0.</p>",True,False,,,,A,

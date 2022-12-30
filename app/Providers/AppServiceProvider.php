@@ -2,6 +2,9 @@
 
 namespace App\Providers;
 
+use Filament\Facades\Filament;
+use Illuminate\Support\Facades\Schema;
+use Illuminate\Database\Eloquent\Model;
 use Illuminate\Support\ServiceProvider;
 
 class AppServiceProvider extends ServiceProvider
@@ -23,6 +26,12 @@ class AppServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-        //
+        Model::unguard();
+        Model::shouldBeStrict();
+        Schema::defaultStringLength(191);
+
+        Filament::serving(function () {
+            Filament::registerViteTheme('resources/css/filament.css');
+        });
     }
 }

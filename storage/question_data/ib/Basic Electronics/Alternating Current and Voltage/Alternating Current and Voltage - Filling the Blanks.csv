@@ -1,0 +1,13 @@
+question,A,B,C,D,E,answer,explanation
+"<p><p><img src=""/_files/images/basic-electronics/basics/fbq8_1010_1.gif""/></p><p>The frequency of the repetitive pulse waveform in the given circuit equals ___.<p></p></p></p>",500 Hz,50 Hz,100 Hz,125 Hz,,C,
+<p>Increasing the number of magnetic poles in a basic generator will ___.</p>,increase the generator's output voltage amplitude,increase the generator's output frequency,decrease the generator's output voltage amplitude,decrease the generator's output frequency,,B,
+"<p><p><img src=""/_files/images/basic-electronics/basics/fbq8_1009_1.gif""/></p><p>The peak voltage across R<sub>2</sub> in the given circuit equals _____.</p></p>",7.2 V,10.18 V,8.8 V,8 V,,B,
+"<p><p><img src=""/_files/images/basic-electronics/basics/fbq8_1003_1.gif""/></p> <p>The frequency of the sine wave in the given circuit equals ___.</p></p>",4 kHz,800 Hz,20 kHz,250 Hz,,C,
+<p>Increasing the number of turns in a conductor loop in a basic generator will ___.</p>,increase the generator's output voltage amplitude,increase the generator's output frequency,decrease the generator's output voltage amplitude,decrease the generator's output frequency,,A,
+<p>The magnitude of an alternation that varies from zero is called its _______.</p>,altitude,polarity,attitude,amplitude,,D,
+"<p><p><img src=""/_files/images/basic-electronics/basics/fbq8_1008_1.gif""/></p> <p>The phase angle between the two waveforms in the given circuit equals _____.</p></p>",75°,15°,105°,45°,,B,
+"<p>If a sine wave's frequency equals 25 MHz, its period equals _____.</p>",25 µs,25 ms,4 µs,40 ns,,D,
+"<p>If a sine wave's period equals 50 ms, its frequency equals _____.</p>",20 Hz,0.02 Hz,50 Hz,50 kHz,,A,
+<p>A peak current of 12.5 mA is equivalent to ___.</p>,an rms value of 25 mA,an average value of 12.5 mA,a peak-to-peak value of 6.25 mA,an average value of 7.96 mA,,D,
+<p>All periodic frequencies are derived by combining higher frequency ______________ called harmonics.</p>,sine waves,pulse waves,square waves,sawtooth waves,,A,
+<p>An rms voltage of 5 V is equivalent to ___.</p>,14.14 V peak-to-peak,a peak value of 5 V,10 V peak-to-peak,an average value of 7.07 V,,A,

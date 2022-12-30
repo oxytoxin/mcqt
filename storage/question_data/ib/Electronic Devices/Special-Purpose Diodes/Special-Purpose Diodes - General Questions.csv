@@ -1,0 +1,49 @@
+question,A,B,C,D,E,answer,explanation
+<p>Schottky diodes are also known as</p>,PIN diodes.,hot carrier diodes.,step-recovery diodes.,tunnel diodes.,,B,
+<p>Zener diodes with breakdown voltages less than 5 V operate predominantly in what type of breakdown?</p>,avalanche,zener,varactor,Schottky,,B,
+<p>The Schottky diode is used</p>,in high-power circuits.,in circuits requiring negative resistance.,in very fast-switching circuits.,in power supply rectifiers.,,C,
+<p>You have an application for a diode to be used in a tuning circuit. A type of diode to use might be</p>,an LED.,a Schottky diode.,a Gunn diode.,a varactor.,,D,
+"<p>Refer to this figure. Which symbol is correct for an LED?
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq3_1011_1.jpeg""/></p>",a,b,c,d,e,A,
+"<p>Refer to this figure. If V<sub>IN</sub> increases, I<sub>Z</sub> will
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq3_1007_1.jpeg""/></p>",increase.,decrease.,remain the same.,,,A,
+<p>What kind of diode is formed by joining a doped semiconductor region with a metal?</p>,laser,tunnel,pin,Schottky,,D,
+"<p>Refer to this figure. Which symbol is correct for a zener diode?
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq3_1011_1.jpeg""/></p>",a,b,c,d,e,B,
+<p>Which diode employs graded doping?</p>,zener,LED,tunnel,step-recovery,,D,
+"<p>Refer to this figure. Identify the Schottky diode.
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq3_1011_1.jpeg""/></p>",a,b,c,d,e,E,
+<p>LEDs are made out of</p>,silicon.,germanium.,gallium.,"silicon and germanium, but not gallium.",,C,
+<p>The normal operating region for a zener diode is the</p>,forward-bias region.,reverse-bias region.,zero-crossing region.,reverse-breakdown region.,,D,
+"<p>Refer to this figure. If V<sub>IN</sub> attempts to increase, V<sub>R</sub> will
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq3_1007_1.jpeg""/></p>",increase.,decrease.,remain the same.,,,A,
+"<p>An LED is forward-biased. The diode should be on, but no light is showing. A possible trouble might be</p>",the diode is open.,the series resistor is too small.,none. The diode should be off if forward-biased.,the power supply voltage is too high.,,A,
+<p>A 6.2 V zener is rated at 1 watt. The maximum safe current the zener can carry is</p>,1.61 A.,161 mA.,16.1 mA.,1.61 mA.,,B,
+"<p>Refer to this figure. Find the tunnel diode symbol.
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq3_1011_1.jpeg""/></p>",a,b,c,d,e,D,
+"<p>Refer to this figure. If the load current increases, I<sub>R</sub> will ________ and I<sub>Z</sub> will ________. 
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq3_1007_1.jpeg""/></p>","remain the same, increase","decrease, remain the same","increase, remain the same","remain the same, decrease",,D,
+<p>The process of emitting photons from a semiconductive material is called</p>,photoluminescence.,gallium arsenide.,electroluminescence.,gallium phosphide.,,C,
+"<p>An 8.2 V zener has a resistance of 5<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>. The actual voltage across its terminals when the current is 25 mA is</p>",8.2 V.,125 mV.,8.325 V.,8.075 V.,,C,
+<p>What diode operates only with majority carriers?</p>,laser,tunnel,Schottky,step-recovery,,C,
+"<p>Refer to this figure. Which symbol is correct for a photodiode?
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq3_1011_1.jpeg""/></p>",a,b,c,d,e,C,
+<p>What type of diode maintains a constant current?</p>,LED,zener,current regulator,pin,none of the above,C,
+<p>What diode is used in seven-segment displays?</p>,zener,LED,laser,Schottky,,B,
+"<p>Refer to this figure. If V<sub>IN</sub> decreases, I<sub>R</sub> will
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq3_1007_1.jpeg""/></p>",increase.,decrease.,remain the same.,,,B,
+<p>Zener diodes with breakdown voltages greater than 5 V operate predominantly in what type of breakdown?</p>,avalanche,zener,varactor,Schottky,,A,
+<p>Back-to-back varactor diodes are used for what reason?</p>,over-voltage protection,a wider tuning range,to eliminate harmonic distortion,no reason; only zeners are used in a back-to-back configuration,,C,
+<p>A tunnel diode is used</p>,in high-power circuits.,in circuits requiring negative resistance.,in very fast-switching circuits.,in power supply rectifiers.,,B,
+<p>What type of diode is commonly used in electronic tuners in TVs?</p>,varactor,Schottky,LED,Gunn,,A,
+<p>A laser diode normally emits</p>,coherent light.,monochromatic light.,coherent and monochromatic light.,neither coherent nor monochromatic light.,,C,
+<p>A varactor is a pn junction diode that always operates in ________-bias and is doped to ________ the inherent capacitance of the depletion region.</p>,"forward, maximize","reverse, maximize","reverse, minimize","forward, minimize",,B,

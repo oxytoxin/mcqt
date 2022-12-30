@@ -1,0 +1,11 @@
+question,A,B,C,D,E,answer,explanation
+<p>The odd/even parity system would require a sixth bit to be added to a 4-bit system.</p>,True,False,,,,B,
+<p>Electrical noise does not affect the transmission of binary information.</p>,True,False,,,,B,
+"<p>In an exclusive-OR, both inputs cannot be HIGH to provide a HIGH output.</p>",True,False,,,,A,
+"<p>Using the CPLD design environment, we can simulate any combinations of inputs and observe the resulting output to check for proper circuit operation.</p>",True,False,,,,A,
+<p>The exclusive-OR provides a LOW input if one input or the other input is HIGH.</p>,True,False,,,,B,
+<p>The exclusive-OR is written in a Boolean equation as a plus sign with a circle around it.</p>,True,False,,,,A,
+<p>Parity generator and checker circuits are available in single IC packages.</p>,True,False,,,,A,
+<p>The Ex-NOR is sometimes called the equality gate.</p>,True,False,,,,A,
+"<p>A parity checker is constructed in the same way as a parity generator, except that in a 4-bit system there must be five inputs, and the output is used as the error indicator.</p>",True,False,,,,A,
+"<p>In a parity generator circuit, an error is signaled on an error indicator.</p>",True,False,,,,B,

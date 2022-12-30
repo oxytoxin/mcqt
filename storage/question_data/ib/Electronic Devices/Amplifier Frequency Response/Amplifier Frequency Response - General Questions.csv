@@ -1,0 +1,47 @@
+question,A,B,C,D,E,answer,explanation
+<p>Doubling the voltage gain causes a ________ dB ________.</p>,"10, increase","6, increase","10, decrease","6, decrease",,B,
+<p>________ frequencies are values of frequency at which the RC circuits reduce the voltage gain to 70.7% of its midrange value.</p>,Critical,Cutoff,Corner,all of the above,,D,
+<p>A roll-off of 20 dB per decade is equivalent to a roll-off of ________ per octave.</p>,3 dB,13 dB,12 dB,6 dB,,D,
+"<p>An amplifier has an R<sub>in</sub> = 1.2 k<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/>. The coupling capacitor is 1 <img src=""/_files/images/electronic-devices-and-circuit-theory/mu.gif""/>F. Determine the approximate lower cutoff frequency.</p>",133 Hz,1.33 kHz,13.3 kHz,133 kHz,,A,
+"<p>Refer to this figure. The output voltage at f<sub>cl</sub> = 12 mV. What is the output voltage at the midpoint frequency?
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq10_1011_1.jpeg""/></p>",12 mV,12 mV p-p,16.97 mV,8.48 mV,,C,
+<p>Each RC circuit causes the gain to drop at a rate of ________ dB/decade.</p>,20,10,6,none of the above,,A,
+<p>The phase shift through the input of an RC circuit approaches ________° as the frequency approaches zero.</p>,0,45,180,90,,D,
+<p>A certain amplifier has a bandwidth of 22.5 kHz with a lower cutoff frequency of 600 Hz. What is the value of f<sub>cu</sub>?</p>,600 Hz,22.5 kHz,23.1 kHz,21.9 kHz,,C,
+<p>Internal transistor junction capacitances affect the high-frequency response of amplifiers by</p>,reducing the amplifier's gain.,introducing phase shift as the signal frequency increases.,having no effect.,reducing the amplifier's gain and introducing phase shift as the signal frequency increases.,,D,
+<p>What is the method that can be used to determine the values of f<sub>cl</sub> and f<sub>cu</sub> of an amplifier?</p>,five time constants,step-response,sinusoidal,,,B,
+<p>An amplifier has an input signal voltage of 0.054 mV. The output voltage is 12.5 V. The voltage gain in dB is</p>,53.6 dB.,107.3 dB.,231 dB.,116 dB.,,B,
+<p>The lower critical frequency is also known as the</p>,break frequency.,cutoff frequency.,corner frequency.,all of the above,,D,
+"<p>Refer to this figure. The capacitor C<sub>3</sub> affects
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq10_1011_1.jpeg""/></p>",high-frequency response.,low-frequency response.,midrange response.,nothing.,,B,
+<p>An RC network has a roll-off of 20 dB per decade. What is the total attenuation between the output voltage in the midrange of the passband as compared to the output voltage at a frequency of 10 times f<sub>c</sub>?</p>,–3 dB,–20 dB,–23 dB,–43 dB,,B,
+<p>It is often convenient in amplifiers to assign a certain value of gain as the ________ dB reference.</p>,0,1,6,10,20,A,
+"<p>For low-frequency response, all RC circuits in an amplifier may not have the same critical frequency. Which RC response will determine the critical frequency of the amplifier?</p>",the lowest frequency,the center frequency,the highest frequency,the bypass frequency,,C,
+<p>A ten-times change in frequency is called a(n)</p>,octave.,decade.,decimal.,none of the above,,B,
+<p>An amplifier has an output voltage of 7.6 V p-p at the midpoint of the frequency range. What is the output at f<sub>c</sub>?</p>,3.8 V p-p,3.8 V<sub>rms</sub>,5.4 V<sub>rms</sub>,5.4 V p-p,,D,
+"<p>The frequency response of an amplifier can be determined using the step response method, and measuring the output rise/fall times between</p>",0% and 100% response.,10% and 90% response.,25% and 75% response.,five time constant responses.,,B,
+"<p>Refer to this figure. The capacitor C<sub>be</sub> affects
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq10_1011_1.jpeg""/></p>",high-frequency response.,low-frequency response.,midrange response.,nothing.,,A,
+"<p>Refer to this figure. You measure an output voltage at the lower cutoff frequency of 3.42 V p-p. The output voltage at the upper cutoff frequency will be
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq10_1011_1.jpeg""/></p>",2.42 V p-p.,3.42 V p-p.,6.84 V p-p.,6.84 V<sub>rms</sub>.,,B,
+"<p>Refer to this figure. The upper cutoff frequency of this amplifier is 22 kHz. The output at that frequency is 6.71 V p-p. What is the output voltage at 220 kHz?
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq10_1011_1.jpeg""/></p>",9.49 V p-p,6.71 V p-p,0.671 V p-p,0.0671 V p-p,,C,
+"<p>Refer to this figure. The capacitor C<sub>1</sub> affects
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq10_1011_1.jpeg""/></p>",high-frequency response.,low-frequency response.,midrange response.,nothing.,,B,
+"<p>In a multistage amplifier, the overall frequency response is determined by the</p>",frequency response of each stage depending on the relationships of the critical frequencies.,frequency response of the first amplifier.,frequency response of the last amplifier.,lower critical frequency of the first amplifier and the upper critical frequency of the final amplifier.,,A,
+<p>What term means that the midrange voltage gain is assigned a value of 1 (or 0 dB)?</p>,critical,Miller,normalized,corner,,C,
+"<p>An RC network has values of R = 1.2 k<img src=""/_files/images/electronic-devices-and-circuit-theory/omega.gif""/> and C = 0.22 <img src=""/_files/images/electronic-devices-and-circuit-theory/mu.gif""/>F. Find f<sub>c</sub>.</p>",3.79 kHz,1.89 kHz,603 Hz,60 Hz,,C,
+<p>Halving the power corresponds to a ________ dB ________.</p>,"3, decrease","10, decrease","3, increase","10, increase",,A,
+"<p>Refer to this figure. If R<sub>L</sub> decreases in value, the output voltage will
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq10_1011_1.jpeg""/></p>",increase.,decrease.,remain the same.,,,B,
+<p>A two-times change in frequency is called a(n)</p>,binave.,octave.,decade.,none of the above,,B,
+"<p>Refer to this figure. You are attempting to determine the lower cutoff frequency of this amplifier in the lab. As you change the input frequency and measure the output signal, you must remember to
+
+<br/><br/><img src=""/_files/images/electronic-devices-and-circuit-theory/mcq10_1011_1.jpeg""/></p>",set the oscilloscope to DC.,maintain the input voltage constant.,keep a constant temperature.,"watch for a change of <img src=""/_files/images/electronic-devices-and-circuit-theory/beta.gif""/>.",,B,

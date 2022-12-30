@@ -1,0 +1,150 @@
+﻿question,choices,answer
+"Camera signal output without sync is called","[""Black burst"",""generator lock video"",""composite video"",""noncomposite video""]",3
+"A low-contrast picture in which white seems flat and lacking in detail suggest","[""low beam current"",""high gain in the amplifier"",""excessive gamma"",""insufficient scanning width""]",0
+"Which of the following camera tubes has minimum lag?","[""Vidicon"",""Plumbicon"",""Saticon"",""Iconoscope""]",1
+"The part of the visible spectrum where camera pickup tubes have the greatest output is","[""red"",""blue"",""yellow-green"",""infrared""]",2
+"Precise scanning size and linearity are most important in","[""a black-and-white camera"",""a plumbicon"",""a single-tube color pickup"",""a saticon""]",2
+"Beam alignment magnets for the camera tube are adjusted while rocking which control?","[""Optical focus"",""Electrical focus"",""Beam current"",""Shading""]",1
+"Special effects and production switching are done by the","[""CCU"",""ENG camera"",""SEG"",""Sync generator""]",2
+"The gamma of the picture tube is","[""0.4545"",""1.0"",""1.4"",""2.2""]",3
+"If the camera cannot be placed far away enough to include everything in the scene, change the lens to one with a","[""lower f rating"",""higher f rating"",""longer focal length"",""shorter focal length""]",3
+"A typically value of vidicon dark current is","[""0.2 uA"",""about 200 uA"",""8 mA"",""800 mA""]",0
+"A lens has an 8-cm focal and 4-cm diameter. Its f rating is","[""2"",""4"",""8"",""32""]",0
+"Which of the following is FALSE?","[""The lens inverts the optical image on the faceplate of the camera tube."",""The composite video signal includes the camera signal and sync not blanking"",""The standard composite video from a camera is 1V p-p with negative sync."",""The plumbicon uses a lead oxide layer for the target plate.""]",1
+"Which of the following is TRUE?","[""The diameter of the vidicon image plate is about 5 in. (127 mm)"",""The plumbicon camera tube uses a silicon target plate."",""The composite video signal includes the camera signal and sync but not blanking."",""the lens inverts the optical image on the faceplates of the camera tube.""]",3
+"Which of the following produces the signal variations for G4 of the vidicon.","[""Target plate"",""Wire mesh"",""Muzzle"",""Beam control""]",0
+"What is the gamma required for the camera tube?","[""2.2"",""0.4545"",""4.545"",""0.22""]",1
+"<u></u>is more important for the gamma correction for the camera tube.","[""Color"",""Monochrome"",""Both Color and monochrome"",""Either of Color or monochrome""]",0
+"In gamma correction the<u> </u>is stretched by the picture tube.","[""Black"",""gray"",""white"",""red""]",2
+"To how many lax units is the illuminator of 3 fs, approximately equal?","[""650"",""225"",""65"",""30""]",3
+"What is the diagonal screen size for the 19CP4 picture tube?","[""12 in."",""16 in."",""19 in."",""24 in.""]",2
+"To what deflection angle does a maximum deflection angle of 45 deg either side center correspond?","[""30\u00b0"",""90\u00b0"",""120\u00b0"",""360\u00b0""]",1
+"What is the usual heater voltage for picture tube?","[""1.6 v"",""5.6 V"",""6.3 V"",""9.3V""]",2
+"What is the typical anode voltage for a 25-in color picture tube?","[""10 kV"",""30 kV"",""1 kV"",""30 V""]",1
+"Typically, the anode capacitance for a 25-in tube is<u> </u>pT.","[""2"",""20"",""205"",""2000""]",3
+"When the TV set was turned on, full power was applied to the heater and the picture appeared within a fraction of a second.","[""Ultor"",""Implosion"",""Instant-on operation"",""Screen persistence""]",2
+"What are the phosphor numbers, respectively, for monochrome and color picture tubes?","[""P1 and P4"",""P1 and P22"",""P4 and P22"",""P4 and P1""]",2
+"What is the color of P1 screen phosphor?","[""Red"",""Blue"",""White"",""Green""]",3
+"Which of the following is the most negative (or least positive) electrode is the electron gun?","[""Cathode"",""Control grid G1"",""Screen grid"",""Focus grid""]",1
+"Which is the most position element in the electron gun?","[""Ultor"",""Anode"",""Cathode"",""Ultor or anode""]",3
+"Most of the electrons in the beam flow out of which terminal?","[""Ultor"",""Anode"",""Cathode"",""Ultor or anode""]",3
+"The crossover point for focusing is formed by the<u> </u>electron lens.","[""first"",""second"",""Cathode"",""fourth""]",0
+"In which method in a G3 voltage of 200 V. used for?","[""low-voltage focus"",""high-voltage focus"",""either low or high voltage focus"",""none of these""]",0
+"Small magnets embedded in the yoke housing is correct for ____________.","[""yoke position"",""magnetic deflection"",""pinoushion distortion"",""centering adjustments""]",2
+"The coils above and below the electron beam of the picture tube are for<u> </u>.","[""V scanning"",""H scanning"",""Either V or H scanning"",""None of these""]",1
+"Neck shadow result when the deflection yoke is<u> </u>.","[""too near back"",""too near forward"",""too far back"",""too far forward""]",2
+"In color picture tube, degaussing should be done<u> </u>the color purity adjustments.","[""after"",""before"",""either way"",""none at all""]",1
+"In color picture tube, degaussing is done with<u> </u>.","[""direct current"",""alternating current"",""60 Hz alternating current"",""90 Hz alternating current""]",2
+"When the receiver is first turned on, what current does the ADG circuit have?","[""High"",""Low"",""Both high and low"",""Neither high nor Low""]",0
+"In color picture tube, what does a solid red raster checked for?","[""good color purity"",""Convergence"",""Degaussing"",""Resetting the yoke""]",0
+"Where do the small, white dots in the picture used for?","[""good color purity"",""convergence"",""Degaussing"",""Resetting the yoke""]",1
+"What does the color fringing on the edge of the picture shows?","[""Misconvergence"",""Insufficient signal drive"",""Turned off guns"",""Red cloud""]",0
+"Static convergence is done for the<u> </u>of the screen.","[""center"",""edges"",""left"",""right""]",0
+"Where the permanent magnets used?","[""static convergence"",""dynamic convergence"",""automatic degaussing"",""resetting the yoke""]",0
+"In picture, the basic waveform for dynamic convergence is the ____________.","[""parabola"",""half a sine wave"",""full sine wave"",""parabola or half of sine wave""]",3
+"Pincushion magnets are used for<u> </u>picture tubes.","[""monochrome"",""color"",""both color and monochrome"",""either color or monochrome""]",0
+"The abbreviation TW is for<u> </u>pincushion correction.","[""diagonal"",""horizontal"",""vertical"",""either way""]",2
+"The typical dc grid bias for a 19-in, picture tube.","[""-4 V"",""\u201340V"",""-6 V"",""-60 V""]",3
+"Typical ac signal drive for a 19-in, picture tube.","[""8 Vp-p"",""40 Vp-p"",""120 Vp-p"",""140 Vp-p""]",3
+"For the picture tube, the brightness control varies the<u> </u>bias signal drive.","[""dc"",""ac"",""either ac or dc"",""both ac and dc""]",0
+"The R, G, and B screen grid adjustments are set for<u> </u>in the picture.","[""visual cutoff"",""white highlights"",""brightness control"",""gray-scale tracking""]",0
+"Background controls of many picture tubes are for the","[""ac bias"",""dc bias"",""ac video signal"",""dc video signal""]",1
+"The G2 master screen control of picture tubes vary the","[""ac voltage"",""dc voltage"",""ac video signal"",""dc video signal""]",1
+"In the sawtooth waveform for linear scanning","[""the linear rise if for flyback"",""the complete cycle includes trace and retrace"",""the sharp reversal in amplitude produces trace"",""the beam moves faster during trace than retrace.""]",1
+"Given a 635 us vertical retrace time, the number of complete horizontal lines scanned during vertical flyback is","[""10"",""20"",""30"",""63""]",0
+"One-half line spacing between the start position for scanning even and odd fields produces","[""linear scanning"",""line pairing"",""fishtailing"",""exact interlacing""]",3
+"The number of lines scanned per frame in the raster on the picture tube screen is","[""525"",""262"",""20"",""10""]",0
+"In the frame for which interlaced scanning is used, alternate lines are skipped during vertical scanning because","[""the trace is slower than the retrace"",""the vertical scanning frequency is doubled from 30 to 60 Hz"",""The horizontal scanning is slower than vertical scanning"",""the frame has a 4:3 aspect ratio""]",1
+"If the horizontal flyback is 10 percent, this time equals","[""10 \u00b5s"",""56 \u00b5s"",""6.4 \u00b5s"",""83 \u00b5s""]",2
+"Which of the following is NOT true?","[""line pairing indicates poor interlacing."",""People look too tall and too thin on a square raster on the picture tube screen."",""A person can appear to have one shoulder wider than the other because of nonlinear horizontal scanning."",""the keystone effect produces a square raster.""]",3
+"The width of a vertical sync pulse with its narrations includes the time of","[""six half-lines, or three lines"",""five lines"",""three half-lines"",""five half-lines""]",0
+"Sawtooth generator circuits produce the scanning raster, but the sync pulses are needed for","[""linearity"",""timing"",""keystoning"",""line Pairing""]",1
+"Which of the following frequencies is wrong?","[""15,750 Hz for horizontal sync and scanning"",""60 Hz for vertical sync and scanning"",""31,500 Hz for equalizing pulses and serrations in the vertical sync pulses"",""31,500 Hz for the vertical scanning frequency""]",3
+"Which of the following is faster in horizontal scanning?","[""trace"",""retrace"",""flyback"",""retrace or flyback""]",3
+"Which of the following takes more time?","[""H retrace"",""H trace"",""V retrace"",""V trace""]",2
+"What does an interlaced scanning require for the number of the horizontal lines?","[""odd"",""Even"",""Both odd and even simultaneously"",""Either odd or even""]",0
+"How many horizontal lines are in the odd or an even field?","[""10 \u00bd"",""525 lines"",""262 \u00bd lines"",""600 lines""]",1
+"How many H lines are there in a complete frame?","[""19 lines"",""21 lines"",""262 \u00bd lines"",""600 lines""]",1
+"How many H lines are there in each field?","[""8 \u00bd lines"",""10 \u00bd lines"",""262 \u00bd lines"",""325 lines""]",1
+"How many H lines are there in each V retrace?","[""One"",""two"",""three"",""four""]",0
+"What are the frequencies of V scanning, V sync, and V blanking?","[""30 Hz"",""60 Hz"",""90 Hz"",""360 Hz""]",1
+"What are the frequencies of H scanning, H sync and H blanking?","[""15,750 Hz"",""16,750 Hz"",""31,500 Hz"",""30,050 Hz""]",0
+"In video signal analysis, what are the three parts of the composite video signal, for two horizontal lines in the picture?","[""Camera signal"",""H sync C. H blanking"",""H blanking"",""all of these""]",3
+"In the IRE scale for composite video signal, list the number of IRE units used for sync, black setup, and the camera signal?","[""40, 7.5, 92.5 respectively"",""92.5, 40, 7.5 respectively"",""7.5, 40, 92.5 respectively"",""92.5, 7.5,40 respectively""]",0
+"What are the approximate time periods for the width of H blanking pulse in microseconds?","[""5"",""0.93"",""10.2"",""53.5""]",2
+"What are the approximate time periods for the visible H trace?","[""5"",""0.93"",""10.2"",""53.5""]",3
+"What are the approximate time periods for the width of H sync pulse?","[""5"",""0.93"",""10.2"",""53.5""]",0
+"Which pulses in V blacking correspond to the 3H lines wide?","[""V sync"",""V blanking"",""Equalizing"",""all of these""]",0
+"Which pulses in V blanking correspond to the 21H lines wide?","[""V sync"",""V blanking"",""Equalizing"",""all of these""]",1
+"Which pulses in V blacking correspond to the 31,500 Hz?","[""V sync"",""V blanking"",""Equalizing"",""all of these""]",2
+"Give the maximum number of picture details for each horizontal line.","[""338"",""426"",""125,000"",""144,000""]",1
+"Give the maximum number of picture details for total picture area.","[""338"",""426"",""125,000"",""144,000""]",3
+"The average dc level is close to the blanking level for a scene?","[""light"",""dark"",""either dark or light"",""neither dark nor light""]",1
+"In what condition does the picture tube reproduce black?","[""maximum beam current"",""minimum beam current"",""zero beam current"",""none of these""]",2
+"The gamma effects the<u> </u>of the picture tube.","[""contrast"",""Brightness"",""dullness"",""either the brightness or contrast""]",0
+"Picture tube has games which is<u> </u>.","[""greater than 1"",""less than 1"",""infinity"",""zero""]",0
+"Brightness variations of the picture information are in which signal?","[""1"",""Q"",""Y"",""R-Y""]",2
+"The hue 180º out of phase with red is","[""cyan"",""yellow"",""green"",""blue""]",0
+"Greater p-p amplitude of the 3.58MHz chrominance signal indicates more","[""white"",""hue"",""yellow"",""saturation""]",3
+"The interfering beat frequency of 920 kHz is between the 3.58 MHz color subcarrier and the","[""4.5 MHz intercarrier sound"",""picture carrier"",""lower adjacent sound"",""upper adjacent picture""]",0
+"The hue of color sync phase is","[""red"",""cyan"",""blue"",""yellow-green""]",3
+"Which signal has color information for 1.3 MHz bandwidth?","[""I"",""Y"",""R-Y"",""B-Y""]",0
+"Which of the following is false?","[""the I video hues are orange or cyan"",""The transmitter matrix output includes Y, I, and Q video"",""A three-gun picture tube that can serve as a matrix."",""a fully saturated color is mostly white""]",3
+"The color with the most luminance is","[""red"",""yellow"",""green"",""blue""]",1
+"What is the hue of a color 90° leading sync burst phase?","[""yellow"",""cyan"",""Blue"",""Orange""]",1
+"The average voltage value of the 3.58 MHz modulated chrominance signal is","[""zero for most colors"",""close to black for yellow"",""the brightness of the color"",""the saturation of the color""]",2
+"The second IF value for color in receivers, for any station, is","[""0.5 MHz"",""1.3 MHz"",""3.58 MHz"",""4.5 MHz""]",2
+"if the 3.58-MHz C amplifier in the receiver does not operate, the result will be","[""no color"",""no red"",""too much blue"",""too much yellow""]",0
+"How many octaves is the frequency range 1 to 8 MHz?","[""1"",""2"",""3"",""8""]",2
+"Which system can be used for both recording and playback?","[""CEO"",""VHD"",""Laser disk"",""VHS""]",3
+"The video heads rotate at high velocity to increase the","[""tape speed"",""writing speed"",""reel rotation"",""tape tension""]",1
+"A typical frequency for the FM luminance signal in VCR recording is","[""0.1 MHz"",""1.7 MHz"",""10 MHz"",""680 kHz""]",1
+"Which of the following applies to the color-under technique?","[""chroma amplitude are decreased"",""chroma frequencies are reduces"",""luminance frequencies are decreased"",""chroma and luminance frequencies are reduced""]",1
+"What oscillator frequency is needed to heterodyne 329 kHz up to 3.58 MHz?","[""3 MHz"",""4.21 MHz"",""6.3 MHz"",""10 MHz""]",1
+"A comb filter is used to","[""cancel chroma crosstalk"",""separate white from black"",""clip the sync from blanking"",""separate alternating from direct current""]",0
+"Switching for each field is required for the","[""audio head"",""control-track head"",""video heads"",""erase head""]",2
+"Servocontrol of speed and phase is used for the","[""control head"",""erase head"",""audio head"",""video head scanner""]",3
+"The part that rotates to meter out the tape at constant speed is the","[""control head"",""erase head"",""entrance guide"",""capatan""]",3
+"To make the tape speed the name in playback as in recording, the tape speed is regulated by the","[""audio track"",""control-track pulses"",""video silent tracks"",""erase head""]",1
+"tilting the video head gaps is necessary with the","[""color-under"",""zero guard bands"",""FM luminance signal"",""long-play tubes""]",1
+"Which system uses a laser light beam for playback?","[""CED"",""VHD"",""Betamax"",""VLF""]",3
+"In the CED system, the disk capacitance varies with the","[""pit depth"",""disk size"",""speed of rotation"",""wavelength of the scanning light""]",0
+"The modulated picture carrier wave includes the composite video signal as the","[""average carrier level"",""asymmetric envelope of amplitude variations"",""lower sideband without the upper sideband"",""upper envelope without the lower envelope""]",1
+"Which of the following statements is true?","[""Negative transmission means that the carrier amplitude decreases for black."",""Negative transmission means that the carrier amplitude decreases for white"",""Vestigial sideband transmission mean that both upper and lower sidebands are transmitted for all modulating frequencies."",""Vestigial sideband transmission means that the modulated picture carrier signal has only the upper envelope.""]",1
+"With a 2 MHz video signal modulating the picture carrier signal for channel 4 (66 to 72 MHz) which of the following frequencies are transmitted?","[""66 MHz carrier frequency and 68 MHz upper side frequency"",""71.5 MHz carrier frequency with 69- and 73 MHz side frequencies"",""67.25 Mhz carrier frequency with 65.25 and 69.25 MHz side frequencies"",""67.25 MHz carrier and 69.25 MHz upper side frequency.""]",3
+"With a 0.5 MHz video signal modulating the picture carrier.","[""both upper and lower side frequencies are transmitted"",""only the upper side frequency is transmitted"",""only the lower side frequency is transmitted"",""no side frequencies are transmitted""]",0
+"In all standard television broadcast channels, the difference between the picture and sound carrier frequencies is","[""0.25 MHz"",""1.25 MHz"",""4.5 MHz"",""6 MHz""]",2
+"The difference between the sound carrier frequencies in two adjacent channels is","[""0.25 MHz"",""1.25 MHz"",""4.5 MHz"",""6 MHz""]",3
+"Line-of-sight transmission is a characteristic of propagation for the","[""VHF band and higher frequencies"",""VHF band but not the UHF band"",""radio frequencies below 1 MHz"",""AM picture signal but not the FM sound signal""]",0
+"In channel 14 (470 to 76 MHz), the 3.58 MHz color signal is transmitted at","[""471.25 MHz"",""473.25 MHz"",""474.83 MHz"",""475.25 MHz""]",2
+"The difference between the sound carrier and color subcarrier frequencies is","[""4.5 MHz"",""1.25 MHz"",""0.92 MHz"",""0.25 MHz""]",2
+"The maximum deviation of the FM sound signal, in kilohertz, is","[""10"",""25"",""75"",""100""]",1
+"Which of the following applies for a monochrome picture?","[""chroma amplifier on"",""chroma amplifier off"",""picture tube off"",""color demodulator input""]",1
+"Which of the following is NOT tuned to 3.8 MHz?","[""Burst amplifier"",""video preamplifier"",""chroma amplifier"",""color demodulator input""]",1
+"The contrast control is in the","[""chroma amplifier"",""color killer"",""T video amplifier"",""delay line""]",2
+"The color level control is in the","[""demodulator"",""BPA"",""AFPC"",""G-Y amplifier""]",1
+"The color oscillator does not operate. The trouble in","[""incorrect hues"",""excessive confetti"",""no color"",""no picture""]",2
+"The balance for Y video signals to the three guns in the picture tube is set by the","[""screen controls"",""tint control"",""contrast control"",""drive controls""]",3
+"Which signal needs a 0.6-us time delay?","[""3.58"",""B-Y video"",""Y video"",""Color burst""]",2
+"The output of the burst separator feeds the","[""color demodulator"",""G-Y adder"",""AFPC for color oscillator"",""Y video amplifier""]",2
+"The output of the color oscillator feeds the","[""chroma BFA"",""color demodulator"",""picture tube"",""burst separator""]",1
+"Drifting color bars in the picture indicate trouble in the","[""Y video amplifier"",""chroma BFA"",""color killer"",""AFPC for color oscillator""]",3
+"The best frequency between the 3.8 MHz color subcarrier and the 4.5 MHz sound signal is","[""0.92 MHz"",""3.0 MHz"",""4.8 MHz"",""4.5 MHz""]",0
+"Which control varies the phase angle of the demodulated color video signal","[""color level"",""tint"",""drive"",""picture""]",1
+"Which of the following stages must be on during horizontal flyback time?","[""Y video amplifier"",""chroma BPA"",""burst separator"",""R-Y video amplifier""]",2
+"Which of the following stages has bias from the ACC and color killer circuits?","[""R-Y demodulator"",""R-Y video amplifier"",""chroma BPA"",""Color oscillator""]",2
+"A crystal-ringer circuit is used for the","[""Y video amplifier"",""AFPC on color oscillator"",""color demodulator"",""chroma BPA""]",1
+"Which of the following is a midband cable TV channel?","[""6"",""7"",""A or 14"",""J or 23""]",2
+"Coaxial cable for distribution systems has an impedance of","[""50 ohms"",""75 ohms"",""150 ohms"",""300 ohms""]",1
+"The cable converter output for the TV receiver is usually on channel","[""3"",""6"",""7"",""9""]",0
+"The VSWR for a line terminated in its Zo is","[""0"",""1"",""1.5"",""2""]",1
+"How many dBmV units correspond to a 1-mV signal level?","[""0"",""1"",""3"",""6""]",0
+"A tap for the subcarrier drop line has a","[""high insertion loss"",""high tap loss"",""low tap loss"",""300 ohm impedance""]",1
+"The most popular plug for RG-590 coaxial cable is the","[""RCA phonograph plug"",""4-pin DIN connector"",""F connector"",""banana pin""]",2
+"Which of the following is TRUE?","[""Excessive signal causes in the picture"",""A weak signal causes-modulation distortion"",""A weak signal causes snow in the picture"",""A scrambled signal has excessive sync amplitude""]",2
+"The upstream signal in two-way cable systems has the frequency of","[""5 to 30 MHz"",""3 to 300 MHz"",""500 MHz"",""13 GHz""]",0
+"A typical value for the IF signal, in megahertz, for up-down cable converter","[""45.75"",""300.75"",""500.75"",""612.75""]",3
+"Frequency synthesis is used for","[""VCO in the up converter"",""the trunk amplifier"",""fiber-optic cable"",""microwave""]",0
+"For in-band descramblers, the decoding pulses are sent on the","[""color subcarrier"",""sound carrier"",""picture carrier"",""H sync pulses""]",1
+"Which of the following is NOT true?","[""Microwave links can use FM."",""Fiber-optic cables have very high losses"",""Supertrunk lines use large cable for low losses"",""The value 13 GHz is in the microwave band.""]",1
+"A trunk cable run a loss of -20 dBmV. To make up for this loss, the voltage gain of the next amplifier should be at least","[""10"",""100"",""200"",""300""]",0

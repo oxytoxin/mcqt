@@ -1,0 +1,12 @@
+question,A,B,C,D,E,answer,explanation
+<p>Subtraction is commutative.</p>,True,False,,,,B,
+"<p>The expressions, <img align=""absmiddle"" alt=""tfq19_1004_1.gif"" src=""/_files/images/basic-electronics/complete/tfq19_1004_1.gif""/>, are equivalent.</p>",True,False,,,,A,
+<p>The Boolean expression for a three-input AND gate is Y = A • B + C.</p>,True,False,,,,B, Y = A • B • C 
+"<p>According to the commutative law, in ORing and ANDing of two variables, the order in which the variables are ORed or ANDed makes no difference.</p>",True,False,,,,A,
+<p>Boolean multiplication is symbolized by A + B.</p>,True,False,,,,B,
+"<p><img alt=""tfq19_1010_1.gif"" src=""/_files/images/basic-electronics/complete/tfq19_1010_1.gif""/> is the algebraic expression for the duality theorem.</p>",True,False,,,,B,
+"<p>The associative law of addition states that 
+A + (B + C) = (A + B) + C.</p>",True,False,,,,A,
+<p>The application of DeMorgan's theorems to a Boolean expression with double and single inversions produces a resultant expression that contains only single inverter signs over single variables.</p>,True,False,,,,A,
+<p>The sum-of-products form is a Boolean expression that describes the ANDing of two or more OR functions.</p>,True,False,,,,B,
+"<p>The double-inversion rule states that if a variable is inverted twice, then the variable will be back to its original state.</p>",True,False,,,,A,

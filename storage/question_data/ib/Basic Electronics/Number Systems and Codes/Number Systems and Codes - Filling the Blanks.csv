@@ -1,0 +1,7 @@
+question,A,B,C,D,E,answer,explanation
+<p>Digital electronics is based on the _________ numbering system.</p>,decimal,hexadecimal,binary,octal,,C,
+<p>A BCD code that represents each digit of a decimal number by a binary number derived by adding 3 to its 4-bit true binary value is _________.</p>,9's complement code,excess-3 code,8421 code,gray code,,B,
+<p>A binary code that progresses such that only one bit changes between two successive codes is _________.</p>,9's complement code,excess-3 code,8421 code,gray code,,D,
+<p>A binary number's value changes most drastically when the ____ is changed.</p>,LSB,duty cycle,MSB,frequency,,C,
+<p>The binary coded decimal (BCD) code is a system that represents each of the 10 decimal digits as a(n) ____________.</p>,4-bit binary code,8-bit binary code,16-bit binary code,ASCII code,,A,
+<p>The __________ code is a nonweighted binary code.</p>,excess-3,gray,multibit,minival,,B,

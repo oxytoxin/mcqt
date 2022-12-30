@@ -1,0 +1,11 @@
+question,A,B,C,D,E,answer,explanation
+<p>One advantage of using the 2's complement system to represent signed numbers is that you ___________.</p>,can perform subtraction by performing addition,can perform addition by performing subtraction,can perform division through repeated subtraction,none of the above,,A,
+<p>The 1's complement of 101010<sub>2</sub> is _________.</p>,010110<sub>2</sub>,010101<sub>2</sub>,110111<sub>2</sub>,101011<sub>2</sub>,,B,
+<p>All digital systems that perform arithmetic operations must indicate _______ and ________ for numbers.</p>,"size, base","sign, magnitude","sign, base","magnitude, base",,B,
+<p>The carry propagation delay in 4-bit full-adder circuits ____________.</p>,is normally not a consideration because the delays are usually in the nanosecond range,is cumulative for each stage and limits the speed at which arithmetic operations are performed,decreases in direct ratio to the total number of full-adder stages,"increases in direct ratio to the total number of full-adder stages, but is not a factor in limiting the speed of arithmetic operations",,B,
+<p>The 2's complement of 110110<sub>2</sub> is _________.</p>,110100<sub>2</sub>,101010<sub>2</sub>,001011<sub>2</sub>,001010<sub>2</sub>,,D,
+<p>A full adder adds ____.</p>,two 2-bit binary numbers,two 4-bit binary numbers,two single bits and one carry bit,two 2-bit numbers and one carry bit,,C,
+<p>The bits of a number that tell how large the number is are called ____________________.</p>,carry bits,magnitude bits,sign bits,most significant bits,,B,
+<p>Two 4-bit adders could be cascaded to form a(n) ___________.</p>,16-bit parallel-adder circuit,8-bit parallel-adder circuit,full-adder circuit,arithmetic-logic unit,,B,
+<p>An input to the mode pin of an arithmetic-logic unit (ALU) determines if the function will be _________.</p>,one's complemented,positive or negative,with or without carry,arithmetic or logic,,D,
+<p>In binary number systems the sign of a number is indicated by _________.</p>,using a 0 (zero) bit in front of negative numbers,inverting the bits if the number is negative,including a sign bit along with the magnitude bits,placing a negative sign in front of the number,,C,

@@ -1,0 +1,3 @@
+question,A,B,C,D,E,answer,explanation
+<p>A data conversion system may be used to interface a digital computer system to _________.</p>,an analog output device,a digital output device,an analog input device,a digital printer,,A,
+<p>Sensor outputs destined for a digital computer system must first be processed by __________.</p>,a DAC,an ADC,the MPU,a PLD,,B,

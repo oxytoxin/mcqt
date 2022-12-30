@@ -1,0 +1,24 @@
+question,A,B,C,D,E,answer,explanation
+"<p>In a 20 Vac series <i>RC</i> circuit, if 20 V is read across the resistor and 40 V is measured across the capacitor, the applied voltage is</p>",45 Vac,50 Vac,60 Vac,65 Vac,,A,
+<p>Which of the following is the reference vector for parallel <i>RC</i> circuits?</p>,<i>R</i>,<i>V</i>,<i>I</i>,<i>X<sub>C</sub></i>,,B,
+"<p><p><img src=""/_files/images/basic-electronics/basics/mcq10_1007_1.gif""/></p>
+<p>What is the voltage drop across <i>R</i><sub>1</sub> in the given circuit?</p></p>",10 V,4.80 V,4.00 V,5.80 V,,D,
+<p>Power that is measured in volt-amperes is called</p>,impedance power,reactive power,true power,apparent power,,D,
+<p>As frequency increases</p>,both series and parallel <i>RC</i> impedance decrease,series <i>RC</i> impedance decreases and parallel <i>RC</i> impedance increases,series <i>RC</i> impedance increases and parallel <i>RC</i> impedance decreases,both series and parallel <i>RC</i> impedance increase,,A,
+"<p><p><img src=""/_files/images/basic-electronics/basics/mcq10_1003_1.gif""/></p>
+<p>Calculate the magnitude of the <i><b>impedance</b></i> in the given circuit.</p></p>","24.1 M<img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/>","10 M<img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/>","26.1 M<img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/>","0 <img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/>",,C,
+"<p><p><img src=""/_files/images/basic-electronics/basics/mcq10_1003_1.gif""/></p>
+<p>Calculate the <i><b>phase angle</b></i> in the given circuit.</p></p>",0°,90°,22.52°,67.48°,,D,
+"<p>What is the phase angle for a parallel circuit consisting of a 500 kHz, 5 Vac source with a 47 pF capacitor, and a 4.7 k<img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/> resistor in parallel?</p>",55.3°,–55.3°,34.8°,–34.8°,,C,
+"<p><p><img src=""/_files/images/basic-electronics/basics/mcq10_1010_1.gif""/></p>
+<p>Which circuit is represented by the frequency response curve in the given figure?</p></p>",High-pass filter,Low-pass filter,Band-pass filter,Band-stop filter<br/><br/><br/>,,B,
+"<p><p><img src=""/_files/images/basic-electronics/basics/mcq10_1007_1.gif""/></p>
+<p>What is the <i><b>phase angle</b></i> in the given circuit?</p></p>",14.95°,36.88°,0°,90°,,A,
+"<p><p><img src=""/_files/images/basic-electronics/basics/mcq10_1007_1.gif""/></p>
+<p>What is the current through <i>X<sub>C</sub></i>1 in the given circuit?</p></p>",32.2 mA,16 mA,12 mA,48 mA,,A,
+"<p><img src=""/_files/images/basic-electronics/basics/mcq10_1005_1.gif""/></p>
+<p>What is the total current in the given circuit?</p>",0.28 A,0.399 A,909 A,0.2 A,,A,
+<p>Which statement about a series <i>RC</i> circuit is true?</p>,The capacitor's voltage drop is in phase with the resistor's voltage drop.,The current leads the source voltage.,The current lags the source voltage.,The resistor voltage lags the current.,,B,
+"<p><img src=""/_files/images/basic-electronics/basics/mcq10_1005_1.gif""/></p>
+<p>If the frequency increases in the given circuit, how would the total current change?</p>",The total current would increase.,The total current would decrease.,The total current would remain the same.,More information is needed in order to predict how the total current would change.,,A,
+<p>What is the effect of increasing the resistance in a series <i>RC</i> circuit?</p>,There will be no effect at all.,The current will increase.,The phase shift will decrease.,The input voltage will increase.,,C,

@@ -1,0 +1,55 @@
+question,A,B,C,D,E,answer,explanation
+"<p>What is the current flow through R1, R2, and R3?<br/><br/><img src=""/_files/images/basic-electronics/complete/mcq3_1005_1.gif""/></p>","1A, 1A, 1A","1A, 2A, 3A","3A, 3A, 3A","3A, 2A, 1A",,A," <p>V = IR</p>
+<p>V = I(R1 + R2 + R3)</p>
+<p>I = V/(R1 + R2 + R3)</p>
+<p> = 9/(3 + 3 + 3)</p>
+<p> = 9/9</p>
+<p> = 1 Amp.</p> "
+"<p>One of the most common applications of a potentiometer is as an adjustable voltage divider, also known as</p>",voltage control,current control,volume control,divider control,,C,
+"<p>If the resistance total in a series circuit doubles, current will:</p>",be the same,be doubled,reduce source voltage,be halved,,D,
+<p>Power is defined as:</p>,the rate at which work is done,work,the conversion of energy,joules,,A,
+"<p>What is the dc source voltage?<br/><br/><img src=""/_files/images/basic-electronics/complete/mcq3_1007_1.gif""/></p>",78 V,39 V,13 V,0 V,,A,
+"<p>With a total resistance of 3300 ohms and a 45 V source, if R<sub>3</sub> is 1200 ohms, what will be its voltage drop?</p>",16.36 V,32.72 V,10.90 V,15.00 V,,A,
+"<p><p><img src=""/_files/images/basic-electronics/basics/mcq4_1005_1.gif""/></p>
+<p>Calculate the voltage at point B in the given circuit.</p></p>",+10.48 V,+0.94 V,+2.6 V,+3 V,,A,
+"<p><p><img src=""/_files/images/basic-electronics/basics/mcq4_1001_1.gif""/></p>
+<p>In the given circuit, what type of failure will cause the voltage at point B to equal the voltage at point C?</p></p>",<i>R</i><sub>1</sub> shorts,<i>R</i><sub>2</sub> shorts,<i>R</i><sub>3</sub> shorts,<i>R</i><sub>2</sub> opens,,B,
+"<p><p><img src=""/_files/images/basic-electronics/basics/mcq4_1001_1.gif""/></p>
+<p>What is the voltage at points B to D in the given circuit?</p></p>",+19.2 V,+8.8 V,+28 V,–19.2 V,,A,
+"<p><p><img src=""/_files/images/basic-electronics/basics/mcq4_1005_1.gif""/></p>
+<p>Calculate the voltage at point C in the given circuit.</p></p>",+1.48 V,+0.94 V,+11.6 V,+3 V,,C,
+"<p>An 8-ohm resistor is in series with a lamp. The circuit current is 1 A. With 20 V applied, what voltage is being allowed for the lamp?</p>",4 V,8 V,12 V,20 V,,C,
+"<p>What is wrong, if anything, with this circuit?<br/><br/><img src=""/_files/images/basic-electronics/complete/mcq3_1011_1.gif""/></p>",R1 is open.,R1 is shorted.,R2 is open.,R2 is shorted.,,B,
+<p>Kirchhoff’s voltage law states that:</p>,the sum of the voltage drops in a series circuit is equal to the total applied voltage,the algebraic sum of the resistances is equal to the sum of the voltages,the algebraic sum of the individual currents around a closed loop is zero,the voltages developed across each element in a series circuit are identical,,A,
+"<p>If series current doubles, then:</p>",resistance is halved,voltage is doubled,voltage is reduced,resistance is doubled,,A,
+"<p>What are the minimum and maximum output voltages?<br/><br/><img src=""/_files/images/basic-electronics/complete/mcq3_1009_1.gif""/></p>","0 V, 4 V","0 V, 8 V","0 V, 12 V","0 V, 16 V",,D,
+<p>A short circuit has:</p>,too much resistance,no conductance,no resistance,low current,,C,
+"<p>If three resistors of 1.5 kilohms, 470 ohms, and 3300 ohms are in series with a 25-volt source, what is the total circuit current?</p>",210 mA,5.2 mA,4.7 mA,.007 A,,C,
+"<p>What is the total power in the circuit?<br/><br/><img src=""/_files/images/basic-electronics/complete/mcq3_1010_1.gif""/></p>",170 mW,1.7 W,17 W,170 W,,A,
+<p>A string of resistors in a series circuit will:</p>,divide the source voltage in proportion to their values,reduce the power to zero,cause the current to divide,increase the source voltage in proportion to the values,,A,
+"<p><img src=""/_files/images/basic-electronics/basics/mcq4_1004_1.gif""/><br/> While putting three 1.5 V batteries into a flashlight, you put one in backwards. The flashlight will be ______________.</p>",brighter than normal,dimmer than normal,off,the same,,B,
+"<p><p><img src=""/_files/images/basic-electronics/basics/mcq4_1009_1.gif""/></p>
+<p>If a voltage is connected between contacts 2 and 3 in the given circuit, which resistors will carry current?</p></p>",All twelve resistors will carry current.,Only <i>R</i><sub>6</sub> and <i>R</i><sub>11</sub> will carry current.,"Only <i>R</i><sub>2</sub>, <i>R</i><sub>4</sub>, <i>R</i><sub>6</sub>, and <i>R</i><sub>11</sub> will carry current.","Only <i>R</i><sub>3</sub>, <i>R</i><sub>6</sub>, <i>R</i><sub>9</sub>, and <i>R</i><sub>12</sub> will carry current.",,C,
+"<p>Given a series circuit containing resistors of different values, which statement is <b>not true</b>?</p>",The current through each resistor is the same.,The sum of the voltage drops across each resistive element will be equal to source voltage.,The total resistance is the sum of the value of the resistors.,The voltage drop across each resistor is the same.,,D,
+"<p>With 20 V applied, an 8-ohm resistor is in series with a lamp. When the lamp is removed, what voltage will be read across the lamp socket?</p>",0 V,8 V,12 V,20 V,,D,
+"<p>When 50 V is applied to four series resistors, 100 µA flows. If <i>R</i><sub>1</sub> = 12 k<img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/> , <i>R</i><sub>2</sub> = 47 k<img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/>, and <i>R</i><sub>3</sub> = 57 k<img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/>, what is the value of <i>R</i><sub>4</sub>?</p>","38.4 k<img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/>","3.84 k<img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/>","384 k<img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/>","3.84 M<img align=""absmiddle"" alt=""omega.gif"" src=""/_files/images/basic-electronics/basics/omega.gif""/>",,C,
+"<p>In a series circuit, the voltage measured across a short will be:</p>",source voltage,infinite voltage,zero volts,the normal voltage drop,,C,
+"<p><p><img src=""/_files/images/basic-electronics/basics/mcq4_1005_1.gif""/></p>
+<p>Which is a true statement about the circuit in the given circuit?</p></p>",The batteries are <b><i>series-aiding</i></b> and the total source voltage equals 21 V.,The batteries are <b><i>series-opposing</i></b> and the total source voltage equals 3 V.,The batteries are <b><i>series-aiding</i></b> and the total source voltage equals 3 V.,The batteries are <b><i>series-opposing</i></b> and the total source voltage equals 21 V.,,B,
+<p>A series circuit current:</p>,remains the same through each component,is the same as the individual resistances,is subtracted by each component,varies through each component,,A,
+"<p><p><img src=""/_files/images/basic-electronics/basics/mcq4_1001_1.gif""/></p>
+<p>If <i>R</i><sub>2</sub> opens in the given circuit, what is the voltage at point B?</p></p>",+19.2 V,+8.8 V,+28 V,–19.2 V,,C,
+"<p>If 5 V and 16 V power supplies are connected in series-opposing, what is the total voltage?</p>",11 V,16 V,21 V,80 V,,A,
+"<p>What is the total resistance?<br/><br/><img src=""/_files/images/basic-electronics/complete/mcq3_1006_1.gif""/></p>","0 k<img align=""absmiddle"" src=""/_files/images/basic-electronics/complete/omega.gif""/>; there is no current","2 k<img align=""absmiddle"" src=""/_files/images/basic-electronics/complete/omega.gif""/>; the average","3 k<img align=""absmiddle"" src=""/_files/images/basic-electronics/complete/omega.gif""/>; the largest","6 k<img align=""absmiddle"" src=""/_files/images/basic-electronics/complete/omega.gif""/>; the sum",,D,
+<p>Which equation determines individual resistor voltage drop?</p>,V x R,I<sup>2</sup> x R,V x I,I x R,,D,
+<p>How will an open resistor affect a series circuit?</p>,Current will flow around the open resistor.,The open resistor will drop 0 V.,Total resistance will decrease.,No current will flow in the circuit.,,D,
+<p>The voltage drop across a series resistor is proportional to what other value?</p>,total resistance,its own resistance,wattage rating,the amount of time the circuit is on,,B,
+<p>Resistance in a series circuit will:</p>,control the voltage,double the current,halve the power,oppose current,,D,
+"<p>When a battery is connected to a series circuit, it delivers current based only upon:</p>",primary/secondary difference,total resistance,the polarity connections,average resistance,,B,
+<p>What determines the total resistance in a series circuit?</p>,the largest resistor,the sum of the resistors,the largest resistor minus the smaller,the smallest resistor,,B,
+"<p>If two resistors have the same voltage drop in a series circuit, it means:</p>",they are connected in parallel,they are of unequal value,the voltage has doubled,they are of equal value,,D,
+"<p>If series resistors dissipate 16 mW, 107 mW, 146 mW, and 243 mW, what is the total power consumed by the circuit?</p>",128 mW,269 mW,512 mW,1024 mW,,C,
+<p>A series circuit schematic is recognized because all the components are connected:</p>,diagonally across the page,in a uniform vertical manner,"end to end in a ""string""",horizontally across the page,,C,
+"<p>With a 900 V source, voltage is divided across 3 series resistors of 300 V, 280 V, and:</p>",30 V,270 V,320 V,900 V,,C,
+"<p><p><img src=""/_files/images/basic-electronics/basics/mcq4_1005_1.gif""/></p>
+<p>How much current flows in the circuit in the given circuit?</p></p>","20 <img align=""absmiddle"" alt=""mu.gif"" src=""/_files/images/basic-electronics/basics/mu.gif""/>A","60 <img align=""absmiddle"" alt=""mu.gif"" src=""/_files/images/basic-electronics/basics/mu.gif""/>A","80 <img align=""absmiddle"" alt=""mu.gif"" src=""/_files/images/basic-electronics/basics/mu.gif""/>A","140 <img align=""absmiddle"" alt=""mu.gif"" src=""/_files/images/basic-electronics/basics/mu.gif""/>A",,A,

@@ -1,0 +1,207 @@
+question,A,B,C,D,E,answer,explanation
+<p>A cavity resonator is</p>,a hollow metallic enclosure,a hollow enclosure having magnetic material as its walls,a hollow enclosure having dielectric material as its walls,either (b) or (c),,A," <p>Hollow metallic enclosures exhibit resonance behaviour when excited by electromagnetic field. </p>
+<p>These enclosures are called cavity resonators.</p> "
+"<p>If antenna diameter is increased four times, the maximum range is increased by a factor of</p>","<span class=""root"">2</span>",2,4,0.2,,C, <p>Range of radar is proportional to antenna diameter.</p> 
+<p><p><b>Assertion (A):</b>  Gunn diode is a transferred electron device.</p><p><b>Reason (R):</b> A Gunn oscillator uses the phenomenon of transferred electron effect.</p></p>,Both A and R are correct and R is correct explanation of A,Both A and R are correct but R is not correct explanation of A,A is correct but R is wrong,A is wrong but R is correct,,B," <p>A Gunn diode uses GaAs which has a negative differential mobility, <i>i</i>.<i>e</i>., a decrease in carrier velocity with increase in electric field. </p>
+<p>This effects is called transferred electron effect. The impedance of a Gunn diode is tens of ohms.</p>
+<p>A Gunn diode oscillator has a resonant cavity, an arrangement to couple Gunn diode to cavity, biasing arrangement for Gunn diode and arrangement to couple RF power to load.</p>
+<p>Applications of Gunn diode oscillator include continuous wave radar, pulsed radar and microwave receivers.</p> "
+<p>Atomic and molecular resonance is observed in many substances</p>,at microwave frequencies,at low frequencies,at frequencies used in AM broadcast,at both (b) and (c),,A, <p>Atomic and molecular distances are very small. Therefore resonance can occur only at microwave frequencies.</p> 
+"<p>The component in the given figure is<br/><img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/19-232.png""/></p>",attenuator,T type low pass filter,T type high pass filter,phase shifter,,B, <p>Z<sub>01</sub> provides series inductances and teflon filled low impedance line Z<sub>02</sub> provides shunt capacitance.</p> 
+<p>The semiconductor diode which can be used in switching circuit in microwave range is</p>,PIN diode,Varactor diode,Tunnel diode,Gunn diode,,A," <p>A PIN diode has an intrinsic (<i>i</i>) layer between <i>p</i> and <i>n</i> layers. When reverse bias is applied depletion layers are formed at <i>p-i</i> and <i>i-n</i> junctions. </p>
+<p>The effective/width of depletion layer increases by the width of <i>i</i> layer. It can be used as a voltage controlled attenuator. </p>
+<p>At high frequencies the rectification effect ceases and impedance of diode is effectively that of <i>i</i> layer. </p>
+<p>This impedance varies with the applied bias. It is used in high frequency switching circuits, limiters, modulators etc.</p> "
+"<p>In the given figure the reflected current wave after first reflection is<br/><img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/18-193.png""/></p>",0.18 A,-0.18 A,0.3 A,-0.3 A,,B," <p><img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/29-199.png""/></p> "
+<p>A line has an attenuation of 0.054 Np/m. The attenuation in decibels is</p>,4.7 dB/m,0.47 dB/m,0.54 dB/m,5.4 dB/m,,B, <p>0.054 x 8.68 = 0.47 dB/m.</p> 
+<p>If a line is open circuited Z<sub>in</sub> = Z<sub>0</sub> tanh (g<i>l</i>).</p>,True,False,,,,B," <p>The quantities required to be measured in microwave circuits are frequency, power and impedance.</p>
+<p>Microwave frequency measurement is done by slotted line, resonant cavities and transfer oscillator. </p>
+<p>Microwave power measurement uses bolometers and micromave power meters. </p>
+<p>A self balancing bridge working on the principle of power substitution is commomly used. </p>
+<p>Microwave impedance measurement is done by measurement of reflection coefficient and VSWR. </p>
+<p>A slotted line and probe is a basic tool for these measurements.' Network analyser enables rapid impedance measurement over a broad frequency range.</p> "
+<p>A reflex klystron oscillator uses</p>,one cavity resonator,two cavity resonators,three cavity resonators,none of the above,,A," <p>It uses a single cavity resonator for generating microwave oscillations. </p>
+<p>Its parts are electron gun, resonator, repeller and output coupling.</p>
+<p>It operates on the principle of positive feed back. </p>
+<p>The repeller electrode is at negative potential and sends the partially bunched electron beam back to resonator cavity. </p>
+<p>This positive feedback supports oscillations. Its feature are: </p>
+<p>1. Frequency range - 2 to 100 GHz</p>
+<p>2. Power output - 10 MW to about 2 W</p>
+<p>3. Efficiency - 10 - 20 %</p>
+<p>Its applications include radar receivers, local oscillator in microwave devices, oscillator for microwave measurements in laboratories etc.</p> "
+<p>A coaxial RF cable has a characteristic impedance of 50 Ω and C equal to 40 pF/m. The inductance is</p>,1 μ H/m,10 μ H/m,0.1 μ H/m,0.01 μ H/m,,C," <p><img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/29-182.png""/>.</p> "
+"<p>In a microwave coaxial line, the maximum operating frequency is <i>f</i> <sub>max</sub> and breakdown strength of dielectric is E<i><sub>d</sub></i>' Then maximum power handling capacity is proportional to</p>","<img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/18-214-1.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/18-214-2.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/18-214-3.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/18-214-4.png""/>",,B, <p>Power handling capacity μ (voltage)<sup>2</sup> and is inversely proportional to <i>f</i><sup>2</sup> max.</p> 
+<p>To couple a coaxial line to a parallel wire line it is best to use</p>,slotted line,balun,directional coupler,λ/4 transformer,,B, <p>A balun gives 4 : 1 impedance transformation.</p> 
+<p>In a multicavity klystron amplifier the signal to be amplified develops an ac voltage of signal frequency across the gap in buncher cavity</p>,True,False,,,,A," <p>A Klystron is a vacuum tube used for generation/amplification of microwaves. </p>
+<p>An electron beam is produced by oxide coated indirectly heated cathode and is focussed and accelerated by focussing electrode. </p>
+<p>This beam is transmitted through a glass tube. The input cavity where the beam enters the glass tube is called buncher. </p>
+<p>As electrons move ahead they see an accelerating field for half cycle and retarding field for the other half cycle. </p>
+<p>Therefore, some electrons are accelerated and some are retarded. This process is called velocity modulation. </p>
+<p>The velocity modulation causes bunching of electrons. This bunching effect converts velocity modulation into density modulation of beam. </p>
+<p>The input is fed at buncher cavity and output is taken at catcher cavity. </p>
+<p>In a two cavity klystron only buncher and catcher cavity are used. In multi cavity klystron one or more intermediate cavities are also used. </p>
+<p>The features of a multicavity klystron are :</p>
+<p>1. Frequency range - 0.25 GHz to 100 GHz</p>
+<p>2. Power output - 10 kW to several hundred kW</p>
+<p>3. Power gain - 60 dB (nominal value)</p>
+<p>4. Efficiency - about 40%.</p>
+<p>A multicavity klystron is used in UHF TV transmitters, Radar transmitter and satellite communication.</p> "
+"<p>If VSWR is infinite, the transmission line is terminated in</p>",short circuit,complex impedance,open circuit,either (a) or (c),,D," <p><img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/27-1.png""/> and <img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/27-2.png""/> . Since VSWR = ∞, |<span class=""symbol"">r</span><i><sub>v</sub></i>| = 1. This can happen if Z<sub>L</sub> = 0 or Z<sub>L</sub> = ∞, <i>i</i>.<i>e</i>., line is o.c or s.c.</p> "
+<p>In a circular waveguide TE<sub>21</sub> mode has lowest cutoff frequency</p>,True,False,,,,B," <p>Some applications require dual polarization capability. Circular waveguide has this capability. </p>
+<p>These analysis uses cylindrical coordinates. </p>
+<p>In circular waveguide TE<sub>11</sub> mode has the lowest cut off frequency and is the dominant mode. </p>
+<p>If D is diameter of waveguide</p>
+<p>λ<i><sub>c</sub></i> = 1.706 D for TE<sub>11</sub> mode</p>
+<p>λ<i><sub>c</sub></i> = 1.029 D for TE<sub>21</sub> mode</p>
+<p>λ<i><sub>c</sub></i> = 0.82 D for TE<sub>01</sub> mode</p>
+<p>λ<i><sub>c</sub></i> = 1.306 D for TM<sub>01</sub> mode.</p> "
+<p>The number of TV channels which can be accommodated in a spectrum of 300 MHz is about</p>,5,10,50,200,,C, <p>A TV channel has a bandwidth about 5 MHz. Hence 300 MHz spectrum can accommodate about 50 channels.</p> 
+<p>The noise figure of multicavity klystron amplifier is very low</p>,True,False,,,,B," <p>A Klystron is a vacuum tube used for generation/amplification of microwaves. </p>
+<p>An electron beam is produced by oxide coated indirectly heated cathode and is focussed and accelerated by focussing electrode. </p>
+<p>This beam is transmitted through a glass tube. The input cavity where the beam enters the glass tube is called buncher. </p>
+<p>As electrons move ahead they see an accelerating field for half cycle and retarding field for the other half cycle. </p>
+<p>Therefore, some electrons are accelerated and some are retarded. This process is called velocity modulation. </p>
+<p>The velocity modulation causes bunching of electrons. This bunching effect converts velocity modulation into density modulation of beam. </p>
+<p>The input is fed at buncher cavity and output is taken at catcher cavity. </p>
+<p>In a two cavity klystron only buncher and catcher cavity are used. In multi cavity klystron one or more intermediate cavities are also used. </p>
+<p>The features of a multicavity klystron are :</p>
+<p>1. Frequency range - 0.25 GHz to 100 GHz</p>
+<p>2. Power output - 10 kW to several hundred kW</p>
+<p>3. Power gain - 60 dB (nominal value)</p>
+<p>4. Efficiency - about 40%.</p>
+<p>A multicavity klystron is used in UHF TV transmitters, Radar transmitter and satellite communication.</p> "
+<p><p><b>Assertion (A):</b>  The velocity of electromagnetic waves on overhead lines and coaxial cables is the same.</p><p><b>Reason (R):</b> Free space has an intrinsic impedance of 377 ohms.</p></p>,Both A and R are correct and R is correct explanation of A,Both A and R are correct but R is not correct explanation of A,A is correct but R is wrong,A is wrong but R is correct,,D, <p>Velocity of em waves on caoxial cables is less than that on overhead lines.</p> 
+"<p>In the given figure the E and H lines in a coaxial cable<br/><img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/18-208.png""/></p>",The radial lines are E lines and circular lines are H lines,Radial lines are H lines and circular lines are E lines,The directions of E and H lines are wrong,Radial lines may be E and H lines depending an direction of current,,A, <p>H lines are concentric circles around conductor and E lines are radial.</p> 
+<p>Roughly the time required for microwave cooking as compared to conventional cooking is</p>,about twice,about half,about 10 times,about one-tenth,,D, <p>Time required for microwave cooking is much less than the time required for conventional cooking.</p> 
+"<p>If the minimum range of a radar is to be doubled, the peak power has to be increased by a factor of</p>",2,4,8,16,,D, <p>Range = (power)<sup>025</sup>.</p> 
+<p>Which mode has the lowest cut off frequency in circular wave guides?</p>,TE<sub>01</sub>,TE<sub>11</sub>,TE<sub>20</sub>,TE<sub>21</sub>,,B," <p>Some applications require dual polarization capability. Circular waveguide has this capability. </p>
+<p>These analysis uses cylindrical coordinates. </p>
+<p>In circular waveguide TE<sub>11</sub> mode has the lowest cut off frequency and is the dominant mode. </p>
+<p>If D is diameter of waveguide</p>
+<p>λ<i><sub>c</sub></i> = 1.706 D for TE<sub>11</sub> mode</p>
+<p>λ<i><sub>c</sub></i> = 1.029 D for TE<sub>21</sub> mode</p>
+<p>λ<i><sub>c</sub></i> = 0.82 D for TE<sub>01</sub> mode</p>
+<p>λ<i><sub>c</sub></i> = 1.306 D for TM<sub>01</sub> mode.</p> "
+<p><p><b>Assertion (A):</b>  Klystron amplifiers use one or more intermediate cavities in addition to buncher and catcher cavity.</p><p><b>Reason (R):</b> When one or more intermediate cavities are used the bandwidth can be increased.</p></p>,Both A and R are correct and R is correct explanation of A,Both A and R are correct but R is not correct explanation of A,A is correct but R is wrong,A is wrong but R is correct,,A," <p>A Klystron is a vacuum tube used for generation/amplification of microwaves. </p>
+<p>An electron beam is produced by oxide coated indirectly heated cathode and is focussed and accelerated by focussing electrode. </p>
+<p>This beam is transmitted through a glass tube. The input cavity where the beam enters the glass tube is called buncher. </p>
+<p>As electrons move ahead they see an accelerating field for half cycle and retarding field for the other half cycle. </p>
+<p>Therefore, some electrons are accelerated and some are retarded. This process is called velocity modulation. </p>
+<p>The velocity modulation causes bunching of electrons. This bunching effect converts velocity modulation into density modulation of beam. </p>
+<p>The input is fed at buncher cavity and output is taken at catcher cavity. </p>
+<p>In a two cavity klystron only buncher and catcher cavity are used. In multi cavity klystron one or more intermediate cavities are also used. </p>
+<p>The features of a multicavity klystron are :</p>
+<p>1. Frequency range - 0.25 GHz to 100 GHz</p>
+<p>2. Power output - 10 kW to several hundred kW</p>
+<p>3. Power gain - 60 dB (nominal value)</p>
+<p>4. Efficiency - about 40%.</p>
+<p>A multicavity klystron is used in UHF TV transmitters, Radar transmitter and satellite communication.</p> "
+<p>A wave E<i><sub>m</sub></i> cos (b<i>x</i> - ω<i>t</i>) is a backward wave.</p>,True,False,,,,B," <p>It is a forward wave because as <i>t</i> increases, <i>x</i> increases.</p> "
+<p>A reflex klystron oscillator is a</p>,low power device,high power device,high efficiency device,both (a) and (b),,A," <p>It uses a single cavity resonator for generating microwave oscillations. </p>
+<p>Its parts are electron gun, resonator, repeller and output coupling.</p>
+<p>It operates on the principle of positive feed back. </p>
+<p>The repeller electrode is at negative potential and sends the partially bunched electron beam back to resonator cavity. </p>
+<p>This positive feedback supports oscillations. Its feature are: </p>
+<p>1. Frequency range - 2 to 100 GHz</p>
+<p>2. Power output - 10 MW to about 2 W</p>
+<p>3. Efficiency - 10 - 20 %</p>
+<p>Its applications include radar receivers, local oscillator in microwave devices, oscillator for microwave measurements in laboratories etc.</p> "
+"<p>Consider the following applications <ol style=""list-style-type: decimal; padding-bottom:10px;""><li style=""padding-top:10px;"">TV tuning</li><li style=""padding-top:10px;"">Active filter</li><li style=""padding-top:10px;"">Microwave frequency multiplication</li></ol> In which of above can a varactor diode be used?</p>",1 2 and 3,l and 2 only,1 and 3 only,2 and 3 only,,A, <p>Varactor diode is used in all the three applications.</p> 
+"<p>Consider the following statements <ol style=""list-style-type: decimal; padding-bottom:10px;""><li style=""padding-top:10px;"">Dissipative attenuator has a fixed value of attenuation.</li><li style=""padding-top:10px;"">Reflective attenuator has a fixed value of attenuation.</li><li style=""padding-top:10px;"">Both dissipative and reflective attenuators are available only with fixed attenuation.</li><li style=""padding-top:10px;"">Both dissipative and reflective attenuators are available with either fixed or variable attenuation.</li></ol> Which of the above are correct?</p>",1 only,1 and 2,"1, 2 and 3",4 only,,D, <p>Both dissipative and reflective attenuators are available with either fixed or variable attenuation.</p> 
+<p>Impedance inversion may be obtained with</p>,a short circuited stub,a quarter wave line,an open circuited stub,a half wave line,,B, <p>Impedance inversion occurs when load impedance is not matched with characteristic impedance of line.</p> 
+<p>Power gain of a multicavity klystron amplifier is</p>,more than 30 dB,causes retardation of all electrons,causes acceleration of some electrons and retardation of others,none of the above,,A," <p>A Klystron is a vacuum tube used for generation/amplification of microwaves. </p>
+<p>An electron beam is produced by oxide coated indirectly heated cathode and is focussed and accelerated by focussing electrode. </p>
+<p>This beam is transmitted through a glass tube. The input cavity where the beam enters the glass tube is called buncher. </p>
+<p>As electrons move ahead they see an accelerating field for half cycle and retarding field for the other half cycle. </p>
+<p>Therefore, some electrons are accelerated and some are retarded. This process is called velocity modulation. </p>
+<p>The velocity modulation causes bunching of electrons. This bunching effect converts velocity modulation into density modulation of beam. </p>
+<p>The input is fed at buncher cavity and output is taken at catcher cavity. </p>
+<p>In a two cavity klystron only buncher and catcher cavity are used. In multi cavity klystron one or more intermediate cavities are also used. </p>
+<p>The features of a multicavity klystron are :</p>
+<p>1. Frequency range - 0.25 GHz to 100 GHz</p>
+<p>2. Power output - 10 kW to several hundred kW</p>
+<p>3. Power gain - 60 dB (nominal value)</p>
+<p>4. Efficiency - about 40%.</p>
+<p>A multicavity klystron is used in UHF TV transmitters, Radar transmitter and satellite communication.</p> "
+<p>If a short line is terminated in characteristic impedance it behaves as an infinite line.</p>,True,False,,,,A," <p>In a line terminated by Z<sub>0</sub>, there are no reflections.</p> "
+<p>Ga As exhibits negative differential mobility</p>,True,False,,,,A," <p>A Gunn diode uses GaAs which has a negative differential mobility, <i>i</i>.<i>e</i>., a decrease in carrier velocity with increase in electric field. </p>
+<p>This effects is called transferred electron effect. The impedance of a Gunn diode is tens of ohms.</p>
+<p>A Gunn diode oscillator has a resonant cavity, an arrangement to couple Gunn diode to cavity, biasing arrangement for Gunn diode and arrangement to couple RF power to load.</p>
+<p>Applications of Gunn diode oscillator include continuous wave radar, pulsed radar and microwave receivers.</p> "
+"<p>Consider the following statements <ol style=""list-style-type: decimal; padding-bottom:10px;""><li style=""padding-top:10px;"">Bunching of electrons occurs in two cavity klystron amplifier.</li><li style=""padding-top:10px;"">Bunching of electrons occurs in multi cavity klystron amplifier.</li><li style=""padding-top:10px;"">Bunching of electrons occurs in reflex cavity klystron amplifier.</li></ol> Which of the above statements are correct?</p>","1, 2, and only","1, 2 and 3 only",1 and 3 only,2 and 3 only,,B," <p>A Klystron is a vacuum tube used for generation/amplification of microwaves. </p>
+<p>An electron beam is produced by oxide coated indirectly heated cathode and is focussed and accelerated by focussing electrode. </p>
+<p>This beam is transmitted through a glass tube. The input cavity where the beam enters the glass tube is called buncher. </p>
+<p>As electrons move ahead they see an accelerating field for half cycle and retarding field for the other half cycle. </p>
+<p>Therefore, some electrons are accelerated and some are retarded. This process is called velocity modulation. </p>
+<p>The velocity modulation causes bunching of electrons. This bunching effect converts velocity modulation into density modulation of beam. </p>
+<p>The input is fed at buncher cavity and output is taken at catcher cavity. </p>
+<p>In a two cavity klystron only buncher and catcher cavity are used. In multi cavity klystron one or more intermediate cavities are also used. </p>
+<p>The features of a multicavity klystron are :</p>
+<p>1. Frequency range - 0.25 GHz to 100 GHz</p>
+<p>2. Power output - 10 kW to several hundred kW</p>
+<p>3. Power gain - 60 dB (nominal value)</p>
+<p>4. Efficiency - about 40%.</p>
+<p>A multicavity klystron is used in UHF TV transmitters, Radar transmitter and satellite communication.</p> "
+<p><p><b>Assertion (A):</b>  For high frequency lines inductive reactance is very high as compared to ac resistance.</p><p><b>Reason (R):</b> Due to skin effect ac resistance of line is higher than dc resistance.</p></p>,Both A and R are correct and R is correct explanation of A,Both A and R are correct but R is not correct explanation of A,A is correct but R is wrong,A is wrong but R is correct,,B, <p>X<sub>L</sub> = ωL. As frequency increases line resistance increases slightly but X<sub>L</sub> increases directly as per frequency.</p> 
+"<p>Consider the following applications <ol style=""list-style-type: decimal; padding-bottom:10px;""><li style=""padding-top:10px;"">Switch</li><li style=""padding-top:10px;"">Attenuator</li><li style=""padding-top:10px;"">Phase shifter</li><li style=""padding-top:10px;"">Oscillator</li></ol> In which of the above can a PIN diode be used?</p>",1 2 3 and 4,1 2 and 3 only,1 and 2 only,"2, 3 and 4 only",,B, <p>PIN diode is not used in oscillators.</p> 
+<p>Which one of the following is not a negative resistance device?</p>,Gunn diode,Tunnel diode,Impatt diode,Varactor diode,,D," <p>Gunn diode, Tunnel diode and Impatt diodes are negative resistance devices. </p>
+<p>The limitation of solid state devices at high frequencies include those associated with transit time and junction capacitances. </p>
+<p>The devices used are : Transferred electron oscillators (Gunn diode), Avalanche diode oscillators (Impatt diode, Trapatt diode, Masters, Lasers, Tunnel diode, Varactor etc).</p> "
+<p>Microwave links are typically 50 km apart</p>,because of atmospheric attenuation,because of output tube power limitation,because of earth's curvature,to ensure that applied <i>dc</i> voltage is not excessive,,C, <p>Earth's curvature limits the distance between microwave links.</p> 
+<p>For matching over a range of frequencies in a transmission line it is best to use</p>,a balun,a broad band directional coupler,double stub,a single stub of adjustable position,,C, <p>Double stub is useful for matching over a range of frequencies.</p> 
+"<p><p><b>Assertion (A):</b>  In the interaction region of magnetron an electron is subjected to three forces: force due to electric field, force due to magnetic field and centrifugal force.</p><p><b>Reason (R):</b> The mechanism of generation of microwaves, in a magnetron, involves interaction of electromagnetic fields with electrons moving in static electric and magnetic fields oriented at right angles to each other.</p></p>",Both A and R are correct and R is correct explanation of A,Both A and R are correct but R is not correct explanation of A,A is correct but R is wrong,A is wrong but R is correct,,A," <p>It is somewhat similar to TWT and can deliver microwave power over a wide frequency band. </p>
+<p>It has an electron gun and a helix structure. However the interaction between electron beam and RF wave is different than in TWT. </p>
+<p>The growing RF wave travels in opposite direction to the electron beam. </p>
+<p>The frequency of wave can be changed by changing the voltage which controls the beam velocity. </p>
+<p>Moreover the amplitude of oscillations can be decreased continuously to zero by changing the beam current. </p>
+<p>It features are:</p>
+<p>1. Frequency range - 1 GHz to 1000 GHz.</p>
+<p>2. Power output - 10 mV to 150 mW (continuous wave) 250kW (pulsed).</p>
+<p>It is used as signal source in transmitters and instruments.</p> "
+<p>Which of the following is wrong for a magic used to tee?</p>,E and H arms are decoupled,coplanar arms are coupled,all ports are perfectly matched,A signal into coplanar arm splits equally between E and H arms,,B, <p>Coplanar arms are decoupled.</p> 
+<p>The expression H<sub>Z</sub> = C cos(B<i>x</i>) cos(A<i>y</i>)<i>yz</i> is for</p>,TE wave,TM waves,both TE and TM waves,some TE and some TM waves,,A, <p>In <i>TM</i> mode <i>H<sub>z</sub></i> = 0.</p> 
+<p><p><b>Assertion (A):</b>  Impedance matching can be done by using stubs.</p><p><b>Reason (R):</b> A double stub is used for impedance matching when frequency of signal varies.</p></p>,Both A and R are correct and R is correct explanation of A,Both A and R are correct but R is not correct explanation of A,A is correct but R is wrong,A is wrong but R is correct,,A," <p>Hollow metallic enclosures exhibit resonance behaviour when excited by electromagnetic field. </p>
+<p>These enclosures are called cavity resonators.</p> "
+"<p>Read the following statements about TWT <ol style=""list-style-type: decimal; padding-bottom:10px;""><li style=""padding-top:10px;"">It uses thermionic emission.</li><li style=""padding-top:10px;"">It uses an attenuater.</li><li style=""padding-top:10px;"">It is inherently a resonant device.</li><li style=""padding-top:10px;"">It has broad bandwidth.</li></ol> Which of the above are correct?</p>","1, 2, 3 and 4","1, 2 and 3","1, 3 and 4","1, 2 and 4",,D," <p>In a klystron the resonant structure limits the bandwidth. </p>
+<p>A TWT is a broadband device. Its main components are electron gun (to produce the electron beam) and a structure supporting the slow electromagnetic wave. </p>
+<p>The velocity of wave propagation along the helix structure is less than velocity of light. </p>
+<p>The beam and wave travel along the structure at the same speed. </p>
+<p>Thus interaction occurs between beam and wave and the beam delivers energy to the RF wave. </p>
+<p>Therefore the signal gets strengthened and amplified output is delivered at the other end of tube. </p>
+<p>The main features of TWT are :</p>
+<p>1. Frequency range - 0.5 GHz to 90 GHz</p>
+<p>2. Power output - 5 mW at low frequencies(less than 20 GHz) 250 kW (continuous wave) at 3 GHz 10 MW (pulsed) at 3 GHz</p>
+<p>3. Efficiency - about 5 to 20%</p>
+<p>4. Noise - about 5 dB for low power TWT 25 dB for high power TWT </p>
+<p>TWT is used as RF amplifier in broadband microwave receivers, repeater amplifier in broad band communication systems, communication satellites etc.</p> "
+"<p>If a line having Z<sub>0</sub> = 300 ∠ 0 W is short circuited at far end, VSWR is</p>",0 ,1,∞,2,,C," <p>If line is s.c |<span class=""symbol"">r</span><i><sub>v</sub></i>| = 1 and VSWR = ∞.</p> "
+<p>A klystron amplifier generally uses Pierce gun</p>,True,False,,,,A," <p>It uses a single cavity resonator for generating microwave oscillations. </p>
+<p>Its parts are electron gun, resonator, repeller and output coupling.</p>
+<p>It operates on the principle of positive feed back. </p>
+<p>The repeller electrode is at negative potential and sends the partially bunched electron beam back to resonator cavity. </p>
+<p>This positive feedback supports oscillations. Its feature are: </p>
+<p>1. Frequency range - 2 to 100 GHz</p>
+<p>2. Power output - 10 MW to about 2 W</p>
+<p>3. Efficiency - 10 - 20 %</p>
+<p>Its applications include radar receivers, local oscillator in microwave devices, oscillator for microwave measurements in laboratories etc.</p> "
+<p><p><b>Assertion (A):</b>  PIN diode is used as a fast switch.</p><p><b>Reason (R):</b> PIN diode has very high resistance when reverse biased and very low resistance when forward biased.</p></p>,Both A and R are correct and R is correct explanation of A,Both A and R are correct but R is not correct explanation of A,A is correct but R is wrong,A is wrong but R is correct,,A," <p>A PIN diode has an intrinsic (<i>i</i>) layer between <i>p</i> and <i>n</i> layers. When reverse bias is applied depletion layers are formed at <i>p-i</i> and <i>i-n</i> junctions. </p>
+<p>The effective/width of depletion layer increases by the width of <i>i</i> layer. It can be used as a voltage controlled attenuator. </p>
+<p>At high frequencies the rectification effect ceases and impedance of diode is effectively that of <i>i</i> layer. </p>
+<p>This impedance varies with the applied bias. It is used in high frequency switching circuits, limiters, modulators etc.</p> "
+<p>A pulsed radar produces 1 μ sec pulses at a rate of 1000 per second. The duty cycle is</p>,0.001,0.01,0.1,1,,A, <p>1 x 10<sup>-6</sup> x 1000 = 0.001.</p> 
+<p><p><b>Assertion (A):</b>  Impedance measurement at microwave frequencies is done by finding SWR.</p><p><b>Reason (R):</b> SWR and reflection coefficient depend on the characteristic impedance and load impedance.</p></p>,Both A and R are correct and R is correct explanation of A,Both A and R are correct but R is not correct explanation of A,A is correct but R is wrong,A is wrong but R is correct,,B," <p><img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/30-360.png""/></p> "
+<p>When a line is loaded the characteristic impedance is equal to</p>,"<span class=""root"">(R + <i>j</i>ωL)(G + <i>j</i>ωC)</span>","<img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/09-30-2.png""/>","<img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/09-30-3.png""/>","<span class=""root"">LC</span>",,B," <p><img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/28-30-1.png""/> or <img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/28-30-2.png""/> <img src=""/_files/images/electronics-and-communication-engineering/microwave-communication/28-30-3.png""/>.</p> "
+<p>Which device has internal positive feedback?</p>,Two cavity klystron amplifier,Multi-cavity klystron amplifier,Reflex klystron amplifier,All of the above,,C," <p>A Klystron is a vacuum tube used for generation/amplification of microwaves. </p>
+<p>An electron beam is produced by oxide coated indirectly heated cathode and is focussed and accelerated by focussing electrode. </p>
+<p>This beam is transmitted through a glass tube. The input cavity where the beam enters the glass tube is called buncher. </p>
+<p>As electrons move ahead they see an accelerating field for half cycle and retarding field for the other half cycle. </p>
+<p>Therefore, some electrons are accelerated and some are retarded. This process is called velocity modulation. </p>
+<p>The velocity modulation causes bunching of electrons. This bunching effect converts velocity modulation into density modulation of beam. </p>
+<p>The input is fed at buncher cavity and output is taken at catcher cavity. </p>
+<p>In a two cavity klystron only buncher and catcher cavity are used. In multi cavity klystron one or more intermediate cavities are also used. </p>
+<p>The features of a multicavity klystron are :</p>
+<p>1. Frequency range - 0.25 GHz to 100 GHz</p>
+<p>2. Power output - 10 kW to several hundred kW</p>
+<p>3. Power gain - 60 dB (nominal value)</p>
+<p>4. Efficiency - about 40%.</p>
+<p>A multicavity klystron is used in UHF TV transmitters, Radar transmitter and satellite communication.</p> "
