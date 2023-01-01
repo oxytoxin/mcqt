@@ -2,10 +2,10 @@
 
 namespace App\Console\Commands;
 
-use App\Models\QuestionItem;
+use App\Models\McqtItem;
 use Illuminate\Console\Command;
-use App\Models\QuestionCategory;
-use App\Models\QuestionSubcategory;
+use App\Models\Category;
+use App\Models\Subcategory;
 use Illuminate\Support\Facades\Storage;
 use Spatie\SimpleExcel\SimpleExcelReader;
 
@@ -39,7 +39,7 @@ class SeedQuestionFromSourceIB extends Command
             $this->output->writeln("From $category_path");
             $parts = explode('/', $category_path);
             $category_name = end($parts);
-            $category = QuestionCategory::create([
+            $category = Category::create([
                 'question_source_id' => 2,
                 'name' => $category_name,
             ]);
@@ -52,7 +52,7 @@ class SeedQuestionFromSourceIB extends Command
                 $this->output->writeln("Seeding $subcategory_path");
                 $parts = explode('/', $subcategory_path);
                 $subcategory_name = end($parts);
-                $subcategory = QuestionSubcategory::create([
+                $subcategory = Subcategory::create([
                     'question_category_id' => $category->id,
                     'name' => $subcategory_name,
                 ]);
@@ -89,7 +89,7 @@ class SeedQuestionFromSourceIB extends Command
                             'D' => 3,
                             'E' => 4,
                         };
-                        QuestionItem::create([
+                        McqtItem::create([
                             'question_subcategory_id' => $subcategory->id,
                             'question' => $data['question'],
                             'choices' => json_encode($choices),

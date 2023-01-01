@@ -2,7 +2,7 @@
 
 namespace Database\Seeders;
 
-use App\Models\QuestionSource;
+use App\Models\Source;
 use Illuminate\Database\Seeder;
 use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 
@@ -15,10 +15,10 @@ class QuestionSourceSeeder extends Seeder
      */
     public function run()
     {
-        QuestionSource::create([
+        Source::create([
             'name' => 'Source 1'
         ]);
-        QuestionSource::create([
+        Source::create([
             'name' => 'Source 2'
         ]);
     }

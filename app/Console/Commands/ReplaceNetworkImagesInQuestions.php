@@ -2,7 +2,7 @@
 
 namespace App\Console\Commands;
 
-use App\Models\QuestionItem;
+use App\Models\McqtItem;
 use Illuminate\Console\Command;
 
 class ReplaceNetworkImagesInQuestions extends Command
@@ -28,11 +28,11 @@ class ReplaceNetworkImagesInQuestions extends Command
      */
     public function handle()
     {
-        $count = QuestionItem::where('question', 'like', '%_files/%')
+        $count = McqtItem::where('question', 'like', '%_files/%')
             ->orWhere('choices', 'like', '%_files/%')
             ->orWhere('explanation', 'like', '%_files/%')
             ->count();
-        $items = QuestionItem::where('question', 'like', '%_files/%')
+        $items = McqtItem::where('question', 'like', '%_files/%')
             ->orWhere('choices', 'like', '%_files/%')
             ->orWhere('explanation', 'like', '%_files/%')
             ->get();

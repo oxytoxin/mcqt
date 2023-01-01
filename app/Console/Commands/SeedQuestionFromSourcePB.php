@@ -2,10 +2,10 @@
 
 namespace App\Console\Commands;
 
-use App\Models\QuestionItem;
+use App\Models\McqtItem;
 use Illuminate\Console\Command;
-use App\Models\QuestionCategory;
-use App\Models\QuestionSubcategory;
+use App\Models\Category;
+use App\Models\Subcategory;
 use Illuminate\Support\Facades\Storage;
 use Spatie\SimpleExcel\SimpleExcelReader;
 
@@ -37,7 +37,7 @@ class SeedQuestionFromSourcePB extends Command
             $this->output->writeln("From $category_path");
             $parts = explode('/', $category_path);
             $category_name = end($parts);
-            $category = QuestionCategory::create([
+            $category = Category::create([
                 'question_source_id' => 1,
                 'name' => $category_name,
             ]);
@@ -48,7 +48,7 @@ class SeedQuestionFromSourcePB extends Command
 
                 $parts = explode('/', $subcategory_path);
                 $subcategory_name = end($parts);
-                $subcategory = QuestionSubcategory::create([
+                $subcategory = Subcategory::create([
                     'question_category_id' => $category->id,
                     'name' => str_replace(".csv", "", $subcategory_name),
                 ]);
@@ -58,7 +58,7 @@ class SeedQuestionFromSourcePB extends Command
                     ->getRows();
                 $this->output->progressStart();
                 $rows->each(function ($data) use ($subcategory) {
-                    QuestionItem::create([
+                    McqtItem::create([
                         'question_subcategory_id' => $subcategory->id,
                         'question' => $data['question'],
                         'choices' => $data['choices'],

@@ -25,7 +25,7 @@ return new class extends Migration
      */
     public function down()
     {
-        Schema::table('question_items', function (Blueprint $table) {
+        Schema::table('mcqt_items', function (Blueprint $table) {
             $table->fullText(['question', 'choices']);
         });
     }
