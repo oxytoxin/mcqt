@@ -76,7 +76,7 @@ class SubcategoryController extends Controller
 
     public function mcqt_items(Subcategory $subcategory)
     {
-        return McqtItemResource::collection($subcategory->mcqt_items()->paginate(5))
+        return McqtItemResource::collection($subcategory->mcqt_items()->paginate(50))
             ->additional([
                 'meta' => [
                     'subcategory' => SubcategoryResource::make($subcategory),
