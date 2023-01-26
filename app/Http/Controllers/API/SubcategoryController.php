@@ -76,10 +76,12 @@ class SubcategoryController extends Controller
 
     public function mcqt_items(Subcategory $subcategory)
     {
-        return McqtItemResource::collection($subcategory->mcqt_items()->paginate(50))
+        $paginator = $subcategory->mcqt_items()->paginate(50);
+        return McqtItemResource::collection($paginator)
             ->additional([
                 'meta' => [
                     'subcategory' => SubcategoryResource::make($subcategory),
+                    'sets' => $paginator->getUrlRange($paginator->currentPage(), $paginator->lastPage()),
                 ],
             ]);
     }
