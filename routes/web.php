@@ -13,6 +13,4 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::redirect('/', 'https://www.youtube.com/watch?v=dQw4w9WgXcQ');
